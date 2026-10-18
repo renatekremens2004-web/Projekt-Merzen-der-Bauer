@@ -1,0 +1,42 @@
+{
+  "Steine_und_Vorurteile.png": {
+    "scenario": "gc-7-final4",
+    "frame": 643,
+    "message_id": "3014",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "613afc60ef2dc6ac79b056ef2626c9fa1f0bc059da77e511a156bc5ce927ec05",
+    "unedited": true
+  },
+  "Kernenergie.png": {
+    "scenario": "gc-10-atom-final4",
+    "frame": 631,
+    "message_id": "300E",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "b022fe47c8791c8ec599ca2c9761c1fa3b99fc698338ab34477d2263ecb54aa6",
+    "unedited": true
+  },
+  "Navi_nach_Dodongo.png": {
+    "scenario": "navi-after-goronen4",
+    "frame": 1005,
+    "message_id": "0135",
+    "source_screenshot": "the_legend_of_zelda-008.png",
+    "sha256": "272f20aacb5458d992d5b99faa9aa64aea8fc079b9cab7f7363e8f8e1fe68e76",
+    "unedited": true
+  },
+  "Boris_Testament.png": {
+    "scenario": "boris-prox-final4",
+    "frame": 983,
+    "message_id": "5018",
+    "source_screenshot": "the_legend_of_zelda-010.png",
+    "sha256": "992dc3d6312486338eb76f53ed082f5c593f33e834030649a8c6e80198bd0764",
+    "unedited": true
+  },
+  "Darunia_Warnruf.png": {
+    "scenario": "ruby-native-final4",
+    "message_id": "3006",
+    "source_screenshot": "the_legend_of_zelda-050.png",
+    "sha256": "4789175d504463467b68ddaf633cc4afb80386056af0fca116cd6ca8a13243a5",
+    "unedited": true,
+    "original_fade_frames": 30
+  }
+}

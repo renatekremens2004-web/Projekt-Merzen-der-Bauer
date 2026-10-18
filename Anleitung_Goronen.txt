@@ -1,0 +1,7 @@
+Goronen und Kakariko – deutsche PAL 1.0
+
+Diesen BPS-Patch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine bereits gepatchte ROM anwenden.
+Vanilla-MD5: e040de91a74b61e3201db0e2323f768a
+Normale Spielstände weiterverwenden; alte Emulator-Save-States enthalten alte Texte.
+
+84 zusätzliche Nachrichten und 3 bestehende Navi-Kommentare bearbeitet. Alle ursprünglichen Text- und Szenenzeiten bleiben erhalten. Bean-Modell und Kameras entsprechen der vorherigen Fassung. Keine vollständige ROM in den Downloads.

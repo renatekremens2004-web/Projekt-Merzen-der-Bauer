@@ -1,37 +1,39 @@
-# Merzen der Bauer: Dialoge und Beans Rückblende
+# Merzen der Bauer: Goronen und Kakariko
 
-**[Aktuellen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Dialoge_Reiter.bps?raw=true)** · **[Fünf echte Ingame-Dialogbilder als ZIP](Dialogbeispiele_Ingame.zip?raw=true)** · [Quellen, Patch und Bilder](Merzen_Dialoge_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Goronen_Kakariko.bps?raw=true)** · **[Fünf neue Ingame-Bilder als ZIP](Goronen_Kakariko_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Bilder](Merzen_Goronen_Quellen_Patch_Bilder.zip?raw=true)
 
-Den BPS-Patch mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Nicht auf die vorherige Mod anwenden. Normale Spielstände weiterverwenden; ältere Emulator-Save-States enthalten noch alte Texte und Modelle. Es wird keine vollständige ROM veröffentlicht.
+84 zusätzliche Nachrichten und drei bestehende Navi-Kommentare bearbeitet, insgesamt 349 Nachrichten. Alte Rechtschreibung. Alle ursprünglichen Lese- und Szenenzeiten bleiben erhalten; Darunias Pointen wurden an die vorhandenen kurzen Textfenster angepaßt. Navis neuer Mund-Rückblick kommt erst nach erhaltenem Goronen-Opal.
 
-83 neue beziehungsweise überarbeitete Nachrichten, alte Rechtschreibung, eine gezielte Korrektur von Beans Hosenübergängen in der schwarzweißen Rückblende und eine neue Kamera beim Wiegenlied. Thaddäus bleibt vorerst ein Gerücht; Rutos Modelle bleiben erhalten.
+Den BPS-Patch mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Nicht auf eine vorherige Mod anwenden. Normale Spielstände weiterverwenden; ältere Emulator-Save-States enthalten alte Daten. Es wird keine vollständige ROM veröffentlicht.
+
+## Bean-Szenen zum Prüfen
+
+[Reit-Rückblende](Bean_Korrekturen/Reit_Rueckblende.png) · [Wiegenlied](Bean_Korrekturen/Wiegenlied.png) · [Halle der Weisen](Bean_Korrekturen/Halle_ohne_Clippingfehler.png)
+
+Bean-Modell und Kameras bleiben in dieser Dialogrevision erhalten. Die schwarzen Dreiecke in früheren Hallen-Aufnahmen wurden separat auf Software-Clipping des verwendeten GLideN64-/Mesa-Aufbaus zurückgeführt. Die dortige Emulator-Einstellung `EnableClipping=False` ist kein Bestandteil des ROM-Patches.
 
 ## Ausgewählte Ingame-Dialoge
 
-### Im Maskenladen
+### Ein Gorone über seine Ernährung
 
-![Maskenhändler](Dialogbeispiele/Maskenhaendler.png)
+![Gorone](Goronen_Dialogbeispiele/Steine_und_Vorurteile.png)
 
-### Navi im Deku-Baum, über C-oben
+### Die Energiefrage
 
-![Navi im Deku-Baum](Dialogbeispiele/Navi_Dekubaum.png)
+![Kernenergie](Goronen_Dialogbeispiele/Kernenergie.png)
 
-### Die Bowling-Studentin
+### Navi nach Dodongos Höhle
 
-![Bowling-Studentin](Dialogbeispiele/Bowling_Studentin.png)
+![Navi](Goronen_Dialogbeispiele/Navi_nach_Dodongo.png)
 
-### Talon auf der Farm
+### Boris und sein Vermächtnis
 
-![Talon](Dialogbeispiele/Talon_Farmpolitik.png)
+![Boris](Goronen_Dialogbeispiele/Boris_Testament.png)
 
-### Ein Stadtbewohner über Mido
+### Vorsicht mit dem kleinen Helden
 
-![Stadtbewohner](Dialogbeispiele/Mido.png)
+![Warnruf in der Abschlußszene](Goronen_Dialogbeispiele/Darunia_Warnruf.png)
 
-## Bean und die schwarzen Flächen
+Die Bilder sind unveränderte Emulatoraufnahmen mit dokumentierten Teststarts. Quellenprüfung und bytegenauer Roundtrip in RomPatcher.js sowie gezielte 4-MB-Dialogprüfungen sind abgeschlossen. Kein vollständiger Spieldurchlauf oder Hardware-Test. Details im Quellenarchiv unter `TESTING_GORONEN.md`. [Prüfsummen](SHA256SUMS_Goronen.txt).
 
-[Neue Wiegenlied-Kamera](Bean_Korrekturen/Wiegenlied.png) · [Reit-Rückblende](Bean_Korrekturen/Reit_Rueckblende.png) · [Halle ohne Clipping-Dreiecke](Bean_Korrekturen/Halle_ohne_Clippingfehler.png)
-
-Die schwarzen Dreiecke in den Hallen-Aufnahmen entstehen durch Software-Clipping des hier verwendeten GLideN64-/Mesa-Aufbaus. Dieselbe ROM und Kamera werden mit ausgeschaltetem `EnableClipping` korrekt dargestellt. Diese Emulator-Einstellung ist nicht im ROM-Patch gespeichert. Der beim Wiegenlied sichtbare leere Hofrand wurde zusätzlich durch einen anderen Kamerablick verkleinert.
-
-Der Patch wurde mit RomPatcher.js samt Quellvalidierung bytegenau geprüft. Gezielte Szenenprüfungen mit 4 MB sowie die Rückblende mit 8 MB sind dokumentiert; kein vollständiger Spieldurchlauf oder Hardware-Test. Details stehen im Quellenarchiv unter `TESTING_DIALOGE.md`. [Prüfsummen](SHA256SUMS_Dialoge.txt).
+[Vorherige Stadt-Dialogbeispiele](Dialogbeispiele/) bleiben verfügbar.
