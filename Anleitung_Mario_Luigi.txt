@@ -1,0 +1,7 @@
+Mario und Luigi auf der Lon Lon-Farm – deutsche PAL 1.0
+
+Diesen BPS-Patch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine schon gepatchte ROM anwenden.
+Vanilla-MD5: e040de91a74b61e3201db0e2323f768a
+Normale Spielstände weiterverwenden; alte Emulator-Save-States enthalten alte Texte.
+
+75 Farmnachrichten und Verweise neu gefaßt, insgesamt 412 deutsche Nachrichten. Talon ist Mario, Basil ist Luigi. Hauptsächlich Deutsch mit typischen Mario-/Luigi-Ausrufen. Luigi deutet alles begeistert positiv um. Rennregeln, Preise, feste Szenenzeiten und Bean-Modell unverändert. Keine vollständige ROM in den Downloads.

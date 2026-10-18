@@ -1,0 +1,42 @@
+{
+  "Mario_Mamma_mia.png": {
+    "scenario": "mario-farm4",
+    "frame": 355,
+    "message_id": "207E",
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "56acde7284140c02277bafce8a66c2b8a9e7e21760ca536c6a4d67ad21933081",
+    "unedited": true
+  },
+  "Mario_Super_Huehner.png": {
+    "scenario": "mario-farm4",
+    "frame": 1482,
+    "message_id": "2080",
+    "source_screenshot": "the_legend_of_zelda-022.png",
+    "sha256": "118d727cbf7bc7197f0ae4648d581c1ccf3f1ad8edc99de6133f94fe0b361e75",
+    "unedited": true
+  },
+  "Luigi_Urlaubsvertretung.png": {
+    "scenario": "luigi-rental-prox4",
+    "frame": 529,
+    "message_id": "2030",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "sha256": "de70e6856e7a730882765b9345d93209d6461652d77dbb12e173a4f6261b4c3e",
+    "unedited": true
+  },
+  "Luigi_Siegerjubel.png": {
+    "scenario": "luigi-win-safe-prox4",
+    "frame": 378,
+    "message_id": "203A",
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "3abce3067ee6330bac224e67f94ca57faa71143edc88bb83ea89e60e5fefd3bd",
+    "unedited": true
+  },
+  "Luigi_Epona_Tor.png": {
+    "scenario": "luigi-gate-epona4",
+    "frame": 911,
+    "message_id": "203C",
+    "source_screenshot": "the_legend_of_zelda-012.png",
+    "sha256": "696a24545675d1fdcd54f33209426788488c99e2b6e63d8fd86f3fba529f7f74",
+    "unedited": true
+  }
+}

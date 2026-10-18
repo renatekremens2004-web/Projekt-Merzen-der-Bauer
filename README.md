@@ -1,3 +1,25 @@
+# Merzen der Bauer: Mario und Luigi
+
+**[Neuen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Mario_Luigi.bps?raw=true)** · **[Fünf Ingame-Bilder als ZIP](Mario_Luigi_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Bilder](Merzen_Mario_Luigi_Quellen_Patch_Bilder.zip?raw=true)
+
+Talon ist jetzt Mario, Basil ist Luigi. Hauptsächlich Deutsch mit „Mamma mia!“, „Wahoo!“, „Luigi-Time!“ und „Let's-a go!“. Luigi deutet selbst seine Niederlage und das zugesperrte Tor begeistert positiv. 75 Farmnachrichten und Verweise neu gefaßt, insgesamt 412 deutsche Nachrichten. Alte Rechtschreibung; feste Lese- und Szenenzeiten sowie Rennregeln bleiben erhalten. Die vorhandenen Figurenmodelle bleiben bestehen.
+
+Den Patch direkt auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine ältere Mod anwenden. Normale Spielstände verwenden; alte Emulator-Save-States enthalten alte Texte. Keine vollständige ROM enthalten.
+
+Build, Textpuffer und RomPatcher.js-Rundlauf geprüft. Gezielte Emulator-Szenen mit 4 MB RAM: Mario-Spielerklärung, Luigi-Reitangebot und native Sieg-/Torzustände. Die Siegbilder verwenden vorbereitete Spielstände im Testbuild; kein vollständiger Renn- oder Spieldurchlauf und keine echte N64-Hardware geprüft. Bedingungen und maschinelle Berichte liegen im Quellenarchiv.
+
+## Ausgewählte neue Ingame-Bilder
+
+![Mario](Mario_Luigi_Dialogbeispiele/Mario_Mamma_mia.png)
+
+![Luigi nach dem Rennen](Mario_Luigi_Dialogbeispiele/Luigi_Siegerjubel.png)
+
+![Luigis Tor-Ausrede](Mario_Luigi_Dialogbeispiele/Luigi_Epona_Tor.png)
+
+## Frühere Downloads und Bean-Bilder
+
+Die früheren Dateien bleiben erhalten. Die aktuelle Fassung enthält auch die bisherigen Bean-, Stadt-, Goronen- und Kakariko-Änderungen.
+
 # Merzen der Bauer: Goronen und Kakariko
 
 **[Aktuellen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Goronen_Kakariko.bps?raw=true)** · **[Fünf neue Ingame-Bilder als ZIP](Goronen_Kakariko_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Bilder](Merzen_Goronen_Quellen_Patch_Bilder.zip?raw=true)
