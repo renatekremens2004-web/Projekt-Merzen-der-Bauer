@@ -1,0 +1,155 @@
+{
+  "Haendler_Original_Clipping_aus.png": {
+    "scenario": "audit-beans-walk-native",
+    "frame": 400,
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "sha256": "e3cf20ea09fca3cfa8ac7f53aa719e1450022ee6df394f56dc44f0ff8ec3f8db",
+    "unedited": true,
+    "software_clipping": false,
+    "rom": "original",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged",
+    "merchant_at_native_location": true
+  },
+  "Haendler_Original_Clipping_an.png": {
+    "scenario": "audit-beans-walk-native-clip-on",
+    "frame": 400,
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "sha256": "471a63133dbe6d3609e0e9b72f4ddb00cbfb731e3ad662d9f2b30c65122436f0",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "original",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged",
+    "merchant_at_native_location": true
+  },
+  "Haendler_Patch_Clipping_an.png": {
+    "scenario": "audit-beans-walk-patch-clip-on",
+    "frame": 446,
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "sha256": "29db7f062bac5bcd7239bbdd3b1bf687e4cee06ed9fa7bb409306d632d85264d",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged",
+    "merchant_at_native_location": true
+  },
+  "Halle_Patch_Clipping_aus.png": {
+    "scenario": "audit-sage-direct-patch-clip-off",
+    "frame": 700,
+    "source_screenshot": "the_legend_of_zelda-010.png",
+    "sha256": "59fdb72f9c771edccc68924120d558dfbb7317ebec3a6a86025abd434e137fcd",
+    "unedited": true,
+    "software_clipping": false,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Halle_Patch_Clipping_an.png": {
+    "scenario": "audit-sage-patch-clip-on",
+    "frame": 700,
+    "source_screenshot": "the_legend_of_zelda-010.png",
+    "sha256": "045e6b722bcc289761576ca036f8768dcc861dd29b93972b84b894ca1fcd15a3",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Halle_Original_Clipping_an.png": {
+    "scenario": "audit-sage-native-clip-on",
+    "frame": 700,
+    "source_screenshot": "the_legend_of_zelda-007.png",
+    "sha256": "0fd45107454025b22be440aa5fe556a14c04d94b6aa25111f78ae9bf7abbd33f",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "original",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Bowling_Original.png": {
+    "scenario": "audit-bowling-native-clip-on",
+    "frame": 451,
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "339901074fab916e800ddb6b7939740f73b2ff966a6343518a2a8bc7ff24c07e",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "original",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Bowling_Patch.png": {
+    "scenario": "audit-bowling-patch-clip-on",
+    "frame": 549,
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "0d0667bd9d9b65d80c4652f1e7170951af61c6aed1b97976e87e9572cd085d89",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Wiegenlied_Original.png": {
+    "scenario": "audit-lesson-fresh-nomove-direct-native-clip-on",
+    "frame": 300,
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "0d0669980740f16617fcb83127fcd18d051b2c67c4791f5b7e468f24a7f3cff5",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "original",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Wiegenlied_Patch.png": {
+    "scenario": "audit-lesson-fresh-nomove-direct-patch-clip-on",
+    "frame": 300,
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "a7810a4e0256434f503f7e0c1d42020d8dc4cb0f1115443d08090f38851acb90",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Wiegenlied_Patch_Noten.png": {
+    "scenario": "audit-lesson-fresh-nomove-direct-patch-clip-on",
+    "frame": 800,
+    "source_screenshot": "the_legend_of_zelda-012.png",
+    "sha256": "401b2a3011b4cb4e17e96c9fc0cc620d26cfb67912abaf74a38f8fe3ad673689",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Wiegenlied_Original_Hofrand.png": {
+    "scenario": "audit-lesson-fresh-nomove-direct-native-clip-on",
+    "frame": 1800,
+    "source_screenshot": "the_legend_of_zelda-023.png",
+    "sha256": "656d089a2aeb8ed21eff6ce0bbc4ec940968c5bab065f53b59d924eca974c3e1",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "original",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Wiegenlied_Patch_Hofrand.png": {
+    "scenario": "audit-lesson-fresh-nomove-direct-patch-clip-on",
+    "frame": 1600,
+    "source_screenshot": "the_legend_of_zelda-021.png",
+    "sha256": "a89b7322ba1efb0d24f4fbe2515ba15bb1f6cd210f239eab78e3f7f9638fb284",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Navi_Original.png": {
+    "scenario": "audit-navi-direct-native-clip-on",
+    "frame": 661,
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "83df03654c93dae5f6a2dbb1907ce3df92c77712df17fe96af82bd510351d75a",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "original",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  },
+  "Navi_Patch.png": {
+    "scenario": "audit-navi-direct-patch-clip-on",
+    "frame": 918,
+    "source_screenshot": "the_legend_of_zelda-009.png",
+    "sha256": "62a7cc5c4597436ac448d5cbc963821eeb05a5cb2df062971974f2635c4e9ca3",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged"
+  }
+}

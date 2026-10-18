@@ -5,4 +5,4 @@ Vanilla-MD5: e040de91a74b61e3201db0e2323f768a
 
 Normale Spielstände weiterverwenden; ältere Emulator-Save-States enthalten alte Texte/Objekte. Keine vollständige ROM im Download.
 
-Schwarze Dreiecke in den Hallen-Aufnahmen: GLideN64-Software-Clipping war in diesem Cloud-Aufbau fehlerhaft. Die Gegenprobe ist dokumentiert; bei demselben lokalen Fehler EnableClipping ausschalten. Diese Emulator-Einstellung ist kein Bestandteil des ROM-Patches.
+Aktualisierung 19.10.2026: Die frühere Empfehlung zum Abschalten von GLideN64-Software-Clipping war falsch. Der aktuelle Originalvergleich belegt fehlende Wandflächen bei ausgeschaltetem Clipping. Für den geprüften Cloud-Aufbau EnableClipping=True verwenden, Emulator neu starten. Siehe Grafikpruefung_2026-10-19. Keine Änderung am ROM-Patch.

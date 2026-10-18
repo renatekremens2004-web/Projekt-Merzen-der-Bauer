@@ -40,12 +40,16 @@
     "unedited": true
   },
   "Wundererbsen_Scalper.png": {
-    "scenario": "beans-prox-final4",
-    "frame": 465,
-    "message_id": "405E",
+    "scenario": "audit-beans-walk-patch-clip-on",
+    "frame": 446,
     "source_screenshot": "the_legend_of_zelda-002.png",
-    "sha256": "09b9b8748d72e55f8abcb52888cccb547b84e66f38077df0f2c3594cf8e2d382",
-    "unedited": true
+    "sha256": "29db7f062bac5bcd7239bbdd3b1bf687e4cee06ed9fa7bb409306d632d85264d",
+    "unedited": true,
+    "software_clipping": true,
+    "rom": "patch",
+    "test_start": "save context injected in emulator RAM; ROM file unchanged",
+    "merchant_at_native_location": true,
+    "message_id": "405E"
   },
   "Navi_Gegner_Roast.png": {
     "scenario": "enemy-roast-prox4",

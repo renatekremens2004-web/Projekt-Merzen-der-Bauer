@@ -10,6 +10,12 @@ Den Patch direkt mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [R
 
 Build, Textpuffer, native Steuerzeichen, alle 1509 gepackten Segmente und RomPatcher.js-Rundlauf geprüft. Gezielte 4-MB-Szenarien für König, Navi vor/nach dem Saphir, Barinade samt Kampffreigabe, Erbsenkauf, Karten-Gegenprüfung und Z-Target/C-Up-Roast bestanden. Teststart und Positionierung sind Hilfen, die Kartenprüfung ruft den Nachrichteneinstieg direkt auf. Kein vollständiger Dungeon-/Spieldurchlauf und keine echte N64-Hardware geprüft. Details im Quellenarchiv: TESTING_ZORAS_JABU.md.
 
+## Grafikprüfung vom 19.10.2026
+
+[15 Vergleichsbilder und Bericht](Grafikpruefung_2026-10-19/) · **[Bilder als ZIP](Grafikpruefung_2026-10-19.zip?raw=true)**
+
+Fehlende Wandflächen beim Händler und in der Halle kamen im geprüften Cloud-Aufbau von abgeschaltetem GLideN64-Software-Clipping. Mit `EnableClipping=True` werden sie bei gleicher Kamera gezeichnet. Die frühere gegenteilige Empfehlung war falsch. Bowling-Hintergrund, Navis Abdunklung und offene Hofränder wurden auch im Original geprüft. Das aktuelle Händler-Beispielbild ist ersetzt; der BPS ist unverändert.
+
 ## Ausgewählte Ingame-Bilder
 
 ![Der Klimaanlagen-Deal](Zoras_Jabu_Dialogbeispiele/Koenig_Klimaanlagen.png)
@@ -82,7 +88,7 @@ Den BPS-Patch mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomP
 
 [Reit-Rückblende](Bean_Korrekturen/Reit_Rueckblende.png) · [Wiegenlied](Bean_Korrekturen/Wiegenlied.png) · [Halle der Weisen](Bean_Korrekturen/Halle_ohne_Clippingfehler.png)
 
-Bean-Modell und Kameras bleiben in dieser Dialogrevision erhalten. Die schwarzen Dreiecke in früheren Hallen-Aufnahmen wurden separat auf Software-Clipping des verwendeten GLideN64-/Mesa-Aufbaus zurückgeführt. Die dortige Emulator-Einstellung `EnableClipping=False` ist kein Bestandteil des ROM-Patches.
+Bean-Modell und Kameras bleiben in dieser Dialogrevision erhalten. Die schwarzen Dreiecke in früheren Hallen-Aufnahmen wurden separat auf Software-Clipping des verwendeten GLideN64-/Mesa-Aufbaus zurückgeführt. Die frühere Empfehlung `EnableClipping=False` ist überholt. Aktuell gilt im geprüften Cloud-Aufbau `EnableClipping=True`; siehe Grafikprüfung oben. Diese Einstellung ist kein Bestandteil des ROM-Patches.
 
 ## Ausgewählte Ingame-Dialoge
 

@@ -5,3 +5,5 @@ Vanilla-MD5: e040de91a74b61e3201db0e2323f768a
 Normale Spielstände weiterverwenden; alte Emulator-Save-States enthalten alte Daten.
 
 59 Zora-/Jabu-Nachrichten und 93 Navi-Zieltexte bearbeitet, insgesamt 564 deutsche Nachrichten. Barinade hat eine neue Begrüßungsbox vor dem Kampf. Ruto bleibt nach dem Saphir-Erhalt dem Thronsaal fern. Karte und Laubkerl-Sondertext gelten nur in Jabu-Jabu. Die native Wundererbsen-Preisleiter und feste bestehende Textzeiten bleiben erhalten. Navi wartet auf ihre regulären C-Up-Gelegenheiten; der Nachspiel-Kommentar gilt nach Saphir-Erhalt und vor Zeldas Flucht. Alle bisherigen Modell- und Dialogänderungen sind enthalten. Keine vollständige ROM in den Downloads.
+
+Grafikprüfung 19.10.2026: Im geprüften Cloud-Aufbau GLideN64 EnableClipping=True und EnableCustomSettings=False. Die frühere Empfehlung zum Abschalten ist überholt. Der Händler-Screenshot ist am normalen Standort neu aufgenommen; der BPS bleibt unverändert. Vergleichsbilder: Grafikpruefung_2026-10-19.zip.
