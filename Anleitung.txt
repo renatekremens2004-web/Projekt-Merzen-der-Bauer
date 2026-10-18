@@ -1,0 +1,9 @@
+Mr. Burns / Mr. Bean – Proportionskorrektur, deutsche PAL 1.0
+
+1. Deine unveränderte Europa-ROM als .z64 entpacken.
+   MD5: e040de91a74b61e3201db0e2323f768a
+2. https://www.marcrobledo.com/RomPatcher.js/ öffnen.
+3. Original-ROM und Mr_Burns_Mr_Bean_DE_PAL10_Proportionen.bps auswählen.
+4. Die erzeugte ROM im Emulator öffnen; normale PAL-Speicherstände bleiben verwendbar. Alte Emulator-Save-States können noch alte Modelldaten enthalten.
+
+Die ZIP mit Quellen, Patch und Bildern enthält keine vollständige ROM und keine Git-Historie.
