@@ -1,0 +1,58 @@
+{
+  "Koenig_Klimaanlagen.png": {
+    "scenario": "king-pre-throne4",
+    "frame": 518,
+    "message_id": "401A",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "sha256": "1e318f428b4a97fbd09e9909324f5f08f226e29c3f0be580d92dafff062a3801",
+    "unedited": true
+  },
+  "Koenig_wartet_auf_Ruto.png": {
+    "scenario": "king-post-hidden4",
+    "frame": 504,
+    "message_id": "402B",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "sha256": "9918f73a7ca5695e5d76f2ef1b03c73b55048a4b7f87f0022e9d561f7b5e5212",
+    "unedited": true
+  },
+  "Barinade_Begruessung.png": {
+    "scenario": "barinade-greeting-camera4",
+    "frame": 871,
+    "message_id": "013C",
+    "source_screenshot": "the_legend_of_zelda-006.png",
+    "sha256": "753af179a41455e500a2730b0ee810fd3b9bf8eb70e876397c3a1d95be1ef7fe",
+    "unedited": true
+  },
+  "Navi_Flaschenpost.png": {
+    "scenario": "navi-letter-final4",
+    "frame": 995,
+    "message_id": "014A",
+    "source_screenshot": "the_legend_of_zelda-007.png",
+    "sha256": "ebb290cc9f50f7a0f7117f7db4f2ec60b216a918db670e7311129452f8dec26b",
+    "unedited": true
+  },
+  "Navi_nach_Jabu.png": {
+    "scenario": "navi-after-fountain4",
+    "frame": 1278,
+    "message_id": "013F",
+    "source_screenshot": "the_legend_of_zelda-012.png",
+    "sha256": "e7fddc6407d4a21f246830734ac2fecc7f74856db756b120eb7d7ef76f836b9c",
+    "unedited": true
+  },
+  "Wundererbsen_Scalper.png": {
+    "scenario": "beans-prox-final4",
+    "frame": 465,
+    "message_id": "405E",
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "sha256": "09b9b8748d72e55f8abcb52888cccb547b84e66f38077df0f2c3594cf8e2d382",
+    "unedited": true
+  },
+  "Navi_Gegner_Roast.png": {
+    "scenario": "enemy-roast-prox4",
+    "frame": 949,
+    "message_id": "061F",
+    "source_screenshot": "the_legend_of_zelda-010.png",
+    "sha256": "1f533ddbad968991cfc1700f0ea7f7c9e301bb00266d2022a2a816904f08d815",
+    "unedited": true
+  }
+}

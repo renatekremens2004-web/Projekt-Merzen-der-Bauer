@@ -1,3 +1,29 @@
+# Merzen der Bauer: Zoras, Jabu-Jabu und Navi-Roasts
+
+**[Aktuellen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zoras_Jabu_Navi.bps?raw=true)** · **[Sieben neue Ingame-Bilder als ZIP](Zoras_Jabu_Navi_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfberichte](Merzen_Zoras_Jabu_Quellen_Patch_Bilder.zip?raw=true)
+
+König Zora hat Merz den Saphir für Klimaanlagen versprochen. Ruto versteckt sich im Wal und verschwindet nach der Übergabe tatsächlich aus dem Thronsaal. Neue Flaschenpost, Rockmusik und Zora-Selbstfindung, Erbsen-Scalper, Navi-Reaktionen und Jabu-spezifische Händler-/Kartenmeldung. Barinade begrüßt den Spieler vor dem Kampf mit einer neuen, frei weiterklickbaren Box. Dazu alle 93 Navi-Zieltextplätze als individuelle Roasts. Insgesamt 564 deutsche Nachrichten in alter Rechtschreibung.
+
+Der Nachspiel-Kommentar von Navi benötigt den erhaltenen Saphir und gilt vor Zeldas Flucht. Ihre normale C-Up-Verfügbarkeit und Abklingzeit bleiben erhalten. Bestehende feste Textzeiten, Preise, Gegenstände, Dungeon-Ereignisse und Kampfphasen bleiben erhalten; nur die neue Barinade-Box hält den Intro-Abschluß bis zum Weiterklicken an. Bean- und Thaddäus-Modelldaten sind unverändert. Alle früheren Änderungen sind enthalten.
+
+Den Patch direkt mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine vorherige Mod anwenden. Normale Spielstände verwenden; alte Emulator-Save-States enthalten alte Daten. Keine vollständige ROM enthalten.
+
+Build, Textpuffer, native Steuerzeichen, alle 1509 gepackten Segmente und RomPatcher.js-Rundlauf geprüft. Gezielte 4-MB-Szenarien für König, Navi vor/nach dem Saphir, Barinade samt Kampffreigabe, Erbsenkauf, Karten-Gegenprüfung und Z-Target/C-Up-Roast bestanden. Teststart und Positionierung sind Hilfen, die Kartenprüfung ruft den Nachrichteneinstieg direkt auf. Kein vollständiger Dungeon-/Spieldurchlauf und keine echte N64-Hardware geprüft. Details im Quellenarchiv: TESTING_ZORAS_JABU.md.
+
+## Ausgewählte Ingame-Bilder
+
+![Der Klimaanlagen-Deal](Zoras_Jabu_Dialogbeispiele/Koenig_Klimaanlagen.png)
+
+![Barinade begrüßt den Spieler](Zoras_Jabu_Dialogbeispiele/Barinade_Begruessung.png)
+
+![Navi reagiert auf Rutos Flaschenpost](Zoras_Jabu_Dialogbeispiele/Navi_Flaschenpost.png)
+
+![Ein Gegner-Roast](Zoras_Jabu_Dialogbeispiele/Navi_Gegner_Roast.png)
+
+## Frühere Downloads
+
+Die bisherigen Dateien bleiben erhalten.
+
 # Merzen der Bauer: Thaddäus beim Tauchspiel
 
 **[Neuen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Thaddaeus.bps?raw=true)** · **[Fünf Ingame-Bilder als ZIP](Thaddaeus_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Bilder](Merzen_Thaddaeus_Quellen_Patch_Bilder.zip?raw=true)

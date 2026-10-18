@@ -1,0 +1,7 @@
+Zoras, Jabu-Jabu und Navi-Roasts – deutsche PAL 1.0
+
+Diesen BPS-Patch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine schon gepatchte ROM anwenden.
+Vanilla-MD5: e040de91a74b61e3201db0e2323f768a
+Normale Spielstände weiterverwenden; alte Emulator-Save-States enthalten alte Daten.
+
+59 Zora-/Jabu-Nachrichten und 93 Navi-Zieltexte bearbeitet, insgesamt 564 deutsche Nachrichten. Barinade hat eine neue Begrüßungsbox vor dem Kampf. Ruto bleibt nach dem Saphir-Erhalt dem Thronsaal fern. Karte und Laubkerl-Sondertext gelten nur in Jabu-Jabu. Die native Wundererbsen-Preisleiter und feste bestehende Textzeiten bleiben erhalten. Navi wartet auf ihre regulären C-Up-Gelegenheiten; der Nachspiel-Kommentar gilt nach Saphir-Erhalt und vor Zeldas Flucht. Alle bisherigen Modell- und Dialogänderungen sind enthalten. Keine vollständige ROM in den Downloads.
