@@ -1,0 +1,8 @@
+Merzen der Bauer – Dialoge und Bean-Rückblende
+
+Den neuen BPS-Patch direkt auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden (RomPatcher.js). Nicht auf eine bereits gepatchte ROM anwenden.
+Vanilla-MD5: e040de91a74b61e3201db0e2323f768a
+
+Normale Spielstände weiterverwenden; ältere Emulator-Save-States enthalten alte Texte/Objekte. Keine vollständige ROM im Download.
+
+Schwarze Dreiecke in den Hallen-Aufnahmen: GLideN64-Software-Clipping war in diesem Cloud-Aufbau fehlerhaft. Die Gegenprobe ist dokumentiert; bei demselben lokalen Fehler EnableClipping ausschalten. Diese Emulator-Einstellung ist kein Bestandteil des ROM-Patches.

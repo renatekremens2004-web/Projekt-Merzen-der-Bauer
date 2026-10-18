@@ -1,0 +1,47 @@
+{
+  "Mido.png": {
+    "scenario": "market-10-beispiele4",
+    "frame": 438,
+    "message_id": "701F",
+    "decoded_position": 116,
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "sha256": "9424bbfd71b182772802deb8df1ee8c7ca80b8b755a6c0b633802c20efa41cce",
+    "unedited": true
+  },
+  "Maskenhaendler.png": {
+    "scenario": "mask-beispiele4",
+    "frame": 677,
+    "message_id": "70A1",
+    "decoded_position": 271,
+    "source_screenshot": "the_legend_of_zelda-006.png",
+    "sha256": "5d616565ce238fd774ee1fd2cf99d9a2171e587ffef50062890e942264ab3e75",
+    "unedited": true
+  },
+  "Navi_Dekubaum.png": {
+    "scenario": "navi-beispiele4",
+    "frame": 1104,
+    "message_id": "0134",
+    "decoded_position": 60,
+    "source_screenshot": "the_legend_of_zelda-009.png",
+    "sha256": "3ad44a2c6849ecbe53e63723b2e48f298756e498c80525df905c27ac07a2081c",
+    "unedited": true
+  },
+  "Bowling_Studentin.png": {
+    "scenario": "bowling-beispiele4",
+    "frame": 589,
+    "message_id": "00BF",
+    "decoded_position": 106,
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "24d86d9b2744a27c15b6918785cf4f7529ee9b46fc8acedc14b35ff835db9847",
+    "unedited": true
+  },
+  "Talon_Farmpolitik.png": {
+    "scenario": "talon-dialogue4",
+    "frame": 803,
+    "message_id": "207E",
+    "decoded_position": 302,
+    "source_screenshot": "the_legend_of_zelda-010.png",
+    "sha256": "3b08f33a6d05cbae2e7222fee852b86111d6f5321e5f0d128bd5f8872b022203",
+    "unedited": true
+  }
+}
