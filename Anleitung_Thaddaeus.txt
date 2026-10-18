@@ -1,0 +1,7 @@
+Thaddäus beim Tauchspiel – deutsche PAL 1.0
+
+BPS-Patch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine schon gepatchte ROM anwenden.
+Vanilla-MD5: e040de91a74b61e3201db0e2323f768a
+Normale Spielstände weiterverwenden; alte Emulator-Save-States enthalten alte Texte und Modelldaten.
+
+Nur der Tauchspiel-Leiter ist Thaddäus. 254 Quelldreiecke, eigenes 27-Gelenk-Skelett, natürliche Originalproportionen mit gleichmäßiger Skalierung und Szenenlicht. Zehn neue Nachrichten; insgesamt 422 deutsche Nachrichten. Feste Szenenzeiten, 20 Rubine Einsatz, 50 Sekunden, fünf beziehungsweise zehn Rubine und die silberne Schuppe bleiben nativ. Die übrigen Zoras und Ruto bleiben erhalten. Bisherige Bean-, Dialog- und Mario-/Luigi-Änderungen sind enthalten. Keine vollständige ROM in den Downloads.

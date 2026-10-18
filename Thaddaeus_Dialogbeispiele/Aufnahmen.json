@@ -1,0 +1,42 @@
+{
+  "Merz_und_die_Kunst.png": {
+    "scenario": "squid-collect-assist-wide4",
+    "frame": 668,
+    "message_id": "4053",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "eefd10f53ace9f133acc12012a977ff7696f05247e459f0473db1ec44d479f89",
+    "unedited": true
+  },
+  "Trauriger_Clown.png": {
+    "scenario": "squid-timeout-wide4",
+    "frame": 2734,
+    "message_id": "0136",
+    "source_screenshot": "the_legend_of_zelda-033.png",
+    "sha256": "8e50ab2516008d38aaad9fdb23388568b67538344dc2fd3b98bb998fb103b28e",
+    "unedited": true
+  },
+  "Silberne_Schuppe.png": {
+    "scenario": "squid-collect-assist-wide4",
+    "frame": 2128,
+    "message_id": "00CD",
+    "source_screenshot": "the_legend_of_zelda-030.png",
+    "sha256": "66d2671283b04833e2358723d13ba5019c7e54b3f903940a17c023f01586f19e",
+    "unedited": true
+  },
+  "Thaddaeus_gewinnt_nicht_gern.png": {
+    "scenario": "squid-repeat-assist-wide-final4",
+    "frame": 1196,
+    "message_id": "405D",
+    "source_screenshot": "the_legend_of_zelda-012.png",
+    "sha256": "cb8591b2cc6522812f8d8450b0b7c8cfd2122fb68fb67b26cceab36e3a9a72aa",
+    "unedited": true
+  },
+  "Thaddaeus_auf_der_Plattform.png": {
+    "scenario": "squid-target4",
+    "frame": 400,
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "80067d762e3a10db3c930f0ed0a92d0dd2ff8fe7f81471c9dc809d41033b6c1d",
+    "unedited": true,
+    "controller_z_target": true
+  }
+}

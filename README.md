@@ -1,3 +1,27 @@
+# Merzen der Bauer: Thaddäus beim Tauchspiel
+
+**[Neuen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Thaddaeus.bps?raw=true)** · **[Fünf Ingame-Bilder als ZIP](Thaddaeus_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Bilder](Merzen_Thaddaeus_Quellen_Patch_Bilder.zip?raw=true)
+
+Der Tauchspiel-Leiter ist jetzt Thaddäus. Verwendet wird die bereitgestellte SuperSponge-Version mit 254 Dreiecken und ihrem eigenen Rig mit 27 Gelenken. Originalproportionen und starre Gewichte bleiben erhalten, alle drei Achsen werden gleichmäßig skaliert. Zehn neue deutsche Nachrichten: Kunstverständnis, Merz als Geizkragen, genervte Kommentare und der „traurige Clown“ bei einer Niederlage. Insgesamt 422 deutsche Nachrichten in alter Rechtschreibung.
+
+20 Rubine Einsatz, 50 Sekunden, fünf beziehungsweise zehn Rubine und die native silberne Schuppe bleiben erhalten. Die anderen Zoras sowie junge und erwachsene Ruto bleiben bestehen. Bean-, Stadt-, Goronen- und Mario-/Luigi-Änderungen sind enthalten.
+
+Den Patch direkt auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine ältere Mod anwenden. Normale Spielstände verwenden; alte Emulator-Save-States enthalten alte Daten. Keine vollständige ROM enthalten.
+
+Build, Textpuffer, alle 1509 gepackten Segmente und RomPatcher.js-Rundlauf geprüft. Mit 4 MB im Emulator geprüft: erster Sieg, native Schuppenvergabe samt Inventar-Upgrade und Questflag, Wiederholung mit zehn Rubinen, normaler Zeitablauf, Absage und Geldmangel. Beim Siegestest werden Rubine an den Spieler gebracht; die nativen Abholfunktionen und Belohnungen laufen anschließend selbst. Dies behauptet keinen manuell ertauchten Sieg. Kein vollständiger Spieldurchlauf und keine echte N64-Hardware geprüft. Einzelheiten im Quellenarchiv: TESTING_THADDAEUS.md.
+
+## Ausgewählte Ingame-Bilder
+
+![Thaddäus auf der Plattform](Thaddaeus_Dialogbeispiele/Thaddaeus_auf_der_Plattform.png)
+
+![Merz und die Kunst](Thaddaeus_Dialogbeispiele/Merz_und_die_Kunst.png)
+
+![Nach einer Niederlage](Thaddaeus_Dialogbeispiele/Trauriger_Clown.png)
+
+## Frühere Downloads
+
+Die früheren Dateien bleiben erhalten.
+
 # Merzen der Bauer: Mario und Luigi
 
 **[Neuen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Mario_Luigi.bps?raw=true)** · **[Fünf Ingame-Bilder als ZIP](Mario_Luigi_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Bilder](Merzen_Mario_Luigi_Quellen_Patch_Bilder.zip?raw=true)
