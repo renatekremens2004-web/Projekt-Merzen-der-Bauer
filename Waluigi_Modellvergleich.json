@@ -96,7 +96,9 @@
     ]
   },
   "native_nabooru": {
-    "all_display_list_triangles": 650,
+    "all_display_list_triangles_including_alternative_heads": 650,
+    "normal_visible_triangles": 524,
+    "open_mouth_visible_triangles": 534,
     "object_bytes": 98784
   },
   "adult_ruto_squidward": {
