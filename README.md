@@ -1,6 +1,18 @@
-# Merzen der Bauer: Wald-Auftakt
+# Merzen der Bauer: Mido in der Zukunft
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wald_Auftakt.bps?raw=true)** · [Vier echte Ingame-Bilder](Wald_Auftakt_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wald_Auftakt.txt) · [Quellen, Patch und Prüfungen](Merzen_Wald_Auftakt_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Mido_Zukunft.bps?raw=true)** · [Zwei echte Ingame-Bilder](Mido_Zukunft_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Mido_Zukunft.txt) · [Quellen und Prüfungen](Merzen_Mido_Zukunft_Quellen_Patch_Bilder.zip?raw=true)
+
+Mido findet den Spieler selbst nach sieben Jahren noch scheiße und hat sich mit König Zora für eine mögliche Siegesfeier nach Friedrich Merz’ Niederlage verabredet. Liedprüfung und Wegfreigabe bleiben unverändert. **698 eigene Nachrichten, alle bisherigen Änderungen enthalten.** [Prüfbericht](Mido_Zukunft_Beispielbilder/Pruefbericht.md).
+
+In [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Native 4-MiB-Gesprächsprobe, Text-/ROM-Prüfungen und RomPatcher.js bestanden. Kein kompletter Dungeon-Durchlauf oder Hardwaretest.
+
+![Midos Siegesfeierplan](Mido_Zukunft_Beispielbilder/Mido_Siegesfeier.png)
+
+## Vorherige Fassung: Wald-Auftakt
+
+**[Vorherigen Wald-Auftakt-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wald_Auftakt.bps?raw=true)** · [Vier echte Ingame-Bilder](Wald_Auftakt_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wald_Auftakt.txt) · [Quellen, Patch und Prüfungen](Merzen_Wald_Auftakt_Quellen_Patch_Bilder.zip?raw=true)
 
 Boris ist erst vorgestern gestorben und behauptet, Rennsport und „Uga Paluga“ hätten ihn schon immer ausgezeichnet. Der entspannte Kokiri kommt seit sieben Jahren nicht auf den toten Deku-Baum klar. Shiek deutet eine alte Freundin an. **695 eigene Nachrichten**, alle bisherigen Änderungen einschließlich Okto am Wasser enthalten. [Prüfbericht](Wald_Auftakt_Beispielbilder/Pruefbericht.md).
 

@@ -1,0 +1,22 @@
+{
+  "Mido_sieben_Jahre.png": {
+    "scenario": "mido-future-v1-direct-clip-on",
+    "frame": 374,
+    "message_id": "1060",
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "8e88134c0d58e947d6a22d7c67dc3f6f5c5b0d779181124abc2c911f8445095d",
+    "sha256": "076df19a63f2d38a3f9cd750814c943d2c5bf31874ba1610fc9bbcc92ab3c998"
+  },
+  "Mido_Siegesfeier.png": {
+    "scenario": "mido-future-v1-direct-clip-on",
+    "frame": 534,
+    "message_id": "1061",
+    "source_screenshot": "the_legend_of_zelda-007.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "8e88134c0d58e947d6a22d7c67dc3f6f5c5b0d779181124abc2c911f8445095d",
+    "sha256": "5c0558ce19ab117791e52a37184bd6743b68ba026167b6456ac20d2e8a26939d"
+  }
+}

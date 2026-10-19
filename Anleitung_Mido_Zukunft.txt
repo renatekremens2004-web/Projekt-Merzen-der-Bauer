@@ -1,0 +1,5 @@
+Mido in der Zukunft – Europa/PAL 1.0, Deutsch
+
+Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden, nicht auf eine vorher gepatchte Mod. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände, keine alten Emulator-Save-States.
+
+Midos Zukunftsdialoge inklusive Siegesfeier mit König Zora. 698 eigene Nachrichten, alle bisherigen Änderungen enthalten. Liedprüfung und Wegfreigabe unverändert. Native Gesprächsprobe, Text-/ROM-/Patchprüfungen bestanden. Kein kompletter Dungeon-Durchlauf oder Hardwaretest.
