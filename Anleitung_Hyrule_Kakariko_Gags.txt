@@ -1,0 +1,7 @@
+Weitere Alltagsgags – deutsche Europa/PAL 1.0
+
+BPS-Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Nicht auf eine bereits gepatchte Mod. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände statt alter Emulator-Save-States verwenden.
+
+Alle sechs neuen Ideen: Milchwerbung und Krabbelminen-Fan bei zwei Zimmerleuten in Kinder-Kakariko, Autobatterien bei Hyrules Nachtwachen, Mr. Tentakel im Basar, König Zoras Eis im Magieladen und Mond-Gag bei der Schloßtorwache. Neun vorher originale Nachrichten ersetzt, insgesamt 635 eigene Texte. Alle bisherigen Änderungen und schnelleres Schreibtempo enthalten, normaler Spielstart.
+
+Sechs native 4-MB-Gespräche, Textpuffer/Kontrollen, ROM-Segmente und RomPatcher.js geprüft. Kein vollständiger Durchlauf oder Hardwaretest. Sechs echte Ingame-Aufnahmen im Bilder-ZIP.

@@ -1,0 +1,62 @@
+{
+  "Milchwerbung_Kakariko.png": {
+    "scenario": "releasegag-milk-focus-direct-clip-on",
+    "frame": 530,
+    "message_id": "506B",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "691db63c5c1ce03ee84436dbda05a524076e17c76f7bfb82b3df27135204f723",
+    "sha256": "4b535c6f0a7416e02c981742a3ab7f6499e447dc921429d7a1a4e36e399f54d6"
+  },
+  "Autobatterien_Hyrule.png": {
+    "scenario": "releasegag-battery-focus-direct-clip-on",
+    "frame": 532,
+    "message_id": "7003",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "691db63c5c1ce03ee84436dbda05a524076e17c76f7bfb82b3df27135204f723",
+    "sha256": "19e722c86bdb7107acf6e366dba3ddb35b8e8c40aa82a060352d1257126d1e8d"
+  },
+  "Krabbelminen_Fan.png": {
+    "scenario": "releasegag-bowling-focus-direct-clip-on",
+    "frame": 584,
+    "message_id": "5078",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "691db63c5c1ce03ee84436dbda05a524076e17c76f7bfb82b3df27135204f723",
+    "sha256": "6238edccf19cc5e80e27282a463b7ed9d81ac80e99f2d8e2fdbba9ae0aec53f4"
+  },
+  "Koenig_Zoras_Eis.png": {
+    "scenario": "releasegag-ice-focus-direct-clip-on",
+    "frame": 541,
+    "message_id": "7120",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "691db63c5c1ce03ee84436dbda05a524076e17c76f7bfb82b3df27135204f723",
+    "sha256": "599e35de64726429de2755d417446327b04ac27dd426030d9d45a329900529a2"
+  },
+  "Mr_Tentakels_Minispiel.png": {
+    "scenario": "releasegag-tentacle-focus-direct-clip-on",
+    "frame": 547,
+    "message_id": "7121",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "691db63c5c1ce03ee84436dbda05a524076e17c76f7bfb82b3df27135204f723",
+    "sha256": "217c66b7dd306f8e019fb0a948ded1dc95a7ce52953e40fabc82bf5aedebedb3"
+  },
+  "Der_Mond_ist_normal.png": {
+    "scenario": "releasegag-moon-focus-direct-clip-on",
+    "frame": 542,
+    "message_id": "7006",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "691db63c5c1ce03ee84436dbda05a524076e17c76f7bfb82b3df27135204f723",
+    "sha256": "aba8742e47c4cd01e59bcc94a0874a9cf1c617194d2eb01f178f92856331389a"
+  }
+}

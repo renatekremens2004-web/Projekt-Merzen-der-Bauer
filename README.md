@@ -1,6 +1,20 @@
-# Merzen der Bauer: mehr Gespräche in Hyrule-Stadt
+# Merzen der Bauer: weitere Alltagsgags in Hyrule und Kakariko
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Hyrule_NPCs.bps?raw=true)** · **[Vier echte Ingame-Beispiele](Hyrule_NPCs_Ingame_Bilder.zip?raw=true)** · [Anleitung](Anleitung_Hyrule_NPCs.txt) · [Quellen, Patch und Prüfnachweise](Merzen_Hyrule_NPCs_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Hyrule_Kakariko_Gags.bps?raw=true)** · [Sechs echte Ingame-Bilder](Hyrule_Kakariko_Gags_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Hyrule_Kakariko_Gags.txt) · [Quellen, Patch und Prüfungen](Merzen_Hyrule_Kakariko_Gags_Quellen_Patch_Bilder.zip?raw=true)
+
+Alle sechs neuen Nutzerideen auf zuvor originale NPC-Gespräche verteilt, einschließlich der vier nachgereichten Ideen. Neun Nachrichtenzustände überarbeitet; alle vorherigen 626 eigenen Texte erhalten, insgesamt **635**. Sämtliche bisherigen Modelle und das schnellere Schreibtempo enthalten; normaler Spielstart. [Belegung und Prüfbericht](Hyrule_Kakariko_Gags_Beispielbilder/Pruefbericht.md).
+
+Auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Sechs gezielte native Gespräche bei 4 MiB, sämtliche Textkontrollen/Puffer, 1509 Segmente und RomPatcher.js geprüft. Kein kompletter Spieldurchlauf oder Hardwaretest.
+
+![Milchwerbung](Hyrule_Kakariko_Gags_Beispielbilder/Milchwerbung_Kakariko.png)
+
+![Der Mond](Hyrule_Kakariko_Gags_Beispielbilder/Der_Mond_ist_normal.png)
+
+## Vorherige Fassung: mehr Gespräche in Hyrule-Stadt
+
+**[Vorherigen Hyrule-NPC-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Hyrule_NPCs.bps?raw=true)** · **[Vier echte Ingame-Beispiele](Hyrule_NPCs_Ingame_Bilder.zip?raw=true)** · [Anleitung](Anleitung_Hyrule_NPCs.txt) · [Quellen, Patch und Prüfnachweise](Merzen_Hyrule_NPCs_Quellen_Patch_Bilder.zip?raw=true)
 
 27 bisher originale Nachrichten bei Stadtbewohnern und in den Seitengassen ersetzt. Dazu den bestehenden Farm-Folgedialog der Frau um den ausdrücklich gewünschten Gesichts-Gag erweitert. Neue Nutzerideen und zusätzliche Überraschungen verteilt, bisherige Nutzertexte erhalten. Insgesamt **626 bearbeitete deutsche Nachrichten**. Alle bisherigen Modelle, Kapitel und das schnellere Schreibtempo enthalten; normaler Spielstart.
 
