@@ -1,3 +1,13 @@
+# Merzen der Bauer: Feuertempel, Wallace und Credits-Sitzpose
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Feuertempel_Wallace.bps?raw=true) · [Neue Credits-MP4](Wallace_Weise_Credits_v3.mp4?raw=true) · [Bilder und Video](Feuertempel_Wallace_Bilder_Video.zip?raw=true) · [Quellen und Prüfungen](Merzen_Feuertempel_Wallace_Quellen_Patch_Bilder.zip?raw=true)
+
+[Eingebaute Dialoge](Feuertempel_Wallace_Dialoge_Aktuell.md) · [Prüfbericht](Feuertempel_Wallace_Beispielbilder/Pruefbericht.md)
+
+Auf die unveränderte entpackte Europa/PAL-1.0-ROM in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Alle bisherigen Änderungen enthalten. Deutsch einstellen; normale Spielstände verwenden.
+
+![Wallace und die neue Sitzpose](Feuertempel_Wallace_Beispielbilder/Credits_Alle_Weisen_Sitzpose.png)
+
 # Merzen der Bauer: Okto und Phantom-Köpfe v2
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Okto_Amthor_v2.bps?raw=true) · [Neue Reveal-MP4](Merz_zu_Amthor_Reveal_v2.mp4?raw=true) · [Bilder und Video](Okto_Amthor_v2_Bilder_Video.zip?raw=true) · [Quellen und Prüfungen](Merzen_Okto_Amthor_v2_Quellen_Patch_Bilder.zip?raw=true)

@@ -1,0 +1,5 @@
+Feuertempel, Wallace und Credits-Sitzpose — Gesamtpatch
+
+BPS in https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-Original-ROM anwenden. Nicht auf eine ältere Mod-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Deutsch einstellen. Normale Spielstände statt alter Emulator-Save-States verwenden. Alle bisherigen Änderungen enthalten.
+
+Wallace im inneren Feuertempel und als Feuerweiser; neuer Käse-/Gromit-Dialog. Orange getragene Feuer-Tunika, Wallace Hammer auch im Pausenmenü, neue Goronen-/Drachenfreund-/Sheik-Texte. Sitzpose der Krabbelminen-Frau mit nach vorn gebeugten Knien und hängenden Unterschenkeln korrigiert. Wallace_Weise_Credits_v3.mp4 zeigt den neuen Sitz im kompletten gemeinsamen Weisenabschnitt (38,82s, ohne Ton). Gezielte Emulator- und Binärprüfungen, kein kompletter Durchlauf.

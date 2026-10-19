@@ -1,0 +1,107 @@
+[
+  {
+    "file": "Wallace_Halle_Begruessung.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-hall-cheese-final-direct-clip-on/the_legend_of_zelda-000.png",
+    "logical_frame": 219,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Laktoseintoleranz.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-hall-cheese-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "logical_frame": 466,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Wensleydale.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-hall-cheese-final-direct-clip-on/the_legend_of_zelda-003.png",
+    "logical_frame": 591,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Forschungsgeld.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-hall-cheese-final-direct-clip-on/the_legend_of_zelda-007.png",
+    "logical_frame": 1106,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Feueramulett.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-hall-cheese-final-direct-clip-on/the_legend_of_zelda-010.png",
+    "logical_frame": 1840,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Gromit.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-hall-cheese-final-direct-clip-on/the_legend_of_zelda-011.png",
+    "logical_frame": 2014,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Gefangener.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-prison-free-proof-direct-clip-on/the_legend_of_zelda-000.png",
+    "logical_frame": 100,
+    "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Zelle_Forschungsreise.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-prison-free-proof-direct-clip-on/the_legend_of_zelda-002.png",
+    "logical_frame": 563,
+    "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Wallace_Hammer_Versteck.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-prison-free-proof-direct-clip-on/the_legend_of_zelda-006.png",
+    "logical_frame": 813,
+    "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Sheik_Feuer_Gedicht.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-bolero-proof-direct-clip-on/the_legend_of_zelda-000.png",
+    "logical_frame": 19,
+    "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Sheik_Wallace_Gedicht.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-bolero-proof-direct-clip-on/the_legend_of_zelda-001.png",
+    "logical_frame": 187,
+    "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Kakariko_Drachenfreund.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-inn-native-direct-clip-on/the_legend_of_zelda-000.png",
+    "logical_frame": 217,
+    "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Gorone_Bombenempoerung.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-goron-hit-native-direct-clip-on/the_legend_of_zelda-001.png",
+    "logical_frame": 283,
+    "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Credits_Alle_Weisen_Sitzpose.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-credits-video-v3-direct-clip-on/the_legend_of_zelda-230.png",
+    "logical_frame": 535,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Credits_Sitzpose_Seite.png",
+    "source": "/workspace/bean-rider/screens-fire-wallace-credits-video-v3-direct-clip-on/the_legend_of_zelda-380.png",
+    "logical_frame": 685,
+    "rom_sha256": "ce303971fb48595d137aec348a323b52a74af487c56d3c34272b8c8b662cfff8",
+    "unaltered_emulator_png": true
+  }
+]
