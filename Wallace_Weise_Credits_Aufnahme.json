@@ -1,0 +1,24 @@
+{
+  "rom_sha256": "d5632e191dbb1dd5c8bd8b037d9fb6cea769e22ca0d6f39efca15c25f6c4ea45",
+  "first_frame": 305,
+  "last_frame_exclusive": 952,
+  "frames": 647,
+  "transition_frame": 891,
+  "pal_frames_per_second": "50/3",
+  "duration_seconds": 38.82,
+  "silent": true,
+  "continuous_unedited_native_gameplay": true,
+  "controller_input": false,
+  "native_actor_positions": true,
+  "ram_bytes": 4194304,
+  "characters": [
+    "Wallace",
+    "Krabbelminen-Frau",
+    "Thaddäus",
+    "Waluigi",
+    "Mr. Bean"
+  ],
+  "screenshot_start_index": 0,
+  "screenshot_folder": "/workspace/bean-rider/screens-fire-wallace-credits-video-final-direct-clip-on",
+  "mp4_sha256": "fc421d7441bbe77b02b23ec82effcdda3a70bd4fc2ec71b57df36d2628b565fd"
+}
