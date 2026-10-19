@@ -1,4 +1,14 @@
-# Merzen der Bauer: Thaddäus, Waluigi und Maskenreaktionen
+# Merzen der Bauer: Amthor, Bean, Darunia und Deku-Baum
+
+**[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Amthor_Bean_Darunia_Deku.bps?raw=true)** · [Echte Bilder](Amthor_Bean_Darunia_Deku_Ingame_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Amthor_Quellen_Patch_Bilder.zip?raw=true)
+
+[Eingebaute Dialoge](Amthor_Bean_Darunia_Deku_Dialoge_Aktuell.md) · [Prüfbericht](Amthor_Bean_Darunia_Deku_Beispielbilder/Pruefbericht.md)
+
+Auf die unveränderte entpackte Europa/PAL-1.0-ROM in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Alle bisherigen Änderungen enthalten. Deutsch einstellen; normale Spielstände statt alter Save-States verwenden.
+
+![Smithers als Philipp Amthor](Amthor_Bean_Darunia_Deku_Beispielbilder/Smithers_Schabernack.png)
+
+## Vorherige Fassung: Thaddäus, Waluigi und Maskenreaktionen
 
 **[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Weise_Masken.bps?raw=true)** · [Echte Bilder](Weise_Masken_Ingame_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Weise_Masken_Quellen_Patch_Bilder.zip?raw=true)
 

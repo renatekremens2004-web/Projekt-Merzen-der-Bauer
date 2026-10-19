@@ -1,0 +1,5 @@
+Gesamtpatch: Amthor, Bean, Darunia, Deku-Baum und Stadt
+
+In https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte, unveränderte Europa/PAL-1.0-Original-ROM anwenden. Nicht auf einen älteren Patchstand anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Im Spiel Deutsch einstellen. Normale Spielstände verwenden, keine alten Emulator-Save-States. Alle bisherigen Modelle und Dialoge sind enthalten.
+
+Burns-zu-Smithers-Enthüllung als Amthor, Bossname und Begrüßung; Bean-Genickbruch, Darunias Chef-Rechtfertigungen, Deku-Baum/Mido-Gag und Jabu-Einkaufsdialog am Brunnen. Gezielt im Emulator und statisch geprüft; kein kompletter Durchlauf.

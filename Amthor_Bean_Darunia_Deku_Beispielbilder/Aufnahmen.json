@@ -1,0 +1,182 @@
+[
+  {
+    "file": "Burns_vor_Enthuellung.png",
+    "case": "phantom-amthor-intro-final-direct-clip-on",
+    "logical_frame": 300,
+    "rom_sha256": "a09b6738cdce1ca33aeae158145b21e7f95d6b2b9c53500a906ba93e71e7ecd0",
+    "limit": 1500,
+    "fixture": "intro",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Smithers_Schabernack.png",
+    "case": "phantom-amthor-intro-final-direct-clip-on",
+    "logical_frame": 498,
+    "rom_sha256": "a09b6738cdce1ca33aeae158145b21e7f95d6b2b9c53500a906ba93e71e7ecd0",
+    "limit": 1500,
+    "fixture": "intro",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Amthor_Bossname.png",
+    "case": "phantom-amthor-intro-final-direct-clip-on",
+    "logical_frame": 734,
+    "rom_sha256": "a09b6738cdce1ca33aeae158145b21e7f95d6b2b9c53500a906ba93e71e7ecd0",
+    "limit": 1500,
+    "fixture": "intro",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Bean_Genickbruch.png",
+    "case": "phantom-amthor-hall-bean-final-direct-clip-on",
+    "logical_frame": 536,
+    "rom_sha256": "a09b6738cdce1ca33aeae158145b21e7f95d6b2b9c53500a906ba93e71e7ecd0",
+    "limit": 2400,
+    "fixture": "hall-bean",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Darunia_Chef.png",
+    "case": "phantom-amthor-darunia-child-final-direct-clip-on",
+    "logical_frame": 400,
+    "rom_sha256": "b1270cfcb9cf35da5328acf65cacf098eea50a36070739cbbf9be4e17a3fbcf2",
+    "limit": 1300,
+    "fixture": "darunia-child",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Darunia_Faehigkeiten.png",
+    "case": "phantom-amthor-darunia-child-final-direct-clip-on",
+    "logical_frame": 482,
+    "rom_sha256": "b1270cfcb9cf35da5328acf65cacf098eea50a36070739cbbf9be4e17a3fbcf2",
+    "limit": 1300,
+    "fixture": "darunia-child",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Darunia_Weiser.png",
+    "case": "phantom-amthor-hall-darunia-final-direct-clip-on",
+    "logical_frame": 481,
+    "rom_sha256": "a09b6738cdce1ca33aeae158145b21e7f95d6b2b9c53500a906ba93e71e7ecd0",
+    "limit": 2000,
+    "fixture": "hall-darunia",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Jabu_Dialog_am_Brunnen.png",
+    "case": "phantom-amthor-market-ground-final-direct-clip-on",
+    "logical_frame": 213,
+    "rom_sha256": "b1270cfcb9cf35da5328acf65cacf098eea50a36070739cbbf9be4e17a3fbcf2",
+    "limit": 1400,
+    "fixture": "market-ground",
+    "prepared_player_and_progress_only": true,
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Deku_Baum_Letzter_Satz.png",
+    "case": "phantom-amthor-deku-death-release-direct-clip-on",
+    "logical_frame": 1904,
+    "rom_sha256": "b1270cfcb9cf35da5328acf65cacf098eea50a36070739cbbf9be4e17a3fbcf2",
+    "limit": 2800,
+    "fixture": "deku-death",
+    "prepared_player_and_progress_only": true,
+    "combat_assistance": [],
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Mido_Kompost.png",
+    "case": "phantom-amthor-mido-after-death-proof-direct-clip-on",
+    "logical_frame": 209,
+    "rom_sha256": "2258268d6d19086683b429c9bf804309b364511c208d7126df307537d32988ef",
+    "limit": 1000,
+    "fixture": "mido-after-death",
+    "prepared_player_and_progress_only": true,
+    "combat_assistance": [],
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Mido_Deku_Baum.png",
+    "case": "phantom-amthor-mido-after-death-proof-direct-clip-on",
+    "logical_frame": 261,
+    "rom_sha256": "2258268d6d19086683b429c9bf804309b364511c208d7126df307537d32988ef",
+    "limit": 1000,
+    "fixture": "mido-after-death",
+    "prepared_player_and_progress_only": true,
+    "combat_assistance": [],
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Mido_Sieben_Jahre.png",
+    "case": "phantom-amthor-mido-after-death-proof-direct-clip-on",
+    "logical_frame": 561,
+    "rom_sha256": "2258268d6d19086683b429c9bf804309b364511c208d7126df307537d32988ef",
+    "limit": 1000,
+    "fixture": "mido-after-death",
+    "prepared_player_and_progress_only": true,
+    "combat_assistance": [],
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Navi_Amthor_15_oder_55.png",
+    "case": "phantom-amthor-combat-assisted-proof-direct-clip-on",
+    "logical_frame": 447,
+    "rom_sha256": "2258268d6d19086683b429c9bf804309b364511c208d7126df307537d32988ef",
+    "limit": 2400,
+    "fixture": "combat-assisted",
+    "prepared_player_and_progress_only": false,
+    "combat_assistance": [
+      "prepared third arrow-hit outcome",
+      "prepared returned volley and low health",
+      "native targeting, C-Up and B sword input"
+    ],
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Dach_Neuer_Text.png",
+    "case": "phantom-amthor-market-roof-proof-direct-clip-on",
+    "logical_frame": 199,
+    "rom_sha256": "2258268d6d19086683b429c9bf804309b364511c208d7126df307537d32988ef",
+    "limit": 450,
+    "fixture": "market-roof",
+    "prepared_player_and_progress_only": true,
+    "combat_assistance": [],
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  },
+  {
+    "file": "Amthor_Zerfall.png",
+    "case": "phantom-amthor-death-sequence-proof-direct-clip-on",
+    "logical_frame": 1000,
+    "rom_sha256": "2258268d6d19086683b429c9bf804309b364511c208d7126df307537d32988ef",
+    "limit": 1600,
+    "fixture": "death-sequence",
+    "prepared_player_and_progress_only": false,
+    "combat_assistance": [
+      "Third arrow-hit state prepared; native transition to flight",
+      "Native BossGanondrof_SetupDeath entry prepared for isolated graphical test",
+      "No claim of a won combat encounter"
+    ],
+    "native_actor_positions": true,
+    "unedited_emulator_png": true
+  }
+]
