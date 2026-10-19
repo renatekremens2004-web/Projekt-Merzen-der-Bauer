@@ -1,0 +1,282 @@
+Alle 93 Navi-Zieltexte; IDs 0600–065C
+
+0600
+Was glotzt dieses häßliche Drecksvieh so? Wir haben Dich gesehen. Das war jetzt kein schöner Moment.
+
+0601
+Gohma. Ein einziges riesiges Auge, und trotzdem läßt Du Dir genau da reinschießen. Du dumme Sau.
+
+0602
+Ein Gohma-Ei. Tritt drauf. Ich will nicht noch einem von diesen Scheißviechern beim Schlüpfen zusehen.
+
+0603
+Ein Gohma-Baby. Kaum aus dem Ei, schon am Rumschreien und Leute anspringen. Genau wie seine Mutter.
+
+0604
+Du achtbeiniger Vollidiot! Dreh Dich ruhig um und zeig uns Deinen Schwachpunkt. Ja, genau so. Meine Fresse.
+
+0605
+Die Riesen-Skulltula zeigt uns freiwillig ihren weichen Bauch. So ein großes Vieh und so unfaßbar dumm.
+
+0606
+Ein Zangengeiferer. Nimm Deine Zangen da weg, Du widerlicher Drecksack! Keiner will von Dir angefaßt werden.
+
+0607
+Ein Dekuranha. Mach die Fresse zu, Du Scheißunkraut. Ich reiß Dich samt Wurzel aus diesem Drecksloch.
+
+0608
+Der große Dekuranha hält den Kopf extra weit hoch. Ja, danke, Du Trottel. Da kommen wir prima dran.
+
+0609
+Der verwelkte Dekuranha lebt noch? Ich hätte Dich längst auf den Kompost geschmissen.
+
+060A
+Ein Laubkerl. Erst Nüsse spucken, dann im Loch verkriechen. Komm raus, Du feige kleine Drecksau!
+
+060B
+Der will uns wirklich angreifen? Mit DEM Auftritt? Jetzt hab' ich fast Mitleid. Fast, Du Lappen.
+
+060C
+King Dodongo. Jetzt reißt er wieder das Maul auf. Friß die Bombe, Du verfressener Vollidiot!
+
+060D
+Ein Dodongo. Vorne Feuer spucken, hinten völlig offen stehen. Dreh Dich ruhig, Du hirnloses Mistvieh.
+
+060E
+Ein Baby-Dodongo. Rennt hinter uns her, fällt um und platzt. Wirklich alles an Dir ist bescheuert.
+
+060F
+Ein Echsodorus. Hör auf, ständig wegzuhüpfen! Du hast ein Schwert, Du feiges Arschloch. Benutz es!
+
+0610
+Ein Dinodorus. Ja, wedel noch ein bißchen mit dem Schwert. Vielleicht glaubt Dir dann einer, daß Du was kannst.
+
+0611
+Ein Feuerflatterer. Brennt schon und fliegt uns trotzdem noch in die Fresse. Halt doch einfach mal still!
+
+0612
+Ein Flederbeißer. Du hast die ganze Höhle zum Fliegen. Warum muß es ausgerechnet mein Gesicht sein, Du Wichser?
+
+0613
+Ein Armos-Ritter. Jahrelang dumm rumstehen und dann ausrasten, wenn einer vorbeikommt. Bleib sitzen, Du Idiot.
+
+0614
+Barinade. Du hängst hier in Jabus Innereien und kackst alles mit Strom voll. Widerliches Drecksvieh.
+
+0615
+Ein Parasiten-Tentakel. {name}, hau das ab. Ich hab' keinen Bock, daß dieser glitschige Scheiß mich berührt.
+
+0616
+Eine Blubberblase. Die hält sich ernsthaft für ein Hindernis. Du bist LUFT. Verpiß Dich.
+
+0617
+Eine Zappelqualle. Pack Deinen Strom weg, Du glibberiges Arschloch. Ich will hier einfach nur vorbei!
+
+0618
+Eine große Zappelqualle. Ja, Du bist größer. Du bist aber immer noch derselbe beschissene Schleimklumpen.
+
+0619
+Ein Elektromanta. Liegt erst feige im Boden und springt uns dann ins Gesicht. Richtig dreckige Nummer.
+
+061A
+Phantom-Ganon. Dieser feige Wichser versteckt sich in Bildern. Komm raus, Du billige Merz-Kopie!
+[Weiter]
+Wir sollen seinen Scheiß zurückschlagen? Gerne. Vielleicht trifft ihn dann endlich mal was im Kopf.
+
+061B
+Ein Stalfos-Ritter. Der hat nicht mal mehr Fleisch an den Knochen und spielt trotzdem den harten Kerl.
+
+061C
+Eine blaue Knochenfratze. Kannst Du Dein beschissenes Maul auch schließen, oder fehlen Dir dafür die Muskeln?
+
+061D
+Eine bleiche Knochenfratze. Kaum ist das Feuer aus, kriegst Du aufs Maul. Flieg ruhig noch näher, Du Trottel.
+
+061E
+Eine grüne Knochenfratze. Noch so ein brennender Schädel. Wie viele von diesen Arschlöchern gibt's hier bitte?
+
+061F
+Eine Skullwandula. Die wartet, bis wir an der Wand hängen, und springt uns an. Du feige kleine Drecksspinne.
+
+0620
+Eine goldene Skulltula. Ich höre Dein Gekratze seit fünf Minuten. Halt endlich die Fresse da oben!
+
+0621
+Volvagia. Steckt den Kopf aus dem Loch und wartet auf den Hammer. Soll ich Dir noch ein Kreuz draufmalen?
+
+0622
+Ein Flammenderwisch. Nimm ihm das Feuer weg, dann rennt das feige Arschloch plötzlich um sein Leben.
+
+0623
+Ein Lavaschleim. Ja, roll Dich zusammen. Du bist jetzt ein Stein. Soll ich beeindruckt sein, Du Lappen?
+
+0624
+Roter Tod. Setzt sich selbst in Brand und rennt schreiend herum. Du bist wirklich ein saudummes Drecksvieh.
+
+0625
+Morpha. Ein kleiner Klumpen im Wasser, der uns für seine Scheißarme ständig durch die Luft schmeißen muß.
+
+0626
+Der schwarze {name}. Guck Dir den an. Hat Dein Gesicht geklaut und führt sich direkt wie ein Arschloch auf.
+
+0627
+Mach die Fresse noch einmal auf! Ich brech' diese Scheißmuschel in der Mitte durch, ich schwör's Dir!
+
+0628
+Ein Stachelstein. Der könnte einfach liegenbleiben. Aber nein, der blöde Wichser muß uns ja auch noch rammen.
+
+0629
+Bongo Bongo. Der trommelt hier mit seinen Riesenpranken auf UNSEREM Fußboden. Hör auf damit, Du Arschloch!
+
+062A
+Ein Zombie. Hör auf, so zu stöhnen! Und nimm die Finger von uns, Du widerlicher Grabscher!
+
+062B
+Phantom-Ganon. Wieder dieser Wichser aus den Bildern. Selbst Merz will seine eigene Kopie nicht behalten.
+
+062C
+Guck Dir den an. Der steht uns wirklich absichtlich im Weg. Mach Platz, Du häßlicher kleiner Drecksack.
+
+062D
+Ein Wickel-Zombie. Riecht bestimmt schon durch die ganzen Bandagen. Bleib bloß weg, Du gammeliges Schwein.
+
+062E
+Diese Hände halten uns fest, damit ihr häßlicher Kumpel uns ansabbern kann. Laß los, Du verdammter Grabscher!
+
+062F
+Ein Hirnsauger. Der hat diesen ganzen Scheiß mit den Händen geplant? So eine widerliche Drecksau.
+
+0630
+Ein Deckengrapscher. Hör auf, über meinem Kopf zu hängen! Komm runter, dann brech' ich Dir jeden Finger einzeln.
+
+0631
+Ein Bodengrapscher. Jetzt teilt sich das Arschloch auch noch auf. Drei kleine Wichser sind keine Verbesserung.
+
+0632
+Koume. Hör auf, uns anzuzünden, Du alte Schreckschraube! Dein Besen gehört Dir quer vor die Fresse.
+
+0633
+Kotake. Ja, frier uns ruhig ein, Du Giftzicke. Dann mußt Du wenigstens nicht mehr Deinen Scheiß erklären.
+
+0634
+Ein Eisenprinz. Der schleppt die ganze Rüstung mit und kriegt trotzdem keinen einzigen Hieb sauber hin.
+
+0635
+Ein Eisenprinz. Hat mit der Axt seine eigene Einrichtung zerlegt. Paß auf, Du Vollidiot! Das war DEINE Säule!
+
+0636
+Ein Horror-Kid. Nimm die Flöte aus dem Maul. Ich will, daß Du mich hörst, wenn ich sage, daß Du nervst.
+
+0637
+Ein Raubschleim. Kotz den Schild wieder aus, Du schleimiger Wichser! Der war verdammt noch mal teuer!
+
+0638
+Jetzt macht sich das Vieh auch noch wichtig. Du bist hier bloß der nächste Trottel, der auf die Fresse kriegt.
+
+0639
+Ein Strahlzyklop. Starrt uns die ganze Zeit an. Glotz woanders hin, Du einäugiger Drecksack!
+
+063A
+Anubis. Äfft jede Bewegung nach. Hast Du auch einen eigenen Einfall, Du bescheuerter Sack voller Bandagen?
+
+063B
+Ein Eisatmer. Hör auf, uns mit Deinem kalten Scheißatem anzupusten! Du gehst mir richtig auf den Sack.
+
+063C
+Was ist denn das für ein häßlicher Penner? Dem tut bestimmt jeder Spiegel leid, in den er reinguckt.
+
+063D
+Friedrich Merz. Guck Dir die paar Haare an. Dafür morgens noch zum Kamm greifen. Wie peinlich ist das denn?
+
+063E
+Ganon. Hat verloren und verwandelt sich jetzt in ein Riesenschwein. Was bist Du für ein schlechter Verlierer?
+
+063F
+Ein Horror-Kid. Spiel noch EINEN Ton, Du kleiner Nervsack. Einen einzigen. Ich schwör's Dir.
+
+0640
+Ein Horror-Kid ohne Gesicht. Gut. Dann muß ich Dir wenigstens nicht beim Grinsen zugucken.
+
+0641
+Ein Horror-Kid mit Totenschädel. Nimm den Mist ab. Die Flöte hören wir trotzdem, Du Trottel.
+
+0642
+Ein Oktorok. Der spuckt uns ernsthaft ins Gesicht. Schluck Deinen eigenen Dreck, Du widerliches Arschloch!
+
+0643
+Ein Friedhofs-Irrlicht. Du bist schon tot und gehst trotzdem noch Leuten auf den Sack. Hast Du nichts zu tun?
+
+0644
+Ein Irrlicht. Erst groß mit der Lampe drohen und dann unsichtbar werden. Komm zurück, Du feiges Schwein.
+
+0645
+Ein roter Arachno. Hör auf, vor meinen Füßen rumzuhüpfen! Ich tret' Dich den Berg runter, Du Drecksvieh.
+
+0646
+Ein blauer Arachno. Wir sind im WASSER. Selbst hier krieg' ich vor diesen hüpfenden Arschlöchern keine Ruhe.
+
+0647
+Ein Sandkiller. Da ist ein ganzer Sandkasten. Aber Du mußt genau unter UNS rauskommen, Du blöder Wichser.
+
+0648
+Eine riesige Killeranas. Jetzt kommt die Mutter auch noch an. Ja, Deine Kinder haben zuerst angefangen!
+
+0649
+Eine Killeranas-Larve. So ein kleines Vieh und macht schon so eine Welle. Verpiß Dich wieder in den Sand.
+
+064A
+Ja, komm nur. Der letzte Vollidiot dachte auch, daß wir vor ihm stehenbleiben und uns verprügeln lassen.
+
+064B
+Der nächste Trottel. Was wollt Ihr eigentlich alle von uns? Ist hier irgendwo ein Nest mit diesen Arschlöchern?
+
+064C
+Ein Wolfsheimer. Nimm die Pfoten runter! Daß Du Dir die Fresse zuhältst, macht Dich nicht unverwundbar.
+
+064D
+Ein verrückter Laubkerl. Der spuckt noch weiter? Ich hau' Dich aus dem Boden, Du kleiner Scheißbusch!
+
+064E
+Ein reicher Laubkerl. Erst beschießen und dann was verkaufen wollen. Du hast doch den Arsch offen!
+
+064F
+Boris' Geist. Ist schon tot und läßt ein Kind durch sein Scheißgrab rennen. Was stimmt denn mit dem nicht?
+
+0650
+Betti. Jetzt macht sie drei Kopien von sich. Als wäre EINE von diesen blöden Zicken nicht schon zuviel.
+
+0651
+Hetti. Hör auf, mit der Lampe nach uns zu schlagen! Die kannst Du Dir sonstwo hinschieben.
+
+0652
+Netti. Ja, halt die Lampe noch näher. Dann seh' ich wenigstens, wohin ich Dir eine reinhauen muß.
+
+0653
+Etti. Die vierte Schwester. Ihr habt uns doch gerade erst die anderen drei auf den Hals gehetzt, Ihr Miststücke.
+
+0654
+Eine Gerudo-Kriegerin. Springt uns auf den Kopf und sperrt uns dann wieder ein. Laß den Scheiß endlich!
+
+0655
+Ein Knochengänger. Die ganze Nacht kommen diese Dreckssäcke aus dem Boden. Bleibt doch einfach mal liegen!
+
+0656
+Ein Polarflatterer. Faß mich bloß nicht an, Du fliegendes Scheiß-Eis am Stiel!
+
+0657
+Ein weißer Wolfsheimer. Derselbe Scheiß mit den Pfoten. Ja, Du kannst blocken. Willst Du jetzt einen Keks?
+
+0658
+Eine Wüstenkrähe. Verpiß Dich, Du krächzender Drecksack! Ich hack' Dir sonst die Federn einzeln vom Arsch.
+
+0659
+Grozokto. Dein Arsch ist so groß, daß wir ihn durch den ganzen Raum verfolgen müssen. Bleib stehen, Du Sau!
+
+065A
+Ein Nachtschwärmer. Der haut ab, sobald wir näherkommen. Wozu machst Du dann vorher so eine große Fresse auf?
+
+065B
+Killaohma. Erst zu zweit zu blöd, jetzt verschmelzen sie auch noch. Ihr seid ZUSAMMEN immer noch zu blöd!
+
+065C
+Ein Irrlicht. Steckt nur den Kopf aus der Wand und haut sofort wieder ab. Du erbärmlicher kleiner Feigling.

@@ -1,10 +1,24 @@
-# Merzen der Bauer: LEGO X-Wing im Schattentempel
+# Merzen der Bauer: Navi beleidigt die Gegner
 
-## Separater Sonderpatch: Start nach Jabu-Jabu
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Navi_Roasts.bps?raw=true)** · **[Echte Ingame-Bilder](Navi_Gegner_Roasts_Ingame_Bilder.zip?raw=true)** · [Alle 93 Texte lesen](Navi_Gegner_Roasts_Alle_Texte.txt) · [Quellen, Patch und Prüfnachweise](Merzen_Navi_Roasts_Quellen_Patch_Bilder.zip?raw=true)
+
+Alle 93 Navi-Zieltextplätze wurden neu geschrieben: direktes Beschimpfen über die tatsächlichen Aktionen der Gegner, deutlich derber und nicht überall mit Flüchen. Skulltula: „Du achtbeiniger Vollidiot! Dreh Dich ruhig um und zeig uns Deinen Schwachpunkt. Ja, genau so. Meine Fresse.“ Killermuschel: „Mach die Fresse noch einmal auf! Ich brech' diese Scheißmuschel in der Mitte durch, ich schwör's Dir!“ Alte Rechtschreibung, alle bisherigen Seitenzahlen und festen Zeiten bleiben erhalten. Insgesamt **599 deutsche Nachrichten** und alle bisherigen Modelle und Dialogkapitel enthalten.
+
+Den normalen Gesamtpatch direkt mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine vorherige Mod anwenden. Normale Spielstände statt alter Emulator-Save-States verwenden. Diese normale Fassung hat den normalen Spielstart; der separate Nach-Jabu-Testpatch steht weiter unten.
+
+ROM-Vergleich: genau diese 93 deutschen Nachrichtentexte geändert; übrige Nachrichten, Modelle, Räume und ausführbarer Code erhalten. Nur deutsche Textzeiger müssen auf die neuen Textlängen zeigen. Build, 599 Kontrollsequenzen, Seitenzahlen, Textpuffer, 1509 Segmente und RomPatcher.js geprüft. Drei gezielte 4-MB-Laufzeitprüfungen: native Skulltula, native Killermuschel und englische Gegenprobe. Kein Live-Test aller 93 Plätze oder kompletter Spieldurchlauf. [Prüfbericht](Navi_Gegner_Roasts_Beispielbilder/Pruefbericht.md).
+
+![Skulltula](Navi_Gegner_Roasts_Beispielbilder/Skulltula_Achtbeiniger_Vollidiot.png)
+
+![Killermuschel](Navi_Gegner_Roasts_Beispielbilder/Killermuschel_Navi_rastet_aus.png)
+
+## Vorherige Fassung: LEGO X-Wing im Schattentempel
+
+## Separater Sonderpatch: Start nach Jabu-Jabu (X-Wing-Fassung)
 
 **[Sonderpatch herunterladen](Sonderpatch_Nach_Jabu_Jabu_DE_PAL10.bps?raw=true)** · [Anleitung](Sonderpatch_Nach_Jabu_Jabu_Anleitung.txt) · [Vergleichsbilder, Quellenänderung und Prüfung](Sonderpatch_Nach_Jabu_Jabu_Pruefung_Bilder.zip?raw=true)
 
-Zum Prüfen der Fluchtszene und der Wache: auf die unveränderte Original-PAL-1.0-ROM patchen und **einen neuen Spielstand anlegen**. Start als Kind in Zoras Quelle nach Jabu-Jabu, drei Steine und sechs Herzen; Zeldas Flucht ist noch offen. Regulär nach Hyrule laufen und das Stadttor anlaufen. Alle bisherigen Änderungen einschließlich X-Wing enthalten. Diese Sonderfassung verändert den Startfortschritt, keine Grafik- oder Beleuchtungsregeln. Die normale Fassung folgt unten.
+Zum Prüfen der Fluchtszene und der Wache: auf die unveränderte Original-PAL-1.0-ROM patchen und **einen neuen Spielstand anlegen**. Start als Kind in Zoras Quelle nach Jabu-Jabu, drei Steine und sechs Herzen; Zeldas Flucht ist noch offen. Regulär nach Hyrule laufen und das Stadttor anlaufen. Alle bisherigen Änderungen einschließlich X-Wing enthalten. Diese Sonderfassung verändert den Startfortschritt, keine Grafik- oder Beleuchtungsregeln. Der aktuelle normale Gesamtpatch steht oben.
 
 Im neu angelegten Testspiel wurde die Flucht durch normales Laufen am Stadttor ausgelöst und wird auf dem Cloud-Renderer sichtbar gezeichnet. Die alte starke Abdunklung bei einem direkten Cutscene-Teststart war kein verläßlicher visueller Nachweis. Die genaue Initialisierungs-/Renderer-Ursache bleibt offen. Der schmale schwarze Strich bei der Krugwache erscheint auch in Vanilla; bei gleicher Kamera ist der geprüfte Wandbereich pixelgleich. [Original](Sonderpatch_Nach_Jabu_Jabu_Bilder/Wache_Original.png) · [Sonderpatch](Sonderpatch_Nach_Jabu_Jabu_Bilder/Wache_Sonderpatch.png).
 
@@ -13,7 +27,7 @@ Im neu angelegten Testspiel wurde die Flucht durch normales Laufen am Stadttor a
 ![Regulär ausgelöste Fluchtszene](Sonderpatch_Nach_Jabu_Jabu_Bilder/Flucht_Tor_regulaer.png)
 
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Lego_XWing.bps?raw=true)** · **[Drei echte Spielbilder als ZIP](Lego_XWing_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Lego_XWing_Quellen_Patch_Bilder.zip?raw=true)
+**[Vorherigen X-Wing-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Lego_XWing.bps?raw=true)** · **[Drei echte Spielbilder als ZIP](Lego_XWing_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Lego_XWing_Quellen_Patch_Bilder.zip?raw=true)
 
 Ein kleiner LEGO X-Wing liegt im freien Seitengang des ersten Schädelraums im Schattentempel. Spannweite 24 Spieleinheiten, passend als Spielzeug für Link, mit einheitlichen Proportionen und Szenenbeleuchtung. Der Mann im blauen Hemd unten im erwachsenen Kakariko sagt: „Scheiße, ich hab' meinen Lego X-Wing im Schattentempel liegen lassen!“ Danach folgt auf der vorhandenen zweiten Seite ein Bauanleitungs-Gag. Der Satz bleibt nach dem Schattenamulett verfügbar. Insgesamt **599 deutsche Nachrichten**; alle bisherigen Modelle und Dialogkapitel enthalten.
 

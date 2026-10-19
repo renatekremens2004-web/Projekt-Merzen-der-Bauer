@@ -1,0 +1,20 @@
+{
+  "Skulltula_Achtbeiniger_Vollidiot.png": {
+    "scenario": "native-roast-skull-direct-clip-on",
+    "frame": 215,
+    "message_id": "0604",
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "8b5a36ec3c976d5b145d894441bd32162a236c75ad9fb0dda477c0dc6b9f4e36",
+    "unedited": true,
+    "test_start_note": "Nur Link positioniert; zwölf Herzen im Testspielstand, Muschelprobe mit Zora-Rüstung/Eisenstiefeln. Gegner nicht versetzt oder eingefroren."
+  },
+  "Killermuschel_Navi_rastet_aus.png": {
+    "scenario": "native-roast-shell-direct-clip-on",
+    "frame": 209,
+    "message_id": "0627",
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "7920566d6ae389ea4e4dc3b131122044577c7a1239cfa21f3fbb14a94bfb12f2",
+    "unedited": true,
+    "test_start_note": "Nur Link positioniert; zwölf Herzen im Testspielstand, Muschelprobe mit Zora-Rüstung/Eisenstiefeln. Gegner nicht versetzt oder eingefroren."
+  }
+}

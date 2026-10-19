@@ -1,0 +1,7 @@
+Schärfere Navi-Gegner-Roasts – deutsche PAL 1.0
+
+BPS-Gesamtpatch in RomPatcher.js direkt auf die entpackte, unveränderte Europa-ROM anwenden. Nicht auf eine frühere Mod anwenden. Original-MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände statt alter Emulator-Save-States verwenden.
+
+Alle 93 Zieltextplätze überarbeitet. Direkte und deutlich derbere Beleidigungen über die tatsächlichen Gegneraktionen; bestehende Seitenzahlen, Textkontrollen und feste Zeiten erhalten. Insgesamt 599 deutsche Nachrichten und alle bisherigen Änderungen enthalten. Dies ist die normale Fassung mit normalem Spielstart.
+
+Skulltula und Killermuschel mit normalem Anvisieren/C-oben auf der Produktions-ROM geprüft, englische Gegenprobe. Alle Texte statisch geprüft, kein kompletter Spieldurchlauf oder Hardwaretest.
