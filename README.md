@@ -1,3 +1,11 @@
+# Merzen der Bauer: Okto und Phantom-Köpfe v2
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Okto_Amthor_v2.bps?raw=true) · [Neue Reveal-MP4](Merz_zu_Amthor_Reveal_v2.mp4?raw=true) · [Bilder und Video](Okto_Amthor_v2_Bilder_Video.zip?raw=true) · [Quellen und Prüfungen](Merzen_Okto_Amthor_v2_Quellen_Patch_Bilder.zip?raw=true)
+
+[Okto-Dialoge](Okto_Wassertempel_Dialoge_Aktuell.md) · [Prüfbericht](Okto_Amthor_v2_Beispielbilder/Pruefbericht.md)
+
+Auf die unveränderte entpackte Europa/PAL-1.0-ROM in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Alle bisherigen Änderungen enthalten.
+
 # Merzen der Bauer: Amthor, Bean, Darunia und Deku-Baum
 
 **[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Amthor_Bean_Darunia_Deku.bps?raw=true)** · [Echte Bilder](Amthor_Bean_Darunia_Deku_Ingame_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Amthor_Quellen_Patch_Bilder.zip?raw=true)

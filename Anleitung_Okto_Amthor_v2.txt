@@ -1,0 +1,5 @@
+Gesamtpatch: Okto im Wassertempel und Phantom-Köpfe v2
+
+BPS in https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-Original-ROM anwenden. Nicht auf eine ältere Mod-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Deutsch einstellen. Normale Spielstände statt alter Emulator-Save-States verwenden. Alle bisherigen Änderungen enthalten.
+
+Neuer freundlicher Okto am festen Eingangsbecken, Wiedersehensdialog und spanische Phrasen beim alten Jabu-Okto. Burns und Smithers überarbeitet, zusätzliche Schultern/Kragen entfernt. Neue echte Reveal-MP4 ohne Ton. Gezielt im Emulator und statisch geprüft; kein kompletter Durchlauf.

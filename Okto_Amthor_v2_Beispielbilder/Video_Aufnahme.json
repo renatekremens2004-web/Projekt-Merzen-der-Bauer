@@ -1,0 +1,10 @@
+{
+  "rom_sha256": "54945b5aaec82f7f7094a0653c11a730455d2b04bcf3462960e3f5b48acebaf2",
+  "first_frame": 180,
+  "last_frame_exclusive": 850,
+  "pal_vi_rate": 50,
+  "vi_per_game_frame": 3,
+  "frames_per_second": "50/3",
+  "silent": true,
+  "unedited_native_gameplay": true
+}

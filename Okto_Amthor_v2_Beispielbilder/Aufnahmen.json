@@ -1,0 +1,37 @@
+[
+  {
+    "file": "Okto_Wassertempel_Begruessung.png",
+    "source": "/workspace/bean-rider/screens-okto-water-temple-high-final-direct-clip-on/the_legend_of_zelda-000.png",
+    "logical_frame": 204,
+    "rom_sha256": "54945b5aaec82f7f7094a0653c11a730455d2b04bcf3462960e3f5b48acebaf2",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Okto_Ehren_Oktorok.png",
+    "source": "/workspace/bean-rider/screens-okto-water-temple-high-final-direct-clip-on/the_legend_of_zelda-005.png",
+    "logical_frame": 465,
+    "rom_sha256": "54945b5aaec82f7f7094a0653c11a730455d2b04bcf3462960e3f5b48acebaf2",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Okto_Jabu_Hola.png",
+    "source": "/workspace/bean-rider/screens-okto-water-temple-jabu-cleared-direct-clip-on/the_legend_of_zelda-000.png",
+    "logical_frame": 194,
+    "rom_sha256": "54945b5aaec82f7f7094a0653c11a730455d2b04bcf3462960e3f5b48acebaf2",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Burns_Kopf_v2.png",
+    "source": "/workspace/bean-rider/screens-okto-reveal-final-v2-direct-clip-on/the_legend_of_zelda-220.png",
+    "logical_frame": 400,
+    "rom_sha256": "54945b5aaec82f7f7094a0653c11a730455d2b04bcf3462960e3f5b48acebaf2",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Smithers_Kopf_v2.png",
+    "source": "/workspace/bean-rider/screens-okto-reveal-final-v2-direct-clip-on/the_legend_of_zelda-320.png",
+    "logical_frame": 500,
+    "rom_sha256": "54945b5aaec82f7f7094a0653c11a730455d2b04bcf3462960e3f5b48acebaf2",
+    "unaltered_emulator_png": true
+  }
+]
