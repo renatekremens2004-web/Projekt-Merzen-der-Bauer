@@ -1,3 +1,13 @@
+# Merzen der Bauer: Zoras, Eis und Stiefel-Schnellwechsel
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Zoras_Eis_Wasser_Stiefel.bps?raw=true) · [Bilder](Zoras_Eis_Wasser_Stiefel_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Zoras_Eis_Wasser_Stiefel_Quellen_Patch_Bilder.zip?raw=true)
+
+[Aktuelle Navi-Texte](Navi_Zora_Eis_Wasser_Aktuell.md) · [Neue Dialoge](Zoras_Erwachsen_Dialoge_Aktuell.md) · [Prüfbericht](Zoras_Eis_Wasser_Stiefel_Beispielbilder/Pruefbericht.md)
+
+Steuerkreuz unten schaltet besessene Eisenstiefel als Erwachsener an/aus. Getragene Zora-Tunika in hellem Himmelblau. Alle bisherigen Änderungen enthalten. Auf die unveränderte Europa/PAL-1.0-ROM anwenden.
+
+![Hellblaue Zora-Tunika und Eisenstiefel](Zoras_Eis_Wasser_Stiefel_Beispielbilder/Zora_Tunika_Hellblau_Eisenstiefel.png)
+
 # Merzen der Bauer: Feuertempel, Wallace und Credits-Sitzpose
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Feuertempel_Wallace.bps?raw=true) · [Neue Credits-MP4](Wallace_Weise_Credits_v3.mp4?raw=true) · [Bilder und Video](Feuertempel_Wallace_Bilder_Video.zip?raw=true) · [Quellen und Prüfungen](Merzen_Feuertempel_Wallace_Quellen_Patch_Bilder.zip?raw=true)

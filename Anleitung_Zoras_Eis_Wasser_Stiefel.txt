@@ -1,0 +1,5 @@
+Zora-Gebiet, Eishöhle und Eisenstiefel-Schnellwechsel — Gesamtpatch
+
+In https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden, nicht auf eine ältere Mod-ROM. Original-MD5 e040de91a74b61e3201db0e2323f768a. Deutsch einstellen. Normale Spielstände verwenden. Alle bisherigen Änderungen enthalten.
+
+Steuerkreuz unten schaltet freigeschaltete Eisenstiefel als Erwachsener an/aus. Getragene Zora-Tunika jetzt helles Himmelblau. Neue Zora-/König-/Sheik-/Navi-Texte und Sonnenpfeil-Hinweis. Der König muß weiterhin mit blauem Feuer aufgetaut werden; Navi nimmt ihre falsche Behauptung ausdrücklich zurück. Die Rüstung wird normal übergeben.

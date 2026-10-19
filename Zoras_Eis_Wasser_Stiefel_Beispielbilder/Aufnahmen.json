@@ -1,0 +1,93 @@
+[
+  {
+    "file": "Zora_Wiedersehen_Danke.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-reunion-native-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "logical_frame": 294,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Zora_Tunika_Hellblau_Eisenstiefel.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-boots-land-boots-final-direct-clip-on/the_legend_of_zelda-001.png",
+    "logical_frame": 230,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Eisenstiefel_Unterwasser.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-boots-water-boots-final-direct-clip-on/the_legend_of_zelda-001.png",
+    "logical_frame": 230,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Stiefel_Aus_Auftauchen.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-boots-water-boots-final-direct-clip-on/the_legend_of_zelda-003.png",
+    "logical_frame": 480,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Koenig_Fischnase.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-king-gift-native-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "logical_frame": 297,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Koenig_Wie_lange_im_Eis.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-king-gift-native-final-direct-clip-on/the_legend_of_zelda-004.png",
+    "logical_frame": 435,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Zora_Ruestung_Erhalten.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-king-gift-native-final-direct-clip-on/the_legend_of_zelda-006.png",
+    "logical_frame": 646,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Koenig_Wartet_aufs_Auftauen.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-king-after-native-final-direct-clip-on/the_legend_of_zelda-003.png",
+    "logical_frame": 358,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Sheik_Eis_Gedicht.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-serenade-extra-final-direct-clip-on/the_legend_of_zelda-000.png",
+    "logical_frame": 39,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Sheik_Faltbare_Harfe.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-serenade-extra-final-direct-clip-on/the_legend_of_zelda-007.png",
+    "logical_frame": 760,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Sheik_Hosentaschen.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-serenade-extra-final-direct-clip-on/the_legend_of_zelda-008.png",
+    "logical_frame": 927,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Navi_Nur_fuer_den_Gag.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-navi-fire-native-final-direct-clip-on/the_legend_of_zelda-003.png",
+    "logical_frame": 185,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Sonnenpfeil_Raetsel.png",
+    "source": "/workspace/bean-rider/screens-zora-adult-sun-sign-native-final-direct-clip-on/the_legend_of_zelda-001.png",
+    "logical_frame": 215,
+    "rom_sha256": "e44dd3285ef564fce5bdec9f74ccb53ca267486afbefde0e898acb8e038858ff",
+    "unaltered_emulator_png": true
+  }
+]
