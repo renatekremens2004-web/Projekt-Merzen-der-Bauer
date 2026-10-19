@@ -1,6 +1,20 @@
-# Merzen der Bauer: Thaddäus und Waluigi als Weise
+# Merzen der Bauer: Wald, Navi und Salias Reise
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wasser_Geister_Weise.bps?raw=true)** · [Neue Ingame-Bilder](Wasser_Geister_Weise_Ingame_Bilder.zip?raw=true) · [Quellen, Patch und Prüfungen](Merzen_Wasser_Geister_Weise_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wasser_Geister_Weise.txt)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wald_Navi_Feuer.bps?raw=true)** · [Ingame-Bilder](Wald_Navi_Feuer_Ingame_Bilder.zip?raw=true) · [Navi-Texte mit Auslösern](Navi_Nach_Waldtempel_bis_Feuer_Aktuell.md) · [Quellen, Patch und Prüfungen](Merzen_Wald_Navi_Feuer_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wald_Navi_Feuer.txt)
+
+Salias Reise-Spruch beim Anruf nach dem Waldtempel ist eingebaut. Außerdem Sheiks Gedicht, Kokiri-Sprüche, der erwachsene Laborforscher mit Papphai und Deine Navi-Fassungen bis nach dem Feuertempel. Alle bisherigen Modelle und Änderungen enthalten. 763 bearbeitete deutsche Nachrichten. [Prüfbericht](Wald_Navi_Feuer_Beispielbilder/Pruefbericht.md).
+
+In [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **entpackte, unveränderte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Text-/ROM-Prüfung, RomPatcher.js-Roundtrip und gezielte 4-MiB-Emulatortests bestanden. Kein vollständiger Spieldurchlauf oder Hardwaretest.
+
+![Salias Reise-Spruch](Wald_Navi_Feuer_Beispielbilder/Salia_nach_Waldtempel_3.png)
+
+![Sheiks Gedicht](Wald_Navi_Feuer_Beispielbilder/Sheik_Menuett.png)
+
+## Vorherige Fassung: Thaddäus und Waluigi als Weise
+
+**[Vorherigen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wasser_Geister_Weise.bps?raw=true)** · [Neue Ingame-Bilder](Wasser_Geister_Weise_Ingame_Bilder.zip?raw=true) · [Quellen, Patch und Prüfungen](Merzen_Wasser_Geister_Weise_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wasser_Geister_Weise.txt)
 
 Thaddäus ersetzt erwachsene Ruto, Waluigi ersetzt Naboru in beiden Zeitabschnitten des Geistertempels. Tempelauftritte, Halle der Weisen, Finale und Credits sind umgestellt, einschließlich der Eisenritter-Enthüllung. Junge Ruto bleibt erhalten. **Neue Dialoge folgen später; jetzt Modelle und Namen.** Tripple T ist etwas größer, schaut in die originale Sproß-Richtung und hat detailliertere Augen. Alle bisherigen Änderungen enthalten. [Prüfbericht](Wasser_Geister_Weise_Beispielbilder/Pruefbericht.md).
 

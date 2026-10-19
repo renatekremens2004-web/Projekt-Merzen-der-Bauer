@@ -1,0 +1,5 @@
+Wald, Navi und Salias Reise – deutscher Europa/PAL-1.0-Gesamtpatch
+
+In https://www.marcrobledo.com/RomPatcher.js/ die entpackte, unveränderte Original-ROM und diesen BPS-Patch wählen. Nicht auf eine bereits gepatchte ROM anwenden. Original-MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände verwenden, keine alten Emulator-Save-States. Alle bisherigen Änderungen enthalten.
+
+Salias Reise-Spruch nach dem Waldtempel, neue Sheik-/Kokiri-/Labor-Dialoge und Deine Navi-Texte bis zum Feuertempel. Feste Lesezeiten unverändert. Gezielte Prüfungen bestanden; kein vollständiger Spieldurchlauf.

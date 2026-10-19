@@ -1,0 +1,92 @@
+[
+  {
+    "image": "Sheik_Menuett.png",
+    "case": "wald-dialoge-minuet-proof-direct-clip-on",
+    "frame": 433,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-minuet-proof-direct-clip-on/the_legend_of_zelda-003.png",
+    "rom_sha256": "c31317a3bb9a6123c9b84546f812487813ad441ce584b6c2c19de5064e33e290",
+    "limit": 3400,
+    "fixture": "minuet",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Kokiri_Amthor.png",
+    "case": "wald-dialoge-kokiri-type6-proof-direct-clip-on",
+    "frame": 414,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-kokiri-type6-proof-direct-clip-on/the_legend_of_zelda-005.png",
+    "rom_sha256": "c31317a3bb9a6123c9b84546f812487813ad441ce584b6c2c19de5064e33e290",
+    "limit": 1100,
+    "fixture": "kokiri-type6",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Kokiri_Lego_Leucht_Geist.png",
+    "case": "wald-dialoge-kokiri-type9-proof-direct-clip-on",
+    "frame": 352,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-kokiri-type9-proof-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "c31317a3bb9a6123c9b84546f812487813ad441ce584b6c2c19de5064e33e290",
+    "limit": 1100,
+    "fixture": "kokiri-type9",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Salia_vor_Waldtempel.png",
+    "case": "wald-dialoge-saria-call-safe-v4-direct-clip-on",
+    "frame": 790,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-saria-call-safe-v4-direct-clip-on/the_legend_of_zelda-012.png",
+    "rom_sha256": "c31317a3bb9a6123c9b84546f812487813ad441ce584b6c2c19de5064e33e290",
+    "limit": 1800,
+    "fixture": "saria-call-safe",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Navi_nach_Feueramulett.png",
+    "case": "wald-dialoge-navi-next-ready-v4-direct-clip-on",
+    "frame": 805,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-navi-next-ready-v4-direct-clip-on/the_legend_of_zelda-012.png",
+    "rom_sha256": "c31317a3bb9a6123c9b84546f812487813ad441ce584b6c2c19de5064e33e290",
+    "limit": 1800,
+    "fixture": "navi-next-ready",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Navi_Fotorezeptoren.png",
+    "case": "wald-dialoge-navi-statue-v4-direct-clip-on",
+    "frame": 617,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-navi-statue-v4-direct-clip-on/the_legend_of_zelda-012.png",
+    "rom_sha256": "c31317a3bb9a6123c9b84546f812487813ad441ce584b6c2c19de5064e33e290",
+    "limit": 1500,
+    "fixture": "navi-statue",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Salia_nach_Waldtempel_1.png",
+    "case": "wald-dialoge-saria-call-after-final-direct-clip-on",
+    "frame": 740,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-saria-call-after-final-direct-clip-on/the_legend_of_zelda-010.png",
+    "rom_sha256": "0fbfcd1d49f9196be409e7d91c8384b35cc7b35d168865392892bc0a0b8a40f8",
+    "limit": 1800,
+    "fixture": "saria-call-after",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Salia_nach_Waldtempel_2.png",
+    "case": "wald-dialoge-saria-call-after-final-direct-clip-on",
+    "frame": 774,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-saria-call-after-final-direct-clip-on/the_legend_of_zelda-012.png",
+    "rom_sha256": "0fbfcd1d49f9196be409e7d91c8384b35cc7b35d168865392892bc0a0b8a40f8",
+    "limit": 1800,
+    "fixture": "saria-call-after",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Salia_nach_Waldtempel_3.png",
+    "case": "wald-dialoge-saria-call-after-final-direct-clip-on",
+    "frame": 815,
+    "source": "/workspace/bean-rider/screens-wald-dialoge-saria-call-after-final-direct-clip-on/the_legend_of_zelda-015.png",
+    "rom_sha256": "0fbfcd1d49f9196be409e7d91c8384b35cc7b35d168865392892bc0a0b8a40f8",
+    "limit": 1800,
+    "fixture": "saria-call-after",
+    "prepared_progress_and_player_only": true
+  }
+]
