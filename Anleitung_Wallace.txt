@@ -1,0 +1,5 @@
+Wallace in Dodongos Höhle – deutscher Europa/PAL-1.0-Gesamtpatch
+
+In https://www.marcrobledo.com/RomPatcher.js/ die entpackte, unveränderte Original-ROM und diesen BPS-Patch wählen. Nicht auf eine bereits gepatchte ROM anwenden. Original-MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Wallace steht nur als Kind am westlichen Rand des Raums mit der großen Bombenblumen-Treppe in Dodongos Höhle. Mit A ansprechen. Als Erwachsener ist er weg. Einfache eigene Kopf-/Armbewegungen und normale Höhlenbeleuchtung. Alle bisherigen Modelle und Dialoge einschließlich der Wald-/Navi-/Salia-Änderungen sind enthalten. Gezielte 4-MiB-Prüfungen bestanden; kein vollständiger Spieldurchlauf.

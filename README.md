@@ -1,6 +1,18 @@
-# Merzen der Bauer: Wald, Navi und Salias Reise
+# Merzen der Bauer: Wallace in Dodongos Höhle
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wald_Navi_Feuer.bps?raw=true)** · [Ingame-Bilder](Wald_Navi_Feuer_Ingame_Bilder.zip?raw=true) · [Navi-Texte mit Auslösern](Navi_Nach_Waldtempel_bis_Feuer_Aktuell.md) · [Quellen, Patch und Prüfungen](Merzen_Wald_Navi_Feuer_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wald_Navi_Feuer.txt)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wallace.bps?raw=true)** · [Echte Ingame-Bilder](Wallace_Ingame_Bilder.zip?raw=true) · [Quellen, Patch und Prüfungen](Merzen_Wallace_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wallace.txt)
+
+Wallace steht **nur als Kind** am westlichen Rand des Bombenblumen-Treppenraums in Dodongos Höhle. Normal mit A ansprechen. Er erforscht die Goronen und das extreme Klima und erzählt von Merz' Kohleabbaufiasko. Als Erwachsener fehlt er. 1444 Dreiecke, eigene kleine Kopf-/Armbewegungen, normale Höhlenbeleuchtung und Schatten. Alle bisherigen Modelle und Dialoge enthalten. [Prüfbericht](Wallace_Beispielbilder/Pruefbericht.md).
+
+In [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **entpackte, unveränderte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Text-/ROM-Prüfung, RomPatcher.js-Roundtrip und fünf gezielte Emulatorproben mit tatsächlichen 4 MiB bestanden. Kind/Erwachsener, Wiederansprache, Raum-Fertig-Markierung und echter Tür-Raumwechsel geprüft. Kein vollständiger Spieldurchlauf oder Hardwaretest.
+
+![Wallace über die Klimaforschung](Wallace_Beispielbilder/Wallace_Klimaforschung.png)
+
+## Vorherige Fassung: Wald, Navi und Salias Reise
+
+**[Vorherigen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wald_Navi_Feuer.bps?raw=true)** · [Ingame-Bilder](Wald_Navi_Feuer_Ingame_Bilder.zip?raw=true) · [Navi-Texte mit Auslösern](Navi_Nach_Waldtempel_bis_Feuer_Aktuell.md) · [Quellen, Patch und Prüfungen](Merzen_Wald_Navi_Feuer_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wald_Navi_Feuer.txt)
 
 Salias Reise-Spruch beim Anruf nach dem Waldtempel ist eingebaut. Außerdem Sheiks Gedicht, Kokiri-Sprüche, der erwachsene Laborforscher mit Papphai und Deine Navi-Fassungen bis nach dem Feuertempel. Alle bisherigen Modelle und Änderungen enthalten. 763 bearbeitete deutsche Nachrichten. [Prüfbericht](Wald_Navi_Feuer_Beispielbilder/Pruefbericht.md).
 

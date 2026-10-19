@@ -1,0 +1,56 @@
+[
+  {
+    "image": "Wallace_fester_Standort.png",
+    "case": "wallace-child-final-direct-clip-on",
+    "frame": 300,
+    "source": "/workspace/bean-rider/screens-wallace-child-final-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "1bdb74d9e7dc2f128d0313bd6e4d6aa95dc908ceb9f65a7f40031df2f9aba838",
+    "prepared_player_start": true,
+    "npc_position_unchanged": true
+  },
+  {
+    "image": "Wallace_ueber_Goronen.png",
+    "case": "wallace-child-final-direct-clip-on",
+    "frame": 357,
+    "source": "/workspace/bean-rider/screens-wallace-child-final-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "1bdb74d9e7dc2f128d0313bd6e4d6aa95dc908ceb9f65a7f40031df2f9aba838",
+    "prepared_player_start": true,
+    "npc_position_unchanged": true
+  },
+  {
+    "image": "Wallace_Klimaforschung.png",
+    "case": "wallace-child-final-direct-clip-on",
+    "frame": 431,
+    "source": "/workspace/bean-rider/screens-wallace-child-final-direct-clip-on/the_legend_of_zelda-004.png",
+    "rom_sha256": "1bdb74d9e7dc2f128d0313bd6e4d6aa95dc908ceb9f65a7f40031df2f9aba838",
+    "prepared_player_start": true,
+    "npc_position_unchanged": true
+  },
+  {
+    "image": "Wallace_Kohleabbaufiasko.png",
+    "case": "wallace-child-final-direct-clip-on",
+    "frame": 558,
+    "source": "/workspace/bean-rider/screens-wallace-child-final-direct-clip-on/the_legend_of_zelda-007.png",
+    "rom_sha256": "1bdb74d9e7dc2f128d0313bd6e4d6aa95dc908ceb9f65a7f40031df2f9aba838",
+    "prepared_player_start": true,
+    "npc_position_unchanged": true
+  },
+  {
+    "image": "Wallace_in_der_Hoehle.png",
+    "case": "wallace-child-final-direct-clip-on",
+    "frame": 631,
+    "source": "/workspace/bean-rider/screens-wallace-child-final-direct-clip-on/the_legend_of_zelda-010.png",
+    "rom_sha256": "1bdb74d9e7dc2f128d0313bd6e4d6aa95dc908ceb9f65a7f40031df2f9aba838",
+    "prepared_player_start": true,
+    "npc_position_unchanged": true
+  },
+  {
+    "image": "Erwachsen_ohne_Wallace.png",
+    "case": "wallace-adult-final-direct-clip-on",
+    "frame": 400,
+    "source": "/workspace/bean-rider/screens-wallace-adult-final-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "1bdb74d9e7dc2f128d0313bd6e4d6aa95dc908ceb9f65a7f40031df2f9aba838",
+    "prepared_player_start": true,
+    "npc_position_unchanged": true
+  }
+]
