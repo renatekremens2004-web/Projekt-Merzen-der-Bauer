@@ -1,6 +1,20 @@
-# Merzen der Bauer: Mido in der Zukunft
+# Merzen der Bauer: Krabbelminen-Frau als Waldweise
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Mido_Zukunft.bps?raw=true)** · [Zwei echte Ingame-Bilder](Mido_Zukunft_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Mido_Zukunft.txt) · [Quellen und Prüfungen](Merzen_Mido_Zukunft_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldweise.bps?raw=true)** · [Echte Ingame-Bilder](Waldweise_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldweise.txt) · [Quellen und Prüfungen](Merzen_Waldweise_Quellen_Patch_Bilder.zip?raw=true)
+
+Die Krabbelminen-Frau übernimmt die Waldweisenrolle: Enthüllung nach dem Waldtempel, erwachsene Proportionen und eigene Animationen. In den Credits sitzt sie auf Darunias Schultern. Junge Salia bleibt erhalten. **706 eigene Nachrichten, alle bisherigen Änderungen enthalten.** [Prüfbericht mit Speichergrenzen](Waldweise_Beispielbilder/Pruefbericht.md).
+
+In [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Sieben gezielte Emulatorproben mit ursprünglichen 4 MiB, Text-/ROM-Prüfungen und RomPatcher.js bestanden. Kein vollständiger Spieldurchlauf oder Hardwaretest. Thaddäus ersetzt bisher den Tauchspiel-Leiter; seine Wasserweisenrolle und Naboorus Ersatz sind noch geplant. Weitere Modelle brauchen jeweils eine neue Speicherprüfung.
+
+![Echte Credits: Krabbelminen-Frau auf Darunias Schultern](Waldweise_Beispielbilder/Credits_auf_Darunias_Schultern.png)
+
+![Enthüllung nach dem Waldtempel](Waldweise_Beispielbilder/Waldweise_Enthuellung.png)
+
+## Vorherige Fassung: Mido in der Zukunft
+
+**[Vorherigen Mido-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Mido_Zukunft.bps?raw=true)** · [Zwei echte Ingame-Bilder](Mido_Zukunft_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Mido_Zukunft.txt) · [Quellen und Prüfungen](Merzen_Mido_Zukunft_Quellen_Patch_Bilder.zip?raw=true)
 
 Mido findet den Spieler selbst nach sieben Jahren noch scheiße und hat sich mit König Zora für eine mögliche Siegesfeier nach Friedrich Merz’ Niederlage verabredet. Liedprüfung und Wegfreigabe bleiben unverändert. **698 eigene Nachrichten, alle bisherigen Änderungen enthalten.** [Prüfbericht](Mido_Zukunft_Beispielbilder/Pruefbericht.md).
 

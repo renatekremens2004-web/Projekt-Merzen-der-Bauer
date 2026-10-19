@@ -1,0 +1,5 @@
+Krabbelminen-Frau als Waldweise – Europa/PAL 1.0, Deutsch
+
+Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden, nicht auf einen vorherigen Mod-Patch. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände, keine alten Emulator-Save-States.
+
+Erwachsene Waldweise nach dem Waldtempel, eigene Animationen und Sitz auf Darunias Schultern in den Credits. Junge Salia bleibt erhalten. 706 eigene Nachrichten, alle bisherigen Änderungen. Sieben gezielte 4-MiB-Emulatorproben und Text-/ROM-/Patchprüfungen bestanden. Kein vollständiger Spieldurchlauf oder Hardwaretest. Thaddäus als Wasserweiser und Nabooru-Ersatz sind noch nicht eingebaut.

@@ -1,0 +1,35 @@
+{
+  "Credits_auf_Darunias_Schultern.png": {
+    "scenario": "bowling-sage-credits-final-direct-clip-on",
+    "frame_callback": 10,
+    "message_id": null,
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "unedited": true,
+    "native_npc_position_and_cues": true,
+    "camera": "modified in production for adult proportions",
+    "rom_sha256": "3ca9c4c0054ae075a5db8f5ae18db7f38072d63d11cd3adbaf779afce1a2efe9",
+    "sha256": "6058877778639b346d4c6a29dbea760e31e50f0a4e7cb7cdbcac3e931c157878"
+  },
+  "Waldweise_Enthuellung.png": {
+    "scenario": "bowling-sage-hall2-final-direct-clip-on",
+    "frame_callback": 176,
+    "message_id": "106a",
+    "source_screenshot": "the_legend_of_zelda-000.png",
+    "unedited": true,
+    "native_npc_position_and_cues": true,
+    "camera": "modified in production for adult proportions",
+    "rom_sha256": "3ca9c4c0054ae075a5db8f5ae18db7f38072d63d11cd3adbaf779afce1a2efe9",
+    "sha256": "a710c95c4ab7e0a0729bb3482868303d73bb6ba187e6736fe36fc157b36efcad"
+  },
+  "Waldweise_Dienstplan.png": {
+    "scenario": "bowling-sage-hall2-final-direct-clip-on",
+    "frame_callback": 1204,
+    "message_id": "1090",
+    "source_screenshot": "the_legend_of_zelda-024.png",
+    "unedited": true,
+    "native_npc_position_and_cues": true,
+    "camera": "modified in production for adult proportions",
+    "rom_sha256": "3ca9c4c0054ae075a5db8f5ae18db7f38072d63d11cd3adbaf779afce1a2efe9",
+    "sha256": "e5c34246bec657b7e7ba64a3f4e4ad8af4d520679d6ae0bded108be69b39a9e7"
+  }
+}
