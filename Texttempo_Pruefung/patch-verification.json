@@ -1,0 +1,7 @@
+{
+  "source_md5": "e040de91a74b61e3201db0e2323f768a",
+  "target_sha256": "67c879ed33a4fc9c1f0817396afc407a01df47076120d9512ccd1564ecee0363",
+  "target_bytes": 33554432,
+  "rompatcher_js_source_validation": true,
+  "byte_identical_to_production": true
+}

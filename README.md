@@ -1,6 +1,16 @@
-# Merzen der Bauer: Zoras über Musik und Mido
+# Merzen der Bauer: schnelleres Texttempo
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zora_Gags.bps?raw=true)** · **[Zwei echte Ingame-Bilder](Zora_Gags_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Zora_Gags_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Texttempo.bps?raw=true)** · [Anleitung](Anleitung_Texttempo.txt) · [Prüfbericht](Texttempo_Pruefung/Pruefbericht.md) · [Quellen, Patch und Prüfnachweise](Merzen_Texttempo_Quellen_Patch_Pruefung.zip?raw=true)
+
+Normale deutsche Textboxen zeigen ihre Buchstaben ungefähr doppelt so schnell. Jede Seite wartet weiterhin auf Deinen Tastendruck. Feste Textzeiten, Auswahlfragen, Cutscenes und Spezialsteuerungen behalten das bisherige Verhalten. A und B bleiben wie bisher belegt. Alle bisherigen Modelle und 599 bearbeiteten Dialoge enthalten, normaler Spielstart.
+
+Den Gesamtpatch in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine bereits gepatchte Mod anwenden. Normale Spielstände verwenden, keine alten Emulator-Save-States. Der ältere separate Nach-Jabu-Testpatch wird dadurch nicht geändert.
+
+Vorher/Nachher mit derselben Dialogsituation bei 4 MiB gemessen. Englische Gegenprobe, native Auswahlfrage und automatischer Merz-Text behalten den beobachteten Ablauf. Alle 2115 deutschen ROM-Nachrichten bytegleich, sämtliche Textkontrollen, Puffer und 1509 Segmente geprüft; BPS mit RomPatcher.js erfolgreich gegen die Original-ROM validiert. Kein kompletter Spieldurchlauf oder Hardwaretest.
+
+## Vorherige Fassung: Zoras über Musik und Mido
+
+**[Vorherigen Zora-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zora_Gags.bps?raw=true)** · **[Zwei echte Ingame-Bilder](Zora_Gags_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Zora_Gags_Quellen_Patch_Bilder.zip?raw=true)
 
 Zwei schwächere Ergänzungen ersetzt: Der Tierarzt-Dialog und mein allgemeiner Ruto-Nachtrag weichen den neuen Nutzerideen. Ein Zora bemerkt die für eine Sekunde sau crazy klingende Musik beim Verlassen der Höhle. Ein anderer kennt Mido, nennt ihn einen Wichser und erzählt, wie Mido ihm das Schwimmen erklären wollte – einem Zora. Beide Einträge sind nach Erhalt des Zora-Saphirs verfügbar. Die nativen Zora-Gruppen teilen diese zwei Nach-Jabu-Nachrichten wie bisher.
 

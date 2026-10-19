@@ -1,0 +1,7 @@
+Schnelleres Texttempo – deutsche Europa/PAL 1.0
+
+In RomPatcher.js den BPS-Gesamtpatch auf die entpackte, unveränderte Original-ROM anwenden. Nicht auf eine frühere Mod. Original-MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände laden, keine alten Emulator-Save-States. Alle bisherigen Änderungen enthalten; normaler Spielstart. Der separate ältere Nach-Jabu-Testpatch erhält diese Änderung nicht automatisch.
+
+Normale deutsche Textseiten erscheinen ungefähr doppelt so schnell. Jede Seite wartet weiterhin auf A. A/B und deren Funktion unverändert. Feste Zeitvorgaben, Auswahlseiten, Cutscenes und Spezialsteuerungen behalten das bisherige Tempo. Alle Texte unverändert.
+
+Build, Puffer, 599 Kontrollsequenzen, 2115 unveränderte deutsche ROM-Nachrichten, 1509 Segmente, 4-MB-Vorher/Nachher-Laufzeitvergleiche und RomPatcher.js geprüft. Kein kompletter Spieldurchlauf oder Hardwaretest.
