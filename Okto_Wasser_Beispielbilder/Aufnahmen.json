@@ -1,0 +1,29 @@
+{
+  "Okto_am_Wasser.png": {
+    "scenario": "waterokto-cleared-v2-direct-clip-on",
+    "frame": 300,
+    "source_screenshot": "the_legend_of_zelda-000.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "508a8bf66f5775e4f88151723089abe713ce7d1b490a6964fed01640411bb168",
+    "sha256": "9fb7df5234216014efa729c24f7e36bbfe5de2ba151de1ef86e072738b4d0e87"
+  },
+  "Okto_stellt_sich_vor.png": {
+    "scenario": "waterokto-cleared-v2-direct-clip-on",
+    "frame": 337,
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "508a8bf66f5775e4f88151723089abe713ce7d1b490a6964fed01640411bb168",
+    "sha256": "6a1db004f9cf6975dcb16af0e4c927c1468388e8a9609bc2a6d66ef9cb75cad2"
+  },
+  "Nicht_alle_Oktoroks.png": {
+    "scenario": "waterokto-cleared-v2-direct-clip-on",
+    "frame": 396,
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "508a8bf66f5775e4f88151723089abe713ce7d1b490a6964fed01640411bb168",
+    "sha256": "6f9b3fca34609551239522a283e5618c8b5f3b0bad9fd72b1ed7ae5a4a182975"
+  }
+}

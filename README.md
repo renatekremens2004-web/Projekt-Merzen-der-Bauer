@@ -1,6 +1,18 @@
-# Merzen der Bauer: Okto, der Oktorok
+# Merzen der Bauer: Okto am Wasser
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Okto.bps?raw=true)** · [Drei echte Ingame-Bilder](Okto_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Okto.txt) · [Quellen, Patch und Prüfungen](Merzen_Okto_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Okto_Wasser.bps?raw=true)** · [Drei echte Ingame-Bilder](Okto_Wasser_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Okto_Wasser.txt) · [Quellen, Patch und Prüfungen](Merzen_Okto_Wasser_Quellen_Patch_Bilder.zip?raw=true)
+
+Okto schwimmt jetzt am Wasser im Eingangsraum von Jabu-Jabu. Vom trockenen Ufer mit A ansprechen; friedlich und wiederholbar, auch nach geräumtem Raum. Native Wasserringe und Beleuchtung. Alle **682** eigenen Nachrichten sowie alle bisherigen Änderungen enthalten. [Prüfbericht](Okto_Wasser_Beispielbilder/Pruefbericht.md).
+
+Mit [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Zwei gezielte native 4-MiB-Prüfungen, sämtliche 1509 ROM-Segmente, unveränderte Nachrichten und RomPatcher.js geprüft. Kein kompletter Spieldurchlauf oder Hardwaretest.
+
+![Okto am Wasser](Okto_Wasser_Beispielbilder/Okto_am_Wasser.png)
+
+## Vorherige Fassung: Okto, der Oktorok
+
+**[Vorherigen Okto-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Okto.bps?raw=true)** · [Drei echte Ingame-Bilder](Okto_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Okto.txt) · [Quellen, Patch und Prüfungen](Merzen_Okto_Quellen_Patch_Bilder.zip?raw=true)
 
 Okto ist ein zusätzlicher friedlicher Oktorok rechts im Eingangsraum von Jabu-Jabu. Mit Z anvisieren und A sprechen; wiederholbar, ohne Angriff und ohne Einfluß auf die Gegnerzahl für den Raumabschluß. Normale Oktoroks und der große Oktorok behalten ihr Verhalten. **682** bearbeitete Nachrichten mit allen bisherigen Änderungen, Modellen und schnellerem Schreibtempo. [Prüfbericht](Okto_Beispielbilder/Pruefbericht.md).
 

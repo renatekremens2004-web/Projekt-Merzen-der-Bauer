@@ -1,0 +1,5 @@
+Okto am Wasser – Europa/PAL 1.0, Deutsch
+
+BPS-Gesamtpatch mit RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Nicht auf eine bereits gepatchte Mod anwenden. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Okto schwimmt am Wasser im Jabu-Jabu-Eingangsraum. Vom trockenen Ufer mit A ansprechen. Auch nach geräumtem Raum vorhanden; friedlich, wiederholbar, native Wasserringe. Alle 682 eigenen Nachrichten und bisherigen Änderungen enthalten. Zwei gezielte native 4-MiB-Prüfungen sowie ROM-/Patchprüfungen bestanden; kein vollständiger Durchlauf oder Hardwaretest. Drei echte Ingame-Bilder im Bilder-ZIP.
