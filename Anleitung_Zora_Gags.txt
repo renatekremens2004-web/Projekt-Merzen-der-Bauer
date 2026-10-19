@@ -1,0 +1,7 @@
+Zoras über Musik und Mido – deutsche PAL 1.0
+
+Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden, nicht auf eine frühere Mod. MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände statt alter Emulator-Save-States verwenden.
+
+Tierarzt-/allgemeiner Ruto-Nachtrag nach Jabu-Jabu ersetzt durch die beiden Nutzerideen: kurz crazy klingende Musik beim Verlassen der Höhle und ein Zora, der Mido kennt und scheiße findet. Beide Texte nach Erhalt des Saphirs verfügbar. Alle übrigen Vorgaben erhalten. Normaler Spielstart, 599 deutsche Nachrichten und alle bisherigen Änderungen einschließlich der schärferen Navi-Roasts enthalten.
+
+Genau zwei deutsche Nachrichtentexte im ROM geändert; übrige Nachrichten und ausführbarer Code erhalten. Alle Textpuffer, Kontrollzeichen, 1509 Segmente und RomPatcher.js geprüft. Drei gezielte 4-MB-Szenarien, kein kompletter Spieldurchlauf oder Hardwaretest.

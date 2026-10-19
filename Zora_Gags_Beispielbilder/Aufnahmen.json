@@ -1,0 +1,20 @@
+{
+  "Zora_kennt_Mido.png": {
+    "scenario": "zora-gag-mido-focus-direct-clip-on",
+    "frame": 598,
+    "message_id": "402D",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "9d8ba16158bbd96130ec5d42204e04fa2784be00855095b3a285894ca9c81360",
+    "unedited": true,
+    "test_start_note": "Nur Link vor den nativen Zora gestellt, Fortschritt nach Erhalt des Saphirs. Kein NPC versetzt oder eingefroren."
+  },
+  "Zora_ueber_die_Musik.png": {
+    "scenario": "zora-gag-music-focus-direct-clip-on",
+    "frame": 595,
+    "message_id": "402E",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "sha256": "6aae948a7808167f445eb5fd4def6dbff939d5dbcd024bad11c1a28f58f0279d",
+    "unedited": true,
+    "test_start_note": "Nur Link vor den nativen Zora gestellt, Fortschritt nach Erhalt des Saphirs. Kein NPC versetzt oder eingefroren."
+  }
+}

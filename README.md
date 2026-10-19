@@ -1,6 +1,22 @@
-# Merzen der Bauer: Navi beleidigt die Gegner
+# Merzen der Bauer: Zoras über Musik und Mido
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Navi_Roasts.bps?raw=true)** · **[Echte Ingame-Bilder](Navi_Gegner_Roasts_Ingame_Bilder.zip?raw=true)** · [Alle 93 Texte lesen](Navi_Gegner_Roasts_Alle_Texte.txt) · [Quellen, Patch und Prüfnachweise](Merzen_Navi_Roasts_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zora_Gags.bps?raw=true)** · **[Zwei echte Ingame-Bilder](Zora_Gags_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Zora_Gags_Quellen_Patch_Bilder.zip?raw=true)
+
+Zwei schwächere Ergänzungen ersetzt: Der Tierarzt-Dialog und mein allgemeiner Ruto-Nachtrag weichen den neuen Nutzerideen. Ein Zora bemerkt die für eine Sekunde sau crazy klingende Musik beim Verlassen der Höhle. Ein anderer kennt Mido, nennt ihn einen Wichser und erzählt, wie Mido ihm das Schwimmen erklären wollte – einem Zora. Beide Einträge sind nach Erhalt des Zora-Saphirs verfügbar. Die nativen Zora-Gruppen teilen diese zwei Nach-Jabu-Nachrichten wie bisher.
+
+Genau zwei deutsche Texte geändert; alle anderen Nutzerideen und die neuen Navi-Roasts bleiben enthalten. Weiterhin **599 deutsche Nachrichten**, alte Rechtschreibung und normale Seitenzahlen. Keine Änderungen an Musikdaten, Figuren oder Kampflogik.
+
+Den normalen Gesamtpatch direkt auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine vorherige Mod anwenden. Normale Spielstände statt alter Emulator-Save-States verwenden. Normaler Spielstart und alle bisherigen Änderungen enthalten.
+
+Zwei native Gesprächspartner nach Jabu-Jabu und englische Gegenprobe mit derselben Produktions-ROM bei 4 MB geprüft. Nur Link wird für die Aufnahmen aufgestellt; NPCs bleiben am Originalplatz. ROM-Nachrichtentabellen, alle Textkontrollen und Puffer, 1509 Segmente und RomPatcher.js geprüft. Kein kompletter Spieldurchlauf oder Hardwaretest. [Prüfbericht](Zora_Gags_Beispielbilder/Pruefbericht.md).
+
+![Mido](Zora_Gags_Beispielbilder/Zora_kennt_Mido.png)
+
+![Musik](Zora_Gags_Beispielbilder/Zora_ueber_die_Musik.png)
+
+## Vorherige Fassung: Navi beleidigt die Gegner
+
+**[Vorherigen Navi-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Navi_Roasts.bps?raw=true)** · **[Echte Ingame-Bilder](Navi_Gegner_Roasts_Ingame_Bilder.zip?raw=true)** · [Alle 93 Texte lesen](Navi_Gegner_Roasts_Alle_Texte.txt) · [Quellen, Patch und Prüfnachweise](Merzen_Navi_Roasts_Quellen_Patch_Bilder.zip?raw=true)
 
 Alle 93 Navi-Zieltextplätze wurden neu geschrieben: direktes Beschimpfen über die tatsächlichen Aktionen der Gegner, deutlich derber und nicht überall mit Flüchen. Skulltula: „Du achtbeiniger Vollidiot! Dreh Dich ruhig um und zeig uns Deinen Schwachpunkt. Ja, genau so. Meine Fresse.“ Killermuschel: „Mach die Fresse noch einmal auf! Ich brech' diese Scheißmuschel in der Mitte durch, ich schwör's Dir!“ Alte Rechtschreibung, alle bisherigen Seitenzahlen und festen Zeiten bleiben erhalten. Insgesamt **599 deutsche Nachrichten** und alle bisherigen Modelle und Dialogkapitel enthalten.
 
