@@ -1,0 +1,56 @@
+[
+  {
+    "file": "Pepsiman_Kohlensaeure_Held.png",
+    "logical_frame": 216,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Pepsiman_Thaddaeus_hasst_Pepsi.png",
+    "logical_frame": 382,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Pepsiman_Coca_Cola.png",
+    "logical_frame": 455,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Pepsiman_Im_Raum.png",
+    "logical_frame": 100,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Navi_Pepsi_Muell.png",
+    "logical_frame": 239,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Navi_Zerdrueckte_Dose.png",
+    "logical_frame": 239,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Dose_Spaeterer_Tempelraum.png",
+    "logical_frame": 239,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Dose_Oberer_Absatz.png",
+    "logical_frame": 239,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Dose_Nach_dem_Kampf.png",
+    "logical_frame": 239,
+    "rom_sha256": "dfa18e3c0db488033ebc9254e12725901a0a56e5dbea420263ce4730e5d9ce71",
+    "unaltered_emulator_png": true
+  }
+]

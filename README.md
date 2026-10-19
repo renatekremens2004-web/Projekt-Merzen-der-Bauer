@@ -1,3 +1,13 @@
+# Merzen der Bauer: Pepsiman im Wassertempel
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Pepsiman_Wassertempel.bps?raw=true) · [Bilder](Pepsiman_Wassertempel_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Pepsiman_Wassertempel_Quellen_Patch_Bilder.zip?raw=true)
+
+[Neue Dialoge](Pepsiman_Dialoge.md) · [Prüfbericht](Pepsiman_Wassertempel_Beispielbilder/Pruefbericht.md)
+
+Pepsiman als freundlicher Gesprächspartner im Inneren des Wassertempels. Sechs kleine anvisierbare Dosen in fünf Räumen, ohne Kollision; Navi kommentiert den Müll. Alle bisherigen Änderungen enthalten. Auf die unveränderte Europa/PAL-1.0-ROM anwenden.
+
+![Pepsiman](Pepsiman_Wassertempel_Beispielbilder/Pepsiman_Kohlensaeure_Held.png)
+
 # Merzen der Bauer: Zoras, Eis und Stiefel-Schnellwechsel
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Zoras_Eis_Wasser_Stiefel.bps?raw=true) · [Bilder](Zoras_Eis_Wasser_Stiefel_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Zoras_Eis_Wasser_Stiefel_Quellen_Patch_Bilder.zip?raw=true)
