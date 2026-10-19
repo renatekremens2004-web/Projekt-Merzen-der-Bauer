@@ -1,6 +1,20 @@
-# Merzen der Bauer: Okto am Wasser
+# Merzen der Bauer: Wald-Auftakt
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Okto_Wasser.bps?raw=true)** · [Drei echte Ingame-Bilder](Okto_Wasser_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Okto_Wasser.txt) · [Quellen, Patch und Prüfungen](Merzen_Okto_Wasser_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wald_Auftakt.bps?raw=true)** · [Vier echte Ingame-Bilder](Wald_Auftakt_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wald_Auftakt.txt) · [Quellen, Patch und Prüfungen](Merzen_Wald_Auftakt_Quellen_Patch_Bilder.zip?raw=true)
+
+Boris ist erst vorgestern gestorben und behauptet, Rennsport und „Uga Paluga“ hätten ihn schon immer ausgezeichnet. Der entspannte Kokiri kommt seit sieben Jahren nicht auf den toten Deku-Baum klar. Shiek deutet eine alte Freundin an. **695 eigene Nachrichten**, alle bisherigen Änderungen einschließlich Okto am Wasser enthalten. [Prüfbericht](Wald_Auftakt_Beispielbilder/Pruefbericht.md).
+
+Waldweise als Krabbelminen-Frau und Phantom-Ganon als Philipp Amthor mit Smithers-Modell sind [für später vorgemerkt](Wald_Auftakt_Beispielbilder/Weitere_Plaene.md); die neuen Modelle sind noch nicht geliefert/eingebaut.
+
+Mit [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Fünf native 4-MiB-Gesprächsproben, sämtliche 1509 ROM-Segmente, Textpuffer/Steuerungen und RomPatcher.js geprüft. Kein kompletter Renn-/Waldtempel-Durchlauf oder Hardwaretest.
+
+![Boris](Wald_Auftakt_Beispielbilder/Boris_Uga_Paluga.png)
+
+## Vorherige Fassung: Okto am Wasser
+
+**[Vorherigen Okto-Wasser-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Okto_Wasser.bps?raw=true)** · [Drei echte Ingame-Bilder](Okto_Wasser_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Okto_Wasser.txt) · [Quellen, Patch und Prüfungen](Merzen_Okto_Wasser_Quellen_Patch_Bilder.zip?raw=true)
 
 Okto schwimmt jetzt am Wasser im Eingangsraum von Jabu-Jabu. Vom trockenen Ufer mit A ansprechen; friedlich und wiederholbar, auch nach geräumtem Raum. Native Wasserringe und Beleuchtung. Alle **682** eigenen Nachrichten sowie alle bisherigen Änderungen enthalten. [Prüfbericht](Okto_Wasser_Beispielbilder/Pruefbericht.md).
 

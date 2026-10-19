@@ -1,0 +1,7 @@
+Wald-Auftakt – Europa/PAL 1.0, Deutsch
+
+BPS-Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Nicht auf eine bereits gepatchte Mod anwenden. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+695 eigene Nachrichten, alle bisherigen Änderungen enthalten. Neu: Kokiri-Zukunftsdialog, Shieks zweideutige Hinweise und Boris mit Treppensturz vorgestern, erfundener Rennsport-Vergangenheit und Uga Paluga. Krabbelminen-Frau als Waldweise und Smithers/Amthor als Phantom-Ganon sind für später vorgemerkt, Modelle noch nicht eingebaut.
+
+Fünf gezielte native 4-MiB-Proben, ROM-/Text-/Patchprüfungen. Kein voller Renn-/Dungeon-Durchlauf oder Hardwaretest. Vier echte Ingame-Aufnahmen im Bilder-ZIP.

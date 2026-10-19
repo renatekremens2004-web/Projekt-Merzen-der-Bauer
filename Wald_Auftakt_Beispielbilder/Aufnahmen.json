@@ -1,0 +1,42 @@
+{
+  "Boris_seit_vorgestern_tot.png": {
+    "scenario": "forest-boris-v2-direct-clip-on",
+    "frame": 408,
+    "message_id": "5041",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "3b1e1808f52f6484b3a76cd8aaa90feccc0bbbf825cd779f5a9e8031efe766ce",
+    "sha256": "75fbf2298b5e4180cc2cfbf47a1f8c63c9f4b7396f108bced8e1872214e45a9f"
+  },
+  "Boris_Uga_Paluga.png": {
+    "scenario": "forest-boris-v2-direct-clip-on",
+    "frame": 776,
+    "message_id": "5041",
+    "source_screenshot": "the_legend_of_zelda-018.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "3b1e1808f52f6484b3a76cd8aaa90feccc0bbbf825cd779f5a9e8031efe766ce",
+    "sha256": "30343091039640a0f5e68bce0de1c0622710e1f100b81ce2795e12c43e8f9c27"
+  },
+  "Kokiri_sieben_Jahre.png": {
+    "scenario": "forest-house-v6-direct-clip-on",
+    "frame": 354,
+    "message_id": "105f",
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "3b1e1808f52f6484b3a76cd8aaa90feccc0bbbf825cd779f5a9e8031efe766ce",
+    "sha256": "0d5788e09d8c7e09518de267e3726acd242f69984b14d26cf2e1dab34948b7e2"
+  },
+  "Shiek_alte_Freundin.png": {
+    "scenario": "forest-shiek-v1-direct-clip-on",
+    "frame": 2305,
+    "message_id": "707a",
+    "source_screenshot": "the_legend_of_zelda-050.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "3b1e1808f52f6484b3a76cd8aaa90feccc0bbbf825cd779f5a9e8031efe766ce",
+    "sha256": "d432b3083e0649ee463492df79a13869f384a630decef3a0c624edd62e42ece9"
+  }
+}
