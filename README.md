@@ -1,6 +1,20 @@
-# Merzen der Bauer: Waldweise v2
+# Merzen der Bauer: Waldtempel, Navi und Tripple T
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldweise_v2.bps?raw=true)** · [Neue Ingame-Bilder und bisheriger Sitz zum Vergleich](Waldweise_v2_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldweise_v2.txt) · [Quellen und Prüfungen](Merzen_Waldweise_v2_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldtempel_Sahur.bps?raw=true)** · [Neue Ingame-Bilder](Waldtempel_Sahur_Ingame_Bilder.zip?raw=true) · [Navi-Texte](Navi_Waldtempel_Aktuell.md) · [Quellen, Patch und Prüfungen](Merzen_Waldtempel_Sahur_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldtempel_Sahur.txt)
+
+Deine Navi-Fassungen, Majoras Maske im inneren westlichen Gang unter dem verdrehten Korridor und Tripple T als Deku-Sproß nach dem Waldamulett. **724 eigene Nachrichten und alle bisherigen Änderungen.** 0120 und feste Lesezeiten bleiben unverändert. Maske mit Z/C-oben untersuchen; kein Einsammel- oder Questgegenstand. [Prüfbericht](Waldtempel_Sahur_Beispielbilder/Pruefbericht.md).
+
+Mit [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden, nicht auf einen älteren Mod-Patch. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände, keine alten Emulator-Save-States.
+
+Start, Dialoge, Anvisieren/Wiederansprache und nativer Waldamulett-/Sproß-Ablauf mit 4 MiB geprüft. RomPatcher.js erzeugt bytegleich die getestete Produktions-ROM. Kein vollständiger Spieldurchlauf oder Hardwaretest.
+
+![Die Maske im inneren Gang](Waldtempel_Sahur_Beispielbilder/Majoras_Maske_im_inneren_Gang.png)
+
+![Tripple T im echten Gespräch](Waldtempel_Sahur_Beispielbilder/Tripple_T_Gespraech.png)
+
+## Vorherige Fassung: Waldweise v2
+
+**[Vorherigen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldweise_v2.bps?raw=true)** · [Neue Ingame-Bilder und bisheriger Sitz zum Vergleich](Waldweise_v2_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldweise_v2.txt) · [Quellen und Prüfungen](Merzen_Waldweise_v2_Quellen_Patch_Bilder.zip?raw=true)
 
 Die Krabbelminen-Frau sitzt am Schulter-/Halsansatz statt auf Darunias Haarspitze. Angepaßte Beinpose, gleicher Körpermaßstab, seitlicher Blick von hinten in der gemeinsamen Credits-Einstellung. Neuer Dialog: Merz hat Hyrule kaputtgespart, der Laden ist eingestürzt und hat sie erschlagen; sie bittet um eine Warnung in der Vergangenheit. Feste Textzeiten erhalten. **706 eigene Nachrichten, alle bisherigen Änderungen enthalten.** [Prüfbericht samt Normalstart und Speichergrenzen](Waldweise_v2_Beispielbilder/Pruefbericht.md).
 

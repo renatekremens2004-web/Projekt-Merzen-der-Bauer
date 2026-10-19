@@ -1,0 +1,5 @@
+Waldtempel, Navi und Tripple T – Europa/PAL 1.0, Deutsch
+
+Den BPS-Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Nicht auf eine bereits gepatchte Fassung! Original-MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+724 eigene Nachrichten, Deine Navi-Fassungen, Maske im inneren westlichen Gang (Z/C-oben) und Tripple T nach dem Waldamulett. Alle bisherigen Änderungen enthalten. 0120 und feste Lesezeiten unverändert. Gezielt mit tatsächlichen 4 MiB geprüft; kein vollständiger Spieldurchlauf oder Hardwaretest.
