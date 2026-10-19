@@ -1,0 +1,5 @@
+Waldweise v2 – Europa/PAL 1.0, Deutsch
+
+Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden, nicht auf einen vorherigen Mod-Patch. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände, keine alten Emulator-Save-States.
+
+Korrigierter Schulter-Sitz in den Credits, neue Einsturz-/Todesgeschichte und Bitte um Warnung in der Vergangenheit. 706 eigene Nachrichten, alle bisherigen Änderungen enthalten. Gezielt mit 4 MiB einschließlich Normalstart geprüft. Kein vollständiger Spieldurchlauf oder Hardwaretest. Waluigi/Nabooru und Thaddäus als Wasserweiser noch nicht eingebaut.

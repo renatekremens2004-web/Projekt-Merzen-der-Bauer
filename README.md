@@ -1,6 +1,20 @@
-# Merzen der Bauer: Krabbelminen-Frau als Waldweise
+# Merzen der Bauer: Waldweise v2
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldweise.bps?raw=true)** · [Echte Ingame-Bilder](Waldweise_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldweise.txt) · [Quellen und Prüfungen](Merzen_Waldweise_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldweise_v2.bps?raw=true)** · [Neue Ingame-Bilder und bisheriger Sitz zum Vergleich](Waldweise_v2_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldweise_v2.txt) · [Quellen und Prüfungen](Merzen_Waldweise_v2_Quellen_Patch_Bilder.zip?raw=true)
+
+Die Krabbelminen-Frau sitzt am Schulter-/Halsansatz statt auf Darunias Haarspitze. Angepaßte Beinpose, gleicher Körpermaßstab, seitlicher Blick von hinten in der gemeinsamen Credits-Einstellung. Neuer Dialog: Merz hat Hyrule kaputtgespart, der Laden ist eingestürzt und hat sie erschlagen; sie bittet um eine Warnung in der Vergangenheit. Feste Textzeiten erhalten. **706 eigene Nachrichten, alle bisherigen Änderungen enthalten.** [Prüfbericht samt Normalstart und Speichergrenzen](Waldweise_v2_Beispielbilder/Pruefbericht.md).
+
+Mit [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Aktuelle gezielte 4-MiB-Proben für Credits, Waldamulett, Siegel und regulären Start bestanden. Die vom Nutzer gemeldete Schwarzbild-ROM entspricht exakt der gültigen v1 und startete ebenfalls regulär in beiden getesteten CPU-Modi. Ursache des vorübergehenden Schwarzbilds offen; kein vollständiger Spieldurchlauf oder Hardwaretest.
+
+![Neuer Sitz in den echten Credits](Waldweise_v2_Beispielbilder/Credits_Sitz_auf_den_Schultern.png)
+
+![Die Waldweise bittet um eine Warnung](Waldweise_v2_Beispielbilder/Waldweise_Warnung_Vergangenheit.png)
+
+## Vorherige Fassung: Krabbelminen-Frau als Waldweise
+
+**[Vorherigen Waldweisen-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldweise.bps?raw=true)** · [Echte Ingame-Bilder](Waldweise_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldweise.txt) · [Quellen und Prüfungen](Merzen_Waldweise_Quellen_Patch_Bilder.zip?raw=true)
 
 Die Krabbelminen-Frau übernimmt die Waldweisenrolle: Enthüllung nach dem Waldtempel, erwachsene Proportionen und eigene Animationen. In den Credits sitzt sie auf Darunias Schultern. Junge Salia bleibt erhalten. **706 eigene Nachrichten, alle bisherigen Änderungen enthalten.** [Prüfbericht mit Speichergrenzen](Waldweise_Beispielbilder/Pruefbericht.md).
 

@@ -1,0 +1,58 @@
+{
+  "Credits_Sitz_auf_den_Schultern.png": {
+    "scenario": "bowling-sage-credits-v2-final-direct-clip-on",
+    "frame_callback": 10,
+    "message_id": null,
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "unedited": true,
+    "native_actor_positions_and_cues": true,
+    "rom_sha256": "59b69171d06cf38da8301e8290423405e583d7f13ab15008393cd8bb4cbd15f1",
+    "sha256": "eaf9adf9907d65b3ec8b1425493aa4f0e6bfa79c438c81e3cba20a423e2d3de8"
+  },
+  "Waldweise_Kaputtgespart.png": {
+    "scenario": "bowling-sage-hall2-v2-final-direct-clip-on",
+    "frame_callback": 423,
+    "message_id": "106a",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "unedited": true,
+    "native_actor_positions_and_cues": true,
+    "rom_sha256": "59b69171d06cf38da8301e8290423405e583d7f13ab15008393cd8bb4cbd15f1",
+    "sha256": "de1f0898255474da193b1dedd45120aa3e730b826a25c92ea6b1d169bce280d3"
+  },
+  "Waldweise_Schaedel_gecrusht.png": {
+    "scenario": "bowling-sage-hall2-v2-final-direct-clip-on",
+    "frame_callback": 719,
+    "message_id": "106a",
+    "source_screenshot": "the_legend_of_zelda-012.png",
+    "unedited": true,
+    "native_actor_positions_and_cues": true,
+    "rom_sha256": "59b69171d06cf38da8301e8290423405e583d7f13ab15008393cd8bb4cbd15f1",
+    "sha256": "5fb87a98c6a6d9eac85f6a57e04de7cc7533cb82b66d613568c84a414cee31ba"
+  },
+  "Waldweise_Warnung_Vergangenheit.png": {
+    "scenario": "bowling-sage-hall2-v2-final-direct-clip-on",
+    "frame_callback": 1015,
+    "message_id": "108f",
+    "source_screenshot": "the_legend_of_zelda-018.png",
+    "unedited": true,
+    "native_actor_positions_and_cues": true,
+    "rom_sha256": "59b69171d06cf38da8301e8290423405e583d7f13ab15008393cd8bb4cbd15f1",
+    "sha256": "49b46fc5c5efb4a613c223f0b6125b75815a9e24dd40256193bb46b1c164ff9c"
+  },
+  "Waldweise_Tot_Honestly.png": {
+    "scenario": "bowling-sage-hall2-v2-final-direct-clip-on",
+    "frame_callback": 1070,
+    "message_id": "108f",
+    "source_screenshot": "the_legend_of_zelda-019.png",
+    "unedited": true,
+    "native_actor_positions_and_cues": true,
+    "rom_sha256": "59b69171d06cf38da8301e8290423405e583d7f13ab15008393cd8bb4cbd15f1",
+    "sha256": "8311993f018e1e50597281c92fa8e28cab89822788bba0d2cab137f26d3f329f"
+  },
+  "Credits_Vorher_auf_der_Haarspitze.png": {
+    "source": "published Waldweise v1 image, original camera",
+    "rom_sha256": "3ca9c4c0054ae075a5db8f5ae18db7f38072d63d11cd3adbaf779afce1a2efe9",
+    "unedited": true,
+    "sha256": "6058877778639b346d4c6a29dbea760e31e50f0a4e7cb7cdbcac3e931c157878"
+  }
+}
