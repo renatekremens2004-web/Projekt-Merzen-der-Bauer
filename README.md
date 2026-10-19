@@ -1,6 +1,26 @@
-# Merzen der Bauer: Zoras, Jabu-Jabu und Navi-Roasts
+# Merzen der Bauer: Drei Steine, Flucht und Masterschwert
 
-**[Aktuellen BPS-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zoras_Jabu_Navi.bps?raw=true)** · **[Sieben neue Ingame-Bilder als ZIP](Zoras_Jabu_Navi_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfberichte](Merzen_Zoras_Jabu_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zeituebergang.bps?raw=true)** · **[12 ausgewählte Ingame-Bilder als ZIP](Zeituebergang_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Zeituebergang_Quellen_Patch_Bilder.zip?raw=true)
+
+22 Nachrichten für Merz bei der Flucht und nach dem Masterschwert, Soldaten, neue Marktreaktionen und Navi. Insgesamt 584 bearbeitete deutsche Nachrichten in alter Rechtschreibung. Alle bisherigen Modelle und Dialogkapitel enthalten. Feste bestehende Textzeiten bleiben erhalten. Navis neuer Kommentar erscheint nach dem Masterschwert bei einer natürlichen Guide-Gelegenheit und wird als gehört gespeichert.
+
+Den Patch direkt mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine vorherige Mod anwenden. Normale Spielstände verwenden; alte Emulator-Save-States können alte Daten enthalten. Keine vollständige ROM enthalten.
+
+Build, alle 584 Steuersequenzen, 1509 komprimierte Segmente und RomPatcher.js-Rundlauf geprüft. Gezielte 4-MB-Laufzeittests: Flucht bis Abschluß, tatsächliches Ziehen des Masterschwerts, Soldaten, Markt vor/nach der Flucht, Navi einmalig samt Sprach-/Alters-Gegenprüfung. Kein kompletter Spieldurchlauf und keine N64-Hardwareprüfung. Die Fluchtaufnahme ist im direkten Cloud-Teststart auffällig dunkel; gleicher Befund in Vanilla, Ursache noch offen. Vergleich und Grenzen im [Prüfbericht](Zeituebergang_Dialogbeispiele/Pruefbericht.md).
+
+## Ausgewählte neue Aufnahmen
+
+![Krugwächter](Zeituebergang_Dialogbeispiele/Krugwaechter.png)
+
+![Merz nach dem Masterschwert](Zeituebergang_Dialogbeispiele/Merz_Beans_Ehre.png)
+
+![Navi nach dem Zeitsprung](Zeituebergang_Dialogbeispiele/Navi_Koenig_Zora.png)
+
+## Frühere Veröffentlichung und Grafikprüfung
+
+### Zoras, Jabu-Jabu und Navi-Roasts
+
+**[Vorherigen Zora-/Jabu-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zoras_Jabu_Navi.bps?raw=true)** · **[Sieben neue Ingame-Bilder als ZIP](Zoras_Jabu_Navi_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfberichte](Merzen_Zoras_Jabu_Quellen_Patch_Bilder.zip?raw=true)
 
 König Zora hat Merz den Saphir für Klimaanlagen versprochen. Ruto versteckt sich im Wal und verschwindet nach der Übergabe tatsächlich aus dem Thronsaal. Neue Flaschenpost, Rockmusik und Zora-Selbstfindung, Erbsen-Scalper, Navi-Reaktionen und Jabu-spezifische Händler-/Kartenmeldung. Barinade begrüßt den Spieler vor dem Kampf mit einer neuen, frei weiterklickbaren Box. Dazu alle 93 Navi-Zieltextplätze als individuelle Roasts. Insgesamt 564 deutsche Nachrichten in alter Rechtschreibung.
 

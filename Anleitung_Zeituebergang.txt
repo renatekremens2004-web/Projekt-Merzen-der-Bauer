@@ -1,0 +1,7 @@
+Drei Steine, Flucht und Masterschwert – deutsche PAL 1.0
+
+Den BPS-Gesamtpatch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine vorherige Mod anwenden. Vanilla-MD5: e040de91a74b61e3201db0e2323f768a.
+Normale Spielstände verwenden; alte Emulator-Save-States enthalten alte Daten.
+
+22 Nachrichten dieses Kapitels, insgesamt 584 deutsche Nachrichten. Alte Rechtschreibung, feste bestehende Textzeiten und bisherige Modelle/Änderungen enthalten. Navi nutzt nach dem Masterschwert ihre natürliche Guide-Gelegenheit und speichert den Kommentar als gehört.
+Build, native Steuerzeichen, 1509 Segmente, RomPatcher.js und gezielte 4-MB-Szenarien geprüft. Kein vollständiger Spieldurchlauf oder Hardwaretest. Die Fluchtaufnahmen sind in diesem Cloud-Teststart auffällig dunkel; derselbe Befund wurde auch in Vanilla reproduziert und ist nicht als abgeschlossene Grafikprüfung zu verstehen. Einzelheiten im Quellenarchiv. Keine vollständige ROM enthalten.

@@ -1,0 +1,110 @@
+{
+  "Merz_kleiner_Pascha.png": {
+    "scenario": "escape-direct-clip-on",
+    "frame": 1211,
+    "message_id": "201A",
+    "source_screenshot": "the_legend_of_zelda-013.png",
+    "sha256": "475ecae18f20a8187a5f62454a8443cf32c2dd0cca6a05643463c59c8b29ea2f",
+    "unedited": true,
+    "note": "Starke Abdunklung bei diesem Cloud-Teststart auch in Vanilla reproduziert."
+  },
+  "Merz_CDU.png": {
+    "scenario": "escape-direct-clip-on",
+    "frame": 1718,
+    "message_id": "201B",
+    "source_screenshot": "the_legend_of_zelda-023.png",
+    "sha256": "f3aac9069da5d5529961280128cd9bd5aa47b7b105cde996cb5c6ecce23a18e1",
+    "unedited": true,
+    "note": "Starke Abdunklung bei diesem Cloud-Teststart auch in Vanilla reproduziert."
+  },
+  "Merz_Beans_Tod.png": {
+    "scenario": "sword-near-direct-clip-on",
+    "frame": 700,
+    "message_id": "700A",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "3392d7f6cb7d7fe88845d45e684c0f8a168bb6962910b6c0c35d89f20290218a",
+    "unedited": true,
+    "note": ""
+  },
+  "Merz_Beans_Ehre.png": {
+    "scenario": "sword-near-direct-clip-on",
+    "frame": 800,
+    "message_id": "700A",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "820f51bbf9ca2a0efeb4ba023bf57cb7ad190418753085c00330be8711c509b4",
+    "unedited": true,
+    "note": ""
+  },
+  "Soldat_Asphalt.png": {
+    "scenario": "alley-floor-focus-direct-clip-on",
+    "frame": 812,
+    "message_id": "7007",
+    "source_screenshot": "the_legend_of_zelda-012.png",
+    "sha256": "3eed0bc2d4d34ece9ea37ac123f484ae6acb39f5c87ecfe08b053aa8f47316fd",
+    "unedited": true,
+    "note": ""
+  },
+  "Krugwaechter.png": {
+    "scenario": "guard-joke-focus-final-direct-clip-on",
+    "frame": 638,
+    "message_id": "7004",
+    "source_screenshot": "the_legend_of_zelda-007.png",
+    "sha256": "94e637d7ece007363143902a5da1f4f4a48d250947791d11c82b38f9df995405",
+    "unedited": true,
+    "note": ""
+  },
+  "Maskenmiete.png": {
+    "scenario": "market-12-prox-focus-after-direct-clip-on",
+    "frame": 1057,
+    "message_id": "7044",
+    "source_screenshot": "the_legend_of_zelda-017.png",
+    "sha256": "164eef6592ef0c11147764221a5c1313a2cb4c2f5e54605a0c6e41e0a73f5ae4",
+    "unedited": true,
+    "note": ""
+  },
+  "Merz_Haare.png": {
+    "scenario": "market-7-focus-hero-direct-clip-on",
+    "frame": 689,
+    "message_id": "7048",
+    "source_screenshot": "the_legend_of_zelda-006.png",
+    "sha256": "d2bbd4395dacf37c2b098ad512f5fd1dc96eaf8438dd7800a83eae9f612e0c4e",
+    "unedited": true,
+    "note": ""
+  },
+  "Navi_Koenig_Zora.png": {
+    "scenario": "navi-once-direct-clip-on",
+    "frame": 651,
+    "message_id": "0120",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "08823a6a25c66ab09054a82bdacd7b2f5644923847d7d528f036e76e267f3b74",
+    "unedited": true,
+    "note": ""
+  },
+  "Navi_Koenig_Zora_Fortsetzung.png": {
+    "scenario": "navi-once-direct-clip-on",
+    "frame": 733,
+    "message_id": "0120",
+    "source_screenshot": "the_legend_of_zelda-008.png",
+    "sha256": "f76f2fe7e1bf07221a7f03b77e8b85d815d2ea5b8b5d5b285717112dfd96c34d",
+    "unedited": true,
+    "note": ""
+  },
+  "Mr_Bean_Volksheld.png": {
+    "scenario": "market-7-prox-pin-focus-direct-clip-on",
+    "frame": 671,
+    "message_id": "704D",
+    "source_screenshot": "the_legend_of_zelda-006.png",
+    "sha256": "8eefc33b1aa73acc3e7bc274cc87d1592f08ea751c020ae0a38e3ad816426683",
+    "unedited": true,
+    "note": ""
+  },
+  "Flucht_Original_Kontrolle.png": {
+    "scenario": "escape-native-direct-clip-on",
+    "frame": 300,
+    "message_id": "0000",
+    "source_screenshot": "the_legend_of_zelda-000.png",
+    "sha256": "1db891ee272a185a098bd8cd6b0f1182b5fbdb8f4b416ad5cbcbc4ffb50e49b2",
+    "unedited": true,
+    "note": "Starke Abdunklung bei diesem Cloud-Teststart auch in Vanilla reproduziert."
+  }
+}

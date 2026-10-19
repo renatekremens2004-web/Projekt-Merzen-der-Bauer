@@ -1,0 +1,23 @@
+# Drei Steine, Flucht und Masterschwert
+
+22 Nachrichten dieses Kapitels, darunter zwei neu gefaßte bestehende Nachrichten. Insgesamt 584 bearbeitete deutsche Nachrichten. Alle früheren Modelle, Dialogkapitel und Grafikänderungen sind enthalten. Alte Rechtschreibung bleibt die Vorgabe.
+
+Die Flucht verwendet die sieben nativen Merz-Nachrichten. Nach dem Masterschwert bleiben bei 700A genau vier Seiten mit BOX_BREAK_DELAYED(60), (90), (80) und FADE(50) erhalten. Die Aussagen über Beans Tod sind entsprechend kurz. Es werden weder Cutscene-Zeit noch bestehende Lesezeiten verlängert. Die Soldaten erhalten 7004/709A sowie 7007/7008. Der native Todesablauf des Gassensoldaten und seine ursprünglichen Voraussetzungen bleiben erhalten. Die Marktreaktionen verwenden die vorhandenen Nachrichtenzweige nach Zeldas Flucht; der Masken-Monolog ist ein absichtlich umständlicher, über neun manuell weitergeschaltete Seiten laufender Satz.
+
+Navi erhält die unbenutzte Nachricht 0120, funktional nach Vorlage 0148. Die Guide-Auswahl benötigt Deutsch, erwachsenen Link, das tatsächliche Masterschwert-Event und ein noch nicht gesetztes Lesebit. Ihre natürlichen C-Up-Gelegenheiten und Timer bleiben erhalten. Erst beim angenommenen Gespräch setzt En_Elf das private persistente Bit 1CF, im sonst unbenutzten infTable-Wort 28. Das Inventarwort 29 wird nicht verwendet. Der Hook steht hinter der nativen Timerbehandlung, damit deren Vergleich noch denselben Hinweis sieht. Nach dem ersten Gespräch kehrt die bestehende Guide-Auswahl zurück. Kinder-Link und Englisch erhalten den Kommentar nicht.
+
+## Nachweise
+
+Build/Kompression erfolgreich. 1509 komprimierte Segmente geprüft; Änderungen gegenüber der letzten Dialogfassung auf Nachrichten, nötige Adreßtabellen, QuestHint_GetNaviTextId und func_80A053F0 in En_Elf begrenzt. Bean- und Thaddäus-Objekte sind bytegleich zum vorherigen Build. Normale Startsequenz und Play_Main bleiben unverändert. Alle 584 funktionalen Nachrichtensequenzen stimmen mit ihren nativen Vorlagen überein. Generator prüft Font-Zeilenbreite und Textpuffer. BPS mit RomPatcher.js, aktivierter Originalprüfung und bytegleichem Ergebnis geprüft.
+
+Gezielte Emulatorstarts verwenden dieselbe komprimierte Produktions-ROM mit 4 MB RAM und GLideN64, EnableClipping=True und EnableCustomSettings=False. RAM-Teststarts setzen Szene, Alter, Tageszeit und Fortschritt; Spielerpositionierung dient der Aufnahme. Für ausgewählte Markt-NPCs werden ausschließlich im Test ihre Positionen vor Link versetzt. Gespräche laufen über die normalen A-/Z-Tasten. Navis Wartezeit wird für den Test auf eine normale Hinweisgelegenheit gesetzt; nach dem ersten Gespräch erneut, um die Rückkehr zum ursprünglichen Hinweis nachzuweisen. Es gibt keine gesonderte Test-ROM.
+
+Die Flucht läuft bis zum nativen Abschluß und setzt das Flucht-Event. Das Masterschwert wird tatsächlich aufgenommen; danach laufen Merz' vier Seiten und der native Übergang zum erwachsenen Link. Weitere Protokolle dokumentieren Soldaten und Marktgespräche, den Vorher/Nachher-Zweig des langen Monologs und Navis einmaligen Kommentar samt Sprach-/Alters-Gegenprüfungen. Verbindliche Einzelbeobachtungen stehen in validation/zeituebergang/runtime-checks.json. Screenshots sind unbearbeitete Emulatorbilder.
+
+Frühe Aufnahmeversuche mit ungünstiger Kollisionsposition bzw. genau 50 statt weniger als 50 Einheiten Abstand vom Schwert gelten nicht als bestandene Funktionsprüfungen. Sie wurden durch korrigierte Starts ersetzt. Kein kompletter Spieldurchlauf und keine N64-Hardwareprüfung. Die Nachtvariante des Krugwächters und jede einzelne Haar-Reaktion wurden nicht separat durchgespielt; deren Textzweige und Steuersequenzen wurden im Quellcode geprüft.
+
+Original-ROM: Europa/PAL 1.0, MD5 e040de91a74b61e3201db0e2323f768a. Ergebnis-SHA256: e078d63250213382fc811efc03c9a8ea118bb528c76e6abc05c948aa08bf8829. Den Gesamtpatch direkt auf die unveränderte ROM anwenden, nicht auf eine frühere Mod-Fassung. Normale Spielstände verwenden; alte Emulator-Save-States können alte Nachrichten und Code enthalten.
+
+## Einschränkung der Fluchtaufnahmen
+
+Die Fluchtszene ist bei diesem direkten Cloud-Teststart ungewöhnlich dunkel. Dasselbe tritt beim identischen Start mit unveränderter Vanilla-ROM auf; auch abgeschaltetes GLideN64-Clipping behebt es nicht. Ein Original-Kontrollbild liegt bei. Die Ursache innerhalb des Teststarts bzw. Renderers ist noch nicht abschließend geklärt. Das ist keine bestandene visuelle Lichtprüfung der Fluchtszene. Die funktionalen Dialog-/Abschlußprüfungen und die normalen NPC-Aufnahmen sind davon getrennt. An der Beleuchtung oder den Modellen wurde in diesem Kapitel nichts geändert.
