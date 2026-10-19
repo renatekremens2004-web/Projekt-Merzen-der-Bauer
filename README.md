@@ -1,4 +1,14 @@
-# Merzen der Bauer: Wallace in Dodongos Höhle
+# Merzen der Bauer: Thaddäus, Waluigi und Maskenreaktionen
+
+**[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Weise_Masken.bps?raw=true)** · [Echte Bilder](Weise_Masken_Ingame_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Weise_Masken_Quellen_Patch_Bilder.zip?raw=true)
+
+[Thaddäus-/Waluigi-Dialoge](Thaddaeus_Waluigi_Dialoge_Aktuell.md) · [Maskenreaktionen und Zuordnung](Masken_Reaktionen_Aktuell.md) · [Prüfbericht](Weise_Masken_Beispielbilder/Pruefbericht.md)
+
+Auf die unveränderte entpackte Europa/PAL-1.0-ROM in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Alle bisherigen Änderungen enthalten. Deutsch einstellen; normale Spielstände statt alter Save-States verwenden.
+
+![Waluigis neue Auswahl](Weise_Masken_Beispielbilder/Waluigi_Merz_Auswahl.png)
+
+## Vorherige Fassung: Wallace
 
 **[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wallace.bps?raw=true)** · [Echte Ingame-Bilder](Wallace_Ingame_Bilder.zip?raw=true) · [Quellen, Patch und Prüfungen](Merzen_Wallace_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wallace.txt)
 

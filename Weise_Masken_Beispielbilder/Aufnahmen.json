@@ -1,0 +1,47 @@
+[
+  {
+    "image": "Thaddaeus_Kuenstler.png",
+    "case": "dialoge-masken-water-proof-direct-clip-on",
+    "frame": 524,
+    "rom_sha256": "891e72bc65146236caa6212cfe571f61418d1032d2994142344df016608221cc",
+    "limit": 2500,
+    "fixture": "water",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Waluigi_Merz_Auswahl.png",
+    "case": "dialoge-masken-spirit-child-hates-proof-direct-clip-on",
+    "frame": 836,
+    "rom_sha256": "891e72bc65146236caa6212cfe571f61418d1032d2994142344df016608221cc",
+    "limit": 2500,
+    "fixture": "spirit-child-hates",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Waluigi_Vorstellung.png",
+    "case": "dialoge-masken-spirit-child-hates-proof-direct-clip-on",
+    "frame": 1014,
+    "rom_sha256": "891e72bc65146236caa6212cfe571f61418d1032d2994142344df016608221cc",
+    "limit": 2500,
+    "fixture": "spirit-child-hates",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Thaddaeus_Gerudo_Maske.png",
+    "case": "dialoge-masken-thadmask-mask-gerudo-v2-direct-clip-on",
+    "frame": 363,
+    "rom_sha256": "891e72bc65146236caa6212cfe571f61418d1032d2994142344df016608221cc",
+    "limit": 900,
+    "fixture": "thadmask-mask-gerudo",
+    "prepared_progress_and_player_only": true
+  },
+  {
+    "image": "Waluigi_Amulett_Teller.png",
+    "case": "dialoge-masken-hall-spirit-proof-direct-clip-on",
+    "frame": 1421,
+    "rom_sha256": "891e72bc65146236caa6212cfe571f61418d1032d2994142344df016608221cc",
+    "limit": 3200,
+    "fixture": "hall-spirit",
+    "prepared_progress_and_player_only": true
+  }
+]

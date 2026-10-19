@@ -1,12 +1,8 @@
-# Thaddäus und Waluigi: aktueller deutscher Dialogbestand
+# Thaddäus und Waluigi: eingebaute Dialoge
 
-Aus dem Textstand des veröffentlichten Wallace-Gesamtpatches ausgelesen. Das Tauchspiel ist bereits umgeschrieben. Erwachsenen-Ruto und Naboru wurden auf ausdrücklichen Wunsch zunächst nur bei Modell und Namen geändert: feminine Bezeichnungen, Braut-/Heiratsmotive und Ganondorf stehen deshalb noch wörtlich im Text. Hier wird nichts neu geschrieben.
+Aus dem tatsächlich gebauten deutschen Textbestand. Absätze entsprechen Textseiten; feste Szenenzeiten bleiben erhalten. {Spielername} wird im Spiel ersetzt.
 
-Jeder Absatz innerhalb einer Nachricht ist eine vorhandene Textseite. {Spielername} ist der gewählte Name. Antwortmöglichkeiten stehen am Ende der jeweiligen Seite. Textketten sind angegeben; Farben und technische Steuerzeichen sind zur Lesbarkeit ausgeblendet. Feste Laufzeiten bleiben im Spiel unverändert. In den Credits sind für diese beiden Figuren keine weiteren eigenen Gesprächszeilen vorhanden.
-
-## Thaddäus: Tauchspiel
-
-### 4053 — Erste Ansprache / Spielangebot
+## 4053
 
 > Ach. Ein Kind. Genau das hat meinem Tag noch gefehlt. Ich bin Thaddäus. Künstler. Verkannt, versteht sich.
 
@@ -16,7 +12,7 @@ Jeder Absatz innerhalb einer Nachricht ist eine vorhandene Textseite. {Spielerna
 
 > Tauchspiel: 20 Rubine. Na? Ja! Nein!
 
-### 4054 — Erste Runde angenommen: Regeln
+## 4054
 
 > Wunderbar. Ein zahlender Störenfried. Welch seltener Glücksfall.
 
@@ -24,453 +20,401 @@ Jeder Absatz innerhalb einer Nachricht ist eine vorhandene Textseite. {Spielerna
 
 > Komm danach zu mir zurück. Dann gibt es eine Belohnung. Einen Applaus darfst Du Dir selbst vorstellen.
 
-### 405A — Startsignal
+## 405A
 
 > START!
 
-### 405B — Ansprache während des Spiels
+## 405B
 
 > Spring den Wasserfall hinab. Dort liegen die Rubine. Und hier oben liegt mir langsam Dein Anblick auf den Nerven.
 
-### 0136 — Verloren
+## 0136
 
 > Verloren. Du trauriger Clown. So viel Gezappel, und nicht einmal das Publikum ist geblieben.
 
 > Übe erst einmal. Ich versuche inzwischen, den Anblick aus meinem Gedächtnis zu streichen.
 
-### 0138 — Zu wenig Rubine
+## 0138
 
 > Nicht einmal 20 Rubine? Ein Künstler kann von Deinem großen Talent zum Herumstehen leider nicht leben.
 
-### 013B — Spiel abgelehnt
+## 013B
 
 > Endlich eine Entscheidung mit künstlerischem Wert: Du läßt mich in Ruhe.
 
-### 4055 — Erstmals gewonnen: zurückkommen
+## 4055
 
 > Du hast gewonnen. Wie unerwartet. Komm hoch und hol Deine Belohnung, bevor Du noch eine Zugabe verlangst.
 
-### 4056 — Preisübergabe
+## 4056
 
 > Na schön. Dein Tauchstil war erträglicher als das Kulturprogramm dieses Königreichs.
 
 > Hier, die silberne Schuppe. Damit kannst Du tiefer tauchen. Vielleicht findest Du dort unten jemanden, der Deine Begeisterung teilt.
 
-### 405C — Weitere Runde anbieten
+## 405C
 
 > Wieder Du. Ich hatte gehofft, mein nächster Besucher wäre ein Mäzen. Oder wenigstens die Stille.
 
 > Noch eine Runde für 20 Rubine? Ja! Nein!
 
-### 405D — Eine weitere Runde gewonnen
+## 405D
 
 > Schon wieder gewonnen. Hervorragend. Meine Begeisterung ist nur gerade in der Mittagspause.
 
-## Thaddäus: Wassertempel, Weiser und Finale
+## 403E
 
-### 403E — Begegnung im Wassertempel
+> Algengrütze. Ausgerechnet Du. Der nervige Taucher von damals.
 
-> Oh... Wenn ich mich recht entsinne... {Spielername}?!
+> Ja, ich bin's. Thaddäus Quentin Tentakel. Begabter Künstler. Völlig verkannt.
 
-> Du bist {Spielername}, oder?
+> In Hyrule gilt schon eine singende Vogelscheuche als Hochkultur.
 
-> Ich bin es! Thaddäus, Deine Braut! Die Prinzessin der Zoras!
+> Prinzessin Ruto ist nie wieder aufgetaucht. Verständlich.
 
-> Ich werde nie vergessen, was wir uns vor Jahren geschworen haben!
+> Zoras Reich: nur Langweiler und Kunstbanausen. Auf dem Thron sitzt der gierigste.
 
-> Es war grauenvoll von Dir, mich sieben lange Jahre warten zu lassen!
+> Friedrich Merz hat dem König Klimaanlagen versprochen. Jetzt haben wir eine Eiszeit.
 
-> Doch jetzt ist nicht die Zeit, über Liebe zu sprechen. Es ist etwas Furchtbares geschehen!
+> Bemerkenswert gründliche Kühlung.
 
-> Zoras Reich ist eingefroren! Alles ist über und über mit Eis bedeckt!
+> Viele Zoras sind eingefroren. Schlimmer noch: meine Klarinette.
 
-> Ein junger Mann namens Shiek hat mich aus dem Eis gerettet...
+> Meine Klarinette, {Spielername}! Begreifst Du diese Katastrophe?
 
-> Aber die anderen Zoras wurden ... noch nicht...
+> Ich will den Hylia-See und unser Reich wieder in Ordnung bringen.
 
-> Ich will sie retten. Alle! Ich will Zoras Reich retten!
+> Dem Monster in diesem Tempel trete ich jetzt persönlich in den Arsch!
 
-> Du mußt mir helfen! Du mußt es für mich tun - für die Frau, die Du heiraten wirst!
+> Ein feuchtes Etwas ruiniert mir nicht meine musikalische Laufbahn.
 
-> {Spielername}, hilf mir, das bösartige Ungeheuer zu vernichten, das in diesem Tempel lauert. Wirst Du das tun?
+> Hier gibt es drei Stellen, an denen Du den Wasserstand verändern kannst.
 
-> Im Wassertempel gibt es drei Stellen, an denen Du den Wasserstand verändern kannst.
+> Folg mir, wenn Du helfen willst. Ansonsten laß mich in Ruhe.
 
-> Ich zeige Dir den Weg. Folge mir! Und beeile Dich!
+## 4041
 
-### 4041 — Halle der Weisen: Begrüßung
+> Nun, {Spielername}. Mein Aufenthalt im Wassertempel ist etwas anders verlaufen als vorgesehen.
 
-> {Spielername}...
+> Wenigstens habe ich jetzt alle Zeit der Welt, meiner Kunst nachzugehen und der Musik zu frönen.
 
-> Ich hätte nichts anderes von jemandem erwartet, den ich zu meinem Ehemann auserkoren habe!
+> Und keine Kundschaft. Ich beginne, die Vorzüge dieses Ortes zu erkennen.
 
-> Zoras Reich und seine Bewohner können dank Deiner Hilfe wieder in Freiheit leben.
+## 4046
 
-### 4046 — Halle: Liebe / andere Person
+> Du hast gut gekämpft. Für einen traurigen Clown.
 
-> Als meinen Lohn... gewähre ich Dir meine ewige Liebe!
+> Auch ein blindes Huhn findet einmal ein Korn. Deines war offenbar bewaffnet.
 
-> Äh, naja, das würde ich gern, aber ich merke, daß Du an eine andere denkst...
+## 4049
 
-### 4049 — Halle: Aufgabe des Wasserweisen
+> Ich bin jetzt der Weise des Wassers. Noch ein anspruchsvoller Posten, für den mich niemand angemessen bezahlt.
 
-> Als Weise des Wassers ist es meine Aufgabe, den Wassertempel zu bewachen...
+> Du suchst Prinzessin Zelda? Ich weiß nicht, wo sie steckt.
 
-> Und Du... Du suchst nach Prinzessin Zelda?
+> Daß sie überhaupt entkommen konnte, haben wir Mr. Bean zu verdanken.
 
-> Gib es zu! Du kannst nichts vor mir verheimlichen!
+> Das sollte bei all dem Gerede über Deinen Heldenmut einmal festgehalten werden.
 
-### 4047 — Halle: Zelda lebt
+## 4047
 
-> Prinzessin Zelda... Sie ist am Leben! Ich spüre es. Also laß Dich nicht entmutigen!
+> Zelda ist am Leben. Ihr Kleidungsstil vermittelt gelegentlich einen anderen Eindruck.
 
-### 404A — Halle: Amulett überreichen
+> So viel Stoff und trotzdem keinerlei Ausdruck. Tragisch.
 
-> Ich weiß, Dich wird nichts aufhalten in Deinem Kampf für den Frieden... Nimm daher dieses Amulett und trage es mit Würde!
+## 404A
 
-### 4042 — Abschied: Shiek danken
+> Ich überreiche Dir nun eines meiner größten Kunstwerke: das Wasseramulett.
 
-> Wenn Du Shiek triffst, danke ihm von mir, okay?
+> Nimm es und trage es mit Würde. Vielleicht färbt etwas von meinem Talent auf Dich ab.
 
-### 70E2 — Finale: Wasser-Siegel gebrochen
+> Ich verspreche selbstverständlich nichts.
 
-> Das Wasser-Siegel ist gebrochen! Beeil Dich, Liebster!
+## 4042
 
-## Waluigi: Geistertempel als Kind
+> Ach, wenn Du König Zora triffst: Sag ihm, daß ich ihn hasse. Danke.
 
-### 601D — Erste Begegnung: drei Antworten
+## 70E2
 
-> Ich habe Dich noch nie gesehen, Kleiner...
+> Das Wasser-Siegel ist gebrochen! Mach hinne! Ich habe auch noch andere Interessen.
 
-> Was willst Du hier? Den Tempel anschauen! Ich suche die Weisen! Eigentlich nichts!
+## 601D
 
-### 601E — Antwort: Tempel anschauen
+> Wa-wa-wa-WAAAH! Ich bin es! Waluigi!
 
-> Du bist noch zu klein! Der Tempel ist nicht der richtige Ort für Kinder. Geh woanders spielen!
+> Was suchst Du hier, Du Gernegroß? Den Tempel anschauen! Ich suche die Weisen! Eigentlich nichts!
 
-### 601F — Antwort: Weise suchen
+## 601E
 
-> Ein Weiser? Keine Ahnung! Ist das jemand, der Vater und Mutter verloren hat?
+> Aha! Du willst den Tempel also auch plündern und reich werden? Verständlich!
 
-### 6020 — Antwort: nichts vorhaben; Frage nach Ganondorf
+> Trotzdem bist Du zu klein. Geh weg. Waluigi hat zuerst geplündert!
 
-> Du hast nichts Besseres zu tun? Du kommst wie gerufen! Kannst Du mir einen Gefallen tun, Kleiner?
+## 601F
 
-> Moment mal, Du bist doch nicht etwa einer von Ganondorfs...
+> Ein Weiser? W steht für Waluigi! Nicht für Weiser!
 
-> Anhängern... Oder? Und wenn es so wäre? Ich hasse Ganondorf!
+> Du mußt schon wissen, wonach Du suchst. Waaah!
 
-### 6021 — Antwort: Und wenn es so wäre?
+## 6020
 
-> Hahaha! Gib nicht so an, Kleiner!
+> Wah, wah, wah! Wenn Du schon den ganzen Weg hierher gekommen bist, kannst Du Waluigi auch helfen!
 
-> Jemand wie Du könnte nie einer von Ganondorfs Anhängern sein!
+> Ich muß durch dieses Loch. Leider paßt mein langer, wundervoller Adoniskörper nicht durch diesen lächerlichen Krabbelgang.
 
-> Diese Schurken sind aus ganz anderem Holz geschnitzt...
+> Dafür brauche ich ein kleines Helferleinchen. Du siehst ausgesprochen helferleinchenförmig aus.
 
-Anschließend: 6023.
+> Du hast doch nicht Friedrich Merz gewählt, oder?! Und wenn es so wäre? Friedrich Merz soll Eier lecken!
 
-### 6022 — Antwort: Ich hasse Ganondorf!
+## 6021
 
-> Ach was!
+> Dann bist Du eine echte Nullnummer! Wie kann man diesen Typen wählen?!
 
-> Du bist ganz schön mutig. Ich glaube, ich mag Dich.
+> Du bist jung! Warum wählst Du gegen Deine eigene Zukunft?
 
-Anschließend: 6023.
+> Sieh mich an! Ich bin Waluigi! Waluigi hat noch Großes vor! Der braucht eine Zukunft!
 
-### 6023 — Vorstellung / Gerudo-Hintergrund
+Textkette: TEXTID(0x6023)
 
-> Aber erst will ich mich vorstellen. Ich bin die Gerudo-Kriegerin Waluigi. Ich gehe lieber allein auf Beutetour.
+## 6022
 
-> Und noch etwas solltest Du wissen!
+> Wa-ha-ha-ha! Du gefällst mir, Bürschchen!
 
-> Ganondorf und ich gehören zwar demselben Volk an, doch wir sind grundverschieden.
+> Ich hoffe nur, Du bist kein Cheater. Davon laufen hier schon genug herum!
 
-> Ganondorf und seine Anhänger haben auch Frauen und Kinder beraubt, ja sogar getötet!
+Textkette: TEXTID(0x6023)
 
-> Wisse, das Gerudo-Geschlecht besteht nur aus Frauen. Nur alle 100 Jahre wird ein Mann geboren...
+## 6023
 
-> Auch wenn es unser Gesetz so will, daß dieser Mann der König der Gerudo wird, so schwöre ich Ganondorf niemals im Leben Treue!
+> Aber erst will ich mich vorstellen! Ich bin der einzig wahre Waluigi! Der beste Tennisspieler im ganzen Königreich!
 
-> Ach, wie war eigentlich Dein Name, Kleiner?
+> Und heute bin ich auf Beutetour. Wegen Friedrich Merz' Scheißkürzungen sind für Waluigi düstere Tage angebrochen.
 
-> {Spielername}?!
+> Aber irgendwo muß es noch ein lila Licht am Horizont geben! Und wenn es ein wertvoller Edelstein ist, nimmt Waluigi den mit!
 
-> Was ist das denn für ein komischer Name? Naja, egal...
+> Friedrich Merz und seine Anhänger haben sogar Frauen und Kinder beraubt! Was für ein erbärmlicher Cheater!
 
-Anschließend: 6024.
+> Mit meinem unwiderstehlichen Waluigi-Charme bin ich an den Gerudo-Kriegerinnen vorbeigekommen.
 
-### 6024 — Auftrag: Krafthandschuhe; auch erneutes Angebot nach Ablehnung
+> Die hassen Friedrich Merz auch. Frauen scheint der grundsätzlich nicht besonders zu mögen.
 
-> Ich möchte Dich um einen Gefallen bitten...
+> Verstehe ich nicht. Die haben mich sofort reingelassen!
 
-> Schaffst Du es, durch diesen engen Durchlaß zu kriechen und einen Schatz zu bergen?
+> Jedenfalls werde ich nicht zulassen, daß dieser Schummler ganz Hyrule übernimmt! Der hat es faustdick hinter den Ohren!
 
-> Es handelt sich um ein uraltes Diebesrelikt, die Krafthandschuhe. Damit kann man sehr schwere Dinge anheben!
+> Im Gegensatz zu mir. Ich bin immer ehrlich! Trotzdem versuchen ständig alle, Waluigi zu verarschen!
 
-> Hey, Kleiner! Denk nicht mal dran, Dir die Handschuhe selbst unter den Nagel zu reißen!
+> Ach, wie heißt Du eigentlich?
 
-> Die Krafthandschuhe würden Dir sowieso nicht passen! Sei anständig und bring sie mir!
+> {Spielername}?
 
-> Ganondorf und seine Vasallen nutzen den Geistertempel als eines ihrer Verstecke.
+> Da fehlt ein Wa vorne dran. Wa-{Spielername}! Schon viel besser! Fast so gut wie Dein großes Vorbild Waluigi!
 
-> Nur mit den Krafthandschuhen kann ich mich hier hineinstehlen!
+Textkette: TEXTID(0x6024)
 
-> Dann kann ich nicht nur all ihr Diebesgut an mich nehmen, sondern auch ihre grauenvollen Pläne durchkreuzen!
+## 6024
 
-> Also, wie ist es? Machst Du's? Ja! Nein!
+> Genug der langen Vorreden! Jetzt reden wir Tacheles!
 
-### 6025 — Auftrag angenommen
+> Kriech durch diesen Spalt und hol den Schatz. Ein altes Diebesrelikt: die Krafthandschuhe!
 
-> Danke, Kleiner!
+> Damit kann man schwere Dinge anheben. Die kann Waluigi ausgesprochen gut gebrauchen!
 
-> Wir beide werden Ganondorfs Tyrannei beenden! Nicht wahr, Kleiner?
+> Und wehe, Du versuchst, mich zu verarschen und die Handschuhe selbst einzusacken!
 
-Anschließend: 6026.
+> Die passen Dir sowieso nicht. Du bist ein schwaches Kind! Wa-ha-ha-ha!
 
-### 6026 — Versprochene Gegenleistung / erneute Ansprache nach Zustimmung
+> Friedrich Merz und seine Handlanger benutzen diesen Tempel als Versteck.
 
-> Wenn Du die Krafthandschuhe besorgst...
+> Bestimmt liegt hier das ganze Geld, das angeblich für nichts mehr da war!
 
-> Dann werde ich mich bei Dir revanchieren!
+> Mit den Handschuhen komme ich an ihnen vorbei. Dann nehme ich ihre Schätze mit und durchkreuze ihre Pläne!
 
-### 6027 — Auftrag abgelehnt
+> Zwei gute Taten auf einmal. Typisch Waluigi!
 
-> Naja, was kann man von einem Kind wie Dir schon erwarten?
+> Also? Holst Du mir die Handschuhe? Ja! Nein!
 
-## Waluigi: Entführung nach den Krafthandschuhen
+## 6025
 
-### 6028 — Beginn der Entführung
+> Ich wußte, ich kann auf Dich zählen! Zusammen werden wir Friedrich Merz' Tyrannei beenden! Nicht wahr, Kleiner?
 
-> Hey! Was macht Ihr miesen alten Weiber mit mir?!
+> Waluigi und sein kleines Helferleinchen! Wa-ha-ha!
 
-### 603B — Gegenwehr
+Textkette: TEXTID(0x6026)
 
-> Aaargh! Laßt mich!
+## 6026
 
-### 603C — Beschimpfung der Hexen
+> Was Du neben den Krafthandschuhen findest, kannst Du behalten! Also einen Anteil davon.
 
-> Ihr widerlichen alten Hexen! Ihr seid Ganondorfs eklige Sklaven!
+> Den genauen Anteil knobeln wir später aus. Waluigi bringt die Würfel mit!
 
-### 603D — Aufforderung an Link zu fliehen
+## 6027
 
-> Flüchte, {Spielername}! Schnell!
+> Dann bleibt wohl mehr für Waluigi!
 
-### 603E — Schwarze Magie
+> Du bist eben ein feiges Hühnchen! Bock! Bock! Bock-bock-bock! Wa-ha-ha-ha!
 
-> Verdammte Hexen! Sie setzen schwarze Magie gegen mich ein!
+## 6028
 
-## Waluigi: Erwachsener Link, Weiser und Finale
+> Wua, wua, wua, WAAAH! Was macht Ihr alten Omas hier?!
 
-### 6030 — Nach dem Eisenritter-Kampf / Enthüllung
+## 603B
 
-> Uuhh... Wo bin ich...?
+> WÄÄÄH! Nehmt Eure alten Flossen von mir!
 
-### 6035 — Halle der Weisen: Begrüßung
+## 603C
 
-> Kleiner, ich muß Dir danken.
+> WÄÄÄH! Das ist unfair! Ihr cheatet!
 
-> Hey... Sieh mal an, was aus Dir geworden ist - ein talentierter Schwertkämpfer!
+## 603D
 
-### 6039 — Halle: Verhexung und Weisenrolle
+> Du mußt Dich verdünnisieren, {Spielername}! Mach, daß Du Dich aus dem Staub machst!
 
-> Au weia...
+## 603E
 
-> Ich bin völlig durcheinander...
+> Schwarze Magie?! Ihr könnt Waluigi niemals besiegen! Ich bin NUMBER ONE!
 
-> Die beiden alten Weiber haben mich verhext. Ich mußte für Ganondorf tun, was er verlangte...
+## 6030
 
-> Aber bist Du nicht überrascht? Jemand wie ich ist letztendlich die Weise der Geister!
+> WAAAAAAH! Waaaas ist passiert?!
 
-> Ab jetzt kämpfe ich als eine der Weisen gegen das Böse!
+## 6035
 
-> Nun werden sie für das bezahlen, was sie mir angetan haben!
+> Hey! Du bist doch dieser Typ von damals! Sieben Jahre... Mann, Waluigi hat eine Menge verpaßt!
 
-### 603A — Halle: Amulett überreichen
+> Oh! Nices Schwert! Darf ich mir das mal ansehen?
 
-> Kleiner...
+## 6039
 
-> Nein... {Spielername}, der strahlende Wanderer durch die Zeiten!
+> WÄÄÄH! Ich kann's kaum fassen! Diese Spinatwachteln haben den großen Waluigi verhext!
 
-> Als Dank dafür, daß Du den Fluch vom Geistertempel genommen hast, übergebe ich Dir dieses Amulett!
+> Ich habe ein paar Sachen getan, auf die ich nicht stolz bin.
 
-> Nimm es!
+> Aber das war nicht meine Schuld! Das möchte Waluigi ausdrücklich festhalten!
 
-### 6036 — Halle: Abschied
+> Wirklich nicht meine Schuld. Schreib Dir das ruhig auf!
 
-> Du bist wirklich ein tapferer Held geworden!
+> Und jetzt bin ich wohl der Weise der Geister. Na gut! Waluigi hat keine Angst vor Geistern!
 
-> Dir gebührt eine ganz spezielle Anerkennung...
+> Hoffentlich kriege ich jetzt richtig abgefahrene Geisterkräfte!
 
-### 70E4 — Finale: Geister-Siegel gebrochen
+> Dann kann Waluigi, die Nummer eins, Friedrich Merz höchstpersönlich in den Arsch treten! Wa-ha-ha-ha!
 
-> Das Geister-Siegel ist gebrochen! Streng Dich an, Kleiner!
+## 603A
 
-## Seltene Maskenreaktionen
+> Hier, {Spielername}, ich habe noch etwas gefunden.
 
-### 7188 — Tauchspiel-Leiter; mit anderen Zoras geteilt
+> Das kannst Du bestimmt auf dem Schwarzmarkt verkaufen! Sieht wertvoll aus.
 
-> Was ist Euer Begehr?
+> Waluigi hätte dafür jedenfalls gern viel Geld.
 
-### 7189 — Tauchspiel-Leiter; mit anderen Zoras geteilt
+> Hier! Viel Spaß damit! Als Teller kann man's bestimmt auch benutzen.
 
-> Ihr scheint kein Wasserwesen zu sein...
+## 6036
 
-### 718A — Tauchspiel-Leiter; mit anderen Zoras geteilt
+> Ich bin Waluigi! Ich bin Nummer eins und Du bist Nummer zwei!
 
-> Ihr wirkt sehr exotisch, woher kommt Ihr?
+> Ich danke Dir!
 
-### 718B — Tauchspiel-Leiter; mit anderen Zoras geteilt
+## 70E4
 
-> Ihr mögt das Antlitz der Zoras besitzen, doch Eure Statur gleicht der eines Gartenzwerges...
+> Das Geister-Siegel ist gebrochen! Wua, wua, wua, WAAAH! Waluigi glaubt an Dich!
 
-### 71A0 — Waluigi / Maske
+## 003D
 
-> Was soll das? Willst Du mich zum Narren halten?
+> Das Wasseramulett! Thaddäus, der Weise des Wassers, gibt Dir seine Kraft!
 
-### 71A1 — Waluigi / Maske
+## 003F
 
-> Du bist sehr mutig, Dich mit dieser Maske in unsere Gegend zu wagen! Du gefällst mir!
+> Das Geisteramulett! Waluigi, der Weise der Geister, gibt Dir seine Kraft!
 
-### 71A2 — Waluigi / Maske
+## 4013
 
-> Das sind Spiele aus dem Kindergarten! Werde erwachsen!
+> Thaddäus hat sich zum Hylia-See begeben... Ich mache mir große Sorgen um ihn...
 
-### 71A3 — Waluigi / Maske
+## 4043
 
-> Nanu? Du... Du siehst aus wie ich! Nein, ich bin hübscher. Und vor allem nicht so klein...
+> Thaddäus ist nun der Weise des Wassers?
 
-## Infoboxen: keine gesprochenen Charakterzeilen
+> Dann wird er sicher bald eine angemessene Bezahlung verlangen.
 
-### 00CD — Silberne Schuppe
+> Auch für die Zoras müssen wir Hyrule den Frieden wiederbringen!
 
-> Die Silberne Schuppe! Begib Dich ins Wasser und drücke [A]. Jetzt kannst Du tiefer tauchen als zuvor!
+## 4045
 
-### 003D — Wasseramulett
+> Ah, ich verstehe... Thaddäus ist zum Wassertempel gegangen...
 
-> Das Amulett des Wassers! Thaddäus gibt sich als eine der Weisen zu erkennen und überträgt Dir ihre Kraft!
-
-### 003F — Geisteramulett
-
-> Das Amulett der Geister! Waluigi gibt sich als eine der Weisen zu erkennen und überträgt Dir ihre Kraft!
-
-## Weitere Sprecher in Waluigis Szenen
-
-### 6029 — Hexe: Fang / Koume ansprechen
-
-> Hihihihi! Sieht so aus, als hätten wir einen ordentlichen Fang gemacht, Koume!
-
-### 602A — Hexe: Antwort / Kotake ansprechen
-
-> Hihihihi! Sieht ganz so aus, Kotake!
-
-### 602B — Hexe: Eindringling im Tempel
-
-> Wie außergewöhnlich, daß sich jemand so tief in unseren Tempel hineintraut... Hihihihi!
-
-### 602C — Hexe: Lektion erteilen
-
-> Wir sollten ihm eine ordentliche Lektion erteilen! Hihihihi!
-
-### 602D — Hexe: Vasall ansprechen
-
-> Oh, treuer Vasall...
-
-### 602E — Hexe: Angriffsbefehl
-
-> Zerstöre diesen Eindringling!
-
-### 6031 — Hexe: nach der Eisenritter-Enthüllung
-
-> Grummel... Sieht aus, als hätte sie sich befreien können, Koume...
-
-### 6032 — Hexe: Gerudo-Ansehen
-
-> Sie ist noch jung, genießt aber hohen Respekt unter den Gerudo-Kriegerinnen, Kotake...
-
-### 6033 — Hexe: erneut versklaven
-
-> Vielleicht sollten wir sie etwas länger zum Dienste des mächtigen Ganondorf versklaven! Hihihihi!
-
-### 6034 — Hexe: Gehirnwäsche
-
-> Wir sollten ihr Gehirn einer neuen Behandlung unterziehen! Hihihihi!
-
-## Weitere bestehende Texte über Thaddäus und Waluigi
-
-### 005B — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Die Krafthandschuhe! Trägst Du sie, hast Du die Kraft, mit [A] auch sehr schwere Dinge anzuheben!
-
-> Aber einem kleinen Jungen sind sie zu groß... Zudem hast Du versprochen, sie Waluigi zu geben! Halte also Wort!
-
-### 0411 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Man erzählt sich, die Diebesprinzessin Waluigi wäre eine Gerudo-Kriegerin...
-
-### 6004 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Ich bin beeindruckt. Um an unseren Wachen vorbeizukommen, muß man schon sehr geschickt sein.
-
-> Ich habe immer gedacht, alle Typen außer Ganondorf wären ziemliche Waschlappen... Aber ich muß meine Meinung ändern!
-
-> Unsere Anführerin Waluigi hat mir die Verantwortung für diese Festung übertragen.
-
-> Waluigi ist die Stellvertreterin des mächtigen Ganondorf, des Herrn der Gerudo-Kriegerinnen.
-
-> Sie ist gerade auf dem Weg zum Geistertempel, der sich jenseits der Wüste befindet. Sie vermutet dort ein wertvolles Relikt.
-
-> Du willst also einer von uns werden, was? Na gut, Du hast Deine Fähigkeiten bewiesen! Du bist nun ein Gerudo!
-
-> Nimm dies. Damit kannst Du Dich in der Festung frei bewegen!
-
-### 6005 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Ab jetzt kannst Du das Tor zur Wüste durchschreiten, wann immer Du willst.
-
-> Dort findest Du den Geistertempel, in dem sich die herrliche Waluigi zur Zeit aufhält.
-
-### 605F — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Waluigi, die Anführerin der Gerudo-Kriegerinnen, scheint Menschen für ihre Zwecke zu versklaven...
-
-### 6061 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Als Waluigi noch zu den Diebinnen gehörte, hat sie nie die Schwachen und Armen bestohlen.
-
-Anschließend: 6062.
-
-### 6063 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Wie ich mir dachte: Waluigi wurde mit Hexerei von Ganondorfs Schergen zu einer willenlosen Sklavin gemacht...
-
-### 4013 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Prinzessin Thaddäus hat sich zum Hylia-See begeben... Ich mache mir erneut große Sorgen um sie...
-
-### 4043 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Thaddäus wollte sich bei mir bedanken?
-
-> Ich verstehe...
-
-> Auch in ihrem Namen müssen wir Hyrule den Frieden wiederbringen!
-
-### 4045 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
-
-> Ah, ich verstehe... Prinzessin Thaddäus ist zum Wassertempel gegangen...
-
-### 4059 — Namensverweis aus der Umstellung; anderer Sprecher / Spieltext
+## 4059
 
 > Schau, {Spielername}...
 
-> Du und Prinzessin Thaddäus, ihr habt gemeinsam das bösartige Monster besiegt!
+> Du und Thaddäus, ihr habt gemeinsam das bösartige Monster besiegt!
 
 > Der See füllt sich mit reinem Wasser, und alles ist wie zuvor.
 
-## Reserve: aktuell kein aktiver Aufruf gefunden
+## 005B
 
-### 602F — Im Textbestand vorhanden; kein aktiver Aufruf im untersuchten C-/Szenenbestand gefunden
+> Die Krafthandschuhe! Trägst Du sie, hast Du die Kraft, mit [A] auch sehr schwere Dinge anzuheben!
 
-> Ganondorfs... Feinde... müssen sterben...
+> Aber einem Kind sind sie zu groß... Zudem hast Du versprochen, sie Waluigi zu geben! Halte also Wort!
+
+## 0411
+
+> Man erzählt sich, Waluigi wäre der beste Tennisspieler des Königreichs. Waluigi hat das Gerücht selbst verbreitet.
+
+## 6004
+
+> Ich bin beeindruckt. Um an unseren Wachen vorbeizukommen, muß man schon sehr geschickt sein.
+
+> Friedrich Merz hält große Reden. Du hast dagegen tatsächlich etwas getan!
+
+> Die Verantwortung für diese Festung liegt jetzt bei uns. Auf Merz warten wir nicht mehr.
+
+> Waluigi kam hier vorbei. Er behauptet, sein Charme habe ihm alle Türen geöffnet.
+
+> Er ist auf dem Weg zum Geistertempel jenseits der Wüste. Er vermutet dort ein wertvolles Relikt.
+
+> Du willst also einer von uns werden? Du hast Deine Fähigkeiten bewiesen! Du bist nun ein Gerudo!
+
+> Nimm dies. Damit kannst Du Dich in der Festung frei bewegen!
+
+## 6005
+
+> Ab jetzt kannst Du das Tor zur Wüste durchschreiten, wann immer Du willst.
+
+> Dort findest Du den Geistertempel. Waluigi ist dort gerade auf Beutetour.
+
+## 605F
+
+> Waluigi scheint Menschen für Friedrich Merz zu versklaven. Irgend etwas stimmt da nicht...
+
+## 6061
+
+> Als Waluigi noch auf Beutetour ging, hat er nie die Schwachen und Armen bestohlen.
+
+Textkette: TEXTID(0x6062)
+
+## 6063
+
+> Wie ich mir dachte: Waluigi wurde mit Hexerei von Merz' Schergen zu einem willenlosen Sklaven gemacht...
+
+## 0016
+
+> Die Gerudo-Maske! Mit [C] setzt Du sie auf. Steht Dir!
+
+## 6031
+
+> Grummel... Sieht aus, als hätte er sich befreien können, Koume...
+
+## 6032
+
+> Er ist noch jung, genießt aber hohen Respekt unter den Gerudo-Kriegerinnen, Kotake...
+
+## 6033
+
+> Vielleicht sollten wir ihn etwas länger zum Dienste des mächtigen Friedrich Merz versklaven! Hihihihi!
+
+## 6034
+
+> Wir sollten sein Gehirn einer neuen Behandlung unterziehen! Hihihihi!
 

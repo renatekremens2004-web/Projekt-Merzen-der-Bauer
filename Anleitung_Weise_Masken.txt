@@ -1,0 +1,5 @@
+Gesamtpatch: Thaddäus, Waluigi und Maskenreaktionen
+
+In https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte, unveränderte Europa/PAL-1.0-Original-ROM anwenden. Nicht auf einen älteren Patchstand anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Im Spiel Deutsch einstellen. Normale Spielstände verwenden, keine alten Emulator-Save-States. Alle bisherigen Modelle und Dialoge sind enthalten.
+
+Neue Weisen- und Maskentexte sind eingebaut. Dialogübersichten und Prüfbericht liegen im Quellpaket. Gezielte Emulatorproben und statische Prüfungen; kein vollständiger Spieldurchlauf.
