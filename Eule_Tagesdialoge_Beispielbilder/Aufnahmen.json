@@ -1,0 +1,72 @@
+{
+  "Merz_Herr_Bohne.png": {
+    "scenario": "eulgag-bohne-sword-v1-direct-clip-on",
+    "frame": 700,
+    "message_id": "700A",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "81bfa6f9aa1c339c48012327c4dd02c19371acf44b0fe48bc6967eabd9e24858",
+    "sha256": "75988458bbfbd1d573793f6b0e0570bc5d11d7358058c3d67007bbe5f3461949"
+  },
+  "Zitteraale_tagsueber.png": {
+    "scenario": "eulgag-eels-before-v1-focus-direct-clip-on",
+    "frame": 533,
+    "message_id": "7021",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9875e571e59e19bb9e97d6bf873856602a91993b4af103c5c08ca920907970bd",
+    "sha256": "f8dcd69fdd54a03c70baa556b987d08163bd8f8c936a713dda4c453931a2f2d0"
+  },
+  "Bean_Rettungssanitaeter_tagsueber.png": {
+    "scenario": "eulgag-rescue-before-v1-focus-direct-clip-on",
+    "frame": 517,
+    "message_id": "7023",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9875e571e59e19bb9e97d6bf873856602a91993b4af103c5c08ca920907970bd",
+    "sha256": "394935b30631ab9c02b51e411223ea33e016d348d535b18da00db687e60855c8"
+  },
+  "Nachtwache.png": {
+    "scenario": "eulgag-nightwatch-v1-focus-direct-clip-on",
+    "frame": 518,
+    "message_id": "7003",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9875e571e59e19bb9e97d6bf873856602a91993b4af103c5c08ca920907970bd",
+    "sha256": "8f88d4d8cf6b0e85225f847897b5608e8e30f78af978f39b479d95fcfd1210d8"
+  },
+  "Eule_Orientierung.png": {
+    "scenario": "eulgag-fieldbird-v2-focus-direct-clip-on",
+    "frame": 666,
+    "message_id": "2065",
+    "source_screenshot": "the_legend_of_zelda-010.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9875e571e59e19bb9e97d6bf873856602a91993b4af103c5c08ca920907970bd",
+    "sha256": "e105ee6e6660943dbaed1aa1fb020badd7bdd1445e81a9ac618ef9fd6758f24f"
+  },
+  "Eule_Zeit.png": {
+    "scenario": "eulgag-castlebird-v1-focus-direct-clip-on",
+    "frame": 614,
+    "message_id": "2069",
+    "source_screenshot": "the_legend_of_zelda-008.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9875e571e59e19bb9e97d6bf873856602a91993b4af103c5c08ca920907970bd",
+    "sha256": "785486e7f7c9753e8de183c3e78347b906893d914d9e3ba0bafb37439ec6b528"
+  },
+  "Eule_Daseinsvorsorge.png": {
+    "scenario": "eulgag-riverbird-v1-focus-direct-clip-on",
+    "frame": 522,
+    "message_id": "4031",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9875e571e59e19bb9e97d6bf873856602a91993b4af103c5c08ca920907970bd",
+    "sha256": "37a2bcd6b50a99d638e18b6393a8f6e812e81397ad6b5ed670199c0a2b2b69cd"
+  }
+}

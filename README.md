@@ -1,6 +1,20 @@
-# Merzen der Bauer: eigene NPC- und Händlerstimmen
+# Merzen der Bauer: Eule und Tagesdialoge
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_NPC_Stimmen.bps?raw=true)** · [Neun echte Ingame-Bilder](NPC_Stimmen_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_NPC_Stimmen.txt) · [Quellen, Patch und Prüfungen](Merzen_NPC_Stimmen_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Eule_Tagesdialoge.bps?raw=true)** · [Sieben echte Ingame-Bilder](Eule_Tagesdialoge_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Eule_Tagesdialoge.txt) · [Quellen, Patch und Prüfungen](Merzen_Eule_Tagesdialoge_Quellen_Patch_Bilder.zip?raw=true)
+
+Alle 34 Euleneinträge geprüft; an 33 Stellen mehr Abwägungen, Selbstkorrekturen und Energie-/Wirtschaftsvergleiche, ohne Identitätsenthüllung. Die beiden Gags zu Zitteraalen und Bean als Rettungssanitäter nun bei zwei leicht erreichbaren Tagesbewohnern des Marktplatzes, in Erst-/Wiederholungsgesprächen und nach Zeldas Flucht. Nachtwache bekommt einen eigenen Dienstspruch. Merz nennt Bean nun „Herr Bohne“. Weiterhin **681** bearbeitete Nachrichten, sämtliche bisherigen Modelle und schnelleres Schreibtempo enthalten. [Belegung und Prüfbericht](Eule_Tagesdialoge_Beispielbilder/Pruefbericht.md).
+
+Auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Neun gezielte native 4-MiB-Szenarien, Textkontrollen/Puffer, 1509 Segmente und RomPatcher.js geprüft. Nicht jeder Eulenauftritt live gespielt, kein kompletter Spieldurchlauf oder Hardwaretest.
+
+![Zitteraale tagsüber](Eule_Tagesdialoge_Beispielbilder/Zitteraale_tagsueber.png)
+
+![Eule](Eule_Tagesdialoge_Beispielbilder/Eule_Orientierung.png)
+
+## Vorherige Fassung: eigene NPC- und Händlerstimmen
+
+**[Vorherigen NPC-Stimmen-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_NPC_Stimmen.bps?raw=true)** · [Neun echte Ingame-Bilder](NPC_Stimmen_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_NPC_Stimmen.txt) · [Quellen, Patch und Prüfungen](Merzen_NPC_Stimmen_Quellen_Patch_Bilder.zip?raw=true)
 
 Neue Nutzerideen auf passende Händler und Bewohner verteilt. 46 zusätzliche Nachrichtenzustände, insgesamt **681**; 634 bisherige eigene Texte bytegleich, ein Kokiri-Text neu gefaßt. Sämtliche bisherigen Modelle, schnelleres Schreibtempo und normaler Spielstart enthalten. [Belegung und Prüfbericht](NPC_Stimmen_Beispielbilder/Pruefbericht.md).
 

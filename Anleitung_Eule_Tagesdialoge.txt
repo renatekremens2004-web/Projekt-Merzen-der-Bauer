@@ -1,0 +1,7 @@
+Eule und Tagesdialoge – deutsche Europa/PAL 1.0
+
+BPS-Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Nicht auf eine bereits gepatchte Mod. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände statt alter Emulator-Save-States verwenden.
+
+Alle bisherigen Änderungen, Modelle, 681 bearbeitete Nachrichten und schnelleres Schreibtempo enthalten; normaler Spielstart. Eulenstimme geschärft. Zitteraale: ältere Frau tagsüber auf dem Marktplatz. Bean als Rettungssanitäter: Mann im schwarzen Oberteil nahe den Geschäften. Beide Gags ohne Flasche vor/nach Zeldas Flucht, auch beim erneuten Ansprechen. Nachtwache betont ihren Nachtdienst. Merz nennt Mr. Bean „Herr Bohne“.
+
+Neun native 4-MiB-Szenarien, Textkontrollen/Puffer, ROM-Segmente und RomPatcher.js geprüft. Sieben echte Ingame-Bilder. Nicht jeder Eulenauftritt live gespielt, kein voller Durchlauf oder Hardwaretest.
