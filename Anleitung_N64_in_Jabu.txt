@@ -1,0 +1,8 @@
+Nintendo 64 in Jabu-Jabu – deutsche PAL 1.0
+
+Den BPS-Gesamtpatch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine vorherige Mod anwenden. Vanilla-MD5: e040de91a74b61e3201db0e2323f768a.
+Normale Spielstände verwenden; alte Emulator-Save-States enthalten alte Daten.
+
+Eine kleine Konsole mit Ocarina-of-Time-Kassette, Controller und Kabel liegt auf der unteren Plattform bei Rutos erstem Sturz. Z anvisieren und C-Up für Navis Kommentar drücken. Wiederholbar. Gehäusebreite 10 Spieleinheiten, passend für Kinder-Link. Szenenlicht und unverzerrte Proportionen. 597 deutsche Nachrichten; alle bisherigen Modelle und Dialogänderungen enthalten. Bestehende Textzeiten bleiben erhalten.
+
+Build, alle Textkontrollsequenzen, 1509 Segmente und tatsächlicher RomPatcher.js-Rundlauf geprüft. Vier gezielte 4-MB-Laufzeitprüfungen: wiederholter Kommentar, Größenprobe, Englisch und anderer Raum. Kein vollständiger Dungeon-/Spieldurchlauf oder Hardwaretest. Keine vollständige ROM enthalten.

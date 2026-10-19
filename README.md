@@ -1,6 +1,20 @@
-# Merzen der Bauer: Habeck in der Halle der Weisen
+# Merzen der Bauer: Nintendo 64 in Jabu-Jabu
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Habeck_Rauru.bps?raw=true)** · **[Acht ausgewählte Ingame-Bilder als ZIP](Habeck_Rauru_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Habeck_Rauru_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_N64_in_Jabu.bps?raw=true)** · **[Drei echte Ingame-Bilder als ZIP](N64_in_Jabu_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_N64_in_Jabu_Quellen_Patch_Bilder.zip?raw=true)
+
+Auf der unteren Plattform bei Rutos erstem Sturz steht ein kleiner Nintendo 64 samt Ocarina-of-Time-Kassette, Controller und Kabel. Das Gehäuse ist 10 Spieleinheiten breit, passend für Kinder-Link. Z anvisieren und C-oben drücken: Navi sagt „Ein Nintendo 64 mit Zelda Ocarina of Time... Ich tu mal so, als hätte ich das nicht gesehen.“ Der Kommentar ist wiederholbar. Gleichmäßige Proportionen und Szenenbeleuchtung. Insgesamt **597 deutsche Nachrichten**, alle bisherigen Modelle und Dialogkapitel enthalten.
+
+Den Gesamtpatch direkt mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine vorherige Mod anwenden. Normale Spielstände verwenden; ältere Emulator-Save-States enthalten alte Daten. Keine vollständige ROM enthalten.
+
+Build, alle 597 Textkontrollsequenzen, 1509 komprimierte Segmente und RomPatcher.js-Rundlauf geprüft. Vier gezielte 4-MB-Laufzeittests bestätigen wiederholten Kommentar, seitliche Größenprobe, englische Sprache und einen anderen Raum. Die neue Konsole ist nur in der deutschen Mod aktiv. Kein vollständiger Dungeon-/Spieldurchlauf oder Hardwaretest. Teststart-Hilfen und Grenzen stehen im [Prüfbericht](N64_in_Jabu_Beispielbilder/Pruefbericht.md). [Prüfsummen](SHA256SUMS_N64_in_Jabu.txt).
+
+![Navis Kommentar](N64_in_Jabu_Beispielbilder/N64_Navis_Kommentar.png)
+
+![Größe und Zielerfassung neben Kinder-Link](N64_in_Jabu_Beispielbilder/N64_Groesse_und_Zielerfassung.png)
+
+## Vorherige Fassung: Habeck in der Halle der Weisen
+
+**[Vorherigen Habeck-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Habeck_Rauru.bps?raw=true)** · **[Acht ausgewählte Ingame-Bilder als ZIP](Habeck_Rauru_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Habeck_Rauru_Quellen_Patch_Bilder.zip?raw=true)
 
 Robert Habeck ersetzt Rauru mit dem gelieferten Avatar: 2341 Dreiecke, 24 Hauptgelenke, eigene Proportionen, einheitliche Gesamtgröße und Szenenlicht. Seine ausführliche Erklärung verbindet Geistereule, Stasis, Energieversorgung und Zeitreise. Im jungen Kakariko berichtet der Dachbewohner vom beobachteten Sturz; der eigentliche Aussichtsturm-NPC existiert dort erst beim erwachsenen Link. 14 Nachrichten dieses Kapitels, insgesamt 596 deutsche Nachrichten in alter Rechtschreibung. Alle bisherigen Modelle und Dialogkapitel enthalten.
 

@@ -1,0 +1,29 @@
+{
+  "N64_Navis_Kommentar.png": {
+    "scenario": "console-final-photo-side-direct-clip-on",
+    "frame": 200,
+    "message_id": "0125",
+    "source_screenshot": "the_legend_of_zelda-001.png",
+    "sha256": "fcc3ba595d2d3468202be07e57a6b04a7baedb1a5a0a8f1940490120d220ed5a",
+    "unedited": true,
+    "test_start_note": "Positionierter Teststart; seitlich einmal Herzen aufgefüllt, frontal natives Raum-Clear-Bit gesetzt. Keine Konsole versetzt oder vergrößert."
+  },
+  "N64_Groesse_und_Zielerfassung.png": {
+    "scenario": "console-final-repeat-direct-clip-on",
+    "frame": 500,
+    "message_id": null,
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "sha256": "ed5662a10efc5f939d349cf55cf9ffbc59e42b892bc623492dd485c97b225eee",
+    "unedited": true,
+    "test_start_note": "Positionierter Teststart; seitlich einmal Herzen aufgefüllt, frontal natives Raum-Clear-Bit gesetzt. Keine Konsole versetzt oder vergrößert."
+  },
+  "N64_Kommentar_Frontal.png": {
+    "scenario": "console-final-repeat-direct-clip-on",
+    "frame": 680,
+    "message_id": "0125",
+    "source_screenshot": "the_legend_of_zelda-005.png",
+    "sha256": "36a53902b28764542a799eb04a42c7e1181f2739b5b4546e71369e6179708d4a",
+    "unedited": true,
+    "test_start_note": "Positionierter Teststart; seitlich einmal Herzen aufgefüllt, frontal natives Raum-Clear-Bit gesetzt. Keine Konsole versetzt oder vergrößert."
+  }
+}
