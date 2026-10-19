@@ -1,6 +1,18 @@
-# Merzen der Bauer: Eule und Tagesdialoge
+# Merzen der Bauer: Okto, der Oktorok
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Eule_Tagesdialoge.bps?raw=true)** · [Sieben echte Ingame-Bilder](Eule_Tagesdialoge_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Eule_Tagesdialoge.txt) · [Quellen, Patch und Prüfungen](Merzen_Eule_Tagesdialoge_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Okto.bps?raw=true)** · [Drei echte Ingame-Bilder](Okto_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Okto.txt) · [Quellen, Patch und Prüfungen](Merzen_Okto_Quellen_Patch_Bilder.zip?raw=true)
+
+Okto ist ein zusätzlicher friedlicher Oktorok rechts im Eingangsraum von Jabu-Jabu. Mit Z anvisieren und A sprechen; wiederholbar, ohne Angriff und ohne Einfluß auf die Gegnerzahl für den Raumabschluß. Normale Oktoroks und der große Oktorok behalten ihr Verhalten. **682** bearbeitete Nachrichten mit allen bisherigen Änderungen, Modellen und schnellerem Schreibtempo. [Prüfbericht](Okto_Beispielbilder/Pruefbericht.md).
+
+Auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Vier native 4-MiB-Szenarien, sämtliche Textkontrollen/Puffer, 1509 Segmente und RomPatcher.js geprüft. Kein kompletter Spieldurchlauf oder Hardwaretest.
+
+![Okto](Okto_Beispielbilder/Okto_stellt_sich_vor.png)
+
+## Vorherige Fassung: Eule und Tagesdialoge
+
+**[Vorherigen Eule-/Tagesdialog-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Eule_Tagesdialoge.bps?raw=true)** · [Sieben echte Ingame-Bilder](Eule_Tagesdialoge_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Eule_Tagesdialoge.txt) · [Quellen, Patch und Prüfungen](Merzen_Eule_Tagesdialoge_Quellen_Patch_Bilder.zip?raw=true)
 
 Alle 34 Euleneinträge geprüft; an 33 Stellen mehr Abwägungen, Selbstkorrekturen und Energie-/Wirtschaftsvergleiche, ohne Identitätsenthüllung. Die beiden Gags zu Zitteraalen und Bean als Rettungssanitäter nun bei zwei leicht erreichbaren Tagesbewohnern des Marktplatzes, in Erst-/Wiederholungsgesprächen und nach Zeldas Flucht. Nachtwache bekommt einen eigenen Dienstspruch. Merz nennt Bean nun „Herr Bohne“. Weiterhin **681** bearbeitete Nachrichten, sämtliche bisherigen Modelle und schnelleres Schreibtempo enthalten. [Belegung und Prüfbericht](Eule_Tagesdialoge_Beispielbilder/Pruefbericht.md).
 

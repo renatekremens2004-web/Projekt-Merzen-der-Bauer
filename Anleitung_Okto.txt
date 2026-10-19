@@ -1,0 +1,5 @@
+Okto, der Oktorok – deutsche Europa/PAL 1.0
+
+BPS-Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Nicht auf eine bereits gepatchte Mod. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände statt alter Emulator-Save-States verwenden.
+
+Okto steht rechts im Eingangsraum von Jabu-Jabu. Mit Z anvisieren und A sprechen. Wiederholbarer friedlicher NPC; normale Gegner und großer Oktorok unverändert. Alle bisherigen Änderungen, 682 bearbeitete Nachrichten, normaler Spielstart und schnelleres Schreibtempo enthalten. Vier native 4-MiB-Prüfungen, ROM-/Textprüfungen und RomPatcher.js bestanden; kein vollständiger Durchlauf oder Hardwaretest. Drei echte Ingame-Aufnahmen im Bilder-ZIP.

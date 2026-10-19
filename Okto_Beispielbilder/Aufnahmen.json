@@ -1,0 +1,32 @@
+{
+  "Okto_stellt_sich_vor.png": {
+    "scenario": "oktotest-talk-v2-focus-direct-clip-on",
+    "frame": 496,
+    "message_id": "00F8",
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "e09953490120959b4bd1ae215e64238c8d78fd47b71a47d898fb3a0be3d60fcd",
+    "sha256": "e084d714e3c9df3dbf6b0d33614459691e0d3de0416c3252a3b8334bb9a5445e"
+  },
+  "Nicht_alle_Oktoroks.png": {
+    "scenario": "oktotest-talk-v2-focus-direct-clip-on",
+    "frame": 555,
+    "message_id": "00F8",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "e09953490120959b4bd1ae215e64238c8d78fd47b71a47d898fb3a0be3d60fcd",
+    "sha256": "268af834875a08f79a5e6fb6df53eef4a9578c876ab916178935b0691c122662"
+  },
+  "Der_grosse_Oktorok.png": {
+    "scenario": "oktotest-talk-v2-focus-direct-clip-on",
+    "frame": 676,
+    "message_id": "00F8",
+    "source_screenshot": "the_legend_of_zelda-008.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "e09953490120959b4bd1ae215e64238c8d78fd47b71a47d898fb3a0be3d60fcd",
+    "sha256": "f65ca0785fd99db99d63db143b3ef5c0ffe9bee9e1afad40e92a6e0fe6fb06cc"
+  }
+}
