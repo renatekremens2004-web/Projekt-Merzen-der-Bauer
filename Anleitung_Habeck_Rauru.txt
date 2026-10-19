@@ -1,0 +1,7 @@
+Robert Habeck in der Halle der Weisen – deutsche PAL 1.0
+
+Den BPS-Gesamtpatch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine vorherige Mod anwenden. Vanilla-MD5: e040de91a74b61e3201db0e2323f768a.
+Normale Spielstände verwenden; alte Emulator-Save-States enthalten alte Daten.
+
+Habeck ersetzt Rauru mit dem gelieferten, für N64 reduzierten Modell. Ausführliche Geistereulen-/Stasis-/Zeitreise-Erklärung und Zeugenbericht des Dachbewohners im jungen Kakariko. 14 Nachrichten dieses Kapitels, insgesamt 596 deutsche Nachrichten; alle bisherigen Modelle/Änderungen enthalten. Feste Textzeiten bleiben bestehen, neue normale Seiten werden von Hand weitergeschaltet.
+Build, Textpuffer, Steuersequenzen, 1509 Segmente und RomPatcher.js geprüft. 4-MB-Laufzeitprüfung ab Masterschwert-Aufnahme über die gesamte neue Rede bis Lichtamulett und Rückkehr mit Navi; Kindheitszeuge tags/nachts und Erwachsenen-/Englisch-Gegenproben. Kein vollständiger Spieldurchlauf oder Hardwaretest. Der Zeuge wurde nur für die Aufnahme zum Spieler versetzt; im Spiel bleibt er auf dem Dach. Keine vollständige ROM enthalten.

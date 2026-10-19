@@ -1,0 +1,74 @@
+{
+  "Habeck_Begruessung.png": {
+    "scenario": "rauru-final-direct-clip-on",
+    "frame": 2075,
+    "message_id": "704F",
+    "source_screenshot": "the_legend_of_zelda-025.png",
+    "sha256": "f955851c6f932f9fa76e698d39f4f168d98d237dea22bc67eb5db07acc05e9a0",
+    "unedited": true,
+    "note": ""
+  },
+  "Habeck_Todesberg.png": {
+    "scenario": "rauru-final-direct-clip-on",
+    "frame": 2457,
+    "message_id": "704F",
+    "source_screenshot": "the_legend_of_zelda-035.png",
+    "sha256": "f9fac923e225bebd952232185537fc091f7bfdf747ba4fae9c0e04c607a505a3",
+    "unedited": true,
+    "note": ""
+  },
+  "Habeck_Geistereule.png": {
+    "scenario": "rauru-final-direct-clip-on",
+    "frame": 3295,
+    "message_id": "0121",
+    "source_screenshot": "the_legend_of_zelda-055.png",
+    "sha256": "f0773369afe518e99e0672631efcd6690ea2233d0aa45b5a683344953927b84e",
+    "unedited": true,
+    "note": ""
+  },
+  "Habeck_Energie.png": {
+    "scenario": "rauru-final-direct-clip-on",
+    "frame": 4499,
+    "message_id": "0122",
+    "source_screenshot": "the_legend_of_zelda-086.png",
+    "sha256": "dfe6b6c16196e3adf032c5649395ba1043c56bcb2cc2a8ff60809b149d5055b5",
+    "unedited": true,
+    "note": ""
+  },
+  "Habeck_Stasis_und_Kleidung.png": {
+    "scenario": "rauru-final-direct-clip-on",
+    "frame": 7518,
+    "message_id": "7051",
+    "source_screenshot": "the_legend_of_zelda-151.png",
+    "sha256": "813e108fbffa7214b1a424a94de456425bdd750bb037dd7a537edb3f31de0eab",
+    "unedited": true,
+    "note": ""
+  },
+  "Habeck_Zeitreise.png": {
+    "scenario": "rauru-final-direct-clip-on",
+    "frame": 8651,
+    "message_id": "7053",
+    "source_screenshot": "the_legend_of_zelda-180.png",
+    "sha256": "fb3b56daf153cd6c017bcdf9490b25c55ebf16a33407914a6e928b3ba4b73724",
+    "unedited": true,
+    "note": ""
+  },
+  "Lichtamulett.png": {
+    "scenario": "rauru-final-direct-clip-on",
+    "frame": 10455,
+    "message_id": "0040",
+    "source_screenshot": "the_legend_of_zelda-226.png",
+    "sha256": "db4b8778bf7d0059195f0a7898444467c73b50ee965cbfea992e49d3d53f297e",
+    "unedited": true,
+    "note": ""
+  },
+  "Kakariko_Zeuge_Aufnahmeposition.png": {
+    "scenario": "witness-final-roof-child-focus-direct-clip-on",
+    "frame": 597,
+    "message_id": "5050",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "a1bf365fef0b25fdc9d4f0e5a468a2cfbb4a1e75c351d7009994e03e8af1cf5d",
+    "unedited": true,
+    "note": "NPC nur für die Aufnahme zum Spieler versetzt; im Spiel bleibt er auf seinem Dach."
+  }
+}

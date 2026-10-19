@@ -1,6 +1,26 @@
-# Merzen der Bauer: Drei Steine, Flucht und Masterschwert
+# Merzen der Bauer: Habeck in der Halle der Weisen
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zeituebergang.bps?raw=true)** · **[12 ausgewählte Ingame-Bilder als ZIP](Zeituebergang_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Zeituebergang_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Habeck_Rauru.bps?raw=true)** · **[Acht ausgewählte Ingame-Bilder als ZIP](Habeck_Rauru_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Habeck_Rauru_Quellen_Patch_Bilder.zip?raw=true)
+
+Robert Habeck ersetzt Rauru mit dem gelieferten Avatar: 2341 Dreiecke, 24 Hauptgelenke, eigene Proportionen, einheitliche Gesamtgröße und Szenenlicht. Seine ausführliche Erklärung verbindet Geistereule, Stasis, Energieversorgung und Zeitreise. Im jungen Kakariko berichtet der Dachbewohner vom beobachteten Sturz; der eigentliche Aussichtsturm-NPC existiert dort erst beim erwachsenen Link. 14 Nachrichten dieses Kapitels, insgesamt 596 deutsche Nachrichten in alter Rechtschreibung. Alle bisherigen Modelle und Dialogkapitel enthalten.
+
+Die Rede verwendet sichere Textfortsetzungen und weitere manuell weitergeschaltete Seiten. Bestehende feste Text-/Kamerazeiten bleiben erhalten. Ja/Nein samt Rücksprung, Lichtamulett und native Rückkehr bleiben bestehen. Das ganze Gespräch wurde ab der tatsächlichen Masterschwert-Aufnahme bis zum Lichtamulett und Navis Dialog nach der Rückkehr mit 4 MB geprüft. Der Zeuge wurde tags/nachts sowie mit Erwachsenen- und Englisch-Gegenproben getestet. Für seine Aufnahme wird nur im Test die Figur zum Spieler versetzt; in der Mod bleibt sie auf dem Dach. Kein kompletter Spieldurchlauf, keine Hardwareprüfung und keine Prüfung jedes späteren Weisen-Auftritts. [Prüfbericht](Habeck_Rauru_Dialogbeispiele/Pruefbericht.md).
+
+Den Patch direkt mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine vorherige Mod anwenden. Normale Spielstände verwenden; ältere Emulator-Save-States enthalten alte Daten. Keine vollständige ROM enthalten.
+
+## Ausgewählte neue Aufnahmen
+
+![Habeck in der Halle](Habeck_Rauru_Dialogbeispiele/Habeck_Begruessung.png)
+
+![Die Geistereule](Habeck_Rauru_Dialogbeispiele/Habeck_Geistereule.png)
+
+![Stasis und Proportionen](Habeck_Rauru_Dialogbeispiele/Habeck_Stasis_und_Kleidung.png)
+
+## Frühere Veröffentlichungen
+
+### Drei Steine, Flucht und Masterschwert
+
+**[Vorherigen Zeitübergang-Patch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Zeituebergang.bps?raw=true)** · **[12 ausgewählte Ingame-Bilder als ZIP](Zeituebergang_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Zeituebergang_Quellen_Patch_Bilder.zip?raw=true)
 
 22 Nachrichten für Merz bei der Flucht und nach dem Masterschwert, Soldaten, neue Marktreaktionen und Navi. Insgesamt 584 bearbeitete deutsche Nachrichten in alter Rechtschreibung. Alle bisherigen Modelle und Dialogkapitel enthalten. Feste bestehende Textzeiten bleiben erhalten. Navis neuer Kommentar erscheint nach dem Masterschwert bei einer natürlichen Guide-Gelegenheit und wird als gehört gespeichert.
 
