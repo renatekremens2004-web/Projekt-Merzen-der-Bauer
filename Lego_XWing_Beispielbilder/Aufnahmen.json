@@ -1,0 +1,29 @@
+{
+  "XWing_Groesse_neben_Link.png": {
+    "scenario": "toy-view-release-room0-direct-clip-on",
+    "frame": 500,
+    "message_id": null,
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "sha256": "fbe62e9403470a229585a75b41bc5080f95f567dd979ff159c4e9cf9e189e264",
+    "unedited": true,
+    "note": "Nur Link für den Teststart positioniert. Keine Verschiebung des Modells oder NPCs; native Kamera."
+  },
+  "Kakariko_Bauanleitung.png": {
+    "scenario": "toy-npc-release-before-focus-direct-clip-on",
+    "frame": 626,
+    "message_id": "507B",
+    "source_screenshot": "the_legend_of_zelda-007.png",
+    "sha256": "64b6154b46b917d416c8cac523b047c59c3bc3b8ffc2384449147632a4535ab4",
+    "unedited": true,
+    "note": "Nur Link für den Teststart positioniert. Keine Verschiebung des Modells oder NPCs; native Kamera."
+  },
+  "Kakariko_Vergessener_XWing.png": {
+    "scenario": "toy-npc-release-before-focus-direct-clip-on",
+    "frame": 558,
+    "message_id": "507B",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "cee3f9eb378e8a87268be91d49974beac1b09d94e1b4243fd0e95d861060224f",
+    "unedited": true,
+    "note": "Nur Link für den Teststart positioniert. Keine Verschiebung des Modells oder NPCs; native Kamera."
+  }
+}

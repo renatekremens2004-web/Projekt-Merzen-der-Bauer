@@ -1,0 +1,8 @@
+LEGO X-Wing im Schattentempel – deutsche PAL 1.0
+
+Den BPS-Gesamtpatch direkt mit der entpackten, unveränderten Europa-ROM in RomPatcher.js kombinieren. Nicht auf eine vorherige Mod anwenden. Vanilla-MD5: e040de91a74b61e3201db0e2323f768a.
+Normale Spielstände verwenden; alte Emulator-Save-States enthalten alte Daten.
+
+Kleiner X-Wing im freien Seitengang des ersten Schädelraums im Schattentempel. Spannweite 24 Spieleinheiten, gleichmäßige Proportionen, Szenenlicht. Der Mann im blauen Hemd unten im erwachsenen Kakariko hat ihn dort vergessen. Direkt erreichbar, NPC und Dachbewohner bleiben an ihren Originalplätzen. Dialog vor und nach Schattenamulett. 599 deutsche Nachrichten und alle bisherigen Änderungen enthalten.
+
+Build, alle Textkontrollsequenzen, 1509 Segmente und RomPatcher.js-Rundlauf geprüft. Fünf gezielte 4-MB-Laufzeitprüfungen. Kein vollständiger Dungeon-/Spieldurchlauf oder Hardwaretest. Keine vollständige ROM enthalten.

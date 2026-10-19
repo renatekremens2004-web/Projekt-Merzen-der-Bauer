@@ -1,6 +1,22 @@
-# Merzen der Bauer: Nintendo 64 in Jabu-Jabu
+# Merzen der Bauer: LEGO X-Wing im Schattentempel
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_N64_in_Jabu.bps?raw=true)** · **[Drei echte Ingame-Bilder als ZIP](N64_in_Jabu_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_N64_in_Jabu_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Lego_XWing.bps?raw=true)** · **[Drei echte Spielbilder als ZIP](Lego_XWing_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Lego_XWing_Quellen_Patch_Bilder.zip?raw=true)
+
+Ein kleiner LEGO X-Wing liegt im freien Seitengang des ersten Schädelraums im Schattentempel. Spannweite 24 Spieleinheiten, passend als Spielzeug für Link, mit einheitlichen Proportionen und Szenenbeleuchtung. Der Mann im blauen Hemd unten im erwachsenen Kakariko sagt: „Scheiße, ich hab' meinen Lego X-Wing im Schattentempel liegen lassen!“ Danach folgt auf der vorhandenen zweiten Seite ein Bauanleitungs-Gag. Der Satz bleibt nach dem Schattenamulett verfügbar. Insgesamt **599 deutsche Nachrichten**; alle bisherigen Modelle und Dialogkapitel enthalten.
+
+**Der Bewohner ist unten im Dorf direkt erreichbar.** Er und der Dachbewohner bleiben auf ihren Originalplätzen, auch für die Aufnahmen. Nur Link wird für die gezielten Tests aufgestellt. Normale Spielkamera, unbearbeitete Bilder.
+
+Den Gesamtpatch direkt mit der **unveränderten, entpackten Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) kombinieren. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Nicht auf eine vorherige Mod anwenden. Normale Spielstände verwenden; ältere Emulator-Save-States enthalten alte Daten. Keine vollständige ROM enthalten.
+
+Build, alle 599 Textkontrollsequenzen, 1509 Segmente und RomPatcher.js-Rundlauf geprüft. Fünf gezielte 4-MB-Laufzeitprüfungen: zwei Modellansichten, deutscher Dialog vor/nach Schattenamulett und englische Gegenprobe. Kein vollständiger Dungeon-/Spieldurchlauf oder Hardwaretest. [Prüfbericht](Lego_XWing_Beispielbilder/Pruefbericht.md) · [Prüfsummen](SHA256SUMS_Lego_XWing.txt).
+
+![Spielzeuggröße neben Link](Lego_XWing_Beispielbilder/XWing_Groesse_neben_Link.png)
+
+![Der Besitzer unten in Kakariko](Lego_XWing_Beispielbilder/Kakariko_Vergessener_XWing.png)
+
+## Vorherige Fassung: Nintendo 64 in Jabu-Jabu
+
+**[Vorherigen Nintendo-64-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_N64_in_Jabu.bps?raw=true)** · **[Drei echte Ingame-Bilder als ZIP](N64_in_Jabu_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_N64_in_Jabu_Quellen_Patch_Bilder.zip?raw=true)
 
 Auf der unteren Plattform bei Rutos erstem Sturz steht ein kleiner Nintendo 64 samt Ocarina-of-Time-Kassette, Controller und Kabel. Das Gehäuse ist 10 Spieleinheiten breit, passend für Kinder-Link. Z anvisieren und C-oben drücken: Navi sagt „Ein Nintendo 64 mit Zelda Ocarina of Time... Ich tu mal so, als hätte ich das nicht gesehen.“ Der Kommentar ist wiederholbar. Gleichmäßige Proportionen und Szenenbeleuchtung. Insgesamt **597 deutsche Nachrichten**, alle bisherigen Modelle und Dialogkapitel enthalten.
 
