@@ -1,0 +1,7 @@
+Eigene NPC- und Händlerstimmen – deutsche Europa/PAL 1.0
+
+BPS-Gesamtpatch in RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Nicht auf eine bereits gepatchte Mod. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände statt alter Emulator-Save-States verwenden.
+
+46 zusätzliche Nachrichtenzustände, insgesamt 681. Sämtliche bisherigen Änderungen und schnelleres Schreibtempo enthalten, normaler Spielstart. Neue Händlerstimmen, Deku-Ball, Spinnenfluch, Bartwachs, Todesberg-Wache, Irrlichtsammler-Rückbezug und Wald-Idyll in Kokiri. Neun echte Ingame-Aufnahmen im Bilder-ZIP.
+
+16 native 4-MiB-Szenarien, Textpuffer/Kontrollen, ROM-Segmente und RomPatcher.js geprüft. Kein vollständiger Durchlauf oder Hardwaretest.

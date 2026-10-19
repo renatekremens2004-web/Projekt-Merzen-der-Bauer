@@ -1,6 +1,20 @@
-# Merzen der Bauer: weitere Alltagsgags in Hyrule und Kakariko
+# Merzen der Bauer: eigene NPC- und Händlerstimmen
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Hyrule_Kakariko_Gags.bps?raw=true)** · [Sechs echte Ingame-Bilder](Hyrule_Kakariko_Gags_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Hyrule_Kakariko_Gags.txt) · [Quellen, Patch und Prüfungen](Merzen_Hyrule_Kakariko_Gags_Quellen_Patch_Bilder.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_NPC_Stimmen.bps?raw=true)** · [Neun echte Ingame-Bilder](NPC_Stimmen_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_NPC_Stimmen.txt) · [Quellen, Patch und Prüfungen](Merzen_NPC_Stimmen_Quellen_Patch_Bilder.zip?raw=true)
+
+Neue Nutzerideen auf passende Händler und Bewohner verteilt. 46 zusätzliche Nachrichtenzustände, insgesamt **681**; 634 bisherige eigene Texte bytegleich, ein Kokiri-Text neu gefaßt. Sämtliche bisherigen Modelle, schnelleres Schreibtempo und normaler Spielstart enthalten. [Belegung und Prüfbericht](NPC_Stimmen_Beispielbilder/Pruefbericht.md).
+
+Auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+16 gezielte native 4-MiB-Szenarien, Textkontrollen/Puffer, 1509 Segmente und RomPatcher.js geprüft. Kein kompletter Spieldurchlauf oder Hardwaretest.
+
+![Basar](NPC_Stimmen_Beispielbilder/Basar_Qualitaet.png)
+
+![Schleimhexe](NPC_Stimmen_Beispielbilder/Schleimhexe.png)
+
+## Vorherige Fassung: weitere Alltagsgags in Hyrule und Kakariko
+
+**[Vorherigen Alltagsgags-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Hyrule_Kakariko_Gags.bps?raw=true)** · [Sechs echte Ingame-Bilder](Hyrule_Kakariko_Gags_Ingame_Bilder.zip?raw=true) · [Anleitung](Anleitung_Hyrule_Kakariko_Gags.txt) · [Quellen, Patch und Prüfungen](Merzen_Hyrule_Kakariko_Gags_Quellen_Patch_Bilder.zip?raw=true)
 
 Alle sechs neuen Nutzerideen auf zuvor originale NPC-Gespräche verteilt, einschließlich der vier nachgereichten Ideen. Neun Nachrichtenzustände überarbeitet; alle vorherigen 626 eigenen Texte erhalten, insgesamt **635**. Sämtliche bisherigen Modelle und das schnellere Schreibtempo enthalten; normaler Spielstart. [Belegung und Prüfbericht](Hyrule_Kakariko_Gags_Beispielbilder/Pruefbericht.md).
 

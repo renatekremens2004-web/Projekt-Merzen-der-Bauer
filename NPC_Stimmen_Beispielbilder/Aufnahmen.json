@@ -1,0 +1,92 @@
+{
+  "Nichts_kann_diesen_Tag_ruinieren.png": {
+    "scenario": "npcvoice-kokiri-happy-v5-focus-direct-clip-on",
+    "frame": 728,
+    "message_id": "100A",
+    "source_screenshot": "the_legend_of_zelda-013.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9d486686e7cd4a38e782eaa6b484c14f486d994b3741be05b444bfe9369664f0",
+    "sha256": "09a1f7c31666527a43eb693d49b327efaf40fd9414739c49582c05e2211324dd"
+  },
+  "Basar_Qualitaet.png": {
+    "scenario": "npcvoice-bazaar-v1-focus-direct-clip-on",
+    "frame": 481,
+    "message_id": "0127",
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "ec3867a4677fa6b629f659f393f68ee5ff72ca1b924821d1cea4d4c11eed3587",
+    "sha256": "59029cf8fea188b1facdc8060f87c877f44684f6ea1bde0164bfb719f370b051"
+  },
+  "Schleimhexe.png": {
+    "scenario": "npcvoice-granny-v1-focus-direct-clip-on",
+    "frame": 499,
+    "message_id": "5048",
+    "source_screenshot": "the_legend_of_zelda-002.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "ec3867a4677fa6b629f659f393f68ee5ff72ca1b924821d1cea4d4c11eed3587",
+    "sha256": "0f2b127a867965cdf881b95ccfb0f444b43c1afea5a753a79eed4154c61dc40a"
+  },
+  "Spinnenfluch.png": {
+    "scenario": "npcvoice-spider-v1-focus-direct-clip-on",
+    "frame": 716,
+    "message_id": "0026",
+    "source_screenshot": "the_legend_of_zelda-007.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "ec3867a4677fa6b629f659f393f68ee5ff72ca1b924821d1cea4d4c11eed3587",
+    "sha256": "06d69dfab870038973c2942b60b06c742594130f66604e4a502c41dfe289a63a"
+  },
+  "Deku_Ball.png": {
+    "scenario": "npcvoice-deku-ball-v4-focus-direct-clip-on",
+    "frame": 525,
+    "message_id": "5087",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9d486686e7cd4a38e782eaa6b484c14f486d994b3741be05b444bfe9369664f0",
+    "sha256": "850e12d13072c7879a227ae4f4579a689014a070a8cef5f73c22a566018f901c"
+  },
+  "Irrlichtsammler_Rueckblick.png": {
+    "scenario": "npcvoice-poes-v1-focus-direct-clip-on",
+    "frame": 741,
+    "message_id": "70F4",
+    "source_screenshot": "the_legend_of_zelda-012.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "ec3867a4677fa6b629f659f393f68ee5ff72ca1b924821d1cea4d4c11eed3587",
+    "sha256": "6b12c0e56ecedb0777740f2e1fe4d87a8dbb4a6fe492622f02a2d9d6d3404deb"
+  },
+  "Bartwachs.png": {
+    "scenario": "npcvoice-wax-v6-focus-direct-clip-on",
+    "frame": 521,
+    "message_id": "507F",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9d486686e7cd4a38e782eaa6b484c14f486d994b3741be05b444bfe9369664f0",
+    "sha256": "82c9a9257f0cc22557841d058b855d20397d38a9b2c698754eb088bcbc0618e6"
+  },
+  "Todesberg_Wache.png": {
+    "scenario": "npcvoice-jurisdiction-v4-focus-direct-clip-on",
+    "frame": 530,
+    "message_id": "200E",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "9d486686e7cd4a38e782eaa6b484c14f486d994b3741be05b444bfe9369664f0",
+    "sha256": "635a3cb8f1b813022a14d939bbf0f49b213eda606d125f9a4809fe7a16a10446"
+  },
+  "Schiessbudenfigur.png": {
+    "scenario": "npcvoice-shoot-v3-focus-direct-clip-on",
+    "frame": 529,
+    "message_id": "012E",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "unedited": true,
+    "native_npc_position": true,
+    "rom_sha256": "ec3867a4677fa6b629f659f393f68ee5ff72ca1b924821d1cea4d4c11eed3587",
+    "sha256": "80461201f1d0ab3a8260972cb46bb812400bdda7e58a7b29b8c87d0cb44c69f5"
+  }
+}
