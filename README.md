@@ -1,6 +1,22 @@
-# Merzen der Bauer: Waldtempel, Navi und Tripple T
+# Merzen der Bauer: Thaddäus und Waluigi als Weise
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldtempel_Sahur.bps?raw=true)** · [Neue Ingame-Bilder](Waldtempel_Sahur_Ingame_Bilder.zip?raw=true) · [Navi-Texte](Navi_Waldtempel_Aktuell.md) · [Quellen, Patch und Prüfungen](Merzen_Waldtempel_Sahur_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldtempel_Sahur.txt)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Wasser_Geister_Weise.bps?raw=true)** · [Neue Ingame-Bilder](Wasser_Geister_Weise_Ingame_Bilder.zip?raw=true) · [Quellen, Patch und Prüfungen](Merzen_Wasser_Geister_Weise_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Wasser_Geister_Weise.txt)
+
+Thaddäus ersetzt erwachsene Ruto, Waluigi ersetzt Naboru in beiden Zeitabschnitten des Geistertempels. Tempelauftritte, Halle der Weisen, Finale und Credits sind umgestellt, einschließlich der Eisenritter-Enthüllung. Junge Ruto bleibt erhalten. **Neue Dialoge folgen später; jetzt Modelle und Namen.** Tripple T ist etwas größer, schaut in die originale Sproß-Richtung und hat detailliertere Augen. Alle bisherigen Änderungen enthalten. [Prüfbericht](Wasser_Geister_Weise_Beispielbilder/Pruefbericht.md).
+
+In [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) mit der **entpackten, unveränderten Europa/PAL-1.0-ROM** kombinieren. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+Gezielte Tempel-, Weisen-, Finale-, Credits- und Starttests mit tatsächlichen 4 MiB. RomPatcher.js erzeugt bytegleich die geprüfte Produktions-ROM. Kein vollständiger Spieldurchlauf oder Hardwaretest.
+
+![Thaddäus im Wassertempel](Wasser_Geister_Weise_Beispielbilder/Thaddaeus_im_Wassertempel.png)
+
+![Waluigi als Weiser](Wasser_Geister_Weise_Beispielbilder/Waluigi_als_Geisterweiser.png)
+
+![Tripple T](Wasser_Geister_Weise_Beispielbilder/Tripple_T_neue_Groesse_Blickrichtung_Augen.png)
+
+## Vorherige Fassung: Waldtempel, Navi und Tripple T
+
+**[Vorherigen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Waldtempel_Sahur.bps?raw=true)** · [Neue Ingame-Bilder](Waldtempel_Sahur_Ingame_Bilder.zip?raw=true) · [Navi-Texte](Navi_Waldtempel_Aktuell.md) · [Quellen, Patch und Prüfungen](Merzen_Waldtempel_Sahur_Quellen_Patch_Bilder.zip?raw=true) · [Anleitung](Anleitung_Waldtempel_Sahur.txt)
 
 Deine Navi-Fassungen, Majoras Maske im inneren westlichen Gang unter dem verdrehten Korridor und Tripple T als Deku-Sproß nach dem Waldamulett. **724 eigene Nachrichten und alle bisherigen Änderungen.** 0120 und feste Lesezeiten bleiben unverändert. Maske mit Z/C-oben untersuchen; kein Einsammel- oder Questgegenstand. [Prüfbericht](Waldtempel_Sahur_Beispielbilder/Pruefbericht.md).
 

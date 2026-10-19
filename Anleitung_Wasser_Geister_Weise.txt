@@ -1,0 +1,5 @@
+Thaddäus / Waluigi / Tripple T – Europa/PAL 1.0, Deutsch
+
+Den BPS-Gesamtpatch in RomPatcher.js mit der entpackten, unveränderten Original-ROM kombinieren. Kein älterer Patch als Grundlage. Original-MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände verwenden; alte Emulator-Save-States laden auch alte Modelldaten.
+
+Thaddäus ersetzt erwachsene Ruto; junge Ruto bleibt erhalten. Waluigi ersetzt Naboru in beiden Tempel-Zeitabschnitten und allen späteren Weisen-Auftritten. Neue Dialoge folgen später; jetzt nur Modelle und Namen. Tripple T größer, ursprüngliche Sproß-Blickrichtung und detailliertere Augen. Alle bisherigen Änderungen enthalten. Tatsächliche 4-MiB-Tests bestanden; kein vollständiger Spieldurchlauf oder Hardwaretest.
