@@ -6,7 +6,7 @@ Die Krabbelminen-Frau übernimmt die Waldweisenrolle: Enthüllung nach dem Waldt
 
 In [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5 `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
 
-Sieben gezielte Emulatorproben mit ursprünglichen 4 MiB, Text-/ROM-Prüfungen und RomPatcher.js bestanden. Kein vollständiger Spieldurchlauf oder Hardwaretest. Thaddäus ersetzt bisher den Tauchspiel-Leiter; seine Wasserweisenrolle und Naboorus Ersatz sind noch geplant. Weitere Modelle brauchen jeweils eine neue Speicherprüfung.
+Sieben gezielte Emulatorproben mit ursprünglichen 4 MiB, Text-/ROM-Prüfungen und RomPatcher.js bestanden. Kein vollständiger Spieldurchlauf oder Hardwaretest. Thaddäus ersetzt bisher den Tauchspiel-Leiter; seine Wasserweisenrolle und Naboorus Ersatz durch Waluigi sind noch geplant. Weitere Modelle brauchen jeweils eine neue Speicherprüfung. [Vorprüfung: Waluigi-Modelle und Thaddäus statt Ruto](Waluigi_Modellvergleich.md).
 
 ![Echte Credits: Krabbelminen-Frau auf Darunias Schultern](Waldweise_Beispielbilder/Credits_auf_Darunias_Schultern.png)
 

@@ -1,0 +1,112 @@
+{
+  "status": "analysis only; no actor/ROM/model build changes",
+  "production_rom_sha256_unchanged": "3ca9c4c0054ae075a5db8f5ae18db7f38072d63d11cd3adbaf779afce1a2efe9",
+  "recommendation": "Mario Party 3",
+  "party3": {
+    "sha256": "72a8b590bd81398e9ed5d1d8b276b833be1faebc74771ad4238c97ee77a6997c",
+    "position_records": 330,
+    "unique_positions": 281,
+    "triangles": 420,
+    "material_triangles": {
+      "img1.png": 312,
+      "img2.png": 78,
+      "img3.png": 30
+    },
+    "joint_nodes": 39,
+    "animation_tracks": 0,
+    "single_bone_weights": true,
+    "base_textures": [
+      {
+        "name": "img1.png",
+        "width": 64,
+        "height": 64,
+        "rgba_colors": 15,
+        "CI4_bytes_with_16_color_RGBA16_palette": 2080
+      },
+      {
+        "name": "img2.png",
+        "width": 32,
+        "height": 64,
+        "rgba_colors": 13,
+        "CI4_bytes_with_16_color_RGBA16_palette": 1056
+      },
+      {
+        "name": "img3.png",
+        "width": 64,
+        "height": 64,
+        "rgba_colors": 15,
+        "CI4_bytes_with_16_color_RGBA16_palette": 2080
+      }
+    ],
+    "base_texture_ci4_total_bytes": 5216,
+    "optional_expression_texture_files": 11
+  },
+  "tennis64": {
+    "sha256": "e713132fcc9df84ba6456f43d6c5d9ff24a52dc217c5c1f7a93e35fcb5167729",
+    "position_records": 1411,
+    "unique_positions": 292,
+    "triangles": 471,
+    "material_triangles": {
+      "Material": 2,
+      "Material 1": 2,
+      "Material 2": 21,
+      "Material 3": 8,
+      "Material 4": 3,
+      "Material 5": 435
+    },
+    "mtl_missing": true,
+    "rig_present_in_obj": false,
+    "texture_images": [
+      {
+        "name": "2_sin_título_20240313163304.png",
+        "width": 39,
+        "height": 64,
+        "rgba_colors": 765
+      },
+      {
+        "name": "2_sin_título_20240313172148.png",
+        "width": 47,
+        "height": 39,
+        "rgba_colors": 351
+      },
+      {
+        "name": "2_sin_título_20240313172151.png",
+        "width": 46,
+        "height": 39,
+        "rgba_colors": 390
+      },
+      {
+        "name": "2_sin_título_20240313172926.png",
+        "width": 39,
+        "height": 39,
+        "rgba_colors": 139
+      },
+      {
+        "name": "3_sin_título_20240313163448.png",
+        "width": 39,
+        "height": 39,
+        "rgba_colors": 407
+      },
+      {
+        "name": "Screenshot_20240313-172414_ES_File_Explore.jpg",
+        "width": 96,
+        "height": 96,
+        "rgba_colors": 834
+      }
+    ]
+  },
+  "native_nabooru": {
+    "all_display_list_triangles": 650,
+    "object_bytes": 98784
+  },
+  "adult_ruto_squidward": {
+    "native_ruto_display_list_triangles": 484,
+    "squid_triangles": 254,
+    "native_ruto_object_bytes": 63696,
+    "native_zora_object_bytes": 49216,
+    "current_zora_with_squid_bytes": 70912,
+    "current_added_squid_payload_two_animations_bytes": 21696,
+    "illustrative_saving_before_additional_sage_animations_bytes": 42000,
+    "warning": "Importing the complete current object_zo in place of object_ru2 would INCREASE object bank usage by 7216 bytes; split out only Squidward and remove/replace the obsolete adult Ruto assets. Retarget every native adult-Ruto animation/cue first. Young Ruto has separate object_ru1 and stays."
+  }
+}
