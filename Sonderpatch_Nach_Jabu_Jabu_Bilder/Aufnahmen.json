@@ -1,0 +1,49 @@
+{
+  "Wache_Original.png": {
+    "scenario": "guard-joke-original-focus-direct-clip-on",
+    "frame": 700,
+    "source_screenshot": "the_legend_of_zelda-008.png",
+    "sha256": "12e87fe2b5e62f33521eae5b935abf905d9d4fe71f46dfbb2eae49a9118fd71a",
+    "unedited": true,
+    "rom": "Vanilla"
+  },
+  "Wache_Sonderpatch.png": {
+    "scenario": "guard-joke-special-focus-direct-clip-on",
+    "frame": 700,
+    "source_screenshot": "the_legend_of_zelda-008.png",
+    "sha256": "8c2e849465dfa8f4c88485ae8c539bbdcf262deeb03ec23a79a7f2c422b953f6",
+    "unedited": true,
+    "rom": "Sonderpatch"
+  },
+  "Flucht_Tor_regulaer.png": {
+    "scenario": "natural-chase-direct-clip-on",
+    "frame": 700,
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "59d1d29b394765a5798f34e2b0de0e50e08abd301f62af30f3ad7ea1e4291e58",
+    "unedited": true,
+    "rom": "Sonderpatch"
+  },
+  "Flucht_Bean_regulaer.png": {
+    "scenario": "natural-chase-direct-clip-on",
+    "frame": 1100,
+    "source_screenshot": "the_legend_of_zelda-008.png",
+    "sha256": "145a9ce5f29ef68a24ca3711a6c2982b18a50355b648aac59ff277c10bb06fe9",
+    "unedited": true,
+    "rom": "Sonderpatch"
+  },
+  "Flucht_Merz_regulaer.png": {
+    "scenario": "natural-chase-direct-clip-on",
+    "frame": 1693,
+    "source_screenshot": "the_legend_of_zelda-016.png",
+    "sha256": "7de5b2371220b2d4758283dfff7c34e771fb623d1eabdd3e01f3138ed34a674a",
+    "unedited": true,
+    "rom": "Sonderpatch"
+  },
+  "Neuer_Spielstand_Zoras_Quelle.png": {
+    "scenario": "post-jabu-freshboot-v2-clip-on",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "e2e8476e43b5c804ce6396e620559d3befe302d112ebf6dfe8bb13adf6ebab02",
+    "unedited": true,
+    "native_file_menu_and_new_file": true
+  }
+}

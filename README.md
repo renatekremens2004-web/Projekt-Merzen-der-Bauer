@@ -1,5 +1,18 @@
 # Merzen der Bauer: LEGO X-Wing im Schattentempel
 
+## Separater Sonderpatch: Start nach Jabu-Jabu
+
+**[Sonderpatch herunterladen](Sonderpatch_Nach_Jabu_Jabu_DE_PAL10.bps?raw=true)** · [Anleitung](Sonderpatch_Nach_Jabu_Jabu_Anleitung.txt) · [Vergleichsbilder, Quellenänderung und Prüfung](Sonderpatch_Nach_Jabu_Jabu_Pruefung_Bilder.zip?raw=true)
+
+Zum Prüfen der Fluchtszene und der Wache: auf die unveränderte Original-PAL-1.0-ROM patchen und **einen neuen Spielstand anlegen**. Start als Kind in Zoras Quelle nach Jabu-Jabu, drei Steine und sechs Herzen; Zeldas Flucht ist noch offen. Regulär nach Hyrule laufen und das Stadttor anlaufen. Alle bisherigen Änderungen einschließlich X-Wing enthalten. Diese Sonderfassung verändert den Startfortschritt, keine Grafik- oder Beleuchtungsregeln. Die normale Fassung folgt unten.
+
+Im neu angelegten Testspiel wurde die Flucht durch normales Laufen am Stadttor ausgelöst und wird auf dem Cloud-Renderer sichtbar gezeichnet. Die alte starke Abdunklung bei einem direkten Cutscene-Teststart war kein verläßlicher visueller Nachweis. Die genaue Initialisierungs-/Renderer-Ursache bleibt offen. Der schmale schwarze Strich bei der Krugwache erscheint auch in Vanilla; bei gleicher Kamera ist der geprüfte Wandbereich pixelgleich. [Original](Sonderpatch_Nach_Jabu_Jabu_Bilder/Wache_Original.png) · [Sonderpatch](Sonderpatch_Nach_Jabu_Jabu_Bilder/Wache_Sonderpatch.png).
+
+![Echter neuer Spielstand nach Jabu-Jabu](Sonderpatch_Nach_Jabu_Jabu_Bilder/Neuer_Spielstand_Zoras_Quelle.png)
+
+![Regulär ausgelöste Fluchtszene](Sonderpatch_Nach_Jabu_Jabu_Bilder/Flucht_Tor_regulaer.png)
+
+
 **[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Lego_XWing.bps?raw=true)** · **[Drei echte Spielbilder als ZIP](Lego_XWing_Ingame_Bilder.zip?raw=true)** · [Quellen, Patch und Prüfnachweise](Merzen_Lego_XWing_Quellen_Patch_Bilder.zip?raw=true)
 
 Ein kleiner LEGO X-Wing liegt im freien Seitengang des ersten Schädelraums im Schattentempel. Spannweite 24 Spieleinheiten, passend als Spielzeug für Link, mit einheitlichen Proportionen und Szenenbeleuchtung. Der Mann im blauen Hemd unten im erwachsenen Kakariko sagt: „Scheiße, ich hab' meinen Lego X-Wing im Schattentempel liegen lassen!“ Danach folgt auf der vorhandenen zweiten Seite ein Bauanleitungs-Gag. Der Satz bleibt nach dem Schattenamulett verfügbar. Insgesamt **599 deutsche Nachrichten**; alle bisherigen Modelle und Dialogkapitel enthalten.

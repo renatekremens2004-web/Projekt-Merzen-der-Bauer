@@ -1,0 +1,20 @@
+SONDERPATCH – Start nach Jabu-Jabu, vor Zeldas Flucht
+
+1. Sonderpatch_Nach_Jabu_Jabu_DE_PAL10.bps in RomPatcher.js auf die entpackte, unveränderte Europa/PAL-1.0-ROM anwenden. Nicht auf eine schon gepatchte ROM anwenden.
+   Original-MD5: e040de91a74b61e3201db0e2323f768a.
+2. Die neu erzeugte ROM öffnen und im Dateimenü einen NEUEN Spielstand anlegen. Ein vorhandener Spielstand wird nicht auf den Testfortschritt umgestellt. Für diesen Test einen freien Slot verwenden. Keine alten Emulator-Save-States laden.
+3. Du startest als Kind in Zoras Quelle außerhalb Jabu-Jabus, mit drei Steinen, sechs Herzen und üblicher Kinderausrüstung. Zeldas Flucht und das Ziehen des Masterschwerts sind noch nicht passiert.
+4. Durch Zoras Reich und den Fluß zurück nach Hyrule gehen. Auf der Steppe das Stadttor anlaufen; die Fluchtszene startet regulär vor der Zugbrücke. Im Krugraum am Stadteingang kannst Du die Wache prüfen. Der sterbende Soldat befindet sich nach der Flucht in der Seitengasse, bevor Du das Masterschwert ziehst.
+
+Die Sonderfassung enthält alle bisherigen Modelle, Dialoge, den Nintendo 64 und den LEGO X-Wing. Beleuchtung, Kameras, Fluchtszene und Wachen-Grafik sind gegenüber der normalen Fassung unverändert. Es gibt keine Aufhellung und kein erzwungenes Cutscene-Script. Nahaufnahmen können die großen Köpfe von Burns/Bean deutlich anschneiden; das bleibt in dieser Sonderfassung ebenfalls sichtbar. Nur die Initialisierung neuer Spielstände und der Wiedereinstieg in Zoras Quelle sind angepaßt.
+
+Grafikbefund:
+- Die alten fast schwarzen Fluchtbilder stammten aus einem direkten Cutscene-Teststart. Auch Vanilla zeigte diese Abdunklung. Beim neuen Versuch wurde aus dem echten neuen Spielstand der Fortschritt übernommen, Link nur für den Test vor der Stadt aufgestellt und regulär ins Triggergebiet gelaufen. Danach werden Gebäude, Regen und Figuren sichtbar gezeichnet. Das spricht für einen unvollständig initialisierten früheren Teststart; die genaue Renderer-/Initialisierungsursache ist nicht abschließend bestimmt.
+- Der schmale schwarze Streifen bei der Krugwache ist auf dem verwendeten Emulator auch in Vanilla vorhanden. Bei gleicher Kamera ist der geprüfte Wandbereich pixelgleich. Somit kein durch unsere Modelle/Dialoge hinzugefügter Streifen. Originalgeometrie und Renderer sind als genaue Ursache noch nicht voneinander getrennt.
+- Andere frühere große schwarze Flächen im GLideN64/Mesa-Aufbau wurden bereits durch Software-Clipping behoben: EnableClipping=True und EnableCustomSettings=False. Diese Plugin-Einstellungen sind nicht im BPS enthalten.
+
+Geprüft: echter Start vom Titelbild über Namenseingabe und Neuanlage eines Spielstands, drei Steine/Kind/Fluchtflag noch aus, reguläre Auslösung am Stadttor, Wachen-Vanilla-Vergleich, 4 MB, Kompression/Prüfsumme und RomPatcher.js. Kein kompletter Weg von Zoras Quelle bis zur Stadt und kein Hardwaretest.
+Die normale veröffentlichte Fassung bleibt separat verfügbar. Diese Datei ist ausdrücklich ein Sonderpatch zum Testen.
+
+Sonder-ROM-SHA256: 992e0a01ad341d676b2c4d26013e0a91c6f068d27a0ad0948ed64db1b94b7302
+Normaler Produktionsbuild nach dem Test bytegenau wiederhergestellt: c78155650c054c3111d1e97119f63c8070f951cbcb04390324d681283de1c09b.
