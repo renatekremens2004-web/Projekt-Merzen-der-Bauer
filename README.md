@@ -1,6 +1,22 @@
-# Merzen der Bauer: schnelleres Texttempo
+# Merzen der Bauer: mehr Gespräche in Hyrule-Stadt
 
-**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Texttempo.bps?raw=true)** · [Anleitung](Anleitung_Texttempo.txt) · [Prüfbericht](Texttempo_Pruefung/Pruefbericht.md) · [Quellen, Patch und Prüfnachweise](Merzen_Texttempo_Quellen_Patch_Pruefung.zip?raw=true)
+**[Aktuellen BPS-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Hyrule_NPCs.bps?raw=true)** · **[Vier echte Ingame-Beispiele](Hyrule_NPCs_Ingame_Bilder.zip?raw=true)** · [Anleitung](Anleitung_Hyrule_NPCs.txt) · [Quellen, Patch und Prüfnachweise](Merzen_Hyrule_NPCs_Quellen_Patch_Bilder.zip?raw=true)
+
+27 bisher originale Nachrichten bei Stadtbewohnern und in den Seitengassen ersetzt. Dazu den bestehenden Farm-Folgedialog der Frau um den ausdrücklich gewünschten Gesichts-Gag erweitert. Neue Nutzerideen und zusätzliche Überraschungen verteilt, bisherige Nutzertexte erhalten. Insgesamt **626 bearbeitete deutsche Nachrichten**. Alle bisherigen Modelle, Kapitel und das schnellere Schreibtempo enthalten; normaler Spielstart.
+
+Die Frau steht am Originalplatz, und die normale Marktplatzkamera hält die Ansicht auf Abstand. Ihr Farmhinweis bleibt als Fortsetzung erhalten. Hundesuche, Flaschenhandel, Preise, Belohnungen und feste Cutscene-Zeiten behalten ihre Regeln. [Belegung und Prüfbericht](Hyrule_NPCs_Beispielbilder/Pruefbericht.md).
+
+Den Gesamtpatch in [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) auf die **unveränderte, entpackte Europa/PAL-1.0-ROM** anwenden. Original-MD5: `e040de91a74b61e3201db0e2323f768a`. Normale Spielstände verwenden, keine alten Emulator-Save-States.
+
+28 geänderte deutsche Nachrichten gegen die Vorfassung nachgewiesen; übrige Texte und Spiellogik erhalten. Textkontrollen, Breiten, Puffer, 1509 Segmente, sieben gezielte 4-MB-Szenarien und RomPatcher.js geprüft. Kein vollständiger Spieldurchlauf oder Hardwaretest.
+
+![Frau bei den Geschäften](Hyrule_NPCs_Beispielbilder/Frau_beim_Maskenladen.png)
+
+![In sieben Jahren](Hyrule_NPCs_Beispielbilder/In_sieben_Jahren.png)
+
+## Vorherige Fassung: schnelleres Texttempo
+
+**[Vorherigen Texttempo-Gesamtpatch herunterladen](Mr_Burns_Mr_Bean_DE_PAL10_Texttempo.bps?raw=true)** · [Anleitung](Anleitung_Texttempo.txt) · [Prüfbericht](Texttempo_Pruefung/Pruefbericht.md) · [Quellen, Patch und Prüfnachweise](Merzen_Texttempo_Quellen_Patch_Pruefung.zip?raw=true)
 
 Normale deutsche Textboxen zeigen ihre Buchstaben ungefähr doppelt so schnell. Jede Seite wartet weiterhin auf Deinen Tastendruck. Feste Textzeiten, Auswahlfragen, Cutscenes und Spezialsteuerungen behalten das bisherige Verhalten. A und B bleiben wie bisher belegt. Alle bisherigen Modelle und 599 bearbeiteten Dialoge enthalten, normaler Spielstart.
 

@@ -1,0 +1,46 @@
+{
+  "Frau_beim_Maskenladen.png": {
+    "scenario": "stadt-woman-post-market-1-focus-direct-clip-on",
+    "frame": 549,
+    "message_id": "7045",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "811a16f1a61fb30bcffa8c163159ea0e9096d5aa46fef61d03220a1d33261a78",
+    "unedited": true,
+    "native_camera": true,
+    "native_npc_position": true,
+    "production_sha256": "299b3ee6ad2f0f785b45445f61e006fca9bb98734f5a76a20b025b8cfd9d8d56"
+  },
+  "In_sieben_Jahren.png": {
+    "scenario": "stadt-jogger-market-3-focus-direct-clip-on",
+    "frame": 550,
+    "message_id": "7001",
+    "source_screenshot": "the_legend_of_zelda-004.png",
+    "sha256": "7ab2dd450a2bc1f2a2fd9f329fa72c19c113691b5aec4ec8d4c680579a131813",
+    "unedited": true,
+    "native_camera": true,
+    "native_npc_position": true,
+    "production_sha256": "299b3ee6ad2f0f785b45445f61e006fca9bb98734f5a76a20b025b8cfd9d8d56"
+  },
+  "Zora_Inklusion.png": {
+    "scenario": "stadt-haggle-focus-direct-clip-on",
+    "frame": 755,
+    "message_id": "703E",
+    "source_screenshot": "the_legend_of_zelda-009.png",
+    "sha256": "8bf1befe695342e9b08c6e8a480f11062a582bd9ccddc98a9321b169536a96b2",
+    "unedited": true,
+    "native_camera": true,
+    "native_npc_position": true,
+    "production_sha256": "299b3ee6ad2f0f785b45445f61e006fca9bb98734f5a76a20b025b8cfd9d8d56"
+  },
+  "Mr_Bean_Rettungssanitaeter.png": {
+    "scenario": "stadt-beggar-fish-market-5-focus-direct-clip-on",
+    "frame": 516,
+    "message_id": "700C",
+    "source_screenshot": "the_legend_of_zelda-003.png",
+    "sha256": "9e917d2968af4d3f614c566ed14ee65ff9d90841f3864373de8c711c5064f8ae",
+    "unedited": true,
+    "native_camera": true,
+    "native_npc_position": true,
+    "production_sha256": "299b3ee6ad2f0f785b45445f61e006fca9bb98734f5a76a20b025b8cfd9d8d56"
+  }
+}

@@ -1,0 +1,7 @@
+Mehr Gespräche in Hyrule-Stadt – deutsche Europa/PAL 1.0
+
+BPS-Gesamtpatch mit RomPatcher.js auf die entpackte, unveränderte Original-ROM anwenden. Nicht auf eine bereits gepatchte Mod. Original-MD5: e040de91a74b61e3201db0e2323f768a. Normale Spielstände statt alter Emulator-Save-States verwenden.
+
+28 Nachrichten dieser Revision: 27 zuvor originale Texte ersetzt, einen bisherigen Farm-Folgedialog erweitert. Insgesamt 626 bearbeitete Nachrichten und alle bisherigen Änderungen einschließlich des schnelleren Schreibtempos enthalten. Normaler Spielstart. Die Frau erhält den Gesichts-Gag im Folgedialog ihres Farmgesprächs, nach der Flucht auch als Ersttext. Der Bettler erzählt den Bean-Satz bei vorhandenem Fisch/Käfer/Blauem Feuer; sonst verwendet er seinen ebenfalls neuen anderen Flaschentext.
+
+Kontrollsequenzen, Breiten, Puffer, 1509 ROM-Segmente, sieben gezielte 4-MB-Laufzeittests und RomPatcher.js geprüft. Kein kompletter Spieldurchlauf oder Hardwaretest. Vier ausgewählte, unbearbeitete Spielbilder im separaten ZIP.
