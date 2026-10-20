@@ -4,7 +4,7 @@ Nur in der deutschen Fassung. Normale Gespräche mit A und manuellen Textseiten.
 
 ## Yellow Guy – Schloßweg, Kind (608F)
 
-Oh. Hallo! Ich bin Yellow Guy. Ich bin machen einen Ausflug. Nach ... hier. Hyrule.
+Oh. Hallo! Ich bin machen einen Ausflug. Nach ... hier. Hyrule.
 
 Ich mag das hier. Ein großes Haus für den König. Und kleine Häuser für die anderen. Das ist gut sortiert.
 
@@ -51,3 +51,6 @@ Geprüfte Beispiele: In „Electricity“ versteht er das Wechseln von Batterien
 - [Electricity, Transkript](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=dont-hug-me-im-scared-2022&episode=s01e06)
 - [Friendship, Transkript](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=dont-hug-me-im-scared-2022&episode=s01e04)
 - [Wikiquote](https://en.wikiquote.org/wiki/Don%27t_Hug_Me_I%27m_Scared)
+
+
+Korrektur v2: Keine Selbstvorstellung mit seinem Namen, weder als Kind noch als Punk.

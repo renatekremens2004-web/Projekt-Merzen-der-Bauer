@@ -1,0 +1,7 @@
+Yellow Guy: Outfit-Korrektur v2 — Gesamtpatch
+
+Auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden, NICHT auf eine bereits gepatchte ROM. Original-MD5 e040de91a74b61e3201db0e2323f768a. Patcher: https://www.marcrobledo.com/RomPatcher.js/
+
+Alle bisherigen Änderungen enthalten. Punk-Outfit mit ursprünglichen Texturfarben und sichtbaren dunklen Stoffflächen. Keine Selbstvorstellung als Yellow Guy. Wario weiterhin ausschließlich im jungen Kakariko.
+
+Drei gezielte Emulatorproben mit 4 MiB bestanden; kompletter Durchlauf weiterhin ausstehend.

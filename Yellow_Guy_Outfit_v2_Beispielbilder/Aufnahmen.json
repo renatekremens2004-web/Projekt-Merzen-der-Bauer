@@ -1,0 +1,30 @@
+[
+  {
+    "file": "Punk_Outfit_Ganzkoerper.png",
+    "case": "yellow-punk-wide-outfit-v2-direct-clip-on",
+    "frame": 100,
+    "rom_sha256": "afcbd5fde6a4ef3f69fc58eb7c4f48dd49f26899ea6e8a0cb15e3011aeb87556",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Punk_Outfit_Gespraech.png",
+    "case": "yellow-punk-outfit-v2-direct-clip-on",
+    "frame": 206,
+    "rom_sha256": "afcbd5fde6a4ef3f69fc58eb7c4f48dd49f26899ea6e8a0cb15e3011aeb87556",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Punk_System.png",
+    "case": "yellow-punk-outfit-v2-direct-clip-on",
+    "frame": 468,
+    "rom_sha256": "afcbd5fde6a4ef3f69fc58eb7c4f48dd49f26899ea6e8a0cb15e3011aeb87556",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Ohne_Selbstvorstellung.png",
+    "case": "yellow-normal-outfit-v2-direct-clip-on",
+    "frame": 207,
+    "rom_sha256": "afcbd5fde6a4ef3f69fc58eb7c4f48dd49f26899ea6e8a0cb15e3011aeb87556",
+    "unedited_emulator_image": true
+  }
+]

@@ -1,3 +1,11 @@
+# Merzen der Bauer: Yellow Guy Outfit v2
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Yellow_Guy_Outfit_v2.bps?raw=true) · [Neue Ingame-Bilder](Yellow_Guy_Outfit_v2_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Yellow_Guy_Outfit_v2_Quellen_Patch_Bilder.zip?raw=true)
+
+Punk-Outfit mit den ursprünglichen Texturfarben; Selbstvorstellung entfernt. Alle bisherigen Änderungen enthalten. Auf unveränderte Europa/PAL-1.0-ROM anwenden. Drei gezielte Szenenproben mit 4 MiB bestanden.
+
+![Punk-Outfit](Yellow_Guy_Outfit_v2_Beispielbilder/Punk_Outfit_Ganzkoerper.png)
+
 # Merzen der Bauer: Yellow Guy und Wario
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Yellow_Guy_Wario.bps?raw=true) · [Echte Spielbilder](Yellow_Guy_Wario_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Yellow_Guy_Wario_Quellen_Patch_Bilder.zip?raw=true)
