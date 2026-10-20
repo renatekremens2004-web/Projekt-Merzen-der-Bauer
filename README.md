@@ -1,3 +1,9 @@
+# Mystery Inc. im Brunnen
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Mystery_Inc.bps?raw=true) · [Bilder, Dialoge und Prüfung](Mystery_Inc_Beispielbilder/) · [Quellen](Merzen_Mystery_Inc_Quellen_Patch.zip?raw=true)
+
+Die ganze Mystery-Inc.-Gang auf fünf Räume verteilt, entspannte eigene Posen und kleine Bewegungen; Kenny sichtbarer im Schattentempel; Mystery Machine erst nach der erwachsenen Hymne-des-Sturms-Lektion und ausschließlich als Kind. Alle bisherigen Änderungen enthalten. Auf unveränderte Vanilla PAL 1.0 anwenden. Dreizehn gezielte Proben mit 4 MiB, kein vollständiger Durchlauf.
+
 # LEGO Naboo-Starfighter
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Naboo_Starfighter.bps?raw=true) · [Bilder und Prüfung](Naboo_Starfighter_Beispielbilder/) · [Quellen](Merzen_Naboo_Starfighter_Quellen_Patch.zip?raw=true)

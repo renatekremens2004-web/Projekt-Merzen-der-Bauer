@@ -1,0 +1,3 @@
+Kumulativer Gesamtpatch: Mystery Inc. im Brunnen und sichtbarer toter Kenny im Schattentempel. Alle bisherigen Änderungen enthalten, auch Naboo-Starfighter. Mystery Machine am Kakariko-Eingang: nur als Kind nach Erlernen der Hymne des Sturms als Erwachsener, tags und nachts.
+
+BPS mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände laden; alte Emulator-Savestates vermeiden. Deutsche Sprachfassung.

@@ -1,0 +1,86 @@
+[
+  {
+    "file": "Shaggy_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-shaggy-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Shaggy_Dialog.png",
+    "source": "/workspace/bean-rider/screens-mystery-shaggy-delivered-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Velma_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-velma-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Velma_Dialog.png",
+    "source": "/workspace/bean-rider/screens-mystery-velma-delivered-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Daphne_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-daphne-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Daphne_Dialog.png",
+    "source": "/workspace/bean-rider/screens-mystery-daphne-delivered-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Scooby_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-scooby-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Scooby_Dialog.png",
+    "source": "/workspace/bean-rider/screens-mystery-scooby-delivered-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Fred_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-fred-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Fred_Dialog.png",
+    "source": "/workspace/bean-rider/screens-mystery-fred-delivered-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Dead_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-dead-delivered-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Van-Before-Still_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-van-before-still-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Van-After-Still_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-van-after-still-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Van-Night-Still_Ingame.png",
+    "source": "/workspace/bean-rider/screens-mystery-van-night-still-delivered-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "47d586454330c90ff54b155a32fb87b00085edbee1d0a0e0d35f0e7064ea5754",
+    "unaltered_emulator_image": true
+  }
+]
