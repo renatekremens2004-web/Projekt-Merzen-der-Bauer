@@ -1,0 +1,5 @@
+Kumulativer Gesamtpatch mit sämtlichen bisherigen Änderungen. Neu: Dr. Doofenshmirtz statt Angler in beiden Zeitlinien (ohne Mütze), Shrek im Kinderwald und Mr. Monopoly in Merz’ Schloß.
+
+Mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden, nicht auf eine bereits gepatchte ROM. Original-MD5 e040de91a74b61e3201db0e2323f768a. Deutsche Sprache wählen. Normale Spielstände verwenden, alte Savestates nicht übernehmen. Ziel-SHA256 89b941e2ca53f5d06d18987a53c82d2b369b26d120a35672a4f19e4bddde1ad9
+
+Gezielte Szenenproben mit echten 4 MiB; kein vollständiger Spieldurchlauf oder Hardwaretest.

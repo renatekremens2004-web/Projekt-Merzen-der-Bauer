@@ -1,3 +1,9 @@
+# Doofenshmirtz, Shrek und Mr. Monopoly
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Doof_Shrek_Monopoly.bps?raw=true) · [Dialoge](Dialoge_Doof_Shrek_Monopoly.md) · [Beispielbilder](Doof_Shrek_Monopoly_Beispielbilder/) · [Quellen](Merzen_Doof_Shrek_Monopoly_Quellen_Patch.zip?raw=true)
+
+Alle früheren Änderungen enthalten. Doofenshmirtz ersetzt den Angler in beiden Zeitlinien, ohne Mütze. Shrek im Kinderwald; Mr. Monopoly im letzten Schloß. Auf unveränderte Vanilla PAL 1.0 anwenden. Sieben gezielte Szenenproben mit echten 4 MiB; kein vollständiger Spieldurchlauf.
+
 # Intro, Gerudos, Hexen und Navi
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Intro_Gerudos.bps?raw=true) · [Alle neuen Dialoge](Dialoge_Intro_Gerudos_Hexen.md) · [Navi und Sheik](Navi_Schatten_bis_Geistertempel_Aktuell.md) · [Beispielbilder](Intro_Gerudos_Beispielbilder/) · [Quellen](Merzen_Intro_Gerudos_Quellen_Patch.zip?raw=true)

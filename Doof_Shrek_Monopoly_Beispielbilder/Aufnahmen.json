@@ -1,0 +1,38 @@
+[
+  {
+    "file": "Doofenshmirtz_Kind_ohne_Muetze.png",
+    "source": "/workspace/bean-rider/screens-doof-doof-child-hatless-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "89b941e2ca53f5d06d18987a53c82d2b369b26d120a35672a4f19e4bddde1ad9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Doofenshmirtz_Erwachsen_ohne_Muetze.png",
+    "source": "/workspace/bean-rider/screens-doof-doof-adult-hatless-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "89b941e2ca53f5d06d18987a53c82d2b369b26d120a35672a4f19e4bddde1ad9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Shrek_im_Wald.png",
+    "source": "/workspace/bean-rider/screens-doof-shrek-hatless-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "89b941e2ca53f5d06d18987a53c82d2b369b26d120a35672a4f19e4bddde1ad9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Shrek_Dialog.png",
+    "source": "/workspace/bean-rider/screens-doof-shrek-hatless-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "89b941e2ca53f5d06d18987a53c82d2b369b26d120a35672a4f19e4bddde1ad9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Mr_Monopoly_im_Schloss.png",
+    "source": "/workspace/bean-rider/screens-doof-monopoly-hatless-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "89b941e2ca53f5d06d18987a53c82d2b369b26d120a35672a4f19e4bddde1ad9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Mr_Monopoly_Dialog.png",
+    "source": "/workspace/bean-rider/screens-doof-monopoly-hatless-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "89b941e2ca53f5d06d18987a53c82d2b369b26d120a35672a4f19e4bddde1ad9",
+    "unaltered_emulator_image": true
+  }
+]
