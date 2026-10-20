@@ -1,0 +1,3 @@
+Kumulativer Gesamtpatch mit allen bisherigen Änderungen. Neu: erwachsene Wüstenbegegnung mit Marty/Doc/DeLorean, Mauzi im Geistertempel, Jimmy auf der Farm, Mackey im Gästehaus in Kakariko. Bewegungen und Größen von BTTF auch am jungen Schloß verbessert.
+
+BPS mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände laden; alte Emulator-Savestates vermeiden. Deutsche Sprachfassung.

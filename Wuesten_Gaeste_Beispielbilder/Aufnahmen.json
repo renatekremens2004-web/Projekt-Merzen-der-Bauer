@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Desert-Marty_Ingame.png",
+    "source": "/workspace/bean-rider/screens-guests-desert-marty-native-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Desert-Marty_Dialog.png",
+    "source": "/workspace/bean-rider/screens-guests-desert-marty-native-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Castle-Marty_Ingame.png",
+    "source": "/workspace/bean-rider/screens-guests-castle-marty-native-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Castle-Marty_Dialog.png",
+    "source": "/workspace/bean-rider/screens-guests-castle-marty-native-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Meowth_Ingame.png",
+    "source": "/workspace/bean-rider/screens-guests-meowth-native-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Meowth_Dialog.png",
+    "source": "/workspace/bean-rider/screens-guests-meowth-native-direct-clip-on/the_legend_of_zelda-004.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Mackey-Portrait_Ingame.png",
+    "source": "/workspace/bean-rider/screens-guests-mackey-portrait-native-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Mackey-Portrait_Dialog.png",
+    "source": "/workspace/bean-rider/screens-guests-mackey-portrait-native-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Mackey-Fixed-Still_Ingame.png",
+    "source": "/workspace/bean-rider/screens-guests-mackey-fixed-still-native-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jimmy_Ingame.png",
+    "source": "/workspace/bean-rider/screens-guests-jimmy-native-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jimmy_Dialog.png",
+    "source": "/workspace/bean-rider/screens-guests-jimmy-native-direct-clip-on/the_legend_of_zelda-004.png",
+    "rom_sha256": "55d2d55989441ef99221df41a7fcc34429c303bbb6d61e91dfe8fb7444488066",
+    "unaltered_emulator_image": true
+  }
+]

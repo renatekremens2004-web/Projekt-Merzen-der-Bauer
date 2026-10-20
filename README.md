@@ -1,3 +1,9 @@
+# Wüstengäste, Jimmy und Mr. Mackey
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wuesten_Gaeste.bps?raw=true) · [Bilder, Dialoge und Prüfung](Wuesten_Gaeste_Beispielbilder/) · [Quellen](Merzen_Wuesten_Gaeste_Quellen_Patch.zip?raw=true)
+
+Wüstenbegegnung ausschließlich als Erwachsener, Schloßauftritt ausschließlich als Kind. Mauzi im erwachsenen Geistertempel, Jimmy auf der erwachsenen Farm und Mackey im erwachsenen Gästehaus in Kakariko. BTTF-Gesten und Größen an beiden Auftritten verbessert. Alle bisherigen Änderungen enthalten. Auf unveränderte Vanilla PAL 1.0 anwenden. Zwölf gezielte Proben mit 4 MiB, kein vollständiger Durchlauf.
+
 # Mystery Inc. im Brunnen
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Mystery_Inc.bps?raw=true) · [Bilder, Dialoge und Prüfung](Mystery_Inc_Beispielbilder/) · [Quellen](Merzen_Mystery_Inc_Quellen_Patch.zip?raw=true)
