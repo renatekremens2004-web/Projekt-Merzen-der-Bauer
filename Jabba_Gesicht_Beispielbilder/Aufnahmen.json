@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Jabba_Gesicht_Vorher.png",
+    "source": "/workspace/bean-download-delivery/Jabba_Beispielbilder/Jabba_Deal.png",
+    "rom_sha256": "d090fc67ed85e5416181ead5250af5996b86b58e3d05c7f7adf2cde4b6a6fdf6",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jabba_Gesicht_Nachher.png",
+    "source": "/workspace/bean-rider/screens-jabba-day-face-direct-clip-on/the_legend_of_zelda-005.png",
+    "rom_sha256": "37659d6445fcb544cc8bc3176172dd059a4273740f30f942f95be97ee319aba2",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jabba_Ganzkoerper_Nachher.png",
+    "source": "/workspace/bean-rider/screens-jabba-day-face-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "37659d6445fcb544cc8bc3176172dd059a4273740f30f942f95be97ee319aba2",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jabba_Nach_drei_Steinen.png",
+    "source": "/workspace/bean-rider/screens-jabba-stones-day-face-direct-clip-on/the_legend_of_zelda-004.png",
+    "rom_sha256": "37659d6445fcb544cc8bc3176172dd059a4273740f30f942f95be97ee319aba2",
+    "unaltered_emulator_image": true
+  }
+]

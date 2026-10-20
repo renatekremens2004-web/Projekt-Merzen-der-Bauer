@@ -1,3 +1,9 @@
+# Jabba: mehr Gesicht
+
+[Neuer Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Jabba_Gesicht.bps?raw=true) · [Vorher/Nachher](Jabba_Gesicht_Beispielbilder/Pruefbericht.md) · [Quellen](Merzen_Jabba_Gesicht_Quellen_Patch.zip?raw=true)
+
+Gesichtsfront mit eigener Textur und 1.111 Dreiecken, einfacherer Körper. Insgesamt 2.291 statt 2.391 Dreiecke, Modellobjekt 11.632 Byte kleiner. Standort und Huttisch mit deutscher Klammerübersetzung erhalten. Alle bisherigen Änderungen enthalten; BPS auf unveränderte Vanilla PAL 1.0 anwenden. Vier gezielte Proben mit 4 MiB bestanden.
+
 # Jabba auf dem Weg zu Friedrich Merz
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Jabba.bps?raw=true) · [Jabbas Dialog](Jabba_Dialog.md) · [Bilder und Prüfung](Jabba_Beispielbilder/) · [Quellen](Merzen_Jabba_Quellen_Patch.zip?raw=true)

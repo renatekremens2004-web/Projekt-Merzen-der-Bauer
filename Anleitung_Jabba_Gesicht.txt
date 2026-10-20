@@ -1,0 +1,3 @@
+Kumulativer Gesamtpatch mit Jabbas überarbeitetem Gesicht. Alle bisherigen Änderungen enthalten.
+
+Mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände laden, keine alten Emulator-Savestates. Tatsächliche 4 MiB geprüft.
