@@ -1,3 +1,9 @@
+# Marty, Doc und DeLorean
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Marty_Doc_Delorean.bps?raw=true) · [Dialog](Marty_Doc_Dialog.md) · [Bilder und Prüfung](Marty_Doc_Delorean_Beispielbilder/) · [Quellen](Merzen_Marty_Doc_Delorean_Quellen_Patch.zip?raw=true)
+
+Auf der Wiese am jungen Schloß. Beide NPCs starten das gemeinsame Gespräch. 2.828 Dreiecke zusammen; Talon/Malon samt Ei-Übergabe und Aufbruch geprüft. Alle bisherigen Änderungen enthalten, BPS auf unveränderte Vanilla PAL 1.0 anwenden. 4 MiB geprüft.
+
 # Jabba: mehr Gesicht
 
 [Neuer Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Jabba_Gesicht.bps?raw=true) · [Vorher/Nachher](Jabba_Gesicht_Beispielbilder/Pruefbericht.md) · [Quellen](Merzen_Jabba_Gesicht_Quellen_Patch.zip?raw=true)

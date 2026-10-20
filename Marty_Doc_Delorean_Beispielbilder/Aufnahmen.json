@@ -1,0 +1,44 @@
+[
+  {
+    "file": "Marty_Doc_DeLorean.png",
+    "source": "/workspace/bean-rider/screens-bttf-marty-release2-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "d83e8a5b717e5b597014d2ceede438e7cd890a37ecdddf8710e921b1e73b0b85",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Marty_Junge_aus_der_Wueste.png",
+    "source": "/workspace/bean-rider/screens-bttf-marty-release2-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "d83e8a5b717e5b597014d2ceede438e7cd890a37ecdddf8710e921b1e73b0b85",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Doc_Vierdimensional.png",
+    "source": "/workspace/bean-rider/screens-bttf-doc-release2-direct-clip-on/the_legend_of_zelda-003.png",
+    "rom_sha256": "d83e8a5b717e5b597014d2ceede438e7cd890a37ecdddf8710e921b1e73b0b85",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Marty_braucht_Pause.png",
+    "source": "/workspace/bean-rider/screens-bttf-marty-release2-direct-clip-on/the_legend_of_zelda-006.png",
+    "rom_sha256": "d83e8a5b717e5b597014d2ceede438e7cd890a37ecdddf8710e921b1e73b0b85",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Doc_Unsere_Aufgabe.png",
+    "source": "/workspace/bean-rider/screens-bttf-doc-release2-direct-clip-on/the_legend_of_zelda-008.png",
+    "rom_sha256": "d83e8a5b717e5b597014d2ceede438e7cd890a37ecdddf8710e921b1e73b0b85",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Malon_Originalablauf.png",
+    "source": "/workspace/bean-rider/screens-bttf-malon-release2-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "d83e8a5b717e5b597014d2ceede438e7cd890a37ecdddf8710e921b1e73b0b85",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Talon_Originalablauf.png",
+    "source": "/workspace/bean-rider/screens-bttf-talon-wake-release2-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "d83e8a5b717e5b597014d2ceede438e7cd890a37ecdddf8710e921b1e73b0b85",
+    "unaltered_emulator_image": true
+  }
+]
