@@ -1,0 +1,5 @@
+Gesamtpatch: Wallace gestikuliert bei der Befreiung und geht mit federnden Schritten.
+
+Auf die entpackte, unveränderte Europa/PAL-1.0-ROM anwenden, nicht auf eine bereits gepatchte Fassung. Original-MD5 e040de91a74b61e3201db0e2323f768a. Alle bisherigen Änderungen enthalten. https://www.marcrobledo.com/RomPatcher.js/
+
+Normale Spielstände verwenden. Alte Emulator-Savestates können vorherige Modelle/Overlays im RAM enthalten. MP4s aus diesem finalen Patch ohne Ton, mit tatsächlichen 4 MiB aufgenommen. Kurzclip: zusammenhängender Ausschnitt; vollständige Befreiung und gemeinsame Weisen-Credits separat.

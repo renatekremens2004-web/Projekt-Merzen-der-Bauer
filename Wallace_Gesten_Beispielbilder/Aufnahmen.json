@@ -1,0 +1,51 @@
+[
+  {
+    "file": "Wallace_Gespraech.png",
+    "case": "cheer-wallace-free-native-v1-record-direct-clip-on",
+    "frame": 900,
+    "rom_sha256": "85b2e36dea8fa9bd3fd33a4d012581c4ecfc5219fe4e0607dcebcba5b5a5e339",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Wallace_Gesten.png",
+    "case": "cheer-wallace-free-native-v1-record-direct-clip-on",
+    "frame": 1630,
+    "rom_sha256": "85b2e36dea8fa9bd3fd33a4d012581c4ecfc5219fe4e0607dcebcba5b5a5e339",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Wallace_Schritt_1.png",
+    "case": "cheer-wallace-free-native-v1-record-direct-clip-on",
+    "frame": 1640,
+    "rom_sha256": "85b2e36dea8fa9bd3fd33a4d012581c4ecfc5219fe4e0607dcebcba5b5a5e339",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Wallace_Schritt_2.png",
+    "case": "cheer-wallace-free-native-v1-record-direct-clip-on",
+    "frame": 1648,
+    "rom_sha256": "85b2e36dea8fa9bd3fd33a4d012581c4ecfc5219fe4e0607dcebcba5b5a5e339",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Wallace_Armbewegung.png",
+    "case": "cheer-wallace-free-native-v1-record-direct-clip-on",
+    "frame": 1665,
+    "rom_sha256": "85b2e36dea8fa9bd3fd33a4d012581c4ecfc5219fe4e0607dcebcba5b5a5e339",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Weisen_Credits.png",
+    "case": "cheer-credits-v1-record-direct-clip-on",
+    "frame": 495,
+    "rom_sha256": "85b2e36dea8fa9bd3fd33a4d012581c4ecfc5219fe4e0607dcebcba5b5a5e339",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Schultersitz.png",
+    "case": "cheer-credits-v1-record-direct-clip-on",
+    "frame": 695,
+    "rom_sha256": "85b2e36dea8fa9bd3fd33a4d012581c4ecfc5219fe4e0607dcebcba5b5a5e339",
+    "unaltered_emulator_image": true
+  }
+]

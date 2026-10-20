@@ -1,3 +1,11 @@
+# Wallace: mehr Gesten bei der Befreiung
+
+[MP4: kurzer Eindruck](Wallace_Froehlich_Kurz.mp4?raw=true) · [Vollständige Befreiung](Wallace_Froehliche_Befreiung.mp4?raw=true) · [Gemeinsame Weisen-Credits](Wallace_Gesten_Weisen_Credits.mp4?raw=true)
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wallace_Gesten.bps?raw=true) · [Quellen](Merzen_Wallace_Gesten_Quellen_Patch.zip?raw=true) · [Prüfbericht](Wallace_Gesten_Beispielbilder/Pruefbericht.md)
+
+Wallace mit beweglichen Ellbogen, Armgesten, Kopfnicken und federnden Schritten. Alle bisherigen Änderungen enthalten. BPS auf unveränderte Vanilla Europa/PAL 1.0 anwenden. Videos ohne Ton; Befreiung und gemeinsame Credits mit 4 MiB geprüft.
+
 # Merzen: Wallace läuft und Waluigi paßt
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wallace_Laufanimation_Waluigi.bps?raw=true) · [Alle sechs MP4s als ZIP](Waluigi_Szenen_Wallace_Videos.zip?raw=true) · [Brunnen/Schattentempel: 74 aktuelle Texte](Brunnen_Schattentempel_Texte_Aktuell.md)
