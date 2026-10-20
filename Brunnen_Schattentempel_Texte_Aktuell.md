@@ -1,8 +1,8 @@
 # Brunnen / Schattentempel — vollständiger relevanter Textbestand
 
-Ausgelesen aus dem aktuellen deutschen Build, vor neuen Änderungen an diesem Kapitel. `{name}` ist der echte Spielername; `[A]`, `[C]`, `[Z]` sind Spielsymbole. Seiten bleiben in der vorhandenen Reihenfolge. „Original“ bedeutet: noch kein eigener Ersatz in unseren Story-Dateien. Texte werden hier nur gesammelt, noch nicht umgeschrieben.
+Ausgelesen aus dem aktuellen deutschen Build nach Einbau Deiner neuen Kapiteltexte. `{name}` ist der echte Spielername; `[A]`, `[C]`, `[Z]` sind Spielsymbole. Seiten bleiben in der vorhandenen Reihenfolge. „Original“ bedeutet: noch kein eigener Ersatz in unseren Story-Dateien. Diese Liste zeigt die tatsächlich eingebauten Texte.
 
-Einige Nachrichten sind optionale Untersuchungen, wiederholte Ansprachen oder spätere Rückbezüge. Navi meldet sie nicht alle automatisch. Gemeinsam verwendete Schatz- und Gegnertexte gelten auch in anderen Gebieten. Die Spieldatei enthält an manchen Stellen noch die Originalschreibung, etwa „Hass“; das ist im Bestand so enthalten.
+Einige Nachrichten sind optionale Untersuchungen, wiederholte Ansprachen oder spätere Rückbezüge. Navi meldet sie nicht alle automatisch. Gemeinsam verwendete Schatz- und Gegnertexte gelten auch in anderen Gebieten. Nicht bearbeitete Originaltexte können weiterhin ihre bisherige Schreibung enthalten.
 
 ## Navis Story-Kommentare vor und während des Kapitels
 
@@ -17,30 +17,45 @@ bereits bearbeitet — zoras_erwachsen_de.json.
 
 ### 0155
 
-bereits bearbeitet — goronen_kakariko_de.json.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Der Dämon kam aus dem Brunnen. Ich
-> hasse es, wenn ein ungutes Gefühl
-> auch noch einen brauchbaren
-> Ermittlungsansatz liefert.
+**Seite 1**
+
+> Okay, das komische Ding kam
+> eindeutig aus dem Brunnen. Glaubst
+> Du, das wird jetzt der nächste
+> Dungeon sein? Einfach so? Der
+
+**Seite 2**
+
+> Brunnen von Kakariko? Müssen wir
+> dann das Brunnenlied lernen?
 
 ### 0157
 
-bereits bearbeitet — goronen_kakariko_de.json.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Shieks Nocturne führt zum
-> Schattentempel. Ein hilfreiches Lied
-> mit einer ausgesprochen
-> unfreundlichen Zieladresse.
+> Alles klar, ich wollte schon immer
+> mal einen Song haben, mit dem wir
+> zum ekligsten und gefährlichsten Ort
+> Hyrules zurückreisen können.
 
 ### 0156
 
-bereits bearbeitet — goronen_kakariko_de.json.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Wer hat den Geistertempel gebaut?
-> Und warum mußte es ausgerechnet
-> eine Wüste sein? Ich hätte gern die
-> Bauplanung befragt.
+**Seite 1**
+
+> Aber warum heißt das Ding
+> Geistertempel und nicht
+> Wüstentempel? Müßte der
+> Schattentempel nicht eher
+
+**Seite 2**
+
+> Geistertempel heißen? Was soll
+> Schatten in diesem Zusammenhang
+> überhaupt bedeuten?
 
 ### 015F
 
@@ -55,83 +70,79 @@ bereits bearbeitet — kokiri_de.json.
 
 ### 0126 — HAKAdanCH Raum 0
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
 **Seite 1**
 
-> Ich höre in diesem Raum
-> geisterhafte Stimmen flüstern...
+> Ich höre in diesem Raum geisterhafte
+> Stimmen flüstern.
 
 **Seite 2**
 
-> Sie flüstern mir zu: "Suche
-> nach dem Auge der Wahrheit..."
+> Mir doch scheißegal, was die zu
+> sagen haben. Ich ignoriere die einfach.
 
 ### 0128 — HAKAdan Raum 19
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
 **Seite 1**
 
-> Ich höre die Geister in
-> diesem Raum flüstern...
+> Die Geister in diesem Raum sind
+> schon wieder am Flüstern.
 
 **Seite 2**
 
-> Sie flüstern mir zu:
+> Sie flüstern mir zu.
 
 **Seite 3**
 
-> "Jener, dessen
-> Schritte heilig sind, möge sich vom
-> Wind treiben lassen. Er führt
-> ihn über den verborgenen Pfad."
+> Okay, die sollen mal aufhören, mich
+> zu belästigen, die Geister.
 
 ### 0129 — HAKAdanCH Raum 0
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Diese Mauer...
-> Hier heißt es...
-> "Gefahr von oben..."
+> Da steht: "Alles Gute von oben." Das
+> ist doch safe wieder ironisch gemeint.
 
 ### 012A — HAKAdanCH Raum 0
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Diese Mauer...
-> Hier heißt es...
-> "Gefahr aus der Tiefe..."
+> Bei dieser Mauer steht irgendwas
+> über Tiefe. Ob das mit dem Giant
+> Squid zu tun hat?
 
 ### 012B — HAKAdanCH Raum 0
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Das Wasser dieser Statue
-> flutet das gesamte Stockwerk.
+> Wäre es jetzt nicht witzig, das hier
+> alles unter Wasser zu stellen?
 
 ### 0181 — HAKAdan Raum 6
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
 **Seite 1**
 
-> Diese Mauer... Sie teilt mir
-> etwas mit!
+> Jetzt redet auch noch diese
+> bescheuerte Mauer mit mir.
 
 **Seite 2**
 
-> Sie flüstert mir zu:
-> Willst Du mit einer Fähre
-> in fremde Gefilde reisen,
-> so tritt näher...
+> Wieso will alles in diesem Dungeon
+> mit mir reden? Was soll das?
 
 ### 0184 — HAKAdan Raum 21
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Hier drüben befindet sich eine Tür...
-> Gibt es irgendeinen Weg herüber?
+> Yo, siehst Du da vorne die Tür? Laß
+> da mal gucken, ob wir da hinkommen
+> können.
 
 ### 0191 — HAKAdan Raum 9 / HAKAdanCH Raum 0
 
@@ -144,59 +155,74 @@ bereits bearbeitet — waldtempel_sahur_de.json.
 
 ### 5034
 
-bereits bearbeitet — goronen_kakariko_de.json.
+bereits bearbeitet — schatten_brunnen_de.json.
 
 **Seite 1**
 
-> Grrrr! Ich habe sieben Jahre lang
-> recht behalten!
+> Auch nach sieben Jahren bin ich
+> immer noch sowas von wütend. Ich
+> stehe jeden Tag mit einem wütenden
+> Gefühl auf und ziehe mir meine
 
 **Seite 2**
 
-> Dieses Kind mit der Okarina hat die
-> ganze Mühle durchgedreht. Genau wie
-> ich es vorher gesagt habe!
+> wütenden Schuhe an.
 
 **Seite 3**
 
-> Niemand entschuldigt sich je bei
-> einem Mann, der rechtzeitig
-> herumgeschrien hat.
-
-### 5035
-
-bereits bearbeitet — goronen_kakariko_de.json.
-
-**Seite 1**
-
-> Du hast eine Okarina!
-
-**Seite 2**
-
-> Dieses Gesicht! Diese Mütze! Ich
-> kenne das vollständige
-> Beschwerdeprofil!
-
-**Seite 3**
-
-> Vor sieben Jahren spielte hier ein
-> Kind diese bekloppte Regenmusik.
-> Dann drehte die Mühle völlig durch!
+> Der hat meine ganze Mühle
+> geschrottet. Das ist unfaßbar.
 
 **Seite 4**
 
-> Ich werde Dir das Lied jetzt erklären.
-> Das ist eine furchtbare Entscheidung,
-> aber ich bin zu wütend, um logisch
-> zu bleiben.
+> Sag mal, wißt ihr eigentlich, wie
+> teuer dieser ganze Schuppen hier
+> gewesen ist?
+
+### 5035
+
+bereits bearbeitet — schatten_brunnen_de.json.
+
+**Seite 1**
+
+> Ey, ich werde wahnsinnig. Das ist
+> doch jetzt... Sag mir bitte nicht, daß
+> das eine Okarina ist.
+
+**Seite 2**
+
+> Sag mir nicht, daß Du der Wichser
+> von damals gewesen bist, sonst
+> werde ich Dir so in die Fresse hauen.
+
+**Seite 3**
+
+> Irgendjemand hat damals diese
+> absolut bescheuerte Regenmusik
+> gespielt. Warum gibt es sowas
+> überhaupt? Warum erlauben die
+
+**Seite 4**
+
+> Götter das?
+
+**Seite 5**
+
+> Ich erkläre Dir jetzt das Lied, einfach
+> nur damit Du weißt, daß Du es auf
+> keinen Fall spielen sollst. Jetzt ist es
+> sowieso zu spät.
+
+**Seite 6**
+
+> Gott sei Dank hast Du keine
+> Zeitmaschine oder so.
 
 ### 508E
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Oh nein! Deine verflixte Okarina
-> ist ein Instrument des Teufels!
-> Grrrrr!
+> Oh nein, das war ein Fehler!
 
 ### 5032
 
@@ -223,95 +249,150 @@ bereits bearbeitet — goronen_kakariko_de.json.
 
 ### 5033
 
-bereits bearbeitet — goronen_kakariko_de.json.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> DA! Schon dreht sie sich zu schnell!
-> Die Regenmusik! Ich habe es gewußt!
-> Meine vorweggenommene Beschwerde
-> war völlig berechtigt!
+**Seite 1**
+
+> Was zur Hölle geht hier vor sich? Du
+> hast meine Mühle zerstört! Du hast
+> alles kaputtgemacht! Diese Mühle hat
+> mit meinem Einkommen zu tun. Wenn
+
+**Seite 2**
+
+> ich nicht genug Kram mühle, lande ich
+> auf der Straße!
 
 ## Sheik: brennendes Kakariko, Befreiung Bongo Bongos und Nocturne
 
 ### 5030
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Sieht aus, als würdest
-> Du es überstehen...
+> Okay, ich sehe, Du hast noch genug
+> Herzen. Na perfekt. Solltest aber
+> vielleicht mal mehr Herzteile sammeln.
 
 ### 501C
 
-bereits bearbeitet — bean_impa_de.json.
+bereits bearbeitet — schatten_brunnen_de.json.
 
 **Seite 1**
 
-> {name}! Der Schattendämon
-> ist aus seinem Gefängnis entkommen!
+> {name}, es gab da einst
+> einen Dämon, den jemand im Brunnen
+> eingesperrt hat. Das war Mr. Bean!
+> Nur er kommt auf sowas Verrücktes.
 
 **Seite 2**
 
-> Mr. Bean, Kakarikos Gründer, hat ihn
-> einst im Brunnen versiegelt. Ein Mann
-> von großem Können!
+> Das absolute Genie, der Typ.
 
 **Seite 3**
 
-> Doch die Kraft des Dämons wuchs,
-> bis das Siegel brach. Selbst Bean
-> konnte das nicht verhindern.
-
-### 5031
-
-bereits bearbeitet — bean_impa_de.json.
-
-**Seite 1**
-
-> Mr. Bean ging zum Schattentempel. Er
-> will das Siegel erneuern. Mutig, aber
-> selbst er braucht Hilfe!
-
-**Seite 2**
-
-> {name}! Mr. Bean ist einer
-> der Sechs Weisen. Besiege den
-> Schattendämon und rette ihn!
-
-**Seite 3**
-
-> Der Zugang zum Schattentempel liegt
-> hinter Kakarikos Friedhof.
+> Na ja, jetzt ist die Kraft des Dämons
+> gewachsen. Irgendwie wegen Friedrich
+> Merz. Der ist, glaube ich, selbst ein
+> Dämon. Seine Frisur sieht zumindest
 
 **Seite 4**
 
-> Ich kann Dich das Lied lehren, das
-> Dich dorthin führt. Bean verläßt sich
-> auf Dich.
+> dämonisch beschissen aus.
 
 **Seite 5**
 
-> Es führt in eine Dunkelheit, die selbst
-> die Zeit verschlingt. Höre die
-> Nocturne des Schattens!
+> Und das Siegel ist jetzt halt
+> gebrochen, ne? Und ja, ist jetzt halt
+> Mist, ne?
+
+### 5031
+
+bereits bearbeitet — schatten_brunnen_de.json.
+
+**Seite 1**
+
+> {name}, leider ist Mr. Bean
+> nicht mehr hier. Damals hat er Zelda
+> bei der Flucht aus dem Schloß gut
+> beschützt. Davon hast Du ja sogar
+
+**Seite 2**
+
+> geträumt.
+
+**Seite 3**
+
+> Dann verlor er gegen Merz. Die haben
+> krass gekämpft, aber Merz spielte
+> unfair. Muß man einfach sagen.
+
+**Seite 4**
+
+> Heute kein großer Reim. Ich wußte
+> nichts vom Schattentempel! Das Blut,
+> die Schädel... Als hätte man da Leute
+> gefoltert.
+
+**Seite 5**
+
+> Schon beim Brunnen denkt man: War
+> dieser Dämon ein Serienmörder?
+> Spannende Theorie. Aber der Tempel
+> ist ja auch nicht besser.
+
+**Seite 6**
+
+> Und das war kein einzelner irrer
+> Täter, sondern Hyrule selbst. Das ist
+> jetzt ein bißchen unglücklich.
+
+**Seite 7**
+
+> Versetzen wir das ganz weit in die
+> Vergangenheit. Nicht bloß sieben
+> Jahre! Machen wir erst mal einen
+> hohen Bogen drum.
+
+**Seite 8**
+
+> Das werden wir bei Zeit mal
+> aufarbeiten. Der Zugang liegt hinter
+> dem Friedhof. Mr. Bean ist der Weise
+> des Schattens.
+
+**Seite 9**
+
+> Besiege den Dämon. Dann lerne jetzt
+> die Nocturne des Schattens, unseren
+> neuen Teleport-Song.
 
 ### 501D
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Ich werde mich um das Dorf
-> kümmern!
-> Ich zähle auf Dich,
-> {name}!
+**Seite 1**
+
+> {name}, Du weißt, was zu
+> tun ist. Du kannst auch in den
+> Geistertempel gehen, falls Du da
+> nicht schon warst. Ich würde erst
+
+**Seite 2**
+
+> den Schattentempel machen. Der
+> Dämon kam ja gerade ganz frisch aus
+> dem Brunnen, ne?
 
 ## Tempelwände, Statue und Warnungen
 
 ### 0208
 
-Original.
+bereits bearbeitet — schatten_brunnen_de.json.
 
-> Der Schattentempel...
-> Hier ruhen Hyrules blutige Zeugnisse
-> von großer Gier und
-> blindem Hass...
+> Der Schattentempel. Hier ruhen
+> Hyrules blutige Zeugnisse von großer
+> Gier und blindem Haß. Es ist gar
+> nicht mal so lange her.
 
 ### 0209
 

@@ -1,3 +1,9 @@
+# Neue Brunnen-/Schattentempel-Dialoge
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Brunnen_Schattentempel_Dialoge.bps?raw=true) · [19 neue Dialoge](Brunnen_Schattentempel_Neue_Dialoge.md) · [Vollständige 74 Texte](Brunnen_Schattentempel_Texte_Aktuell.md) · [Quellen](Merzen_Brunnen_Schattentempel_Dialoge_Quellen_Patch.zip?raw=true) · [Prüfung](Pruefung_Brunnen_Schattentempel_Dialoge.md)
+
+Navi, Guru-Guru, Sheik und Tempelmauer nach Nutzervorlage. Alte Rechtschreibung, 0191 unverändert, keine festen Lesezeiten geändert. Alle bisherigen Änderungen enthalten, einschließlich Wallaces lebhafterer Bewegung. BPS auf unveränderte Vanilla Europa/PAL 1.0 anwenden.
+
 # Wallace: mehr Gesten bei der Befreiung
 
 [MP4: kurzer Eindruck](Wallace_Froehlich_Kurz.mp4?raw=true) · [Vollständige Befreiung](Wallace_Froehliche_Befreiung.mp4?raw=true) · [Gemeinsame Weisen-Credits](Wallace_Gesten_Weisen_Credits.mp4?raw=true)
