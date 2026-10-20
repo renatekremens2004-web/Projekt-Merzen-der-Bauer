@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Ben_10.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-ben-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "ben-ice-ben-final-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Fanboy_Eisige_Gruesse.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-ice-fan-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "ben-ice-ice-fan-final-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Chum_Chum_Hirnfrost.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-ice-chum-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "ben-ice-ice-chum-final-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Zora_Plastik_Eis.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-ice-zora-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "ben-ice-ice-zora-final-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Tripple_T_Auftauchen_1.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-rise-final-record-direct-clip-on/the_legend_of_zelda-000.png",
+    "case": "ben-ice-rise-final-record-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Tripple_T_Auftauchen_2.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-rise-final-record-direct-clip-on/the_legend_of_zelda-001.png",
+    "case": "ben-ice-rise-final-record-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Tripple_T_Auftauchen_3.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-rise-final-record-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "ben-ice-rise-final-record-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Tripple_T_Auftauchen_4.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-rise-final-record-direct-clip-on/the_legend_of_zelda-003.png",
+    "case": "ben-ice-rise-final-record-direct-clip-on",
+    "rom_sha256": "b59944c614e2ce3dddd5c6dade1c9528642bd479f5e2e5713dbbe123256ca626",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Chum_Chum_Rotes_Eis.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-ice-chum-frozen-freeze-direct-clip-on/the_legend_of_zelda-000.png",
+    "case": "ben-ice-ice-chum-frozen-freeze-direct-clip-on",
+    "rom_sha256": "eb84102abfe6293728c16766e1e9625fbeba6285050650b524df844f2a7adb61",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Chum_Chum_Aufgetaut.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-ice-chum-melt-freeze-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "ben-ice-ice-chum-melt-freeze-direct-clip-on",
+    "rom_sha256": "eb84102abfe6293728c16766e1e9625fbeba6285050650b524df844f2a7adb61",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Chum_Chum_Eingefroren_Nah.png",
+    "source": "/workspace/bean-rider/screens-ben-ice-ice-chum-view-view2-direct-clip-on/the_legend_of_zelda-000.png",
+    "case": "ben-ice-ice-chum-view-view2-direct-clip-on",
+    "rom_sha256": "eb84102abfe6293728c16766e1e9625fbeba6285050650b524df844f2a7adb61",
+    "unaltered_emulator_image": true
+  }
+]

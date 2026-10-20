@@ -1,3 +1,11 @@
+# Ben 10 und eisige Slushie-Helden
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Ben_Eishoehle.bps?raw=true) · [Tripple T kommt aus dem Boden: 42 s](Tripple_T_Aus_dem_Boden.mp4?raw=true) · [Neue Dialoge](Ben_Eishoehle_Dialoge.md)
+
+[Bilder und Prüfung](Ben_Eishoehle_Beispielbilder/) · [Quellen](Merzen_Ben_Eishoehle_Quellen_Patch.zip?raw=true)
+
+Ben 10 in der Erwachsenen-Zeit, außerhalb des Feuertempels. Fanboy und Chum getrennt in der Eishöhle. Chum muß mit blauem Feuer aus rotem Eis befreit werden. Dazu ein Zora über Plastik-Eis. Alle bisherigen Änderungen enthalten. BPS auf unveränderte Vanilla PAL 1.0 anwenden. Video ohne Ton, 4 MiB geprüft.
+
 # Tripple T tanzt; Comic im Wassertempel
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Sahur_Comic_Augen.bps?raw=true) · [Tripple T tanzt: 24 s](Tripple_T_Tanz.mp4?raw=true) · [Vollständiger Auftritt](Tripple_T_Auftauchen_und_Tanz.mp4?raw=true) · [Thaddäus im Wassertempel](Thaddaeus_Wassertempel_Animationen.mp4?raw=true)
