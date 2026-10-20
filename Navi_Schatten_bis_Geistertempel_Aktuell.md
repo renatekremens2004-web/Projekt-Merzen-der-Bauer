@@ -1,16 +1,10 @@
-# Navi: Schattentempel bis Ende Geistertempel
+# Navi und Sheiks Nachsatz: aktueller Stand
 
-Ohne Gegnerbeschreibungen: diese Übersicht enthält die normalen Storyhinweise und die nativen örtlichen Rufstellen im Geistertempel. Auslöser geprüft an src/elf_message/elf_message_field.c und den Raumlisten. Die allgemeinen Hinweise erscheinen bei Navis gewöhnlichen C-oben-Gelegenheiten und können wiederholt werden, solange ihr Questzustand gilt. Es gibt keine feste Zahl von Meldungen pro Kapitel. Frühere noch offene Bedingungen können den späteren Hinweis überlagern.
-
-**Noch vollständig original ist hier 0124.** 0158, 015A und 015B sind bereits eigene Texte, haben aber noch die bisherigen allgemeinen Formulierungen. 0156, 0157 und 0191 stammen bereits aus Deinen Vorgaben.
-
-0159 und 01AC ff. sind keine zusätzlichen Guide-Meldungen dieses Abschnitts. Einige unbenutzte Textplätze werden inzwischen für die Maskenreaktionen verwendet. Sie werden hier deshalb nicht irrtümlich als Navi-Texte aufgeführt.
+Allgemeine Storyhinweise können bei Navis normalen Rufgelegenheiten wiederkehren, solange die jeweilige Questbedingung gilt. Frühere offene Bedingungen können spätere Hinweise überlagern. Keine zusätzlichen Rufstellen und keine veränderten Lesezeiten. Gegnerbeschreibungen sind hier ausgenommen.
 
 ## 0157
 
 Auge der Wahrheit vorhanden, Schattenamulett noch nicht erhalten.
-
-Bereits Dein Text.
 
 Alles klar, ich wollte schon immer mal einen Song haben, mit dem wir zum ekligsten und gefährlichsten Ort Hyrules zurückreisen können.
 
@@ -18,15 +12,11 @@ Alles klar, ich wollte schon immer mal einen Song haben, mit dem wir zum ekligst
 
 Schattenamulett vorhanden, Requiem der Geister noch nicht gelernt.
 
-Bereits überarbeitet; bisherige Formulierung.
-
-Die Wüste hütet mehr Geheimnisse, als mir lieb ist. Vielleicht finden wir dort auch etwas gegen Merz' Macht.
+Na dann pack die Sonnencreme aus und nimm Dein Handtuch mit, es geht ab IN DIE WÜÜÜÜÜÜSTE!
 
 ## 0156
 
-Requiem gelernt, Krafthandschuhe noch nicht erhalten.
-
-Bereits Dein Text.
+Requiem gelernt, Krafthandschuhe noch nicht erhalten. Unverändert.
 
 Aber warum heißt das Ding Geistertempel und nicht Wüstentempel? Müßte der Schattentempel nicht eher
 
@@ -36,39 +26,43 @@ Geistertempel heißen? Was soll Schatten in diesem Zusammenhang überhaupt bedeu
 
 Krafthandschuhe vorhanden, Geisteramulett noch nicht erhalten.
 
-Bereits überarbeitet; bisherige Formulierung.
-
-Mit den Krafthandschuhen hebst Du schwerere Dinge. Die Verantwortung für Hyrule fühlt sich leider weiterhin gleich schwer an.
+Ist ja mega praktisch, daß wir schon wieder Krafthandschuhe gefunden haben. Ey, vielleicht gibt es noch eine dritte Stufe davon!
 
 ## 015B
 
-Geisteramulett vorhanden; unter den früheren erfüllten Questbedingungen bis zum Erhalt der Lichtpfeile.
+Geisteramulett vorhanden, Lichtpfeile noch nicht erhalten; frühere offene Bedingungen haben weiterhin Vorrang.
 
-Bereits überarbeitet; bisherige Formulierung.
-
-Jemand wartet in der Zitadelle der Zeit. Nach allem, was wir erlebt haben, hoffe ich auf eine ehrliche Erklärung.
+Wir müssen noch mal in die Zitadelle der Zeit zurück. Ich hab da meine Gummibärchen liegen lassen.
 
 ## 0124
 
-Örtlicher Navi-Ruf im Geistertempel, Raum 5: Kommentar zum Wüstenkoloss.
+Örtlicher Navi-Ruf in Geistertempelraum 5.
 
-Noch Original. Unabhängig vom allgemeinen Storyhinweis.
-
-Der Wüstenkoloss! Das Gesicht sieht wirklich bösartig aus!
+Weißt Du, so ein bißchen vermisse ich das, daß wir in einen Mund reingehen oder so. Hoffentlich kommt das hier wieder zurück.
 
 ## 0191
 
-Örtlicher Navi-Ruf im Geistertempel, Raum 2.
-
-Bereits Dein Text; auch im Waldtempel und weiteren Räumen gemeinsam benutzt.
+Örtlicher Navi-Ruf in Geistertempelraum 2; dieser Text wird auch in anderen Dungeons benutzt.
 
 Ich präsentiere: die nervigsten Gegner in diesem ganzen Abenteuer.
 
-## Direkt davor: 0155
+## 005C
 
-Nach dem Kakariko-Ereignis, bevor das Auge der Wahrheit vorhanden ist. Bereits Dein Text.
+Zusatz nach den normalen Informationen beim Erhalt der Titanhandschuhe. Navi spricht ausdrücklich mit eigener Kennzeichnung und hellblauer Schrift. Kein neuer wiederholter Questhinweis.
 
-Okay, das komische Ding kam eindeutig aus dem Brunnen. Glaubst Du, das wird jetzt der nächste Dungeon sein? Einfach so? Der
+Die Titanhandschuhe! Du fühlst noch größere Kraft in den Armen! Du packst schwerste Dinge mit [A]!
 
-Brunnen von Kakariko? Müssen wir dann das Brunnenlied lernen?
+Navi: Yo, ich faß es nicht! Was hab ich gesagt? Ich hab noch gesagt, hoffentlich gibt es ein drittes Paar, das noch stärker ist!
+
+Und jetzt liegt das hier einfach! Ey, ich hab es vorhergesagt. Merk Dir den Moment bitte, ich war meiner Zeit voraus!
+
+## 0076
+
+Sheiks beiläufige Warnung nach der Bestätigung, daß das Requiem der Geister erlernt wurde. Die eigentliche Lied-Lektion bleibt unverändert.
+
+Du hast das Requiem der Geister erlernt!
+
+Sheik: Ach so, übrigens, nur damit Du Bescheid weißt: Am Eingang vom Geistertempel sind Krüge, die schweben.
+
+Also auch mit einer ziemlich hohen Geschwindigkeit. Ich will es nur vorsichtshalber erwähnen, paß da bitte ein bißchen auf.
 

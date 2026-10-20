@@ -1,0 +1,32 @@
+[
+  {
+    "file": "Sheik_Kruege_1.png",
+    "source": "/workspace/bean-rider/screens-chapter-sheik-release-direct-clip-on/the_legend_of_zelda-012.png",
+    "rom_sha256": "fde57f9b350f35331cae236444ae15eb1802ca20f7b6a368368325aca781d2eb",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Sheik_Kruege_2.png",
+    "source": "/workspace/bean-rider/screens-chapter-sheik-release-direct-clip-on/the_legend_of_zelda-014.png",
+    "rom_sha256": "fde57f9b350f35331cae236444ae15eb1802ca20f7b6a368368325aca781d2eb",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Hexi_Bossschrift.png",
+    "source": "/workspace/bean-rider/screens-chapter-boss-fusion-verified-direct-clip-on/the_legend_of_zelda-006.png",
+    "rom_sha256": "fde57f9b350f35331cae236444ae15eb1802ca20f7b6a368368325aca781d2eb",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Navi_Titanhandschuhe_1.png",
+    "source": "/workspace/bean-rider/screens-chapter-gold-release-direct-clip-on/the_legend_of_zelda-004.png",
+    "rom_sha256": "fde57f9b350f35331cae236444ae15eb1802ca20f7b6a368368325aca781d2eb",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Navi_Titanhandschuhe_2.png",
+    "source": "/workspace/bean-rider/screens-chapter-gold-release-direct-clip-on/the_legend_of_zelda-006.png",
+    "rom_sha256": "fde57f9b350f35331cae236444ae15eb1802ca20f7b6a368368325aca781d2eb",
+    "unaltered_emulator_image": true
+  }
+]

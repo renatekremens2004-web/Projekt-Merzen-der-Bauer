@@ -1,0 +1,29 @@
+# Intro, Gerudos, Wüste, Hexen und Navi
+
+Kumulativer Gesamtpatch für die unveränderte Europa/PAL-1.0-ROM. Original-MD5 `e040de91a74b61e3201db0e2323f768a`, Ziel-SHA256 `fde57f9b350f35331cae236444ae15eb1802ca20f7b6a368368325aca781d2eb`. Alle früheren Figuren, Räume und Änderungen einschließlich Wüstengästen enthalten. Deutsche Sprachfassung, alte Rechtschreibung. BPS mit RomPatcher.js anwenden.
+
+## Eingebaut
+
+84 überarbeitete vorhandene deutsche Nachrichten und ein neuer altersabhängiger Text. Das Intro wird vom Deku-Baum zusammenhängend erzählt; Merz will Hyrule erst übernehmen. Salia erklärt die seltene Ehre eines Baumgesprächs und erwähnt beiläufig ihr gestriges Treffen. Midos Kompostgeruch bezieht sich auf die Umgebung.
+
+Die Gerudos behandeln den jungen Helden besorgt und fürsorglich. Erwachsene hören dagegen von Merz, dem abgeschobenen Ganondorf und dem dürren lila Eindringling, den die Gerudos nicht beim Namen nennen. Zimmerleute, Vorarbeiter, Rennläufer, Teppichhändler, Wüstengeist und Eule sind überarbeitet. Der Gerudo-Paß, die Trainingsarena mit zehn Rubinen, der Händlerpreis von 200 Rubinen und sämtliche Antwortreihenfolgen, Minispielregeln, Belohnungen und Fortschrittsbedingungen bleiben erhalten. Der Kind-Teppichhändler erhält eine eigene Nachricht 71C6; sein Verkauf bleibt derselbe.
+
+Koume/Kotake: Plastikrüstung, CDU-Gehorsam, Sandreichtümer, Dragon-Ball-Fusion und der Heiligenschein-Streit nach Deinen Vorgaben. Sehr kurze zeitgesteuerte Streitzeilen sind gekürzt. Kein ursprünglicher FADE-Wert oder verzögerter Seitenwechsel wurde verlängert. Die fusionierte Hexe trägt den tatsächlichen Boss-Schriftzug „Die unfaßbar attraktive, atemberaubend große, sexuell anziehende und Dir zuzwinkernde Hexi!“, identisch mit der Ankündigung in 605A. Er erscheint beim nativen Zwinkern nach der Fusion. Der unveränderte Titelrenderer verwendet 128×64 Pixel je Sprache und seine beiden normalen Texturladungen. Die Objektdatei wächst um 9.216 Byte. Englische und französische Originalglyphen bleiben an derselben Bildschirmposition. Keine zusätzliche Figur, keine Änderung an Schaden, Treffererkennung, KI, Animationen oder Kampfphasen.
+
+Navi 0158 ruft begeistert IN DIE WÜÜÜÜÜÜSTE; 0156 bleibt unverändert. 015A ahnt die dritte Handschuhstufe voraus. Der originale Titanhandschuh-Fundtext 005C behält Item-Icon und Bedienhinweis auf Seite eins; danach folgt Navis ausdrücklich gekennzeichneter hellblauer „Hab ich doch gesagt!“-Rückverweis. 015B: Gummibärchen in der Zitadelle. 0124: Mund-Running-Gag. Sheiks Warnung vor schnellen schwebenden Krügen folgt in 0076 nach der Requiem-Erlernt-Bestätigung, also nach der eigentlichen Lektion. Keine neue Navi-Abfrageschleife und keine zusätzlichen Questbits.
+
+[Alle neuen Dialoge](../Dialoge_Intro_Gerudos_Hexen.md) · [Navi und Auslöser](../Navi_Schatten_bis_Geistertempel_Aktuell.md)
+
+## Geprüft
+
+PAL-Build und Kompression erfolgreich. 1.520 komprimierte Segmente, CIC-6105-Prüfsumme und 3.664 native Kernsymbole differential geprüft. Alle bestehenden Nachrichten in Englisch und Französisch bytegleich; Deutsch nur die erlaubten IDs geändert. Header, Item-Symbole, Ereignisse, Folge-IDs, Auswahlfelder, feste Zeiten und ursprüngliche Namensplatzhalter erhalten. Alle 1.104 eigenen Nachrichten passen in die nativen Rohtext- und Zeilenpuffer, einschließlich acht breiter Buchstaben als Spielername. Sämtliche übrigen Twinrova-Objektsymbole unverändert oder ausschließlich durch ihre echten Linker-Relokationen verschoben. Die einzigen Änderungen am nativen Actor-Code betreffen die deutsche Altersauswahl des Teppich-Angebots sowie zwei Bossfunktionen für den Zeitpunkt/Umfang des Schriftzugs.
+
+Drei gezielte Proben der finalen Ziel-ROM mit echten 4 MiB: native Fusion mit neuem Schriftzug und anschließend native Hexen-Todesszene; Sheiks Gespräch einschließlich beider Krüge-Seiten bis zur normalen Szenenfortsetzung; Öffnen der unveränderten echten Titanhandschuh-Truhe im Schattenabschnitt von Merz' Schloß einschließlich aller drei Fundtext-Seiten. Bei der Bossprobe werden beide Kampfphasen im reinen Testtreiber übersprungen und die Gesundheit aufgefüllt, anschließend laufen die originalen Szenen. In der Sheik-Probe wird die unveränderte Okarina-Lektion übersprungen; geprüft werden Gespräch und Nachsatz. Der Handschuh-Testspielstand setzt den ursprünglichen Truhenschalter bereits als gelöst. Keine Produktions-Akteure werden für Bilder versetzt. Keine fehlgeschlagenen Speicherbelegungen, Grafikpufferüberläufe oder beschädigten GfxPool-Marken. Kleinste gemessene zusammenhängende Arena-Reserve 143,712 Byte, kleinste Objektpufferreserve 62,976 Byte.
+
+Elf vorherige Gesprächsproben an der klar bezeichneten Zwischenversion `282aa9b2c2e3fd07a2d13d7dec8539176b0ce8b6bef2c7f332acacd8d1a88e68`: Intro, Navi-Wecken, Salia, Mido, Arena mit nativer Abbuchung von zehn Rubinen, Kindwache, Teppichangebot als Kind und Erwachsener, Rennläufer-Einleitung, Zimmermann und Vorarbeiter. Diese Proben sind keine Aufnahmen der finalen ROM und werden im Bericht getrennt geführt. Die Bilder dieses Pakets stammen ausschließlich von der finalen Ziel-ROM und sind unveränderte Emulatorbilder. Kein vollständiger Spieldurchlauf oder Hardwaretest.
+
+BPS mit RomPatcher.js und aktiver Quellvalidierung auf die Vanilla-ROM angewandt: Ergebnis bytegleich zur geprüften finalen ROM.
+
+## Reproduzieren
+
+Nach den bisherigen Modell-/Raum-Buildern zuletzt `build_desert_guests.py`, `build_gerudo_dialogue.py` und `build_twinrova_title.py` ausführen, anschließend den normalen PAL-1.0-Build und Kompression. Die kanonischen Story-JSONs und die vorbereitete Titelschrift-Textur liegen bei. Der optionale neue `append_after_native`-Modus des Story-Builders hält den nativen Icon-/Infoteil bei angehängten Itemtexten vorn. Quellenpaket ohne ROM, Save, Savestate, ELF, RAM-Abzug oder ausführbare Dateien.

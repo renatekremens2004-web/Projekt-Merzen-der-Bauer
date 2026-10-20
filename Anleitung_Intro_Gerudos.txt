@@ -1,0 +1,3 @@
+Kumulativer Gesamtpatch mit sämtlichen bisherigen Änderungen. Neu: Intro/Gerudos/Wüste/Hexen, Navi-Rückverweise und Sheiks Krüge-Warnung nach dem Requiem.
+
+Mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden, nicht auf eine bereits gepatchte ROM. Original-MD5 e040de91a74b61e3201db0e2323f768a. Deutsche Sprache wählen. Normale Spielstände verwenden. Ziel-SHA256 fde57f9b350f35331cae236444ae15eb1802ca20f7b6a368368325aca781d2eb
