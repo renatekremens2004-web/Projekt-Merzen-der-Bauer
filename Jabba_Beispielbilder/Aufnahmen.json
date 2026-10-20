@@ -1,0 +1,37 @@
+[
+  {
+    "file": "Jabba_im_Feld.png",
+    "source": "/workspace/bean-rider/screens-jabba-day-object-direct-clip-on/the_legend_of_zelda-000.png",
+    "case": "jabba-day-object-direct-clip-on",
+    "rom_sha256": "d090fc67ed85e5416181ead5250af5996b86b58e3d05c7f7adf2cde4b6a6fdf6",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jabba_Huttisch.png",
+    "source": "/workspace/bean-rider/screens-jabba-day-object-direct-clip-on/the_legend_of_zelda-003.png",
+    "case": "jabba-day-object-direct-clip-on",
+    "rom_sha256": "d090fc67ed85e5416181ead5250af5996b86b58e3d05c7f7adf2cde4b6a6fdf6",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jabba_Uebersetzung.png",
+    "source": "/workspace/bean-rider/screens-jabba-day-object-direct-clip-on/the_legend_of_zelda-004.png",
+    "case": "jabba-day-object-direct-clip-on",
+    "rom_sha256": "d090fc67ed85e5416181ead5250af5996b86b58e3d05c7f7adf2cde4b6a6fdf6",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jabba_Deal.png",
+    "source": "/workspace/bean-rider/screens-jabba-day-object-direct-clip-on/the_legend_of_zelda-005.png",
+    "case": "jabba-day-object-direct-clip-on",
+    "rom_sha256": "d090fc67ed85e5416181ead5250af5996b86b58e3d05c7f7adf2cde4b6a6fdf6",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Jabba_Nachts.png",
+    "source": "/workspace/bean-rider/screens-jabba-night-final-direct-clip-on/the_legend_of_zelda-003.png",
+    "case": "jabba-night-final-direct-clip-on",
+    "rom_sha256": "d090fc67ed85e5416181ead5250af5996b86b58e3d05c7f7adf2cde4b6a6fdf6",
+    "unaltered_emulator_image": true
+  }
+]

@@ -1,3 +1,9 @@
+# Jabba auf dem Weg zu Friedrich Merz
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Jabba.bps?raw=true) · [Jabbas Dialog](Jabba_Dialog.md) · [Bilder und Prüfung](Jabba_Beispielbilder/) · [Quellen](Merzen_Jabba_Quellen_Patch.zip?raw=true)
+
+Jabba im Kinder-Hyrule-Feld neben dem Weg Richtung Stadt. Erst Huttisch, dann deutsche Übersetzung in Klammern. Tags/nachts, vor und nach den drei Steinen. 2.391 Dreiecke, eigenes Kinder-Objekt. Alle bisherigen Änderungen enthalten; BPS auf unveränderte Vanilla PAL 1.0 anwenden. 4 MiB geprüft.
+
 # Ben 10 und eisige Slushie-Helden
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Ben_Eishoehle.bps?raw=true) · [Tripple T kommt aus dem Boden: 42 s](Tripple_T_Aus_dem_Boden.mp4?raw=true) · [Neue Dialoge](Ben_Eishoehle_Dialoge.md)

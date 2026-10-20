@@ -1,0 +1,3 @@
+Kumulativer Gesamtpatch: Jabba im Hyrule-Feld der Kinder-Zeit, Huttisch mit deutscher Klammerübersetzung. Alle bisherigen Änderungen enthalten.
+
+Mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte, unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände benutzen; alte Emulator-Savestates können alte Modelle/Overlays enthalten. Tatsächliche 4 MiB geprüft.
