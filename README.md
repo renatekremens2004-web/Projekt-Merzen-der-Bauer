@@ -1,3 +1,9 @@
+# Kenny und Gleitstiefel
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Kenny_Gleitstiefel.bps?raw=true) · [Bilder und Prüfung](Kenny_Gleitstiefel_Beispielbilder/) · [Quellen](Merzen_Kenny_Gleitstiefel_Quellen_Patch.zip?raw=true)
+
+Kenny als anvisierbares Objekt: vor den Gleitstiefeln am Eingang, danach tot im späteren Tempel. Navi kommentiert beide Auftritte. Steuerkreuz oben: Gleitstiefel, unten: Eisenstiefel. Alle bisherigen Änderungen enthalten, auf unveränderte Vanilla PAL 1.0 anwenden. Gezielte Proben mit 4 MiB, kein vollständiger Durchlauf.
+
 # Marty, Doc und DeLorean
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Marty_Doc_Delorean.bps?raw=true) · [Dialog](Marty_Doc_Dialog.md) · [Bilder und Prüfung](Marty_Doc_Delorean_Beispielbilder/) · [Quellen](Merzen_Marty_Doc_Delorean_Quellen_Patch.zip?raw=true)

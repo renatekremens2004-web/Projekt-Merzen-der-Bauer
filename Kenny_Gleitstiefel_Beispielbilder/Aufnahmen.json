@@ -1,0 +1,32 @@
+[
+  {
+    "file": "Kenny_Am_Eingang.png",
+    "source": "/workspace/bean-rider/screens-kenny-alive-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "cff29cee1ec13fbe37bd1dba86ae21e9aa8dae9a9e5c4e87d7981851e7c45bd4",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Navi_Nuscheln.png",
+    "source": "/workspace/bean-rider/screens-kenny-alive-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "cff29cee1ec13fbe37bd1dba86ae21e9aa8dae9a9e5c4e87d7981851e7c45bd4",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Kenny_Tot.png",
+    "source": "/workspace/bean-rider/screens-kenny-dead-final-direct-clip-on/the_legend_of_zelda-000.png",
+    "rom_sha256": "cff29cee1ec13fbe37bd1dba86ae21e9aa8dae9a9e5c4e87d7981851e7c45bd4",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Navi_Kenny_Getoetet.png",
+    "source": "/workspace/bean-rider/screens-kenny-dead-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "rom_sha256": "cff29cee1ec13fbe37bd1dba86ae21e9aa8dae9a9e5c4e87d7981851e7c45bd4",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "XWing_Speicheroptimiert.png",
+    "source": "/workspace/bean-rider/screens-kenny-xwing-photo-final-direct-clip-on/the_legend_of_zelda-005.png",
+    "rom_sha256": "cff29cee1ec13fbe37bd1dba86ae21e9aa8dae9a9e5c4e87d7981851e7c45bd4",
+    "unaltered_emulator_image": true
+  }
+]
