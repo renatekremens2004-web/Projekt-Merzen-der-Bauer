@@ -1,0 +1,7 @@
+Wawario-Brüder und korrigierter Triangle Guy — Gesamtpatch
+
+In https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Alle bisherigen Änderungen enthalten. Deutsch einstellen; normale PAL-Spielstände verwenden.
+
+Nur erwachsen: Wawario in der Gefängniszelle der Gerudo-Festung, Wawaluigi draußen neben dem Zelt im Gerudotal. Beide normal mit A ansprechen. Neue Bewohnertexte und Waluigi-Klatsch beim verliebten Paar in beiden Zeitebenen. Wallace mit mehr Käsewitzen in beiden Höhlen-/Tempelauftritten. Triangle Guys Gesicht in der finalen Arena vervollständigt.
+
+40 MiB ROM-Datei; weiterhin mit 4 MiB N64-RAM geprüft. Kein vollständiger Durchlauf oder Hardwaretest.

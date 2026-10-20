@@ -1,3 +1,13 @@
+# Merzen der Bauer: Wawario-Brüder und Triangle Guys Gesicht
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wawario_Bros.bps?raw=true) · [Echte Spielbilder](Wawario_Bros_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Wawario_Bros_Quellen_Patch_Bilder.zip?raw=true)
+
+[Neue Dialoge](Wawario_Bros_Dialoge.md) · [Prüfbericht](Wawario_Bros_Beispielbilder/Pruefbericht.md)
+
+Alle bisherigen Änderungen enthalten. Auf die unveränderte Europa/PAL-1.0-ROM anwenden. Wawario in der Gerudo-Zelle, Wawaluigi neben dem Zelt; beide nur erwachsen. Triangle Guys Gesicht vervollständigt. Neue Bewohnertexte, Waluigi-Klatsch beim Paar in beiden Zeitebenen und mehr Käsehumor für Wallace. Mit 4 MiB RAM geprüft; kein vollständiger Durchlauf oder Hardwaretest.
+
+![Wawaluigi](Wawario_Bros_Beispielbilder/Wawaluigi_neben_Zelt.png)
+
 # Merzen der Bauer: Triangle Guy, Brunnenfund und flacher Thaddäus
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Triangle_Brunnen_Morpha.bps?raw=true) · [Echte Spielbilder](Triangle_Brunnen_Morpha_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Triangle_Brunnen_Morpha_Quellen_Patch_Bilder.zip?raw=true)

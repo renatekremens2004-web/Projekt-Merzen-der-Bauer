@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Wawario_Gespraech.png",
+    "case": "wawario-orange-final-direct-clip-on",
+    "message": "608D",
+    "frame": 198,
+    "rom_sha256": "1d426b331462681bbfe5bb9ae42e90cbd75a3ec987d2a3ecff3b6ecebdaabfc6",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wawario_Feierabend.png",
+    "case": "wawario-orange-final-direct-clip-on",
+    "message": "608D",
+    "frame": 308,
+    "rom_sha256": "1d426b331462681bbfe5bb9ae42e90cbd75a3ec987d2a3ecff3b6ecebdaabfc6",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wawaluigi_neben_Zelt.png",
+    "case": "wawario-blue-final-direct-clip-on",
+    "message": null,
+    "frame": 100,
+    "rom_sha256": "1d426b331462681bbfe5bb9ae42e90cbd75a3ec987d2a3ecff3b6ecebdaabfc6",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wawaluigi_Gespraech.png",
+    "case": "wawario-blue-final-direct-clip-on",
+    "message": "608E",
+    "frame": 188,
+    "rom_sha256": "1d426b331462681bbfe5bb9ae42e90cbd75a3ec987d2a3ecff3b6ecebdaabfc6",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "TriangleGuy_Gesicht.png",
+    "case": "wawario-triangle-final-direct-clip-on",
+    "message": "608A",
+    "frame": 2023,
+    "rom_sha256": "1d426b331462681bbfe5bb9ae42e90cbd75a3ec987d2a3ecff3b6ecebdaabfc6",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "TriangleGuy_Seitenansicht.png",
+    "case": "wawario-triangle-angle-replay-final-direct-clip-on",
+    "message": "608A",
+    "frame": 223,
+    "rom_sha256": "1d426b331462681bbfe5bb9ae42e90cbd75a3ec987d2a3ecff3b6ecebdaabfc6",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Brueder_Kommentar.png",
+    "case": "wawario-critic-final-direct-clip-on",
+    "message": "5060",
+    "frame": 268,
+    "rom_sha256": "1d426b331462681bbfe5bb9ae42e90cbd75a3ec987d2a3ecff3b6ecebdaabfc6",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Waluigi_Schulverweis_Kind.png",
+    "case": "wawario-couple-child-dialog-final-direct-clip-on",
+    "message": "7025",
+    "frame": 193,
+    "rom_sha256": "171737f87217c7ac22b62cce8420e06532aca2e25e42b10f686426b486bf8a47",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Waluigi_Sieben_Jahre.png",
+    "case": "wawario-couple-adult-dialog-final-direct-clip-on",
+    "message": "5089",
+    "frame": 215,
+    "rom_sha256": "171737f87217c7ac22b62cce8420e06532aca2e25e42b10f686426b486bf8a47",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wallace_Dodongo_Kaese.png",
+    "case": "wawario-wallace-child-dialog-final-direct-clip-on",
+    "message": "019A",
+    "frame": 234,
+    "rom_sha256": "171737f87217c7ac22b62cce8420e06532aca2e25e42b10f686426b486bf8a47",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wallace_Feuertempel_Kaese.png",
+    "case": "wawario-wallace-free-native-dialog-final-direct-clip-on",
+    "message": "209D",
+    "frame": 495,
+    "rom_sha256": "171737f87217c7ac22b62cce8420e06532aca2e25e42b10f686426b486bf8a47",
+    "unedited_emulator_image": true
+  }
+]
