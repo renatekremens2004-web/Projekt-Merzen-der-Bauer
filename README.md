@@ -1,3 +1,11 @@
+# Tripple T tanzt; Comic im Wassertempel
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Sahur_Comic_Augen.bps?raw=true) · [Tripple T tanzt: 24 s](Tripple_T_Tanz.mp4?raw=true) · [Vollständiger Auftritt](Tripple_T_Auftauchen_und_Tanz.mp4?raw=true) · [Thaddäus im Wassertempel](Thaddaeus_Wassertempel_Animationen.mp4?raw=true)
+
+[Neue Dialoge](Sahur_Wasser_Comic_Dialoge.md) · [Bilder und Prüfung](Sahur_Wasser_Comic_Beispielbilder/) · [Quellen](Merzen_Sahur_Wasser_Comic_Quellen_Patch.zip?raw=true)
+
+Neuer Sahur mit Tanz erst nach dem Auftauchen. Fanboy und Chum getrennt auf festen trockenen Böden im Wassertempel. Chums Augen in beiden Tempeln korrigiert. Flacher Thaddäus 972 statt 1.145 Dreiecke. Neuer Kakariko-Spruch. Alle bisherigen Änderungen enthalten. BPS auf unveränderte Vanilla PAL 1.0 anwenden. Videos ohne Ton, 4 MiB geprüft.
+
 # Neue Brunnen-/Schattentempel-Dialoge
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Brunnen_Schattentempel_Dialoge.bps?raw=true) · [19 neue Dialoge](Brunnen_Schattentempel_Neue_Dialoge.md) · [Vollständige 74 Texte](Brunnen_Schattentempel_Texte_Aktuell.md) · [Quellen](Merzen_Brunnen_Schattentempel_Dialoge_Quellen_Patch.zip?raw=true) · [Prüfung](Pruefung_Brunnen_Schattentempel_Dialoge.md)

@@ -1,0 +1,72 @@
+[
+  {
+    "file": "Tripple_T_Tanz_1.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-dance-still-final-record-direct-clip-on/the_legend_of_zelda-000.png",
+    "case": "sahur-comic-dance-still-final-record-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Tripple_T_Tanz_2.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-dance-still-final-record-direct-clip-on/the_legend_of_zelda-001.png",
+    "case": "sahur-comic-dance-still-final-record-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Tripple_T_Cutscene.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-rise-v2-record-direct-clip-on/the_legend_of_zelda-004.png",
+    "case": "sahur-comic-rise-v2-record-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Thaddaeus_Gespraech.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-ruto-v2-record-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "sahur-comic-ruto-v2-record-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Thaddaeus_Schwimmen.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-ruto-v2-record-direct-clip-on/the_legend_of_zelda-006.png",
+    "case": "sahur-comic-ruto-v2-record-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Fanboy_Lieblingscomic.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-water-fan-30-final-direct-clip-on/the_legend_of_zelda-003.png",
+    "case": "sahur-comic-water-fan-30-final-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Chum_Comic_abgesoffen.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-water-chum-30-final-direct-clip-on/the_legend_of_zelda-003.png",
+    "case": "sahur-comic-water-chum-30-final-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Chum_Augen_Waldtempel.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-forest-chum-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "sahur-comic-forest-chum-final-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Flacher_Thaddaeus_972.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-flat-final-direct-clip-on/the_legend_of_zelda-000.png",
+    "case": "sahur-comic-flat-final-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Krabbelminen_Zigaretten.png",
+    "source": "/workspace/bean-rider/screens-sahur-comic-kakariko-final-direct-clip-on/the_legend_of_zelda-002.png",
+    "case": "sahur-comic-kakariko-final-direct-clip-on",
+    "rom_sha256": "06d6ffb42399caf326d8d984abbc7d6d7ac6f5c1c9544d66ac9c734aa8a2350f",
+    "unaltered_emulator_image": true
+  }
+]
