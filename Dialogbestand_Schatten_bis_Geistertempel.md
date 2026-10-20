@@ -889,7 +889,7 @@ Der Schattentempel. Hier ruhen Hyrules blutige Zeugnisse von großer Gier und bl
 
 ## Bereits hinzugefügte Begegnungen im Brunnen und Schattentempel
 
-7 Textzustände: 0 Original, 7 bereits überarbeitet.
+11 Textzustände: 0 Original, 11 bereits überarbeitet.
 
 ### 71BA — BEREITS ÜBERARBEITET · mystery_inc_de.json
 
@@ -937,9 +937,35 @@ Ich verstehe den Typen nicht, der nuschelt zu sehr.
 
 Ihr habt Kenny getötet, ihr Schweine!
 
+### 507B — BEREITS ÜBERARBEITET · xwing_kakariko_de.json
+
+Scheiße, ich hab' meinen Lego Naboo-Starfighter im Schattentempel liegen lassen!
+
+Und die Bauanleitung ist natürlich auch noch drin!
+
+### 507C — BEREITS ÜBERARBEITET · xwing_kakariko_de.json
+
+Scheiße, ich hab' meinen Lego Naboo-Starfighter im Schattentempel liegen lassen!
+
+Und die Bauanleitung ist natürlich auch noch drin!
+
+### 6089 — BEREITS ÜBERARBEITET · superhelden_de.json
+
+Blut auf dem Boden? Totenschädel in den Wänden?
+
+Seltsame Wände, durch die man hindurchgehen kann? Das kann nur eins bedeuten!
+
+Das ist das Werk von HELFENDEN ELFEN!!
+
+Navi: Ich bin eine Fee, Du anämischer Nerd!
+
+### 608B — BEREITS ÜBERARBEITET · fundstuecke_de.json
+
+Oof, hier liegt ein Schwangerschaftstest. Mein Beileid...
+
 ## Zusätzlich in diesem Nummernbereich: Rennläufer und übrige Einträge
 
-27 Textzustände: 14 Original, 13 bereits überarbeitet.
+25 Textzustände: 14 Original, 11 bereits überarbeitet.
 
 ### 6008 — ORIGINAL / noch nicht überarbeitet
 
@@ -1099,16 +1125,6 @@ Fanboy hat gesagt, ich soll diesen Gang bewachen. Das mache ich seit Stunden. De
 
 Sobald Merz auftaucht, schlage ich Alarm! Ich kann so laut schreien, daß er seine eigene Politik nicht mehr hört. Das hilft bestimmt!
 
-### 6089 — BEREITS ÜBERARBEITET · superhelden_de.json
-
-Blut auf dem Boden? Totenschädel in den Wänden?
-
-Seltsame Wände, durch die man hindurchgehen kann? Das kann nur eins bedeuten!
-
-Das ist das Werk von HELFENDEN ELFEN!!
-
-Navi: Ich bin eine Fee, Du anämischer Nerd!
-
 ### 608A — BEREITS ÜBERARBEITET · fundstuecke_de.json
 
 Hey Leute, sorry, daß es so lange gedauert hat, ich kam so schnell ich konnte, aber hier bin ich!
@@ -1118,10 +1134,6 @@ Ich bin das Triforce des Mutes und ich bin da für dich, [Spielername]!
 Laß uns Friedrich Merz verbannen, der auch irgendwie an ein Stück des Triforces gekommen ist!
 
 Hat er sich wohl gekauft! Aber ich bin nicht käuflich!
-
-### 608B — BEREITS ÜBERARBEITET · fundstuecke_de.json
-
-Oof, hier liegt ein Schwangerschaftstest. Mein Beileid...
 
 ### 608C — BEREITS ÜBERARBEITET · fundstuecke_de.json
 
