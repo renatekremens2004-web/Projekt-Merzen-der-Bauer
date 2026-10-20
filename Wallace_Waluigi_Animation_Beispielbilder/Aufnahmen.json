@@ -1,0 +1,58 @@
+[
+  {
+    "file": "Waluigi_Begegnung.png",
+    "case": "new-sages-spirit-child-motion-v2-direct-clip-on",
+    "frame": 750,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Waluigi_Entfuehrung.png",
+    "case": "new-sages-kidnap-motion-v2-direct-clip-on",
+    "frame": 1005,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Waluigi_Enthuellung.png",
+    "case": "new-sages-knuckle-reveal-motion-v2-direct-clip-on",
+    "frame": 955,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Waluigi_Weiser.png",
+    "case": "new-sages-hall-spirit-motion-v2-direct-clip-on",
+    "frame": 1305,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Wallace_Lauf_Schritt_1.png",
+    "case": "motion-wallace-free-native-v3-record-direct-clip-on",
+    "frame": 1640,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Wallace_Lauf_Schritt_2.png",
+    "case": "motion-wallace-free-native-v3-record-direct-clip-on",
+    "frame": 1648,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Weisen_Credits_neuer_Stand.png",
+    "case": "motion-credits-v1-record-direct-clip-on",
+    "frame": 495,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Wallace_Schultersitz.png",
+    "case": "motion-credits-v1-record-direct-clip-on",
+    "frame": 695,
+    "rom_sha256": "3789ff2805ff2c5b5e53c2f7bd44935c4c2cf01dca425a7610c61890f210e1f9",
+    "unaltered_emulator_image": true
+  }
+]

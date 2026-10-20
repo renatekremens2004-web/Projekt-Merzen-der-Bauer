@@ -1,0 +1,5 @@
+Gesamtpatch: Wallace mit Laufanimation; Weisen-Waluigi um 25 Prozent verkleinert.
+
+Auf die entpackte, unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Alle bisherigen Änderungen enthalten. https://www.marcrobledo.com/RomPatcher.js/
+
+Normale Spielstände verwenden. Alte Emulator-Savestates können die alten Modelle/Overlays im RAM enthalten. Die MP4s stammen aus diesem finalen Patch und sind ohne Ton, mit tatsächlichen 4 MiB aufgenommen.

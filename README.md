@@ -1,3 +1,13 @@
+# Merzen: Wallace läuft und Waluigi paßt
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wallace_Laufanimation_Waluigi.bps?raw=true) · [Alle sechs MP4s als ZIP](Waluigi_Szenen_Wallace_Videos.zip?raw=true) · [Brunnen/Schattentempel: 74 aktuelle Texte](Brunnen_Schattentempel_Texte_Aktuell.md)
+
+[Waluigi: Kind](Waluigi_01_Begegnung_Kind.mp4?raw=true) · [Entführung](Waluigi_02_Entfuehrung.mp4?raw=true) · [Enthüllung](Waluigi_03_Eisenprinz_Enthuellung.mp4?raw=true) · [Halle der Weisen](Waluigi_04_Halle_der_Weisen.mp4?raw=true) · [Wallace: Befreiung](Wallace_Laufanimation_Befreiung.mp4?raw=true) · [Gemeinsame Credits](Wallace_Waluigi_Weisen_Credits.mp4?raw=true)
+
+[Quellen](Merzen_Wallace_Waluigi_Laufanimation_Quellen_Patch.zip?raw=true) · [Prüfbericht](Wallace_Waluigi_Animation_Beispielbilder/Pruefbericht.md)
+
+Wallace weiterhin Höhe 90, jetzt mit Hüft-/Knie-/Fußbewegung beim Weggehen. Weisen-Waluigi etwa 73 statt 98 in derselben Standpose (Original Naboru etwa 65); gleichmäßige Verkleinerung und passende Nahaufnahmen. Blauer Wawaluigi unverändert. Alle bisherigen Änderungen enthalten. Videos ohne Ton, 4 MiB geprüft.
+
 # Merzen der Bauer: kleinere Figuren und neuer Schultersitz
 
 [Aktueller Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wallace_Wawaluigi_Groessen.bps?raw=true) · [Wallaces Befreiung als MP4](Wallace_Kleiner_Befreiung.mp4?raw=true) · [Weisen-Credits als MP4](Wallace_Kleiner_Weise_Credits.mp4?raw=true)
