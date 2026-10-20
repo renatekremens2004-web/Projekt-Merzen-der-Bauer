@@ -1,0 +1,7 @@
+Triangle Guy, Brunnenfund und flacher Thaddäus — Gesamtpatch
+
+In https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Alle bisherigen Änderungen enthalten. Deutsch einstellen; normale Spielstände verwenden.
+
+Triangle Guy: Rand der finalen Ganon-Arena, normal mit A ansprechen. Schwangerschaftstest: vordere Ecke einer Seitenkammer im Brunnen, nahe der Dekuranha-/Topfkammer. Flacher Thaddäus: fester Eckboden in Morphas Boßraum. Fundstücke mit Z und C-Up untersuchen.
+
+Die neue ROM-Datei ist 40 MiB groß; der N64-RAM-Bedarf bleibt bei 4 MiB.

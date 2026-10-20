@@ -1,0 +1,37 @@
+[
+  {
+    "file": "TriangleGuy_Entschuldigung.png",
+    "case": "fund-triangle-safe-final3-direct-clip-on",
+    "message": "608A",
+    "frame": 2023,
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Schwangerschaftstest_Brunnen.png",
+    "case": "fund-pregtest-final-direct-clip-on",
+    "message": "608B",
+    "frame": 204,
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Flacher_Thaddaeus_Navi.png",
+    "case": "fund-flat-foot-view-extra-direct-clip-on",
+    "message": "608C",
+    "frame": 189,
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Thaddaeus_Waehrend_Morpha.png",
+    "case": "fund-flat-battle-once-extra-direct-clip-on",
+    "message": "608C",
+    "frame": 189,
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Thaddaeus_Nach_Morpha.png",
+    "case": "fund-flat-cleared-correct-extra-direct-clip-on",
+    "message": "608C",
+    "frame": 189,
+    "unedited_emulator_image": true
+  }
+]

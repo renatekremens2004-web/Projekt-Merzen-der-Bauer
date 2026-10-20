@@ -1,3 +1,13 @@
+# Merzen der Bauer: Triangle Guy, Brunnenfund und flacher Thaddäus
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Triangle_Brunnen_Morpha.bps?raw=true) · [Echte Spielbilder](Triangle_Brunnen_Morpha_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Triangle_Brunnen_Morpha_Quellen_Patch_Bilder.zip?raw=true)
+
+[Neue Dialoge](Triangle_Brunnen_Morpha_Dialoge.md) · [Prüfbericht und Morpha-Laufzeitvergleich](Triangle_Brunnen_Morpha_Beispielbilder/Pruefbericht.md)
+
+Alle bisherigen Änderungen enthalten. Auf die unveränderte Europa/PAL-1.0-ROM anwenden. Triangle Guy normal mit A ansprechen; Fundstücke mit Z und C-Up untersuchen. 4 MiB RAM, kein Expansion Pak.
+
+![Triangle Guy](Triangle_Brunnen_Morpha_Beispielbilder/TriangleGuy_Entschuldigung.png)
+
 # Merzen der Bauer: Fanboy, Chum Chum, Crocker und leichtere Kämpfe
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Fanboy_ChumChum_Crocker_Kampf.bps?raw=true) · [Bilder](Superhelden_Kampf_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Superhelden_Kampf_Quellen_Patch_Bilder.zip?raw=true)
