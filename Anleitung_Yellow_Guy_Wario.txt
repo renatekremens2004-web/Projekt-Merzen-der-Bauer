@@ -1,0 +1,7 @@
+Yellow Guy und Wario — kumulativer Gesamtpatch
+
+In https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Alle bisherigen Änderungen enthalten. Deutsch einstellen; normale PAL-Spielstände verwenden.
+
+Kind: Yellow Guy am Schloßweg nach dem Markt; Wario in Kakariko, tags und nachts. Erwachsen: Punk Yellow Guy vor Ganons Schloß. Mit A ansprechen. Wario erscheint ausdrücklich NICHT als Erwachsener. Wawario/Wawaluigi bleiben wie bisher nur erwachsen.
+
+40 MiB ROM-Datei; weiterhin mit 4 MiB N64-RAM geprüft. Kein vollständiger Durchlauf oder Hardwaretest.

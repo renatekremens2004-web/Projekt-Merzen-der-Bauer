@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Yellow_Guy_am_Schlossweg.png",
+    "case": "yellow-normal-final-direct-clip-on",
+    "frame": 100,
+    "message": null,
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Yellow_Guy_Gespraech.png",
+    "case": "yellow-normal-final-direct-clip-on",
+    "frame": 217,
+    "message": "608F",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Yellow_Guy_Koenig.png",
+    "case": "yellow-normal-final-direct-clip-on",
+    "frame": 414,
+    "message": "608F",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Punk_Yellow_Guy_vor_Ganons_Schloss.png",
+    "case": "yellow-punk-final-direct-clip-on",
+    "frame": 100,
+    "message": null,
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Punk_Frimdrich_Merz.png",
+    "case": "yellow-punk-final-direct-clip-on",
+    "frame": 285,
+    "message": "6073",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Punk_System.png",
+    "case": "yellow-punk-final-direct-clip-on",
+    "frame": 468,
+    "message": "6073",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wario_im_jungen_Kakariko.png",
+    "case": "yellow-wario-final-direct-clip-on",
+    "frame": 100,
+    "message": null,
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wario_Begruessung.png",
+    "case": "yellow-wario-final-direct-clip-on",
+    "frame": 185,
+    "message": "601C",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wario_sorgt_sich_um_Waluigi.png",
+    "case": "yellow-wario-final-direct-clip-on",
+    "frame": 465,
+    "message": "601C",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Yellow_Guy_Nacht.png",
+    "case": "yellow-normal-night-final-direct-clip-on",
+    "frame": 217,
+    "message": "608F",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wario_Nacht.png",
+    "case": "yellow-wario-night-final-direct-clip-on",
+    "frame": 185,
+    "message": "601C",
+    "rom_sha256": "3ccb86e313042254c168bd443f835b40a8095b6531641757d6599c6d94330676",
+    "unedited_emulator_image": true
+  }
+]

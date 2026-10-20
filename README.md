@@ -1,3 +1,13 @@
+# Merzen der Bauer: Yellow Guy und Wario
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Yellow_Guy_Wario.bps?raw=true) · [Echte Spielbilder](Yellow_Guy_Wario_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Yellow_Guy_Wario_Quellen_Patch_Bilder.zip?raw=true)
+
+[Dialoge und Sprechweise](Yellow_Guy_Wario_Dialoge.md) · [Prüfbericht](Yellow_Guy_Wario_Beispielbilder/Pruefbericht.md)
+
+Yellow Guy am jungen Schloßweg, Punk vor Ganons Schloß und Wario ausschließlich im jungen Kakariko. Alle bisherigen Änderungen enthalten. Auf unveränderte Europa/PAL-1.0-ROM anwenden. Zehn Szenenproben mit 4 MiB bestanden; vollständiger Durchlauf und Hardwaretest stehen aus.
+
+![Wario im jungen Kakariko](Yellow_Guy_Wario_Beispielbilder/Wario_Begruessung.png)
+
 # Merzen der Bauer: Wawario-Brüder und Triangle Guys Gesicht
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wawario_Bros.bps?raw=true) · [Echte Spielbilder](Wawario_Bros_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Wawario_Bros_Quellen_Patch_Bilder.zip?raw=true)
