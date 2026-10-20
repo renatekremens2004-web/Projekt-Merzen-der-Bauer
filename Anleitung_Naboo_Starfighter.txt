@@ -1,0 +1,3 @@
+Kumulativer Gesamtpatch: Naboo-Starfighter ersetzt X-Wing, Kakariko-Text angepaßt. Alle bisherigen Änderungen enthalten.
+
+BPS mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Normale Spielstände laden; alte Emulator-Savestates vermeiden. Deutsche Sprachfassung.

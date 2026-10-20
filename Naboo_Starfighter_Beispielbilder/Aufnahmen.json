@@ -1,0 +1,9 @@
+{
+  "rom_sha256": "988d540cb190bf093b1e9e5a1de7ec883107ac75ab52add553b4d8514f388b19",
+  "unaltered_emulator_images": true,
+  "model_frame": 400,
+  "dialogue_frames": {
+    "before": 2,
+    "after": 2
+  }
+}

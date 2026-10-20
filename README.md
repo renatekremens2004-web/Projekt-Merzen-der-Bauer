@@ -1,3 +1,9 @@
+# LEGO Naboo-Starfighter
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Naboo_Starfighter.bps?raw=true) · [Bilder und Prüfung](Naboo_Starfighter_Beispielbilder/) · [Quellen](Merzen_Naboo_Starfighter_Quellen_Patch.zip?raw=true)
+
+Naboo-Starfighter ersetzt den X-Wing im Schattentempel, zugehöriger Kakariko-Text angepaßt. Alle bisherigen Änderungen enthalten. Auf unveränderte Vanilla PAL 1.0 anwenden. Vier gezielte Proben mit 4 MiB, kein vollständiger Durchlauf.
+
 # Kenny und Gleitstiefel
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Kenny_Gleitstiefel.bps?raw=true) · [Bilder und Prüfung](Kenny_Gleitstiefel_Beispielbilder/) · [Quellen](Merzen_Kenny_Gleitstiefel_Quellen_Patch.zip?raw=true)
