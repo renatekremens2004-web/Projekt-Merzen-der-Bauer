@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Fanboy_Vorstellung.png",
+    "logical_frame": 235,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Fanboy_Plan_B.png",
+    "logical_frame": 323,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Chum_Chum_Vorstellung.png",
+    "logical_frame": 242,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Chum_Chum_Bewacht_den_Gang.png",
+    "logical_frame": 379,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Crocker_Blut_und_Totenschaedel.png",
+    "logical_frame": 199,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Crocker_Helfende_Elfen.png",
+    "logical_frame": 310,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Navi_Konter_auf_Crocker.png",
+    "logical_frame": 353,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Okto_Ein_stabiler_Kollege.png",
+    "logical_frame": 341,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Junger_Forscher_Budget.png",
+    "logical_frame": 235,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Junger_Forscher_Sieben_Jahre.png",
+    "logical_frame": 316,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  },
+  {
+    "file": "Erwachsener_Forscher_Papphai.png",
+    "logical_frame": 216,
+    "rom_sha256": "039d0e10dd23ef75d4115df6bc850361bb5ef10b391392f7f00400e9b5324ab7",
+    "unaltered_emulator_png": true
+  }
+]

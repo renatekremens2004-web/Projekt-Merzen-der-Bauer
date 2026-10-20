@@ -1,0 +1,7 @@
+Fanboy, Chum Chum, Crocker und Kampfanpassungen — Gesamtpatch
+
+Mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden. Original-MD5 e040de91a74b61e3201db0e2323f768a. Alle bisherigen Änderungen enthalten. Deutsch einstellen, normale Spielstände verwenden.
+
+Fanboy/Chum Chum: zwei getrennte Seitengänge im Waldtempel. Crocker: Totenschädel-Topfkammer im Schattentempel, Navi kontert als letzte blaue Dialogseite. Okto-Empfehlung beim Besucher in Mr. Beans Haus in Kakariko. Kindlicher Hylia-Forscher mit Budget-/Alters-Spruch. Z und A zum Reden.
+
+Schattenlink hat halbierte HP. Ein gültiger Masterschwerttreffer besiegt normale Gegner; Schilde und Schutzphasen bleiben. Andere Waffen und Boß-Schadensregeln erhalten.

@@ -1,3 +1,13 @@
+# Merzen der Bauer: Fanboy, Chum Chum, Crocker und leichtere Kämpfe
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Fanboy_ChumChum_Crocker_Kampf.bps?raw=true) · [Bilder](Superhelden_Kampf_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Superhelden_Kampf_Quellen_Patch_Bilder.zip?raw=true)
+
+[Neue Dialoge](Superhelden_Dialoge.md) · [Prüfbericht](Superhelden_Kampf_Beispielbilder/Pruefbericht.md)
+
+Drei neue Tempel-NPCs, Crocker mit direktem Navi-Konter, Okto-/Forschertexte, halbe Schattenlink-HP und Masterschwert-Onehits bei gültigen Treffern gegen normale Gegner. Alle bisherigen Änderungen enthalten. Auf die unveränderte Europa/PAL-1.0-ROM anwenden.
+
+![Crocker und Navi](Superhelden_Kampf_Beispielbilder/Navi_Konter_auf_Crocker.png)
+
 # Merzen der Bauer: Pepsiman im Wassertempel
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Pepsiman_Wassertempel.bps?raw=true) · [Bilder](Pepsiman_Wassertempel_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Pepsiman_Wassertempel_Quellen_Patch_Bilder.zip?raw=true)
