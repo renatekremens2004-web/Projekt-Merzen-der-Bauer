@@ -1,3 +1,11 @@
+# Merzen der Bauer: Punk-Arme v3
+
+[Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Yellow_Guy_Arme_v3.bps?raw=true) · [Neue Ingame-Bilder](Yellow_Guy_Arme_v3_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Yellow_Guy_Arme_v3_Quellen_Patch_Bilder.zip?raw=true)
+
+Arme und blaue Jacke korrigiert; Selbstvorstellung bleibt entfernt. Alle bisherigen Änderungen enthalten. Auf unveränderte Europa/PAL-1.0-ROM anwenden. Zwei gezielte Szenenproben mit 4 MiB bestanden.
+
+![Punk-Outfit](Yellow_Guy_Arme_v3_Beispielbilder/Punk_Outfit_Ganzkoerper.png)
+
 # Merzen der Bauer: Yellow Guy Outfit v2
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Yellow_Guy_Outfit_v2.bps?raw=true) · [Neue Ingame-Bilder](Yellow_Guy_Outfit_v2_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Yellow_Guy_Outfit_v2_Quellen_Patch_Bilder.zip?raw=true)

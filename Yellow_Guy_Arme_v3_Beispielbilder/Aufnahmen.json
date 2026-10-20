@@ -1,0 +1,23 @@
+[
+  {
+    "file": "Punk_Outfit_Ganzkoerper.png",
+    "case": "yellow-punk-wide-arms-release-direct-clip-on",
+    "frame": 100,
+    "rom_sha256": "d47361adcee8709b8dd2a1a4ce794a8dcc9808e2946a0fabd09883219bb4e7a4",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Punk_Outfit_Gespraech.png",
+    "case": "yellow-punk-arms-release-direct-clip-on",
+    "frame": 206,
+    "rom_sha256": "d47361adcee8709b8dd2a1a4ce794a8dcc9808e2946a0fabd09883219bb4e7a4",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Punk_System.png",
+    "case": "yellow-punk-arms-release-direct-clip-on",
+    "frame": 468,
+    "rom_sha256": "d47361adcee8709b8dd2a1a4ce794a8dcc9808e2946a0fabd09883219bb4e7a4",
+    "unedited_emulator_image": true
+  }
+]
