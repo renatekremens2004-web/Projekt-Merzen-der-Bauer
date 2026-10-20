@@ -1,0 +1,7 @@
+Kleinere Figuren und angepaßter Schultersitz — kumulativer Gesamtpatch
+
+Auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden, nicht auf eine alte Mod-ROM. Original-MD5 e040de91a74b61e3201db0e2323f768a. https://www.marcrobledo.com/RomPatcher.js/
+
+Alle bisherigen Änderungen enthalten. Blauer Wawaluigi beim Gerudo-Zelt 20 Prozent kleiner. Zukunfts-Wallace rund 18 Prozent kleiner; Sitz der Krabbelminenfrau in den Credits angepaßt. Triangle Guy erhält zusätzlich den Triforce-des-Mutes-Dialog mit Deinem Spielernamen. Beide Videos sind echte Emulatoraufnahmen ohne Ton mit 4 MiB N64-RAM.
+
+Normale Spielstände laden; alte Emulator-Save-States enthalten unter Umständen noch den früheren Modellstand im RAM.

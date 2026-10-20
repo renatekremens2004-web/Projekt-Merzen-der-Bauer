@@ -1,3 +1,11 @@
+# Merzen der Bauer: kleinere Figuren und neuer Schultersitz
+
+[Aktueller Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Wallace_Wawaluigi_Groessen.bps?raw=true) · [Wallaces Befreiung als MP4](Wallace_Kleiner_Befreiung.mp4?raw=true) · [Weisen-Credits als MP4](Wallace_Kleiner_Weise_Credits.mp4?raw=true)
+
+[Quellen und Prüfungen](Merzen_Wallace_Wawaluigi_Groessen_Quellen_Patch_Videos.zip?raw=true) · [Bilder](Wallace_Wawaluigi_Groessen_Bilder.zip?raw=true) · [Prüfbericht](Wallace_Wawaluigi_Groessen_Beispielbilder/Pruefbericht.md)
+
+Blauer Wawaluigi 125 → 100, Zukunfts-Wallace 110 → 90 Spieleinheiten. Schultersitz der Krabbelminenfrau angepaßt. Triangle Guy: neuer Triforce-des-Mutes-Text mit Spielernamen. Alle bisherigen Änderungen enthalten; auf unveränderte Europa/PAL-1.0-ROM anwenden. Videos mit 4 MiB aufgenommen, ohne Ton.
+
 # Merzen der Bauer: Punk-Arme v3
 
 [Aktueller BPS-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Yellow_Guy_Arme_v3.bps?raw=true) · [Neue Ingame-Bilder](Yellow_Guy_Arme_v3_Bilder.zip?raw=true) · [Quellen und Prüfungen](Merzen_Yellow_Guy_Arme_v3_Quellen_Patch_Bilder.zip?raw=true)

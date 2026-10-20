@@ -1,0 +1,36 @@
+[
+  {
+    "file": "Weisen_Gruppe_neuer_Sitz.png",
+    "case": "sizes-credits-v2-record-direct-clip-on",
+    "frame": 495,
+    "rom_sha256": "d62d4b484265ce46806fb784e77eae31634049b03d7066762c0563684207320e",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Schultersitz_Seitenansicht.png",
+    "case": "sizes-credits-v2-record-direct-clip-on",
+    "frame": 695,
+    "rom_sha256": "d62d4b484265ce46806fb784e77eae31634049b03d7066762c0563684207320e",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wallace_Zelle_Groessenvergleich.png",
+    "case": "sizes-wallace-free-native-v6-record-direct-clip-on",
+    "frame": 894,
+    "rom_sha256": "d62d4b484265ce46806fb784e77eae31634049b03d7066762c0563684207320e",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wallace_Flucht.png",
+    "case": "sizes-wallace-free-native-v6-record-direct-clip-on",
+    "frame": 1630,
+    "rom_sha256": "d62d4b484265ce46806fb784e77eae31634049b03d7066762c0563684207320e",
+    "unedited_emulator_image": true
+  },
+  {
+    "file": "Wawaluigi_Kleiner.png",
+    "case": "sizes-blue-v2-direct-clip-on",
+    "rom_sha256": "d62d4b484265ce46806fb784e77eae31634049b03d7066762c0563684207320e",
+    "unedited_emulator_image": true
+  }
+]
