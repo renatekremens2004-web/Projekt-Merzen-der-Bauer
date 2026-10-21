@@ -1,6 +1,6 @@
 {
-  "source_sha256": "0d335d01202fc9bc96f37533df0d58b117266d21447aed9d3624228206bf48bc",
-  "rom_reference_sha256": "0ba8d356b91f9c495f0d22f53cfbea0c60870fa6ff558e0e5423c0fcab9a5d6d",
+  "source_sha256": "a6dc35c8ad9432217a9318f91caca6dbc0cf4d94693ecfb98a7ead899e65e4e8",
+  "rom_reference_sha256": "f5b13333e98c6ce571b43fda407efa181fc1b4112c5998f67143c28cf5d32cbc",
   "stop_before": "704E",
   "total_messages": 185,
   "main_messages": 124,
@@ -14,8 +14,8 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Bruder! Du hast die Dodongos\nbezwungen. Unser Volk kann wieder\nan seine Nahrung!",
-        "Merz versprach Wohlstand und\nhinterließ einen Einsturz. Du kamst\nohne Wahlplakat und hast uns\ngeholfen."
+        "Bruder, Du hast es geschafft! Du\nhast die Dodongos und das ganze\nandere Gesindel darin bezwungen.",
+        "Merz hat uns Wohlstand versprochen,\nund dann ging hier alles nach hinten\nlos. Wir hätten ihm nicht vertrauen\nsollen."
       ],
       "controls": [],
       "notes": "",
@@ -25,14 +25,13 @@
       "id": "3048",
       "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Welch aufregendes Abenteuer...\nEs liefert Stoff für eine \nLegende...",
-        "Noch immer kann ich nicht \nglauben, daß die Dodongos, die wir \nfür ausgestorben hielten, in so\ngroßer Anzahl zurückkehrten...",
-        "Und der Fels, der den Eingang \nder Höhle versperrte...",
-        "Für all dies war Ganondorf,\nder Gerudokönig, verantwortlich.",
-        "Er sprach: \n\"Gebt mir den Heiligen Stein und\nich werde eure Höhle wieder \nöffnen!\"",
-        "Du hast Dein Leben für uns \nriskiert..."
+        "Dieses Abenteuer bietet Stoff für\neine Legende. Ich nenne sie: Die\nLegende von [Spielername]!",
+        "Ich bin immer noch völlig fassungslos.\nHätten wir Merz weiter vertraut,\nwären schlimme Dinge passiert.",
+        "Angeblich ging es ihm um Kohleabbau.\nAber ich weiß, daß es ihm um viel,\nviel mehr als nur Kohle ging."
       ],
       "controls": [],
       "notes": "Native kurze Zwischenzeile der Darunia-Szene; bislang Originaltext.",
@@ -46,9 +45,8 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Ich mag Dich, Kleiner!",
-        "Du und ich sollten Blutsbrüder\nwerden. Freundschaft hält hoffentlich\nlänger als ein Bergbauversprechen.",
-        "Nimm den Goronen-Opal als Zeichen\nunserer Freundschaft. Den hast Du\nDir verdient!"
+        "Du bist absolut korrekt, Kleiner.\nDeswegen ernenne ich Dich hiermit\nzum Ehren-Goronen.",
+        "Und jetzt nimm den Goronen-Opal.\nAber bitte verlier ihn nicht."
       ],
       "controls": [],
       "notes": "",
@@ -58,9 +56,12 @@
       "id": "0081",
       "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Der Goronen-Opal!\nVon den Goronen wurde Dir\ndieser Heilige Stein\ndes Feuers übergeben!"
+        "Der Goronen-Opal!\nVon den Goronen wurde Dir\ndieser Heilige Stein\ndes Feuers übergeben!",
+        "Verlier ihn bloß nicht!"
       ],
       "controls": [
         "ITEM_ICON(ITEM_GORON_RUBY)"
@@ -76,7 +77,8 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Nun sind wir Blutsbrüder. Zwei Heilige\nSteine hast Du. Suche den dritten!\nUnd laß Dir von Merz keinen Schotter\nals Juwel verkaufen."
+        "Nun sind wir Blutsbrüder. Zwei Heilige\nSteine hast Du, und den dritten\nbekommst Du von...",
+        "Oh, ja. Dann mußt Du wohl mit König\nZora reden. Ich kann den Typen nicht\nleiden."
       ],
       "controls": [],
       "notes": "",
@@ -90,7 +92,7 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Alle drei Heiligen Steine! Suche Zelda\nauf. Wenn Merz sie bekommt, erklärt\ner das Triforce noch zum\nInvestitionsobjekt."
+        "Wie hast Du es geschafft, jetzt\nschon diesen Stein als dritten Stein\nzu bekommen? Das ist Sequence\nBreaking!"
       ],
       "controls": [],
       "notes": "Alternative nach dem Goronen-Opal, falls dieser ausnahmsweise der dritte Heilige Stein ist. Im normalen Verlauf zeigt die Szene 3000.",
@@ -104,8 +106,9 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Bruder, denke daran, Deine Kräfte zu\nstärken. Du mußt nicht die ganze\nWelt allein schleppen.",
-        "Auf dem Gipfel des Todesberges lebt\neine Fee. Sie kann Dir helfen.",
+        "Ich kann Dich übrigens noch an eine\nFreundin von mir verweisen.",
+        "Sie hat vielleicht ein sehr schrilles\nAuftreten und ist sehr dezent\nbekleidet, aber sie hat mich bisher\nnoch nie im Stich gelassen. Sie lebt",
+        "auf dem Gipfel des Todesbergs.",
         "Freunde! Verabschiedet unseren\nBruder VORSICHTIG. Er ist ein Kind.\nIhr brecht ihm sonst noch die\nKnochen!"
       ],
       "controls": [],
@@ -181,8 +184,7 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Komm wieder und spiel uns etwas\nvor, Bruder! Ein Konzert ist mir\nlieber als Merz' nächste\nGrundsatzrede.",
-        "Ich bin übrigens der einzige Gorone\nhier, der Chef ist. Das ist doch wohl\nein Alleinstellungsmerkmal!"
+        "Hier ging es um weit mehr als nur\nKohle. Merz war auch an radioaktivem\nMaterial interessiert. Sei vorsichtig."
       ],
       "controls": [],
       "notes": "",
@@ -196,7 +198,7 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Alle Goronen essen Steine? Schon.\nAber nicht alle essen sie mit meiner\nFührungsverantwortung!"
+        "Dieser Merz führt etwas Böses im\nSchilde."
       ],
       "controls": [],
       "notes": "",
@@ -210,8 +212,7 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Wenn ich am Strand schwimmen\ngehe, sterbe ich.",
-        "Deshalb bleibe ich auf dem Berg. Auf\ndem Gipfel lebt übrigens eine Fee.\nDie solltest Du besuchen."
+        "Wenn ich am Strand schwimmen\ngehe, sterbe ich."
       ],
       "controls": [],
       "notes": "",
@@ -225,8 +226,8 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Die Fee auf dem Gipfel hilft Dir\nbestimmt. Nimm einen großen Schild\ngegen die herabfallenden Brocken mit.",
-        "Ich bleibe hier. Ein Berg wirft\nmanchmal Steine auf mich. Das Meer\nwürde mich ganz behalten."
+        "Die Fee auf dem Gipfel hilft Dir\nbestimmt. Paß nur auf, der ganze\nBerg ist eine Todesfalle.",
+        "Macht ja auch Sinn. Das Ding heißt\nja auch Todesberg oder Todesgipfel\noder so was."
       ],
       "controls": [],
       "notes": "",
@@ -236,11 +237,14 @@
       "id": "00D7",
       "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Hallo mein süßer [Spielername]!\nIch bin die Fee der Fähigkeiten!",
-        "Ich verleihe Dir mit meiner Macht\neine neue Schwert-Technik!",
-        "Sei bereit!"
+        "Ah, [Spielername], ich sehe, mein\nbester Kunde Darunia schickt Dich.",
+        "Mit Kunde meine ich, daß ich\nAufträge von ihm annehme. Ich bin\nnämlich Video-Editor. Nicht das, was\nDu gedacht hast. Prostitution ist",
+        "scheiße.",
+        "Ich verleihe Dir mit meiner Macht\neine neue Schwert-Technik. Sei\nbereit!"
       ],
       "controls": [],
       "notes": "",
@@ -250,11 +254,14 @@
       "id": "00DD",
       "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
         "Du beherrschst die kraftvolle\nWirbelattacke!",
         "Halte [B] gedrückt, um Dein\nSchwert aufzuladen. Laß [B]\nlos, um einen energiegeladenen\nRundumschlag auszuführen!",
-        "Bewegst Du [Control-Pad] einmal im Kreis\nund drückst dann [B], kannst Du\ndie Wirbelattacke sofort und ohne\nWartezeit ausführen."
+        "Bewegst Du [Control-Pad] einmal im Kreis\nund drückst dann [B], kannst Du\ndie Wirbelattacke sofort und ohne\nWartezeit ausführen.",
+        "Yo, rastet nicht zu sehr aus, bitte."
       ],
       "controls": [],
       "notes": "",
@@ -264,9 +271,11 @@
       "id": "00DB",
       "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Hallo mein süßer [Spielername]!\nIch werde Deine Wunden heilen."
+        "[Spielername], Du siehst ja schon\nwieder komplett dreckig aus. Keine\nSorge, ich kann meine Magie\nbenutzen."
       ],
       "controls": [
         "EVENT"
@@ -278,9 +287,11 @@
       "id": "00DA",
       "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Wenn Du vom Kampf erschöpft\nbist, kannst Du mich jederzeit\nwieder besuchen!"
+        "Paß auf, Du hast nur ein Leben.\nSchmeiß das bitte nicht weg."
       ],
       "controls": [
         "EVENT"
@@ -331,11 +342,11 @@
       ],
       "pages": [
         "Wir waren schon wieder in einem\nMund! Dodongos Höhle lag in einem\nriesigen Gerippe.",
-        "Und kurz vor dem Boß mußten wir\nauch noch durch einen gewaltigen\nDodongo-Schädel. Also Mund im\nMund!",
-        "Erst der Deku-Baum, jetzt das. Ich\nmöchte unser nächstes Reiseziel bitte\nvon außen kennenlernen."
+        "Und kurz vor dem Boß mußten wir\nauch noch durch einen gewaltigen\nDodongo-Schädel.",
+        "So, Goronia wäre damit auch\nabgehakt. Lief doch bis jetzt ganz\ngut, oder? Können wir jetzt\naufhören?"
       ],
       "controls": [],
-      "notes": "Natürlicher Navi-Storyruf nach dem Goronen-Opal. Er übersteuert in der deutschen Fassung die normalen Hinweise 0148/0149.",
+      "notes": "Natürlicher Navi-Storyruf nach dem Goronen-Opal. Er übersteuert in Deutsch 0148/0149. V10: bisherigen Höhlen-Rückblick behalten, nur Mund-im-Mund gestrichen; der neue Goronia-abgehakt-Satz folgt am Ende.",
       "locations": []
     },
     {
@@ -346,10 +357,10 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Wir retten Goronia, und die erste\nEmpfehlung ist noch mehr Leistung.\nImmerhin hilft die Fee auf dem Gipfel\ntatsächlich."
+        "So, Goronia wäre damit auch\nabgehakt. Lief doch bis jetzt ganz\ngut, oder? Können wir jetzt\naufhören?"
       ],
       "controls": [],
-      "notes": "Grundzustand im Hinweisskript. Nach dem Opal wird stattdessen 0135 angeboten; dieser gespeicherte Text ist deshalb nicht einfach der nächste hörbare Satz.",
+      "notes": "Gespeicherter Grundzustand. Neuer Goronia-abgehakt-Wortlaut; derselbe Satz steht auch in der tatsächlich angebotenen 0135. Keine neue oder doppelte automatische Ansprache.",
       "locations": []
     },
     {
@@ -360,20 +371,23 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Salia weiß vielleicht etwas über den\nletzten Heiligen Stein. Mir ist jemand\nmit Walderfahrung lieber als noch ein\nBergbauunternehmer."
+        "Salia hat uns mit dieser Blutmagie\necht geholfen. Was sie wohl noch\nalles weiß?",
+        "Laß sie aber nur im zwingenden\nNotfall besuchen. Ich hab keinen Bock,\nda jetzt hinzulatschen."
       ],
       "controls": [],
-      "notes": "Wie 0148: Nach dem Opal in Deutsch durch 0135 ersetzt.",
+      "notes": "Neuer Blutmagie-/Salia-Besuch-Spruch, aber weiterhin gespeicherter Grundzustand: nach dem Opal in Deutsch durch 0135 ersetzt. Wird dort nicht zusätzlich angehängt.",
       "locations": []
     },
     {
       "id": "0162",
       "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Ich habe mich sehr gefreut, daß\nDarunia mein Lied gefallen hat!",
-        "Noch schöner finde ich, daß es\nDir bei Deiner Mission geholfen\nhat, [Spielername]!"
+        "Ja, es gibt in Hyrule sehr wenig\nLeute mit dieser Blutgruppe. Wer\nhätte gedacht, daß gerade Darunia die\nhat?",
+        "Haben Goronen überhaupt Blut? Hast\nDu jemals einen Goronen bluten\nsehen, [Spielername]? Ich schon."
       ],
       "controls": [
         "EVENT"
@@ -385,10 +399,12 @@
       "id": "0163",
       "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Sammelst Du die Heiligen Steine?\nDu mußt noch einen finden? Den\nHeiligen Stein des Wassers, oder?",
-        "Der Deku-Baum erzählte mir einst,\ndaß ihn König Zora besitzt..."
+        "Okay, jetzt fehlt ja nur noch ein\nStein. Das ist schon mal echt ganz\ngut, also super.",
+        "Nur blöderweise mußt Du jetzt diesen\nnervigen Zora-König kennenlernen.\nAlso, ja. Sagen wir mal so."
       ],
       "controls": [
         "EVENT"
@@ -400,10 +416,11 @@
       "id": "0164",
       "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "goronia_nachspiel_neu_de.json"
+      ],
       "pages": [
-        "Sammelst Du die Heiligen Steine?\nDu mußt noch einen finden? Den\nHeiligen Stein des Feuers, oder?",
-        "Der Deku-Baum erzählte mir einst,\ndaß ihn Darunia, der Gebieter über\nGoronia, besitzt..."
+        "Jetzt kommt der Heilige Stein des\nFeuers. Das hat mir der Deku-Baum\nletzte Woche erzählt."
       ],
       "controls": [
         "EVENT"

@@ -1,3 +1,9 @@
+# Goronen-Nachspiel V10
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Goronen_Nachspiel_V10.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Goronen_Nachspiel_V10.bps?raw=true) · [Eingebaute neue Texte](Goronen_Nachspiel_V10_Texte.md) · [Prüfung](Goronen_Nachspiel_V10_Aenderungen.md) · [Quellen](Merzen_Goronen_Nachspiel_V10_Quellen_Patch.zip?raw=true)
+
+21 neue Dialogtexte nach Dodongo, bei der Fee und in Navi-/Salia-Kommentaren. 3027 und die Eule bleiben erhalten. Alle bisherigen Inhalte enthalten. Gesamtpatch jeweils auf unveränderte Vanilla PAL 1.0 anwenden. Die vollständigen Arbeitslisten Kapitel 1–2 sind ebenfalls aktualisiert.
+
 # Dialogliste: nach Dodongo bis zum Master-Schwert
 
 [Dialoge lesen](Storydialoge_Dodongo_bis_Masterschwert.md) · [Textdatei](Storydialoge_Dodongo_bis_Masterschwert.txt?raw=true) · [Download als ZIP](Storydialoge_Dodongo_bis_Masterschwert.zip?raw=true)

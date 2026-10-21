@@ -1,8 +1,8 @@
 # Storydialoge Kapitel 1–2 – Hauptstrang bis vor die Zoras
 
-Stand: 21. Oktober 2026, Goronen-Dialoge V9 (aktuell gebauter deutscher PAL-1.0-Stand).
+Stand: 21. Oktober 2026, Goronen-Nachspiel V10 (aktuell gebauter deutscher PAL-1.0-Stand).
 
-Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-, Schloß-, Wald- und Goronen-Änderungen bis V9.
+Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-, Schloß-, Wald- und Goronen-Änderungen bis V10.
 
 Geltungsbereich: Kind-Link vom Intro über Deku-Baum, erste Zelda-Begegnung, Kakariko, Salias Lied, Goronia und Dodongos Höhle bis zum Übergang zu den Zoras. Die Farm und andere frei erreichbare Nebenhandlungen können in unterschiedlicher Reihenfolge besucht werden.
 
@@ -3331,16 +3331,16 @@ Projekttext.
 
 **Seite 1**
 
-> Bruder! Du hast die Dodongos
-> bezwungen. Unser Volk kann wieder
-> an seine Nahrung!
+> Bruder, Du hast es geschafft! Du
+> hast die Dodongos und das ganze
+> andere Gesindel darin bezwungen.
 
 **Seite 2**
 
-> Merz versprach Wohlstand und
-> hinterließ einen Einsturz. Du kamst
-> ohne Wahlplakat und hast uns
-> geholfen.
+> Merz hat uns Wohlstand versprochen,
+> und dann ging hier alles nach hinten
+> los. Wir hätten ihm nicht vertrauen
+> sollen.
 
 ### 3004
 
@@ -3348,19 +3348,14 @@ Projekttext.
 
 **Seite 1**
 
-> Ich mag Dich, Kleiner!
+> Du bist absolut korrekt, Kleiner.
+> Deswegen ernenne ich Dich hiermit
+> zum Ehren-Goronen.
 
 **Seite 2**
 
-> Du und ich sollten Blutsbrüder
-> werden. Freundschaft hält hoffentlich
-> länger als ein Bergbauversprechen.
-
-**Seite 3**
-
-> Nimm den Goronen-Opal als Zeichen
-> unserer Freundschaft. Den hast Du
-> Dir verdient!
+> Und jetzt nimm den Goronen-Opal.
+> Aber bitte verlier ihn nicht.
 
 ### 3000
 
@@ -3369,9 +3364,14 @@ Projekttext.
 **Seite 1**
 
 > Nun sind wir Blutsbrüder. Zwei Heilige
-> Steine hast Du. Suche den dritten!
-> Und laß Dir von Merz keinen Schotter
-> als Juwel verkaufen.
+> Steine hast Du, und den dritten
+> bekommst Du von...
+
+**Seite 2**
+
+> Oh, ja. Dann mußt Du wohl mit König
+> Zora reden. Ich kann den Typen nicht
+> leiden.
 
 ### 3068
 
@@ -3379,16 +3379,21 @@ Projekttext.
 
 **Seite 1**
 
-> Bruder, denke daran, Deine Kräfte zu
-> stärken. Du mußt nicht die ganze
-> Welt allein schleppen.
+> Ich kann Dich übrigens noch an eine
+> Freundin von mir verweisen.
 
 **Seite 2**
 
-> Auf dem Gipfel des Todesberges lebt
-> eine Fee. Sie kann Dir helfen.
+> Sie hat vielleicht ein sehr schrilles
+> Auftreten und ist sehr dezent
+> bekleidet, aber sie hat mich bisher
+> noch nie im Stich gelassen. Sie lebt
 
 **Seite 3**
+
+> auf dem Gipfel des Todesbergs.
+
+**Seite 4**
 
 > Freunde! Verabschiedet unseren
 > Bruder VORSICHTIG. Er ist ein Kind.
@@ -3443,16 +3448,9 @@ Projekttext.
 
 **Seite 1**
 
-> Komm wieder und spiel uns etwas
-> vor, Bruder! Ein Konzert ist mir
-> lieber als Merz' nächste
-> Grundsatzrede.
-
-**Seite 2**
-
-> Ich bin übrigens der einzige Gorone
-> hier, der Chef ist. Das ist doch wohl
-> ein Alleinstellungsmerkmal!
+> Hier ging es um weit mehr als nur
+> Kohle. Merz war auch an radioaktivem
+> Material interessiert. Sei vorsichtig.
 
 ### 301F
 
@@ -3460,9 +3458,8 @@ Projekttext.
 
 **Seite 1**
 
-> Alle Goronen essen Steine? Schon.
-> Aber nicht alle essen sie mit meiner
-> Führungsverantwortung!
+> Dieser Merz führt etwas Böses im
+> Schilde.
 
 ## 2.12 Todesberg-Gipfel – Große Fee und Eule
 
@@ -3475,12 +3472,6 @@ Projekttext.
 > Wenn ich am Strand schwimmen
 > gehe, sterbe ich.
 
-**Seite 2**
-
-> Deshalb bleibe ich auf dem Berg. Auf
-> dem Gipfel lebt übrigens eine Fee.
-> Die solltest Du besuchen.
-
 ### 3065
 
 Projekttext.
@@ -3488,36 +3479,44 @@ Projekttext.
 **Seite 1**
 
 > Die Fee auf dem Gipfel hilft Dir
-> bestimmt. Nimm einen großen Schild
-> gegen die herabfallenden Brocken mit.
+> bestimmt. Paß nur auf, der ganze
+> Berg ist eine Todesfalle.
 
 **Seite 2**
 
-> Ich bleibe hier. Ein Berg wirft
-> manchmal Steine auf mich. Das Meer
-> würde mich ganz behalten.
+> Macht ja auch Sinn. Das Ding heißt
+> ja auch Todesberg oder Todesgipfel
+> oder so was.
 
 ### 00D7
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Hallo mein süßer [Spielername]!
-> Ich bin die Fee der Fähigkeiten!
+> Ah, [Spielername], ich sehe, mein
+> bester Kunde Darunia schickt Dich.
 
 **Seite 2**
 
-> Ich verleihe Dir mit meiner Macht
-> eine neue Schwert-Technik!
+> Mit Kunde meine ich, daß ich
+> Aufträge von ihm annehme. Ich bin
+> nämlich Video-Editor. Nicht das, was
+> Du gedacht hast. Prostitution ist
 
 **Seite 3**
 
-> Sei bereit!
+> scheiße.
+
+**Seite 4**
+
+> Ich verleihe Dir mit meiner Macht
+> eine neue Schwert-Technik. Sei
+> bereit!
 
 ### 00DD
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
@@ -3538,26 +3537,31 @@ Ohne Kapitel-Ersatz.
 > die Wirbelattacke sofort und ohne
 > Wartezeit ausführen.
 
+**Seite 4**
+
+> Yo, rastet nicht zu sehr aus, bitte.
+
 ### 00DB
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 Heilung bei erneutem Besuch der Großen Fee; kein zusätzlicher Satz jeder ersten Begegnung.
 
 **Seite 1**
 
-> Hallo mein süßer [Spielername]!
-> Ich werde Deine Wunden heilen.
+> [Spielername], Du siehst ja schon
+> wieder komplett dreckig aus. Keine
+> Sorge, ich kann meine Magie
+> benutzen.
 
 ### 00DA
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 Allgemeine Große-Fee-Abschiedsnachricht; gemeinsam benutzter Text.
 
 **Seite 1**
 
-> Wenn Du vom Kampf erschöpft
-> bist, kannst Du mich jederzeit
-> wieder besuchen!
+> Paß auf, Du hast nur ein Leben.
+> Schmeiß das bitte nicht weg.
 
 ### 3062
 
@@ -3714,15 +3718,15 @@ Grundzustand im Hinweisskript; in der deutschen Fassung nach dem Opal durch 0135
 
 **Seite 1**
 
-> Wir retten Goronia, und die erste
-> Empfehlung ist noch mehr Leistung.
-> Immerhin hilft die Fee auf dem Gipfel
-> tatsächlich.
+> So, Goronia wäre damit auch
+> abgehakt. Lief doch bis jetzt ganz
+> gut, oder? Können wir jetzt
+> aufhören?
 
 ### 0135
 
 Projekttext.
-Nur als Kind nach Erhalt des Goronen-Opals; ersetzt in dieser Phase die normalen Hinweise 0148/0149.
+Nur als Kind nach Erhalt des Goronen-Opals; ersetzt in dieser Phase 0148/0149. V10: Höhlen-Rückblick ohne den gestrichenen Mund-im-Mund-Satz, danach der neue Goronia-abgehakt-Kommentar.
 
 **Seite 1**
 
@@ -3734,14 +3738,14 @@ Nur als Kind nach Erhalt des Goronen-Opals; ersetzt in dieser Phase die normalen
 
 > Und kurz vor dem Boß mußten wir
 > auch noch durch einen gewaltigen
-> Dodongo-Schädel. Also Mund im
-> Mund!
+> Dodongo-Schädel.
 
 **Seite 3**
 
-> Erst der Deku-Baum, jetzt das. Ich
-> möchte unser nächstes Reiseziel bitte
-> von außen kennenlernen.
+> So, Goronia wäre damit auch
+> abgehakt. Lief doch bis jetzt ganz
+> gut, oder? Können wir jetzt
+> aufhören?
 
 ### 0149
 
@@ -3750,10 +3754,15 @@ Grundzustand im Hinweisskript; direkt nach dem Opal ebenfalls durch 0135 überst
 
 **Seite 1**
 
-> Salia weiß vielleicht etwas über den
-> letzten Heiligen Stein. Mir ist jemand
-> mit Walderfahrung lieber als noch ein
-> Bergbauunternehmer.
+> Salia hat uns mit dieser Blutmagie
+> echt geholfen. Was sie wohl noch
+> alles weiß?
+
+**Seite 2**
+
+> Laß sie aber nur im zwingenden
+> Notfall besuchen. Ich hab keinen Bock,
+> da jetzt hinzulatschen.
 
 ## 2.14 Salia über ihr Lied rufen – frühe Zustände
 
@@ -3830,48 +3839,45 @@ Ohne Kapitel-Ersatz.
 
 ### 0164
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Sammelst Du die Heiligen Steine?
-> Du mußt noch einen finden? Den
-> Heiligen Stein des Feuers, oder?
-
-**Seite 2**
-
-> Der Deku-Baum erzählte mir einst,
-> daß ihn Darunia, der Gebieter über
-> Goronia, besitzt...
+> Jetzt kommt der Heilige Stein des
+> Feuers. Das hat mir der Deku-Baum
+> letzte Woche erzählt.
 
 ### 0162
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Ich habe mich sehr gefreut, daß
-> Darunia mein Lied gefallen hat!
+> Ja, es gibt in Hyrule sehr wenig
+> Leute mit dieser Blutgruppe. Wer
+> hätte gedacht, daß gerade Darunia die
+> hat?
 
 **Seite 2**
 
-> Noch schöner finde ich, daß es
-> Dir bei Deiner Mission geholfen
-> hat, [Spielername]!
+> Haben Goronen überhaupt Blut? Hast
+> Du jemals einen Goronen bluten
+> sehen, [Spielername]? Ich schon.
 
 ### 0163
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 Übergangshinweis zum noch fehlenden Wasserstein; Zora-Kapitel selbst beginnt erst danach.
 
 **Seite 1**
 
-> Sammelst Du die Heiligen Steine?
-> Du mußt noch einen finden? Den
-> Heiligen Stein des Wassers, oder?
+> Okay, jetzt fehlt ja nur noch ein
+> Stein. Das ist schon mal echt ganz
+> gut, also super.
 
 **Seite 2**
 
-> Der Deku-Baum erzählte mir einst,
-> daß ihn König Zora besitzt...
+> Nur blöderweise mußt Du jetzt diesen
+> nervigen Zora-König kennenlernen.
+> Also, ja. Sagen wir mal so.
 
