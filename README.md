@@ -1,3 +1,9 @@
+# Charakterbewegung V4: Triangle Guy lebt auf
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Charakterbewegung_V4.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Charakterbewegung_V4.bps?raw=true) · [Video](Triangle_Guy_Bewegung.mp4?raw=true) · [Änderungen/Prüfung](Charakterbewegung_V4_Aenderungen.md) · [Quellen](Merzen_Charakterbewegung_V4_Quellen_Patch.zip?raw=true)
+
+Neue Figuren auf Bewegung geprüft; Triangle Guy erhält entspannte Arme, Ruhebewegung und Gesprächsgeste. Vorhandene Animationen beibehalten. Kumulativer Gesamtpatch, je auf Vanilla PAL 1.0 anwenden.
+
 # Running Man V3: Vor-Rettungsdialog ergänzt
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Running_Man_V3.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Running_Man_V3.bps?raw=true) · [Änderungen/Prüfung](Running_Man_V3_Aenderungen.md) · [Quellen](Merzen_Running_Man_V3_Quellen_Patch.zip?raw=true)
