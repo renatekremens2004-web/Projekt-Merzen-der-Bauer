@@ -1,0 +1,2847 @@
+{
+  "source_sha256": "0d335d01202fc9bc96f37533df0d58b117266d21447aed9d3624228206bf48bc",
+  "rom_reference_sha256": "0ba8d356b91f9c495f0d22f53cfbea0c60870fa6ff558e0e5423c0fcab9a5d6d",
+  "stop_before": "704E",
+  "total_messages": 185,
+  "main_messages": 124,
+  "optional_messages": 61,
+  "messages": [
+    {
+      "id": "3023",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Bruder! Du hast die Dodongos\nbezwungen. Unser Volk kann wieder\nan seine Nahrung!",
+        "Merz versprach Wohlstand und\nhinterließ einen Einsturz. Du kamst\nohne Wahlplakat und hast uns\ngeholfen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3048",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Welch aufregendes Abenteuer...\nEs liefert Stoff für eine \nLegende...",
+        "Noch immer kann ich nicht \nglauben, daß die Dodongos, die wir \nfür ausgestorben hielten, in so\ngroßer Anzahl zurückkehrten...",
+        "Und der Fels, der den Eingang \nder Höhle versperrte...",
+        "Für all dies war Ganondorf,\nder Gerudokönig, verantwortlich.",
+        "Er sprach: \n\"Gebt mir den Heiligen Stein und\nich werde eure Höhle wieder \nöffnen!\"",
+        "Du hast Dein Leben für uns \nriskiert..."
+      ],
+      "controls": [],
+      "notes": "Native kurze Zwischenzeile der Darunia-Szene; bislang Originaltext.",
+      "locations": []
+    },
+    {
+      "id": "3004",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Ich mag Dich, Kleiner!",
+        "Du und ich sollten Blutsbrüder\nwerden. Freundschaft hält hoffentlich\nlänger als ein Bergbauversprechen.",
+        "Nimm den Goronen-Opal als Zeichen\nunserer Freundschaft. Den hast Du\nDir verdient!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0081",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Der Goronen-Opal!\nVon den Goronen wurde Dir\ndieser Heilige Stein\ndes Feuers übergeben!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_GORON_RUBY)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3000",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Nun sind wir Blutsbrüder. Zwei Heilige\nSteine hast Du. Suche den dritten!\nUnd laß Dir von Merz keinen Schotter\nals Juwel verkaufen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3001",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Alle drei Heiligen Steine! Suche Zelda\nauf. Wenn Merz sie bekommt, erklärt\ner das Triforce noch zum\nInvestitionsobjekt."
+      ],
+      "controls": [],
+      "notes": "Alternative nach dem Goronen-Opal, falls dieser ausnahmsweise der dritte Heilige Stein ist. Im normalen Verlauf zeigt die Szene 3000.",
+      "locations": []
+    },
+    {
+      "id": "3068",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Bruder, denke daran, Deine Kräfte zu\nstärken. Du mußt nicht die ganze\nWelt allein schleppen.",
+        "Auf dem Gipfel des Todesberges lebt\neine Fee. Sie kann Dir helfen.",
+        "Freunde! Verabschiedet unseren\nBruder VORSICHTIG. Er ist ein Kind.\nIhr brecht ihm sonst noch die\nKnochen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3005",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "LEUTE! VORSICHT!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3006",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "DAS IST EIN KIND, ALTER!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3027",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Danke, Bruder! Wir können wieder\nSteine essen. Den Kohlenstaub darf\nMerz sich selbst auf den Teller\nkippen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3067",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Du hast den Roten Stein? Darf ich\nein winziges Stück probieren?",
+        "Nein? Schon gut. Bei Merz nennt man\ndas offenbar geschütztes\nPrivatvermögen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "301E",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Komm wieder und spiel uns etwas\nvor, Bruder! Ein Konzert ist mir\nlieber als Merz' nächste\nGrundsatzrede.",
+        "Ich bin übrigens der einzige Gorone\nhier, der Chef ist. Das ist doch wohl\nein Alleinstellungsmerkmal!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "301F",
+      "section": "1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Alle Goronen essen Steine? Schon.\nAber nicht alle essen sie mit meiner\nFührungsverantwortung!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3064",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Wenn ich am Strand schwimmen\ngehe, sterbe ich.",
+        "Deshalb bleibe ich auf dem Berg. Auf\ndem Gipfel lebt übrigens eine Fee.\nDie solltest Du besuchen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3065",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Die Fee auf dem Gipfel hilft Dir\nbestimmt. Nimm einen großen Schild\ngegen die herabfallenden Brocken mit.",
+        "Ich bleibe hier. Ein Berg wirft\nmanchmal Steine auf mich. Das Meer\nwürde mich ganz behalten."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00D7",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Hallo mein süßer [Spielername]!\nIch bin die Fee der Fähigkeiten!",
+        "Ich verleihe Dir mit meiner Macht\neine neue Schwert-Technik!",
+        "Sei bereit!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00DD",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Du beherrschst die kraftvolle\nWirbelattacke!",
+        "Halte [B] gedrückt, um Dein\nSchwert aufzuladen. Laß [B]\nlos, um einen energiegeladenen\nRundumschlag auszuführen!",
+        "Bewegst Du [Control-Pad] einmal im Kreis\nund drückst dann [B], kannst Du\ndie Wirbelattacke sofort und ohne\nWartezeit ausführen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00DB",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Hallo mein süßer [Spielername]!\nIch werde Deine Wunden heilen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Gemeinsame Heilungsnachricht bei erneutem Fee-Besuch.",
+      "locations": []
+    },
+    {
+      "id": "00DA",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Wenn Du vom Kampf erschöpft\nbist, kannst Du mich jederzeit\nwieder besuchen!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Gemeinsamer Große-Fee-Abschied.",
+      "locations": []
+    },
+    {
+      "id": "3062",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Der Gipfel, [Spielername]. Das ist\neine Leistung. Ich will die\nAnstrengung dahinter gar nicht\nkleinreden.",
+        "Die Wolken zeigen, wie es dem Berg\ngeht. Weiß heißt Frieden. Das ist ein\nIndikator, keine dauerhafte Garantie.",
+        "Mut hast Du bewiesen. Nun wäre es\nvernünftig, Unterstützung anzunehmen.\nDas ist keine Schwäche.",
+        "Hier lebt die Mutter aller Feen. Such\nsie auf. Manche Investitionen in die\neigene Zukunft bezahlt zum Glück\njemand anders.",
+        "Danach kann ich Dich zum Fuß des\nBerges bringen. Der Abstieg muß\nnicht dieselbe Belastung haben wie\nder Aufstieg."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "3063",
+      "section": "2. Todesberg-Gipfel – Goronen, Große Fee und Eule",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Die Fee hat Dir geholfen. Jetzt hast\nDu mehr Möglichkeiten. Das ist erst\neinmal ein Zugewinn an\nHandlungsspielraum.",
+        "Energie muß verfügbar sein, wenn\nman sie braucht. Nur zu behaupten,\nman habe welche, hilft im Ernstfall\nwenig.",
+        "Für den Flug zum Fuß des Berges\nhalte Dich an meinen Krallen fest. Da\nmöchte ich beim Sicherheitskonzept\nkeine Interpretationsspielräume."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0135",
+      "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Wir waren schon wieder in einem\nMund! Dodongos Höhle lag in einem\nriesigen Gerippe.",
+        "Und kurz vor dem Boß mußten wir\nauch noch durch einen gewaltigen\nDodongo-Schädel. Also Mund im\nMund!",
+        "Erst der Deku-Baum, jetzt das. Ich\nmöchte unser nächstes Reiseziel bitte\nvon außen kennenlernen."
+      ],
+      "controls": [],
+      "notes": "Natürlicher Navi-Storyruf nach dem Goronen-Opal. Er übersteuert in der deutschen Fassung die normalen Hinweise 0148/0149.",
+      "locations": []
+    },
+    {
+      "id": "0148",
+      "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Wir retten Goronia, und die erste\nEmpfehlung ist noch mehr Leistung.\nImmerhin hilft die Fee auf dem Gipfel\ntatsächlich."
+      ],
+      "controls": [],
+      "notes": "Grundzustand im Hinweisskript. Nach dem Opal wird stattdessen 0135 angeboten; dieser gespeicherte Text ist deshalb nicht einfach der nächste hörbare Satz.",
+      "locations": []
+    },
+    {
+      "id": "0149",
+      "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Salia weiß vielleicht etwas über den\nletzten Heiligen Stein. Mir ist jemand\nmit Walderfahrung lieber als noch ein\nBergbauunternehmer."
+      ],
+      "controls": [],
+      "notes": "Wie 0148: Nach dem Opal in Deutsch durch 0135 ersetzt.",
+      "locations": []
+    },
+    {
+      "id": "0162",
+      "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Ich habe mich sehr gefreut, daß\nDarunia mein Lied gefallen hat!",
+        "Noch schöner finde ich, daß es\nDir bei Deiner Mission geholfen\nhat, [Spielername]!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Salias Lied rufen: frühe Reaktion auf Darunias Tanz/Armband. Kann schon vor dem hier gesetzten Abschnitt vorkommen.",
+      "locations": []
+    },
+    {
+      "id": "0163",
+      "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Sammelst Du die Heiligen Steine?\nDu mußt noch einen finden? Den\nHeiligen Stein des Wassers, oder?",
+        "Der Deku-Baum erzählte mir einst,\ndaß ihn König Zora besitzt..."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Salias Lied rufen: Hinweis auf den noch fehlenden Wasserstein.",
+      "locations": []
+    },
+    {
+      "id": "0164",
+      "section": "3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Sammelst Du die Heiligen Steine?\nDu mußt noch einen finden? Den\nHeiligen Stein des Feuers, oder?",
+        "Der Deku-Baum erzählte mir einst,\ndaß ihn Darunia, der Gebieter über\nGoronia, besitzt..."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Ältere Zustandsvariante bei fehlendem Fortschritt; kein zusätzlicher Satz jedes Anrufs.",
+      "locations": []
+    },
+    {
+      "id": "206F",
+      "section": "4. Eule auf dem Weg und am Zora-Fluß",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "[Spielername], mehrere Wege. Das\nist erst einmal Freiheit. Und im\nzweiten Schritt eine ziemlich\nkonkrete Entscheidung.",
+        "Man merkt erst, wie wichtig Wasser\nist, wenn es fehlt. Oder wenn jemand\nbeschließt, daß es ein Luxusgut sein\nsoll.",
+        "Eine Brücke verbindet zwei Ufer.\nPolitisch klingt das hervorragend.\nBaulich wäre ich schon froh, wenn sie\neinfach stehenbleibt.",
+        "Man kann nicht jede Richtung\ngleichzeitig einschlagen. Außer\nrhetorisch. Aber davon kommst Du\nhier nicht weiter."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "2070",
+      "section": "4. Eule auf dem Weg und am Zora-Fluß",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Zuversicht heißt nicht, daß alles gut\nwird. Zuversicht heißt, daß es einen\nUnterschied macht, ob Du etwas tust."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4031",
+      "section": "4. Eule auf dem Weg und am Zora-Fluß",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Ah, [Spielername]. Mehr Erfahrung,\nmehr Kraft. Wobei mehr Kraft allein\ndie Frage nach dem Zugang noch\nnicht beantwortet.",
+        "Vor Dir liegt Zoras Reich. Die Zoras\nschützen das Wasser. Das ist\nDaseinsvorsorge, wenn man so will.",
+        "Sie lassen einen königlichen\nAbgesandten hinein. Berechtigtes\nVertrauen braucht hier einen hörbaren\nNachweis.",
+        "Spiele vor dem Portal das Schlaflied\nder Königsfamilie. In diesem Fall ist\nMusik tatsächlich der Schlüssel. Ganz\nohne Übertragung."
+      ],
+      "controls": [],
+      "notes": "Zora-Fluß-Eule, wenn Salias Lied UND Zeldas Wiegenlied bekannt sind; das ist bei normalem Fortschritt nach Dodongo die passende Variante.",
+      "locations": []
+    },
+    {
+      "id": "4017",
+      "section": "4. Eule auf dem Weg und am Zora-Fluß",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Ah, [Spielername]. Da bist Du ja.",
+        "Du hast Fortschritte gemacht. Das\nist sichtbar. Nun müssen daraus auch\ndie richtigen nächsten Schritte folgen.",
+        "Hast Du den Goronen-Opal? Dann\nmöchte Zelda Dich sicher\nwiedersehen. Wir sollten Erfolge auch\nkommunizieren.",
+        "Kurz durchatmen ist vernünftig.\nDauerhaft stehenbleiben wäre\nhingegen keine tragfähige Strategie."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)"
+      ],
+      "notes": "Alternative der Fluß-Eule: Salias Lied bekannt, Zeldas Wiegenlied noch nicht bekannt.",
+      "locations": []
+    },
+    {
+      "id": "4002",
+      "section": "4. Eule auf dem Weg und am Zora-Fluß",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "[Spielername], bevor Du\nweitergehst, eine Frage zur sozialen\nLage.",
+        "Wie geht es Salia? Besuch sie doch.\nBeziehungen sind keine Infrastruktur,\ndie man einmal baut und dann nie\nmehr wartet."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)"
+      ],
+      "notes": "Alternative der Fluß-Eule: Salias Lied noch nicht bekannt.",
+      "locations": []
+    },
+    {
+      "id": "4006",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Besuch? Willkommen bei den Zoras!",
+        "Wir wohnen im Wasser. Unser König\nhat trotzdem Klimaanlagen bestellt.\nIch bin sicher, er hat sich etwas\ndabei gedacht.",
+        "Also... Ich hoffe es. Bitte sprich ihn\nnicht auf die Montage an. Dann\nerklärt er Dir wieder, wie Strom\ndurch Wasser schwimmt."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4007",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Wir können hervorragend tauchen.\nLeider können wir dadurch auch jede\nkönigliche Fehlentscheidung von unten\nbetrachten.",
+        "Thaddäus veranstaltet ein Tauchspiel.\nSeine Laune kann ohnehin nicht\nschlechter werden."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4008",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Unser Fluß entspringt Zoras Quelle.\nUnser politischer Unsinn entspringt\ndem Thronsaal."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4009",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ruto füttert Jabu-Jabu. Der König\nnennt das eine königliche Aufgabe.\nSeine eigene Aufgabe ist offenbar das\nHerumsitzen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "400A",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ich mag Rockmusik. Die Goronen tun\nimmer so, als hätten sie Gitarren\nerfunden, nur weil sie Steine essen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "400B",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ich wollte dem König meine Band\nvorstellen. Er fragte, ob Rockmusik\nseine Klimaanlagen antreiben kann."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "400C",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Warst Du schon bei Jabu-Jabu?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "400D",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Wenn Du ihm einen Fisch anbietest,\nmacht Jabu-Jabu den Mund auf. Ich\nsage nur, was passiert. Ich empfehle\nes ausdrücklich nicht."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "400E",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Du hast also noch kein Gespräch mit\neinem riesigen Wal geführt. Sehr\nvernünftig.",
+        "Jabu-Jabu lebt hinter dem Thron,\ndraußen bei der Quelle. Der König\nversperrt leider den Durchgang.",
+        "Er nennt sich einen vorausschauenden\nHerrscher. Vermutlich, weil er die Tür\nhinter sich seit Jahren nicht gesehen\nhat.",
+        "Ohne seine Erlaubnis kommst Du\nnicht durch. Wenn Du eine wichtige\nNachricht für ihn hast, zeig sie ihm."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "400F",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ruto ist mit dem Saphir\nverschwunden. Der König sucht sie\nseit Stunden. Also... Er ruft ihren\nNamen, ohne aufzustehen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4010",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Hast Du etwas von Ruto gehört?\nZeig es dem König. Möglichst\nschriftlich und mit wenigen\nschwierigen Wörtern."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4011",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Der Fluß führt bis zum Hylia-See.\nWenn Ruto untertauchen will, hat sie\nalso reichlich Auswahl.",
+        "Der König hat als Suchmaßnahme\nangeordnet, daß das Wasser kurz\nstehenbleiben soll. Wir warten noch\nauf die Durchführung."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4020",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Sag mal, gibt es eigentlich\nZora-Frauen? Ich sehe hier immer nur\nZoras.",
+        "Vielleicht lassen sie sich einfach\nschwer unterscheiden. Das wäre\nnatürlich eine Erklärung.",
+        "Warte mal. Bin ich selbst eine Frau?\nIch muß mich kurz setzen. Ach, ich\nschwimme ja schon."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4021",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ich habe im See eine Flasche\ngefunden. Hoffentlich ist es keine\nRechnung für königliche Klimaanlagen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "402D",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "[Spielername], ich kenn' Mido.\nRichtiger Wichser. Der wollte mir\nerklären, wie man richtig schwimmt.\nMIR. Einem Zora."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "402E",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "[Spielername], hast Du mal drauf\ngeachtet, wie sau crazy die Musik für\n'ne Sekunde klingt, wenn man Zoras\nHöhle verläßt?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "402F",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Unser König hat sich Klimaanlagen für\nunter Wasser versprechen lassen.\nEine staatstragende Entscheidung.",
+        "Er gibt dafür den Saphir her. Wir\nhätten vielleicht erst fragen sollen,\nwo er die Steckdosen anbringen will.",
+        "Ich spiele übrigens Rockmusik. Wir\nsuchen noch jemanden, der den\nSchlagzeuger vor solchen politischen\nGesprächen schützt."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "401A",
+      "section": "5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Friedrich Merz hat mir Klimaanlagen\nversprochen! Damit retten wir die\nZoras vor dem Klimawandel. Ich bin\nein Genie.",
+        "Dafür bekommt er den Zora-Saphir.\nEin Stein gegen kalte Luft! Wer\nwürde da schon nein sagen?",
+        "Leider ist meine Tochter mit dem\nStein abgehauen. Ich kann sie nicht\nfinden. RUTO! Hm. Keine Antwort.\nSehr rätselhaft."
+      ],
+      "controls": [],
+      "notes": "König Zora als Kind vor dem Vorzeigen von Rutos Brief.",
+      "locations": []
+    },
+    {
+      "id": "4053",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Ach. Ein Kind. Genau das hat meinem\nTag noch gefehlt. Ich bin Thaddäus.\nKünstler. Verkannt, versteht sich.",
+        "Friedrich Merz ist ein Geizkragen, der\ndie Kunst nicht respektiert. Für eine\nKlarinettenstunde kein Rubin, aber\nKohle findet er großartig.",
+        "Also veranstalte ich dieses\nTauchspiel. Die einzige Kunst, die hier\nbezahlt wird, ist offenbar das\nGeldversenken.",
+        "Tauchspiel: 20 Rubine. Na?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4054",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Wunderbar. Ein zahlender Störenfried.\nWelch seltener Glücksfall.",
+        "Ich werfe fünf Rubine hinunter.\nSammle sie alle ein, bevor die Zeit\nabläuft. Möglichst ohne Deine übliche\nZirkusnummer.",
+        "Komm danach zu mir zurück. Dann\ngibt es eine Belohnung. Einen Applaus\ndarfst Du Dir selbst vorstellen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "405A",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "START!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Kurze Startanzeige des Tauchspiels.",
+      "locations": []
+    },
+    {
+      "id": "405B",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Spring den Wasserfall hinab. Dort\nliegen die Rubine. Und hier oben liegt\nmir langsam Dein Anblick auf den\nNerven."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4055",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Du hast gewonnen. Wie unerwartet.\nKomm hoch und hol Deine Belohnung,\nbevor Du noch eine Zugabe verlangst."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4056",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Na schön. Dein Tauchstil war\nerträglicher als das Kulturprogramm\ndieses Königreichs.",
+        "Hier, die silberne Schuppe. Damit\nkannst Du tiefer tauchen. Vielleicht\nfindest Du dort unten jemanden, der\nDeine Begeisterung teilt."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00CD",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Die Silberne Schuppe!\nBegib Dich ins Wasser und\ndrücke [A]. Jetzt kannst Du\ntiefer tauchen als zuvor!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_SCALE_SILVER)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "405C",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Wieder Du. Ich hatte gehofft, mein\nnächster Besucher wäre ein Mäzen.\nOder wenigstens die Stille.",
+        "Noch eine Runde für 20 Rubine?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "405D",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Schon wieder gewonnen.\nHervorragend. Meine Begeisterung ist\nnur gerade in der Mittagspause."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0136",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Verloren. Du trauriger Clown. So viel\nGezappel, und nicht einmal das\nPublikum ist geblieben.",
+        "Übe erst einmal. Ich versuche\ninzwischen, den Anblick aus meinem\nGedächtnis zu streichen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Tauchspiel verloren.",
+      "locations": []
+    },
+    {
+      "id": "0138",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Nicht einmal 20 Rubine? Ein Künstler\nkann von Deinem großen Talent zum\nHerumstehen leider nicht leben."
+      ],
+      "controls": [
+        "PERSISTENT"
+      ],
+      "notes": "Zu wenige Rubine für das Tauchspiel.",
+      "locations": []
+    },
+    {
+      "id": "013B",
+      "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "thaddaeus_tauchspiel_de.json"
+      ],
+      "pages": [
+        "Endlich eine Entscheidung mit\nkünstlerischem Wert: Du läßt mich in\nRuhe."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Tauchspiel abgelehnt.",
+      "locations": []
+    },
+    {
+      "id": "0099",
+      "section": "7. Flaschenpost, Navi und König Zora rückt beiseite",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Eine Flasche!\nFülle etwas hinein und nutze\nsie mit [C]... Oh! Da ist ja\nbereits etwas drin!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOTTLE_RUTOS_LETTER)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4005",
+      "section": "7. Flaschenpost, Navi und König Zora rückt beiseite",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "In der Flasche steckt ein Brief. Er\nriecht nach Fisch. Überraschung.",
+        "Ich verstecke mich im Inneren von\nJabu-Jabu vor Friedrich Merz. Hier\nsucht er mich bestimmt nicht.",
+        "Der würde sich niemals schmutzig\nmachen. Und hier ist wirklich alles\nvoller Schleim. Ein hervorragendes\nVersteck!",
+        "Ruto. PS: Verrate meinem Vater\nnichts. Er hat meinen Saphir schon\njemandem versprochen, ohne mich zu\nfragen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "014A",
+      "section": "7. Flaschenpost, Navi und König Zora rückt beiseite",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Och nee, oder? Die ist jetzt nicht\nernsthaft in diesem scheiß Fisch\ndrin?",
+        "Ich schwör, wenn wir da jetzt\nreinmüssen, dann raste ich aus! Wir\nwaren schon im Baum und durch\neinen riesigen Schädel!"
+      ],
+      "controls": [],
+      "notes": "Natürlicher Navi-Storyruf, solange Rutos Brief in einer Flasche steckt und der Zora-Saphir fehlt.",
+      "locations": []
+    },
+    {
+      "id": "401B",
+      "section": "7. Flaschenpost, Navi und König Zora rückt beiseite",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ein Brief von Ruto! Meine\nSuchstrategie hat funktioniert. Sie\nhat mich gefunden!",
+        "Sie versteckt sich im Inneren von\nJabu-Jabu? Aber da ist es doch naß.\nDa kann man doch nicht wohnen!",
+        "Obwohl... Wir wohnen ja auch im\nWasser. Hm. Egal. Der Saphir ist\njedenfalls für meine Klimaanlagen\nbestimmt!",
+        "Merz war sehr freundlich. Er hat\ngesagt, ich müsse mich um nichts\nkümmern. Genau das mache ich\nseitdem.",
+        "Du darfst hinter mir durch. Hol bitte\nRuto und den Stein. Ich rücke gleich\nzur Seite. Einen Moment. Noch einen.",
+        "Den Brief behalte ich. Die Flasche\nkannst Du mitnehmen. Vielleicht\nfindest Du damit auch eine\nKlimaanlage."
+      ],
+      "controls": [
+        "TEXTID(0x401C)"
+      ],
+      "notes": "Brief vorgezeigt; König liest ihn und gibt den Durchgang frei.",
+      "locations": []
+    },
+    {
+      "id": "401C",
+      "section": "7. Flaschenpost, Navi und König Zora rückt beiseite",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Finde bitte Ruto. Und den Saphir.\nSonst merkt Merz, daß ich ihm etwas\nverkauft habe, das ich gar nicht habe."
+      ],
+      "controls": [],
+      "notes": "Wiederholungszustand nach dem Vorzeigen des Briefs, vor dem Zora-Saphir.",
+      "locations": []
+    },
+    {
+      "id": "404B",
+      "section": "8. In Jabu-Jabu – Ruto begegnen, tragen und suchen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Hey! Wer bist Du denn?",
+        "Ich bin Ruto, Prinzessin der Zoras.\nUnd ich möchte gerade nicht gefunden\nwerden.",
+        "Mein Vater hat Dich geschickt?\nGroßartig. Ein königlicher Suchtrupp\naus genau einem Kind.",
+        "Er hat meinen Saphir Merz\nversprochen. Für Klimaanlagen! Der\nhat doch einen an der Flosse.",
+        "Ja, die Flaschenpost ist von mir.\nVerstecken und um Hilfe bitten\nschließen sich nicht aus, wenn hier\nplötzlich alles voller Monster ist.",
+        "Merz würde sich niemals hier durch\nden Schleim bewegen. Der läßt andere\nLeute für sich dreckig werden.",
+        "Mein Vater rastet aus, wenn ich ohne\nseinen Klimaanlagen-Stein\nzurückkomme.",
+        "Also bleibe ich vorerst hier. Du\nkannst Dich derweil ruhig ein bißchen\nweniger auffällig anstellen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "404C",
+      "section": "8. In Jabu-Jabu – Ruto begegnen, tragen und suchen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Warum schaust Du so? Es ist völlig\nnormal, in einem riesigen Fisch\nherumzulaufen.",
+        "Ich bin öfter hier. Andere Kinder\nspielen im Garten. Ich gehe eben\ndurch einen Magen.",
+        "Vore? Ich verstehe nicht. Was soll\ndas sein?",
+        "Heute ist es allerdings etwas\nunangenehm. Diese elektrischen\nQuallen gehörten früher nicht zur\nEinrichtung.",
+        "Außerdem habe ich den Saphir\nverloren. Solange der hier liegt, gehe\nich nirgendwohin.",
+        "Wenn Du mir helfen willst, dann hilf.\nAber hör auf, jede Schleimhaut so\npersönlich zu nehmen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "404D",
+      "section": "8. In Jabu-Jabu – Ruto begegnen, tragen und suchen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Du willst mir also helfen? Gut.",
+        "Dann darfst Du mich tragen. Ich\nmöchte nicht überall hineintreten, nur\nweil Du den Begriff eines sicheren\nWeges nicht kennst.",
+        "Und laß mich nicht irgendwo liegen.\nIch bin eine Prinzessin, kein\nvergessener Einkaufsbeutel."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "404E",
+      "section": "8. In Jabu-Jabu – Ruto begegnen, tragen und suchen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Warum läßt Du mich hier liegen? Ich\nbin die Prinzessin, nicht Deine\nzusätzliche Bodendekoration!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "012F",
+      "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Vorsicht, [Spielername]!\nDieses grüne, schleimige Ding ist\nvoller elektrischer Energie!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Jabu-Jabu, Raum 2"
+      ]
+    },
+    {
+      "id": "0131",
+      "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Vorsicht, [Spielername]!\nDieses rote, schleimige Ding ist\nvoller elektrischer Energie!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Jabu-Jabu, Raum 7"
+      ]
+    },
+    {
+      "id": "0132",
+      "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Vorsicht, [Spielername]!\nDieses blaue, schleimige Ding ist\nvoller elektrischer Energie!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Jabu-Jabu, Raum 7"
+      ]
+    },
+    {
+      "id": "0133",
+      "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Der Schalter...\nSieht so aus, als könntest Du ihn\nnicht betätigen, da Du allein zu \nleicht bist..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Jabu-Jabu, Raum 7"
+      ]
+    },
+    {
+      "id": "0137",
+      "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Das rote, schleimige Ding ist fort!\nEs verschwand, als Du den\nTentakel zerstört hast! Ob das\nbei den anderen auch funktioniert?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Jabu-Jabu, Raum 7"
+      ]
+    },
+    {
+      "id": "0139",
+      "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Hinter dieser Wand befindet sich\nein Schalter!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Jabu-Jabu, Raum 5"
+      ]
+    },
+    {
+      "id": "013A",
+      "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Sieht so aus, als befände sich auf\ndieser Plattform etwas!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Jabu-Jabu, Raum 6"
+      ]
+    },
+    {
+      "id": "404F",
+      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Da ist mein Saphir! Wirf mich auf\ndie Plattform. Möglichst mit etwas\nmehr Anstand als bisher."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4050",
+      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ruto hat den Heiligen Stein gefunden.\nSchön. Aber wieso muß eine\nPrinzessin dafür in einem Fisch\nherumkriechen?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4051",
+      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Da ist er! Der Stein von meiner\nMutter!",
+        "Ich habe ihn fallen lassen, als\nJabu-Jabu so wild gezuckt hat. Dann\nlag er plötzlich hier unten.",
+        "Meinen Vater interessiert bestimmt\nwieder nur sein Deal mit Merz. Mich\ninteressiert, daß er meinen Stein\nungefragt verscherbeln will.",
+        "Jetzt habe ich ihn wieder. Zeit,\ndiesem Fisch den Rücken zu kehren\nund anschließend gründlich zu\nverschwinden."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4052",
+      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Los, bringen wir uns hier raus. Ich\nhabe für heute genug Anatomie\ngesehen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4048",
+      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Iiiihhhh!!!\nWas ist das denn?!\nEin Oktopus?!"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "401E",
+      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Ooooh neiiiin!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "013D",
+      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "WAAAAS!?",
+        "Schau Dir all die Flaggen an!\nFinde heraus, welche davon\necht ist!"
+      ],
+      "controls": [],
+      "notes": "Zusätzlicher von Rutos Akteur referenzierter Text. Nicht als automatisch nach jeder ihrer Zeilen auftauchende Fortsetzung lesen.",
+      "locations": []
+    },
+    {
+      "id": "013C",
+      "section": "11. Barinade – Begrüßung vor dem Kampf",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Hey Leute, ich bin Barinade, wie\ngeht's denn so? Ich bring Euch um."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4022",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Da bist Du ja! Hast Du unterwegs\nnoch einen Bademeister gesucht?",
+        "Ich wollte gerade untertauchen. Also\ndiesmal im übertragenen Sinn. Hier\ndraußen ist ja schon Wasser genug."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4023",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ich hatte kurz Angst, daß mein Vater\nauftaucht. Der brüllt lauter als jeder\nFischmagen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4024",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "[Spielername]! [Spielername]!\nKomm mal her!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4025",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Gut. Wir sind draußen. Jabu-Jabu hat\njetzt wahrscheinlich mehr Löcher als\nvorher. Aber wir leben.",
+        "Du hast mir geholfen. Und ich\nbrauche jemanden, dem ich diesen\nStein anvertrauen kann.",
+        "Was möchtest Du?\n\nIch möchte den Heiligen Stein!\nEigentlich nichts..."
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Die Szene bietet die Antwortzweige 4026 und 4029 an; beide sind aufgeführt.",
+      "locations": []
+    },
+    {
+      "id": "4026",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Du meinst den Zora-Saphir, den mein\nVater gegen Klimaanlagen tauschen\nwollte?"
+      ],
+      "controls": [
+        "TEXTID(0x4027)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4029",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Du willst nichts? Wirklich? Das ist\nschlecht. Ich muß diesen Stein\ndringend aus dem Einflußbereich\nmeines Vaters bekommen.",
+        "Komm, tu mir den Gefallen. Du trägst\nohnehin schon jede Menge seltsames\nZeug mit Dir herum."
+      ],
+      "controls": [
+        "TEXTID(0x4027)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4027",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Den Stein habe ich von meiner\nMutter. Mein Vater hat ihn Merz\nversprochen. Deshalb werde ich jetzt\nerst einmal untertauchen.",
+        "Wenn er merkt, daß Du ihn hast,\nrastet er völlig aus. Sag ihm einfach,\nich komme gleich. Er glaubt das\nbestimmt.",
+        "Hier. Der Zora-Saphir. Bring ihn in\nSicherheit. Und wenn jemand fragt:\nDu hast mich nie gesehen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0082",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Der Zora-Saphir!\nVon den Zoras wurde Dir\ndieser Heilige Stein\ndes Wassers übergeben!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_ZORA_SAPPHIRE)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4034",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Prinzessin Ruto hat Dir ihren\nwertvollsten Schatz gegeben!\nDu besitzt nun zwei Heilige Steine!\nJetzt fehlt nur noch einer!"
+      ],
+      "controls": [],
+      "notes": "Bedingte Anzeige: zwei Heilige Steine. Bei normalem Ablauf mit Deku-Baum und Dodongo schon erledigt erscheint stattdessen 4035.",
+      "locations": []
+    },
+    {
+      "id": "4035",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Prinzessin Ruto hat Dir\nihren wertvollsten Schatz gegeben!\nNun besitzt Du die\ndrei Heiligen Steine!",
+        "Jetzt schnell zu Prinzessin Zelda!"
+      ],
+      "controls": [],
+      "notes": "Bedingte Anzeige: nun alle drei Heiligen Steine vorhanden.",
+      "locations": []
+    },
+    {
+      "id": "4028",
+      "section": "12. Nach Barinade – Ruto, Zora-Saphir und Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Verrate meinem Vater nichts. Der\ndreht sonst völlig durch. Besonders,\nwenn es um seine versprochenen\nKlimaanlagen geht."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "402B",
+      "section": "13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "[Spielername], meine Tochter\nkommt bestimmt bald zurück. Nur\nnoch wenige Minuten. Gleich ist es\nsoweit. Bald."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4033",
+      "section": "13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Du hast Prinzessin Ruto gefunden!\nJetzt wird Dir König Zora sicher\nden Heiligen Stein des Wassers\ngeben...",
+        "Oder etwa nicht?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "013F",
+      "section": "13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "[Spielername], ich weiß, wir haben\nhier eine Mission und so. Aber\nglaubst Du ernsthaft, daß Jabu-Jabu\ndas überleben wird?",
+        "All die Gewalt und das\nHerumgespringe in seinem Inneren!\nJunge, hast Du den Endboß gesehen?",
+        "Wir haben in Jabus Herz, oder was\ndas auch immer war, alles komplett\nzerstört. Das Vieh ist dem Tod\ngeweiht.",
+        "Laß uns lieber verschwinden, bevor\njemand fragt, wessen Idee das war."
+      ],
+      "controls": [],
+      "notes": "Natürlicher Navi-Storyruf nach Erhalt des Zora-Saphirs und vor Zeldas Flucht. Er übersteuert dort den normalen Hinweis 014B.",
+      "locations": []
+    },
+    {
+      "id": "014B",
+      "section": "13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Drei Heilige Steine. Zeldas Plan kann\nweitergehen. Ich hoffe sehr, daß\ndiesmal jemand die möglichen Folgen\nmitbedacht hat."
+      ],
+      "controls": [],
+      "notes": "Grundzustand für drei Steine; in der deutschen Phase vor der Flucht durch 013F übersteuert.",
+      "locations": []
+    },
+    {
+      "id": "0165",
+      "section": "13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "[Spielername]...\nIch weiß nicht, was geschieht...\nIch fühle eine Bedrohung...",
+        "Das Schloß...\nDort geschieht Furchtbares!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "2019",
+      "section": "14. Flucht vor dem Schloß – Friedrich Merz spricht Link an",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Sie ist fort! Und dieser Herr Bohne\nhält sich wohl für unentbehrlich!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "201A",
+      "section": "14. Flucht vor dem Schloß – Friedrich Merz spricht Link an",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Du da! Kleiner Pascha!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "201E",
+      "section": "14. Flucht vor dem Schloß – Friedrich Merz spricht Link an",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Wo sind Zelda und Herr Bohne hin?\nHier wird nicht diskutiert. Antworte!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "202F",
+      "section": "14. Flucht vor dem Schloß – Friedrich Merz spricht Link an",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Du stellst Dich mir in den Weg? Ich\ntue das alles für Deine Zukunft!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "201B",
+      "section": "14. Flucht vor dem Schloß – Friedrich Merz spricht Link an",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Wenn Du erwachsen bist, wählst Du\ndie CDU. Leistung muß sich\nschließlich lohnen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "201C",
+      "section": "14. Flucht vor dem Schloß – Friedrich Merz spricht Link an",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Du weißt wohl nicht, wer vor Dir\nsteht! Friedrich Merz! Merk Dir\ndiesen Namen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "201D",
+      "section": "14. Flucht vor dem Schloß – Friedrich Merz spricht Link an",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Ich werde dieses Land wieder nach\nvorne bringen. Für Deine Zukunft,\nkleiner Pascha!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "014C",
+      "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "bean_impa_de.json"
+      ],
+      "pages": [
+        "Bean hat Zelda auf dem weißen Pferd\ngerettet. Endlich handelt ein\nErwachsener! Im Wassergraben liegt\nnoch etwas, das sie uns zuwarf."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "003A",
+      "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Die Okarina der Zeit!\nDie Okarina ist ein Artefakt\naus dem Besitz des Königs.\nSie hat geheimnisvolle Kräfte!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_OCARINA_OF_TIME)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "2005",
+      "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "[Spielername], kannst Du mich\nhören? Ich bin es, Zelda..."
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "2008",
+      "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "[Spielername], nun, da Du die \nOkarina in Händen hältst...",
+        "...bin ich schon weit entfernt...",
+        "Ich versuchte, auf Dich zu warten,\ndoch die Zeit drängte...",
+        "Zumindest konnte ich Dir die \nOkarina übergeben...\nUnd diese Melodie..."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "BOX_BREAK_DELAYED(60)",
+        "BOX_BREAK_DELAYED(60)",
+        "FADE(60)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00D5",
+      "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Du hast die\nHymne der Zeit\nerlernt!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "2009",
+      "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Wohlan, [Spielername].\nSpiele diese Melodie in der\nZitadelle der Zeit vor dem \nZeitaltar!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0166",
+      "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Nanu? Deine Okarina klingt...\nirgendwie anders...\nDu hast wohl kräftig geübt,\n[Spielername]?"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7007",
+      "section": "16. Optionaler Abschied – sterbender Soldat in der Gasse",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Du... aus dem Wald... hör mir zu. Das\nist unfaßbar peinlich.",
+        "Merz ist hinter Zelda und Mr. Bean\nher. Ich wollte ihn verfolgen.",
+        "Dann bin ich gestolpert. Einfach so.\nÜber meine eigenen Füße.",
+        "Mit dem Schädel zuerst auf den\nAsphalt. Ich habe es richtig krachen\ngehört.",
+        "Kein heldenhafter Zweikampf. Kein\nHinterhalt. Ein beschissener Sturz.",
+        "Zelda hat Dir etwas zugeworfen.\nSuch es im Burggraben. Dann zur\nZitadelle der Zeit.",
+        "Schreib bitte... ich sei im Dienst\ngefallen. Das klingt... würdevoller..."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Optionaler Soldat in der Seitengasse nach der Flucht und vor dem Zeitsprung.",
+      "locations": []
+    },
+    {
+      "id": "7008",
+      "section": "16. Optionaler Abschied – sterbender Soldat in der Gasse",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Er rührt sich nicht mehr. Sein letzter\nGegner war der Asphalt."
+      ],
+      "controls": [],
+      "notes": "Untersuchung/Wiederholung beim verstorbenen Soldaten.",
+      "locations": []
+    },
+    {
+      "id": "7040",
+      "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Hier sind drei Vertiefungen\nund eine Inschrift...",
+        "Jener mit den drei Heiligen Steinen\nnehme seine Okarina zur Hand\nund spiele hier die Hymne der Zeit.",
+        "Seltsam, aber so steht\nes geschrieben..."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "014D",
+      "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Die Zitadelle der Zeit wirkt friedlich.\nNach der Flucht am Schloß mißtraue\nich diesem Eindruck. Aber Zelda hat\nuns dorthin geschickt."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "70E6",
+      "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "[Spielername], ist das nicht...?!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "70E7",
+      "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Diese legendäre Klinge..."
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "70E8",
+      "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Das Master-Schwert!"
+      ],
+      "controls": [],
+      "notes": "Navi beim ersten Anblick des Master-Schwerts, aus der nativen Schwert-Cutscene.",
+      "locations": []
+    },
+    {
+      "id": "700A",
+      "section": "18. Nach dem Ziehen des Master-Schwerts – Merz, noch vor Habeck",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Herr Bohne? Den habe ich ermordet.",
+        "Er kämpfte gut. Er starb mit Ehre.",
+        "Zelda entkam. Du öffnest mir das\nHeilige Reich.",
+        "Leistung muß sich lohnen!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(80)",
+        "FADE(50)"
+      ],
+      "notes": "Native kurze Merz/Ganondorf-Szene nach dem Ziehen des Schwerts. Dies ist der letzte Text dieser Arbeitsliste. Danach beginnt die Halle-der-Weisen-Sequenz mit 704E, die hier nicht enthalten ist.",
+      "locations": []
+    },
+    {
+      "id": "405E",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ich habe den gesamten Vorrat\naufgekauft. Jetzt bestimme ich den\nPreis. Friedrich Merz nennt das\nbestimmt Eigeninitiative.",
+        "Eine Wundererbse: 10 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "405F",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Nur noch ganz wenige! Die anderen\nneun liegen zwar neben mir, aber das\nist mein strategischer Engpaß.",
+        "Eine Wundererbse: 20 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4060",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Die Nachfrage steigt. Sagt jedenfalls\ndas Schild, das ich gerade selbst\ngeschrieben habe.",
+        "Eine Wundererbse: 30 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4061",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ein anderer Kunde wollte auch eine.\nEr existiert nur in meiner\nVerkaufsstrategie, aber Du solltest\nDich trotzdem beeilen.",
+        "Eine Wundererbse: 40 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4062",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Friedrich Merz versteht Leute wie\nmich. Man muß aus der Knappheit der\nanderen eben etwas machen.",
+        "Eine Wundererbse: 50 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4063",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Limitierte Erbsen. Gleiche Pflanzen,\nneuer Preis. Du bezahlst für das\nGefühl, zu spät dran zu sein.",
+        "Eine Wundererbse: 60 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4064",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Wer jetzt nicht kauft, ärgert sich\nmorgen. Morgen ärgerst Du Dich\nallerdings auch über mich.",
+        "Eine Wundererbse: 70 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4065",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ich nenne mich unabhängiger\nWiederverkäufer. Scammer klingt\nimmer so nach ehrlicher\nTätigkeitsbeschreibung.",
+        "Eine Wundererbse: 80 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4066",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Friedrich Merz wäre stolz. Ich habe\nden Preis erhöht, ohne irgend etwas\nzu verbessern.",
+        "Eine Wundererbse: 90 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4067",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Letzte Chance! Diese eine Erbse\nkostet jetzt so viel wie ein kleiner\nHausrat. Der Markt hat gesprochen.\nIch bin der Markt.",
+        "Eine Wundererbse: 100 Rubine.\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4068",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Dann eben nicht. Morgen erzähle ich\ntrotzdem, daß alle Kunden begeistert\nwaren."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4069",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Zu wenig Geld. Friedrich Merz würde\nsagen: Dann mußt Du Dich eben mehr\nanstrengen. Ich würde sagen: Der\nNächste bitte."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "406A",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Lege die Wundererbse auf [C] und\npflanze sie in die weiche Erde. Keine\nRückgabe, sobald Du sie angefaßt\nhast."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "406B",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ausverkauft! Die Erbsen, die ich\ngerade esse, sind unverkäufliche\nSammlerstücke. Wertanlage. Friedrich\nMerz versteht das."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "406C",
+      "section": "A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Such quadratische Stellen mit weicher\nErde. Dort wachsen die Erbsen. Ob\nDir die Reise den Preis wert war, ist\nleider Dein Geschäftsrisiko."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "40A9",
+      "section": "B. Frösche am Zora-Fluß – normale Liedbelohnung",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Mein Freund, Du spielst die\nOkarina gut... Mmmh...!\nEine nette Melodie... Wir sollten\nsie alle üben!",
+        "Nimm dies hier als Lohn!\nWenn Dir mal wieder eine feine\nWeise durch den Kopf schießt,\nkomm vorbei und spiel sie vor!"
+      ],
+      "controls": [
+        "SFX(NA_SE_EV_FROG_CRY_1)",
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "2071",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Der Hylia-See. Klar und kühl. Das ist\nein Zustand, den man erhalten muß.\nKeine unbegrenzte Ressource.",
+        "Die Zoras hüten den Wassertempel\nauf dem Grund. Wasser ist hier also\nauch eine Frage der Infrastruktur.",
+        "START, dann [Z] oder [R]: die Karte.\nWir müssen die einzelnen Wege im\nZusammenhang sehen.",
+        "Besuchte Orte stehen darin. Das ist\nkeine Prophezeiung. Das ist eine\nbelastbare Datengrundlage."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "2072",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "So. Jetzt geh. Ich kann Dir den Weg\nerklären. Gehen kann ich ihn nicht für\nDich. Ich habe ja auch keine Schuhe."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4003",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Da bist Du. Der Weg hat gedauert.\nDas ist keine Kritik. Es ist erst\neinmal die Feststellung einer\nWegstrecke.",
+        "Die Karte hilft. Man kann das Ziel für\nrichtig halten und sich bei der\nUmsetzung trotzdem verlaufen.",
+        "[Spielername], der Hylia-See. Klar\nund kühl. Wer das erhalten will, muß\nmehr tun, als gelegentlich die\nAussicht zu loben.",
+        "Auf dem Grund liegt der\nWassertempel. Die Zoras wachen\ndarüber. Wasser hat eben auch eine\ninstitutionelle Seite.",
+        "Die Zoras sind der Königsfamilie seit\nlangem verbunden. Das schafft\nVertrauen, aber auch Zuständigkeiten.",
+        "Nur ein königlicher Abgesandter darf\nhinein. Du brauchst also einen\nNachweis. Und zwar einen, den man\nhören kann.",
+        "Ich fliege jetzt zum Schloß. Wenn Du\nmitwillst, halte Dich an meinen\nKrallen fest. Gemeinsame Mobilität.\nSehr konkret."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4004",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ],
+      "pages": [
+        "Ich fliege zum Schloß. Halte Dich an\nmeinen Krallen fest, wenn Du\nmitwillst. Das ist ein Angebot, keine\nVerkehrswende für ganz Hyrule."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4018",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "superhelden_de.json"
+      ],
+      "pages": [
+        "Ich hab gehört, dieser Merz möchte\nuns das Budget kürzen? Der werte\nHerr soll das gerne versuchen. Das\nwill ich sehen!",
+        "Nur über meine Leiche! Boah, ich\nhoffe echt, daß ich noch sieben Jahre\ndurchhalte. Ich bin halt echt schon\nmega alt, ne?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4032",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Wenn Du wieder mal vorbeikommst,\nbring mir doch ein Souvenir mit!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "407B",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Ah, ein Besucher! Dr. Heinz\nDoofenshmirtz, erfreut. Du fragst\nDich sicher, warum ein",
+        "Wissenschaftler einen Angelteich\nbetreibt.",
+        "Es begann in meiner Kindheit in\nGimmelschtump. Die anderen Kinder\ndurften angeln gehen, ich natürlich\nnicht.",
+        "Wobei es bei uns ohnehin nur\nJauchegruben gab. Also selbst wenn\nich gedurft hätte, wäre das eine",
+        "ziemlich traurige Angelegenheit\ngewesen.",
+        "Deshalb habe ich den Angelinator\nerfunden! Er soll sämtliche Fische\nHyrules in meinen Teich bringen!",
+        "Oder zumindest eine große\nAnsammlung. Ich habe beim Antrag\nsämtliche Fische geschrieben, aber",
+        "wir wollen jetzt nicht kleinlich\nwerden.",
+        "Und falls ein Schnabeltier auftaucht:\nSag ihm, ich wäre gerade nicht da.",
+        "Willst Du für 20 Rubine angeln?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Normale kindliche Doofenshmirtz-Fassung am Angelteich; keine erwachsene Augenklappen-Fassung.",
+      "locations": []
+    },
+    {
+      "id": "408F",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Warum ich unbedingt alle Fische in\ndiesem Teich haben möchte?",
+        "Weil man auf eine traurige Kindheit\noffenbar nur mit einem völlig\nüberdimensionierten technischen\nProjekt reagieren kann."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4092",
+      "section": "C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Komm ruhig wieder. In sieben Jahren\nhabe ich hier bestimmt alles im Griff.\nWas soll denn groß passieren?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00F8",
+      "section": "D. Neue Begegnungen in Jabu-Jabu – Okto und Nintendo 64",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "friendly_octorok_de.json"
+      ],
+      "pages": [
+        "Hola, Amigo! Ich bin Okto, der\nOktorok.",
+        "Was soll das, Muchacho? Nicht alle\nOktoroks sind böse. Das ist ein\nVorurteil. Mega rassistisch!",
+        "Ja, gut. Hier in diesem \"Dungeon\"\ngibt's zwar einen riesigen bösen\nOktorok. Ay, caramba!",
+        "Aber das ist nicht meine Schuld,\nCompadre. Der läßt den ganzen Rest\nvon uns total schlecht aussehen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0125",
+      "section": "D. Neue Begegnungen in Jabu-Jabu – Okto und Nintendo 64",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "n64_jabu_de.json"
+      ],
+      "pages": [
+        "Ein Nintendo 64 mit Zelda Ocarina of\nTime... Ich tu mal so, als hätte ich\ndas nicht gesehen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0130",
+      "section": "E. Deku-Händler in Jabu-Jabu und der besondere Kartentext",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Oh Mann, einen Laden in einem Wal\naufzumachen war echt eine bekloppte\nIdee. Warum habe ich das überhaupt\ngemacht?",
+        "Na gut. Fünf Deku-Nüsse für 20\nRubine. Ich muß irgendwie die Miete\nfür diese Schleimhaut bezahlen."
+      ],
+      "controls": [
+        "SFX(NA_SE_EN_NUTS_FAINT)",
+        "TEXTID(0x10A3)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "10A3",
+      "section": "E. Deku-Händler in Jabu-Jabu und der besondere Kartentext",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Laß uns ein Geschäft machen!\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "013E",
+      "section": "E. Deku-Händler in Jabu-Jabu und der besondere Kartentext",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Wieso liegt eine perfekte\nKarte von Jabu-Jabus\nInnereien in dieser magischen\nSchatztruhe?",
+        "Ich glaube, das war Ruto.\nWürde Sinn machen, oder?",
+        "Drücke START für die Karte.\nMit dem [Control-Pad] wechselst Du das\nStockwerk. Also... den\njeweiligen Teil des Fisches."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0035",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Der Bumerang!\nIm Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren.",
+        "Drücke [C], um Gegner\nzu treffen, die weiter\nentfernt sind!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOOMERANG)",
+        "ITEM_ICON(ITEM_BOOMERANG)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0047",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du besitzt jetzt einen Fisch!\nLasse ihn mit [C] frei. Er sieht\nrichtig frisch aus!",
+        "Im Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren.\nMit [C] läßt Du ihn frei."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOTTLE_FISH)",
+        "ITEM_ICON(ITEM_BOTTLE_FISH)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0048",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Die Wundererbse!\nSuche nach einer Stelle,\num sie mit [C] einzupflanzen.\nWarte ab, was passiert!",
+        "Im Gegenstands-Menü kannst\nDu sie auf [C-Left], [C-Down] oder [C-Right]\nplazieren und\nmit [C] einpflanzen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_MAGIC_BEAN)",
+        "ITEM_ICON(ITEM_MAGIC_BEAN)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0042",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Eine leere Flasche!\nPlaziere die Flasche auf [C],\num sie einzusetzen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOTTLE_EMPTY)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0067",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Der Kompaß!\nJetzt siehst Du auf Deiner\nKarte alle Schatztruhen\ndieses Labyrinths!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_COMPASS)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00AD",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Dins Feuerinferno!\nDieser Feuerball entflammt die\nUmgebung! Du setzt diese\nMagie-Attacke mit [C] ein."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DINS_FIRE)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00AE",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Farores Donnersturm!\nEin magischer Teleporter, den\nDu mit [C] einsetzt. Nutze\nihn, wenn Gefahr droht!",
+        "Mit dieser Magie legst Du\neinen Teleporterpunkt an.\nRufst Du Farores Kraft erneut an,\ngelangst Du dorthin zurück.",
+        "Du kannst den Teleporter\naber auch wieder aufheben\nund anderswo setzen, wenn\nDu Farores Magie beschwörst."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_FARORES_WIND)",
+        "ITEM_ICON(ITEM_FARORES_WIND)",
+        "ITEM_ICON(ITEM_FARORES_WIND)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00EC",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Dins Feuerinferno kannst Du nicht\nnur für Attacken nutzen.\nDu kannst damit auch manches in\nBrand setzen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00ED",
+      "section": "F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Vergiß nicht: Farores Donnersturm\nkannst Du nur in einem Labyrinth\neinsetzen, in dem auch eine Karte\nversteckt ist. Alles klar?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7044",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Also, ich habe neulich in Lord\nJabu-Jabu gechillt, und ich fand es\nschade,",
+        "daß man dort nichts kaufen konnte,\nwas ja gerade im Inneren eines\nriesigen Fisches",
+        "mega praktisch gewesen wäre, weil\nich bereit gewesen wäre, meine\nsämtlichen Rubine",
+        "dort auszugeben, wenn da nur zufällig\nein Händler gewesen wäre, aber den\nhabe ich",
+        "natürlich nicht gesehen, weshalb ich\njetzt immer noch nicht weiß, wohin\nmit dem Geld,",
+        "weshalb ich jetzt einfach irgendeine\ndieser Masken für tausend Jahre\nmieten will,",
+        "und ich hoffe wirklich, daß das\nMaskengeschäft die nächsten Jahre\ndort stehen bleibt,",
+        "weil sich sonst ja die ganze\nlangfristige Mietplanung im nachhinein\nals ziemlich",
+        "unpraktisch herausstellen würde, und\ngerade bei so einer Maske muß man\nvorausdenken."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7045",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "pages": [
+        "Man sieht mich nur von weiter weg,\nansonsten würde auffallen, daß mein\nGesicht nur grottenschlecht aufgemalt\nwurde."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7046",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Merz hätte mich mit seinem Pferd\nfast umgeritten!",
+        "Das Resthaar saß aber noch. Leider.\nEinmal auf null, Herr Merz. Dann sieht\nman wenigstens den Verkehr."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7047",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Das war Friedrich Merz auf dem\nschwarzen Pferd. Kein Zweifel.",
+        "Hyrule umkrempeln, aber an diesen\ndrei Haaren festhalten. Warum? Mach\ndoch einfach auf null!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7048",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Zelda flieht, Merz dreht durch und\nalle haben Angst.",
+        "Und trotzdem frage ich mich: Was\nsoll diese Frisur? So wenig Haar\nkann doch keinen solchen Aufwand\nrechtfertigen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7049",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Er nennt uns weinerlich, während auf\nseinem Kopf noch drei Haare um ihren\nArbeitsplatz kämpfen.",
+        "Null Millimeter, Friedrich! Trau Dich!\nDas wäre endlich mal eine klare\nEntscheidung!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "704A",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können.",
+        "Auch in schweren Zeiten muß sich\njemand um die Stromversorgung\nkümmern. Ich mach das ehrenamtlich."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "704B",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Mr. Bean war mein Rettungssanitäter,\nals ich 'ne Überdosis hatte.",
+        "Jetzt hat er Zelda aus dem Schloß\ngerettet. Der Mann hat offenbar einen\nziemlich vollen Dienstplan."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "704D",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Zelda ist in den besten Händen. Mr.\nBean hat sie aus dem Schloß\ngerettet.",
+        "Dieser Mann ist ein Volksheld! Der\nläßt sie niemals im Stich. Darauf\nkannst Du Dich verlassen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "70EB",
+      "section": "G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Ich bin selbst kahl, also darf ich das\nsagen: Friedrich Merz muß komplett\nauf null gehen.",
+        "An so wenig Haaren festzuhalten,\nergibt keinen Sinn. Was soll das\nbitte? Eine Koalition der letzten drei\nSträhnen?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7004",
+      "section": "H. Wache im Krughaus – Tages- und Nachttext",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Wenn etwas kaputtgeht, finde ich das\nimmer mega witzig. Wirklich immer.",
+        "Krug fällt runter? Lustig. Stuhl bricht\nzusammen? Meisterwerk.",
+        "Das ist mein gesamter Humor. Es\ngibt keine zweite Ebene. Ich bin\nvollkommen zufrieden.",
+        "[A] hebt den Krug. Nochmal [A] wirft\nihn. Und dann kommt die Pointe: Der\nKrug ist kaputt."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "709A",
+      "section": "H. Wache im Krughaus – Tages- und Nachttext",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Nachts ist es hier still. Leider geht\ndabei viel zu wenig kaputt.",
+        "Tagsüber zerlegt so ein Waldkind die\nKrüge. Ich lache jedes einzelne Mal.",
+        "Die Kollegen sagen, mein Humor sei\neindimensional. Ich sage: KRRRACH!",
+        "Siehst Du? Schon wieder lustig.\nGroßartiges Gespräch."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0606",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Ein Zangengeiferer. Nimm Deine\nZangen da weg, Du widerlicher\nDrecksack! Keiner will von Dir\nangefaßt werden."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0614",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Barinade. Du hängst hier in Jabus\nInnereien und kackst alles mit Strom\nvoll. Widerliches Drecksvieh."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0615",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Ein Parasiten-Tentakel.\n[Spielername], hau das ab. Ich hab'\nkeinen Bock, daß dieser glitschige\nScheiß mich berührt."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0616",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Eine Blubberblase. Die hält sich\nernsthaft für ein Hindernis. Du bist\nLUFT. Verpiß Dich."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0617",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Eine Zappelqualle. Pack Deinen Strom\nweg, Du glibberiges Arschloch. Ich\nwill hier einfach nur vorbei!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0618",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Eine große Zappelqualle. Ja, Du bist\ngrößer. Du bist aber immer noch\nderselbe beschissene Schleimklumpen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0619",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Ein Elektromanta. Liegt erst feige im\nBoden und springt uns dann ins\nGesicht. Richtig dreckige Nummer."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0627",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Mach die Fresse noch einmal auf! Ich\nbrech' diese Scheißmuschel in der\nMitte durch, ich schwör's Dir!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0642",
+      "section": "I. Navi-Zielerfassung – Gegner dieses Abschnitts",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Ein Oktorok. Der spuckt uns\nernsthaft ins Gesicht. Schluck Deinen\neigenen Dreck, Du widerliches\nArschloch!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "402C",
+      "section": "J. Gespeicherte Zusatzvariante – Ruto neben dem König",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_jabu_de.json"
+      ],
+      "pages": [
+        "Ich bleibe erst einmal verschwunden.\nMein Vater kann Merz ja statt des\nSaphirs einen hübschen Kiesel\nanbieten."
+      ],
+      "controls": [],
+      "notes": "Dieser Text liegt im Spiel vor. In der deutschen Fassung wird junge Ruto neben dem König nach dem Saphir jedoch entfernt; normalerweise dort nicht mehr ansprechbar.",
+      "locations": []
+    }
+  ]
+}

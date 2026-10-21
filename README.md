@@ -1,3 +1,9 @@
+# Dialogliste: nach Dodongo bis zum Master-Schwert
+
+[Dialoge lesen](Storydialoge_Dodongo_bis_Masterschwert.md) · [Textdatei](Storydialoge_Dodongo_bis_Masterschwert.txt?raw=true) · [Download als ZIP](Storydialoge_Dodongo_bis_Masterschwert.zip?raw=true)
+
+185 Text-IDs aus dem aktuellen V9-Spielstand, mit Seiten, Antworten und Varianten. Endet bei Merz nach dem Ziehen des Schwerts, vor Robert Habecks menschlichem Auftritt. Reine Arbeitsliste; keine ROM-Änderung.
+
 # Goronen- und Darunia-Dialoge V9
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Goronen_Dialoge_V9.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Goronen_Dialoge_V9.bps?raw=true) · [Eingebaute neue Texte](Goronen_Dialoge_V9_Texte.md) · [Prüfung](Goronen_Dialoge_V9_Aenderungen.md) · [Quellen](Merzen_Goronen_Dialoge_V9_Quellen_Patch.zip?raw=true)

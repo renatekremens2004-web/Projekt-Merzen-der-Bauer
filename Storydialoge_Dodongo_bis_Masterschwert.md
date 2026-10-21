@@ -1,0 +1,3145 @@
+# Aktuelle Dialoge: nach Dodongo bis zum Master-Schwert
+
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V9. Dies ist eine reine Abschrift zum Durchgehen und Umschreiben. Es wurden keine Dialoge und keine ROM-Dateien geändert.
+
+Beginn: Darunias Auftritt nach König Dodongo. Ende: Merz’ kurze Rede unmittelbar nach dem Ziehen des Master-Schwerts (700A), noch vor dem Erwachen/Gespräch mit Robert Habeck in menschlicher Gestalt (704E).
+
+Jede vierstellige Nummer ist eine Text-ID. Jede Seite und jede Auswahl bleibt einzeln erkennbar; [Spielername] ist dynamisch. Angezeigt wird der tatsächliche deutsche Wortlaut einschließlich vorhandener Originaltexte. Die Hauptgeschichte und ihre bedingten Alternativen stehen zuerst; frei erreichbare Nebenbegegnungen und Gegner-Zielerfassung folgen im Anhang. Diese Varianten werden nicht alle automatisch hintereinander abgespielt.
+
+**Zum Bearbeiten:** Beispielsweise „401A, Seite 2 neu: …“ oder „013F ersetzen durch …“.
+
+## Inhaltsübersicht
+
+- 1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung
+- 2. Todesberg-Gipfel – Goronen, Große Fee und Eule
+- 3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen
+- 4. Eule auf dem Weg und am Zora-Fluß
+- 5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost
+- 6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge
+- 7. Flaschenpost, Navi und König Zora rückt beiseite
+- 8. In Jabu-Jabu – Ruto begegnen, tragen und suchen
+- 9. Navi – örtliche Hinweise in Jabu-Jabu
+- 10. Ruto findet den Saphir – Plattform und großer Oktorok
+- 11. Barinade – Begrüßung vor dem Kampf
+- 12. Nach Barinade – Ruto, Zora-Saphir und Abschied
+- 13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia
+- 14. Flucht vor dem Schloß – Friedrich Merz spricht Link an
+- 15. Okarina im Graben – Zelda und die Hymne der Zeit
+- 16. Optionaler Abschied – sterbender Soldat in der Gasse
+- 17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert
+- 18. Nach dem Ziehen des Master-Schwerts – Merz, noch vor Habeck
+- A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung
+- B. Frösche am Zora-Fluß – normale Liedbelohnung
+- C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz
+- D. Neue Begegnungen in Jabu-Jabu – Okto und Nintendo 64
+- E. Deku-Händler in Jabu-Jabu und der besondere Kartentext
+- F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch
+- G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte
+- H. Wache im Krughaus – Tages- und Nachttext
+- I. Navi-Zielerfassung – Gegner dieses Abschnitts
+- J. Gespeicherte Zusatzvariante – Ruto neben dem König
+
+## 1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung
+
+### 3023
+
+Projekttext.
+
+**Seite 1**
+
+> Bruder! Du hast die Dodongos
+> bezwungen. Unser Volk kann wieder
+> an seine Nahrung!
+
+**Seite 2**
+
+> Merz versprach Wohlstand und
+> hinterließ einen Einsturz. Du kamst
+> ohne Wahlplakat und hast uns
+> geholfen.
+
+### 3048
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Native kurze Zwischenzeile der Darunia-Szene; bislang Originaltext.
+
+**Seite 1**
+
+> Welch aufregendes Abenteuer...
+> Es liefert Stoff für eine 
+> Legende...
+
+**Seite 2**
+
+> Noch immer kann ich nicht 
+> glauben, daß die Dodongos, die wir 
+> für ausgestorben hielten, in so
+> großer Anzahl zurückkehrten...
+
+**Seite 3**
+
+> Und der Fels, der den Eingang 
+> der Höhle versperrte...
+
+**Seite 4**
+
+> Für all dies war Ganondorf,
+> der Gerudokönig, verantwortlich.
+
+**Seite 5**
+
+> Er sprach: 
+> "Gebt mir den Heiligen Stein und
+> ich werde eure Höhle wieder 
+> öffnen!"
+
+**Seite 6**
+
+> Du hast Dein Leben für uns 
+> riskiert...
+
+### 3004
+
+Projekttext.
+
+**Seite 1**
+
+> Ich mag Dich, Kleiner!
+
+**Seite 2**
+
+> Du und ich sollten Blutsbrüder
+> werden. Freundschaft hält hoffentlich
+> länger als ein Bergbauversprechen.
+
+**Seite 3**
+
+> Nimm den Goronen-Opal als Zeichen
+> unserer Freundschaft. Den hast Du
+> Dir verdient!
+
+### 0081
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Der Goronen-Opal!
+> Von den Goronen wurde Dir
+> dieser Heilige Stein
+> des Feuers übergeben!
+
+### 3000
+
+Projekttext.
+
+**Seite 1**
+
+> Nun sind wir Blutsbrüder. Zwei Heilige
+> Steine hast Du. Suche den dritten!
+> Und laß Dir von Merz keinen Schotter
+> als Juwel verkaufen.
+
+### 3001
+
+Projekttext.
+Alternative nach dem Goronen-Opal, falls dieser ausnahmsweise der dritte Heilige Stein ist. Im normalen Verlauf zeigt die Szene 3000.
+
+**Seite 1**
+
+> Alle drei Heiligen Steine! Suche Zelda
+> auf. Wenn Merz sie bekommt, erklärt
+> er das Triforce noch zum
+> Investitionsobjekt.
+
+### 3068
+
+Projekttext.
+
+**Seite 1**
+
+> Bruder, denke daran, Deine Kräfte zu
+> stärken. Du mußt nicht die ganze
+> Welt allein schleppen.
+
+**Seite 2**
+
+> Auf dem Gipfel des Todesberges lebt
+> eine Fee. Sie kann Dir helfen.
+
+**Seite 3**
+
+> Freunde! Verabschiedet unseren
+> Bruder VORSICHTIG. Er ist ein Kind.
+> Ihr brecht ihm sonst noch die
+> Knochen!
+
+### 3005
+
+Projekttext.
+Zeitgesteuerte Textcodes: FADE(30). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> LEUTE! VORSICHT!
+
+### 3006
+
+Projekttext.
+Zeitgesteuerte Textcodes: FADE(30). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> DAS IST EIN KIND, ALTER!
+
+### 3027
+
+Projekttext.
+
+**Seite 1**
+
+> Danke, Bruder! Wir können wieder
+> Steine essen. Den Kohlenstaub darf
+> Merz sich selbst auf den Teller
+> kippen.
+
+### 3067
+
+Projekttext.
+
+**Seite 1**
+
+> Du hast den Roten Stein? Darf ich
+> ein winziges Stück probieren?
+
+**Seite 2**
+
+> Nein? Schon gut. Bei Merz nennt man
+> das offenbar geschütztes
+> Privatvermögen.
+
+### 301E
+
+Projekttext.
+
+**Seite 1**
+
+> Komm wieder und spiel uns etwas
+> vor, Bruder! Ein Konzert ist mir
+> lieber als Merz' nächste
+> Grundsatzrede.
+
+**Seite 2**
+
+> Ich bin übrigens der einzige Gorone
+> hier, der Chef ist. Das ist doch wohl
+> ein Alleinstellungsmerkmal!
+
+### 301F
+
+Projekttext.
+
+**Seite 1**
+
+> Alle Goronen essen Steine? Schon.
+> Aber nicht alle essen sie mit meiner
+> Führungsverantwortung!
+
+Text 0081 ist oben bereits vollständig enthalten.
+
+## 2. Todesberg-Gipfel – Goronen, Große Fee und Eule
+
+### 3064
+
+Projekttext.
+
+**Seite 1**
+
+> Wenn ich am Strand schwimmen
+> gehe, sterbe ich.
+
+**Seite 2**
+
+> Deshalb bleibe ich auf dem Berg. Auf
+> dem Gipfel lebt übrigens eine Fee.
+> Die solltest Du besuchen.
+
+### 3065
+
+Projekttext.
+
+**Seite 1**
+
+> Die Fee auf dem Gipfel hilft Dir
+> bestimmt. Nimm einen großen Schild
+> gegen die herabfallenden Brocken mit.
+
+**Seite 2**
+
+> Ich bleibe hier. Ein Berg wirft
+> manchmal Steine auf mich. Das Meer
+> würde mich ganz behalten.
+
+### 00D7
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Hallo mein süßer [Spielername]!
+> Ich bin die Fee der Fähigkeiten!
+
+**Seite 2**
+
+> Ich verleihe Dir mit meiner Macht
+> eine neue Schwert-Technik!
+
+**Seite 3**
+
+> Sei bereit!
+
+### 00DD
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Du beherrschst die kraftvolle
+> Wirbelattacke!
+
+**Seite 2**
+
+> Halte [B] gedrückt, um Dein
+> Schwert aufzuladen. Laß [B]
+> los, um einen energiegeladenen
+> Rundumschlag auszuführen!
+
+**Seite 3**
+
+> Bewegst Du [Control-Pad] einmal im Kreis
+> und drückst dann [B], kannst Du
+> die Wirbelattacke sofort und ohne
+> Wartezeit ausführen.
+
+### 00DB
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Gemeinsame Heilungsnachricht bei erneutem Fee-Besuch.
+
+**Seite 1**
+
+> Hallo mein süßer [Spielername]!
+> Ich werde Deine Wunden heilen.
+
+### 00DA
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Gemeinsamer Große-Fee-Abschied.
+
+**Seite 1**
+
+> Wenn Du vom Kampf erschöpft
+> bist, kannst Du mich jederzeit
+> wieder besuchen!
+
+### 3062
+
+Projekttext.
+
+**Seite 1**
+
+> Der Gipfel, [Spielername]. Das ist
+> eine Leistung. Ich will die
+> Anstrengung dahinter gar nicht
+> kleinreden.
+
+**Seite 2**
+
+> Die Wolken zeigen, wie es dem Berg
+> geht. Weiß heißt Frieden. Das ist ein
+> Indikator, keine dauerhafte Garantie.
+
+**Seite 3**
+
+> Mut hast Du bewiesen. Nun wäre es
+> vernünftig, Unterstützung anzunehmen.
+> Das ist keine Schwäche.
+
+**Seite 4**
+
+> Hier lebt die Mutter aller Feen. Such
+> sie auf. Manche Investitionen in die
+> eigene Zukunft bezahlt zum Glück
+> jemand anders.
+
+**Seite 5**
+
+> Danach kann ich Dich zum Fuß des
+> Berges bringen. Der Abstieg muß
+> nicht dieselbe Belastung haben wie
+> der Aufstieg.
+
+### 3063
+
+Projekttext.
+
+**Seite 1**
+
+> Die Fee hat Dir geholfen. Jetzt hast
+> Du mehr Möglichkeiten. Das ist erst
+> einmal ein Zugewinn an
+> Handlungsspielraum.
+
+**Seite 2**
+
+> Energie muß verfügbar sein, wenn
+> man sie braucht. Nur zu behaupten,
+> man habe welche, hilft im Ernstfall
+> wenig.
+
+**Seite 3**
+
+> Für den Flug zum Fuß des Berges
+> halte Dich an meinen Krallen fest. Da
+> möchte ich beim Sicherheitskonzept
+> keine Interpretationsspielräume.
+
+## 3. Navi nach Dodongos Höhle und Salias frühe Rückmeldungen
+
+### 0135
+
+Projekttext.
+Natürlicher Navi-Storyruf nach dem Goronen-Opal. Er übersteuert in der deutschen Fassung die normalen Hinweise 0148/0149.
+
+**Seite 1**
+
+> Wir waren schon wieder in einem
+> Mund! Dodongos Höhle lag in einem
+> riesigen Gerippe.
+
+**Seite 2**
+
+> Und kurz vor dem Boß mußten wir
+> auch noch durch einen gewaltigen
+> Dodongo-Schädel. Also Mund im
+> Mund!
+
+**Seite 3**
+
+> Erst der Deku-Baum, jetzt das. Ich
+> möchte unser nächstes Reiseziel bitte
+> von außen kennenlernen.
+
+### 0148
+
+Projekttext.
+Grundzustand im Hinweisskript. Nach dem Opal wird stattdessen 0135 angeboten; dieser gespeicherte Text ist deshalb nicht einfach der nächste hörbare Satz.
+
+**Seite 1**
+
+> Wir retten Goronia, und die erste
+> Empfehlung ist noch mehr Leistung.
+> Immerhin hilft die Fee auf dem Gipfel
+> tatsächlich.
+
+### 0149
+
+Projekttext.
+Wie 0148: Nach dem Opal in Deutsch durch 0135 ersetzt.
+
+**Seite 1**
+
+> Salia weiß vielleicht etwas über den
+> letzten Heiligen Stein. Mir ist jemand
+> mit Walderfahrung lieber als noch ein
+> Bergbauunternehmer.
+
+### 0162
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Salias Lied rufen: frühe Reaktion auf Darunias Tanz/Armband. Kann schon vor dem hier gesetzten Abschnitt vorkommen.
+
+**Seite 1**
+
+> Ich habe mich sehr gefreut, daß
+> Darunia mein Lied gefallen hat!
+
+**Seite 2**
+
+> Noch schöner finde ich, daß es
+> Dir bei Deiner Mission geholfen
+> hat, [Spielername]!
+
+### 0163
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Salias Lied rufen: Hinweis auf den noch fehlenden Wasserstein.
+
+**Seite 1**
+
+> Sammelst Du die Heiligen Steine?
+> Du mußt noch einen finden? Den
+> Heiligen Stein des Wassers, oder?
+
+**Seite 2**
+
+> Der Deku-Baum erzählte mir einst,
+> daß ihn König Zora besitzt...
+
+### 0164
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Ältere Zustandsvariante bei fehlendem Fortschritt; kein zusätzlicher Satz jedes Anrufs.
+
+**Seite 1**
+
+> Sammelst Du die Heiligen Steine?
+> Du mußt noch einen finden? Den
+> Heiligen Stein des Feuers, oder?
+
+**Seite 2**
+
+> Der Deku-Baum erzählte mir einst,
+> daß ihn Darunia, der Gebieter über
+> Goronia, besitzt...
+
+## 4. Eule auf dem Weg und am Zora-Fluß
+
+### 206F
+
+Projekttext.
+Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(40). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> [Spielername], mehrere Wege. Das
+> ist erst einmal Freiheit. Und im
+> zweiten Schritt eine ziemlich
+> konkrete Entscheidung.
+
+**Seite 2**
+
+> Man merkt erst, wie wichtig Wasser
+> ist, wenn es fehlt. Oder wenn jemand
+> beschließt, daß es ein Luxusgut sein
+> soll.
+
+**Seite 3**
+
+> Eine Brücke verbindet zwei Ufer.
+> Politisch klingt das hervorragend.
+> Baulich wäre ich schon froh, wenn sie
+> einfach stehenbleibt.
+
+**Seite 4**
+
+> Man kann nicht jede Richtung
+> gleichzeitig einschlagen. Außer
+> rhetorisch. Aber davon kommst Du
+> hier nicht weiter.
+
+### 2070
+
+Projekttext.
+
+**Seite 1**
+
+> Zuversicht heißt nicht, daß alles gut
+> wird. Zuversicht heißt, daß es einen
+> Unterschied macht, ob Du etwas tust.
+
+### 4031
+
+Projekttext.
+Zora-Fluß-Eule, wenn Salias Lied UND Zeldas Wiegenlied bekannt sind; das ist bei normalem Fortschritt nach Dodongo die passende Variante.
+
+**Seite 1**
+
+> Ah, [Spielername]. Mehr Erfahrung,
+> mehr Kraft. Wobei mehr Kraft allein
+> die Frage nach dem Zugang noch
+> nicht beantwortet.
+
+**Seite 2**
+
+> Vor Dir liegt Zoras Reich. Die Zoras
+> schützen das Wasser. Das ist
+> Daseinsvorsorge, wenn man so will.
+
+**Seite 3**
+
+> Sie lassen einen königlichen
+> Abgesandten hinein. Berechtigtes
+> Vertrauen braucht hier einen hörbaren
+> Nachweis.
+
+**Seite 4**
+
+> Spiele vor dem Portal das Schlaflied
+> der Königsfamilie. In diesem Fall ist
+> Musik tatsächlich der Schlüssel. Ganz
+> ohne Übertragung.
+
+### 4017
+
+Projekttext.
+Alternative der Fluß-Eule: Salias Lied bekannt, Zeldas Wiegenlied noch nicht bekannt.
+Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(40). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> Ah, [Spielername]. Da bist Du ja.
+
+**Seite 2**
+
+> Du hast Fortschritte gemacht. Das
+> ist sichtbar. Nun müssen daraus auch
+> die richtigen nächsten Schritte folgen.
+
+**Seite 3**
+
+> Hast Du den Goronen-Opal? Dann
+> möchte Zelda Dich sicher
+> wiedersehen. Wir sollten Erfolge auch
+> kommunizieren.
+
+**Seite 4**
+
+> Kurz durchatmen ist vernünftig.
+> Dauerhaft stehenbleiben wäre
+> hingegen keine tragfähige Strategie.
+
+### 4002
+
+Projekttext.
+Alternative der Fluß-Eule: Salias Lied noch nicht bekannt.
+Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(40). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> [Spielername], bevor Du
+> weitergehst, eine Frage zur sozialen
+> Lage.
+
+**Seite 2**
+
+> Wie geht es Salia? Besuch sie doch.
+> Beziehungen sind keine Infrastruktur,
+> die man einmal baut und dann nie
+> mehr wartet.
+
+## 5. Zoras Reich – Bewohner, Prinzessin und König vor der Flaschenpost
+
+### 4006
+
+Projekttext.
+
+**Seite 1**
+
+> Besuch? Willkommen bei den Zoras!
+
+**Seite 2**
+
+> Wir wohnen im Wasser. Unser König
+> hat trotzdem Klimaanlagen bestellt.
+> Ich bin sicher, er hat sich etwas
+> dabei gedacht.
+
+**Seite 3**
+
+> Also... Ich hoffe es. Bitte sprich ihn
+> nicht auf die Montage an. Dann
+> erklärt er Dir wieder, wie Strom
+> durch Wasser schwimmt.
+
+### 4007
+
+Projekttext.
+
+**Seite 1**
+
+> Wir können hervorragend tauchen.
+> Leider können wir dadurch auch jede
+> königliche Fehlentscheidung von unten
+> betrachten.
+
+**Seite 2**
+
+> Thaddäus veranstaltet ein Tauchspiel.
+> Seine Laune kann ohnehin nicht
+> schlechter werden.
+
+### 4008
+
+Projekttext.
+Erstansprache; Wiederholungs-ID: 4009.
+
+**Seite 1**
+
+> Unser Fluß entspringt Zoras Quelle.
+> Unser politischer Unsinn entspringt
+> dem Thronsaal.
+
+### 4009
+
+Projekttext.
+Wiederholung bei erneutem Ansprechen nach 4008.
+
+**Seite 1**
+
+> Ruto füttert Jabu-Jabu. Der König
+> nennt das eine königliche Aufgabe.
+> Seine eigene Aufgabe ist offenbar das
+> Herumsitzen.
+
+### 400A
+
+Projekttext.
+
+**Seite 1**
+
+> Ich mag Rockmusik. Die Goronen tun
+> immer so, als hätten sie Gitarren
+> erfunden, nur weil sie Steine essen.
+
+### 400B
+
+Projekttext.
+Wiederholung bei erneutem Ansprechen nach 402F.
+
+**Seite 1**
+
+> Ich wollte dem König meine Band
+> vorstellen. Er fragte, ob Rockmusik
+> seine Klimaanlagen antreiben kann.
+
+### 400C
+
+Projekttext.
+
+**Seite 1**
+
+> Warst Du schon bei Jabu-Jabu?
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 400D
+
+Projekttext.
+
+**Seite 1**
+
+> Wenn Du ihm einen Fisch anbietest,
+> macht Jabu-Jabu den Mund auf. Ich
+> sage nur, was passiert. Ich empfehle
+> es ausdrücklich nicht.
+
+### 400E
+
+Projekttext.
+
+**Seite 1**
+
+> Du hast also noch kein Gespräch mit
+> einem riesigen Wal geführt. Sehr
+> vernünftig.
+
+**Seite 2**
+
+> Jabu-Jabu lebt hinter dem Thron,
+> draußen bei der Quelle. Der König
+> versperrt leider den Durchgang.
+
+**Seite 3**
+
+> Er nennt sich einen vorausschauenden
+> Herrscher. Vermutlich, weil er die Tür
+> hinter sich seit Jahren nicht gesehen
+> hat.
+
+**Seite 4**
+
+> Ohne seine Erlaubnis kommst Du
+> nicht durch. Wenn Du eine wichtige
+> Nachricht für ihn hast, zeig sie ihm.
+
+### 400F
+
+Projekttext.
+
+**Seite 1**
+
+> Ruto ist mit dem Saphir
+> verschwunden. Der König sucht sie
+> seit Stunden. Also... Er ruft ihren
+> Namen, ohne aufzustehen.
+
+### 4010
+
+Projekttext.
+
+**Seite 1**
+
+> Hast Du etwas von Ruto gehört?
+> Zeig es dem König. Möglichst
+> schriftlich und mit wenigen
+> schwierigen Wörtern.
+
+### 4011
+
+Projekttext.
+
+**Seite 1**
+
+> Der Fluß führt bis zum Hylia-See.
+> Wenn Ruto untertauchen will, hat sie
+> also reichlich Auswahl.
+
+**Seite 2**
+
+> Der König hat als Suchmaßnahme
+> angeordnet, daß das Wasser kurz
+> stehenbleiben soll. Wir warten noch
+> auf die Durchführung.
+
+### 4020
+
+Projekttext.
+
+**Seite 1**
+
+> Sag mal, gibt es eigentlich
+> Zora-Frauen? Ich sehe hier immer nur
+> Zoras.
+
+**Seite 2**
+
+> Vielleicht lassen sie sich einfach
+> schwer unterscheiden. Das wäre
+> natürlich eine Erklärung.
+
+**Seite 3**
+
+> Warte mal. Bin ich selbst eine Frau?
+> Ich muß mich kurz setzen. Ach, ich
+> schwimme ja schon.
+
+### 4021
+
+Projekttext.
+
+**Seite 1**
+
+> Ich habe im See eine Flasche
+> gefunden. Hoffentlich ist es keine
+> Rechnung für königliche Klimaanlagen.
+
+### 402D
+
+Projekttext.
+
+**Seite 1**
+
+> [Spielername], ich kenn' Mido.
+> Richtiger Wichser. Der wollte mir
+> erklären, wie man richtig schwimmt.
+> MIR. Einem Zora.
+
+### 402E
+
+Projekttext.
+
+**Seite 1**
+
+> [Spielername], hast Du mal drauf
+> geachtet, wie sau crazy die Musik für
+> 'ne Sekunde klingt, wenn man Zoras
+> Höhle verläßt?
+
+### 402F
+
+Projekttext.
+Erstansprache; Wiederholungs-ID: 400B.
+
+**Seite 1**
+
+> Unser König hat sich Klimaanlagen für
+> unter Wasser versprechen lassen.
+> Eine staatstragende Entscheidung.
+
+**Seite 2**
+
+> Er gibt dafür den Saphir her. Wir
+> hätten vielleicht erst fragen sollen,
+> wo er die Steckdosen anbringen will.
+
+**Seite 3**
+
+> Ich spiele übrigens Rockmusik. Wir
+> suchen noch jemanden, der den
+> Schlagzeuger vor solchen politischen
+> Gesprächen schützt.
+
+### 401A
+
+Projekttext.
+König Zora als Kind vor dem Vorzeigen von Rutos Brief.
+
+**Seite 1**
+
+> Friedrich Merz hat mir Klimaanlagen
+> versprochen! Damit retten wir die
+> Zoras vor dem Klimawandel. Ich bin
+> ein Genie.
+
+**Seite 2**
+
+> Dafür bekommt er den Zora-Saphir.
+> Ein Stein gegen kalte Luft! Wer
+> würde da schon nein sagen?
+
+**Seite 3**
+
+> Leider ist meine Tochter mit dem
+> Stein abgehauen. Ich kann sie nicht
+> finden. RUTO! Hm. Keine Antwort.
+> Sehr rätselhaft.
+
+## 6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge
+
+### 4053
+
+Projekttext.
+
+**Seite 1**
+
+> Ach. Ein Kind. Genau das hat meinem
+> Tag noch gefehlt. Ich bin Thaddäus.
+> Künstler. Verkannt, versteht sich.
+
+**Seite 2**
+
+> Friedrich Merz ist ein Geizkragen, der
+> die Kunst nicht respektiert. Für eine
+> Klarinettenstunde kein Rubin, aber
+> Kohle findet er großartig.
+
+**Seite 3**
+
+> Also veranstalte ich dieses
+> Tauchspiel. Die einzige Kunst, die hier
+> bezahlt wird, ist offenbar das
+> Geldversenken.
+
+**Seite 4**
+
+> Tauchspiel: 20 Rubine. Na?
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4054
+
+Projekttext.
+
+**Seite 1**
+
+> Wunderbar. Ein zahlender Störenfried.
+> Welch seltener Glücksfall.
+
+**Seite 2**
+
+> Ich werfe fünf Rubine hinunter.
+> Sammle sie alle ein, bevor die Zeit
+> abläuft. Möglichst ohne Deine übliche
+> Zirkusnummer.
+
+**Seite 3**
+
+> Komm danach zu mir zurück. Dann
+> gibt es eine Belohnung. Einen Applaus
+> darfst Du Dir selbst vorstellen.
+
+### 405A
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Kurze Startanzeige des Tauchspiels.
+
+**Seite 1**
+
+> START!
+
+### 405B
+
+Projekttext.
+
+**Seite 1**
+
+> Spring den Wasserfall hinab. Dort
+> liegen die Rubine. Und hier oben liegt
+> mir langsam Dein Anblick auf den
+> Nerven.
+
+### 4055
+
+Projekttext.
+
+**Seite 1**
+
+> Du hast gewonnen. Wie unerwartet.
+> Komm hoch und hol Deine Belohnung,
+> bevor Du noch eine Zugabe verlangst.
+
+### 4056
+
+Projekttext.
+
+**Seite 1**
+
+> Na schön. Dein Tauchstil war
+> erträglicher als das Kulturprogramm
+> dieses Königreichs.
+
+**Seite 2**
+
+> Hier, die silberne Schuppe. Damit
+> kannst Du tiefer tauchen. Vielleicht
+> findest Du dort unten jemanden, der
+> Deine Begeisterung teilt.
+
+### 00CD
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Die Silberne Schuppe!
+> Begib Dich ins Wasser und
+> drücke [A]. Jetzt kannst Du
+> tiefer tauchen als zuvor!
+
+### 405C
+
+Projekttext.
+
+**Seite 1**
+
+> Wieder Du. Ich hatte gehofft, mein
+> nächster Besucher wäre ein Mäzen.
+> Oder wenigstens die Stille.
+
+**Seite 2**
+
+> Noch eine Runde für 20 Rubine?
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 405D
+
+Projekttext.
+
+**Seite 1**
+
+> Schon wieder gewonnen.
+> Hervorragend. Meine Begeisterung ist
+> nur gerade in der Mittagspause.
+
+### 0136
+
+Projekttext.
+Tauchspiel verloren.
+
+**Seite 1**
+
+> Verloren. Du trauriger Clown. So viel
+> Gezappel, und nicht einmal das
+> Publikum ist geblieben.
+
+**Seite 2**
+
+> Übe erst einmal. Ich versuche
+> inzwischen, den Anblick aus meinem
+> Gedächtnis zu streichen.
+
+### 0138
+
+Projekttext.
+Zu wenige Rubine für das Tauchspiel.
+
+**Seite 1**
+
+> Nicht einmal 20 Rubine? Ein Künstler
+> kann von Deinem großen Talent zum
+> Herumstehen leider nicht leben.
+
+### 013B
+
+Projekttext.
+Tauchspiel abgelehnt.
+
+**Seite 1**
+
+> Endlich eine Entscheidung mit
+> künstlerischem Wert: Du läßt mich in
+> Ruhe.
+
+## 7. Flaschenpost, Navi und König Zora rückt beiseite
+
+### 0099
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Eine Flasche!
+> Fülle etwas hinein und nutze
+> sie mit [C]... Oh! Da ist ja
+> bereits etwas drin!
+
+### 4005
+
+Projekttext.
+
+**Seite 1**
+
+> In der Flasche steckt ein Brief. Er
+> riecht nach Fisch. Überraschung.
+
+**Seite 2**
+
+> Ich verstecke mich im Inneren von
+> Jabu-Jabu vor Friedrich Merz. Hier
+> sucht er mich bestimmt nicht.
+
+**Seite 3**
+
+> Der würde sich niemals schmutzig
+> machen. Und hier ist wirklich alles
+> voller Schleim. Ein hervorragendes
+> Versteck!
+
+**Seite 4**
+
+> Ruto. PS: Verrate meinem Vater
+> nichts. Er hat meinen Saphir schon
+> jemandem versprochen, ohne mich zu
+> fragen.
+
+### 014A
+
+Projekttext.
+Natürlicher Navi-Storyruf, solange Rutos Brief in einer Flasche steckt und der Zora-Saphir fehlt.
+
+**Seite 1**
+
+> Och nee, oder? Die ist jetzt nicht
+> ernsthaft in diesem scheiß Fisch
+> drin?
+
+**Seite 2**
+
+> Ich schwör, wenn wir da jetzt
+> reinmüssen, dann raste ich aus! Wir
+> waren schon im Baum und durch
+> einen riesigen Schädel!
+
+### 401B
+
+Projekttext.
+Brief vorgezeigt; König liest ihn und gibt den Durchgang frei.
+Direkte native Fortsetzung: 401C.
+
+**Seite 1**
+
+> Ein Brief von Ruto! Meine
+> Suchstrategie hat funktioniert. Sie
+> hat mich gefunden!
+
+**Seite 2**
+
+> Sie versteckt sich im Inneren von
+> Jabu-Jabu? Aber da ist es doch naß.
+> Da kann man doch nicht wohnen!
+
+**Seite 3**
+
+> Obwohl... Wir wohnen ja auch im
+> Wasser. Hm. Egal. Der Saphir ist
+> jedenfalls für meine Klimaanlagen
+> bestimmt!
+
+**Seite 4**
+
+> Merz war sehr freundlich. Er hat
+> gesagt, ich müsse mich um nichts
+> kümmern. Genau das mache ich
+> seitdem.
+
+**Seite 5**
+
+> Du darfst hinter mir durch. Hol bitte
+> Ruto und den Stein. Ich rücke gleich
+> zur Seite. Einen Moment. Noch einen.
+
+**Seite 6**
+
+> Den Brief behalte ich. Die Flasche
+> kannst Du mitnehmen. Vielleicht
+> findest Du damit auch eine
+> Klimaanlage.
+
+### 401C
+
+Projekttext.
+Wiederholungszustand nach dem Vorzeigen des Briefs, vor dem Zora-Saphir.
+
+**Seite 1**
+
+> Finde bitte Ruto. Und den Saphir.
+> Sonst merkt Merz, daß ich ihm etwas
+> verkauft habe, das ich gar nicht habe.
+
+## 8. In Jabu-Jabu – Ruto begegnen, tragen und suchen
+
+### 404B
+
+Projekttext.
+
+**Seite 1**
+
+> Hey! Wer bist Du denn?
+
+**Seite 2**
+
+> Ich bin Ruto, Prinzessin der Zoras.
+> Und ich möchte gerade nicht gefunden
+> werden.
+
+**Seite 3**
+
+> Mein Vater hat Dich geschickt?
+> Großartig. Ein königlicher Suchtrupp
+> aus genau einem Kind.
+
+**Seite 4**
+
+> Er hat meinen Saphir Merz
+> versprochen. Für Klimaanlagen! Der
+> hat doch einen an der Flosse.
+
+**Seite 5**
+
+> Ja, die Flaschenpost ist von mir.
+> Verstecken und um Hilfe bitten
+> schließen sich nicht aus, wenn hier
+> plötzlich alles voller Monster ist.
+
+**Seite 6**
+
+> Merz würde sich niemals hier durch
+> den Schleim bewegen. Der läßt andere
+> Leute für sich dreckig werden.
+
+**Seite 7**
+
+> Mein Vater rastet aus, wenn ich ohne
+> seinen Klimaanlagen-Stein
+> zurückkomme.
+
+**Seite 8**
+
+> Also bleibe ich vorerst hier. Du
+> kannst Dich derweil ruhig ein bißchen
+> weniger auffällig anstellen.
+
+### 404C
+
+Projekttext.
+
+**Seite 1**
+
+> Warum schaust Du so? Es ist völlig
+> normal, in einem riesigen Fisch
+> herumzulaufen.
+
+**Seite 2**
+
+> Ich bin öfter hier. Andere Kinder
+> spielen im Garten. Ich gehe eben
+> durch einen Magen.
+
+**Seite 3**
+
+> Vore? Ich verstehe nicht. Was soll
+> das sein?
+
+**Seite 4**
+
+> Heute ist es allerdings etwas
+> unangenehm. Diese elektrischen
+> Quallen gehörten früher nicht zur
+> Einrichtung.
+
+**Seite 5**
+
+> Außerdem habe ich den Saphir
+> verloren. Solange der hier liegt, gehe
+> ich nirgendwohin.
+
+**Seite 6**
+
+> Wenn Du mir helfen willst, dann hilf.
+> Aber hör auf, jede Schleimhaut so
+> persönlich zu nehmen.
+
+### 404D
+
+Projekttext.
+
+**Seite 1**
+
+> Du willst mir also helfen? Gut.
+
+**Seite 2**
+
+> Dann darfst Du mich tragen. Ich
+> möchte nicht überall hineintreten, nur
+> weil Du den Begriff eines sicheren
+> Weges nicht kennst.
+
+**Seite 3**
+
+> Und laß mich nicht irgendwo liegen.
+> Ich bin eine Prinzessin, kein
+> vergessener Einkaufsbeutel.
+
+### 404E
+
+Projekttext.
+
+**Seite 1**
+
+> Warum läßt Du mich hier liegen? Ich
+> bin die Prinzessin, nicht Deine
+> zusätzliche Bodendekoration!
+
+## 9. Navi – örtliche Hinweise in Jabu-Jabu
+
+### 012F
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 2.
+
+**Seite 1**
+
+> Vorsicht, [Spielername]!
+> Dieses grüne, schleimige Ding ist
+> voller elektrischer Energie!
+
+### 0131
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
+
+**Seite 1**
+
+> Vorsicht, [Spielername]!
+> Dieses rote, schleimige Ding ist
+> voller elektrischer Energie!
+
+### 0132
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
+
+**Seite 1**
+
+> Vorsicht, [Spielername]!
+> Dieses blaue, schleimige Ding ist
+> voller elektrischer Energie!
+
+### 0133
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
+
+**Seite 1**
+
+> Der Schalter...
+> Sieht so aus, als könntest Du ihn
+> nicht betätigen, da Du allein zu 
+> leicht bist...
+
+### 0137
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
+
+**Seite 1**
+
+> Das rote, schleimige Ding ist fort!
+> Es verschwand, als Du den
+> Tentakel zerstört hast! Ob das
+> bei den anderen auch funktioniert?
+
+### 0139
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 5.
+
+**Seite 1**
+
+> Hinter dieser Wand befindet sich
+> ein Schalter!
+
+### 013A
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 6.
+
+**Seite 1**
+
+> Sieht so aus, als befände sich auf
+> dieser Plattform etwas!
+
+## 10. Ruto findet den Saphir – Plattform und großer Oktorok
+
+### 404F
+
+Projekttext.
+
+**Seite 1**
+
+> Da ist mein Saphir! Wirf mich auf
+> die Plattform. Möglichst mit etwas
+> mehr Anstand als bisher.
+
+### 4050
+
+Projekttext.
+
+**Seite 1**
+
+> Ruto hat den Heiligen Stein gefunden.
+> Schön. Aber wieso muß eine
+> Prinzessin dafür in einem Fisch
+> herumkriechen?
+
+### 4051
+
+Projekttext.
+
+**Seite 1**
+
+> Da ist er! Der Stein von meiner
+> Mutter!
+
+**Seite 2**
+
+> Ich habe ihn fallen lassen, als
+> Jabu-Jabu so wild gezuckt hat. Dann
+> lag er plötzlich hier unten.
+
+**Seite 3**
+
+> Meinen Vater interessiert bestimmt
+> wieder nur sein Deal mit Merz. Mich
+> interessiert, daß er meinen Stein
+> ungefragt verscherbeln will.
+
+**Seite 4**
+
+> Jetzt habe ich ihn wieder. Zeit,
+> diesem Fisch den Rücken zu kehren
+> und anschließend gründlich zu
+> verschwinden.
+
+### 4052
+
+Projekttext.
+
+**Seite 1**
+
+> Los, bringen wir uns hier raus. Ich
+> habe für heute genug Anatomie
+> gesehen.
+
+### 4048
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Zeitgesteuerte Textcodes: FADE(60). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> Iiiihhhh!!!
+> Was ist das denn?!
+> Ein Oktopus?!
+
+### 401E
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Ooooh neiiiin!
+
+### 013D
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Zusätzlicher von Rutos Akteur referenzierter Text. Nicht als automatisch nach jeder ihrer Zeilen auftauchende Fortsetzung lesen.
+
+**Seite 1**
+
+> WAAAAS!?
+
+**Seite 2**
+
+> Schau Dir all die Flaggen an!
+> Finde heraus, welche davon
+> echt ist!
+
+## 11. Barinade – Begrüßung vor dem Kampf
+
+### 013C
+
+Projekttext.
+
+**Seite 1**
+
+> Hey Leute, ich bin Barinade, wie
+> geht's denn so? Ich bring Euch um.
+
+## 12. Nach Barinade – Ruto, Zora-Saphir und Abschied
+
+### 4022
+
+Projekttext.
+
+**Seite 1**
+
+> Da bist Du ja! Hast Du unterwegs
+> noch einen Bademeister gesucht?
+
+**Seite 2**
+
+> Ich wollte gerade untertauchen. Also
+> diesmal im übertragenen Sinn. Hier
+> draußen ist ja schon Wasser genug.
+
+### 4023
+
+Projekttext.
+
+**Seite 1**
+
+> Ich hatte kurz Angst, daß mein Vater
+> auftaucht. Der brüllt lauter als jeder
+> Fischmagen.
+
+### 4024
+
+Projekttext.
+
+**Seite 1**
+
+> [Spielername]! [Spielername]!
+> Komm mal her!
+
+### 4025
+
+Projekttext.
+Die Szene bietet die Antwortzweige 4026 und 4029 an; beide sind aufgeführt.
+
+**Seite 1**
+
+> Gut. Wir sind draußen. Jabu-Jabu hat
+> jetzt wahrscheinlich mehr Löcher als
+> vorher. Aber wir leben.
+
+**Seite 2**
+
+> Du hast mir geholfen. Und ich
+> brauche jemanden, dem ich diesen
+> Stein anvertrauen kann.
+
+**Seite 3**
+
+> Was möchtest Du?
+>
+> Ich möchte den Heiligen Stein!
+> Eigentlich nichts...
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4026
+
+Projekttext.
+Direkte native Fortsetzung: 4027.
+
+**Seite 1**
+
+> Du meinst den Zora-Saphir, den mein
+> Vater gegen Klimaanlagen tauschen
+> wollte?
+
+### 4029
+
+Projekttext.
+Direkte native Fortsetzung: 4027.
+
+**Seite 1**
+
+> Du willst nichts? Wirklich? Das ist
+> schlecht. Ich muß diesen Stein
+> dringend aus dem Einflußbereich
+> meines Vaters bekommen.
+
+**Seite 2**
+
+> Komm, tu mir den Gefallen. Du trägst
+> ohnehin schon jede Menge seltsames
+> Zeug mit Dir herum.
+
+### 4027
+
+Projekttext.
+
+**Seite 1**
+
+> Den Stein habe ich von meiner
+> Mutter. Mein Vater hat ihn Merz
+> versprochen. Deshalb werde ich jetzt
+> erst einmal untertauchen.
+
+**Seite 2**
+
+> Wenn er merkt, daß Du ihn hast,
+> rastet er völlig aus. Sag ihm einfach,
+> ich komme gleich. Er glaubt das
+> bestimmt.
+
+**Seite 3**
+
+> Hier. Der Zora-Saphir. Bring ihn in
+> Sicherheit. Und wenn jemand fragt:
+> Du hast mich nie gesehen!
+
+### 0082
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Der Zora-Saphir!
+> Von den Zoras wurde Dir
+> dieser Heilige Stein
+> des Wassers übergeben!
+
+### 4034
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Bedingte Anzeige: zwei Heilige Steine. Bei normalem Ablauf mit Deku-Baum und Dodongo schon erledigt erscheint stattdessen 4035.
+
+**Seite 1**
+
+> Prinzessin Ruto hat Dir ihren
+> wertvollsten Schatz gegeben!
+> Du besitzt nun zwei Heilige Steine!
+> Jetzt fehlt nur noch einer!
+
+### 4035
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Bedingte Anzeige: nun alle drei Heiligen Steine vorhanden.
+
+**Seite 1**
+
+> Prinzessin Ruto hat Dir
+> ihren wertvollsten Schatz gegeben!
+> Nun besitzt Du die
+> drei Heiligen Steine!
+
+**Seite 2**
+
+> Jetzt schnell zu Prinzessin Zelda!
+
+### 4028
+
+Projekttext.
+
+**Seite 1**
+
+> Verrate meinem Vater nichts. Der
+> dreht sonst völlig durch. Besonders,
+> wenn es um seine versprochenen
+> Klimaanlagen geht.
+
+## 13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia
+
+### 402B
+
+Projekttext.
+
+**Seite 1**
+
+> [Spielername], meine Tochter
+> kommt bestimmt bald zurück. Nur
+> noch wenige Minuten. Gleich ist es
+> soweit. Bald.
+
+### 4033
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Du hast Prinzessin Ruto gefunden!
+> Jetzt wird Dir König Zora sicher
+> den Heiligen Stein des Wassers
+> geben...
+
+**Seite 2**
+
+> Oder etwa nicht?
+
+### 013F
+
+Projekttext.
+Natürlicher Navi-Storyruf nach Erhalt des Zora-Saphirs und vor Zeldas Flucht. Er übersteuert dort den normalen Hinweis 014B.
+
+**Seite 1**
+
+> [Spielername], ich weiß, wir haben
+> hier eine Mission und so. Aber
+> glaubst Du ernsthaft, daß Jabu-Jabu
+> das überleben wird?
+
+**Seite 2**
+
+> All die Gewalt und das
+> Herumgespringe in seinem Inneren!
+> Junge, hast Du den Endboß gesehen?
+
+**Seite 3**
+
+> Wir haben in Jabus Herz, oder was
+> das auch immer war, alles komplett
+> zerstört. Das Vieh ist dem Tod
+> geweiht.
+
+**Seite 4**
+
+> Laß uns lieber verschwinden, bevor
+> jemand fragt, wessen Idee das war.
+
+### 014B
+
+Projekttext.
+Grundzustand für drei Steine; in der deutschen Phase vor der Flucht durch 013F übersteuert.
+
+**Seite 1**
+
+> Drei Heilige Steine. Zeldas Plan kann
+> weitergehen. Ich hoffe sehr, daß
+> diesmal jemand die möglichen Folgen
+> mitbedacht hat.
+
+### 0165
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> [Spielername]...
+> Ich weiß nicht, was geschieht...
+> Ich fühle eine Bedrohung...
+
+**Seite 2**
+
+> Das Schloß...
+> Dort geschieht Furchtbares!
+
+## 14. Flucht vor dem Schloß – Friedrich Merz spricht Link an
+
+### 2019
+
+Projekttext.
+
+**Seite 1**
+
+> Sie ist fort! Und dieser Herr Bohne
+> hält sich wohl für unentbehrlich!
+
+### 201A
+
+Projekttext.
+
+**Seite 1**
+
+> Du da! Kleiner Pascha!
+
+### 201E
+
+Projekttext.
+
+**Seite 1**
+
+> Wo sind Zelda und Herr Bohne hin?
+> Hier wird nicht diskutiert. Antworte!
+
+### 202F
+
+Projekttext.
+
+**Seite 1**
+
+> Du stellst Dich mir in den Weg? Ich
+> tue das alles für Deine Zukunft!
+
+### 201B
+
+Projekttext.
+
+**Seite 1**
+
+> Wenn Du erwachsen bist, wählst Du
+> die CDU. Leistung muß sich
+> schließlich lohnen!
+
+### 201C
+
+Projekttext.
+
+**Seite 1**
+
+> Du weißt wohl nicht, wer vor Dir
+> steht! Friedrich Merz! Merk Dir
+> diesen Namen.
+
+### 201D
+
+Projekttext.
+
+**Seite 1**
+
+> Ich werde dieses Land wieder nach
+> vorne bringen. Für Deine Zukunft,
+> kleiner Pascha!
+
+## 15. Okarina im Graben – Zelda und die Hymne der Zeit
+
+### 014C
+
+Projekttext.
+
+**Seite 1**
+
+> Bean hat Zelda auf dem weißen Pferd
+> gerettet. Endlich handelt ein
+> Erwachsener! Im Wassergraben liegt
+> noch etwas, das sie uns zuwarf.
+
+### 003A
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Die Okarina der Zeit!
+> Die Okarina ist ein Artefakt
+> aus dem Besitz des Königs.
+> Sie hat geheimnisvolle Kräfte!
+
+### 2005
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Zeitgesteuerte Textcodes: FADE(60). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> [Spielername], kannst Du mich
+> hören? Ich bin es, Zelda...
+
+### 2008
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(60), FADE(60). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> [Spielername], nun, da Du die 
+> Okarina in Händen hältst...
+
+**Seite 2**
+
+> ...bin ich schon weit entfernt...
+
+**Seite 3**
+
+> Ich versuchte, auf Dich zu warten,
+> doch die Zeit drängte...
+
+**Seite 4**
+
+> Zumindest konnte ich Dir die 
+> Okarina übergeben...
+> Und diese Melodie...
+
+### 00D5
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Du hast die
+> Hymne der Zeit
+> erlernt!
+
+### 2009
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Wohlan, [Spielername].
+> Spiele diese Melodie in der
+> Zitadelle der Zeit vor dem 
+> Zeitaltar!
+
+### 0166
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Nanu? Deine Okarina klingt...
+> irgendwie anders...
+> Du hast wohl kräftig geübt,
+> [Spielername]?
+
+## 16. Optionaler Abschied – sterbender Soldat in der Gasse
+
+### 7007
+
+Projekttext.
+Optionaler Soldat in der Seitengasse nach der Flucht und vor dem Zeitsprung.
+
+**Seite 1**
+
+> Du... aus dem Wald... hör mir zu. Das
+> ist unfaßbar peinlich.
+
+**Seite 2**
+
+> Merz ist hinter Zelda und Mr. Bean
+> her. Ich wollte ihn verfolgen.
+
+**Seite 3**
+
+> Dann bin ich gestolpert. Einfach so.
+> Über meine eigenen Füße.
+
+**Seite 4**
+
+> Mit dem Schädel zuerst auf den
+> Asphalt. Ich habe es richtig krachen
+> gehört.
+
+**Seite 5**
+
+> Kein heldenhafter Zweikampf. Kein
+> Hinterhalt. Ein beschissener Sturz.
+
+**Seite 6**
+
+> Zelda hat Dir etwas zugeworfen.
+> Such es im Burggraben. Dann zur
+> Zitadelle der Zeit.
+
+**Seite 7**
+
+> Schreib bitte... ich sei im Dienst
+> gefallen. Das klingt... würdevoller...
+
+### 7008
+
+Projekttext.
+Untersuchung/Wiederholung beim verstorbenen Soldaten.
+
+**Seite 1**
+
+> Er rührt sich nicht mehr. Sein letzter
+> Gegner war der Asphalt.
+
+## 17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert
+
+### 7040
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Hier sind drei Vertiefungen
+> und eine Inschrift...
+
+**Seite 2**
+
+> Jener mit den drei Heiligen Steinen
+> nehme seine Okarina zur Hand
+> und spiele hier die Hymne der Zeit.
+
+**Seite 3**
+
+> Seltsam, aber so steht
+> es geschrieben...
+
+### 014D
+
+Projekttext.
+
+**Seite 1**
+
+> Die Zitadelle der Zeit wirkt friedlich.
+> Nach der Flucht am Schloß mißtraue
+> ich diesem Eindruck. Aber Zelda hat
+> uns dorthin geschickt.
+
+### 70E6
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> [Spielername], ist das nicht...?!
+
+### 70E7
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Zeitgesteuerte Textcodes: FADE(30). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> Diese legendäre Klinge...
+
+### 70E8
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Navi beim ersten Anblick des Master-Schwerts, aus der nativen Schwert-Cutscene.
+
+**Seite 1**
+
+> Das Master-Schwert!
+
+## 18. Nach dem Ziehen des Master-Schwerts – Merz, noch vor Habeck
+
+### 700A
+
+Projekttext.
+Native kurze Merz/Ganondorf-Szene nach dem Ziehen des Schwerts. Dies ist der letzte Text dieser Arbeitsliste. Danach beginnt die Halle-der-Weisen-Sequenz mit 704E, die hier nicht enthalten ist.
+Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(90), BOX_BREAK_DELAYED(80), FADE(50). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> Herr Bohne? Den habe ich ermordet.
+
+**Seite 2**
+
+> Er kämpfte gut. Er starb mit Ehre.
+
+**Seite 3**
+
+> Zelda entkam. Du öffnest mir das
+> Heilige Reich.
+
+**Seite 4**
+
+> Leistung muß sich lohnen!
+
+## Nebenhandlungen, Zusatzvarianten und Zielerfassung
+
+## A. Wundererbsenverkäufer – sämtliche Preise, Ablehnung und Wiederholung
+
+### 405E
+
+Projekttext.
+
+**Seite 1**
+
+> Ich habe den gesamten Vorrat
+> aufgekauft. Jetzt bestimme ich den
+> Preis. Friedrich Merz nennt das
+> bestimmt Eigeninitiative.
+
+**Seite 2**
+
+> Eine Wundererbse: 10 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 405F
+
+Projekttext.
+
+**Seite 1**
+
+> Nur noch ganz wenige! Die anderen
+> neun liegen zwar neben mir, aber das
+> ist mein strategischer Engpaß.
+
+**Seite 2**
+
+> Eine Wundererbse: 20 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4060
+
+Projekttext.
+
+**Seite 1**
+
+> Die Nachfrage steigt. Sagt jedenfalls
+> das Schild, das ich gerade selbst
+> geschrieben habe.
+
+**Seite 2**
+
+> Eine Wundererbse: 30 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4061
+
+Projekttext.
+
+**Seite 1**
+
+> Ein anderer Kunde wollte auch eine.
+> Er existiert nur in meiner
+> Verkaufsstrategie, aber Du solltest
+> Dich trotzdem beeilen.
+
+**Seite 2**
+
+> Eine Wundererbse: 40 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4062
+
+Projekttext.
+
+**Seite 1**
+
+> Friedrich Merz versteht Leute wie
+> mich. Man muß aus der Knappheit der
+> anderen eben etwas machen.
+
+**Seite 2**
+
+> Eine Wundererbse: 50 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4063
+
+Projekttext.
+
+**Seite 1**
+
+> Limitierte Erbsen. Gleiche Pflanzen,
+> neuer Preis. Du bezahlst für das
+> Gefühl, zu spät dran zu sein.
+
+**Seite 2**
+
+> Eine Wundererbse: 60 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4064
+
+Projekttext.
+
+**Seite 1**
+
+> Wer jetzt nicht kauft, ärgert sich
+> morgen. Morgen ärgerst Du Dich
+> allerdings auch über mich.
+
+**Seite 2**
+
+> Eine Wundererbse: 70 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4065
+
+Projekttext.
+
+**Seite 1**
+
+> Ich nenne mich unabhängiger
+> Wiederverkäufer. Scammer klingt
+> immer so nach ehrlicher
+> Tätigkeitsbeschreibung.
+
+**Seite 2**
+
+> Eine Wundererbse: 80 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4066
+
+Projekttext.
+
+**Seite 1**
+
+> Friedrich Merz wäre stolz. Ich habe
+> den Preis erhöht, ohne irgend etwas
+> zu verbessern.
+
+**Seite 2**
+
+> Eine Wundererbse: 90 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4067
+
+Projekttext.
+
+**Seite 1**
+
+> Letzte Chance! Diese eine Erbse
+> kostet jetzt so viel wie ein kleiner
+> Hausrat. Der Markt hat gesprochen.
+> Ich bin der Markt.
+
+**Seite 2**
+
+> Eine Wundererbse: 100 Rubine.
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 4068
+
+Projekttext.
+
+**Seite 1**
+
+> Dann eben nicht. Morgen erzähle ich
+> trotzdem, daß alle Kunden begeistert
+> waren.
+
+### 4069
+
+Projekttext.
+
+**Seite 1**
+
+> Zu wenig Geld. Friedrich Merz würde
+> sagen: Dann mußt Du Dich eben mehr
+> anstrengen. Ich würde sagen: Der
+> Nächste bitte.
+
+### 406A
+
+Projekttext.
+
+**Seite 1**
+
+> Lege die Wundererbse auf [C] und
+> pflanze sie in die weiche Erde. Keine
+> Rückgabe, sobald Du sie angefaßt
+> hast.
+
+### 406B
+
+Projekttext.
+
+**Seite 1**
+
+> Ausverkauft! Die Erbsen, die ich
+> gerade esse, sind unverkäufliche
+> Sammlerstücke. Wertanlage. Friedrich
+> Merz versteht das.
+
+### 406C
+
+Projekttext.
+
+**Seite 1**
+
+> Such quadratische Stellen mit weicher
+> Erde. Dort wachsen die Erbsen. Ob
+> Dir die Reise den Preis wert war, ist
+> leider Dein Geschäftsrisiko.
+
+## B. Frösche am Zora-Fluß – normale Liedbelohnung
+
+### 40A9
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Mein Freund, Du spielst die
+> Okarina gut... Mmmh...!
+> Eine nette Melodie... Wir sollten
+> sie alle üben!
+
+**Seite 2**
+
+> Nimm dies hier als Lohn!
+> Wenn Dir mal wieder eine feine
+> Weise durch den Kopf schießt,
+> komm vorbei und spiel sie vor!
+
+## C. Hylia-See als Kind – Eule, Forscher und normaler Doofenshmirtz
+
+### 2071
+
+Projekttext.
+Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(40). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> Der Hylia-See. Klar und kühl. Das ist
+> ein Zustand, den man erhalten muß.
+> Keine unbegrenzte Ressource.
+
+**Seite 2**
+
+> Die Zoras hüten den Wassertempel
+> auf dem Grund. Wasser ist hier also
+> auch eine Frage der Infrastruktur.
+
+**Seite 3**
+
+> START, dann [Z] oder [R]: die Karte.
+> Wir müssen die einzelnen Wege im
+> Zusammenhang sehen.
+
+**Seite 4**
+
+> Besuchte Orte stehen darin. Das ist
+> keine Prophezeiung. Das ist eine
+> belastbare Datengrundlage.
+
+### 2072
+
+Projekttext.
+
+**Seite 1**
+
+> So. Jetzt geh. Ich kann Dir den Weg
+> erklären. Gehen kann ich ihn nicht für
+> Dich. Ich habe ja auch keine Schuhe.
+
+### 4003
+
+Projekttext.
+Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(40). Die Werte sind nur dokumentiert, nicht geändert.
+
+**Seite 1**
+
+> Da bist Du. Der Weg hat gedauert.
+> Das ist keine Kritik. Es ist erst
+> einmal die Feststellung einer
+> Wegstrecke.
+
+**Seite 2**
+
+> Die Karte hilft. Man kann das Ziel für
+> richtig halten und sich bei der
+> Umsetzung trotzdem verlaufen.
+
+**Seite 3**
+
+> [Spielername], der Hylia-See. Klar
+> und kühl. Wer das erhalten will, muß
+> mehr tun, als gelegentlich die
+> Aussicht zu loben.
+
+**Seite 4**
+
+> Auf dem Grund liegt der
+> Wassertempel. Die Zoras wachen
+> darüber. Wasser hat eben auch eine
+> institutionelle Seite.
+
+**Seite 5**
+
+> Die Zoras sind der Königsfamilie seit
+> langem verbunden. Das schafft
+> Vertrauen, aber auch Zuständigkeiten.
+
+**Seite 6**
+
+> Nur ein königlicher Abgesandter darf
+> hinein. Du brauchst also einen
+> Nachweis. Und zwar einen, den man
+> hören kann.
+
+**Seite 7**
+
+> Ich fliege jetzt zum Schloß. Wenn Du
+> mitwillst, halte Dich an meinen
+> Krallen fest. Gemeinsame Mobilität.
+> Sehr konkret.
+
+### 4004
+
+Projekttext.
+
+**Seite 1**
+
+> Ich fliege zum Schloß. Halte Dich an
+> meinen Krallen fest, wenn Du
+> mitwillst. Das ist ein Angebot, keine
+> Verkehrswende für ganz Hyrule.
+
+### 4018
+
+Projekttext.
+
+**Seite 1**
+
+> Ich hab gehört, dieser Merz möchte
+> uns das Budget kürzen? Der werte
+> Herr soll das gerne versuchen. Das
+> will ich sehen!
+
+**Seite 2**
+
+> Nur über meine Leiche! Boah, ich
+> hoffe echt, daß ich noch sieben Jahre
+> durchhalte. Ich bin halt echt schon
+> mega alt, ne?
+
+### 4032
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Wenn Du wieder mal vorbeikommst,
+> bring mir doch ein Souvenir mit!
+
+### 407B
+
+Projekttext.
+Normale kindliche Doofenshmirtz-Fassung am Angelteich; keine erwachsene Augenklappen-Fassung.
+
+**Seite 1**
+
+> Ah, ein Besucher! Dr. Heinz
+> Doofenshmirtz, erfreut. Du fragst
+> Dich sicher, warum ein
+
+**Seite 2**
+
+> Wissenschaftler einen Angelteich
+> betreibt.
+
+**Seite 3**
+
+> Es begann in meiner Kindheit in
+> Gimmelschtump. Die anderen Kinder
+> durften angeln gehen, ich natürlich
+> nicht.
+
+**Seite 4**
+
+> Wobei es bei uns ohnehin nur
+> Jauchegruben gab. Also selbst wenn
+> ich gedurft hätte, wäre das eine
+
+**Seite 5**
+
+> ziemlich traurige Angelegenheit
+> gewesen.
+
+**Seite 6**
+
+> Deshalb habe ich den Angelinator
+> erfunden! Er soll sämtliche Fische
+> Hyrules in meinen Teich bringen!
+
+**Seite 7**
+
+> Oder zumindest eine große
+> Ansammlung. Ich habe beim Antrag
+> sämtliche Fische geschrieben, aber
+
+**Seite 8**
+
+> wir wollen jetzt nicht kleinlich
+> werden.
+
+**Seite 9**
+
+> Und falls ein Schnabeltier auftaucht:
+> Sag ihm, ich wäre gerade nicht da.
+
+**Seite 10**
+
+> Willst Du für 20 Rubine angeln?
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 408F
+
+Projekttext.
+
+**Seite 1**
+
+> Warum ich unbedingt alle Fische in
+> diesem Teich haben möchte?
+
+**Seite 2**
+
+> Weil man auf eine traurige Kindheit
+> offenbar nur mit einem völlig
+> überdimensionierten technischen
+> Projekt reagieren kann.
+
+### 4092
+
+Projekttext.
+
+**Seite 1**
+
+> Komm ruhig wieder. In sieben Jahren
+> habe ich hier bestimmt alles im Griff.
+> Was soll denn groß passieren?
+
+## D. Neue Begegnungen in Jabu-Jabu – Okto und Nintendo 64
+
+### 00F8
+
+Projekttext.
+
+**Seite 1**
+
+> Hola, Amigo! Ich bin Okto, der
+> Oktorok.
+
+**Seite 2**
+
+> Was soll das, Muchacho? Nicht alle
+> Oktoroks sind böse. Das ist ein
+> Vorurteil. Mega rassistisch!
+
+**Seite 3**
+
+> Ja, gut. Hier in diesem "Dungeon"
+> gibt's zwar einen riesigen bösen
+> Oktorok. Ay, caramba!
+
+**Seite 4**
+
+> Aber das ist nicht meine Schuld,
+> Compadre. Der läßt den ganzen Rest
+> von uns total schlecht aussehen.
+
+### 0125
+
+Projekttext.
+
+**Seite 1**
+
+> Ein Nintendo 64 mit Zelda Ocarina of
+> Time... Ich tu mal so, als hätte ich
+> das nicht gesehen.
+
+## E. Deku-Händler in Jabu-Jabu und der besondere Kartentext
+
+### 0130
+
+Projekttext.
+Direkte native Fortsetzung: 10A3.
+
+**Seite 1**
+
+> Oh Mann, einen Laden in einem Wal
+> aufzumachen war echt eine bekloppte
+> Idee. Warum habe ich das überhaupt
+> gemacht?
+
+**Seite 2**
+
+> Na gut. Fünf Deku-Nüsse für 20
+> Rubine. Ich muß irgendwie die Miete
+> für diese Schleimhaut bezahlen.
+
+### 10A3
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Laß uns ein Geschäft machen!
+>
+> Ja!
+> Nein!
+
+_Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
+
+### 013E
+
+Projekttext.
+
+**Seite 1**
+
+> Wieso liegt eine perfekte
+> Karte von Jabu-Jabus
+> Innereien in dieser magischen
+> Schatztruhe?
+
+**Seite 2**
+
+> Ich glaube, das war Ruto.
+> Würde Sinn machen, oder?
+
+**Seite 3**
+
+> Drücke START für die Karte.
+> Mit dem [Control-Pad] wechselst Du das
+> Stockwerk. Also... den
+> jeweiligen Teil des Fisches.
+
+## F. Wichtige Fundtexte – Schuppe, Brief/Flasche, Bumerang, Kompaß und Fisch
+
+### 0035
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Der Bumerang!
+> Im Gegenstands-Menü kannst
+> Du ihn auf [C-Left], [C-Down] oder [C-Right]
+> plazieren.
+
+**Seite 2**
+
+> Drücke [C], um Gegner
+> zu treffen, die weiter
+> entfernt sind!
+
+### 0047
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Du besitzt jetzt einen Fisch!
+> Lasse ihn mit [C] frei. Er sieht
+> richtig frisch aus!
+
+**Seite 2**
+
+> Im Gegenstands-Menü kannst
+> Du ihn auf [C-Left], [C-Down] oder [C-Right]
+> plazieren.
+> Mit [C] läßt Du ihn frei.
+
+### 0048
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Die Wundererbse!
+> Suche nach einer Stelle,
+> um sie mit [C] einzupflanzen.
+> Warte ab, was passiert!
+
+**Seite 2**
+
+> Im Gegenstands-Menü kannst
+> Du sie auf [C-Left], [C-Down] oder [C-Right]
+> plazieren und
+> mit [C] einpflanzen.
+
+### 0042
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Eine leere Flasche!
+> Plaziere die Flasche auf [C],
+> um sie einzusetzen.
+
+### 0067
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Der Kompaß!
+> Jetzt siehst Du auf Deiner
+> Karte alle Schatztruhen
+> dieses Labyrinths!
+
+### 00AD
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Dins Feuerinferno!
+> Dieser Feuerball entflammt die
+> Umgebung! Du setzt diese
+> Magie-Attacke mit [C] ein.
+
+### 00AE
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Farores Donnersturm!
+> Ein magischer Teleporter, den
+> Du mit [C] einsetzt. Nutze
+> ihn, wenn Gefahr droht!
+
+**Seite 2**
+
+> Mit dieser Magie legst Du
+> einen Teleporterpunkt an.
+> Rufst Du Farores Kraft erneut an,
+> gelangst Du dorthin zurück.
+
+**Seite 3**
+
+> Du kannst den Teleporter
+> aber auch wieder aufheben
+> und anderswo setzen, wenn
+> Du Farores Magie beschwörst.
+
+### 00EC
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Dins Feuerinferno kannst Du nicht
+> nur für Attacken nutzen.
+> Du kannst damit auch manches in
+> Brand setzen!
+
+### 00ED
+
+Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+
+**Seite 1**
+
+> Vergiß nicht: Farores Donnersturm
+> kannst Du nur in einem Labyrinth
+> einsetzen, in dem auch eine Karte
+> versteckt ist. Alles klar?
+
+## G. Stadtbewohner nach der Flucht – neue Reaktionen und Gerüchte
+
+### 7044
+
+Projekttext.
+
+**Seite 1**
+
+> Also, ich habe neulich in Lord
+> Jabu-Jabu gechillt, und ich fand es
+> schade,
+
+**Seite 2**
+
+> daß man dort nichts kaufen konnte,
+> was ja gerade im Inneren eines
+> riesigen Fisches
+
+**Seite 3**
+
+> mega praktisch gewesen wäre, weil
+> ich bereit gewesen wäre, meine
+> sämtlichen Rubine
+
+**Seite 4**
+
+> dort auszugeben, wenn da nur zufällig
+> ein Händler gewesen wäre, aber den
+> habe ich
+
+**Seite 5**
+
+> natürlich nicht gesehen, weshalb ich
+> jetzt immer noch nicht weiß, wohin
+> mit dem Geld,
+
+**Seite 6**
+
+> weshalb ich jetzt einfach irgendeine
+> dieser Masken für tausend Jahre
+> mieten will,
+
+**Seite 7**
+
+> und ich hoffe wirklich, daß das
+> Maskengeschäft die nächsten Jahre
+> dort stehen bleibt,
+
+**Seite 8**
+
+> weil sich sonst ja die ganze
+> langfristige Mietplanung im nachhinein
+> als ziemlich
+
+**Seite 9**
+
+> unpraktisch herausstellen würde, und
+> gerade bei so einer Maske muß man
+> vorausdenken.
+
+### 7045
+
+Projekttext.
+
+**Seite 1**
+
+> Man sieht mich nur von weiter weg,
+> ansonsten würde auffallen, daß mein
+> Gesicht nur grottenschlecht aufgemalt
+> wurde.
+
+### 7046
+
+Projekttext.
+
+**Seite 1**
+
+> Merz hätte mich mit seinem Pferd
+> fast umgeritten!
+
+**Seite 2**
+
+> Das Resthaar saß aber noch. Leider.
+> Einmal auf null, Herr Merz. Dann sieht
+> man wenigstens den Verkehr.
+
+### 7047
+
+Projekttext.
+
+**Seite 1**
+
+> Das war Friedrich Merz auf dem
+> schwarzen Pferd. Kein Zweifel.
+
+**Seite 2**
+
+> Hyrule umkrempeln, aber an diesen
+> drei Haaren festhalten. Warum? Mach
+> doch einfach auf null!
+
+### 7048
+
+Projekttext.
+
+**Seite 1**
+
+> Zelda flieht, Merz dreht durch und
+> alle haben Angst.
+
+**Seite 2**
+
+> Und trotzdem frage ich mich: Was
+> soll diese Frisur? So wenig Haar
+> kann doch keinen solchen Aufwand
+> rechtfertigen.
+
+### 7049
+
+Projekttext.
+
+**Seite 1**
+
+> Er nennt uns weinerlich, während auf
+> seinem Kopf noch drei Haare um ihren
+> Arbeitsplatz kämpfen.
+
+**Seite 2**
+
+> Null Millimeter, Friedrich! Trau Dich!
+> Das wäre endlich mal eine klare
+> Entscheidung!
+
+### 704A
+
+Projekttext.
+
+**Seite 1**
+
+> Ich schmeiß Autobatterien in den
+> Hylia-See, damit die Zitteraale genug
+> Strom nachladen können.
+
+**Seite 2**
+
+> Auch in schweren Zeiten muß sich
+> jemand um die Stromversorgung
+> kümmern. Ich mach das ehrenamtlich.
+
+### 704B
+
+Projekttext.
+
+**Seite 1**
+
+> Mr. Bean war mein Rettungssanitäter,
+> als ich 'ne Überdosis hatte.
+
+**Seite 2**
+
+> Jetzt hat er Zelda aus dem Schloß
+> gerettet. Der Mann hat offenbar einen
+> ziemlich vollen Dienstplan.
+
+### 704D
+
+Projekttext.
+
+**Seite 1**
+
+> Zelda ist in den besten Händen. Mr.
+> Bean hat sie aus dem Schloß
+> gerettet.
+
+**Seite 2**
+
+> Dieser Mann ist ein Volksheld! Der
+> läßt sie niemals im Stich. Darauf
+> kannst Du Dich verlassen.
+
+### 70EB
+
+Projekttext.
+
+**Seite 1**
+
+> Ich bin selbst kahl, also darf ich das
+> sagen: Friedrich Merz muß komplett
+> auf null gehen.
+
+**Seite 2**
+
+> An so wenig Haaren festzuhalten,
+> ergibt keinen Sinn. Was soll das
+> bitte? Eine Koalition der letzten drei
+> Strähnen?
+
+## H. Wache im Krughaus – Tages- und Nachttext
+
+### 7004
+
+Projekttext.
+
+**Seite 1**
+
+> Wenn etwas kaputtgeht, finde ich das
+> immer mega witzig. Wirklich immer.
+
+**Seite 2**
+
+> Krug fällt runter? Lustig. Stuhl bricht
+> zusammen? Meisterwerk.
+
+**Seite 3**
+
+> Das ist mein gesamter Humor. Es
+> gibt keine zweite Ebene. Ich bin
+> vollkommen zufrieden.
+
+**Seite 4**
+
+> [A] hebt den Krug. Nochmal [A] wirft
+> ihn. Und dann kommt die Pointe: Der
+> Krug ist kaputt.
+
+### 709A
+
+Projekttext.
+
+**Seite 1**
+
+> Nachts ist es hier still. Leider geht
+> dabei viel zu wenig kaputt.
+
+**Seite 2**
+
+> Tagsüber zerlegt so ein Waldkind die
+> Krüge. Ich lache jedes einzelne Mal.
+
+**Seite 3**
+
+> Die Kollegen sagen, mein Humor sei
+> eindimensional. Ich sage: KRRRACH!
+
+**Seite 4**
+
+> Siehst Du? Schon wieder lustig.
+> Großartiges Gespräch.
+
+## I. Navi-Zielerfassung – Gegner dieses Abschnitts
+
+### 0606
+
+Projekttext.
+
+**Seite 1**
+
+> Ein Zangengeiferer. Nimm Deine
+> Zangen da weg, Du widerlicher
+> Drecksack! Keiner will von Dir
+> angefaßt werden.
+
+### 0614
+
+Projekttext.
+
+**Seite 1**
+
+> Barinade. Du hängst hier in Jabus
+> Innereien und kackst alles mit Strom
+> voll. Widerliches Drecksvieh.
+
+### 0615
+
+Projekttext.
+
+**Seite 1**
+
+> Ein Parasiten-Tentakel.
+> [Spielername], hau das ab. Ich hab'
+> keinen Bock, daß dieser glitschige
+> Scheiß mich berührt.
+
+### 0616
+
+Projekttext.
+
+**Seite 1**
+
+> Eine Blubberblase. Die hält sich
+> ernsthaft für ein Hindernis. Du bist
+> LUFT. Verpiß Dich.
+
+### 0617
+
+Projekttext.
+
+**Seite 1**
+
+> Eine Zappelqualle. Pack Deinen Strom
+> weg, Du glibberiges Arschloch. Ich
+> will hier einfach nur vorbei!
+
+### 0618
+
+Projekttext.
+
+**Seite 1**
+
+> Eine große Zappelqualle. Ja, Du bist
+> größer. Du bist aber immer noch
+> derselbe beschissene Schleimklumpen.
+
+### 0619
+
+Projekttext.
+
+**Seite 1**
+
+> Ein Elektromanta. Liegt erst feige im
+> Boden und springt uns dann ins
+> Gesicht. Richtig dreckige Nummer.
+
+### 0627
+
+Projekttext.
+
+**Seite 1**
+
+> Mach die Fresse noch einmal auf! Ich
+> brech' diese Scheißmuschel in der
+> Mitte durch, ich schwör's Dir!
+
+### 0642
+
+Projekttext.
+
+**Seite 1**
+
+> Ein Oktorok. Der spuckt uns
+> ernsthaft ins Gesicht. Schluck Deinen
+> eigenen Dreck, Du widerliches
+> Arschloch!
+
+## J. Gespeicherte Zusatzvariante – Ruto neben dem König
+
+### 402C
+
+Projekttext.
+Dieser Text liegt im Spiel vor. In der deutschen Fassung wird junge Ruto neben dem König nach dem Saphir jedoch entfernt; normalerweise dort nicht mehr ansprechbar.
+
+**Seite 1**
+
+> Ich bleibe erst einmal verschwunden.
+> Mein Vater kann Merz ja statt des
+> Saphirs einen hübschen Kiesel
+> anbieten.
+
