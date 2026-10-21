@@ -1,3 +1,11 @@
+# Dialoge V17
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Dialoge_V17.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Dialoge_V17.bps?raw=true) · [Änderungen](Dialoge_V17_Aenderungen.md) · [Quellen](Merzen_Dialoge_V17_Quellen_Patch.zip?raw=true)
+
+[Waldkapitel lesen](Storydialoge_Masterschwert_bis_Waldtempel.md) · [Arbeitsliste als TXT](Storydialoge_Masterschwert_bis_Waldtempel.txt?raw=true) · [Liste als ZIP](Storydialoge_Masterschwert_bis_Waldtempel.zip?raw=true)
+
+Fünf gewünschte Textänderungen; aktuelle Abschrift Master-Schwert bis Waldtempel mit 116 IDs. Alle bisherigen Änderungen enthalten; jeweils auf unveränderte PAL 1.0 anwenden.
+
 # Ortsnamen V16
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Ortsnamen_V16.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Ortsnamen_V16.bps?raw=true) · [Änderung/Prüfung](Ortsnamen_V16_Aenderungen.md) · [Quellen](Merzen_Ortsnamen_V16_Quellen_Patch.zip?raw=true)

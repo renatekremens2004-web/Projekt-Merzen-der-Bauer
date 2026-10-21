@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: nach Dodongo bis zum Master-Schwert
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V12. Dies ist eine reine Abschrift zum Durchgehen und Umschreiben. Es wurden keine Dialoge und keine ROM-Dateien geändert.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V17. Dies ist eine reine Abschrift zum Durchgehen und Umschreiben. Die fünf zuletzt gewünschten Texte sind im Stand V17 enthalten; diese Abschrift zeigt den aktuellen Wortlaut.
 
 Beginn: Darunias Auftritt nach König Dodongo. Ende: Merz’ kurze Rede unmittelbar nach dem Ziehen des Master-Schwerts (700A), noch vor dem Erwachen/Gespräch mit Robert Habeck in menschlicher Gestalt (704E).
 
@@ -2631,16 +2631,21 @@ Direkte native Fortsetzung: 10A3.
 
 **Seite 1**
 
-Oh Mann, einen Laden in einem Wal
-aufzumachen war echt eine bekloppte
-Idee. Warum habe ich das überhaupt
-gemacht?
+Oh Mann ey! So einen Laden in
+einem Wal aufzumachen war wirklich
+eine absolut bekloppte Idee. Ich
+verstehe nicht, warum habe ich das
 
 **Seite 2**
 
-Na gut. Fünf Deku-Nüsse für 20
-Rubine. Ich muß irgendwie die Miete
-für diese Schleimhaut bezahlen.
+überhaupt gemacht? Also wie konnte
+ich das nur tun?
+
+**Seite 3**
+
+Na egal. Willst Du wenigstens was
+kaufen? Ich hab ein paar Deku-Nüsse:
+fünf Stück, 20 Rubine. Paßt Dir das?
 
 ### 10A3
 
@@ -2888,14 +2893,14 @@ Projekttext.
 
 **Seite 1**
 
-Merz hätte mich mit seinem Pferd
-fast umgeritten!
+Dieser Friedrich Merz hat mich fast
+komplett mit seinem Pferd umgeritten.
+Ist der Typ wahnsinnig? Der soll sich
+mal eine Vollglatze schneiden. Was
 
 **Seite 2**
 
-Das Resthaar saß aber noch. Leider.
-Einmal auf null, Herr Merz. Dann sieht
-man wenigstens den Verkehr.
+soll die Scheiße?
 
 ### 7047
 
@@ -2954,12 +2959,6 @@ Ich schmeiß Autobatterien in den
 Hylia-See, damit die Zitteraale genug
 Strom nachladen können.
 
-**Seite 2**
-
-Auch in schweren Zeiten muß sich
-jemand um die Stromversorgung
-kümmern. Ich mach das ehrenamtlich.
-
 ### 704B
 
 Projekttext.
@@ -2971,9 +2970,8 @@ als ich 'ne Überdosis hatte.
 
 **Seite 2**
 
-Jetzt hat er Zelda aus dem Schloß
-gerettet. Der Mann hat offenbar einen
-ziemlich vollen Dienstplan.
+Mr. Bean ist der absolut ehrenvollste
+Ehrenmann unter den Ehrenmännern.
 
 ### 704D
 
@@ -2997,16 +2995,9 @@ Projekttext.
 
 **Seite 1**
 
-Ich bin selbst kahl, also darf ich das
-sagen: Friedrich Merz muß komplett
-auf null gehen.
-
-**Seite 2**
-
-An so wenig Haaren festzuhalten,
-ergibt keinen Sinn. Was soll das
-bitte? Eine Koalition der letzten drei
-Strähnen?
+Na, wie gefällt Dir das Abenteuer bis
+jetzt? Ich bin gespannt, wie es
+weitergeht.
 
 ## H. Wache im Krughaus – Tages- und Nachttext
 

@@ -1,6 +1,6 @@
 {
-  "source_sha256": "c216d789b9e9c481b8ac6ebe83bca5257eb73de117a50d9d6931c15df3f5ee3c",
-  "rom_reference_sha256": "01c46f967377c5ec84e5a398b94684d1490e702d70e97f078a5d3904861d6a14",
+  "source_sha256": "343bfdda69e2591a77eba5fa3b07eb8b530febfea12451c904bdc857319b7b00",
+  "rom_reference_sha256": "73073c64774b14ecad8baa4d704e1871cf78f6b24186c14596b9cb69faf34b5e",
   "stop_before": "704E",
   "total_messages": 185,
   "main_messages": 123,
@@ -2385,8 +2385,9 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Oh Mann, einen Laden in einem Wal\naufzumachen war echt eine bekloppte\nIdee. Warum habe ich das überhaupt\ngemacht?",
-        "Na gut. Fünf Deku-Nüsse für 20\nRubine. Ich muß irgendwie die Miete\nfür diese Schleimhaut bezahlen."
+        "Oh Mann ey! So einen Laden in\neinem Wal aufzumachen war wirklich\neine absolut bekloppte Idee. Ich\nverstehe nicht, warum habe ich das",
+        "überhaupt gemacht? Also wie konnte\nich das nur tun?",
+        "Na egal. Willst Du wenigstens was\nkaufen? Ich hab ein paar Deku-Nüsse:\nfünf Stück, 20 Rubine. Paßt Dir das?"
       ],
       "controls": [
         "SFX(NA_SE_EN_NUTS_FAINT)",
@@ -2606,8 +2607,8 @@
         "zeituebergang_de.json"
       ],
       "pages": [
-        "Merz hätte mich mit seinem Pferd\nfast umgeritten!",
-        "Das Resthaar saß aber noch. Leider.\nEinmal auf null, Herr Merz. Dann sieht\nman wenigstens den Verkehr."
+        "Dieser Friedrich Merz hat mich fast\nkomplett mit seinem Pferd umgeritten.\nIst der Typ wahnsinnig? Der soll sich\nmal eine Vollglatze schneiden. Was",
+        "soll die Scheiße?"
       ],
       "controls": [],
       "notes": "",
@@ -2666,8 +2667,7 @@
         "zeituebergang_de.json"
       ],
       "pages": [
-        "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können.",
-        "Auch in schweren Zeiten muß sich\njemand um die Stromversorgung\nkümmern. Ich mach das ehrenamtlich."
+        "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können."
       ],
       "controls": [],
       "notes": "",
@@ -2682,7 +2682,7 @@
       ],
       "pages": [
         "Mr. Bean war mein Rettungssanitäter,\nals ich 'ne Überdosis hatte.",
-        "Jetzt hat er Zelda aus dem Schloß\ngerettet. Der Mann hat offenbar einen\nziemlich vollen Dienstplan."
+        "Mr. Bean ist der absolut ehrenvollste\nEhrenmann unter den Ehrenmännern."
       ],
       "controls": [],
       "notes": "",
@@ -2711,8 +2711,7 @@
         "zeituebergang_de.json"
       ],
       "pages": [
-        "Ich bin selbst kahl, also darf ich das\nsagen: Friedrich Merz muß komplett\nauf null gehen.",
-        "An so wenig Haaren festzuhalten,\nergibt keinen Sinn. Was soll das\nbitte? Eine Koalition der letzten drei\nSträhnen?"
+        "Na, wie gefällt Dir das Abenteuer bis\njetzt? Ich bin gespannt, wie es\nweitergeht."
       ],
       "controls": [],
       "notes": "",

@@ -1,0 +1,1922 @@
+{
+  "source_sha256": "343bfdda69e2591a77eba5fa3b07eb8b530febfea12451c904bdc857319b7b00",
+  "rom_reference_sha256": "73073c64774b14ecad8baa4d704e1871cf78f6b24186c14596b9cb69faf34b5e",
+  "scope": "Erwachen bis Waldtempel-Abschluß und unmittelbare Reaktionen",
+  "cutscene_coverage": [
+    {
+      "source": "extracted/pal-1.0/assets/scenes/indoors/kenjyanoma/gChamberOfSagesLightMedallionCs.csdata.inc.c",
+      "ids": [
+        "704E",
+        "704F",
+        "7050",
+        "7051",
+        "0040",
+        "70E9"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/indoors/tokinoma/gTempleOfTimeFirstAdultCs.csdata.inc.c",
+      "ids": [
+        "7054",
+        "7056",
+        "7057",
+        "7077",
+        "7078",
+        "7079",
+        "707A"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot05/gMeadowMinuetCs.csdata.inc.c",
+      "ids": [
+        "106C",
+        "0073",
+        "106D"
+      ]
+    },
+    {
+      "source": "src/overlays/actors/ovl_Demo_Sa/bowling_sage_cutscene_data.inc.c",
+      "ids": [
+        "106A",
+        "108F",
+        "1090",
+        "003E",
+        "106B"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/misc/hiral_demo/gCutsceneMapDekuSproutPart2Cs.csdata.inc.c",
+      "ids": [
+        "1065"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot04/gKokiriForestDekuSproutPart1Cs.csdata.inc.c",
+      "ids": [
+        "1062",
+        "1063",
+        "1064"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot04/gKokiriForestDekuSproutPart3Cs.csdata.inc.c",
+      "ids": [
+        "1066"
+      ]
+    }
+  ],
+  "total_messages": 116,
+  "main_messages": 102,
+  "optional_messages": 14,
+  "messages": [
+    {
+      "id": "704E",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "[Spielername]...",
+        "Wach auf. Wir müssen reden. Es ist\nleider etwas kompliziert geworden."
+      ],
+      "controls": [],
+      "notes": "Beginn dieser Liste, unmittelbar nach Merz 700A aus der vorigen Liste.",
+      "locations": []
+    },
+    {
+      "id": "704F",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Ich bin Robert Habeck, Weiser des\nLichts. Also, zunächst einmal: schön,\ndaß Du wieder da bist.",
+        "Ich kam Friedrich Merz schon früh\nauf die Schliche. Seine Pläne waren\nkeine normale Regierungspolitik.",
+        "Er wollte Hyrule besitzen. Die\nMenschen, die Tempel, die Rohstoffe.\nZusammenhalt erschien ihm als\nKostenpunkt.",
+        "Ich stellte ihn auf dem Todesberg zur\nRede. Sachlich, wie ich fand. Er stieß\nmich den Berg hinunter.",
+        "Das war, um es vorsichtig zu sagen,\nkeine besonders offene Form des\npolitischen Austausches.",
+        "Ich bin dabei gestorben. Dieser\nmenschliche Körper hier ist eine\ngeistige Erscheinung. Mit Anzug.",
+        "Die Hyrule-Zeitung hatte mich vorher\nschon völlig zerrissen. Jeden Tag eine\nneue Schlagzeile.",
+        "Als Mensch konnte ich mich also\nkaum noch öffentlich zeigen. Nach\ndem Sturz zusätzlich körperlich nicht.",
+        "Nun fragst Du Dich vielleicht,\nweshalb eine gewisse Eule erstaunlich\nviel über Deine Reise wußte.",
+        "Diese Eule war ich, [Spielername].\nMethusa. Ich möchte das ausdrücklich\nund ohne jedes Mißverständnis sagen."
+      ],
+      "controls": [
+        "TEXTID(0x0121)"
+      ],
+      "notes": "Habecks Vorstellung. Die über TEXTID verbundenen Erklärungen 0121–0123 folgen hier ebenfalls vollständig.",
+      "locations": []
+    },
+    {
+      "id": "0121",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Aber eine Geistereule. Das Wort\nGeist ist hier entscheidend. Keine\nlebendige Eule mit einem Nebenberuf.",
+        "Ich war bereits tot. Die Eule war\neine vorübergehende, durch\nSonnenenergie getragene Geistgestalt.",
+        "Das bedeutet: Ich hatte keinen\nVogelkörper, der irgendwo auf eine\nWiese hätte fallen können.",
+        "Ich sammelte Solarenergie. Damit ließ\nsich für kurze Zeit eine örtlich\nbegrenzte Eulenform herstellen.",
+        "An bestimmten Orten war besonders\nviel magische Energie vorhanden. Dort\nkonnte ich mit Dir sprechen.",
+        "Nicht überall. Und nicht ständig.\nDiese Energie lag gewissermaßen in\nkleinen, unpraktischen Inseln vor.",
+        "Zwischen diesen Inseln konnte ich Dir\nfolgen, aber nicht beliebig körperlich\nin die Welt eingreifen.",
+        "In die Stadt zu gehen hätte mehr\nEnergie gebraucht. Häuser, Schatten,\neine sehr schwierige Versorgungslage.",
+        "Gegen Merz zu kämpfen hätte noch\nmehr gebraucht. Eine Geistereule ist\nnun einmal kein Kraftwerk.",
+        "Ich konnte beraten. Sehr ausführlich\nberaten. Für einen Faustkampf reichte\ndie solare Restladung nicht."
+      ],
+      "controls": [
+        "TEXTID(0x0122)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0122",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Inzwischen hat Merz mir auch diesen\nEnergie-Wasserhahn zugedreht. Bildlich\ngesprochen, versteht sich.",
+        "Es floß dort kein Wasser aus einer\nSonne. Der Hahn bezeichnet die\nZufuhr magisch nutzbarer Energie.",
+        "Er ließ die alten Energieorte\nversiegeln. Keine Zufuhr, keine\nErscheinung. Also auch keine\nGeistereule mehr.",
+        "Du wirst mich draußen daher vorerst\nnicht wieder als Eule treffen. Auch\nnicht abends mit Speicher.",
+        "Hier in der Halle der Weisen ist es\nanders. Hier besteht ein\ngeschlossener magischer Schutzraum.",
+        "Diese Magie hält meine menschliche\nGeistgestalt aufrecht. Ich stehe vor\nDir, ohne wieder lebendig zu sein.",
+        "Die Kraft bleibt größtenteils hier. Ich\nkann sie nicht einfach in einen Eimer\nfüllen und nach draußen tragen.",
+        "Die Halle schützt, was in ihr ist.\nAußerhalb greifen andere Bindungen.\nWeshalb? Weil diese Bindungen so\nsind.",
+        "Das ist keine besonders befriedigende\nErklärung. Es ist leider die technisch\ngenaueste, die wir haben.",
+        "Du und Navi befandet Euch hier in\nmagischer Stasis. Kein gewöhnliches\nKoma. Eine sehr geregelte\nVerwahrung."
+      ],
+      "controls": [
+        "TEXTID(0x0123)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0123",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Der Körper konnte heranwachsen,\nwährend Bewußtsein und\nWahrnehmung ruhten. Beides ist\ngetrennt geregelt.",
+        "Wäre alles vollständig eingefroren\ngewesen, wärst Du noch klein. Genau\ndas wollten wir ja vermeiden.",
+        "Für Navi galt derselbe Schutz. Feen\naltern dabei anders. Bitte verwechsle\nAlterung nicht mit Flugleistung.",
+        "Hier konnte ich die Stasis versorgen,\nobwohl draußen die Energie fehlte.\nInnenversorgung, Außenversorgung.",
+        "Das ist derselbe Unterschied, wegen\ndessen eine Lampe im Haus leuchten\nkann, ohne den ganzen Wald zu\nerhellen.",
+        "Nur daß die Lampe hier Magie ist,\ndas Haus eine Weisenhalle und der\nWald eine etwas überlastete\nMetapher.",
+        "Die Zitadelle der Zeit steht übrigens\nnoch. Merz hat sie nicht einfach\nabreißen können.",
+        "Die ist aus dermaßen stabilem Beton\ngebaut. Da kannst Du mit einer\nschwarzen Zauberkugel lange\ngegenreden.",
+        "Das Master-Schwert öffnete ihm\nleider das Heilige Reich. Die\nEingangssicherung war weniger solide\nals der Beton.",
+        "Bevor ich nun zu Kleidung, Muskeln\nund der verbleibenden Zeit komme:\nErschrick nicht. Schau Dich einmal an."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7050",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "[Spielername], Du bist erwachsen!\nUnd ich habe sieben Jahre nicht\ngemeckert? Das macht mir Angst."
+      ],
+      "controls": [],
+      "notes": "Navi in der Halle der Weisen, zwischen Habecks Erklärungen.",
+      "locations": []
+    },
+    {
+      "id": "7051",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Das Master-Schwert erkannte Dich\nals Herrn der Zeiten. Du warst für\nden Kampf aber noch zu jung.",
+        "Deshalb die sieben Jahre Stasis.\nDeine Kleidung wuchs durch Magie\nmit. Eine mitwachsende Ausstattung.",
+        "Ohne diese Regelung hätten wir jetzt\nein sehr unangenehmes Problem mit\nDeiner Hose.",
+        "Auch die Muskeln wurden magisch\nerhalten. Sonst könntest Du nach\nsieben Jahren nicht einmal aufstehen.",
+        "Das war kein kostenloses\nFitneßprogramm. Es war eine\nMaßnahme gegen körperlichen Abbau.",
+        "Die Gegenstände waren dagegen nicht\nalle in diesen Schutz einbezogen.\nUnterschiedliche Zuständigkeiten.",
+        "Der Bumerang war seit Jabu-Jabus\nInnerem sowieso feucht. Sieben Jahre\nLagerung waren dann keine\nVerbesserung.",
+        "Einiges ist verschimmelt, anderes\npaßt nicht zu Deiner jetzigen Gestalt.\nDu kannst nicht alles benutzen.",
+        "Bei einer Rückkehr in Deine Kindheit\nsteht Dir wieder die damalige, noch\nbrauchbare Ausrüstung zur Verfügung.",
+        "Das ist eine Zustandsfrage entlang\nder Zeitbindung. Kein Vorschlag,\nSchimmel durch Schwertschwingen zu\nentfernen.",
+        "Hast Du das soweit verstanden?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Auswahl: Ja führt zu 7053; Nein zu 7052 und von dort zurück zu 7051. Nicht alle Varianten laufen nacheinander.",
+      "locations": []
+    },
+    {
+      "id": "7052",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Das ist verständlich. Vielleicht war\ndie Erklärung zu knapp. Ich beginne\nnoch einmal bei der Stasis."
+      ],
+      "controls": [
+        "TEXTID(0x7051)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7053",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Mit dem Master-Schwert im\nZeitenfels kannst Du genau sieben\nJahre zurück.",
+        "Nicht acht. Nicht sechs. Nicht bis\nletzten Dienstag. Zwei feste\nEndpunkte.",
+        "Dein Schlaf lud die Zeitmagie auf und\nband sie an Dein damaliges Selbst.",
+        "Nun bist Du geweckt. Die Endpunkte\nstehen fest. Mehr Zeit ist nicht drin.",
+        "Wie zwei Haltestellen. Der Schlaf\nbaut die Strecke, das Schwert öffnet\nsie.",
+        "Die Bindung am Zeitenfels muß noch\nfreigegeben werden. Folge erst Deiner\nAufgabe.",
+        "Merz betrat das Heilige Reich und riß\ndas Triforce-Fragment an sich.",
+        "Seither verwüstet er Hyrule. Er nennt\ndas Eigenverantwortung.",
+        "Er vertrieb Menschen, entweihte\nTempel und sperrte die Energie. Das\nist böse.",
+        "Wecke die anderen Weisen! Ihre\nAmulette bündeln unsere Kraft gegen\nMerz.",
+        "Ich bin der Weise des Lichts. Hier\nkann ich helfen. Selbst hinausziehen\nkann ich nicht.",
+        "[Spielername], Du trägst das\nMaster-Schwert. Befreie die Tempel\nund finde die Weisen!",
+        "Beginne im Wald. Dort erschließt sich\nder weitere Weg.",
+        "Ich übertrage Dir meine Macht. Eine\ngezielte Übertragung. Kein\nMagie-Eimer.",
+        "Geh nun. Und falls jemand fragt: Ja,\nich war die Eule. Die Geistereule."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0040",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "Das Amulett des Lichts!\nRobert Habeck, der Weise,\ngibt Dir seine Kraft!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_MEDALLION_LIGHT)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "70E9",
+      "section": "1. Erwachen in der Halle der Weisen – Robert Habeck und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Finde die anderen\nWeisen und rette Hyrule!"
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7054",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "habeck_rauru_de.json"
+      ],
+      "pages": [
+        "[Spielername], Yo, als ob wir jetzt\neinfach sieben Jahre lang eingefroren\nwaren. Das kann doch nicht sein!",
+        "Und Dein ganzer Scheiß ist auch\nkomplett kaputt. Deine ganzen Items\nsind ja völlig geschrottet!",
+        "Jetzt müssen wir die anderen Weisen\nfinden. Ich weiß überhaupt nicht, was\nhier abgeht.",
+        "Das ist echt heftig. Total verrückt.\nUiuiuiuiuiui!"
+      ],
+      "controls": [],
+      "notes": "Navi in der nativen ersten Erwachsenen-Cutscene der Zitadelle. Kein frei gewählter C-Knopf-Hinweis.",
+      "locations": []
+    },
+    {
+      "id": "7056",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Ich habe auf Dich gewartet. Friedrich\nMerz hatte leider sieben Jahre\nVorsprung."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7057",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Friedrich Merz hat Hyrule verwüstet.\nDie Stadt liegt in Trümmern. Seine\nMacht nennt er Verantwortung.",
+        "Im Wald herrscht sein Fluch.",
+        "Auf dem Berg leiden die Goronen.",
+        "Am See ist ebenfalls alles im Eimer.",
+        "Selbst die Stätte des Todes hat\nunter ihm wenig zu lachen.",
+        "Und in der Wüste wartet noch ein\nTempel.",
+        "Fünf Tempel. Fünf Weise. Ihre Kräfte\nkönnen helfen, Merz die Herrschaft zu\nentreißen.",
+        "So überliefern es die Shiekah. Daß er\nalles für Eure Zukunft tut, überliefert\nhauptsächlich Merz."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7077",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Ich bin Shiek, einer der letzten\nShiekah. Wir haben keine gute Presse.\nAber immerhin noch ein Ziel."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7078",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Das Master-Schwert also. Endlich hält\nhier jemand etwas in der Hand, das\nkein leeres Versprechen ist."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7079",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Befreie die fünf Tempel. Erwecke ihre\nWeisen. Merz wird seine Macht nicht\nfreiwillig wieder hergeben."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "707A",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Im Waldtempel wartet eine alte\nFreundin. Du bist ihr als Kind schon\nbegegnet.",
+        "Damals wirkte sie oft etwas müde.\nSie hatte viel um die Ohren. Du\nsolltest ihr helfen.",
+        "Doch ohne weitere Ausrüstung\nerreichst Du den Tempel nicht.",
+        "Suche in Kakariko nach einem Haken.\nDort hat jemand vorgesorgt. Für die\nZeit nach seinem Tod.",
+        "Verstanden, [Spielername]? Eine\nalte Bekanntschaft. Laß Dich\nüberraschen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "700F",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Für Deine alte Freundin fehlt Dir noch\nein Haken. Such in Kakariko. Boris hat\netwas zu vererben."
+      ],
+      "controls": [],
+      "notes": "Sheik erneut angesprochen, Fanghaken fehlt noch.",
+      "locations": []
+    },
+    {
+      "id": "7010",
+      "section": "2. Zitadelle der Zeit – Navi und Sheiks erster Auftritt",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Du hast den Haken. Nun zur alten\nFreundin. Sie hat Dich früher auch\nmanchmal warten lassen, oder?"
+      ],
+      "controls": [],
+      "notes": "Sheik erneut angesprochen, Fanghaken vorhanden.",
+      "locations": []
+    },
+    {
+      "id": "0120",
+      "section": "3. Navis natürliche Story-Hinweise während des Waldkapitels",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Warte mal, mir fällt das jetzt erst\nauf, aber warum war König Zora so\nmega langsam?",
+        "Gott, ich hoffe, der Typ ist in dieser\nneuen Zukunft tot!"
+      ],
+      "controls": [],
+      "notes": "Einmaliger freiwilliger deutscher Story-Hinweis nach dem Master-Schwert. Übersteuert die normalen Hinweise, bis die eigene Gesehen-Markierung gesetzt ist.",
+      "locations": []
+    },
+    {
+      "id": "014E",
+      "section": "3. Navis natürliche Story-Hinweise während des Waldkapitels",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Hey, weißt Du was? Wenn wir Glück\nhaben, ist dieser alte Totengräber\nendlich krepiert.",
+        "Der wollte Dir doch diesen\nEnterhaken überlassen, oder?"
+      ],
+      "controls": [],
+      "notes": "Natürlicher Navi-Hinweis ohne Fanghaken, sobald 0120 erledigt ist.",
+      "locations": []
+    },
+    {
+      "id": "0150",
+      "section": "3. Navis natürliche Story-Hinweise während des Waldkapitels",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Sieben Jahre sind vergangen. Für\nSalia war das keine kleine Pause. Ich\nmache mir Sorgen um sie und den\nWald."
+      ],
+      "controls": [],
+      "notes": "Natürlicher Navi-Hinweis mit Fanghaken, ohne Waldamulett; bei passenden Außenwelt-Hinweisskripten.",
+      "locations": []
+    },
+    {
+      "id": "015F",
+      "section": "3. Navis natürliche Story-Hinweise während des Waldkapitels",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "kokiri_de.json"
+      ],
+      "pages": [
+        "[Spielername], mir gefällt das hier\nimmer weniger. Ich hoffe, daß wir\ndem Ursprung dieses ganzen Mists\nnäherkommen."
+      ],
+      "controls": [],
+      "notes": "Allgemeiner Ersatztext. Im Waldtempel hat das Hinweisskript diesen Grundwert; daraus folgt kein zusätzlicher zeitgesteuerter Dialog nach jeder Raumwarnung.",
+      "locations": []
+    },
+    {
+      "id": "5041",
+      "section": "4. Kakariko – Boris als Geist, Rennen und Fanghaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Ah, ein Besucher. Sieben Jahre\nverändern ein Leben. Einst ging ich\nunter den Lebenden. Nun bin ich tot.",
+        "Die Zeit nimmt uns alles.\nGewohnheiten. Zukunftspläne.\nIrgendwann den eigenen Körper.",
+        "Ich bin vorgestern beim Verlassen der\nWindmühle die Treppe runtergestürzt.",
+        "Das Grab ist noch frisch. Die große\nZeitbetrachtung war trotzdem\nberechtigt.",
+        "Du weißt ja: Wettrennen waren stets\nder Kern meiner Persönlichkeit. Boris,\nder größte Renner Hyrules!",
+        "Das habe ich ständig erzählt. Jeder\nwußte es. Auch dieser Junge auf dem\nFriedhof hat es immer gesagt.",
+        "Falls Du Dich nicht erinnerst: Es war\nwirklich ein fester Teil meines\nCharakters. Schon immer.",
+        "Uga Paluga! Meine alte Catchphrase.\nErinnerst Du Dich? Das habe ich\nfrüher immer gesagt.",
+        "Renn noch einmal gegen mich! Dann\nbekommst Du meinen Enterhaken.\nSteht so im Testament.",
+        "Den brauchst Du für den Waldtempel.\nOhne den kommst Du da nicht rein.\nSo. Jetzt rennen wir."
+      ],
+      "controls": [],
+      "notes": "Boris stellt sich beim ersten Ansprechen vor; nach dem Rennen getrennte Meldungen 502F und 502D/502E.",
+      "locations": []
+    },
+    {
+      "id": "502F",
+      "section": "4. Kakariko – Boris als Geist, Rennen und Fanghaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Die Zeit beträgt\n[Rennzeit]!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Native Rennzeit-Anzeige. [Rennzeit] ist der tatsächliche gemessene Wert.",
+      "locations": []
+    },
+    {
+      "id": "502D",
+      "section": "4. Kakariko – Boris als Geist, Rennen und Fanghaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Gewonnen! Genau wie damals.\nDamals, als ich noch lebte. Also bis\nvorgestern.",
+        "Du erbst meinen Enterhaken. Im Menü\nheißt er Fanghaken. Juristisch ist das\ndasselbe Ding.",
+        "Damit ziehst Du Dich zum Eingang\ndes Waldtempels. Du weißt schon:\nDein nächster Dungeon.",
+        "Komm wieder, wenn Du noch ein\nRennen willst. Ich war schon immer\nder große Rennsport-Boris.",
+        "Auf dem Rückweg geht es zur\nWindmühle. Paß an der Treppe auf.\nIch spreche aus Erfahrung."
+      ],
+      "controls": [],
+      "notes": "Nach dem ersten Rennen: Fanghaken noch nicht im Inventar.",
+      "locations": []
+    },
+    {
+      "id": "502E",
+      "section": "4. Kakariko – Boris als Geist, Rennen und Fanghaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Wieder da? Hat der Enterhaken\ngeholfen? Und natürlich: Lust auf\nRennsport? Mein uraltes\nMarkenzeichen!"
+      ],
+      "controls": [],
+      "notes": "Alternative nach erneutem Rennen mit Fanghaken. Kein automatisch angehängter zweiter Monolog.",
+      "locations": []
+    },
+    {
+      "id": "0036",
+      "section": "4. Kakariko – Boris als Geist, Rennen und Fanghaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Der Fanghaken!\nIm Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren.",
+        "Benutze ihn, um entfernte\nObjekte zu Dir zu holen oder\num Dich an ein Objekt\nheranzuziehen.",
+        "Halte [C] gedrückt und ziele\nmit [Control-Pad]. Läßt Du [C] los,\nschießt Du den Fanghaken ab."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_HOOKSHOT)",
+        "ITEM_ICON(ITEM_HOOKSHOT)",
+        "ITEM_ICON(ITEM_HOOKSHOT)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "1055",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Ich bin vielleicht ein Kokiri, aber doch\nkein Idiot??",
+        "Das eine hat mit dem anderen\nüberhaupt nichts zu tun."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_0; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1056",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Ich bin immer noch ein Kokiri. Und\nimmer noch kein Idiot. Nur damit wir\ndas geklärt haben."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_0; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "105A",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Hey, soll ich Dir das Menuett des\nWaldes beibringen?",
+        "Nee, haha, ich verarsch Dich nur.\nHaha! Laß Dich von mir nicht auf den\nArm nehmen."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_1; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "105D",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Der Deku-Baum läßt Grüße ausrichten.",
+        "Und jetzt verpiss Dich, Fremder!"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_2; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "105E",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Der Deku-Baum läßt Grüße ausrichten.\nUnd jetzt verpiss Dich, Fremder!"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_2; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "105B",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Es gab mal so nen Typen, der hier\nwohnte. Der hieß [Spielername].",
+        "Mann, bin ich froh, daß der nie\ngecheckt hat, daß ich ihm noch 50\nRubine schulde."
+      ],
+      "controls": [
+        "TEXTID(0x105C)"
+      ],
+      "notes": " Kokiri-Typ CHILD_3; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "105C",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Falls Du [Spielername] siehst: Du\nhast mich nie getroffen. Und ich\nhatte nie 50 Rubine."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "105F",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Was zur Hölle ist vor sieben Jahren\nmit dem Deku-Baum passiert?",
+        "Sieben Jahre! Ich hab immer noch\ndran zu knabbern. Als ob der jetzt\neinfach tot ist.",
+        "Und zwar seit sieben Jahren übrigens.\nIch war auf hundert weitere\neingestellt.",
+        "Ich hatte eine coole Hütte. Einen\nentspannten Tag. Wie konnte das so\neskalieren?"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_4; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1057",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Wenn Sie einen Bogen besitzen, \nkönnen Sie im Laden Pfeile kaufen. \nHaben Sie einen Bogen?"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_5; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1058",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Ein Mann, der sich Philipp Amthor\nnannte, kam hierher.",
+        "Der wollte mit uns spielen. Ihh, Alter,\nwas will denn dieser Opa hier??",
+        "Ich dachte erst, der sucht\n[Spielername]. Aber nein. Der\nwollte ernsthaft mit uns spielen."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_6; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1059",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Philipp Amthor. Der wollte mit uns\nspielen. Ich faß es immer noch nicht."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_6; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "104E",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Ich bin Fan von Rockmusik. Richtig\nsau gute Musik."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_7; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "104F",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Ein kalter, dämonischer Wind \nweht aus der Richtung des \nWaldtempels.",
+        "Salia ist fort. Sie sagte, sie \nwolle etwas dagegen unternehmen!"
+      ],
+      "controls": [
+        "TEXTID(0x1050)"
+      ],
+      "notes": " Kokiri-Typ CHILD_8; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1050",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Der Waldtempel befindet sich bei \nder Heiligen Lichtung, tief in\nden Verlorenen Wäldern."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_8; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1051",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Erinnerst Du Dich noch an den Lego\nLeucht-Geist?"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_9; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1052",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Sie können mit Sicherheit keinen\nDeku-Schild mehr benutzen, dafür\nsind Sie zu alt!"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_10; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1053",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Wo Salia ist? \nSie kennen Salia?\nDas ist merkwürdig..."
+      ],
+      "controls": [
+        "TEXTID(0x1054)"
+      ],
+      "notes": " Kokiri-Typ CHILD_11; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1054",
+      "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Mido ist seit einiger Zeit\nverschwunden... Wo er wohl \nsteckt?"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_11; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1060",
+      "section": "6. Verlorene Wälder – Mido vor dem Waldtempel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Sieben Jahre, [Spielername]. Und\nweißt Du was? Ich finde Dich immer\nnoch scheiße. Manche Dinge bleiben."
+      ],
+      "controls": [],
+      "notes": "Midos erste Ansprache vor der Tempelbefreiung, bevor sein Lied-/Durchgangsereignis gesetzt wurde.",
+      "locations": []
+    },
+    {
+      "id": "1061",
+      "section": "6. Verlorene Wälder – Mido vor dem Waldtempel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Falls Du es vergessen hast,\n[Spielername]: Ich finde Dich\nimmer noch scheiße. Auch sieben\nJahre später.",
+        "Mit König Zora bin ich schon\nverabredet: Wenn Friedrich Merz\nbesiegt ist, gehen wir zusammen auf\neine mögliche Siegesfeier.",
+        "Du rettest Hyrule, ich gehe feiern.\nJeder leistet seinen Beitrag."
+      ],
+      "controls": [],
+      "notes": "Midos Wiederholungszustand vor der Tempelbefreiung.",
+      "locations": []
+    },
+    {
+      "id": "1067",
+      "section": "6. Verlorene Wälder – Mido vor dem Waldtempel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Diese Melodie?!",
+        "Salia hat sie geschrieben! \nSie... Sie kennen Salia?",
+        "Das Lied...",
+        "Salia hat das Lied nur ihren \nengsten Freunden beigebracht..."
+      ],
+      "controls": [
+        "TEXTID(0x106F)"
+      ],
+      "notes": "Midos Reaktion auf Salias Lied; eigenes Ereignis im Gespräch.",
+      "locations": []
+    },
+    {
+      "id": "106F",
+      "section": "6. Verlorene Wälder – Mido vor dem Waldtempel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Nun gut...\nIch vertraue Dir."
+      ],
+      "controls": [
+        "TEXTID(0x1068)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "1068",
+      "section": "6. Verlorene Wälder – Mido vor dem Waldtempel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Gut, Du kennst das Lied. Ich finde\nDich trotzdem noch scheiße. Sieben\nJahre ändern daran nichts.",
+        "Wenn Friedrich Merz besiegt ist, bin\nich mit König Zora für die Siegesfeier\nverabredet. Nur damit Du Bescheid\nweißt."
+      ],
+      "controls": [],
+      "notes": "Mido nach dem Lied-/Durchgangsereignis, vor der Tempelbefreiung.",
+      "locations": []
+    },
+    {
+      "id": "016A",
+      "section": "7. Salia per Okarina vor dem Waldtempel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "[Spielername], im Waldtempel ist\nBöses im Busch.",
+        "Der Waldtempel gehört einem reichen\nFatzke namens Philipp Amthor.",
+        "Ich gehe dort hin, um herauszufinden,\nwas hier fischig ist.",
+        "Wir sehen uns bestimmt wieder. Zu\n100 Prozent! Ich wüßte nicht, warum\ndas nicht passieren sollte."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Salia per Okarina als Erwachsener, solange das Waldamulett fehlt. Salia ist weiterhin Salia; die Krabbelminen-Frau übernimmt ausschließlich die Waldweisen-Rolle.",
+      "locations": []
+    },
+    {
+      "id": "0107",
+      "section": "8. Heilige Lichtung – Navi, Sheik und das Menuett des Waldes",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "kokiri_de.json"
+      ],
+      "pages": [
+        "Enger Gang. Laß Dir an der Ecke\nnicht schon wieder eine verpassen.",
+        "Mit [Z] richtest Du Dich aus und\nblickst geradeaus in den Gang.",
+        "Halte [Z] und gehe seitwärts um die\nEcke. Denk ausnahmsweise vor\nDeinem Schädel mit."
+      ],
+      "controls": [],
+      "notes": "Automatische Gangwarnung auf der Heiligen Lichtung; kein beliebig oft angebotener Story-Ruf.",
+      "locations": []
+    },
+    {
+      "id": "106C",
+      "section": "8. Heilige Lichtung – Navi, Sheik und das Menuett des Waldes",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Der Wald ist grün, und Mr. Bean war\nkühn. Er gab sein Leben, um dieses\nLand zu schützen.",
+        "Und Friedrich Merz ist Algengrütze.\nHier im Wald wächst so mancher Pilz.\nUnd nun auch Du, Du Knilch.",
+        "Die Welt ist zweifelsohne voller\nSchönheit, [Spielername].",
+        "Und eine dieser Schönheiten ist\ndieser Song, den ich geschrieben\nhabe. Das Menuett des Waldes.",
+        "Es bringt Dich hierher zurück. Im\nTempel wartet eine alte Freundin. Sie\nhat früher schon Dinge ins Rollen\ngebracht."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0073",
+      "section": "8. Heilige Lichtung – Navi, Sheik und das Menuett des Waldes",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Du hast das\nMenuett des Waldes\nerlernt!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "106D",
+      "section": "8. Heilige Lichtung – Navi, Sheik und das Menuett des Waldes",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "[Spielername]... Deine alte Freundin\nwartet. Und ich meine nicht mich."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0105",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Hey, da ist mal wieder einer von\ndiesen Minecraft-Blöcken."
+      ],
+      "controls": [],
+      "notes": "Gemeinsamer Zeitblock-Hinweis. Tatsächlich im Waldtempel platziert, später auch an anderen Stellen verwendet.",
+      "locations": [
+        "Waldtempel, Raum 2"
+      ]
+    },
+    {
+      "id": "018C",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Ey Junge, sag jetzt nicht, daß wir\ndiese Geister durch den ganzen Laden\nhier verfolgen müssen. Ey, bitte nicht."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 2"
+      ]
+    },
+    {
+      "id": "018D",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "[Spielername], Okay, immerhin\nbrennt jetzt wieder eine von den\nFackeln. Wir arbeiten uns langsam\nvor. Ey, das wird noch lange dauern."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 2"
+      ]
+    },
+    {
+      "id": "018F",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Also, ich weiß ja nicht, ob Du es\nschon gemerkt hast, aber auf dem\nBoden sind Pfeile, ne? Just saying."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 11"
+      ]
+    },
+    {
+      "id": "0190",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Boah, gut, daß ich fliegen kann. Sonst\nhätte ich mich jetzt eingekotzt."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 19"
+      ]
+    },
+    {
+      "id": "0191",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Ich präsentiere: die nervigsten\nGegner in diesem ganzen Abenteuer."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 19",
+        "Waldtempel, Raum 20"
+      ]
+    },
+    {
+      "id": "0192",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Boah, hoffentlich ist da Geld drin."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 19"
+      ]
+    },
+    {
+      "id": "0194",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Okay, langsam sehe ich, daß wir das\nRätsel lösen. Die Fackel haben wir\ndoch am Eingang dieses Tempels\ngesehen, oder?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 12",
+        "Waldtempel, Raum 13",
+        "Waldtempel, Raum 16"
+      ]
+    },
+    {
+      "id": "0195",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Nicht lang fackeln."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 12",
+        "Waldtempel, Raum 13",
+        "Waldtempel, Raum 16"
+      ]
+    },
+    {
+      "id": "0197",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Meinst Du, wir können den Schalter\nirgendwie wieder entfrieren? Wenn\nwir da irgendwie... Keine Ahnung. Ich\nweiß auch nicht."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 14"
+      ]
+    },
+    {
+      "id": "0198",
+      "section": "9. Waldtempel – örtliche Navi-Hinweise und Fackeln",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "[Spielername], Junge, was ist das\nhier für eine Todesfalle? Die Decke\nfällt herab!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Waldtempel, Raum 15"
+      ]
+    },
+    {
+      "id": "0031",
+      "section": "10. Waldtempel – Feen-Bogen und neue Begegnungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Der Feen-Bogen!\nIm Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren.",
+        "Drücke [C], um den Bogen\nzu benutzen. Halte [C] und\nziele mit [Control-Pad]. Laß [C] los,\num Pfeile abzuschießen!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOW)",
+        "ITEM_ICON(ITEM_BOW)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "6087",
+      "section": "10. Waldtempel – Feen-Bogen und neue Begegnungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "superhelden_de.json"
+      ],
+      "pages": [
+        "Hey, hey, hey! Ich bin's, Fanboy!\nChum Chum und ich haben es uns zur\nAufgabe gemacht, gegen Friedrich\nMerz vorzugehen!",
+        "Plan A: Merz besiegen! Plan B: erst\nmal einen Frosty Freezy Freeze\ntrinken! Ich habe schon dreimal Plan\nB durchgeführt. Es läuft SUPER!",
+        "Chum Chum bewacht den anderen\nGang. Zwei Helden, doppelte\nSicherheit! Sag ihm, er soll unsere\nAusrüstung nicht essen!"
+      ],
+      "controls": [],
+      "notes": "Fanboy im Waldtempel; eigener Gesprächsort, getrennt von Chum Chum.",
+      "locations": []
+    },
+    {
+      "id": "6088",
+      "section": "10. Waldtempel – Feen-Bogen und neue Begegnungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "superhelden_de.json"
+      ],
+      "pages": [
+        "Grüße, hier ist Chum Chum am\nApparat! Fanboy ist echt der coolste\nTyp! Zusammen werden wir Friedrich\nMerz besiegen. Denn wahre Helden",
+        "kämpfen nun mal gegen böse\nSuperschurken!",
+        "Fanboy hat gesagt, ich soll diesen\nGang bewachen. Das mache ich seit\nStunden. Der Gang hat sich keinen\nZentimeter bewegt. VERDÄCHTIG!",
+        "Sobald Merz auftaucht, schlage ich\nAlarm! Ich kann so laut schreien, daß\ner seine eigene Politik nicht mehr\nhört. Das hilft bestimmt!"
+      ],
+      "controls": [],
+      "notes": "Chum Chum im Waldtempel; eigener Gesprächsort, getrennt von Fanboy.",
+      "locations": []
+    },
+    {
+      "id": "0109",
+      "section": "10. Waldtempel – Feen-Bogen und neue Begegnungen",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Junge, was zum Teufel? Dieser\nMaskenhändler meinte doch, die\nMaske wäre mega wichtig und selten.",
+        "Warum liegt das Teil hier einfach so\nrum? Was soll sowas??"
+      ],
+      "controls": [],
+      "notes": "Zielerfassung der herumliegenden Majora-Maske im Tempelgang; keine automatische Ansprache am Tempelanfang.",
+      "locations": []
+    },
+    {
+      "id": "209B",
+      "section": "11. Philipp Amthor – Begrüßung, Navi-Zielerfassung und Merz nach dem Sieg",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "phantom_amthor_de.json"
+      ],
+      "pages": [
+        "Sooo, genug Schabernack!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Amthors hinzugefügte Begrüßung nach der Gesichtsenthüllung und vor der Bosseinblendung.",
+      "locations": []
+    },
+    {
+      "id": "062B",
+      "section": "11. Philipp Amthor – Begrüßung, Navi-Zielerfassung und Merz nach dem Sieg",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Philipp Amthor. Ist der 15 oder 55?\nKeine Ahnung. Schieß den Scheißkerl\nvom Pferd, wenn er aus dem Bild\nkommt!"
+      ],
+      "controls": [],
+      "notes": "Navi-Bossbeschreibung während der Reiter-/Gemäldephase.",
+      "locations": []
+    },
+    {
+      "id": "061A",
+      "section": "11. Philipp Amthor – Begrüßung, Navi-Zielerfassung und Merz nach dem Sieg",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Philipp Amthor. Ich habe keine\nAhnung, ob der jetzt 15 oder 55 ist.",
+        "Der sieht aus, als müßte er für\nMathe lernen und seinen Rentenantrag\nausfüllen. Schlag ihm seinen Scheiß\nzurück!"
+      ],
+      "controls": [],
+      "notes": "Navi-Bossbeschreibung während der zweiten Kampfphase.",
+      "locations": []
+    },
+    {
+      "id": "108E",
+      "section": "11. Philipp Amthor – Begrüßung, Navi-Zielerfassung und Merz nach dem Sieg",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "phantom_amthor_de.json"
+      ],
+      "pages": [
+        "Du hast Dich tapfer geschlagen... Es\nscheint, daß Du viel gelernt hast!\nJedoch...",
+        "Du hast nur Amthor besiegt! Trittst\nDu meinem wahren Ich gegenüber,\nwirst Du vernichtet!",
+        "Ich werde Amthor nun in den Hades\nverbannen, denn er hat seinen\nSchöpfer enttäuscht!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "BOX_BREAK_DELAYED(60)",
+        "FADE(60)"
+      ],
+      "notes": "Merz spricht nach Amthors Niederlage; nicht Amthor selbst.",
+      "locations": []
+    },
+    {
+      "id": "106A",
+      "section": "12. Waldweise – Krabbelminen-Frau und Waldamulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Hey, so sehen wir uns wieder.",
+        "Der ganze Krabbelminen-Schuppen ist\nirgendwann zusammengebrochen, weil\nFriedrich Merz Hyrule kaputtgespart\nhat.",
+        "Jetzt ist da alles komplett Schrott\nund voller Zombies.",
+        "Nicht wegen böser Magie. Ne, ne. Der\nhat das mit seinen Reformen\nvollkommen versaut.",
+        "Anyway, die alte Krabbelminenbude\nist zusammengebrochen und hat\nmeinen Schädel gecrusht."
+      ],
+      "controls": [],
+      "notes": "Die Krabbelminen-Frau erscheint als Waldweise nach dem Sieg.",
+      "locations": []
+    },
+    {
+      "id": "108F",
+      "section": "12. Waldweise – Krabbelminen-Frau und Waldamulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Also, ich sag's mal so: Wenn Du\nirgendwie in die Vergangenheit reisen\nkönntest oder sowas ...",
+        "Rein theoretisch.",
+        "... und mich warnen könntest, dann\nwürd ich mir 'nen anderen Job\nsuchen.",
+        "Ist eher ungeil, tot zu sein. Honestly."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(30)"
+      ],
+      "notes": "Fortsetzung der Waldweisen-Szene, einschließlich der vorhandenen festen Textpause.",
+      "locations": []
+    },
+    {
+      "id": "1090",
+      "section": "12. Waldweise – Krabbelminen-Frau und Waldamulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Jetzt bin ich halt die Weise des\nWaldes. Hatte ja sonst nichts mehr\nvor. Bin tot.",
+        "Hier, nimm das Waldamulett. Friedrich\nMerz muß weg. Ich hab mit dem\nTypen noch 'ne Rechnung offen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "003E",
+      "section": "12. Waldweise – Krabbelminen-Frau und Waldamulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Das Waldamulett! Die\nKrabbelminen-Frau gibt Dir\nihre Kraft!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_MEDALLION_FOREST)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "106B",
+      "section": "12. Waldweise – Krabbelminen-Frau und Waldamulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Tot sein ist echt ungeil."
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "notes": "Kurzer zeitgesteuerter Abschied der Waldweisen.",
+      "locations": []
+    },
+    {
+      "id": "1062",
+      "section": "13. Zurück im Kokiri-Wald – Tripple T erscheint und erklärt die Herkunft",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Jo jo jo jo jo, ich bin es! Tripple T\nist am Start.",
+        "Meine Güte, ich hab echt lang\ngewartet. Aber endlich ist\nDeku-Baum-Zeit.",
+        "Ich bin der neue Deku-Baum. Das ist\nmein neuer Job, mein neues Ding.",
+        "Tung Tung Tung Sahur ist aller Zeit\nbereit und stets von Sorgen befreit.",
+        "Hahaha! Jetzt kippen wir den\nFun-Schalter des Spaßmodus mal auf\n0 und werden ernst."
+      ],
+      "controls": [],
+      "notes": "Tripple Ts erster Text nach dem Auftauchen; danach folgen weitere native Abschnitte und ein Rückblick.",
+      "locations": []
+    },
+    {
+      "id": "1063",
+      "section": "13. Zurück im Kokiri-Wald – Tripple T erscheint und erklärt die Herkunft",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Friedrich Merz hat den Wald nicht\neinfach vergessen. Er hat die Tempel\nabsichtlich verkommen lassen.",
+        "Erst alles kaputtsparen und dann\nsagen, die Bewohner hätten sich nicht\ngenug angestrengt.",
+        "Die Kokiri altern nicht. Du schon.\nDeine alten Freunde erkennen Dich\ndeshalb kaum wieder."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "1064",
+      "section": "13. Zurück im Kokiri-Wald – Tripple T erscheint und erklärt die Herkunft",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Jetzt wird's kurz persönlich: Du bist\nkein Kokiri. Du bist ein Hylianer!",
+        "Der alte Deku-Baum hat Dich als Kind\naufgenommen. Daher bist Du mit den\nKokiri aufgewachsen.",
+        "Und Merz nennt den Wald ungenutzte\nFläche. Ich nenne ihn mein\nverdammtes Zuhause."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "1065",
+      "section": "13. Zurück im Kokiri-Wald – Tripple T erscheint und erklärt die Herkunft",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Merz wollte den Wald roden.",
+        "Deine Mutter floh vor dem Krieg.",
+        "Der Deku-Baum nahm Dich auf.",
+        "Du bist hier aufgewachsen.",
+        "Jetzt mußt Du Merz aufhalten."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(90)",
+        "FADE(90)"
+      ],
+      "notes": "Zeitgesteuerter Rückblick. Die fünf festen Seitenzeiten bleiben erhalten.",
+      "locations": []
+    },
+    {
+      "id": "1066",
+      "section": "13. Zurück im Kokiri-Wald – Tripple T erscheint und erklärt die Herkunft",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Du bist Hylianer. Den Wald zu\nverlassen war also kein Versehen.",
+        "Merz sitzt noch immer in seinem\nSchloß und erklärt den Schaden zur\nnotwendigen Reform.",
+        "Befreie die anderen Tempel. Die\nWeisen können ihn gemeinsam\naufhalten.",
+        "Also los, [Spielername]. Tripple T\npaßt hier auf. Der Wald wird nicht\nnoch einmal kaputtgespart."
+      ],
+      "controls": [],
+      "notes": "Rückkehr nach dem Rückblick; ebenfalls möglicher Wiederholungszustand vor der abschließenden Fortschrittsmarkierung.",
+      "locations": []
+    },
+    {
+      "id": "1078",
+      "section": "13. Zurück im Kokiri-Wald – Tripple T erscheint und erklärt die Herkunft",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Tripple T beschützt den Wald. Merz\nhat hier Hausverbot. Der Fun-Schalter\nbleibt auf 0."
+      ],
+      "controls": [],
+      "notes": "Tripple Ts spätere Wiederholungsvariante nach dem Herkunfts-/Abschlußereignis.",
+      "locations": []
+    },
+    {
+      "id": "1070",
+      "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Oh... Ich verstehe.",
+        "Salia wird nicht zurückkommen.",
+        "Ich gab Salia das Versprechen, \ndaß...",
+        "...ich [Spielername] etwas mitteile,\nfalls er zurückkehrt. Salia sagte,\nsie würde auf ihn warten...\nFür immer...",
+        "Ich glaube Salia... mochte...\nihn..."
+      ],
+      "controls": [
+        "TEXTID(0x1071)"
+      ],
+      "notes": "Mido nach der Tempelbefreiung, erste Ansprache.",
+      "locations": []
+    },
+    {
+      "id": "1071",
+      "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Fremder...",
+        "Falls Sie ihn irgendwo sehen,\nlassen Sie es ihn wissen..."
+      ],
+      "controls": [
+        "TEXTID(0x10D6)"
+      ],
+      "notes": "Mido nach der Tempelbefreiung, Wiederholung.",
+      "locations": []
+    },
+    {
+      "id": "10D6",
+      "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Noch etwas...",
+        "Es tut mir leid, daß ich gemein \nzu ihm war.",
+        "Sagen Sie ihm das bitte auch!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "016B",
+      "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Jaa, keine Sorge, [Spielername],\nmir geht's prächtig.",
+        "Ich bin auf ne coole Reise gegangen,",
+        "weil Hyrule mir zu konservativ wurde."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Salia per Okarina nach dem Waldamulett und vor den folgenden Amuletten. Kein zusätzlicher Dialog der Waldweisen.",
+      "locations": []
+    },
+    {
+      "id": "1072",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Ich bin vielleicht ein Kokiri, aber doch\nkein Idiot??"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_0; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1073",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Hey, soll ich Dir das Menuett des\nWaldes beibringen?",
+        "Nee, haha, ich verarsch Dich nur. Laß\nDich von mir nicht auf den Arm\nnehmen."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_1; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1074",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Der Deku-Baum läßt Grüße ausrichten.\nUnd jetzt verpiss Dich, Fremder!"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_2; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1075",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Es gab mal so nen Typen namens\n[Spielername]. Dem schulde ich\nnoch 50 Rubine.",
+        "Mann, bin ich froh, daß der das nie\ngecheckt hat."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_3; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1076",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "Der Wald erholt sich. Schön. Der alte\nDeku-Baum ist trotzdem seit sieben\nJahren tot.",
+        "Ich komm darauf noch nicht klar.\nHundert Jahre hab ich gesagt.\nHUNDERT."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_4; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1077",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Der Wald ist wieder ruhig. Hoffentlich\nkommt dieser Opa Amthor jetzt nicht\nwieder her und will mit uns spielen."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_6; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "1079",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Ich bin Fan von Rockmusik. Richtig\nsau gute Musik."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_7; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "107A",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Seit es im Wald wieder\nsicher ist, glaube ich,\ndaß [Spielername] zurückkehren \nwird!"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_8; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "107B",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Erinnerst Du Dich noch an den Lego\nLeucht-Geist?"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_9; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "107C",
+      "section": "15. Kokiri-Wald nach der Befreiung – neue Bewohnertexte",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Sicher wird [Spielername] eines \nTages zurückkommen..."
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_10; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner. Kokiri-Typ CHILD_11; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "0151",
+      "section": "16. Übergang zum nächsten Kapitel – Navis nächster Story-Hinweis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Ey, ich werde wahnsinnig. Jetzt hat\nder Scheiß Friedrich Merz auch noch\nden Todesberg versaut!",
+        "Das ist echt schlimm. Mann, da sieht\nman die Welt mit anderen Augen,\nwas?"
+      ],
+      "controls": [],
+      "notes": "Nächster natürlicher Story-Hinweis mit Waldamulett, solange das Feueramulett fehlt. Als Übergang aufgenommen.",
+      "locations": []
+    },
+    {
+      "id": "5034",
+      "section": "A. Optionale Windmühle beim Kakariko-Besuch – Regenlied",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ],
+      "pages": [
+        "Auch nach sieben Jahren bin ich\nimmer noch sowas von wütend. Ich\nstehe jeden Tag mit einem wütenden\nGefühl auf und ziehe mir meine",
+        "wütenden Schuhe an.",
+        "Der hat meine ganze Mühle\ngeschrottet. Das ist unfaßbar.",
+        "Sag mal, wißt ihr eigentlich, wie\nteuer dieser ganze Schuppen hier\ngewesen ist?"
+      ],
+      "controls": [],
+      "notes": "Optional schon bei diesem Besuch erreichbar. Für den Waldtempel nicht nötig; daher nur im Anhang.",
+      "locations": []
+    },
+    {
+      "id": "5035",
+      "section": "A. Optionale Windmühle beim Kakariko-Besuch – Regenlied",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ],
+      "pages": [
+        "Ey, ich werde wahnsinnig. Das ist\ndoch jetzt... Sag mir bitte nicht, daß\ndas eine Okarina ist.",
+        "Sag mir nicht, daß Du der Wichser\nvon damals gewesen bist, sonst\nwerde ich Dir so in die Fresse hauen.",
+        "Irgendjemand hat damals diese\nabsolut bescheuerte Regenmusik\ngespielt. Warum gibt es sowas\nüberhaupt? Warum erlauben die",
+        "Götter das?",
+        "Ich erkläre Dir jetzt das Lied, einfach\nnur damit Du weißt, daß Du es auf\nkeinen Fall spielen sollst. Jetzt ist es\nsowieso zu spät.",
+        "Gott sei Dank hast Du keine\nZeitmaschine oder so."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "508E",
+      "section": "A. Optionale Windmühle beim Kakariko-Besuch – Regenlied",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ],
+      "pages": [
+        "Oh nein, das war ein Fehler!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00D6",
+      "section": "A. Optionale Windmühle beim Kakariko-Besuch – Regenlied",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast die\nHymne des Sturms\nerlernt!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00E0",
+      "section": "B. Gemeinsame Okarina-Bedienung bei Salias Lied",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Willst Du mit Salia sprechen?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Gemeinsame Okarina-Abfrage; nicht bei jedem Anruf zusätzlich angezeigt.",
+      "locations": []
+    },
+    {
+      "id": "00E1",
+      "section": "B. Gemeinsame Okarina-Bedienung bei Salias Lied",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Willst Du dann mit mir sprechen? \n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Gemeinsame Okarina-Abfrage; nicht bei jedem Anruf zusätzlich angezeigt.",
+      "locations": []
+    },
+    {
+      "id": "10B7",
+      "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Er ist nicht mehr hier...",
+        "Jedes Wesen, das kein Kokiri ist,\nist in diesen Wäldern verloren.",
+        "Sicher hat er sich inzwischen\nauch in eine Pflanze verwandelt.\nAlles, was von ihm übrig blieb,\nist diese Säge hier."
+      ],
+      "controls": [
+        "TEXTID(0x10B8)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "10B8",
+      "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Die Medizin besteht aus \nWaldpilzen! Gib sie mir! \nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "10B9",
+      "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Wirst auch Du Dich verwandeln?"
+      ],
+      "controls": [],
+      "notes": " Kokiri-Typ CHILD_FADO; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
+      "locations": []
+    },
+    {
+      "id": "10BA",
+      "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "kokiri_de.json"
+      ],
+      "pages": [
+        "Schilde haben wir. Schwerter nicht.\nFür Streit bitte an Mido wenden."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "10DF",
+      "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Der, den Du suchst,\nist nicht mehr hier...",
+        "Jeder, der diesen Wald betritt und \nkein Kokiri ist, ist verdammt...",
+        "Jeder...\nSicher hat er sich schon längst in \neine Pflanze verwandelt..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0067",
+      "section": "D. Gemeinsame Dungeon-Fundtexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Der Kompaß!\nJetzt siehst Du auf Deiner\nKarte alle Schatztruhen\ndieses Labyrinths!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_COMPASS)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0066",
+      "section": "D. Gemeinsame Dungeon-Fundtexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Die Labyrinth-Karte!\nDrücke START, um sie im\nKarten-Bildschirm anzusehen!",
+        "Blaue Räume hast Du bereits\naufgesucht.\nDer blinkende Raum zeigt\nDeine derzeitige Position.",
+        "Bewege [Control-Pad], um ein\nStockwerk auszuwählen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0060",
+      "section": "D. Gemeinsame Dungeon-Fundtexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Ein kleiner Schlüssel!\nEr öffnet eine verschlossene\nTür. Du kannst ihn nur in\ndiesem Labyrinth einsetzen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_SMALL_KEY)"
+      ],
+      "notes": "",
+      "locations": []
+    }
+  ]
+}
