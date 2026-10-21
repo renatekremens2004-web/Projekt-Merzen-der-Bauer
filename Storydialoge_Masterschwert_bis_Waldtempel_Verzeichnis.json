@@ -1,6 +1,6 @@
 {
-  "source_sha256": "ddd1133ffa493fe161ea2fd796566dcead818814ba78e9ad9a21747d5a70368b",
-  "rom_reference_sha256": "2dd5f59796b59469b0f478fcc4655b55f8b9426f230200f2728572328040f0a1",
+  "source_sha256": "f4febae8f761bffe509c6a4aedc0a8bb793918bd020f2abaa9f48fe8d06fe883",
+  "rom_reference_sha256": "1a3fc73bf300c5ce2a6fc923c3b792db81234918a775380cfc10b58d577b1622",
   "scope": "Erwachen bis Waldtempel-Abschluß und unmittelbare Reaktionen",
   "cutscene_coverage": [
     {
@@ -1447,7 +1447,7 @@
       "pages": [
         "Jetzt wird's kurz persönlich: Du bist\nkein Kokiri. Du bist ein Hylianer!",
         "Der alte Deku-Baum hat Dich als Kind\naufgenommen. Daher bist Du mit den\nKokiri aufgewachsen.",
-        "Und Merz nennt den Wald ungenutzte\nFläche. Ich nenne ihn mein\nverdammtes Zuhause."
+        "Und nun brauchen wir Dich, um\ngrausame Pläne zu verhindern."
       ],
       "controls": [],
       "notes": "",
@@ -1461,11 +1461,11 @@
         "waldtempel_sahur_de.json"
       ],
       "pages": [
-        "Merz wollte den Wald roden.",
-        "Deine Mutter floh vor dem Krieg.",
-        "Der Deku-Baum nahm Dich auf.",
-        "Du bist hier aufgewachsen.",
-        "Jetzt mußt Du Merz aufhalten."
+        "Friedrich Merz ging zu den Goronen,\nangeblich für den Kohleabbau.",
+        "Doch er hatte etwas viel, viel\nSchlimmeres im Sinn.",
+        "Dort wurde auch Uranerz für eine\nMassenvernichtungswaffe abgebaut.",
+        "Geh zu den Goronen und befreie den\nForscher!",
+        "Er wird gezwungen, an diesem Projekt\nzu arbeiten."
       ],
       "controls": [
         "BOX_BREAK_DELAYED(90)",
@@ -1485,10 +1485,10 @@
         "waldtempel_sahur_de.json"
       ],
       "pages": [
-        "Du bist Hylianer. Den Wald zu\nverlassen war also kein Versehen.",
-        "Merz sitzt noch immer in seinem\nSchloß und erklärt den Schaden zur\nnotwendigen Reform.",
-        "Befreie die anderen Tempel. Die\nWeisen können ihn gemeinsam\naufhalten.",
-        "Also los, [Spielername]. Tripple T\npaßt hier auf. Der Wald wird nicht\nnoch einmal kaputtgespart."
+        "Begib Dich nun zum Todesberg,\n[Spielername]. Dort im Feuertempel\nwird der Projektleiter von Projekt\nAtom-Donnerblume festgehalten.",
+        "Friedrich Merz darf niemals so weit\nkommen!",
+        "Und keine Sorge, Tripple T paßt hier\nauf.",
+        "Tung Tung Tung Tung Tung Tung Tung\nTung Tung Tung Sahur!"
       ],
       "controls": [],
       "notes": "Rückkehr nach dem Rückblick; ebenfalls möglicher Wiederholungszustand vor der abschließenden Fortschrittsmarkierung.",
@@ -1502,7 +1502,7 @@
         "waldtempel_sahur_de.json"
       ],
       "pages": [
-        "Tripple T beschützt den Wald. Merz\nhat hier Hausverbot. Der Fun-Schalter\nbleibt auf 0."
+        "Hey, hey, Kollege, ich bin's, Tripple T!\nWie geht's voran? Hast Du schon das\nmit der Bombe gelöst?"
       ],
       "controls": [],
       "notes": "Tripple Ts spätere Wiederholungsvariante nach dem Herkunfts-/Abschlußereignis.",
@@ -1512,13 +1512,13 @@
       "id": "1070",
       "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "sahur_goron_neu_v20_de.json"
+      ],
       "pages": [
-        "Oh... Ich verstehe.",
-        "Salia wird nicht zurückkommen.",
-        "Ich gab Salia das Versprechen, \ndaß...",
-        "...ich [Spielername] etwas mitteile,\nfalls er zurückkehrt. Salia sagte,\nsie würde auf ihn warten...\nFür immer...",
-        "Ich glaube Salia... mochte...\nihn..."
+        "Oh wow, Du hast es wirklich\ngeschafft, [Spielername]! Ehrlich\ngesagt glaube ich nicht, daß der\nDeku-Baum damals wegen Dir",
+        "gestorben ist.",
+        "Du bist zwar arrogant, und ich kann\nDich nicht leiden, aber Salia hatte\nimmer großes Vertrauen in Dich."
       ],
       "controls": [
         "TEXTID(0x1071)"
@@ -1530,10 +1530,11 @@
       "id": "1071",
       "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "sahur_goron_neu_v20_de.json"
+      ],
       "pages": [
-        "Fremder...",
-        "Falls Sie ihn irgendwo sehen,\nlassen Sie es ihn wissen..."
+        "Du kannst gehen. Ich werde\ngemeinsam mit Tripple T diesen Wald\nbeschützen."
       ],
       "controls": [
         "TEXTID(0x10D6)"
@@ -1545,11 +1546,11 @@
       "id": "10D6",
       "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "sahur_goron_neu_v20_de.json"
+      ],
       "pages": [
-        "Noch etwas...",
-        "Es tut mir leid, daß ich gemein \nzu ihm war.",
-        "Sagen Sie ihm das bitte auch!"
+        "Ich sehe vielleicht aus wie ein Kind,\naber ich werde mich von Tung Tung\nTung Sahur ausbilden lassen."
       ],
       "controls": [],
       "notes": "",

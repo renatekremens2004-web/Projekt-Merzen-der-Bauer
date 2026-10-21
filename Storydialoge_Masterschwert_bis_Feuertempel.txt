@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Feuertempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V19. Abschrift zum Durchgehen und Umschreiben; Die 15 neuen Nachrichten im Waldkapitel sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V20. Abschrift zum Durchgehen und Umschreiben; Die elf neuen Nachrichten zu Tripple T und den Goronen sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Wallace als Weise des Feuers, Feueramulett und unmittelbare Reaktionen nach dem Feuertempel. Boris, alle erwachsenen Kokiri-Zustände, Goronia, sämtliche platzierten Feuertempel-Gefangenen und optionale Nebenbegegnungen dieser Kapitel sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 
@@ -1837,9 +1837,8 @@ Kokiri aufgewachsen.
 
 **Seite 3**
 
-Und Merz nennt den Wald ungenutzte
-Fläche. Ich nenne ihn mein
-verdammtes Zuhause.
+Und nun brauchen wir Dich, um
+grausame Pläne zu verhindern.
 
 ### 1065
 
@@ -1849,23 +1848,28 @@ Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(90), BOX_BREAK_DELAYED(90), BOX_BREA
 
 **Seite 1**
 
-Merz wollte den Wald roden.
+Friedrich Merz ging zu den Goronen,
+angeblich für den Kohleabbau.
 
 **Seite 2**
 
-Deine Mutter floh vor dem Krieg.
+Doch er hatte etwas viel, viel
+Schlimmeres im Sinn.
 
 **Seite 3**
 
-Der Deku-Baum nahm Dich auf.
+Dort wurde auch Uranerz für eine
+Massenvernichtungswaffe abgebaut.
 
 **Seite 4**
 
-Du bist hier aufgewachsen.
+Geh zu den Goronen und befreie den
+Forscher!
 
 **Seite 5**
 
-Jetzt mußt Du Merz aufhalten.
+Er wird gezwungen, an diesem Projekt
+zu arbeiten.
 
 ### 1066
 
@@ -1874,26 +1878,25 @@ Rückkehr nach dem Rückblick; ebenfalls möglicher Wiederholungszustand vor der
 
 **Seite 1**
 
-Du bist Hylianer. Den Wald zu
-verlassen war also kein Versehen.
+Begib Dich nun zum Todesberg,
+[Spielername]. Dort im Feuertempel
+wird der Projektleiter von Projekt
+Atom-Donnerblume festgehalten.
 
 **Seite 2**
 
-Merz sitzt noch immer in seinem
-Schloß und erklärt den Schaden zur
-notwendigen Reform.
+Friedrich Merz darf niemals so weit
+kommen!
 
 **Seite 3**
 
-Befreie die anderen Tempel. Die
-Weisen können ihn gemeinsam
-aufhalten.
+Und keine Sorge, Tripple T paßt hier
+auf.
 
 **Seite 4**
 
-Also los, [Spielername]. Tripple T
-paßt hier auf. Der Wald wird nicht
-noch einmal kaputtgespart.
+Tung Tung Tung Tung Tung Tung Tung
+Tung Tung Tung Sahur!
 
 ### 1078
 
@@ -1902,74 +1905,56 @@ Tripple Ts spätere Wiederholungsvariante nach dem Herkunfts-/Abschlußereignis.
 
 **Seite 1**
 
-Tripple T beschützt den Wald. Merz
-hat hier Hausverbot. Der Fun-Schalter
-bleibt auf 0.
+Hey, hey, Kollege, ich bin's, Tripple T!
+Wie geht's voran? Hast Du schon das
+mit der Bombe gelöst?
 
 ## 14. Nach dem Waldtempel – Mido und Salia per Okarina
 
 ### 1070
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Mido nach der Tempelbefreiung, erste Ansprache.
 Direkte native Fortsetzung: 1071.
 
 **Seite 1**
 
-Oh... Ich verstehe.
+Oh wow, Du hast es wirklich
+geschafft, [Spielername]! Ehrlich
+gesagt glaube ich nicht, daß der
+Deku-Baum damals wegen Dir
 
 **Seite 2**
 
-Salia wird nicht zurückkommen.
+gestorben ist.
 
 **Seite 3**
 
-Ich gab Salia das Versprechen, 
-daß...
-
-**Seite 4**
-
-...ich [Spielername] etwas mitteile,
-falls er zurückkehrt. Salia sagte,
-sie würde auf ihn warten...
-Für immer...
-
-**Seite 5**
-
-Ich glaube Salia... mochte...
-ihn...
+Du bist zwar arrogant, und ich kann
+Dich nicht leiden, aber Salia hatte
+immer großes Vertrauen in Dich.
 
 ### 1071
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Mido nach der Tempelbefreiung, Wiederholung.
 Direkte native Fortsetzung: 10D6.
 
 **Seite 1**
 
-Fremder...
-
-**Seite 2**
-
-Falls Sie ihn irgendwo sehen,
-lassen Sie es ihn wissen...
+Du kannst gehen. Ich werde
+gemeinsam mit Tripple T diesen Wald
+beschützen.
 
 ### 10D6
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-Noch etwas...
-
-**Seite 2**
-
-Es tut mir leid, daß ich gemein 
-zu ihm war.
-
-**Seite 3**
-
-Sagen Sie ihm das bitte auch!
+Ich sehe vielleicht aus wie ein Kind,
+aber ich werde mich von Tung Tung
+Tung Sahur ausbilden lassen.
 
 ### 016B
 
@@ -2220,37 +2205,36 @@ Wirklich.
 
 **Seite 7**
 
-Du bist dieser Dodongo-Jäger von
-damals, oder?
+Mein Vater hat mir die Legende
+erzählt, daß Du damals zusammen mit
+seiner Hilfe den Zugang zu Dodongos
+Höhle wieder freigemacht hast.
 
 **Seite 8**
-
-Darunia ist mein Vater. Der mit den
-angeblich einzigartigen
-Goronen-Fähigkeiten.
-
-**Seite 9**
 
 Friedrich Merz hat alle Goronen zur
 Arbeit im Feuertempel gezwungen.
 
+**Seite 9**
+
+Dort sollten sie Uranerz für seine
+Waffe abbauen.
+
 **Seite 10**
 
-Nach Schichtende sollen sie wieder
-heimkommen. Nur ist irgendwie
-ständig noch Schicht.
+Nicht nur das: Im Feuertempel wird
+auch ein großer Forscher
+festgehalten. Sein Name ist Wallace.
 
 **Seite 11**
 
-Hungerslohn, Hitze, teilweise die
-ganze Nacht. Vater ist hingegangen,
-um sie da rauszuholen.
+Friedrich Merz zwang ihn, für ihn zu
+arbeiten. Andernfalls würde er einen
+brutalen Drachen auf Kakariko hetzen.
 
 **Seite 12**
 
-Und jetzt sitzt da auch noch ein
-verdammter Drache. Kannst Du uns
-helfen?
+Wallace hatte keine andere Wahl.
 
 ### 3033
 
@@ -2259,27 +2243,25 @@ Bedingte Zwischenreaktion; führt ebenfalls zur Auswahl 3034. Kein zusätzliches
 
 **Seite 1**
 
-Schnüff... Vater ist im Feuertempel.
-Das wird doch keine normale
-Nachtschicht mehr.
+Es ist alles so furchtbar. Wir sind
+die Goronen. Wir stehen für Frieden,
+nicht für Zerstörung!
 
 ### 3034
 
 Projekttext.
-Auswahl über den Drachen oder die Goronen: vor dem ersten vollständigen Drachengespräch kann die Goronen-Antwort noch zu 3033 führen; nach 3035 führt sie zu 3036.
+Auswahl über den Drachen oder die Goronen: vor dem ersten vollständigen Drachengespräch kann die Wallace-Antwort noch zu 3033 führen; nach 3035 führt sie zu 3036.
 
 **Seite 1**
 
-Wenn Du noch was wissen willst,
-frag. Aber wirf bitte keine weitere
-Bombe.
+Ich sag Dir alles, was ich weiß.
 
 **Seite 2**
 
 Worüber willst Du reden?
 
 Über den Drachen
-Über die Goronen
+Über Wallace
 
 _Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
 
@@ -2291,37 +2273,21 @@ Direkte native Fortsetzung: 3033.
 
 **Seite 1**
 
-Volvagia heißt der Drache. Der lebt
-im Feuertempel und frißt Goronen.
+Volvagia heißt der Drache. Er lebt im
+Feuertempel und war einst ein
+wunderschönes Geschöpf.
 
 **Seite 2**
 
-Merz nennt das einen flexiblen
-Arbeitsmarkt. Wer nicht arbeitet,
-wird gefressen.
-
-**Seite 3**
-
-Wallace hat einen besonderen Hammer
-entwickelt. Damit kann man dem
-Drachen eins überziehen.
-
-**Seite 4**
-
-Er hat ihn irgendwo im Tempel
-versteckt. Den Wallace Hammer. Sehr
-kreativer Name.
-
-**Seite 5**
-
-Vater ist ohne den Hammer los. Er
-meinte, seine Führungsqualitäten
-würden reichen.
+Friedrich Merz hat es jedoch auch
+geschafft, das zu versauen. Jetzt ist
+der Drache blutdürstig und ziemlich
+gefährlich. Und er spuckt Feuer.
 
 ### 3036
 
 Projekttext.
-Goronen-Thema nach dem Drachengespräch. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.
+Zweiter Antwortzweig, jetzt mit der Auswahl Über Wallace beschriftet; Text 3036 noch unverändert für die Fortsetzung. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.
 
 **Seite 1**
 

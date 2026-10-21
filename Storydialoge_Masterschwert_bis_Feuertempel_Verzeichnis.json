@@ -1,6 +1,6 @@
 {
-  "source_sha256": "ddd1133ffa493fe161ea2fd796566dcead818814ba78e9ad9a21747d5a70368b",
-  "rom_reference_sha256": "2dd5f59796b59469b0f478fcc4655b55f8b9426f230200f2728572328040f0a1",
+  "source_sha256": "f4febae8f761bffe509c6a4aedc0a8bb793918bd020f2abaa9f48fe8d06fe883",
+  "rom_reference_sha256": "1a3fc73bf300c5ce2a6fc923c3b792db81234918a775380cfc10b58d577b1622",
   "scope": "Schwert gezogen / Erwachen bis Feuertempel-Abschluß und unmittelbare Reaktionen",
   "fire_prisoner_placements": [
     {
@@ -1545,7 +1545,7 @@
       "pages": [
         "Jetzt wird's kurz persönlich: Du bist\nkein Kokiri. Du bist ein Hylianer!",
         "Der alte Deku-Baum hat Dich als Kind\naufgenommen. Daher bist Du mit den\nKokiri aufgewachsen.",
-        "Und Merz nennt den Wald ungenutzte\nFläche. Ich nenne ihn mein\nverdammtes Zuhause."
+        "Und nun brauchen wir Dich, um\ngrausame Pläne zu verhindern."
       ],
       "controls": [],
       "notes": "",
@@ -1559,11 +1559,11 @@
         "waldtempel_sahur_de.json"
       ],
       "pages": [
-        "Merz wollte den Wald roden.",
-        "Deine Mutter floh vor dem Krieg.",
-        "Der Deku-Baum nahm Dich auf.",
-        "Du bist hier aufgewachsen.",
-        "Jetzt mußt Du Merz aufhalten."
+        "Friedrich Merz ging zu den Goronen,\nangeblich für den Kohleabbau.",
+        "Doch er hatte etwas viel, viel\nSchlimmeres im Sinn.",
+        "Dort wurde auch Uranerz für eine\nMassenvernichtungswaffe abgebaut.",
+        "Geh zu den Goronen und befreie den\nForscher!",
+        "Er wird gezwungen, an diesem Projekt\nzu arbeiten."
       ],
       "controls": [
         "BOX_BREAK_DELAYED(90)",
@@ -1583,10 +1583,10 @@
         "waldtempel_sahur_de.json"
       ],
       "pages": [
-        "Du bist Hylianer. Den Wald zu\nverlassen war also kein Versehen.",
-        "Merz sitzt noch immer in seinem\nSchloß und erklärt den Schaden zur\nnotwendigen Reform.",
-        "Befreie die anderen Tempel. Die\nWeisen können ihn gemeinsam\naufhalten.",
-        "Also los, [Spielername]. Tripple T\npaßt hier auf. Der Wald wird nicht\nnoch einmal kaputtgespart."
+        "Begib Dich nun zum Todesberg,\n[Spielername]. Dort im Feuertempel\nwird der Projektleiter von Projekt\nAtom-Donnerblume festgehalten.",
+        "Friedrich Merz darf niemals so weit\nkommen!",
+        "Und keine Sorge, Tripple T paßt hier\nauf.",
+        "Tung Tung Tung Tung Tung Tung Tung\nTung Tung Tung Sahur!"
       ],
       "controls": [],
       "notes": "Rückkehr nach dem Rückblick; ebenfalls möglicher Wiederholungszustand vor der abschließenden Fortschrittsmarkierung.",
@@ -1600,7 +1600,7 @@
         "waldtempel_sahur_de.json"
       ],
       "pages": [
-        "Tripple T beschützt den Wald. Merz\nhat hier Hausverbot. Der Fun-Schalter\nbleibt auf 0."
+        "Hey, hey, Kollege, ich bin's, Tripple T!\nWie geht's voran? Hast Du schon das\nmit der Bombe gelöst?"
       ],
       "controls": [],
       "notes": "Tripple Ts spätere Wiederholungsvariante nach dem Herkunfts-/Abschlußereignis.",
@@ -1610,13 +1610,13 @@
       "id": "1070",
       "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "sahur_goron_neu_v20_de.json"
+      ],
       "pages": [
-        "Oh... Ich verstehe.",
-        "Salia wird nicht zurückkommen.",
-        "Ich gab Salia das Versprechen, \ndaß...",
-        "...ich [Spielername] etwas mitteile,\nfalls er zurückkehrt. Salia sagte,\nsie würde auf ihn warten...\nFür immer...",
-        "Ich glaube Salia... mochte...\nihn..."
+        "Oh wow, Du hast es wirklich\ngeschafft, [Spielername]! Ehrlich\ngesagt glaube ich nicht, daß der\nDeku-Baum damals wegen Dir",
+        "gestorben ist.",
+        "Du bist zwar arrogant, und ich kann\nDich nicht leiden, aber Salia hatte\nimmer großes Vertrauen in Dich."
       ],
       "controls": [
         "TEXTID(0x1071)"
@@ -1628,10 +1628,11 @@
       "id": "1071",
       "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "sahur_goron_neu_v20_de.json"
+      ],
       "pages": [
-        "Fremder...",
-        "Falls Sie ihn irgendwo sehen,\nlassen Sie es ihn wissen..."
+        "Du kannst gehen. Ich werde\ngemeinsam mit Tripple T diesen Wald\nbeschützen."
       ],
       "controls": [
         "TEXTID(0x10D6)"
@@ -1643,11 +1644,11 @@
       "id": "10D6",
       "section": "14. Nach dem Waldtempel – Mido und Salia per Okarina",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "sahur_goron_neu_v20_de.json"
+      ],
       "pages": [
-        "Noch etwas...",
-        "Es tut mir leid, daß ich gemein \nzu ihm war.",
-        "Sagen Sie ihm das bitte auch!"
+        "Ich sehe vielleicht aus wie ein Kind,\naber ich werde mich von Tung Tung\nTung Sahur ausbilden lassen."
       ],
       "controls": [],
       "notes": "",
@@ -1872,12 +1873,12 @@
         "Nichts für ungut! Ist ein besonderer\nName, nicht?",
         "Vater hat mich nach Dir benannt.\nDas hätte er mir vielleicht VORHER\nerklären sollen.",
         "Tut mir leid, [Spielername].\nWirklich.",
-        "Du bist dieser Dodongo-Jäger von\ndamals, oder?",
-        "Darunia ist mein Vater. Der mit den\nangeblich einzigartigen\nGoronen-Fähigkeiten.",
+        "Mein Vater hat mir die Legende\nerzählt, daß Du damals zusammen mit\nseiner Hilfe den Zugang zu Dodongos\nHöhle wieder freigemacht hast.",
         "Friedrich Merz hat alle Goronen zur\nArbeit im Feuertempel gezwungen.",
-        "Nach Schichtende sollen sie wieder\nheimkommen. Nur ist irgendwie\nständig noch Schicht.",
-        "Hungerslohn, Hitze, teilweise die\nganze Nacht. Vater ist hingegangen,\num sie da rauszuholen.",
-        "Und jetzt sitzt da auch noch ein\nverdammter Drache. Kannst Du uns\nhelfen?"
+        "Dort sollten sie Uranerz für seine\nWaffe abbauen.",
+        "Nicht nur das: Im Feuertempel wird\nauch ein großer Forscher\nfestgehalten. Sein Name ist Wallace.",
+        "Friedrich Merz zwang ihn, für ihn zu\narbeiten. Andernfalls würde er einen\nbrutalen Drachen auf Kakariko hetzen.",
+        "Wallace hatte keine andere Wahl."
       ],
       "controls": [
         "TEXTID(0x3033)"
@@ -1893,7 +1894,7 @@
         "feuertempel_wallace_de.json"
       ],
       "pages": [
-        "Schnüff... Vater ist im Feuertempel.\nDas wird doch keine normale\nNachtschicht mehr."
+        "Es ist alles so furchtbar. Wir sind\ndie Goronen. Wir stehen für Frieden,\nnicht für Zerstörung!"
       ],
       "controls": [
         "EVENT"
@@ -1909,13 +1910,13 @@
         "feuertempel_wallace_de.json"
       ],
       "pages": [
-        "Wenn Du noch was wissen willst,\nfrag. Aber wirf bitte keine weitere\nBombe.",
-        "Worüber willst Du reden?\n\nÜber den Drachen\nÜber die Goronen"
+        "Ich sag Dir alles, was ich weiß.",
+        "Worüber willst Du reden?\n\nÜber den Drachen\nÜber Wallace"
       ],
       "controls": [
         "TWO_CHOICE"
       ],
-      "notes": "Auswahl über den Drachen oder die Goronen: vor dem ersten vollständigen Drachengespräch kann die Goronen-Antwort noch zu 3033 führen; nach 3035 führt sie zu 3036.",
+      "notes": "Auswahl über den Drachen oder die Goronen: vor dem ersten vollständigen Drachengespräch kann die Wallace-Antwort noch zu 3033 führen; nach 3035 führt sie zu 3036.",
       "locations": []
     },
     {
@@ -1926,11 +1927,8 @@
         "feuertempel_wallace_de.json"
       ],
       "pages": [
-        "Volvagia heißt der Drache. Der lebt\nim Feuertempel und frißt Goronen.",
-        "Merz nennt das einen flexiblen\nArbeitsmarkt. Wer nicht arbeitet,\nwird gefressen.",
-        "Wallace hat einen besonderen Hammer\nentwickelt. Damit kann man dem\nDrachen eins überziehen.",
-        "Er hat ihn irgendwo im Tempel\nversteckt. Den Wallace Hammer. Sehr\nkreativer Name.",
-        "Vater ist ohne den Hammer los. Er\nmeinte, seine Führungsqualitäten\nwürden reichen."
+        "Volvagia heißt der Drache. Er lebt im\nFeuertempel und war einst ein\nwunderschönes Geschöpf.",
+        "Friedrich Merz hat es jedoch auch\ngeschafft, das zu versauen. Jetzt ist\nder Drache blutdürstig und ziemlich\ngefährlich. Und er spuckt Feuer."
       ],
       "controls": [
         "TEXTID(0x3033)"
@@ -1955,7 +1953,7 @@
         "Ein Forscher namens Wallace hat es\nentwickelt. Feuerfest! Und zufällig\ngenau Deine Größe. Wahnsinn, oder?"
       ],
       "controls": [],
-      "notes": "Goronen-Thema nach dem Drachengespräch. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.",
+      "notes": "Zweiter Antwortzweig, jetzt mit der Auswahl Über Wallace beschriftet; Text 3036 noch unverändert für die Fortsetzung. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.",
       "locations": []
     },
     {

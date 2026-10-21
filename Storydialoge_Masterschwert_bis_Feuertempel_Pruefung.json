@@ -1,119 +1,95 @@
 {
-  "stand": "V19",
+  "stand": "V20",
   "build_verification": {
     "messages_changed": [
-      "0031",
-      "0036",
-      "104F",
-      "1050",
-      "1052",
-      "1053",
-      "1054",
-      "1057",
-      "1067",
-      "1068",
-      "106C",
-      "108E",
-      "502D",
-      "5041",
-      "7010"
+      "1064",
+      "1065",
+      "1066",
+      "1070",
+      "1071",
+      "1078",
+      "10D6",
+      "3032",
+      "3033",
+      "3034",
+      "3035"
     ],
     "all_other_ids_and_languages_unchanged": true,
     "native_functional_controls_identical": true,
     "all_native_delays_and_fades_preserved": true,
-    "only_requested_fifteen_German_messages_changed": true,
+    "only_requested_eleven_German_messages_changed": true,
     "navi_hint_routing_not_modified": true,
     "text_buffers": {
-      "changed_messages": 15,
+      "changed_messages": 11,
       "raw_buffer_bytes": 1280,
       "decoded_buffer_bytes": 200,
-      "largest_raw_message_bytes": 893,
-      "largest_decoded_page_upper_bound": 141,
+      "largest_raw_message_bytes": 815,
+      "largest_decoded_page_upper_bound": 146,
       "all_within_buffers": true,
       "messages": {
-        "7010": {
-          "raw_bytes": 129,
-          "decoded_page_upper_bound": 128,
-          "pages": 1
-        },
-        "5041": {
-          "raw_bytes": 893,
-          "decoded_page_upper_bound": 131,
-          "pages": 9
-        },
-        "502D": {
-          "raw_bytes": 430,
-          "decoded_page_upper_bound": 125,
-          "pages": 4
-        },
-        "0036": {
-          "raw_bytes": 275,
-          "decoded_page_upper_bound": 94,
+        "1064": {
+          "raw_bytes": 235,
+          "decoded_page_upper_bound": 95,
           "pages": 3
         },
-        "1057": {
-          "raw_bytes": 152,
-          "decoded_page_upper_bound": 133,
-          "pages": 2
-        },
-        "104F": {
-          "raw_bytes": 132,
-          "decoded_page_upper_bound": 131,
-          "pages": 1
-        },
-        "1050": {
-          "raw_bytes": 128,
-          "decoded_page_upper_bound": 127,
-          "pages": 1
-        },
-        "1052": {
-          "raw_bytes": 219,
-          "decoded_page_upper_bound": 132,
-          "pages": 2
-        },
-        "1053": {
-          "raw_bytes": 74,
-          "decoded_page_upper_bound": 73,
-          "pages": 1
-        },
-        "1054": {
-          "raw_bytes": 188,
-          "decoded_page_upper_bound": 127,
-          "pages": 2
-        },
-        "1067": {
-          "raw_bytes": 206,
-          "decoded_page_upper_bound": 132,
-          "pages": 2
-        },
-        "1068": {
-          "raw_bytes": 277,
-          "decoded_page_upper_bound": 141,
-          "pages": 3
-        },
-        "106C": {
-          "raw_bytes": 493,
-          "decoded_page_upper_bound": 130,
+        "1065": {
+          "raw_bytes": 296,
+          "decoded_page_upper_bound": 68,
           "pages": 5
         },
-        "0031": {
-          "raw_bytes": 222,
-          "decoded_page_upper_bound": 118,
+        "1066": {
+          "raw_bytes": 274,
+          "decoded_page_upper_bound": 128,
+          "pages": 4
+        },
+        "1078": {
+          "raw_bytes": 101,
+          "decoded_page_upper_bound": 100,
+          "pages": 1
+        },
+        "1070": {
+          "raw_bytes": 241,
+          "decoded_page_upper_bound": 119,
+          "pages": 3
+        },
+        "1071": {
+          "raw_bytes": 80,
+          "decoded_page_upper_bound": 79,
+          "pages": 1
+        },
+        "10D6": {
+          "raw_bytes": 103,
+          "decoded_page_upper_bound": 102,
+          "pages": 1
+        },
+        "3032": {
+          "raw_bytes": 815,
+          "decoded_page_upper_bound": 136,
+          "pages": 12
+        },
+        "3033": {
+          "raw_bytes": 98,
+          "decoded_page_upper_bound": 97,
+          "pages": 1
+        },
+        "3034": {
+          "raw_bytes": 98,
+          "decoded_page_upper_bound": 62,
           "pages": 2
         },
-        "108E": {
-          "raw_bytes": 233,
-          "decoded_page_upper_bound": 87,
-          "pages": 3
+        "3035": {
+          "raw_bytes": 242,
+          "decoded_page_upper_bound": 146,
+          "pages": 2
         }
       }
     },
     "builds": {
       "normal": {
-        "sha256": "2dd5f59796b59469b0f478fcc4655b55f8b9426f230200f2728572328040f0a1",
+        "sha256": "1a3fc73bf300c5ce2a6fc923c3b792db81234918a775380cfc10b58d577b1622",
         "crc": [
-          "19842F9E",
-          "6EABA471"
+          "1981C33E",
+          "2B49305E"
         ],
         "changed_segments": [
           "makerom",
@@ -125,10 +101,10 @@
         "models_unchanged_and_game_logic_unchanged_except_linker_addresses": true
       },
       "debug": {
-        "sha256": "fa272629db4fd42e273485c44ae499b1ea43dfaa2f23ff0c77a1c0c362862860",
+        "sha256": "2a10d02fcd64c3f121b0be50fb01c10f22e4af8498ad00930d9cac2113f04f3a",
         "crc": [
-          "19971CE6",
-          "389B0BF2"
+          "1990B226",
+          "BBCE676D"
         ],
         "changed_segments": [
           "makerom",
@@ -144,13 +120,13 @@
   "export_verification": {
     "forest": {
       "ids": 116,
-      "pages": 292,
+      "pages": 287,
       "all_pages_match_current_source": true,
       "source_and_rom_hashes_match": true
     },
     "full": {
       "ids": 164,
-      "pages": 432,
+      "pages": 424,
       "all_pages_match_current_source": true,
       "source_and_rom_hashes_match": true
     }

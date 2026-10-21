@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Waldtempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V19. Abschrift zum Durchgehen und Umschreiben; Die 15 neuen Nachrichten im Waldkapitel sind enthalten; alle anderen Nachrichten bleiben unverändert.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V20. Abschrift zum Durchgehen und Umschreiben; Die elf neuen Nachrichten zu Tripple T und den Goronen sind enthalten; alle anderen Nachrichten bleiben unverändert.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Waldweise, Tripple T und unmittelbare Reaktionen nach dem Waldtempel. Boris, alle erwachsenen Kokiri-Zustände und optionale Nebenbegegnungen dieses Kapitels sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 
@@ -1797,9 +1797,8 @@ Projekttext.
 
 **Seite 3**
 
-> Und Merz nennt den Wald ungenutzte
-> Fläche. Ich nenne ihn mein
-> verdammtes Zuhause.
+> Und nun brauchen wir Dich, um
+> grausame Pläne zu verhindern.
 
 ### 1065
 
@@ -1809,23 +1808,28 @@ Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(90), BOX_BREAK_DELAYED(90), BOX_BREA
 
 **Seite 1**
 
-> Merz wollte den Wald roden.
+> Friedrich Merz ging zu den Goronen,
+> angeblich für den Kohleabbau.
 
 **Seite 2**
 
-> Deine Mutter floh vor dem Krieg.
+> Doch er hatte etwas viel, viel
+> Schlimmeres im Sinn.
 
 **Seite 3**
 
-> Der Deku-Baum nahm Dich auf.
+> Dort wurde auch Uranerz für eine
+> Massenvernichtungswaffe abgebaut.
 
 **Seite 4**
 
-> Du bist hier aufgewachsen.
+> Geh zu den Goronen und befreie den
+> Forscher!
 
 **Seite 5**
 
-> Jetzt mußt Du Merz aufhalten.
+> Er wird gezwungen, an diesem Projekt
+> zu arbeiten.
 
 ### 1066
 
@@ -1834,26 +1838,25 @@ Rückkehr nach dem Rückblick; ebenfalls möglicher Wiederholungszustand vor der
 
 **Seite 1**
 
-> Du bist Hylianer. Den Wald zu
-> verlassen war also kein Versehen.
+> Begib Dich nun zum Todesberg,
+> [Spielername]. Dort im Feuertempel
+> wird der Projektleiter von Projekt
+> Atom-Donnerblume festgehalten.
 
 **Seite 2**
 
-> Merz sitzt noch immer in seinem
-> Schloß und erklärt den Schaden zur
-> notwendigen Reform.
+> Friedrich Merz darf niemals so weit
+> kommen!
 
 **Seite 3**
 
-> Befreie die anderen Tempel. Die
-> Weisen können ihn gemeinsam
-> aufhalten.
+> Und keine Sorge, Tripple T paßt hier
+> auf.
 
 **Seite 4**
 
-> Also los, [Spielername]. Tripple T
-> paßt hier auf. Der Wald wird nicht
-> noch einmal kaputtgespart.
+> Tung Tung Tung Tung Tung Tung Tung
+> Tung Tung Tung Sahur!
 
 ### 1078
 
@@ -1862,74 +1865,56 @@ Tripple Ts spätere Wiederholungsvariante nach dem Herkunfts-/Abschlußereignis.
 
 **Seite 1**
 
-> Tripple T beschützt den Wald. Merz
-> hat hier Hausverbot. Der Fun-Schalter
-> bleibt auf 0.
+> Hey, hey, Kollege, ich bin's, Tripple T!
+> Wie geht's voran? Hast Du schon das
+> mit der Bombe gelöst?
 
 ## 14. Nach dem Waldtempel – Mido und Salia per Okarina
 
 ### 1070
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Mido nach der Tempelbefreiung, erste Ansprache.
 Direkte native Fortsetzung: 1071.
 
 **Seite 1**
 
-> Oh... Ich verstehe.
+> Oh wow, Du hast es wirklich
+> geschafft, [Spielername]! Ehrlich
+> gesagt glaube ich nicht, daß der
+> Deku-Baum damals wegen Dir
 
 **Seite 2**
 
-> Salia wird nicht zurückkommen.
+> gestorben ist.
 
 **Seite 3**
 
-> Ich gab Salia das Versprechen, 
-> daß...
-
-**Seite 4**
-
-> ...ich [Spielername] etwas mitteile,
-> falls er zurückkehrt. Salia sagte,
-> sie würde auf ihn warten...
-> Für immer...
-
-**Seite 5**
-
-> Ich glaube Salia... mochte...
-> ihn...
+> Du bist zwar arrogant, und ich kann
+> Dich nicht leiden, aber Salia hatte
+> immer großes Vertrauen in Dich.
 
 ### 1071
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Mido nach der Tempelbefreiung, Wiederholung.
 Direkte native Fortsetzung: 10D6.
 
 **Seite 1**
 
-> Fremder...
-
-**Seite 2**
-
-> Falls Sie ihn irgendwo sehen,
-> lassen Sie es ihn wissen...
+> Du kannst gehen. Ich werde
+> gemeinsam mit Tripple T diesen Wald
+> beschützen.
 
 ### 10D6
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Noch etwas...
-
-**Seite 2**
-
-> Es tut mir leid, daß ich gemein 
-> zu ihm war.
-
-**Seite 3**
-
-> Sagen Sie ihm das bitte auch!
+> Ich sehe vielleicht aus wie ein Kind,
+> aber ich werde mich von Tung Tung
+> Tung Sahur ausbilden lassen.
 
 ### 016B
 
