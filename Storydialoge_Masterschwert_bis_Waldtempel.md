@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Waldtempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V17. Abschrift zum Durchgehen und Umschreiben; die Waldtexte selbst wurden bei diesem Export nicht geändert.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V18. Abschrift zum Durchgehen und Umschreiben; Sheiks fünf neue Nachrichten sind enthalten; alle anderen Nachrichten bleiben unverändert.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Waldweise, Tripple T und unmittelbare Reaktionen nach dem Waldtempel. Boris, alle erwachsenen Kokiri-Zustände und optionale Nebenbegegnungen dieses Kapitels sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 
@@ -568,37 +568,42 @@ Projekttext.
 
 **Seite 1**
 
-> Friedrich Merz hat Hyrule verwüstet.
-> Die Stadt liegt in Trümmern. Seine
-> Macht nennt er Verantwortung.
+> Friedrich Merz hat Hyrule in den
+> Untergang gestürzt. Die ganze Stadt
+> liegt in Trümmern, und er ist der
+> Meinung, das Volk sei schuld.
 
 **Seite 2**
 
-> Im Wald herrscht sein Fluch.
+> Im Wald gibt's kaum noch Orte zu
+> wohnen.
 
 **Seite 3**
 
-> Auf dem Berg leiden die Goronen.
+> Die Goronen wurden genutzt, um an
+> einer neuen Waffe zu arbeiten.
 
 **Seite 4**
 
-> Am See ist ebenfalls alles im Eimer.
+> Der See ist jetzt kälter als das Herz
+> von Katharina Reiche.
 
 **Seite 5**
 
-> Selbst die Stätte des Todes hat
-> unter ihm wenig zu lachen.
+> Auf dem Friedhof liegen jetzt noch
+> mehr Leute begraben als vorher, weil
+> die alle gestorben sind.
 
 **Seite 6**
 
-> Und in der Wüste wartet noch ein
-> Tempel.
+> Und jetzt versucht er sich auch noch
+> die Wüste an den Nagel zu reißen.
 
 **Seite 7**
 
-> Fünf Tempel. Fünf Weise. Ihre Kräfte
-> können helfen, Merz die Herrschaft zu
-> entreißen.
+> Du mußt die fünf Weisen aus den
+> fünf Tempeln zusammenbringen. Nur
+> sie können Merz wieder abwählen.
 
 **Seite 8**
 
@@ -612,9 +617,8 @@ Projekttext.
 
 **Seite 1**
 
-> Ich bin Shiek, einer der letzten
-> Shiekah. Wir haben keine gute Presse.
-> Aber immerhin noch ein Ziel.
+> Man nennt mich Sheik. Ich wurde von
+> Mr. Bean trainiert.
 
 ### 7078
 
@@ -622,9 +626,9 @@ Projekttext.
 
 **Seite 1**
 
-> Das Master-Schwert also. Endlich hält
-> hier jemand etwas in der Hand, das
-> kein leeres Versprechen ist.
+> Das Masterschwert. Es ist das heilige
+> Schwert. Und nur das heilige Schwert
+> ist es wert.
 
 ### 7079
 
@@ -632,9 +636,9 @@ Projekttext.
 
 **Seite 1**
 
-> Befreie die fünf Tempel. Erwecke ihre
-> Weisen. Merz wird seine Macht nicht
-> freiwillig wieder hergeben.
+> Du hast bereits drei Orte besucht.
+> Und jetzt gibt's noch fünf weitere
+> Orte. Die sind sogar noch krasser!
 
 ### 707A
 
@@ -676,9 +680,9 @@ Sheik erneut angesprochen, Fanghaken fehlt noch.
 
 **Seite 1**
 
-> Für Deine alte Freundin fehlt Dir noch
-> ein Haken. Such in Kakariko. Boris hat
-> etwas zu vererben.
+> In Kakariko mußt Du einen alten
+> Freund besuchen. Einen Freund, der
+> aus dem Jenseits zurückgekehrt ist.
 
 ### 7010
 

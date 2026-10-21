@@ -1,3 +1,11 @@
+# Sheik V18
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Sheik_V18.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Sheik_V18.bps?raw=true) · [Fünf neue Texte](Sheik_V18_Aenderungen.md) · [Quellen](Merzen_Sheik_V18_Quellen_Patch.zip?raw=true)
+
+[Aktuelle Dialoge bis Feuertempel](Storydialoge_Masterschwert_bis_Feuertempel.md) · [Als TXT](Storydialoge_Masterschwert_bis_Feuertempel.txt?raw=true)
+
+Sheiks fünf neue Nachrichten, der bisherige Zukunft-Schluß von 7057 bleibt erhalten. Habeck unangetastet. Alle bisherigen Änderungen enthalten; jeweils auf unveränderte PAL 1.0 anwenden.
+
 # Arbeitsliste: Master-Schwert bis Feuertempel
 
 [Vollständige Dialoge lesen](Storydialoge_Masterschwert_bis_Feuertempel.md) · [Als TXT herunterladen](Storydialoge_Masterschwert_bis_Feuertempel.txt?raw=true) · [Arbeitsliste als ZIP](Storydialoge_Masterschwert_bis_Feuertempel.zip?raw=true)

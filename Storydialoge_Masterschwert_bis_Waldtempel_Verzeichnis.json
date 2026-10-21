@@ -1,6 +1,6 @@
 {
-  "source_sha256": "343bfdda69e2591a77eba5fa3b07eb8b530febfea12451c904bdc857319b7b00",
-  "rom_reference_sha256": "73073c64774b14ecad8baa4d704e1871cf78f6b24186c14596b9cb69faf34b5e",
+  "source_sha256": "5ca9cc50747c6a7bbec8e6fd0b4b46bf883419dc9b9627c7dc6edfd6ee1d0e1d",
+  "rom_reference_sha256": "d2c157f30985b2387b72e97fc238cf864289bacac5d09016b90fa4a7612a9e49",
   "scope": "Erwachen bis Waldtempel-Abschluß und unmittelbare Reaktionen",
   "cutscene_coverage": [
     {
@@ -335,13 +335,13 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Friedrich Merz hat Hyrule verwüstet.\nDie Stadt liegt in Trümmern. Seine\nMacht nennt er Verantwortung.",
-        "Im Wald herrscht sein Fluch.",
-        "Auf dem Berg leiden die Goronen.",
-        "Am See ist ebenfalls alles im Eimer.",
-        "Selbst die Stätte des Todes hat\nunter ihm wenig zu lachen.",
-        "Und in der Wüste wartet noch ein\nTempel.",
-        "Fünf Tempel. Fünf Weise. Ihre Kräfte\nkönnen helfen, Merz die Herrschaft zu\nentreißen.",
+        "Friedrich Merz hat Hyrule in den\nUntergang gestürzt. Die ganze Stadt\nliegt in Trümmern, und er ist der\nMeinung, das Volk sei schuld.",
+        "Im Wald gibt's kaum noch Orte zu\nwohnen.",
+        "Die Goronen wurden genutzt, um an\neiner neuen Waffe zu arbeiten.",
+        "Der See ist jetzt kälter als das Herz\nvon Katharina Reiche.",
+        "Auf dem Friedhof liegen jetzt noch\nmehr Leute begraben als vorher, weil\ndie alle gestorben sind.",
+        "Und jetzt versucht er sich auch noch\ndie Wüste an den Nagel zu reißen.",
+        "Du mußt die fünf Weisen aus den\nfünf Tempeln zusammenbringen. Nur\nsie können Merz wieder abwählen.",
         "So überliefern es die Shiekah. Daß er\nalles für Eure Zukunft tut, überliefert\nhauptsächlich Merz."
       ],
       "controls": [],
@@ -356,7 +356,7 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Ich bin Shiek, einer der letzten\nShiekah. Wir haben keine gute Presse.\nAber immerhin noch ein Ziel."
+        "Man nennt mich Sheik. Ich wurde von\nMr. Bean trainiert."
       ],
       "controls": [],
       "notes": "",
@@ -370,7 +370,7 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Das Master-Schwert also. Endlich hält\nhier jemand etwas in der Hand, das\nkein leeres Versprechen ist."
+        "Das Masterschwert. Es ist das heilige\nSchwert. Und nur das heilige Schwert\nist es wert."
       ],
       "controls": [],
       "notes": "",
@@ -384,7 +384,7 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Befreie die fünf Tempel. Erwecke ihre\nWeisen. Merz wird seine Macht nicht\nfreiwillig wieder hergeben."
+        "Du hast bereits drei Orte besucht.\nUnd jetzt gibt's noch fünf weitere\nOrte. Die sind sogar noch krasser!"
       ],
       "controls": [],
       "notes": "",
@@ -416,7 +416,7 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Für Deine alte Freundin fehlt Dir noch\nein Haken. Such in Kakariko. Boris hat\netwas zu vererben."
+        "In Kakariko mußt Du einen alten\nFreund besuchen. Einen Freund, der\naus dem Jenseits zurückgekehrt ist."
       ],
       "controls": [],
       "notes": "Sheik erneut angesprochen, Fanghaken fehlt noch.",

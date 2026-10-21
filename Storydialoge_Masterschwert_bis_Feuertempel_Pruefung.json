@@ -1,12 +1,98 @@
 {
-  "total_messages": 164,
-  "pages": 433,
-  "native_cutscene_sources_covered": 9,
-  "fire_prisoner_placements_covered": 9,
-  "source_sha256": "343bfdda69e2591a77eba5fa3b07eb8b530febfea12451c904bdc857319b7b00",
-  "unchanged_V17_normal_rom_sha256": "73073c64774b14ecad8baa4d704e1871cf78f6b24186c14596b9cb69faf34b5e",
-  "all_prior_forest_list_pages_retained": true,
-  "all_exported_pages_and_controls_match_current_source": true,
-  "unique_ids": true,
-  "text_and_rom_unchanged": true
+  "stand": "V18",
+  "build_verification": {
+    "messages_changed": [
+      "700F",
+      "7057",
+      "7077",
+      "7078",
+      "7079"
+    ],
+    "all_other_ids_and_languages_unchanged": true,
+    "native_functional_controls_identical": true,
+    "all_native_delays_and_fades_preserved": true,
+    "only_requested_five_German_messages_changed": true,
+    "navi_hint_routing_not_modified": true,
+    "text_buffers": {
+      "changed_messages": 5,
+      "raw_buffer_bytes": 1280,
+      "decoded_buffer_bytes": 200,
+      "largest_raw_message_bytes": 688,
+      "largest_decoded_page_upper_bound": 135,
+      "all_within_buffers": true,
+      "messages": {
+        "7057": {
+          "raw_bytes": 688,
+          "decoded_page_upper_bound": 135,
+          "pages": 8
+        },
+        "7077": {
+          "raw_bytes": 59,
+          "decoded_page_upper_bound": 58,
+          "pages": 1
+        },
+        "7078": {
+          "raw_bytes": 91,
+          "decoded_page_upper_bound": 90,
+          "pages": 1
+        },
+        "7079": {
+          "raw_bytes": 108,
+          "decoded_page_upper_bound": 107,
+          "pages": 1
+        },
+        "700F": {
+          "raw_bytes": 105,
+          "decoded_page_upper_bound": 104,
+          "pages": 1
+        }
+      }
+    },
+    "builds": {
+      "normal": {
+        "sha256": "d2c157f30985b2387b72e97fc238cf864289bacac5d09016b90fa4a7612a9e49",
+        "crc": [
+          "197154DE",
+          "53E3708A"
+        ],
+        "changed_segments": [
+          "makerom",
+          "dmadata",
+          "ger_message_data_static",
+          "code"
+        ],
+        "nontext_changes_verified_linker_words": 0,
+        "models_unchanged_and_game_logic_unchanged_except_linker_addresses": true
+      },
+      "debug": {
+        "sha256": "373b796997b1cf153e7268355972bce481100a6d456b2ee312ea3ee57d65cd5d",
+        "crc": [
+          "1981D2E6",
+          "2010DEA5"
+        ],
+        "changed_segments": [
+          "makerom",
+          "dmadata",
+          "ger_message_data_static",
+          "code"
+        ],
+        "nontext_changes_verified_linker_words": 0,
+        "models_unchanged_and_game_logic_unchanged_except_linker_addresses": true
+      }
+    }
+  },
+  "export_verification": {
+    "forest": {
+      "ids": 116,
+      "pages": 293,
+      "all_pages_match_current_source": true,
+      "source_and_rom_hashes_match": true
+    },
+    "full": {
+      "ids": 164,
+      "pages": 433,
+      "all_pages_match_current_source": true,
+      "source_and_rom_hashes_match": true
+    }
+  }
 }
