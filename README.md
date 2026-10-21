@@ -1,3 +1,9 @@
+# Goronia V23: Video mit Ton
+
+[MP4 herunterladen](Goronia_Bombe_V23_Test_mit_Ton.mp4?raw=true) · [Hinweise](Goronia_Bombe_V23_Test_mit_Ton.md)
+
+42 Sekunden: erst langsame Musik und Navi, ab 0:27 normales Tempo zum Vergleich. Aufnahme mit tatsächlichem Spielton und 4 MiB RAM; die V23-Patches bleiben unverändert.
+
 # Goronia: CDU-Bombe V23
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Goronia_Bombe_V23.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Goronia_Bombe_V23.bps?raw=true) · [Änderungen](Goronia_Bombe_V23_Aenderungen.md) · [Quellen](Merzen_Goronia_Bombe_V23_Quellen_Patch.zip?raw=true)

@@ -1,0 +1,32 @@
+{
+  "file": "Goronia_Bombe_V23_Test_mit_Ton.mp4",
+  "sha256": "66c384d40c83c63c2e257a8d894431d98b2dfc9b445ee9460c120937cbd3c9b2",
+  "rom_sha256": "fcc8bc32406394300855f1530f3213ace5c8666bde0a735c9db127519679200e",
+  "ram_bytes": 4194304,
+  "native_AI_DMA_PCM": true,
+  "audio_rate": 31995,
+  "audio_rms": 0.06442771441668617,
+  "audio_peak": 0.904296875,
+  "frames": 700,
+  "pal_fps": "50/3",
+  "video_seconds": 42.0,
+  "captured_audio_seconds": 42.09657759024848,
+  "normal_tempo_comparison_at_seconds": 27.0,
+  "fire_medallion_set_only_in_controlled_test_save": true,
+  "audio_time_stretch_or_pitch_shift": false,
+  "original_bomb_and_flower_positions": true,
+  "streams": [
+    {
+      "codec_type": "video",
+      "codec_name": "h264",
+      "duration": "42.000000"
+    },
+    {
+      "codec_type": "audio",
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "42.000000"
+    }
+  ]
+}
