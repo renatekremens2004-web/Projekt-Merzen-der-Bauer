@@ -1,3 +1,9 @@
+# Running Man V3: Vor-Rettungsdialog ergänzt
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Running_Man_V3.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Running_Man_V3.bps?raw=true) · [Änderungen/Prüfung](Running_Man_V3_Aenderungen.md) · [Quellen](Merzen_Running_Man_V3_Quellen_Patch.zip?raw=true)
+
+Neuer Running-Man-Dialog vor Befreiung der Zimmerleute, späteres Rennangebot erhalten. Kumulativer Gesamtpatch, je auf Vanilla PAL 1.0 anwenden.
+
 # NPC-Dialoge V2: Wegzusätze entfernt, Twinrova nennt Merz
 
 [Normaler Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_NPC_Dialoge_V2.bps?raw=true) · [Debug-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_NPC_Dialoge_V2.bps?raw=true) · [Änderungen/Prüfung](NPC_Dialoge_V2_Aenderungen.md) · [Quellen](Merzen_NPC_Dialoge_V2_Quellen_Patch.zip?raw=true)
