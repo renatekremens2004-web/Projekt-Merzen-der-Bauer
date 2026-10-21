@@ -1,8 +1,8 @@
 # Storydialoge Kapitel 1–2 – Nebenhandlungen und Bewohner
 
-Stand: 21. Oktober 2026, Schloß-/Wald-Dialoge V8 (aktuell gebauter deutscher PAL-1.0-Stand).
+Stand: 21. Oktober 2026, Goronen-Dialoge V9 (aktuell gebauter deutscher PAL-1.0-Stand).
 
-Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-, Schloß- und Wald-Änderungen bis V8.
+Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-, Schloß-, Wald- und Goronen-Änderungen bis V9.
 
 Geltungsbereich: Kind-Link vom Intro über Deku-Baum, erste Zelda-Begegnung, Kakariko, Salias Lied, Goronia und Dodongos Höhle bis zum Übergang zu den Zoras. Die Farm und andere frei erreichbare Nebenhandlungen können in unterschiedlicher Reihenfolge besucht werden.
 

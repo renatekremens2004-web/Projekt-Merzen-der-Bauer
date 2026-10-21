@@ -1,5 +1,5 @@
 {
-  "source_sha256": "62727d5a949cf6f67165621de50ff86403a07c63cf725572bd63ac2abed531c3",
+  "source_sha256": "0d335d01202fc9bc96f37533df0d58b117266d21447aed9d3624228206bf48bc",
   "main_messages": 224,
   "optional_messages": 202,
   "total_messages": 426,
@@ -2235,11 +2235,11 @@
       ],
       "controls": [],
       "pages": [
-        "Wir Goronen leben von Steinen. Die\nguten liegen in Dodongos Höhle.",
-        "Friedrich Merz ließ hier Kohle\nabbauen. Er versprach Arbeit und\nWohlstand.",
-        "Dann brach sein ganzer Mist\nzusammen. Der Eingang ist\nverschüttet. Unsere Nahrung liegt\ndahinter.",
-        "Jetzt treiben sich auch noch\nDodongos in der Höhle herum. Hunger\nund Monster: sein großes\nStandortkonzept.",
-        "Merz nennt es einen bedauerlichen\nBetriebszwischenfall. Mein Magen\nnennt es eine beschissene Woche."
+        "Wir Goronen essen am liebsten\nSteine, und die besten Steine liegen\nin Dodongos Höhle.",
+        "Friedrich Merz wollte hier Kohle\nabbauen, um Hyrule mit Energie zu\nversorgen. Aber dann ist der ganze\nMist komplett zusammengebrochen.",
+        "Der Eingang ist verschüttet, und\nunser ganzes Essen liegt dahinter.\nJetzt gibt es auch noch Dodongos in\nder Höhle.",
+        "Was jetzt nicht schlimm ist. Ich\nmeine, es ist Dodongos Höhle. Was\nerwartest Du? Es gibt ja auch\nDodongo-Filet, das ist sehr beliebt.",
+        "Also, die Dodongos sind jetzt\nprinzipiell nicht das Problem, ne?"
       ],
       "locations": []
     },
@@ -2251,7 +2251,7 @@
       ],
       "controls": [],
       "pages": [
-        "Merz hat unseren Speiseplan\nverschüttet. Vielleicht kriegt ein Kind\nmehr hin als seine ganze\nBergbauverwaltung."
+        "Friedrich Merz kann doch nicht\neinfach Goronia enteignen! Du mußt\nuns helfen."
       ],
       "locations": []
     },
@@ -2277,7 +2277,7 @@
       ],
       "controls": [],
       "pages": [
-        "Wir hätten die Donnerblume von der\nKlippe werfen müssen. Ich wollte erst\neinen Arbeitskreis gründen."
+        "Donnerblumen-Dynamo! Paß mit den\nDonnerblumen auf."
       ],
       "locations": []
     },
@@ -2291,7 +2291,7 @@
         "TWO_CHOICE"
       ],
       "pages": [
-        "Ich spende den Donnerblumen\nSchatten. Wenigstens eine brauchbare\nEnergiepolitik.",
+        "Die Donnerblumen haben wir\ngepflanzt, um gegen Hyrule\naufzurüsten.",
         "Was möchtest Du wissen?\n\nÜber die Donnerblumen\nÜber Dodongos Höhle"
       ],
       "locations": []
@@ -2304,10 +2304,8 @@
       ],
       "controls": [],
       "pages": [
-        "Donnerblumen sind explosive\nHöhlenpflanzen. Die Blüte wird für\nBomben verwendet.",
-        "Pflücke sie vorsichtig. Eine Explosion\nist hier keine Metapher für\nWachstum.",
-        "Normalerweise wachsen sie in dunklen\nHöhlen.",
-        "Dieses Exemplar draußen ist selten.\nSeit Merz buddelt, brauchen selbst\nPflanzen einen Ausweichstandort."
+        "Das ist eine der krassesten Pflanzen\nin dieser ganzen Welt: Die\nexplodiert!",
+        "Und wir forschen auch schon an einer\nDonner-Atomen-Blume."
       ],
       "locations": []
     },
@@ -2333,8 +2331,7 @@
       ],
       "controls": [],
       "pages": [
-        "In Dodongos Höhle wächst unsere\nNahrung zwischen den Donnerblumen.",
-        "Merz hat beim Kohleabbau den\nEingang einstürzen lassen. Wir\nbekommen den Hunger, er behält die\nAusrede."
+        "Wegen Merz ist der ganze Laden hier\nzusammengestürzt, und der ist jetzt\nauch gerade im Urlaub. Wir erreichen\nihn nicht."
       ],
       "locations": []
     },
@@ -2394,8 +2391,7 @@
       ],
       "controls": [],
       "pages": [
-        "Darunia wartet in seinem\nverschlossenen Raum auf einen Boten\nder Königsfamilie. Der Mann braucht\ndringend gute Nachrichten.",
-        "Er sagt, sein Job habe nichts mit\nseinen Haaren zu tun. Ich habe ihn\ngar nicht nach seinen Haaren gefragt."
+        "Darunia ist in seinem Büro und mega\nangepißt. Der ist richtig sauer. Also,\nich verstehe das auch. Ich bin auch\nsauer."
       ],
       "locations": []
     },
@@ -2408,10 +2404,8 @@
       "controls": [],
       "pages": [
         "Ich sage es offen: Rockmusik ist\nmega scheiße.",
-        "Darunia mußt Du trotzdem aufsuchen.\nEr kennt sich mit dem Heiligen Stein\naus.",
-        "Er ist mies gelaunt, seit sein Volk\nwegen Merz' Kohlegrube hungert.",
-        "Musik kann ihn aufheitern. Leider. Bei\nmir müßte man sie dafür abschalten.",
-        "Versuche die Musik aus dem Wald. Er\nliebt sie, und ich kann so lange die\nWand anstarren."
+        "Hey, ich bin sehr an Darunia\ninteressiert. Kleiner Fun Fact: Er hat\neine der seltensten\nStandard-Blutgruppen, AB negativ.",
+        "Die nennen wir hier in Hyrule auch\n\"goldenes Blut\". Da fehlen\nRh-Antigene. Das wollte ich einfach\nmal erwähnt haben."
       ],
       "locations": []
     },
@@ -2431,16 +2425,6 @@
       "locations": []
     },
     {
-      "id": "302C",
-      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
-      "source_files": [],
-      "controls": [],
-      "pages": [
-        "Die Fackeln sind ein Symbol des\nLebens in Goronia. Würden sie\nalle brennen, wäre es hier\nsicher wieder schöner!"
-      ],
-      "locations": []
-    },
-    {
       "id": "3024",
       "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
       "source_files": [
@@ -2448,10 +2432,8 @@
       ],
       "controls": [],
       "pages": [
-        "Seit Merz hier Kohle abbauen ließ,\nkriegen wir kaum noch gutes Essen.",
-        "Der Rote Stein? Darunia hat den\nGoronen-Opal mitgenommen.",
-        "Er sitzt in seinem Raum. Die\nDunkelheit hier macht den Hunger\nnicht besser.",
-        "Vielleicht hilft etwas Licht. Einen\ntrockenen Vortrag über\nEigenverantwortung haben wir schon\nbekommen."
+        "Merz hat uns alle als faul bezeichnet,\nnur weil wir gerne schlafen.",
+        "Hey, Merz, Du Blitzmerker, ich hab\neine Eilmeldung für Dich: Jedes\nlebendige Wesen muß mal schlafen,\nDu Arschloch!"
       ],
       "locations": []
     },
@@ -2463,7 +2445,20 @@
       ],
       "controls": [],
       "pages": [
-        "Zünde die Fackeln an der\nGoronenstatue an. In Darunias\nKammer gibt es Feuer. Ich hätte gern\nauch mal Hoffnung statt Glut."
+        "Darunias Kammer ist mit so einem\nWärmesensor verbunden. Deswegen\nmußt Du jetzt die Fackeln anzünden."
+      ],
+      "locations": []
+    },
+    {
+      "id": "302C",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronia_neu_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wenn Du es schaffst, alle diese\nFackeln anzuzünden, dann passiert\nbestimmt etwas Spannendes. Ein\nGoronen-Ingenieur hat sich hier schon",
+        "was bei gedacht."
       ],
       "locations": []
     },
@@ -2477,17 +2472,17 @@
         "TEXTID(0x301B)"
       ],
       "pages": [
-        "Was? Wer bist Du?",
-        "Ich hörte das Lied der Königsfamilie\nund erwartete ihren Boten. Jetzt\nsteht ein Kind vor mir.",
-        "Ich bin Darunia, Anführer der\nGoronen. Und mein Volk hungert!",
-        "Und bevor Du fragst: Ich bin nicht\nbloß Chef, weil ich anders aussehe.\nIch besitze Fähigkeiten!",
-        "Ich bin bärenstark. Ich esse Steine.\nUnd ich kann mich zusammenrollen.\nDas muß man erst mal können!",
-        "Merz hat uns Kohleabbau als\nWohlstand verkauft. Dann brach alles\nüber unserem Speiselager zusammen.",
-        "Ich verlangte Hilfe vom Schloß.",
-        "Statt dessen hieß es, der Markt\nwerde das regeln. Der Markt hat\noffenbar keine Arme.",
-        "Dodongos wüten in unserer Höhle.",
-        "Die Donnerblumen-Ernte war schlecht.\nDer Eingang liegt unter Schutt.",
-        "Und ich soll noch dankbar sein, weil\ndas angeblich unsere Wirtschaft\nankurbelt?"
+        "Was ist das für ein Schwachsinn?\nIch habe jemanden von der\nKönigsfamilie erwartet. Einen großen\nMann, wie diesen Mr. Bean!",
+        "Und statt dessen bekomme ich einen\nDreikäsehoch? Ich bin hier der Chef,\nund nicht einfach nur, weil ich anders\naussehe. Nein, ich habe auch die",
+        "Fähigkeiten!",
+        "Ich bin bärenstark und esse den\nganzen Tag Steine. Ich kann einfach\nin so einen Backstein reinbeißen, gar\nkein Problem.",
+        "Und ich kann mich zusammenrollen.\nDas muß man auch erst mal können!\nMerz hat uns Kohleabbau als\nWohlstand verkauft und wollte uns",
+        "daran beteiligen.",
+        "Jetzt ist unser ganzes Speiselager\nzusammengebrochen: Dodongos Höhle.\nEr meinte wieder, der Markt regelt\ndas. Aber hier wird gerade gar nichts",
+        "geregelt.",
+        "In der Höhle sind auch ein Haufen\nMonster. Die Frage ist, wie viele\ndavon schon vorher da drin waren.",
+        "Bei den Dodongos wissen wir es. Die\nFledermäuse werden da wohl auch\nschon gewesen sein, weil Fledermäuse\nrelativ weit verbreitet sind.",
+        "Aber diese Echsenmenschen, die\nwaren da ganz sicher noch nicht\ndrin!"
       ],
       "locations": []
     },
@@ -2499,27 +2494,30 @@
       ],
       "controls": [],
       "pages": [
-        "Mein Volk hungert. Ich brauche Hilfe,\nkeine Diskussion über meine\nErnennung zum Anführer!",
-        "Daß alle Goronen stark sind, weiß ich\nselbst. Aber ich bin stark UND Chef.\nDas ist eine Kombination!"
+        "Mein Volk ist am Hungern. Ich weiß\nnicht, was ich machen soll. Ich bin\ntotal verzweifelt.",
+        "Das ist das Schlimmste, was uns\nGoronen jemals passiert ist.\nZumindest in diesem Jahrhundert."
       ],
       "locations": []
     },
     {
       "id": "3020",
       "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
-      "source_files": [],
+      "source_files": [
+        "goronia_neu_de.json"
+      ],
       "controls": [],
       "pages": [
-        "Hmmm, ganz gut... Aber nicht\ngenau das, was ich hören wollte...",
-        "Ich mag Melodien... Wie soll ich \nsagen... Von außerhalb... etwas\nNatürliches... Grünes... aus dem \nWald...",
-        "Das ist meine Art von Musik!"
+        "Okay, ja, das ist Zeldas Wiegenlied.\nAlso das, was Zelda als Kind immer\ngehört hat.",
+        "Und was soll mir das jetzt sagen?\nIch kann damit nicht viel anfangen.\nWillst Du damit sagen, daß ich faul\nbin?"
       ],
       "locations": []
     },
     {
       "id": "3007",
       "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
-      "source_files": [],
+      "source_files": [
+        "goronia_neu_de.json"
+      ],
       "controls": [
         "BOX_BREAK_DELAYED(30)",
         "BOX_BREAK_DELAYED(40)",
@@ -2531,15 +2529,15 @@
         "BOX_BREAK_DELAYED(40)"
       ],
       "pages": [
-        "Oh...",
-        "Wow!",
-        "Das groovt!",
-        "Yeah! Yeah! Yeah!",
-        "Ein heißer Beat!",
-        "Groovy!",
-        "Let's dance!",
-        "YEEEEAH!",
-        "YAHOOO!"
+        "Oh!",
+        "Was geht hier vor sich?!",
+        "Oh mein Gott!",
+        "Was ist geschehen?!",
+        "Ich kann nicht mehr aufhören!",
+        "Mein Körper...",
+        "...gehorcht mir nicht mehr!",
+        "Irgendwas ist mit meinem Blut los!",
+        "HÖR AUF!"
       ],
       "locations": []
     },
@@ -2551,18 +2549,15 @@
       ],
       "controls": [],
       "pages": [
-        "Dieser Klang! Endlich mal kein\nVortrag über den\nWirtschaftsstandort!",
-        "Die Musik des Waldes hat mich\nerwischt. Ich mußte einfach tanzen!",
-        "Ich bin Darunia. Ein besonders\nqualifizierter Gorone!",
-        "Ich vertrage Hitze und kann rollen.\nDeshalb führe ich die Goronen. Meine\nFrisur spielt dabei keine Rolle!",
-        "Was suchst Du?",
-        "Den Heiligen Stein des Feuers?",
-        "Wir nennen ihn Goronen-Opal. Er ist\ndas wertvollste Relikt unseres\nVolkes.",
-        "Ich gebe ihn jemandem, auf den wir\nuns verlassen können. Keine weitere\nHochglanzzusage.",
-        "Vertreibe die Kreaturen aus Dodongos\nHöhle!",
-        "Hilfst Du meinem Volk, soll der Stein\nDir gehören.",
-        "Nimm zuerst dieses\nGoronen-Armband. Ein Geschenk unter\nFreunden.",
-        "Damit kannst Du sogar schwere\nDonnerblumen mit [A] heben. Merz hat\nuns den Schutt gebracht. Du bringst\nhoffentlich die Lösung."
+        "Hey, Kleiner, mach das nie wieder.\nAuch wenn es aussah, als hätte ich\nSpaß, das war ganz schön\nschmerzhaft.",
+        "Ich bin Darunia und natürlich\nbeeindruckt von Deinen magischen\nFähigkeiten und Kräften. Du bist\nvielleicht genau die Person, die wir",
+        "gesucht haben.",
+        "Du möchtest den Heiligen Stein des\nFeuers, den Goronen-Opal? Den\nkannst Du gerne haben. Aber Du\nmußt auch etwas für uns tun.",
+        "Geh in Dodongos Höhle und schlachte\nein paar Dodongos für uns. Oder\nallgemein: Vertreib da die Bösen. Da\nsind ein paar Schergen von Friedrich",
+        "Merz drin.",
+        "Hilfst Du meinem Volk, soll der Stein\nDir gehören. Aber Du bist noch ein\nganz schöner Schwächling.",
+        "Deswegen kriegst Du hier das\nmagische Goronen-Armband. Damit\nkannst Du Steine und so was heben,\nohne Dir Deine kleinen",
+        "Streichholzarme zu brechen."
       ],
       "locations": []
     },
@@ -2574,8 +2569,8 @@
       ],
       "controls": [],
       "pages": [
-        "Vertreibe die Dodongos aus der\nHöhle. Dann gehört Dir der Heilige\nStein. Mein Volk braucht Essen, keine\nneue Durchhalterede.",
-        "Warum ich nicht selbst gehe? Ich bin\nstark, hitzebeständig und kann rollen.\nDarum muß ich hier die Leitung\nübernehmen!"
+        "Geh zu Dodongos Höhle und vertreib\ndie Monster, so daß es einfach nur\nnoch eine Höhle ist und nicht speziell\nDodongos Höhle. Dann gehört Dir der",
+        "Heilige Stein."
       ],
       "locations": []
     },
@@ -2587,8 +2582,7 @@
       ],
       "controls": [],
       "pages": [
-        "Darunia geht es besser? Gut. Ein\nkleiner Erfolg gegen eine sehr große\nschlechte Laune.",
-        "Jetzt erklärt er mir, daß er\nbärenstark ist und Steine ißt. Ich\nwollte bloß wissen, wer heute die\nKüche aufräumt."
+        "Ah, ich sehe, Du hast unser\nGoronen-Oberhaupt besänftigen\nkönnen. Das ist ja großartig! Dann\nbist Du ja die Rettung!"
       ],
       "locations": []
     },
@@ -2600,18 +2594,20 @@
       ],
       "controls": [],
       "pages": [
-        "Der Zugang ist offen! Endlich. Jetzt\nfehlen nur noch die Dodongos. Ein\nProblem weniger ist trotzdem ein\nProblem weniger."
+        "Frohlocket und jubelt! Der Heiland ist\nuns erschienen! Er kam zu uns, als\nwir hungerten, und siehe: Der Stein\nward hinweggerollt!",
+        "Gesegnet seien seine kleinen Füße,\ndie ihn zu uns trugen! Nun gehet hin,\njunger Erlöser, und befreiet auch\nunsere Speisekammer. Amen!"
       ],
       "locations": []
     },
     {
       "id": "0114",
       "section": "2.10 Dodongos Höhle – Navi und Wallace",
-      "source_files": [],
+      "source_files": [
+        "goronia_neu_de.json"
+      ],
       "controls": [],
       "pages": [
-        "Wow! Schau Dir all die\nDonnerblumen an!",
-        "Meinst Du, Du kannst sie\nalle auf einmal zünden?"
+        "Ey, laß uns mal einfach alle\nDonnerblumen gleichzeitig zünden und\ndas ganze Ding in die Luft jagen!"
       ],
       "locations": [
         "Dodongos Höhle – Raum 2"
@@ -2620,10 +2616,12 @@
     {
       "id": "0115",
       "section": "2.10 Dodongos Höhle – Navi und Wallace",
-      "source_files": [],
+      "source_files": [
+        "goronia_neu_de.json"
+      ],
       "controls": [],
       "pages": [
-        "Sieht aus, als wären hier jede\nMenge Lavagruben! Paß auf, wo\nDu hintrittst!"
+        "Paß auf, hier sind eine Menge\nLavagruben. Aber glücklicherweise\nbrauchst Du jetzt keine besondere\nRüstung, um hier zu überleben."
       ],
       "locations": [
         "Dodongos Höhle – Raum 0"
@@ -2632,10 +2630,12 @@
     {
       "id": "0116",
       "section": "2.10 Dodongos Höhle – Navi und Wallace",
-      "source_files": [],
+      "source_files": [
+        "goronia_neu_de.json"
+      ],
       "controls": [],
       "pages": [
-        "Betätige den Schalter, damit sich\ndie Plattform hebt. So erreichst\nDu leicht ein höheres Stockwerk!"
+        "Es sieht aus, als hätten die Goronen\nso eine Art Aufzug erfunden."
       ],
       "locations": [
         "Dodongos Höhle – Raum 0"

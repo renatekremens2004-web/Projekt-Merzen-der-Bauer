@@ -1,3 +1,9 @@
+# Goronen- und Darunia-Dialoge V9
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Goronen_Dialoge_V9.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Goronen_Dialoge_V9.bps?raw=true) · [Eingebaute neue Texte](Goronen_Dialoge_V9_Texte.md) · [Prüfung](Goronen_Dialoge_V9_Aenderungen.md) · [Quellen](Merzen_Goronen_Dialoge_V9_Quellen_Patch.zip?raw=true)
+
+22 überarbeitete Goronen-/Darunia-/Navi-Texte. 3009 und die abgebrochene 0119-Vorgabe bleiben stehen. Alle bisherigen Inhalte enthalten. Gesamtpatch jeweils auf unveränderte Vanilla PAL 1.0 anwenden. Die vollständigen Arbeitslisten Kapitel 1–2 sind ebenfalls aktualisiert.
+
 # Schloß- und Wald-Dialoge V8
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Schloss_Wald_V8.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Schloss_Wald_V8.bps?raw=true) · [Eingebaute neue Texte](Schloss_Wald_V8_Texte.md) · [Prüfung](Schloss_Wald_V8_Aenderungen.md) · [Quellen](Merzen_Schloss_Wald_V8_Quellen_Patch.zip?raw=true)

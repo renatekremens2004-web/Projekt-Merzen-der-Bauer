@@ -1,8 +1,8 @@
 # Storydialoge Kapitel 1–2 – Hauptstrang bis vor die Zoras
 
-Stand: 21. Oktober 2026, Schloß-/Wald-Dialoge V8 (aktuell gebauter deutscher PAL-1.0-Stand).
+Stand: 21. Oktober 2026, Goronen-Dialoge V9 (aktuell gebauter deutscher PAL-1.0-Stand).
 
-Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-, Schloß- und Wald-Änderungen bis V8.
+Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-, Schloß-, Wald- und Goronen-Änderungen bis V9.
 
 Geltungsbereich: Kind-Link vom Intro über Deku-Baum, erste Zelda-Begegnung, Kakariko, Salias Lied, Goronia und Dodongos Höhle bis zum Übergang zu den Zoras. Die Farm und andere frei erreichbare Nebenhandlungen können in unterschiedlicher Reihenfolge besucht werden.
 
@@ -2657,34 +2657,35 @@ Erstansprache; Wiederholung bei erneutem Ansprechen: 302A.
 
 **Seite 1**
 
-> Wir Goronen leben von Steinen. Die
-> guten liegen in Dodongos Höhle.
+> Wir Goronen essen am liebsten
+> Steine, und die besten Steine liegen
+> in Dodongos Höhle.
 
 **Seite 2**
 
-> Friedrich Merz ließ hier Kohle
-> abbauen. Er versprach Arbeit und
-> Wohlstand.
+> Friedrich Merz wollte hier Kohle
+> abbauen, um Hyrule mit Energie zu
+> versorgen. Aber dann ist der ganze
+> Mist komplett zusammengebrochen.
 
 **Seite 3**
 
-> Dann brach sein ganzer Mist
-> zusammen. Der Eingang ist
-> verschüttet. Unsere Nahrung liegt
-> dahinter.
+> Der Eingang ist verschüttet, und
+> unser ganzes Essen liegt dahinter.
+> Jetzt gibt es auch noch Dodongos in
+> der Höhle.
 
 **Seite 4**
 
-> Jetzt treiben sich auch noch
-> Dodongos in der Höhle herum. Hunger
-> und Monster: sein großes
-> Standortkonzept.
+> Was jetzt nicht schlimm ist. Ich
+> meine, es ist Dodongos Höhle. Was
+> erwartest Du? Es gibt ja auch
+> Dodongo-Filet, das ist sehr beliebt.
 
 **Seite 5**
 
-> Merz nennt es einen bedauerlichen
-> Betriebszwischenfall. Mein Magen
-> nennt es eine beschissene Woche.
+> Also, die Dodongos sind jetzt
+> prinzipiell nicht das Problem, ne?
 
 ### 302A
 
@@ -2693,10 +2694,9 @@ Wiederholungsansprache nach 3008; kein zusätzlicher Seitenanhang an dieses Erst
 
 **Seite 1**
 
-> Merz hat unseren Speiseplan
-> verschüttet. Vielleicht kriegt ein Kind
-> mehr hin als seine ganze
-> Bergbauverwaltung.
+> Friedrich Merz kann doch nicht
+> einfach Goronia enteignen! Du mußt
+> uns helfen.
 
 ### 3009
 
@@ -2725,9 +2725,8 @@ Projekttext.
 
 **Seite 1**
 
-> Wir hätten die Donnerblume von der
-> Klippe werfen müssen. Ich wollte erst
-> einen Arbeitskreis gründen.
+> Donnerblumen-Dynamo! Paß mit den
+> Donnerblumen auf.
 
 ### 300A
 
@@ -2735,9 +2734,9 @@ Projekttext.
 
 **Seite 1**
 
-> Ich spende den Donnerblumen
-> Schatten. Wenigstens eine brauchbare
-> Energiepolitik.
+> Die Donnerblumen haben wir
+> gepflanzt, um gegen Hyrule
+> aufzurüsten.
 
 **Seite 2**
 
@@ -2754,26 +2753,14 @@ Projekttext.
 
 **Seite 1**
 
-> Donnerblumen sind explosive
-> Höhlenpflanzen. Die Blüte wird für
-> Bomben verwendet.
+> Das ist eine der krassesten Pflanzen
+> in dieser ganzen Welt: Die
+> explodiert!
 
 **Seite 2**
 
-> Pflücke sie vorsichtig. Eine Explosion
-> ist hier keine Metapher für
-> Wachstum.
-
-**Seite 3**
-
-> Normalerweise wachsen sie in dunklen
-> Höhlen.
-
-**Seite 4**
-
-> Dieses Exemplar draußen ist selten.
-> Seit Merz buddelt, brauchen selbst
-> Pflanzen einen Ausweichstandort.
+> Und wir forschen auch schon an einer
+> Donner-Atomen-Blume.
 
 ### 300C
 
@@ -2801,15 +2788,10 @@ Projekttext.
 
 **Seite 1**
 
-> In Dodongos Höhle wächst unsere
-> Nahrung zwischen den Donnerblumen.
-
-**Seite 2**
-
-> Merz hat beim Kohleabbau den
-> Eingang einstürzen lassen. Wir
-> bekommen den Hunger, er behält die
-> Ausrede.
+> Wegen Merz ist der ganze Laden hier
+> zusammengestürzt, und der ist jetzt
+> auch gerade im Urlaub. Wir erreichen
+> ihn nicht.
 
 ### 3014
 
@@ -2916,16 +2898,10 @@ Wiederholungsansprache nach 3016; kein zusätzlicher Seitenanhang an dieses Erst
 
 **Seite 1**
 
-> Darunia wartet in seinem
-> verschlossenen Raum auf einen Boten
-> der Königsfamilie. Der Mann braucht
-> dringend gute Nachrichten.
-
-**Seite 2**
-
-> Er sagt, sein Job habe nichts mit
-> seinen Haaren zu tun. Ich habe ihn
-> gar nicht nach seinen Haaren gefragt.
+> Darunia ist in seinem Büro und mega
+> angepißt. Der ist richtig sauer. Also,
+> ich verstehe das auch. Ich bin auch
+> sauer.
 
 ### 3018
 
@@ -2939,25 +2915,17 @@ Erstansprache; Wiederholung bei erneutem Ansprechen: 3019.
 
 **Seite 2**
 
-> Darunia mußt Du trotzdem aufsuchen.
-> Er kennt sich mit dem Heiligen Stein
-> aus.
+> Hey, ich bin sehr an Darunia
+> interessiert. Kleiner Fun Fact: Er hat
+> eine der seltensten
+> Standard-Blutgruppen, AB negativ.
 
 **Seite 3**
 
-> Er ist mies gelaunt, seit sein Volk
-> wegen Merz' Kohlegrube hungert.
-
-**Seite 4**
-
-> Musik kann ihn aufheitern. Leider. Bei
-> mir müßte man sie dafür abschalten.
-
-**Seite 5**
-
-> Versuche die Musik aus dem Wald. Er
-> liebt sie, und ich kann so lange die
-> Wand anstarren.
+> Die nennen wir hier in Hyrule auch
+> "goldenes Blut". Da fehlen
+> Rh-Antigene. Das wollte ich einfach
+> mal erwähnt haben.
 
 ### 3019
 
@@ -2975,17 +2943,6 @@ Native direkte Fortsetzung zu 302C.
 > Ich mag besonders, wenn sie aufhört.
 > Wir ergänzen uns als Gesellschaft.
 
-### 302C
-
-Ohne Kapitel-Ersatz.
-
-**Seite 1**
-
-> Die Fackeln sind ein Symbol des
-> Lebens in Goronia. Würden sie
-> alle brennen, wäre es hier
-> sicher wieder schöner!
-
 ### 3024
 
 Projekttext.
@@ -2993,26 +2950,15 @@ Erstansprache; Wiederholung bei erneutem Ansprechen: 3025.
 
 **Seite 1**
 
-> Seit Merz hier Kohle abbauen ließ,
-> kriegen wir kaum noch gutes Essen.
+> Merz hat uns alle als faul bezeichnet,
+> nur weil wir gerne schlafen.
 
 **Seite 2**
 
-> Der Rote Stein? Darunia hat den
-> Goronen-Opal mitgenommen.
-
-**Seite 3**
-
-> Er sitzt in seinem Raum. Die
-> Dunkelheit hier macht den Hunger
-> nicht besser.
-
-**Seite 4**
-
-> Vielleicht hilft etwas Licht. Einen
-> trockenen Vortrag über
-> Eigenverantwortung haben wir schon
-> bekommen.
+> Hey, Merz, Du Blitzmerker, ich hab
+> eine Eilmeldung für Dich: Jedes
+> lebendige Wesen muß mal schlafen,
+> Du Arschloch!
 
 ### 3025
 
@@ -3021,10 +2967,24 @@ Wiederholungsansprache nach 3024; kein zusätzlicher Seitenanhang an dieses Erst
 
 **Seite 1**
 
-> Zünde die Fackeln an der
-> Goronenstatue an. In Darunias
-> Kammer gibt es Feuer. Ich hätte gern
-> auch mal Hoffnung statt Glut.
+> Darunias Kammer ist mit so einem
+> Wärmesensor verbunden. Deswegen
+> mußt Du jetzt die Fackeln anzünden.
+
+### 302C
+
+Projekttext.
+
+**Seite 1**
+
+> Wenn Du es schaffst, alle diese
+> Fackeln anzuzünden, dann passiert
+> bestimmt etwas Spannendes. Ein
+> Goronen-Ingenieur hat sich hier schon
+
+**Seite 2**
+
+> was bei gedacht.
 
 ## 2.9 Darunia – Erstgespräch, Musik und Auftrag
 
@@ -3035,61 +2995,69 @@ Native direkte Fortsetzung zu 301B.
 
 **Seite 1**
 
-> Was? Wer bist Du?
+> Was ist das für ein Schwachsinn?
+> Ich habe jemanden von der
+> Königsfamilie erwartet. Einen großen
+> Mann, wie diesen Mr. Bean!
 
 **Seite 2**
 
-> Ich hörte das Lied der Königsfamilie
-> und erwartete ihren Boten. Jetzt
-> steht ein Kind vor mir.
+> Und statt dessen bekomme ich einen
+> Dreikäsehoch? Ich bin hier der Chef,
+> und nicht einfach nur, weil ich anders
+> aussehe. Nein, ich habe auch die
 
 **Seite 3**
 
-> Ich bin Darunia, Anführer der
-> Goronen. Und mein Volk hungert!
+> Fähigkeiten!
 
 **Seite 4**
 
-> Und bevor Du fragst: Ich bin nicht
-> bloß Chef, weil ich anders aussehe.
-> Ich besitze Fähigkeiten!
+> Ich bin bärenstark und esse den
+> ganzen Tag Steine. Ich kann einfach
+> in so einen Backstein reinbeißen, gar
+> kein Problem.
 
 **Seite 5**
 
-> Ich bin bärenstark. Ich esse Steine.
 > Und ich kann mich zusammenrollen.
-> Das muß man erst mal können!
+> Das muß man auch erst mal können!
+> Merz hat uns Kohleabbau als
+> Wohlstand verkauft und wollte uns
 
 **Seite 6**
 
-> Merz hat uns Kohleabbau als
-> Wohlstand verkauft. Dann brach alles
-> über unserem Speiselager zusammen.
+> daran beteiligen.
 
 **Seite 7**
 
-> Ich verlangte Hilfe vom Schloß.
+> Jetzt ist unser ganzes Speiselager
+> zusammengebrochen: Dodongos Höhle.
+> Er meinte wieder, der Markt regelt
+> das. Aber hier wird gerade gar nichts
 
 **Seite 8**
 
-> Statt dessen hieß es, der Markt
-> werde das regeln. Der Markt hat
-> offenbar keine Arme.
+> geregelt.
 
 **Seite 9**
 
-> Dodongos wüten in unserer Höhle.
+> In der Höhle sind auch ein Haufen
+> Monster. Die Frage ist, wie viele
+> davon schon vorher da drin waren.
 
 **Seite 10**
 
-> Die Donnerblumen-Ernte war schlecht.
-> Der Eingang liegt unter Schutt.
+> Bei den Dodongos wissen wir es. Die
+> Fledermäuse werden da wohl auch
+> schon gewesen sein, weil Fledermäuse
+> relativ weit verbreitet sind.
 
 **Seite 11**
 
-> Und ich soll noch dankbar sein, weil
-> das angeblich unsere Wirtschaft
-> ankurbelt?
+> Aber diese Echsenmenschen, die
+> waren da ganz sicher noch nicht
+> drin!
 
 ### 301B
 
@@ -3097,75 +3065,72 @@ Projekttext.
 
 **Seite 1**
 
-> Mein Volk hungert. Ich brauche Hilfe,
-> keine Diskussion über meine
-> Ernennung zum Anführer!
+> Mein Volk ist am Hungern. Ich weiß
+> nicht, was ich machen soll. Ich bin
+> total verzweifelt.
 
 **Seite 2**
 
-> Daß alle Goronen stark sind, weiß ich
-> selbst. Aber ich bin stark UND Chef.
-> Das ist eine Kombination!
+> Das ist das Schlimmste, was uns
+> Goronen jemals passiert ist.
+> Zumindest in diesem Jahrhundert.
 
 ### 3020
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Hmmm, ganz gut... Aber nicht
-> genau das, was ich hören wollte...
+> Okay, ja, das ist Zeldas Wiegenlied.
+> Also das, was Zelda als Kind immer
+> gehört hat.
 
 **Seite 2**
 
-> Ich mag Melodien... Wie soll ich 
-> sagen... Von außerhalb... etwas
-> Natürliches... Grünes... aus dem 
-> Wald...
-
-**Seite 3**
-
-> Das ist meine Art von Musik!
+> Und was soll mir das jetzt sagen?
+> Ich kann damit nicht viel anfangen.
+> Willst Du damit sagen, daß ich faul
+> bin?
 
 ### 3007
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Oh...
+> Oh!
 
 **Seite 2**
 
-> Wow!
+> Was geht hier vor sich?!
 
 **Seite 3**
 
-> Das groovt!
+> Oh mein Gott!
 
 **Seite 4**
 
-> Yeah! Yeah! Yeah!
+> Was ist geschehen?!
 
 **Seite 5**
 
-> Ein heißer Beat!
+> Ich kann nicht mehr aufhören!
 
 **Seite 6**
 
-> Groovy!
+> Mein Körper...
 
 **Seite 7**
 
-> Let's dance!
+> ...gehorcht mir nicht mehr!
 
 **Seite 8**
 
-> YEEEEAH!
+> Irgendwas ist mit meinem Blut los!
 
 **Seite 9**
 
-> YAHOOO!
+> HÖR AUF!
 
 ### 301C
 
@@ -3173,68 +3138,56 @@ Projekttext.
 
 **Seite 1**
 
-> Dieser Klang! Endlich mal kein
-> Vortrag über den
-> Wirtschaftsstandort!
+> Hey, Kleiner, mach das nie wieder.
+> Auch wenn es aussah, als hätte ich
+> Spaß, das war ganz schön
+> schmerzhaft.
 
 **Seite 2**
 
-> Die Musik des Waldes hat mich
-> erwischt. Ich mußte einfach tanzen!
+> Ich bin Darunia und natürlich
+> beeindruckt von Deinen magischen
+> Fähigkeiten und Kräften. Du bist
+> vielleicht genau die Person, die wir
 
 **Seite 3**
 
-> Ich bin Darunia. Ein besonders
-> qualifizierter Gorone!
+> gesucht haben.
 
 **Seite 4**
 
-> Ich vertrage Hitze und kann rollen.
-> Deshalb führe ich die Goronen. Meine
-> Frisur spielt dabei keine Rolle!
+> Du möchtest den Heiligen Stein des
+> Feuers, den Goronen-Opal? Den
+> kannst Du gerne haben. Aber Du
+> mußt auch etwas für uns tun.
 
 **Seite 5**
 
-> Was suchst Du?
+> Geh in Dodongos Höhle und schlachte
+> ein paar Dodongos für uns. Oder
+> allgemein: Vertreib da die Bösen. Da
+> sind ein paar Schergen von Friedrich
 
 **Seite 6**
 
-> Den Heiligen Stein des Feuers?
+> Merz drin.
 
 **Seite 7**
 
-> Wir nennen ihn Goronen-Opal. Er ist
-> das wertvollste Relikt unseres
-> Volkes.
+> Hilfst Du meinem Volk, soll der Stein
+> Dir gehören. Aber Du bist noch ein
+> ganz schöner Schwächling.
 
 **Seite 8**
 
-> Ich gebe ihn jemandem, auf den wir
-> uns verlassen können. Keine weitere
-> Hochglanzzusage.
+> Deswegen kriegst Du hier das
+> magische Goronen-Armband. Damit
+> kannst Du Steine und so was heben,
+> ohne Dir Deine kleinen
 
 **Seite 9**
 
-> Vertreibe die Kreaturen aus Dodongos
-> Höhle!
-
-**Seite 10**
-
-> Hilfst Du meinem Volk, soll der Stein
-> Dir gehören.
-
-**Seite 11**
-
-> Nimm zuerst dieses
-> Goronen-Armband. Ein Geschenk unter
-> Freunden.
-
-**Seite 12**
-
-> Damit kannst Du sogar schwere
-> Donnerblumen mit [A] heben. Merz hat
-> uns den Schutt gebracht. Du bringst
-> hoffentlich die Lösung.
+> Streichholzarme zu brechen.
 
 ### 301D
 
@@ -3242,17 +3195,14 @@ Projekttext.
 
 **Seite 1**
 
-> Vertreibe die Dodongos aus der
-> Höhle. Dann gehört Dir der Heilige
-> Stein. Mein Volk braucht Essen, keine
-> neue Durchhalterede.
+> Geh zu Dodongos Höhle und vertreib
+> die Monster, so daß es einfach nur
+> noch eine Höhle ist und nicht speziell
+> Dodongos Höhle. Dann gehört Dir der
 
 **Seite 2**
 
-> Warum ich nicht selbst gehe? Ich bin
-> stark, hitzebeständig und kann rollen.
-> Darum muß ich hier die Leitung
-> übernehmen!
+> Heilige Stein.
 
 ### 302F
 
@@ -3260,16 +3210,10 @@ Projekttext.
 
 **Seite 1**
 
-> Darunia geht es besser? Gut. Ein
-> kleiner Erfolg gegen eine sehr große
-> schlechte Laune.
-
-**Seite 2**
-
-> Jetzt erklärt er mir, daß er
-> bärenstark ist und Steine ißt. Ich
-> wollte bloß wissen, wer heute die
-> Küche aufräumt.
+> Ah, ich sehe, Du hast unser
+> Goronen-Oberhaupt besänftigen
+> können. Das ist ja großartig! Dann
+> bist Du ja die Rettung!
 
 ### 3021
 
@@ -3277,49 +3221,52 @@ Projekttext.
 
 **Seite 1**
 
-> Der Zugang ist offen! Endlich. Jetzt
-> fehlen nur noch die Dodongos. Ein
-> Problem weniger ist trotzdem ein
-> Problem weniger.
+> Frohlocket und jubelt! Der Heiland ist
+> uns erschienen! Er kam zu uns, als
+> wir hungerten, und siehe: Der Stein
+> ward hinweggerollt!
+
+**Seite 2**
+
+> Gesegnet seien seine kleinen Füße,
+> die ihn zu uns trugen! Nun gehet hin,
+> junger Erlöser, und befreiet auch
+> unsere Speisekammer. Amen!
 
 ## 2.10 Dodongos Höhle – Navi und Wallace
 
 ### 0114
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Dodongos Höhle – Raum 2.
 
 **Seite 1**
 
-> Wow! Schau Dir all die
-> Donnerblumen an!
-
-**Seite 2**
-
-> Meinst Du, Du kannst sie
-> alle auf einmal zünden?
+> Ey, laß uns mal einfach alle
+> Donnerblumen gleichzeitig zünden und
+> das ganze Ding in die Luft jagen!
 
 ### 0115
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Dodongos Höhle – Raum 0.
 
 **Seite 1**
 
-> Sieht aus, als wären hier jede
-> Menge Lavagruben! Paß auf, wo
-> Du hintrittst!
+> Paß auf, hier sind eine Menge
+> Lavagruben. Aber glücklicherweise
+> brauchst Du jetzt keine besondere
+> Rüstung, um hier zu überleben.
 
 ### 0116
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Dodongos Höhle – Raum 0.
 
 **Seite 1**
 
-> Betätige den Schalter, damit sich
-> die Plattform hebt. So erreichst
-> Du leicht ein höheres Stockwerk!
+> Es sieht aus, als hätten die Goronen
+> so eine Art Aufzug erfunden.
 
 ### 0119
 
