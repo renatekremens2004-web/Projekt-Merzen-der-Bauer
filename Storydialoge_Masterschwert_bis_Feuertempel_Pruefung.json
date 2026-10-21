@@ -1,0 +1,12 @@
+{
+  "total_messages": 164,
+  "pages": 433,
+  "native_cutscene_sources_covered": 9,
+  "fire_prisoner_placements_covered": 9,
+  "source_sha256": "343bfdda69e2591a77eba5fa3b07eb8b530febfea12451c904bdc857319b7b00",
+  "unchanged_V17_normal_rom_sha256": "73073c64774b14ecad8baa4d704e1871cf78f6b24186c14596b9cb69faf34b5e",
+  "all_prior_forest_list_pages_retained": true,
+  "all_exported_pages_and_controls_match_current_source": true,
+  "unique_ids": true,
+  "text_and_rom_unchanged": true
+}

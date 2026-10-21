@@ -1,3 +1,9 @@
+# Arbeitsliste: Master-Schwert bis Feuertempel
+
+[Vollständige Dialoge lesen](Storydialoge_Masterschwert_bis_Feuertempel.md) · [Als TXT herunterladen](Storydialoge_Masterschwert_bis_Feuertempel.txt?raw=true) · [Arbeitsliste als ZIP](Storydialoge_Masterschwert_bis_Feuertempel.zip?raw=true)
+
+Aktueller V17-Wortlaut: 164 Text-IDs, 433 Seiten, einschließlich Auswahlzweigen und Wiederholungszuständen. Vom Schwertziehen und Erwachen bei Habeck über Waldtempel und Goronia bis Wallace/Feueramulett und unmittelbaren Reaktionen. Verbliebene Originaltexte und gespeicherte Zusatzvarianten sind gekennzeichnet. Reiner Export; Spiel und Patches unverändert.
+
 # Dialoge V17
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Dialoge_V17.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Dialoge_V17.bps?raw=true) · [Änderungen](Dialoge_V17_Aenderungen.md) · [Quellen](Merzen_Dialoge_V17_Quellen_Patch.zip?raw=true)
