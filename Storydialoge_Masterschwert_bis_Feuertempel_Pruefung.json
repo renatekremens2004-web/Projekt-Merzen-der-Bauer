@@ -1,59 +1,119 @@
 {
-  "stand": "V18",
+  "stand": "V19",
   "build_verification": {
     "messages_changed": [
-      "700F",
-      "7057",
-      "7077",
-      "7078",
-      "7079"
+      "0031",
+      "0036",
+      "104F",
+      "1050",
+      "1052",
+      "1053",
+      "1054",
+      "1057",
+      "1067",
+      "1068",
+      "106C",
+      "108E",
+      "502D",
+      "5041",
+      "7010"
     ],
     "all_other_ids_and_languages_unchanged": true,
     "native_functional_controls_identical": true,
     "all_native_delays_and_fades_preserved": true,
-    "only_requested_five_German_messages_changed": true,
+    "only_requested_fifteen_German_messages_changed": true,
     "navi_hint_routing_not_modified": true,
     "text_buffers": {
-      "changed_messages": 5,
+      "changed_messages": 15,
       "raw_buffer_bytes": 1280,
       "decoded_buffer_bytes": 200,
-      "largest_raw_message_bytes": 688,
-      "largest_decoded_page_upper_bound": 135,
+      "largest_raw_message_bytes": 893,
+      "largest_decoded_page_upper_bound": 141,
       "all_within_buffers": true,
       "messages": {
-        "7057": {
-          "raw_bytes": 688,
-          "decoded_page_upper_bound": 135,
-          "pages": 8
-        },
-        "7077": {
-          "raw_bytes": 59,
-          "decoded_page_upper_bound": 58,
+        "7010": {
+          "raw_bytes": 129,
+          "decoded_page_upper_bound": 128,
           "pages": 1
         },
-        "7078": {
-          "raw_bytes": 91,
-          "decoded_page_upper_bound": 90,
+        "5041": {
+          "raw_bytes": 893,
+          "decoded_page_upper_bound": 131,
+          "pages": 9
+        },
+        "502D": {
+          "raw_bytes": 430,
+          "decoded_page_upper_bound": 125,
+          "pages": 4
+        },
+        "0036": {
+          "raw_bytes": 275,
+          "decoded_page_upper_bound": 94,
+          "pages": 3
+        },
+        "1057": {
+          "raw_bytes": 152,
+          "decoded_page_upper_bound": 133,
+          "pages": 2
+        },
+        "104F": {
+          "raw_bytes": 132,
+          "decoded_page_upper_bound": 131,
           "pages": 1
         },
-        "7079": {
-          "raw_bytes": 108,
-          "decoded_page_upper_bound": 107,
+        "1050": {
+          "raw_bytes": 128,
+          "decoded_page_upper_bound": 127,
           "pages": 1
         },
-        "700F": {
-          "raw_bytes": 105,
-          "decoded_page_upper_bound": 104,
+        "1052": {
+          "raw_bytes": 219,
+          "decoded_page_upper_bound": 132,
+          "pages": 2
+        },
+        "1053": {
+          "raw_bytes": 74,
+          "decoded_page_upper_bound": 73,
           "pages": 1
+        },
+        "1054": {
+          "raw_bytes": 188,
+          "decoded_page_upper_bound": 127,
+          "pages": 2
+        },
+        "1067": {
+          "raw_bytes": 206,
+          "decoded_page_upper_bound": 132,
+          "pages": 2
+        },
+        "1068": {
+          "raw_bytes": 277,
+          "decoded_page_upper_bound": 141,
+          "pages": 3
+        },
+        "106C": {
+          "raw_bytes": 493,
+          "decoded_page_upper_bound": 130,
+          "pages": 5
+        },
+        "0031": {
+          "raw_bytes": 222,
+          "decoded_page_upper_bound": 118,
+          "pages": 2
+        },
+        "108E": {
+          "raw_bytes": 233,
+          "decoded_page_upper_bound": 87,
+          "pages": 3
         }
       }
     },
     "builds": {
       "normal": {
-        "sha256": "d2c157f30985b2387b72e97fc238cf864289bacac5d09016b90fa4a7612a9e49",
+        "sha256": "2dd5f59796b59469b0f478fcc4655b55f8b9426f230200f2728572328040f0a1",
         "crc": [
-          "197154DE",
-          "53E3708A"
+          "19842F9E",
+          "6EABA471"
         ],
         "changed_segments": [
           "makerom",
@@ -65,10 +125,10 @@
         "models_unchanged_and_game_logic_unchanged_except_linker_addresses": true
       },
       "debug": {
-        "sha256": "373b796997b1cf153e7268355972bce481100a6d456b2ee312ea3ee57d65cd5d",
+        "sha256": "fa272629db4fd42e273485c44ae499b1ea43dfaa2f23ff0c77a1c0c362862860",
         "crc": [
-          "1981D2E6",
-          "2010DEA5"
+          "19971CE6",
+          "389B0BF2"
         ],
         "changed_segments": [
           "makerom",
@@ -84,13 +144,13 @@
   "export_verification": {
     "forest": {
       "ids": 116,
-      "pages": 293,
+      "pages": 292,
       "all_pages_match_current_source": true,
       "source_and_rom_hashes_match": true
     },
     "full": {
       "ids": 164,
-      "pages": 433,
+      "pages": 432,
       "all_pages_match_current_source": true,
       "source_and_rom_hashes_match": true
     }

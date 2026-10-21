@@ -1,6 +1,6 @@
 {
-  "source_sha256": "5ca9cc50747c6a7bbec8e6fd0b4b46bf883419dc9b9627c7dc6edfd6ee1d0e1d",
-  "rom_reference_sha256": "d2c157f30985b2387b72e97fc238cf864289bacac5d09016b90fa4a7612a9e49",
+  "source_sha256": "ddd1133ffa493fe161ea2fd796566dcead818814ba78e9ad9a21747d5a70368b",
+  "rom_reference_sha256": "2dd5f59796b59469b0f478fcc4655b55f8b9426f230200f2728572328040f0a1",
   "scope": "Schwert gezogen / Erwachen bis Feuertempel-Abschluß und unmittelbare Reaktionen",
   "fire_prisoner_placements": [
     {
@@ -526,7 +526,7 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Du hast den Haken. Nun zur alten\nFreundin. Sie hat Dich früher auch\nmanchmal warten lassen, oder?"
+        "Ich sehe, Du verfügst nun über den\nFanghaken. Hast Du ihn Dir signieren\nlassen? Der gehörte mal einem\ngroßartigen Rennmeister."
       ],
       "controls": [],
       "notes": "Sheik erneut angesprochen, Fanghaken vorhanden.",
@@ -600,9 +600,8 @@
       "pages": [
         "Ah, ein Besucher. Sieben Jahre\nverändern ein Leben. Einst ging ich\nunter den Lebenden. Nun bin ich tot.",
         "Die Zeit nimmt uns alles.\nGewohnheiten. Zukunftspläne.\nIrgendwann den eigenen Körper.",
-        "Ich bin vorgestern beim Verlassen der\nWindmühle die Treppe runtergestürzt.",
-        "Das Grab ist noch frisch. Die große\nZeitbetrachtung war trotzdem\nberechtigt.",
-        "Du weißt ja: Wettrennen waren stets\nder Kern meiner Persönlichkeit. Boris,\nder größte Renner Hyrules!",
+        "Ich bin vorgestern beim Verlassen der\nWindmühle die Treppe runtergestürzt.\nFür einen alten Mann wie mich war\ndas das Todesurteil.",
+        "Wettrennen waren stets der Kern\nmeiner Persönlichkeit. Boris, der\ngrößte Renner Hyrules!",
         "Das habe ich ständig erzählt. Jeder\nwußte es. Auch dieser Junge auf dem\nFriedhof hat es immer gesagt.",
         "Falls Du Dich nicht erinnerst: Es war\nwirklich ein fester Teil meines\nCharakters. Schon immer.",
         "Uga Paluga! Meine alte Catchphrase.\nErinnerst Du Dich? Das habe ich\nfrüher immer gesagt.",
@@ -635,10 +634,9 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Gewonnen! Genau wie damals.\nDamals, als ich noch lebte. Also bis\nvorgestern.",
-        "Du erbst meinen Enterhaken. Im Menü\nheißt er Fanghaken. Juristisch ist das\ndasselbe Ding.",
-        "Damit ziehst Du Dich zum Eingang\ndes Waldtempels. Du weißt schon:\nDein nächster Dungeon.",
-        "Komm wieder, wenn Du noch ein\nRennen willst. Ich war schon immer\nder große Rennsport-Boris.",
+        "Noch einmal wollte ich auf irdischer\nWelt wandeln, um gegen Dich, meinen\nguten Freund, im Rennen anzutreten.",
+        "Du hast gewonnen. Nimm nun Deinen\nPreis. Er soll Dir gute Dienste auf\nDeinem Abenteuer erweisen.",
+        "Und wenn Du wiederkommst, dann\nrenn gerne wieder gegen Deinen\ngroßen Rennsport-Boris-Kollegen an.\nUga Paluga, sage ich da!",
         "Auf dem Rückweg geht es zur\nWindmühle. Paß an der Treppe auf.\nIch spreche aus Erfahrung."
       ],
       "controls": [],
@@ -663,9 +661,11 @@
       "id": "0036",
       "section": "4. Kakariko – Boris als Geist, Rennen und Fanghaken",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Der Fanghaken!\nIm Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren.",
+        "Du hast den Fanghaken von\nBoris geerbt, der so manch\nein Wettrennen gewonnen hat.",
         "Benutze ihn, um entfernte\nObjekte zu Dir zu holen oder\num Dich an ein Objekt\nheranzuziehen.",
         "Halte [C] gedrückt und ziele\nmit [Control-Pad]. Läßt Du [C] los,\nschießt Du den Fanghaken ab."
       ],
@@ -802,9 +802,12 @@
       "id": "1057",
       "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Wenn Sie einen Bogen besitzen, \nkönnen Sie im Laden Pfeile kaufen. \nHaben Sie einen Bogen?"
+        "Der ganze Wald ist zwar total\nverkommen und voller Monster, aber\nwenigstens kommen die importierten\nPfeile noch an. Werden jetzt im",
+        "Laden verkauft."
       ],
       "controls": [],
       "notes": " Kokiri-Typ CHILD_5; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
@@ -858,10 +861,11 @@
       "id": "104F",
       "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Ein kalter, dämonischer Wind \nweht aus der Richtung des \nWaldtempels.",
-        "Salia ist fort. Sie sagte, sie \nwolle etwas dagegen unternehmen!"
+        "Ich habe den Mann, der sich Philipp\nnennt, oft beobachtet. Ich stelle fest,\ner ist ein Loser. Und Charisma hat er\nauch nicht."
       ],
       "controls": [
         "TEXTID(0x1050)"
@@ -873,9 +877,11 @@
       "id": "1050",
       "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Der Waldtempel befindet sich bei \nder Heiligen Lichtung, tief in\nden Verlorenen Wäldern."
+        "Falls Du ihn suchst: Die Villa von\ndiesem Philipp Amthor findest Du an\nder Heiligen Lichtung, tief in den\nVerlorenen Wäldern."
       ],
       "controls": [],
       "notes": " Kokiri-Typ CHILD_8; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
@@ -899,9 +905,12 @@
       "id": "1052",
       "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Sie können mit Sicherheit keinen\nDeku-Schild mehr benutzen, dafür\nsind Sie zu alt!"
+        "Yeah, der Deku-Schild ist wohl zu\nklein für Sie geworden. Das liegt\ndaran, daß Sie so riesige\nMonsterhände haben. Also, aus meiner",
+        "Perspektive sind das Monsterhände.\nIch bin mein ganzes Leben lang ein\nKind gewesen."
       ],
       "controls": [],
       "notes": " Kokiri-Typ CHILD_10; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
@@ -911,9 +920,11 @@
       "id": "1053",
       "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Wo Salia ist? \nSie kennen Salia?\nDas ist merkwürdig..."
+        "Oh, Sie fragen nach Salia? Die finden\nSie in den Verlorenen Wäldern."
       ],
       "controls": [
         "TEXTID(0x1054)"
@@ -925,9 +936,12 @@
       "id": "1054",
       "section": "5. Kokiri-Wald vor der Befreiung – alle erwachsenen Bewohner",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Mido ist seit einiger Zeit\nverschwunden... Wo er wohl \nsteckt?"
+        "Jetzt ist nicht nur Salia\nverschwunden, sondern auch noch\nMido. Was ist, wenn der Kokiri, der\nim Laden arbeitet, als nächstes",
+        "verschwindet? Wo soll ich denn\nsonst meine Pfeile kaufen?"
       ],
       "controls": [],
       "notes": " Kokiri-Typ CHILD_11; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
@@ -967,12 +981,12 @@
       "id": "1067",
       "section": "6. Verlorene Wälder – Mido vor dem Waldtempel",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Diese Melodie?!",
-        "Salia hat sie geschrieben! \nSie... Sie kennen Salia?",
-        "Das Lied...",
-        "Salia hat das Lied nur ihren \nengsten Freunden beigebracht..."
+        "Oh Mann, ich faß es nicht! Wolltest\nDu mich gerade ernsthaft mit der\nBlutmagie kontrollieren? Nein? Oh.\nDann habe ich Dich falsch",
+        "eingeschätzt, tut mir leid. Okay, bitte\nbefreie diesen Wald, okay?"
       ],
       "controls": [
         "TEXTID(0x106F)"
@@ -1002,7 +1016,8 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Gut, Du kennst das Lied. Ich finde\nDich trotzdem noch scheiße. Sieben\nJahre ändern daran nichts.",
+        "Und Du warst echt in einem Wal? In\neinem Wal drin? Das ist ja verrückt!\nAber dann scheinst Du ja auf einem\nguten Weg zu sein. Ich habe Dich",
+        "unterschätzt.",
         "Wenn Friedrich Merz besiegt ist, bin\nich mit König Zora für die Siegesfeier\nverabredet. Nur damit Du Bescheid\nweißt."
       ],
       "controls": [],
@@ -1052,11 +1067,11 @@
         "wald_auftakt_de.json"
       ],
       "pages": [
-        "Der Wald ist grün, und Mr. Bean war\nkühn. Er gab sein Leben, um dieses\nLand zu schützen.",
-        "Und Friedrich Merz ist Algengrütze.\nHier im Wald wächst so mancher Pilz.\nUnd nun auch Du, Du Knilch.",
+        "Der Wald ist grün, und Mr. Bean war\nsehr kühn. Er gab sein Leben, um\ndieses Land zu schützen.",
+        "Friedrich Merz ist die ganze Zeit nur\nam Grützen. Hier im Wald wächst so\nmancher Pilz. Philipp Amthor ist ein\nschwacher Knilch.",
         "Die Welt ist zweifelsohne voller\nSchönheit, [Spielername].",
         "Und eine dieser Schönheiten ist\ndieser Song, den ich geschrieben\nhabe. Das Menuett des Waldes.",
-        "Es bringt Dich hierher zurück. Im\nTempel wartet eine alte Freundin. Sie\nhat früher schon Dinge ins Rollen\ngebracht."
+        "Im Tempel wartet eine alte Freundin\nauf Dich. Du bist ihr schon mal\nbegegnet, und die Wiedervereinigung\nwird süß."
       ],
       "controls": [],
       "notes": "",
@@ -1275,9 +1290,11 @@
       "id": "0031",
       "section": "10. Waldtempel – Feen-Bogen und neue Begegnungen",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "forest_neu_v19_de.json"
+      ],
       "pages": [
-        "Der Feen-Bogen!\nIm Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren.",
+        "Das ist der Feenbogen. Navis\nKollegen haben den gebaut.\nDie besten Feenbogenbauer in\nganz Hyrule.",
         "Drücke [C], um den Bogen\nzu benutzen. Halte [C] und\nziele mit [Control-Pad]. Laß [C] los,\num Pfeile abzuschießen!"
       ],
       "controls": [
@@ -1388,9 +1405,9 @@
         "phantom_amthor_de.json"
       ],
       "pages": [
-        "Du hast Dich tapfer geschlagen... Es\nscheint, daß Du viel gelernt hast!\nJedoch...",
-        "Du hast nur Amthor besiegt! Trittst\nDu meinem wahren Ich gegenüber,\nwirst Du vernichtet!",
-        "Ich werde Amthor nun in den Hades\nverbannen, denn er hat seinen\nSchöpfer enttäuscht!"
+        "Du bist stärker, als ich dachte. Dabei\nhast Du sieben Jahre lang gefaulenzt!",
+        "Philipp Amthor besiegen kann jeder.\nDer Typ ist eine Flasche.",
+        "Deshalb werde ich ihn nun in den\nHades verbannen. Er hat seinen\nKanzler enttäuscht!"
       ],
       "controls": [
         "BOX_BREAK_DELAYED(60)",

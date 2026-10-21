@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Feuertempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V18. Abschrift zum Durchgehen und Umschreiben; Sheiks fünf neue Nachrichten sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V19. Abschrift zum Durchgehen und Umschreiben; Die 15 neuen Nachrichten im Waldkapitel sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Wallace als Weise des Feuers, Feueramulett und unmittelbare Reaktionen nach dem Feuertempel. Boris, alle erwachsenen Kokiri-Zustände, Goronia, sämtliche platzierten Feuertempel-Gefangenen und optionale Nebenbegegnungen dieser Kapitel sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 
@@ -730,9 +730,10 @@ Sheik erneut angesprochen, Fanghaken vorhanden.
 
 **Seite 1**
 
-> Du hast den Haken. Nun zur alten
-> Freundin. Sie hat Dich früher auch
-> manchmal warten lassen, oder?
+> Ich sehe, Du verfügst nun über den
+> Fanghaken. Hast Du ihn Dir signieren
+> lassen? Der gehörte mal einem
+> großartigen Rennmeister.
 
 ## 3. Navis natürliche Story-Hinweise während des Waldkapitels
 
@@ -815,44 +816,40 @@ Boris stellt sich beim ersten Ansprechen vor; nach dem Rennen getrennte Meldunge
 
 > Ich bin vorgestern beim Verlassen der
 > Windmühle die Treppe runtergestürzt.
+> Für einen alten Mann wie mich war
+> das das Todesurteil.
 
 **Seite 4**
 
-> Das Grab ist noch frisch. Die große
-> Zeitbetrachtung war trotzdem
-> berechtigt.
+> Wettrennen waren stets der Kern
+> meiner Persönlichkeit. Boris, der
+> größte Renner Hyrules!
 
 **Seite 5**
-
-> Du weißt ja: Wettrennen waren stets
-> der Kern meiner Persönlichkeit. Boris,
-> der größte Renner Hyrules!
-
-**Seite 6**
 
 > Das habe ich ständig erzählt. Jeder
 > wußte es. Auch dieser Junge auf dem
 > Friedhof hat es immer gesagt.
 
-**Seite 7**
+**Seite 6**
 
 > Falls Du Dich nicht erinnerst: Es war
 > wirklich ein fester Teil meines
 > Charakters. Schon immer.
 
-**Seite 8**
+**Seite 7**
 
 > Uga Paluga! Meine alte Catchphrase.
 > Erinnerst Du Dich? Das habe ich
 > früher immer gesagt.
 
-**Seite 9**
+**Seite 8**
 
 > Renn noch einmal gegen mich! Dann
 > bekommst Du meinen Enterhaken.
 > Steht so im Testament.
 
-**Seite 10**
+**Seite 9**
 
 > Den brauchst Du für den Waldtempel.
 > Ohne den kommst Du da nicht rein.
@@ -875,29 +872,24 @@ Nach dem ersten Rennen: Fanghaken noch nicht im Inventar.
 
 **Seite 1**
 
-> Gewonnen! Genau wie damals.
-> Damals, als ich noch lebte. Also bis
-> vorgestern.
+> Noch einmal wollte ich auf irdischer
+> Welt wandeln, um gegen Dich, meinen
+> guten Freund, im Rennen anzutreten.
 
 **Seite 2**
 
-> Du erbst meinen Enterhaken. Im Menü
-> heißt er Fanghaken. Juristisch ist das
-> dasselbe Ding.
+> Du hast gewonnen. Nimm nun Deinen
+> Preis. Er soll Dir gute Dienste auf
+> Deinem Abenteuer erweisen.
 
 **Seite 3**
 
-> Damit ziehst Du Dich zum Eingang
-> des Waldtempels. Du weißt schon:
-> Dein nächster Dungeon.
+> Und wenn Du wiederkommst, dann
+> renn gerne wieder gegen Deinen
+> großen Rennsport-Boris-Kollegen an.
+> Uga Paluga, sage ich da!
 
 **Seite 4**
-
-> Komm wieder, wenn Du noch ein
-> Rennen willst. Ich war schon immer
-> der große Rennsport-Boris.
-
-**Seite 5**
 
 > Auf dem Rückweg geht es zur
 > Windmühle. Paß an der Treppe auf.
@@ -917,14 +909,13 @@ Alternative nach erneutem Rennen mit Fanghaken. Kein automatisch angehängter zw
 
 ### 0036
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Der Fanghaken!
-> Im Gegenstands-Menü kannst
-> Du ihn auf [C-Left], [C-Down] oder [C-Right]
-> plazieren.
+> Du hast den Fanghaken von
+> Boris geerbt, der so manch
+> ein Wettrennen gewonnen hat.
 
 **Seite 2**
 
@@ -1067,14 +1058,19 @@ Projekttext.
 
 ### 1057
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_5; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 
 **Seite 1**
 
-> Wenn Sie einen Bogen besitzen, 
-> können Sie im Laden Pfeile kaufen. 
-> Haben Sie einen Bogen?
+> Der ganze Wald ist zwar total
+> verkommen und voller Monster, aber
+> wenigstens kommen die importierten
+> Pfeile noch an. Werden jetzt im
+
+**Seite 2**
+
+> Laden verkauft.
 
 ### 1058
 
@@ -1121,31 +1117,28 @@ Projekttext.
 
 ### 104F
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_8; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 Direkte native Fortsetzung: 1050.
 
 **Seite 1**
 
-> Ein kalter, dämonischer Wind 
-> weht aus der Richtung des 
-> Waldtempels.
-
-**Seite 2**
-
-> Salia ist fort. Sie sagte, sie 
-> wolle etwas dagegen unternehmen!
+> Ich habe den Mann, der sich Philipp
+> nennt, oft beobachtet. Ich stelle fest,
+> er ist ein Loser. Und Charisma hat er
+> auch nicht.
 
 ### 1050
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_8; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 
 **Seite 1**
 
-> Der Waldtempel befindet sich bei 
-> der Heiligen Lichtung, tief in
-> den Verlorenen Wäldern.
+> Falls Du ihn suchst: Die Villa von
+> diesem Philipp Amthor findest Du an
+> der Heiligen Lichtung, tief in den
+> Verlorenen Wäldern.
 
 ### 1051
 
@@ -1159,37 +1152,49 @@ Projekttext.
 
 ### 1052
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_10; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 
 **Seite 1**
 
-> Sie können mit Sicherheit keinen
-> Deku-Schild mehr benutzen, dafür
-> sind Sie zu alt!
+> Yeah, der Deku-Schild ist wohl zu
+> klein für Sie geworden. Das liegt
+> daran, daß Sie so riesige
+> Monsterhände haben. Also, aus meiner
+
+**Seite 2**
+
+> Perspektive sind das Monsterhände.
+> Ich bin mein ganzes Leben lang ein
+> Kind gewesen.
 
 ### 1053
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_11; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 Direkte native Fortsetzung: 1054.
 
 **Seite 1**
 
-> Wo Salia ist? 
-> Sie kennen Salia?
-> Das ist merkwürdig...
+> Oh, Sie fragen nach Salia? Die finden
+> Sie in den Verlorenen Wäldern.
 
 ### 1054
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_11; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 
 **Seite 1**
 
-> Mido ist seit einiger Zeit
-> verschwunden... Wo er wohl 
-> steckt?
+> Jetzt ist nicht nur Salia
+> verschwunden, sondern auch noch
+> Mido. Was ist, wenn der Kokiri, der
+> im Laden arbeitet, als nächstes
+
+**Seite 2**
+
+> verschwindet? Wo soll ich denn
+> sonst meine Pfeile kaufen?
 
 ## 6. Verlorene Wälder – Mido vor dem Waldtempel
 
@@ -1232,27 +1237,21 @@ Wiederholung bei erneutem Ansprechen nach 1060.
 
 ### 1067
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Midos Reaktion auf Salias Lied; eigenes Ereignis im Gespräch.
 Direkte native Fortsetzung: 106F.
 
 **Seite 1**
 
-> Diese Melodie?!
+> Oh Mann, ich faß es nicht! Wolltest
+> Du mich gerade ernsthaft mit der
+> Blutmagie kontrollieren? Nein? Oh.
+> Dann habe ich Dich falsch
 
 **Seite 2**
 
-> Salia hat sie geschrieben! 
-> Sie... Sie kennen Salia?
-
-**Seite 3**
-
-> Das Lied...
-
-**Seite 4**
-
-> Salia hat das Lied nur ihren 
-> engsten Freunden beigebracht...
+> eingeschätzt, tut mir leid. Okay, bitte
+> befreie diesen Wald, okay?
 
 ### 106F
 
@@ -1271,11 +1270,16 @@ Mido nach dem Lied-/Durchgangsereignis, vor der Tempelbefreiung.
 
 **Seite 1**
 
-> Gut, Du kennst das Lied. Ich finde
-> Dich trotzdem noch scheiße. Sieben
-> Jahre ändern daran nichts.
+> Und Du warst echt in einem Wal? In
+> einem Wal drin? Das ist ja verrückt!
+> Aber dann scheinst Du ja auf einem
+> guten Weg zu sein. Ich habe Dich
 
 **Seite 2**
+
+> unterschätzt.
+
+**Seite 3**
 
 > Wenn Friedrich Merz besiegt ist, bin
 > ich mit König Zora für die Siegesfeier
@@ -1340,14 +1344,15 @@ Projekttext.
 **Seite 1**
 
 > Der Wald ist grün, und Mr. Bean war
-> kühn. Er gab sein Leben, um dieses
-> Land zu schützen.
+> sehr kühn. Er gab sein Leben, um
+> dieses Land zu schützen.
 
 **Seite 2**
 
-> Und Friedrich Merz ist Algengrütze.
-> Hier im Wald wächst so mancher Pilz.
-> Und nun auch Du, Du Knilch.
+> Friedrich Merz ist die ganze Zeit nur
+> am Grützen. Hier im Wald wächst so
+> mancher Pilz. Philipp Amthor ist ein
+> schwacher Knilch.
 
 **Seite 3**
 
@@ -1362,10 +1367,10 @@ Projekttext.
 
 **Seite 5**
 
-> Es bringt Dich hierher zurück. Im
-> Tempel wartet eine alte Freundin. Sie
-> hat früher schon Dinge ins Rollen
-> gebracht.
+> Im Tempel wartet eine alte Freundin
+> auf Dich. Du bist ihr schon mal
+> begegnet, und die Wiedervereinigung
+> wird süß.
 
 ### 0073
 
@@ -1511,14 +1516,14 @@ Projekttext.
 
 ### 0031
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Der Feen-Bogen!
-> Im Gegenstands-Menü kannst
-> Du ihn auf [C-Left], [C-Down] oder [C-Right]
-> plazieren.
+> Das ist der Feenbogen. Navis
+> Kollegen haben den gebaut.
+> Die besten Feenbogenbauer in
+> ganz Hyrule.
 
 **Seite 2**
 
@@ -1648,21 +1653,19 @@ Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(60), FADE(60)
 
 **Seite 1**
 
-> Du hast Dich tapfer geschlagen... Es
-> scheint, daß Du viel gelernt hast!
-> Jedoch...
+> Du bist stärker, als ich dachte. Dabei
+> hast Du sieben Jahre lang gefaulenzt!
 
 **Seite 2**
 
-> Du hast nur Amthor besiegt! Trittst
-> Du meinem wahren Ich gegenüber,
-> wirst Du vernichtet!
+> Philipp Amthor besiegen kann jeder.
+> Der Typ ist eine Flasche.
 
 **Seite 3**
 
-> Ich werde Amthor nun in den Hades
-> verbannen, denn er hat seinen
-> Schöpfer enttäuscht!
+> Deshalb werde ich ihn nun in den
+> Hades verbannen. Er hat seinen
+> Kanzler enttäuscht!
 
 ## 12. Waldweise – Krabbelminen-Frau und Waldamulett
 
