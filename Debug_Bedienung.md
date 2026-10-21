@@ -49,6 +49,8 @@ Das Steuerkreuz wählt ein Feld. Die C-Tasten verändern den Wert. Bei Rubinen: 
 
 Der Editor bietet Gegenstände, Munition, Herzen, Schlüssel, Verbesserungen, Ausrüstungsbesitz, Lieder, Steine und Amulette. Für einen bestimmten Handlungsstand eignet sich am besten eine Kopie eines entsprechend weit gespielten Spielstands.
 
+Bei den vier Ausrüstungsfeldern rechts stehen die Ziffern für Schwert, Schild, Gewand und Stiefel. Dort schalten C-links, C-unten und C-rechts jeweils das erste, zweite und dritte Ausrüstungsteil ein oder aus. Für Eisenstiefel das ganz rechte Feld markieren und C-unten drücken: Aus 1 wird 3 (normale plus Eisenstiefel). 7 bedeutet alle drei Stiefelpaare. Anschließend als Erwachsener im normalen Spiel mit Steuerkreuz unten umschalten.
+
 ## Testspielstände
 
 Für die Debugversion eine **eigene Kopie des Spielstands** verwenden: Änderungen aus dem Editor können beim normalen Speichern dauerhaft werden. Je nach Emulator muß die SRAM-Datei dem Namen/der Kennung der Debug-ROM zugeordnet werden. Keine Savestates einer anderen ROM-Version laden.

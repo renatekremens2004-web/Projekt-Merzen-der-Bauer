@@ -1,3 +1,9 @@
+# Getrennte Erst- und Wiederholungsdialoge
+
+[Normaler Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_NPC_Dialoge.bps?raw=true) · [Debug-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_NPC_Dialoge.bps?raw=true) · [Änderungen/Prüfung](NPC_Dialoge_Aenderungen.md) · [Quellen](Merzen_NPC_Dialoge_Quellen_Patch.zip?raw=true)
+
+Alle bisherigen Inhalte. 35 bestätigte Erst-/Wiederholungs-Paare getrennt; die Gesichtsfrau sagt beim ersten Mal nur noch die Pointe. Deutsch, Vanilla PAL 1.0, jeweils nur einen Gesamtpatch anwenden. Debugsteuerung unverändert.
+
 # Debugversion und passende Gewandicons
 
 [Debug-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG.bps?raw=true) · [Normaler Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Gewandicons.bps?raw=true) · [Bedienung](Debug_Bedienung.md) · [Bilder](Debug_Beispielbilder/) · [Quellen](Merzen_Debug_Gewandicons_Quellen_Patch.zip?raw=true)
