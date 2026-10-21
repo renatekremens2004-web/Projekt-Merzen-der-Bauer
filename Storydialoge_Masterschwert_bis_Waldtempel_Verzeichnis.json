@@ -1,6 +1,6 @@
 {
-  "source_sha256": "a6d356229ae0b09269a9a112cffebb9f8ab7280d1c76abd4fa3933ac8d223d5c",
-  "rom_reference_sha256": "bcb38b4007b603291c341fadd55f34347511d2e65b1d0360409d4a4e2e462fc3",
+  "source_sha256": "e40b2176fd07aade774c6a2f4861c6eeb7530ec956c155612ecdce04fffe8f6a",
+  "rom_reference_sha256": "86800b91b181b1110145d024be4b7dbc4ba594ed434b55bac78e85ae423550e2",
   "scope": "Erwachen bis Waldtempel-Abschluß und unmittelbare Reaktionen",
   "cutscene_coverage": [
     {
@@ -1822,11 +1822,12 @@
       "id": "10B7",
       "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
       "kind": "Nebenhandlung",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Er ist nicht mehr hier...",
-        "Jedes Wesen, das kein Kokiri ist,\nist in diesen Wäldern verloren.",
-        "Sicher hat er sich inzwischen\nauch in eine Pflanze verwandelt.\nAlles, was von ihm übrig blieb,\nist diese Säge hier."
+        "Keine Sorge, ich habe dem Typen\ngezeigt, wie man hier aus dem Wald\nrauskommt. Also dem wird's schon\ngut gehen. Oder warte, ich glaube,",
+        "ich habe ihm... Oh nein. Ich habe ihm\ndie falsche Richtung gesagt. Ach,\nwird schon passen."
       ],
       "controls": [
         "TEXTID(0x10B8)"
@@ -1852,9 +1853,11 @@
       "id": "10B9",
       "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
       "kind": "Nebenhandlung",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Wirst auch Du Dich verwandeln?"
+        "Wenn Du dem Typen begegnest, dann\nwarne ihn vor dem Waldmonster."
       ],
       "controls": [],
       "notes": " Kokiri-Typ CHILD_FADO; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
@@ -1880,11 +1883,12 @@
       "id": "10DF",
       "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
       "kind": "Nebenhandlung",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Der, den Du suchst,\nist nicht mehr hier...",
-        "Jeder, der diesen Wald betritt und \nkein Kokiri ist, ist verdammt...",
-        "Jeder...\nSicher hat er sich schon längst in \neine Pflanze verwandelt..."
+        "Keine Sorge, ich habe dem Typen\ngezeigt, wie man hier aus dem Wald\nrauskommt. Also dem wird's schon\ngut gehen. Oder warte, ich glaube,",
+        "ich habe ihm... Oh nein. Ich habe ihm\ndie falsche Richtung gesagt. Ach,\nwird schon passen."
       ],
       "controls": [],
       "notes": "",

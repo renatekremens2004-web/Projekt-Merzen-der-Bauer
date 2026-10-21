@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Waldtempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V21. Abschrift zum Durchgehen und Umschreiben; Die 16 neuen Nachrichten zu Goronia und Feuertempel sind enthalten; alle anderen Nachrichten bleiben unverändert.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V22. Abschrift zum Durchgehen und Umschreiben; Die sechs neuen Nachrichten zu Wallace und dem Nachspiel sind enthalten; alle anderen Nachrichten bleiben unverändert.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Waldweise, Tripple T und unmittelbare Reaktionen nach dem Waldtempel. Boris, alle erwachsenen Kokiri-Zustände und optionale Nebenbegegnungen dieses Kapitels sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 
@@ -2199,24 +2199,21 @@ _Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
 
 ### 10B7
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Direkte native Fortsetzung: 10B8.
 
 **Seite 1**
 
-Er ist nicht mehr hier...
+Keine Sorge, ich habe dem Typen
+gezeigt, wie man hier aus dem Wald
+rauskommt. Also dem wird's schon
+gut gehen. Oder warte, ich glaube,
 
 **Seite 2**
 
-Jedes Wesen, das kein Kokiri ist,
-ist in diesen Wäldern verloren.
-
-**Seite 3**
-
-Sicher hat er sich inzwischen
-auch in eine Pflanze verwandelt.
-Alles, was von ihm übrig blieb,
-ist diese Säge hier.
+ich habe ihm... Oh nein. Ich habe ihm
+die falsche Richtung gesagt. Ach,
+wird schon passen.
 
 ### 10B8
 
@@ -2233,12 +2230,13 @@ _Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
 
 ### 10B9
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_FADO; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 
 **Seite 1**
 
-Wirst auch Du Dich verwandeln?
+Wenn Du dem Typen begegnest, dann
+warne ihn vor dem Waldmonster.
 
 ### 10BA
 
@@ -2251,23 +2249,20 @@ Für Streit bitte an Mido wenden.
 
 ### 10DF
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-Der, den Du suchst,
-ist nicht mehr hier...
+Keine Sorge, ich habe dem Typen
+gezeigt, wie man hier aus dem Wald
+rauskommt. Also dem wird's schon
+gut gehen. Oder warte, ich glaube,
 
 **Seite 2**
 
-Jeder, der diesen Wald betritt und 
-kein Kokiri ist, ist verdammt...
-
-**Seite 3**
-
-Jeder...
-Sicher hat er sich schon längst in 
-eine Pflanze verwandelt...
+ich habe ihm... Oh nein. Ich habe ihm
+die falsche Richtung gesagt. Ach,
+wird schon passen.
 
 ## D. Gemeinsame Dungeon-Fundtexte
 

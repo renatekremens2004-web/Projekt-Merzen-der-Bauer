@@ -1,6 +1,6 @@
 {
-  "source_sha256": "a6d356229ae0b09269a9a112cffebb9f8ab7280d1c76abd4fa3933ac8d223d5c",
-  "rom_reference_sha256": "bcb38b4007b603291c341fadd55f34347511d2e65b1d0360409d4a4e2e462fc3",
+  "source_sha256": "e40b2176fd07aade774c6a2f4861c6eeb7530ec956c155612ecdce04fffe8f6a",
+  "rom_reference_sha256": "86800b91b181b1110145d024be4b7dbc4ba594ed434b55bac78e85ae423550e2",
   "scope": "Schwert gezogen / Erwachen bis Feuertempel-Abschluß und unmittelbare Reaktionen",
   "fire_prisoner_placements": [
     {
@@ -2333,16 +2333,18 @@
         "feuertempel_wallace_de.json"
       ],
       "pages": [
-        "Oh, hi, lad! Wallace hier. Sieben\nJahre hab ich hier geforscht. Jetzt\nkenne ich mehr heiße Ecken als\nKäsesorten!",
-        "Seit Merz hier das Sagen hat, ist es\nungemütlich. Wo gehobelt wird, fallen\nSpäne. Bei dem Mann fällt gleich die\nganze Hütte.",
-        "Seine Leute nennen das Schichtarbeit.\nIch nenne das: Ich sitze in einer\nZelle. Nicht einmal eine Käseglocke\nist so hermetisch!",
-        "Vielleicht kannst Du etwas machen?\nDas ist kein Aufruf zur Sabotage. Ich\nwill bloß wieder in Ruhe mein\nKäsebrot schmieren.",
-        "Hier im Tempel liegt meine neueste\nErfindung: der Wallace Hammer! Not\nmacht erfinderisch. Merz macht leider\nvor allem Not.",
-        "Der zerschlägt Gestein und Schalter.\nFür die Käserinde ist er etwas\nüberdimensioniert. Man soll ja nicht\nmit Hämmern auf Gouda hauen.",
-        "Du findest den Hammer weiter oben\nim Tempel. Ich geh schon mal. Erst\ndie Arbeit, dann das Käsebrot. Danke,\nlad!"
+        "Oh, hi, lad! Wallace hier. Schön, Dich\nwiederzusehen! Danke, daß Du mich\nbefreit hast. Du bist ein schlaues\nBürschchen.",
+        "Ich sehe, Du trägst mein Outfit. Das\nwar ursprünglich ein Prototyp, aber\nich freue mich, daß er funktioniert!",
+        "Die letzte Zeit war schrecklich für\nmich. Friedrich Merz hat mich hier\nfestgehalten und gezwungen, Tag und\nNacht an Projekt Atom-Donnerblume",
+        "zu arbeiten.",
+        "Es tut mir so leid, lad. Aber hätte\nich mich geweigert, hätte er diesen\nfurchtbaren Drachen auf die\nunschuldigen Bewohnerinnen und",
+        "Bewohner Kakarikos gehetzt. Das\nkonnte ich einfach nicht zulassen.",
+        "Deswegen habe ich einen besonderen\nHammer entwickelt. Merz fand das\nheraus und sperrte mich aus Zorn in\ndiese Zelle.",
+        "Bitte finde diesen Hammer. Ich selbst\nwerde mich nun zu dem Drachen\nbegeben und meinem Schicksal ins\nAuge blicken.",
+        "Ich habe noch ein Stück Gouda in der\nTasche. Vielleicht läßt sich die\nDrachendame damit besänftigen. Wir\ntreffen uns dort, lad!"
       ],
       "controls": [],
-      "notes": "Wallace nach der Befreiung, hinter dem gemeinsamen Befreiungs-Auftakt 3071. Er ersetzt hier den Gefangenen mit Schalterindex 3 und damit dessen normalen Ratschlag 3069.",
+      "notes": "V22: Wallace nach der Befreiung; Outfit-Prototyp, Zwangsprojekt, Hammer und Gouda für den Drachen. Hinter dem gemeinsamen Befreiungs-Auftakt 3071. Er ersetzt hier den Gefangenen mit Schalterindex 3 und damit dessen normalen Ratschlag 3069.",
       "locations": []
     },
     {
@@ -2461,24 +2463,29 @@
       "id": "3041",
       "section": "25. Nach dem Feuertempel – Goronia und Navis nächster Hinweis",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Bruder [Spielername]!\nDaddy ist zurück!\nUnd auch die anderen!",
-        "Vater und Du, ihr habt den\nDrachen gemeinsam bezwungen!"
+        "Du hast es geschafft,\n[Spielername]! Der Drache wurde\nbesiegt. Mein Vater ist auch zurück.\nAber wo ist Wallace?"
       ],
       "controls": [
         "TEXTID(0x3042)"
       ],
-      "notes": "Darunias Sohn nach dem Feueramulett: erste Ansprache, mit direkter Fortsetzung 3042. Der alte Satz über Daddys Rückkehr ist im aktuellen Bestand noch enthalten.",
+      "notes": "Darunias Sohn nach dem Feueramulett: erste Ansprache, mit direkter Fortsetzung 3042. V22: Vater ist zurück; der Sohn fragt nach Wallace.",
       "locations": []
     },
     {
       "id": "3042",
       "section": "25. Nach dem Feuertempel – Goronia und Navis nächster Hinweis",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Wenn ich groß bin, möchte\nich genauso werden wie Du, \n[Spielername]!"
+        "Wenn ich groß bin, möchte ich\ngenauso werden wie die großen\nMänner in meinem Leben, von denen\nich gelernt habe.",
+        "Mein Vater, das mutige Oberhaupt\nder Goronen. Du, [Spielername],\nder mutige Junge, der uns zweimal\nden steinigen Arsch gerettet hat. Und",
+        "Wallace, ein Forscher, der sein Herz\nimmer am rechten Fleck hatte."
       ],
       "controls": [],
       "notes": "Nach dem Feueramulett: Wiederholung bzw. direkte Fortsetzung von 3041.",
@@ -2607,11 +2614,12 @@
       "id": "10B7",
       "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
       "kind": "Nebenhandlung",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Er ist nicht mehr hier...",
-        "Jedes Wesen, das kein Kokiri ist,\nist in diesen Wäldern verloren.",
-        "Sicher hat er sich inzwischen\nauch in eine Pflanze verwandelt.\nAlles, was von ihm übrig blieb,\nist diese Säge hier."
+        "Keine Sorge, ich habe dem Typen\ngezeigt, wie man hier aus dem Wald\nrauskommt. Also dem wird's schon\ngut gehen. Oder warte, ich glaube,",
+        "ich habe ihm... Oh nein. Ich habe ihm\ndie falsche Richtung gesagt. Ach,\nwird schon passen."
       ],
       "controls": [
         "TEXTID(0x10B8)"
@@ -2637,9 +2645,11 @@
       "id": "10B9",
       "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
       "kind": "Nebenhandlung",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Wirst auch Du Dich verwandeln?"
+        "Wenn Du dem Typen begegnest, dann\nwarne ihn vor dem Waldmonster."
       ],
       "controls": [],
       "notes": " Kokiri-Typ CHILD_FADO; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.",
@@ -2665,11 +2675,12 @@
       "id": "10DF",
       "section": "C. Fado – optionale erwachsene Tauschquest, unabhängig vom Waldtempel",
       "kind": "Nebenhandlung",
-      "project_sources": [],
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
       "pages": [
-        "Der, den Du suchst,\nist nicht mehr hier...",
-        "Jeder, der diesen Wald betritt und \nkein Kokiri ist, ist verdammt...",
-        "Jeder...\nSicher hat er sich schon längst in \neine Pflanze verwandelt..."
+        "Keine Sorge, ich habe dem Typen\ngezeigt, wie man hier aus dem Wald\nrauskommt. Also dem wird's schon\ngut gehen. Oder warte, ich glaube,",
+        "ich habe ihm... Oh nein. Ich habe ihm\ndie falsche Richtung gesagt. Ach,\nwird schon passen."
       ],
       "controls": [],
       "notes": "",

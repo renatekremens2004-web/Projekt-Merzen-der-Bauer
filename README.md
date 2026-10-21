@@ -1,3 +1,11 @@
+# Wallace und Nachspiel V22
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Wallace_V22.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Wallace_V22.bps?raw=true) · [Sechs neue Texte](Wallace_V22_Aenderungen.md) · [Quellen](Merzen_Wallace_V22_Quellen_Patch.zip?raw=true)
+
+[Neue Dialogliste bis Wassertempel](Storydialoge_nach_Feuertempel_bis_Wassertempel.md) · [Als TXT](Storydialoge_nach_Feuertempel_bis_Wassertempel.txt?raw=true)
+
+Wallace nach der Befreiung, Goronia-Nachspiel und Fados Tauschquest-Texte überarbeitet. Neue Arbeitsliste bis Wassertempel; feste Textzeiten erhalten. Alle bisherigen Änderungen enthalten; jeweils auf unveränderte PAL 1.0 anwenden.
+
 # Arbeitsliste: nach Feuertempel bis Wassertempel
 
 [Alle Dialoge lesen](Storydialoge_nach_Feuertempel_bis_Wassertempel.md) · [TXT herunterladen](Storydialoge_nach_Feuertempel_bis_Wassertempel.txt?raw=true) · [ZIP herunterladen](Storydialoge_nach_Feuertempel_bis_Wassertempel.zip?raw=true)

@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Feuertempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V21. Abschrift zum Durchgehen und Umschreiben; Die 16 neuen Nachrichten zu Goronia und Feuertempel sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V22. Abschrift zum Durchgehen und Umschreiben; Die sechs neuen Nachrichten zu Wallace und dem Nachspiel sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Wallace als Weise des Feuers, Feueramulett und unmittelbare Reaktionen nach dem Feuertempel. Boris, alle erwachsenen Kokiri-Zustände, Goronia, sämtliche platzierten Feuertempel-Gefangenen und optionale Nebenbegegnungen dieser Kapitel sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 
@@ -2793,56 +2793,64 @@ wird!
 ### 209D
 
 Projekttext.
-Wallace nach der Befreiung, hinter dem gemeinsamen Befreiungs-Auftakt 3071. Er ersetzt hier den Gefangenen mit Schalterindex 3 und damit dessen normalen Ratschlag 3069.
+V22: Wallace nach der Befreiung; Outfit-Prototyp, Zwangsprojekt, Hammer und Gouda für den Drachen. Hinter dem gemeinsamen Befreiungs-Auftakt 3071. Er ersetzt hier den Gefangenen mit Schalterindex 3 und damit dessen normalen Ratschlag 3069.
 
 **Seite 1**
 
-Oh, hi, lad! Wallace hier. Sieben
-Jahre hab ich hier geforscht. Jetzt
-kenne ich mehr heiße Ecken als
-Käsesorten!
+Oh, hi, lad! Wallace hier. Schön, Dich
+wiederzusehen! Danke, daß Du mich
+befreit hast. Du bist ein schlaues
+Bürschchen.
 
 **Seite 2**
 
-Seit Merz hier das Sagen hat, ist es
-ungemütlich. Wo gehobelt wird, fallen
-Späne. Bei dem Mann fällt gleich die
-ganze Hütte.
+Ich sehe, Du trägst mein Outfit. Das
+war ursprünglich ein Prototyp, aber
+ich freue mich, daß er funktioniert!
 
 **Seite 3**
 
-Seine Leute nennen das Schichtarbeit.
-Ich nenne das: Ich sitze in einer
-Zelle. Nicht einmal eine Käseglocke
-ist so hermetisch!
+Die letzte Zeit war schrecklich für
+mich. Friedrich Merz hat mich hier
+festgehalten und gezwungen, Tag und
+Nacht an Projekt Atom-Donnerblume
 
 **Seite 4**
 
-Vielleicht kannst Du etwas machen?
-Das ist kein Aufruf zur Sabotage. Ich
-will bloß wieder in Ruhe mein
-Käsebrot schmieren.
+zu arbeiten.
 
 **Seite 5**
 
-Hier im Tempel liegt meine neueste
-Erfindung: der Wallace Hammer! Not
-macht erfinderisch. Merz macht leider
-vor allem Not.
+Es tut mir so leid, lad. Aber hätte
+ich mich geweigert, hätte er diesen
+furchtbaren Drachen auf die
+unschuldigen Bewohnerinnen und
 
 **Seite 6**
 
-Der zerschlägt Gestein und Schalter.
-Für die Käserinde ist er etwas
-überdimensioniert. Man soll ja nicht
-mit Hämmern auf Gouda hauen.
+Bewohner Kakarikos gehetzt. Das
+konnte ich einfach nicht zulassen.
 
 **Seite 7**
 
-Du findest den Hammer weiter oben
-im Tempel. Ich geh schon mal. Erst
-die Arbeit, dann das Käsebrot. Danke,
-lad!
+Deswegen habe ich einen besonderen
+Hammer entwickelt. Merz fand das
+heraus und sperrte mich aus Zorn in
+diese Zelle.
+
+**Seite 8**
+
+Bitte finde diesen Hammer. Ich selbst
+werde mich nun zu dem Drachen
+begeben und meinem Schicksal ins
+Auge blicken.
+
+**Seite 9**
+
+Ich habe noch ein Stück Gouda in der
+Tasche. Vielleicht läßt sich die
+Drachendame damit besänftigen. Wir
+treffen uns dort, lad!
 
 ## 23. Wallace Hammer und Volvagia
 
@@ -2981,31 +2989,40 @@ braver Junge!
 
 ### 3041
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
-Darunias Sohn nach dem Feueramulett: erste Ansprache, mit direkter Fortsetzung 3042. Der alte Satz über Daddys Rückkehr ist im aktuellen Bestand noch enthalten.
+Projekttext.
+Darunias Sohn nach dem Feueramulett: erste Ansprache, mit direkter Fortsetzung 3042. V22: Vater ist zurück; der Sohn fragt nach Wallace.
 Direkte native Fortsetzung: 3042.
 
 **Seite 1**
 
-Bruder [Spielername]!
-Daddy ist zurück!
-Und auch die anderen!
-
-**Seite 2**
-
-Vater und Du, ihr habt den
-Drachen gemeinsam bezwungen!
+Du hast es geschafft,
+[Spielername]! Der Drache wurde
+besiegt. Mein Vater ist auch zurück.
+Aber wo ist Wallace?
 
 ### 3042
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Nach dem Feueramulett: Wiederholung bzw. direkte Fortsetzung von 3041.
 
 **Seite 1**
 
-Wenn ich groß bin, möchte
-ich genauso werden wie Du, 
-[Spielername]!
+Wenn ich groß bin, möchte ich
+genauso werden wie die großen
+Männer in meinem Leben, von denen
+ich gelernt habe.
+
+**Seite 2**
+
+Mein Vater, das mutige Oberhaupt
+der Goronen. Du, [Spielername],
+der mutige Junge, der uns zweimal
+den steinigen Arsch gerettet hat. Und
+
+**Seite 3**
+
+Wallace, ein Forscher, der sein Herz
+immer am rechten Fleck hatte.
 
 ### 3043
 
@@ -3166,24 +3183,21 @@ _Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
 
 ### 10B7
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Direkte native Fortsetzung: 10B8.
 
 **Seite 1**
 
-Er ist nicht mehr hier...
+Keine Sorge, ich habe dem Typen
+gezeigt, wie man hier aus dem Wald
+rauskommt. Also dem wird's schon
+gut gehen. Oder warte, ich glaube,
 
 **Seite 2**
 
-Jedes Wesen, das kein Kokiri ist,
-ist in diesen Wäldern verloren.
-
-**Seite 3**
-
-Sicher hat er sich inzwischen
-auch in eine Pflanze verwandelt.
-Alles, was von ihm übrig blieb,
-ist diese Säge hier.
+ich habe ihm... Oh nein. Ich habe ihm
+die falsche Richtung gesagt. Ach,
+wird schon passen.
 
 ### 10B8
 
@@ -3200,12 +3214,13 @@ _Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
 
 ### 10B9
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Kokiri-Typ CHILD_FADO; Auswahl abhängig vom Waldamulett und ggf. der jeweiligen Ansprache-Markierung. Keine fortlaufende Gesamtrede aller hier aufgelisteten Bewohner.
 
 **Seite 1**
 
-Wirst auch Du Dich verwandeln?
+Wenn Du dem Typen begegnest, dann
+warne ihn vor dem Waldmonster.
 
 ### 10BA
 
@@ -3218,23 +3233,20 @@ Für Streit bitte an Mido wenden.
 
 ### 10DF
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-Der, den Du suchst,
-ist nicht mehr hier...
+Keine Sorge, ich habe dem Typen
+gezeigt, wie man hier aus dem Wald
+rauskommt. Also dem wird's schon
+gut gehen. Oder warte, ich glaube,
 
 **Seite 2**
 
-Jeder, der diesen Wald betritt und 
-kein Kokiri ist, ist verdammt...
-
-**Seite 3**
-
-Jeder...
-Sicher hat er sich schon längst in 
-eine Pflanze verwandelt...
+ich habe ihm... Oh nein. Ich habe ihm
+die falsche Richtung gesagt. Ach,
+wird schon passen.
 
 ## D. Gemeinsame Dungeon-Fundtexte
 

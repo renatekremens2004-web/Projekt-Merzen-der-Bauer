@@ -1,125 +1,65 @@
 {
-  "stand": "V21",
+  "stand": "V22",
   "build_verification": {
     "messages_changed": [
-      "3035",
-      "3036",
-      "3037",
-      "3038",
-      "3039",
-      "3040",
-      "3051",
-      "3052",
-      "306A",
-      "306B",
-      "306C",
-      "306D",
-      "306E",
-      "306F",
-      "3070",
-      "3071"
+      "10B7",
+      "10B9",
+      "10DF",
+      "209D",
+      "3041",
+      "3042"
     ],
     "all_other_ids_and_languages_unchanged": true,
     "native_functional_controls_identical": true,
     "all_native_delays_and_fades_preserved": true,
-    "only_requested_sixteen_German_messages_changed": true,
+    "only_requested_six_German_messages_changed": true,
     "navi_hint_routing_not_modified": true,
     "text_buffers": {
-      "changed_messages": 16,
+      "changed_messages": 6,
       "raw_buffer_bytes": 1280,
       "decoded_buffer_bytes": 200,
-      "largest_raw_message_bytes": 989,
-      "largest_decoded_page_upper_bound": 148,
+      "largest_raw_message_bytes": 960,
+      "largest_decoded_page_upper_bound": 142,
       "all_within_buffers": true,
       "messages": {
-        "3035": {
-          "raw_bytes": 543,
-          "decoded_page_upper_bound": 143,
-          "pages": 6
+        "209D": {
+          "raw_bytes": 960,
+          "decoded_page_upper_bound": 142,
+          "pages": 9
         },
-        "3036": {
-          "raw_bytes": 575,
-          "decoded_page_upper_bound": 141,
-          "pages": 6
+        "3041": {
+          "raw_bytes": 106,
+          "decoded_page_upper_bound": 112,
+          "pages": 1
         },
-        "3037": {
-          "raw_bytes": 366,
-          "decoded_page_upper_bound": 134,
-          "pages": 4
+        "3042": {
+          "raw_bytes": 310,
+          "decoded_page_upper_bound": 133,
+          "pages": 3
         },
-        "3038": {
-          "raw_bytes": 184,
+        "10B7": {
+          "raw_bytes": 235,
+          "decoded_page_upper_bound": 137,
+          "pages": 2
+        },
+        "10DF": {
+          "raw_bytes": 230,
           "decoded_page_upper_bound": 136,
           "pages": 2
         },
-        "3040": {
-          "raw_bytes": 95,
-          "decoded_page_upper_bound": 101,
+        "10B9": {
+          "raw_bytes": 67,
+          "decoded_page_upper_bound": 66,
           "pages": 1
-        },
-        "3039": {
-          "raw_bytes": 989,
-          "decoded_page_upper_bound": 148,
-          "pages": 11
-        },
-        "3051": {
-          "raw_bytes": 110,
-          "decoded_page_upper_bound": 109,
-          "pages": 1
-        },
-        "3071": {
-          "raw_bytes": 41,
-          "decoded_page_upper_bound": 40,
-          "pages": 1
-        },
-        "3052": {
-          "raw_bytes": 75,
-          "decoded_page_upper_bound": 74,
-          "pages": 1
-        },
-        "306A": {
-          "raw_bytes": 108,
-          "decoded_page_upper_bound": 107,
-          "pages": 1
-        },
-        "306B": {
-          "raw_bytes": 382,
-          "decoded_page_upper_bound": 144,
-          "pages": 3
-        },
-        "306C": {
-          "raw_bytes": 110,
-          "decoded_page_upper_bound": 109,
-          "pages": 1
-        },
-        "306D": {
-          "raw_bytes": 141,
-          "decoded_page_upper_bound": 95,
-          "pages": 2
-        },
-        "306E": {
-          "raw_bytes": 155,
-          "decoded_page_upper_bound": 146,
-          "pages": 2
-        },
-        "306F": {
-          "raw_bytes": 64,
-          "decoded_page_upper_bound": 63,
-          "pages": 1
-        },
-        "3070": {
-          "raw_bytes": 159,
-          "decoded_page_upper_bound": 144,
-          "pages": 2
         }
       }
     },
     "builds": {
       "normal": {
-        "sha256": "bcb38b4007b603291c341fadd55f34347511d2e65b1d0360409d4a4e2e462fc3",
+        "sha256": "86800b91b181b1110145d024be4b7dbc4ba594ed434b55bac78e85ae423550e2",
         "crc": [
-          "1988A8DE",
-          "A67CCAFD"
+          "199CC65E",
+          "B3AD4D87"
         ],
         "changed_segments": [
           "makerom",
@@ -131,10 +71,10 @@
         "models_unchanged_and_game_logic_unchanged_except_linker_addresses": true
       },
       "debug": {
-        "sha256": "fc8e0d7b3d9ad18b66662afca5c81f9d5779c03b7de524041a9538a966074452",
+        "sha256": "0ed376397f25f0a432639e266e730cca102c92945d5fc8d70fcd30d2c651efcc",
         "crc": [
-          "1998AAE6",
-          "B490949B"
+          "19AD05E6",
+          "BAAE26DC"
         ],
         "changed_segments": [
           "makerom",
@@ -150,13 +90,13 @@
   "export_verification": {
     "forest": {
       "ids": 116,
-      "pages": 287,
+      "pages": 285,
       "all_pages_match_current_source": true,
       "source_and_rom_hashes_match": true
     },
     "full": {
       "ids": 164,
-      "pages": 419,
+      "pages": 420,
       "all_pages_match_current_source": true,
       "source_and_rom_hashes_match": true
     }
