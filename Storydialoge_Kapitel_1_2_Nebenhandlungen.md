@@ -1,8 +1,8 @@
 # Storydialoge Kapitel 1–2 – Nebenhandlungen und Bewohner
 
-Stand: 21. Oktober 2026, Charakterbewegung V4 (aktuell gebauter deutscher PAL-1.0-Stand).
+Stand: 21. Oktober 2026, Kokiri-Dialoge V7 (aktuell gebauter deutscher PAL-1.0-Stand).
 
-Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Keine Textänderung am Spiel vorgenommen.
+Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-/Deku-Baum-Änderungen V7.
 
 Geltungsbereich: Kind-Link vom Intro über Deku-Baum, erste Zelda-Begegnung, Kakariko, Salias Lied, Goronia und Dodongos Höhle bis zum Übergang zu den Zoras. Die Farm und andere frei erreichbare Nebenhandlungen können in unterschiedlicher Reihenfolge besucht werden.
 

@@ -1,8 +1,8 @@
 # Storydialoge Kapitel 1–2 – Hauptstrang bis vor die Zoras
 
-Stand: 21. Oktober 2026, Charakterbewegung V4 (aktuell gebauter deutscher PAL-1.0-Stand).
+Stand: 21. Oktober 2026, Kokiri-Dialoge V7 (aktuell gebauter deutscher PAL-1.0-Stand).
 
-Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Keine Textänderung am Spiel vorgenommen.
+Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-/Deku-Baum-Änderungen V7.
 
 Geltungsbereich: Kind-Link vom Intro über Deku-Baum, erste Zelda-Begegnung, Kakariko, Salias Lied, Goronia und Dodongos Höhle bis zum Übergang zu den Zoras. Die Farm und andere frei erreichbare Nebenhandlungen können in unterschiedlicher Reihenfolge besucht werden.
 
@@ -88,29 +88,26 @@ allen.
 
 **Seite 4**
 
-Daraufhin hat er mich verflucht. Nun
+Daraufhin hat er mich verflucht. Jetzt
 frißt sich sein Fluch durch meine
-Wurzeln, und meine Zeit wird knapp.
+Wurzeln. Das ist irgendwie so eine
+Spinne oder so.
 
 **Seite 5**
 
-Suche [Spielername], den Jungen
-ohne Fee. Warum er keine hat, weiß
-ich selbst nicht mehr. Vielleicht
-waren die Feen damals knapp.
+Es gibt nur eine Person, die uns jetzt
+helfen kann. Suche [Spielername].
 
 **Seite 6**
 
-Oder muß man erst elf werden?
-Sagen wir, das war die Regel. Er ist
-jetzt elf, und wir brauchen ihn.
+Wie Du weißt, ist er der Einzige, der
+gar keine Fee hat, was ganz schön
+zur Ausgrenzung beigetragen hat.
 
 **Seite 7**
 
-Gib ihm also eine Fee und bring ihn
-zu mir, bevor Merz aus unserem
-Wald einen Privatforst mit Eintritt
-macht.
+Jetzt korrigieren wir diesen Fehler
+und werden ihm eine Fee zuteilen.
 
 **Seite 8**
 
@@ -121,9 +118,8 @@ Markt.
 
 **Seite 9**
 
-Steh ihm bei, Navi. Die Last aller
-sollte niemals auf den Schultern eines
-einzelnen liegen.
+Navi, steh ihm bei im Kampf gegen
+das Böse.
 
 **Seite 10**
 
@@ -140,17 +136,15 @@ Projekttext.
 
 **Seite 1**
 
-Hey, [Spielername]! Aufwachen!
-Der Deku-Baum braucht Dich, und Du
-pennst hier, als könntest Du Dir
-einen neuen Wald bestellen.
+Hey, [Spielername], aufwachen!
+Das ist ja gruselig. Du kannst ja mit
+offenen Augen schlafen. Ganz schön
+eklig.
 
 **Seite 2**
 
-Ich soll Dich zu ihm bringen. Wenn
-Du Dich also kurz von Deiner
-verdammten Matratze trennen
-könntest?
+Na ja, egal, der Deku-Baum erwartet
+Dich. Du hast so eine Art Auftrag.
 
 ### 1096
 
@@ -175,9 +169,9 @@ Projekttext.
 
 **Seite 1**
 
-Steh auf, [Spielername]! Ich bin
-eine Fee, kein verdammter
-Weckdienst!
+[Spielername], wenn Du nicht in
+fünf Sekunden aufstehst, dann werde
+ich Dir in den Mund reinfliegen.
 
 ### 1000
 
@@ -264,9 +258,9 @@ ruft, muß es wirklich wichtig sein.
 
 **Seite 2**
 
-Und falls Mido wieder so tut, als
-gehöre ihm der ganze Wald, laß Dich
-davon bloß nicht aufhalten.
+Und wenn Mido wieder einen auf
+Macker macht, dann tritt ihm einfach
+in seine Mido-Balls.
 
 ### 1003
 
@@ -274,9 +268,10 @@ Projekttext.
 
 **Seite 1**
 
-Geh erst mal zum Deku-Baum. Wir
-können später weiterreden, wenn Du
-wieder da bist.
+Du kannst mir später gerne mehr
+über Deine Audienz beim Deku-Baum
+erzählen. Ich freue mich schon, den
+Tag mit Dir zu verbringen.
 
 ## 1.4 Mido versperrt den Weg
 
@@ -371,25 +366,34 @@ Native direkte Fortsetzung zu 10D3.
 
 **Seite 1**
 
-Moment mal...
+Moment mal, Du hast DEN einen
+Deku-Schild im Laden gekauft? Den
+einzigen Schild im ganzen Wald?
 
 **Seite 2**
 
-Ein Deku-Schild!
+Wie wurde der hier überhaupt
+hergeliefert? Wie kommt so ein
+Schild ausgerechnet in den
+Kokiri-Wald?
 
 **Seite 3**
 
-Und auf Deinem Rücken...
+Und das Kokiri-Schwert hast Du auch
+noch! Das war doch extra in diesem
+Labyrinth versteckt, in dieser einen
+Kiste.
 
 **Seite 4**
 
-Das Kokiri-Schwert?! Wo hast Du
-das denn her?
+Das kannst Du Dir doch nicht einfach
+nehmen! Da steht doch nicht Dein
+Name drauf.
 
 **Seite 5**
 
-Na gut. Die Ausrüstung ist wohl
-vollständig.
+Na ja, ist ja auch egal. Ich kann da
+jetzt auch nichts mehr machen.
 
 ### 10D3
 
@@ -426,16 +430,17 @@ Native direkte Fortsetzung zu 1016.
 
 **Seite 1**
 
-Navi... Du hast ihn gefunden. Gut.
+Sehr gut, Navi, Du hast ihn gefunden.
 
 **Seite 2**
 
-Sei willkommen, [Spielername].
+Ich grüße Dich aufs herzlichste,
+[Spielername].
 
 **Seite 3**
 
-Ich bin der Deku-Baum. Hier wächst
-jeder nach seinen Möglichkeiten.
+Wir haben eine außerordentlich
+wichtige Mission für Dich.
 
 **Seite 4**
 
@@ -466,10 +471,16 @@ Projekttext.
 **Seite 1**
 
 Merz hat mich verflucht. Das Übel
-sitzt in meinem Inneren. Hilf mir, es
-zu vertreiben.
+sitzt in meinem Inneren. Mein ganzer
+Körper ist voll mit irgendwelchen
+Monstern.
 
 **Seite 2**
+
+Da ist eine Spinne in meinen
+Gedärmen.
+
+**Seite 3**
 
 Willst Du den Fluch brechen?
 
@@ -484,14 +495,10 @@ Projekttext.
 
 **Seite 1**
 
-Du zögerst. Bereite Dich im
-Kokiri-Trainingslager vor.
-
-**Seite 2**
-
-Komm wieder und sprich mich mit [Z]
-an. Merz besitzt viele Rubine. Ich
-besitze wenig Zeit.
+Also, man kann Dich natürlich nicht
+zwingen. Wäre aber schon gut, wenn
+Du Dich jetzt in der nächsten Stunde
+entscheiden würdest.
 
 ### 1017
 
@@ -534,9 +541,10 @@ das etwa normal?
 
 **Seite 3**
 
-Na schön. Such den Ursprung des
-Fluchs. Aber wisch Dir wenigstens
-die Stiefel ab!
+Na ja, egal. Paß einfach auf, daß Du
+hier nicht zu viel mit Feuer anstellst.
+Wir wollen ja nicht den Deku-Baum
+abfackeln.
 
 ### 0101
 
@@ -545,9 +553,10 @@ Projekttext.
 
 **Seite 1**
 
-[Spielername], mit [C-Up] schaust Du
-durchs Netz nach unten. Kopf
-bewegen. Schwer, ich weiß.
+[Spielername], sieh dieses Netz!
+Jetzt wirst Du gehetzt. Wenn ich
+JETZT rufe, drückst Du [C-Up], um da
+durchzugucken. JETZT!
 
 ### 0102
 
@@ -556,9 +565,10 @@ Projekttext.
 
 **Seite 1**
 
-Ranken an der Wand. Daran kann man
-klettern. Du mußt sie nicht erst
-höflich fragen.
+Ah, eine Ranke an der Wand, die
+bietet Dir so allerhand. Scheiße, jetzt
+habe ich auch schon angefangen zu
+reimen.
 
 ### 0103
 
@@ -567,14 +577,22 @@ Projekttext.
 
 **Seite 1**
 
-Stell Dich vor die Tür und drücke [A].
-Das ist eine Tür, kein Endgegner.
+Also, ich muß Dir doch jetzt nicht
+erzählen, wie man eine Scheißtür
+aufmacht, oder? Drück halt einfach
+[A].
 
 **Seite 2**
 
-Das blaue Symbol oben zeigt Dir die
-Aktion. Es arbeitet sogar, wenn Du
-es nicht tust.
+Das blaue Symbol würde Dir schön
+zeigen, was zu tun ist. Komplett
+metaphorisch gesprochen natürlich.
+
+**Seite 3**
+
+Hier ist ja kein blaues Symbol. Hier
+ist ja das echte Leben und kein
+Videospiel.
 
 ### 0104
 
@@ -583,8 +601,10 @@ Projekttext.
 
 **Seite 1**
 
-Eine Leiter. Dort oben. Nein, sie
-kommt nicht von allein herunter.
+Dieses Rätsel mit der Leiter wirst
+Du nur ein einziges Mal in diesem
+Abenteuer sehen. Danach taucht das
+nie wieder auf.
 
 ### 0106
 
@@ -593,9 +613,8 @@ Projekttext.
 
 **Seite 1**
 
-Die Fackel hat wohl eben noch
-gebrannt. Das verkohlte Ende war
-mein Hinweis.
+Dann müssen wir jetzt nicht lange
+fackeln, okay?
 
 ### 0108
 
@@ -604,19 +623,21 @@ Projekttext.
 
 **Seite 1**
 
-Stell Dich vor den Block. Halte [A], um
-ihn zu ziehen oder zu schieben.
+Puh. Das Symbol auf diesem Block
+finde ich ein wenig unpassend für
+diese Umgebung.
 
 **Seite 2**
 
-Zum Klettern: [Control-Pad] zum Block, dann [A].
-Ja, Du darfst ihn anfassen.
+Also versteh mich nicht falsch, das
+ist nicht böse gemeint, im Gegenteil!
+Ich sage ja nur, ich hätte das jetzt
+hier nicht bei den Kokiris erwartet.
 
 **Seite 3**
 
-Das blaue Symbol zeigt die Aktion.
-Der Stein braucht keine
-Bedienungsanleitung. Du schon.
+Den Block kannst Du übrigens hier
+mit dem Zeug da verschieben, ne?
 
 ### 010C
 
@@ -625,9 +646,15 @@ Projekttext.
 
 **Seite 1**
 
-Halte im Wasser [A], um zu tauchen.
-Das macht Dich kurz nützlich. Nicht
-gleich übertreiben.
+Hier kannst Du tauchen, aber das
+bringt Dir nicht viel, denn so tief
+kannst Du jetzt auch nicht tauchen.
+
+**Seite 2**
+
+Also weiß auch nicht, warum Du Dich
+überhaupt anstrengst. Bringt ja eh
+nichts.
 
 ## 1.7 Deku-Brüder – Reihenfolge und Boßhinweis
 
@@ -637,19 +664,29 @@ Projekttext.
 
 **Seite 1**
 
-Schon gut! Laß mich gehen, ich
-verrate Dir unser Geheimnis!
+Hey, hey, hey, war doch nur Spaß!
+Du mußt ja jetzt hier nicht so
+komplett ausrasten. Ich werde Dir
+auch ein Geheimnis verraten.
 
 **Seite 2**
 
-Meine Brüder mußt Du in einer
-bestimmten Reihenfolge besiegen.
+Meine Brüder wurden von Friedrich
+Merz rekrutiert. Du mußt sie in einer
+gewissen Reihenfolge abschießen: 2, 3,
+1!
 
 **Seite 3**
 
-2 3 1! Erst die Mitte, dann rechts,
-dann links. Verrat ist offenbar mein
-Talent.
+Nee, warte. Die goldene Mitte kommt
+zuerst, dann rechts vor links. Oder
+war das... Ach, Du weißt schon.
+
+**Seite 4**
+
+Also erst den in der Mitte, dann
+rechts, dann links. Jetzt hab ich es
+doch wieder richtig gesagt. Sorry.
 
 ### 109C
 
@@ -657,29 +694,9 @@ Projekttext.
 
 **Seite 1**
 
-Woher wußtest Du das?! Wir
-müssen dringend an unserer
-Geheimhaltung arbeiten.
-
-**Seite 2**
-
-Die Spinnenkönigin hat eine
-Schwachstelle. Hör gut zu.
-
-**Seite 3**
-
-Nutze die Früchte des Baumes, um
-sie zu betäuben.
-
-**Seite 4**
-
-Wenn sie stillhält, kannst Du sie
-leichter treffen.
-
-**Seite 5**
-
-Verzeiht mir, Königin. Ich bin für
-Geheimnisse einfach nicht gebaut.
+Friedrich Merz hat uns einen Rubin
+pro Stunde bezahlt, damit wir hier
+stehen bleiben.
 
 ### 101A
 
@@ -687,24 +704,15 @@ Projekttext.
 
 **Seite 1**
 
-Nicht schlagen! Ich habe einen
-Hinweis und wenig Rückgrat.
+Ich hab mal in einem Deku-Ballteam
+gespielt, doch nach dem Unfall ist
+meine Sportkarriere ruiniert.
 
 **Seite 2**
 
-Wenn Du aus der Höhe springst,
-drücke beim Landen [Control-Pad] nach vorn.
-
-**Seite 3**
-
-So rollst Du Dich ab und linderst den
-Sturz.
-
-**Seite 4**
-
-Aus zu großer Höhe hilft das nicht.
-Ich verschwinde, bevor Du es an mir
-ausprobierst.
+Mein Knie ist irgendwie kaputt, und
+deswegen bin ich auf das Geld von
+Friedrich Merz angewiesen.
 
 ## 1.8 Nach Gohma – letzter Auftritt des Deku-Baums
 
@@ -870,8 +878,8 @@ Projekttext.
 
 **Seite 1**
 
-Als ihr Werk getan war, verließen die
-Göttinnen diese Welt.
+Die Göttinnen haben uns verlassen.
+Nietzsche oder so.
 
 ### 108B
 
@@ -879,8 +887,8 @@ Projekttext.
 
 **Seite 1**
 
-Zurück blieb das Triforce, das Zeichen
-ihrer vereinten Kräfte.
+Das viel zu mächtige Triforce ließen
+sie einfach hier.
 
 ### 108C
 
@@ -905,44 +913,52 @@ Projekttext.
 
 **Seite 1**
 
-Merz darf das Triforce nicht erhalten.
-Sein Vermögen allein richtet schon
-genug Schaden an.
+Als ihr Werk getan war, verließen die
+Göttinnen diese Welt. Die haben uns
+verlassen, wie Nietzsche das gesagt
+hat oder so.
 
 **Seite 2**
 
-Wer alles besitzen will, darf nicht
-auch noch über alles bestimmen.
+Aus irgendeinem Grund haben sie das
+absolut viel zu mächtige Triforce hier
+gelassen. Das war eine echt blöde
+Entscheidung. Ich verstehe das ehrlich
 
 **Seite 3**
 
-Als ich ihm den Smaragd verweigerte,
-belegte er mich mit diesem Fluch.
+gesagt nicht.
 
 **Seite 4**
+
+Wenn Merz dieses Triforce erhält,
+dann können wir das ganze Land in
+die Tonne treten.
+
+**Seite 5**
 
 Aber glücklicherweise hast Du den
 Parasiten beseitigt. Die Sache hat
 sich also erledigt!
 
-**Seite 5**
+**Seite 6**
 
 Jetzt werde ich noch ein langes
 Leben führen. Locker noch hundert
 Jahre. Mindestens!
 
-**Seite 6**
+**Seite 7**
 
 Ich fühl mich unaufhaltsam! Endlich
 wieder richtig im Saft, verstehst Du?
 
-**Seite 7**
+**Seite 8**
 
 Den Wald gerettet, den Parasiten
 erledigt. Saubere Arbeit,
 [Spielername]!
 
-**Seite 8**
+**Seite 9**
 
 So, genug gelabert. Ich hab schließlich
 noch mein ganzes Leben vor mir.
@@ -1042,9 +1058,10 @@ erst sieben Jahre alt.
 
 **Seite 8**
 
-Und Du warst zuletzt bei ihm! Ich
-schick Dich EINMAL zum Baum, und
-danach riecht es hier nach Kompost!
+So, das kann doch nicht wahr sein.
+Du begegnest ein einziges Mal dem
+Deku-Baum, und danach ist das ganze
+Ding komplett versaut.
 
 ### 1046
 
@@ -1072,9 +1089,14 @@ Projekttext.
 
 **Seite 1**
 
-Der Wald fühlt sich plötzlich kälter
-an. Dabei scheint noch dieselbe
-Sonne.
+Hey, ich habe mich neulich mit dem
+Deku-Baum unterhalten, und er
+meinte, daß wir heute zusammen
+abhängen wollten. Ich hoffe, es geht
+
+**Seite 2**
+
+ihm gut.
 
 ### 10D9
 
@@ -1082,9 +1104,10 @@ Projekttext.
 
 **Seite 1**
 
-Was ist mit dem Deku-Baum
-geschehen? Ohne ihn wirkt der ganze
-Wald anders.
+Der Deku-Baum hat mir neulich einen
+echt guten Witz erzählt. Ich hoffe, er
+erzählt mir heute einen genauso
+lustigen Witz.
 
 ## 1.10 Salia – Abschied auf der Brücke
 
@@ -1094,14 +1117,26 @@ Projekttext.
 
 **Seite 1**
 
-Ich habe geahnt, daß Du eines Tages
-hinausziehen würdest,
-[Spielername].
+Ich habe geahnt, daß dieser Tag eines
+Tages kommen wird, [Spielername].
+Jeder hat mal vor, das Dorf zu
+verlassen.
 
 **Seite 2**
 
-Du hast immer wissen wollen, was
-hinter dem nächsten Baum liegt.
+Nur wir Kokiri sterben, wenn wir
+diesen Wald verlassen. Also ich bin
+auch gerade dabei, die ganzen Sachen
+ganz schön herauszufordern, daß ich
+
+**Seite 3**
+
+auf dieser Brücke stehe.
+
+**Seite 4**
+
+Wir sind ja jetzt ziemlich nah am
+Ausgang in Richtung Hyrule-Feld.
 
 ### 1011
 
@@ -1127,8 +1162,16 @@ Projekttext.
 
 **Seite 1**
 
-Nimm meine Okarina mit. Dann hast
-Du etwas von hier bei Dir.
+Aber hier ist Deine Okarina. Ich habe
+sie aus dem Holz des Deku-Baums
+geschnitzt, deswegen ist die magisch.
+
+**Seite 2**
+
+Die hat einiges drauf. Sie kann
+theoretisch das Wetter manipulieren,
+wenn man nur den richtigen Song
+hätte.
 
 ### 1014
 
@@ -1136,8 +1179,15 @@ Projekttext.
 
 **Seite 1**
 
-Wenn Du sie spielst, denk an mich.
-Und komm heil wieder, hörst Du?
+Paß gut auf meine Okarina auf. Du
+wirst keine bessere finden. Das ist
+ein Geschenk.
+
+**Seite 2**
+
+Also bitte schmeiß sie nicht auf
+einmal weg, nur weil Du eine bessere
+findest.
 
 ### 10AE
 

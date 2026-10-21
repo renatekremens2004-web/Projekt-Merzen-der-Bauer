@@ -1,14 +1,8 @@
 {
-  "verification": {
-    "source_release": "Charakterbewegung V4",
-    "rom_sha256": "c37e6b381dbfb9cd7e883b3bcc2b097c86f4ba4ce7e79be91db3641cbedbc61e",
-    "text_source_sha256": "33dde3afca103ff14d9e12944d699ddd7950afadf2ae36227a872219bd5988ef",
-    "main_text_ids": 224,
-    "optional_text_ids": 202,
-    "all_native_TEXTID_continuations_included": true,
-    "all_pages_match_current_build": true,
-    "rom_unchanged": true
-  },
+  "source_sha256": "add5dc97b62373da08ccd7e7ffb9ab107889cace463051dcf608cfa49203c21d",
+  "main_messages": 224,
+  "optional_messages": 202,
+  "total_messages": 426,
   "messages": [
     {
       "id": "109D",
@@ -79,12 +73,12 @@
         "Navi, etwas Schreckliches ist\ngeschehen. Ich sterbe, und ehrlich\ngesagt geht es mir gerade richtig\ndreckig.",
         "Friedrich Merz will Hyrule übernehmen\nund kauft sich mit seinen Rubinen\nGehör am Hofe, während das Volk\ndraußen bleibt.",
         "Als er auch den Kokiri-Smaragd\nverlangte, habe ich ihn fortgeschickt.\nDieser Wald gehört schließlich uns\nallen.",
-        "Daraufhin hat er mich verflucht. Nun\nfrißt sich sein Fluch durch meine\nWurzeln, und meine Zeit wird knapp.",
-        "Suche [Spielername], den Jungen\nohne Fee. Warum er keine hat, weiß\nich selbst nicht mehr. Vielleicht\nwaren die Feen damals knapp.",
-        "Oder muß man erst elf werden?\nSagen wir, das war die Regel. Er ist\njetzt elf, und wir brauchen ihn.",
-        "Gib ihm also eine Fee und bring ihn\nzu mir, bevor Merz aus unserem\nWald einen Privatforst mit Eintritt\nmacht.",
+        "Daraufhin hat er mich verflucht. Jetzt\nfrißt sich sein Fluch durch meine\nWurzeln. Das ist irgendwie so eine\nSpinne oder so.",
+        "Es gibt nur eine Person, die uns jetzt\nhelfen kann. Suche [Spielername].",
+        "Wie Du weißt, ist er der Einzige, der\ngar keine Fee hat, was ganz schön\nzur Ausgrenzung beigetragen hat.",
+        "Jetzt korrigieren wir diesen Fehler\nund werden ihm eine Fee zuteilen.",
         "Wir brauchen jemanden, der auch\nohne Lohnversprechen hilft, denn nicht\nalles, was Wert hat, gehört auf einen\nMarkt.",
-        "Steh ihm bei, Navi. Die Last aller\nsollte niemals auf den Schultern eines\neinzelnen liegen.",
+        "Navi, steh ihm bei im Kampf gegen\ndas Böse.",
         "Und nun flieg. Was hier wächst, soll\nallen zugute kommen, nicht bloß dem,\nder sich den ganzen Boden kaufen\nkann."
       ],
       "locations": []
@@ -99,8 +93,8 @@
         "SFX(NA_SE_VO_NA_HELLO_3)"
       ],
       "pages": [
-        "Hey, [Spielername]! Aufwachen!\nDer Deku-Baum braucht Dich, und Du\npennst hier, als könntest Du Dir\neinen neuen Wald bestellen.",
-        "Ich soll Dich zu ihm bringen. Wenn\nDu Dich also kurz von Deiner\nverdammten Matratze trennen\nkönntest?"
+        "Hey, [Spielername], aufwachen!\nDas ist ja gruselig. Du kannst ja mit\noffenen Augen schlafen. Ganz schön\neklig.",
+        "Na ja, egal, der Deku-Baum erwartet\nDich. Du hast so eine Art Auftrag."
       ],
       "locations": []
     },
@@ -127,7 +121,7 @@
       ],
       "controls": [],
       "pages": [
-        "Steh auf, [Spielername]! Ich bin\neine Fee, kein verdammter\nWeckdienst!"
+        "[Spielername], wenn Du nicht in\nfünf Sekunden aufstehst, dann werde\nich Dir in den Mund reinfliegen."
       ],
       "locations": []
     },
@@ -210,7 +204,7 @@
       ],
       "pages": [
         "Jedenfalls solltest Du ihn nicht\nwarten lassen. Wenn er Dich eigens\nruft, muß es wirklich wichtig sein.",
-        "Und falls Mido wieder so tut, als\ngehöre ihm der ganze Wald, laß Dich\ndavon bloß nicht aufhalten."
+        "Und wenn Mido wieder einen auf\nMacker macht, dann tritt ihm einfach\nin seine Mido-Balls."
       ],
       "locations": []
     },
@@ -222,7 +216,7 @@
       ],
       "controls": [],
       "pages": [
-        "Geh erst mal zum Deku-Baum. Wir\nkönnen später weiterreden, wenn Du\nwieder da bist."
+        "Du kannst mir später gerne mehr\nüber Deine Audienz beim Deku-Baum\nerzählen. Ich freue mich schon, den\nTag mit Dir zu verbringen."
       ],
       "locations": []
     },
@@ -311,11 +305,11 @@
         "TEXTID(0x10D3)"
       ],
       "pages": [
-        "Moment mal...",
-        "Ein Deku-Schild!",
-        "Und auf Deinem Rücken...",
-        "Das Kokiri-Schwert?! Wo hast Du\ndas denn her?",
-        "Na gut. Die Ausrüstung ist wohl\nvollständig."
+        "Moment mal, Du hast DEN einen\nDeku-Schild im Laden gekauft? Den\neinzigen Schild im ganzen Wald?",
+        "Wie wurde der hier überhaupt\nhergeliefert? Wie kommt so ein\nSchild ausgerechnet in den\nKokiri-Wald?",
+        "Und das Kokiri-Schwert hast Du auch\nnoch! Das war doch extra in diesem\nLabyrinth versteckt, in dieser einen\nKiste.",
+        "Das kannst Du Dir doch nicht einfach\nnehmen! Da steht doch nicht Dein\nName drauf.",
+        "Na ja, ist ja auch egal. Ich kann da\njetzt auch nichts mehr machen."
       ],
       "locations": []
     },
@@ -356,9 +350,9 @@
         "TEXTID(0x1016)"
       ],
       "pages": [
-        "Navi... Du hast ihn gefunden. Gut.",
-        "Sei willkommen, [Spielername].",
-        "Ich bin der Deku-Baum. Hier wächst\njeder nach seinen Möglichkeiten.",
+        "Sehr gut, Navi, Du hast ihn gefunden.",
+        "Ich grüße Dich aufs herzlichste,\n[Spielername].",
+        "Wir haben eine außerordentlich\nwichtige Mission für Dich.",
         "Die letzten Nächte waren voller\ndunkler Träume, nicht wahr?",
         "Friedrich Merz greift nach Hyrule.\nSein Geld öffnet Türen, die besser\nverschlossen blieben.",
         "Du hast die Gefahr gespürt, noch\nbevor Du ihren Namen kanntest.",
@@ -376,7 +370,8 @@
         "TWO_CHOICE"
       ],
       "pages": [
-        "Merz hat mich verflucht. Das Übel\nsitzt in meinem Inneren. Hilf mir, es\nzu vertreiben.",
+        "Merz hat mich verflucht. Das Übel\nsitzt in meinem Inneren. Mein ganzer\nKörper ist voll mit irgendwelchen\nMonstern.",
+        "Da ist eine Spinne in meinen\nGedärmen.",
         "Willst Du den Fluch brechen?\n\nJa!\nNein!"
       ],
       "locations": []
@@ -389,8 +384,7 @@
       ],
       "controls": [],
       "pages": [
-        "Du zögerst. Bereite Dich im\nKokiri-Trainingslager vor.",
-        "Komm wieder und sprich mich mit [Z]\nan. Merz besitzt viele Rubine. Ich\nbesitze wenig Zeit."
+        "Also, man kann Dich natürlich nicht\nzwingen. Wäre aber schon gut, wenn\nDu Dich jetzt in der nächsten Stunde\nentscheiden würdest."
       ],
       "locations": []
     },
@@ -418,7 +412,7 @@
       "pages": [
         "[Spielername], wir laufen gerade IM\nDeku-Baum herum. In seinem Körper!",
         "Er redet mit uns, und wir trampeln\ndurch seine Eingeweide. Findest Du\ndas etwa normal?",
-        "Na schön. Such den Ursprung des\nFluchs. Aber wisch Dir wenigstens\ndie Stiefel ab!"
+        "Na ja, egal. Paß einfach auf, daß Du\nhier nicht zu viel mit Feuer anstellst.\nWir wollen ja nicht den Deku-Baum\nabfackeln."
       ],
       "locations": []
     },
@@ -430,7 +424,7 @@
       ],
       "controls": [],
       "pages": [
-        "[Spielername], mit [C-Up] schaust Du\ndurchs Netz nach unten. Kopf\nbewegen. Schwer, ich weiß."
+        "[Spielername], sieh dieses Netz!\nJetzt wirst Du gehetzt. Wenn ich\nJETZT rufe, drückst Du [C-Up], um da\ndurchzugucken. JETZT!"
       ],
       "locations": [
         "Deku-Baum – Raum 0"
@@ -444,7 +438,7 @@
       ],
       "controls": [],
       "pages": [
-        "Ranken an der Wand. Daran kann man\nklettern. Du mußt sie nicht erst\nhöflich fragen."
+        "Ah, eine Ranke an der Wand, die\nbietet Dir so allerhand. Scheiße, jetzt\nhabe ich auch schon angefangen zu\nreimen."
       ],
       "locations": [
         "Deku-Baum – Raum 0"
@@ -458,8 +452,9 @@
       ],
       "controls": [],
       "pages": [
-        "Stell Dich vor die Tür und drücke [A].\nDas ist eine Tür, kein Endgegner.",
-        "Das blaue Symbol oben zeigt Dir die\nAktion. Es arbeitet sogar, wenn Du\nes nicht tust."
+        "Also, ich muß Dir doch jetzt nicht\nerzählen, wie man eine Scheißtür\naufmacht, oder? Drück halt einfach\n[A].",
+        "Das blaue Symbol würde Dir schön\nzeigen, was zu tun ist. Komplett\nmetaphorisch gesprochen natürlich.",
+        "Hier ist ja kein blaues Symbol. Hier\nist ja das echte Leben und kein\nVideospiel."
       ],
       "locations": [
         "Deku-Baum – Raum 0"
@@ -473,7 +468,7 @@
       ],
       "controls": [],
       "pages": [
-        "Eine Leiter. Dort oben. Nein, sie\nkommt nicht von allein herunter."
+        "Dieses Rätsel mit der Leiter wirst\nDu nur ein einziges Mal in diesem\nAbenteuer sehen. Danach taucht das\nnie wieder auf."
       ],
       "locations": [
         "Deku-Baum – Raum 2"
@@ -487,7 +482,7 @@
       ],
       "controls": [],
       "pages": [
-        "Die Fackel hat wohl eben noch\ngebrannt. Das verkohlte Ende war\nmein Hinweis."
+        "Dann müssen wir jetzt nicht lange\nfackeln, okay?"
       ],
       "locations": [
         "Deku-Baum – Raum 10"
@@ -501,9 +496,9 @@
       ],
       "controls": [],
       "pages": [
-        "Stell Dich vor den Block. Halte [A], um\nihn zu ziehen oder zu schieben.",
-        "Zum Klettern: [Control-Pad] zum Block, dann [A].\nJa, Du darfst ihn anfassen.",
-        "Das blaue Symbol zeigt die Aktion.\nDer Stein braucht keine\nBedienungsanleitung. Du schon."
+        "Puh. Das Symbol auf diesem Block\nfinde ich ein wenig unpassend für\ndiese Umgebung.",
+        "Also versteh mich nicht falsch, das\nist nicht böse gemeint, im Gegenteil!\nIch sage ja nur, ich hätte das jetzt\nhier nicht bei den Kokiris erwartet.",
+        "Den Block kannst Du übrigens hier\nmit dem Zeug da verschieben, ne?"
       ],
       "locations": [
         "Deku-Baum – Raum 5"
@@ -517,7 +512,8 @@
       ],
       "controls": [],
       "pages": [
-        "Halte im Wasser [A], um zu tauchen.\nDas macht Dich kurz nützlich. Nicht\ngleich übertreiben."
+        "Hier kannst Du tauchen, aber das\nbringt Dir nicht viel, denn so tief\nkannst Du jetzt auch nicht tauchen.",
+        "Also weiß auch nicht, warum Du Dich\nüberhaupt anstrengst. Bringt ja eh\nnichts."
       ],
       "locations": [
         "Deku-Baum – Raum 5"
@@ -537,9 +533,10 @@
         "EVENT"
       ],
       "pages": [
-        "Schon gut! Laß mich gehen, ich\nverrate Dir unser Geheimnis!",
-        "Meine Brüder mußt Du in einer\nbestimmten Reihenfolge besiegen.",
-        "2 3 1! Erst die Mitte, dann rechts,\ndann links. Verrat ist offenbar mein\nTalent."
+        "Hey, hey, hey, war doch nur Spaß!\nDu mußt ja jetzt hier nicht so\nkomplett ausrasten. Ich werde Dir\nauch ein Geheimnis verraten.",
+        "Meine Brüder wurden von Friedrich\nMerz rekrutiert. Du mußt sie in einer\ngewissen Reihenfolge abschießen: 2, 3,\n1!",
+        "Nee, warte. Die goldene Mitte kommt\nzuerst, dann rechts vor links. Oder\nwar das... Ach, Du weißt schon.",
+        "Also erst den in der Mitte, dann\nrechts, dann links. Jetzt hab ich es\ndoch wieder richtig gesagt. Sorry."
       ],
       "locations": []
     },
@@ -557,11 +554,7 @@
         "EVENT"
       ],
       "pages": [
-        "Woher wußtest Du das?! Wir\nmüssen dringend an unserer\nGeheimhaltung arbeiten.",
-        "Die Spinnenkönigin hat eine\nSchwachstelle. Hör gut zu.",
-        "Nutze die Früchte des Baumes, um\nsie zu betäuben.",
-        "Wenn sie stillhält, kannst Du sie\nleichter treffen.",
-        "Verzeiht mir, Königin. Ich bin für\nGeheimnisse einfach nicht gebaut."
+        "Friedrich Merz hat uns einen Rubin\npro Stunde bezahlt, damit wir hier\nstehen bleiben."
       ],
       "locations": []
     },
@@ -579,10 +572,8 @@
         "EVENT"
       ],
       "pages": [
-        "Nicht schlagen! Ich habe einen\nHinweis und wenig Rückgrat.",
-        "Wenn Du aus der Höhe springst,\ndrücke beim Landen [Control-Pad] nach vorn.",
-        "So rollst Du Dich ab und linderst den\nSturz.",
-        "Aus zu großer Höhe hilft das nicht.\nIch verschwinde, bevor Du es an mir\nausprobierst."
+        "Ich hab mal in einem Deku-Ballteam\ngespielt, doch nach dem Unfall ist\nmeine Sportkarriere ruiniert.",
+        "Mein Knie ist irgendwie kaputt, und\ndeswegen bin ich auf das Geld von\nFriedrich Merz angewiesen."
       ],
       "locations": []
     },
@@ -814,7 +805,7 @@
         "FADE(90)"
       ],
       "pages": [
-        "Als ihr Werk getan war, verließen die\nGöttinnen diese Welt."
+        "Die Göttinnen haben uns verlassen.\nNietzsche oder so."
       ],
       "locations": []
     },
@@ -828,7 +819,7 @@
         "FADE(90)"
       ],
       "pages": [
-        "Zurück blieb das Triforce, das Zeichen\nihrer vereinten Kräfte."
+        "Das viel zu mächtige Triforce ließen\nsie einfach hier."
       ],
       "locations": []
     },
@@ -868,9 +859,10 @@
       ],
       "controls": [],
       "pages": [
-        "Merz darf das Triforce nicht erhalten.\nSein Vermögen allein richtet schon\ngenug Schaden an.",
-        "Wer alles besitzen will, darf nicht\nauch noch über alles bestimmen.",
-        "Als ich ihm den Smaragd verweigerte,\nbelegte er mich mit diesem Fluch.",
+        "Als ihr Werk getan war, verließen die\nGöttinnen diese Welt. Die haben uns\nverlassen, wie Nietzsche das gesagt\nhat oder so.",
+        "Aus irgendeinem Grund haben sie das\nabsolut viel zu mächtige Triforce hier\ngelassen. Das war eine echt blöde\nEntscheidung. Ich verstehe das ehrlich",
+        "gesagt nicht.",
+        "Wenn Merz dieses Triforce erhält,\ndann können wir das ganze Land in\ndie Tonne treten.",
         "Aber glücklicherweise hast Du den\nParasiten beseitigt. Die Sache hat\nsich also erledigt!",
         "Jetzt werde ich noch ein langes\nLeben führen. Locker noch hundert\nJahre. Mindestens!",
         "Ich fühl mich unaufhaltsam! Endlich\nwieder richtig im Saft, verstehst Du?",
@@ -938,7 +930,7 @@
         "Ich brech zusammen. Das ist der\nschlimmste Tag in der Geschichte der\nKokiri!",
         "Keine Ahnung, wie alt diese\nGeschichte überhaupt ist.",
         "Wir sehen alle so aus, als wären wir\nerst sieben Jahre alt.",
-        "Und Du warst zuletzt bei ihm! Ich\nschick Dich EINMAL zum Baum, und\ndanach riecht es hier nach Kompost!"
+        "So, das kann doch nicht wahr sein.\nDu begegnest ein einziges Mal dem\nDeku-Baum, und danach ist das ganze\nDing komplett versaut."
       ],
       "locations": []
     },
@@ -974,7 +966,8 @@
       ],
       "controls": [],
       "pages": [
-        "Der Wald fühlt sich plötzlich kälter\nan. Dabei scheint noch dieselbe\nSonne."
+        "Hey, ich habe mich neulich mit dem\nDeku-Baum unterhalten, und er\nmeinte, daß wir heute zusammen\nabhängen wollten. Ich hoffe, es geht",
+        "ihm gut."
       ],
       "locations": []
     },
@@ -986,7 +979,7 @@
       ],
       "controls": [],
       "pages": [
-        "Was ist mit dem Deku-Baum\ngeschehen? Ohne ihn wirkt der ganze\nWald anders."
+        "Der Deku-Baum hat mir neulich einen\necht guten Witz erzählt. Ich hoffe, er\nerzählt mir heute einen genauso\nlustigen Witz."
       ],
       "locations": []
     },
@@ -998,8 +991,10 @@
       ],
       "controls": [],
       "pages": [
-        "Ich habe geahnt, daß Du eines Tages\nhinausziehen würdest,\n[Spielername].",
-        "Du hast immer wissen wollen, was\nhinter dem nächsten Baum liegt."
+        "Ich habe geahnt, daß dieser Tag eines\nTages kommen wird, [Spielername].\nJeder hat mal vor, das Dorf zu\nverlassen.",
+        "Nur wir Kokiri sterben, wenn wir\ndiesen Wald verlassen. Also ich bin\nauch gerade dabei, die ganzen Sachen\nganz schön herauszufordern, daß ich",
+        "auf dieser Brücke stehe.",
+        "Wir sind ja jetzt ziemlich nah am\nAusgang in Richtung Hyrule-Feld."
       ],
       "locations": []
     },
@@ -1035,7 +1030,8 @@
       ],
       "controls": [],
       "pages": [
-        "Nimm meine Okarina mit. Dann hast\nDu etwas von hier bei Dir."
+        "Aber hier ist Deine Okarina. Ich habe\nsie aus dem Holz des Deku-Baums\ngeschnitzt, deswegen ist die magisch.",
+        "Die hat einiges drauf. Sie kann\ntheoretisch das Wetter manipulieren,\nwenn man nur den richtigen Song\nhätte."
       ],
       "locations": []
     },
@@ -1047,7 +1043,8 @@
       ],
       "controls": [],
       "pages": [
-        "Wenn Du sie spielst, denk an mich.\nUnd komm heil wieder, hörst Du?"
+        "Paß gut auf meine Okarina auf. Du\nwirst keine bessere finden. Das ist\nein Geschenk.",
+        "Also bitte schmeiß sie nicht auf\neinmal weg, nur weil Du eine bessere\nfindest."
       ],
       "locations": []
     },
