@@ -1,0 +1,11 @@
+# Allgemeines Texttempo und Triple-T-Debugfehler – V13
+
+Normale manuell bestätigte deutsche Textseiten erscheinen im Mittel mit 2,5 statt 2 druckbaren Zeichen pro Bild; die normale Schreibrate ist damit bis zu 25 Prozent höher. Manuelle Gespräche innerhalb von Zwischensequenzen sind ebenfalls einbezogen; dort war die frühere Beschleunigung komplett gesperrt, weshalb die Verbesserung deutlicher ausfällt. Die Schrift bleibt sichtbar animiert.
+
+Automatisch laufende Fade-/Verzögerungsseiten, Auswahlseiten, ausdrückliche Geschwindigkeitsteuerungen, Instrumentanzeigen, Quicktext, SFX, Abspann und andere Sprachen behalten ihre bisherige Behandlung. B-Verhalten, Seitenbestätigung, Texte, Textpuffer und feste Einblendzeiten sind unverändert. Die Zusatzzeichen können weder Steuerzeichen noch das Ende der dekodierten Seite überschreiten. Es gibt keine Sahur-Sonderliste im Renderer.
+
+Triple T war keine Deku-Baba geworden: Der über Debug/Inventar hinzugefügte Waldorden hatte die getrennte Wald-befreit-Markierung nicht gesetzt. Nach dem Rückblick lud die unbefreite Waldvariante eine echte Deku-Baba exakt an derselben Position. Beim Laden des erwachsenen deutschen Kokiri-Waldes wird der vorhandene Waldorden jetzt mit der nativen Wald-befreit-Markierung abgeglichen. Regulär befreite Spielstände ändern ihr Verhalten dadurch nicht; Kind-Link und Spielstände ohne Waldorden erhalten diesen Abgleich nicht.
+
+Der Fehler wurde mit demselben absichtlich unvollständigen Debug-Spielstand vor/nach dem Fix mit echten 4 MiB reproduziert: vorher Waldvariante 2, Gegner vorhanden, Sahur fehlt; danach Variante 3, Sahur samt Skelett/Animation vorhanden, kein Gegner an seiner Stelle. Der native Dialog und Rücksprung schließen ab. Normales Schrift-Tempo zusätzlich vor/nach gemessen. Sämtliche kompilierten Nachrichten aller Sprachen bleiben bytegleich. Modell-/Objektdaten unverändert; außerhalb der drei bewußt geänderten Codefunktionen nur geprüfte nötige Linker-Adressen. Normal- und DEBUG-BPS mit RomPatcher.js gegen die jeweiligen Builds bytegleich geprüft. Kein vollständiger Spieldurchlauf.
+
+Alle bisherigen Änderungen enthalten. Normal ODER DEBUG auf unveränderte Vanilla PAL 1.0 anwenden. Danach den Spielstand normal laden und den Wald neu betreten. DEBUG-Menü weiterhin L+R halten und Z drücken.

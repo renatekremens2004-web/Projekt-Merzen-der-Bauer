@@ -1,3 +1,9 @@
+# Texttempo und Triple-T-Debugfehler V13
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Texttempo_Wald_V13.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Texttempo_Wald_V13.bps?raw=true) · [Änderungen und Prüfung](Texttempo_Wald_V13_Aenderungen.md) · [Quellen](Merzen_Texttempo_Wald_V13_Quellen_Patch.zip?raw=true)
+
+Allgemeines Texttempo etwas schneller, auch für manuell bestätigte Cutscene-Dialoge. Feste Einblendzeiten unverändert. Debug-Waldzustand korrigiert: Sahur bleibt nach dem Feuer-Rückblick erhalten. Alle bisherigen Änderungen enthalten. Gesamtpatch auf unveränderte PAL 1.0 anwenden.
+
 # Jabu-Jabu bis Master-Schwert V12
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Jabu_Dialoge_V12.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Jabu_Dialoge_V12.bps?raw=true) · [Eingebaute neue Texte](Jabu_Dialoge_V12_Texte.md) · [Prüfung](Jabu_Dialoge_V12_Aenderungen.md) · [Quellen](Merzen_Jabu_Dialoge_V12_Quellen_Patch.zip?raw=true)
