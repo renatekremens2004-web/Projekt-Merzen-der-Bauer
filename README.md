@@ -1,3 +1,9 @@
+# Ganon-Kopfsitz V6: Burns sitzt näher am Körper
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Ganon_Kopfsitz_V6.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Ganon_Kopfsitz_V6.bps?raw=true) · [Neue Verwandlungs-MP4](Ganon_Kopfsitz_V6.mp4?raw=true) · [Änderungen/Prüfung](Ganon_Kopfsitz_V6_Aenderungen.md) · [Quellen](Merzen_Ganon_Kopfsitz_V6_Quellen_Patch.zip?raw=true)
+
+Bestienkopf tiefer und näher am Hals/Kragen. Alle bisherigen Inhalte, menschlicher Merz und Kindheits-Burns erhalten. Gesamtpatch je auf Vanilla PAL 1.0 anwenden.
+
 # Finale Burns V5: native Körper mit Burns-Köpfen
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Finale_Burns_V5.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Finale_Burns_V5.bps?raw=true) · [Merz-Video](Merz_Ganondorf_Koerper.mp4?raw=true) · [Ganon-Verwandlung](Ganon_Burns_Verwandlung.mp4?raw=true) · [Änderungen/Prüfung](Finale_Burns_V5_Aenderungen.md) · [Quellen](Merzen_Finale_Burns_V5_Quellen_Patch.zip?raw=true)
