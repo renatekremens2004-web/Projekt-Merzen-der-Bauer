@@ -1,10 +1,10 @@
 {
-  "source_sha256": "c01ef948db378cd86408e0259aacfe224100803765bdc16c2a52161edf6245f7",
-  "rom_reference_sha256": "d940ffb3dcedb2baa949c6a6ac49c9a549b1f4fed87da81f59c6150a9d811b97",
+  "source_sha256": "c216d789b9e9c481b8ac6ebe83bca5257eb73de117a50d9d6931c15df3f5ee3c",
+  "rom_reference_sha256": "01c46f967377c5ec84e5a398b94684d1490e702d70e97f078a5d3904861d6a14",
   "stop_before": "704E",
   "total_messages": 185,
-  "main_messages": 124,
-  "optional_messages": 61,
+  "main_messages": 123,
+  "optional_messages": 62,
   "messages": [
     {
       "id": "3023",
@@ -1078,10 +1078,12 @@
         "Ich bin Ruto, Prinzessin der Zoras.\nUnd ich möchte gerade nicht gefunden\nwerden.",
         "Mein Vater hat Dich geschickt?\nGroßartig. Ein königlicher Suchtrupp\naus genau einem Kind.",
         "Er hat meinen Saphir Merz\nversprochen. Für Klimaanlagen! Der\nhat doch einen an der Flosse.",
-        "Ja, die Flaschenpost ist von mir.\nVerstecken und um Hilfe bitten\nschließen sich nicht aus, wenn hier\nplötzlich alles voller Monster ist.",
-        "Merz würde sich niemals hier durch\nden Schleim bewegen. Der läßt andere\nLeute für sich dreckig werden.",
-        "Mein Vater rastet aus, wenn ich ohne\nseinen Klimaanlagen-Stein\nzurückkomme.",
-        "Also bleibe ich vorerst hier. Du\nkannst Dich derweil ruhig ein bißchen\nweniger auffällig anstellen."
+        "Ja, die Flaschenpost ist von mir.\nNormalerweise ist es hier ein bißchen\nsicherer, aber scheinbar hat\nJabu-Jabu einen Haufen Gegner",
+        "gefressen.",
+        "Mein Vater ist so ein Idiot. Ich kann\nnicht fassen, daß er unser ganzes\nKönigreich in den feuchten Abgrund\nstoßen möchte. Er will, daß das ganze",
+        "Königreich den Bach runtergeht.",
+        "Deswegen werde ich diesen Stein nur\nüber meine Leiche hergeben.",
+        "Und jetzt laß mich in Ruhe."
       ],
       "controls": [],
       "notes": "",
@@ -1100,7 +1102,7 @@
         "Vore? Ich verstehe nicht. Was soll\ndas sein?",
         "Heute ist es allerdings etwas\nunangenehm. Diese elektrischen\nQuallen gehörten früher nicht zur\nEinrichtung.",
         "Außerdem habe ich den Saphir\nverloren. Solange der hier liegt, gehe\nich nirgendwohin.",
-        "Wenn Du mir helfen willst, dann hilf.\nAber hör auf, jede Schleimhaut so\npersönlich zu nehmen."
+        "Wenn Du mir helfen willst, dann hilf."
       ],
       "controls": [
         "EVENT"
@@ -1117,7 +1119,7 @@
       ],
       "pages": [
         "Du willst mir also helfen? Gut.",
-        "Dann darfst Du mich tragen. Ich\nmöchte nicht überall hineintreten, nur\nweil Du den Begriff eines sicheren\nWeges nicht kennst.",
+        "Ich habe keinen Bock, versehentlich in\nMagensäure oder so einen Mist zu\ntreten. Deswegen trag Du mich mal.\nDu hast Schuhe an.",
         "Und laß mich nicht irgendwo liegen.\nIch bin eine Prinzessin, kein\nvergessener Einkaufsbeutel."
       ],
       "controls": [
@@ -1134,7 +1136,9 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Warum läßt Du mich hier liegen? Ich\nbin die Prinzessin, nicht Deine\nzusätzliche Bodendekoration!"
+        "Bist Du wahnsinnig? Ich hätte hier im\nMagen verdaut werden können! Ist\ndas überhaupt der Magen?",
+        "Ich schätze, wir sind hier in\nverschiedenen Teilen von Jabu-Jabu.\nLinks und rechts hat das zum\nBeispiel, glaube ich, irgendwie mit den",
+        "Kiemen zu tun. Diese grünen Räume\nwirst Du später noch sehen."
       ],
       "controls": [
         "EVENT"
@@ -1146,9 +1150,11 @@
       "id": "012F",
       "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Vorsicht, [Spielername]!\nDieses grüne, schleimige Ding ist\nvoller elektrischer Energie!"
+        "Hey, [Spielername], das erinnert\nmich an den Typen, der dieses\nZora-Minispiel leitet. Mit dem\nTauchen, weißt Du noch?"
       ],
       "controls": [],
       "notes": "",
@@ -1160,9 +1166,11 @@
       "id": "0131",
       "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Vorsicht, [Spielername]!\nDieses rote, schleimige Ding ist\nvoller elektrischer Energie!"
+        "Guck mal, [Spielername], das ist\nwieder so ein Tentakel, aber diesmal\nin Rot."
       ],
       "controls": [],
       "notes": "",
@@ -1174,9 +1182,11 @@
       "id": "0132",
       "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Vorsicht, [Spielername]!\nDieses blaue, schleimige Ding ist\nvoller elektrischer Energie!"
+        "Ich habe es vielleicht ein bißchen\nvergessen zu erwähnen,\n[Spielername], aber diese Dinger\nsind voller elektrischer Energie."
       ],
       "controls": [],
       "notes": "",
@@ -1188,9 +1198,12 @@
       "id": "0133",
       "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Der Schalter...\nSieht so aus, als könntest Du ihn\nnicht betätigen, da Du allein zu \nleicht bist..."
+        "Mist, es wäre echt praktisch, wenn\nDu jetzt irgendwie schon, keine\nAhnung, sieben Jahre älter wärst\noder so. Für den Schalter bist Du zu",
+        "leicht."
       ],
       "controls": [],
       "notes": "",
@@ -1202,9 +1215,12 @@
       "id": "0137",
       "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Das rote, schleimige Ding ist fort!\nEs verschwand, als Du den\nTentakel zerstört hast! Ob das\nbei den anderen auch funktioniert?"
+        "Okay, dieses Tentakel-Ding ist jetzt\nweg. War das ein Polyp? Oder war\ndas etwas, das zu Jabu-Jabu\ndazugehört?",
+        "Könnten wir hier drin ein bißchen\naufpassen, okay?"
       ],
       "controls": [],
       "notes": "",
@@ -1216,9 +1232,11 @@
       "id": "0139",
       "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Hinter dieser Wand befindet sich\nein Schalter!"
+        "Hey, ich glaube, das ist so eine Art\nSchalter. Also ein Teil von seinem\nKörper, der einen Reflex auslöst."
       ],
       "controls": [],
       "notes": "",
@@ -1230,9 +1248,11 @@
       "id": "013A",
       "section": "9. Navi – örtliche Hinweise in Jabu-Jabu",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Sieht so aus, als befände sich auf\ndieser Plattform etwas!"
+        "Hey, schau mal, was ist denn das?"
       ],
       "controls": [],
       "notes": "",
@@ -1248,7 +1268,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Da ist mein Saphir! Wirf mich auf\ndie Plattform. Möglichst mit etwas\nmehr Anstand als bisher."
+        "Da ist der Saphir! Wirf mich sofort\nauf diese Plattform. Wird schon\nschiefgehen."
       ],
       "controls": [],
       "notes": "",
@@ -1262,7 +1282,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Ruto hat den Heiligen Stein gefunden.\nSchön. Aber wieso muß eine\nPrinzessin dafür in einem Fisch\nherumkriechen?"
+        "Ruto hat ihren Heiligen Stein zurück.\nZeit, aus Jabu-Jabus Arsch zu\nentkommen."
       ],
       "controls": [],
       "notes": "",
@@ -1276,10 +1296,10 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Da ist er! Der Stein von meiner\nMutter!",
-        "Ich habe ihn fallen lassen, als\nJabu-Jabu so wild gezuckt hat. Dann\nlag er plötzlich hier unten.",
-        "Meinen Vater interessiert bestimmt\nwieder nur sein Deal mit Merz. Mich\ninteressiert, daß er meinen Stein\nungefragt verscherbeln will.",
-        "Jetzt habe ich ihn wieder. Zeit,\ndiesem Fisch den Rücken zu kehren\nund anschließend gründlich zu\nverschwinden."
+        "Ich bin so froh, diesen Stein wieder\nzu haben. Der kommt von meiner\nMutter. Sie ist leider schon sehr früh\ngestorben. Deswegen darf er niemals",
+        "in die Hände von Friedrich Merz\ngeraten.",
+        "Ich bin zwar für eine\nErbschaftssteuer, aber das heißt ja\nnicht, daß ich diesen Stein hergeben\nmuß.",
+        "Aber jetzt habe ich ihn wieder. Ich\nglaube, ich werde über das Meer\nverschwinden. Also los."
       ],
       "controls": [],
       "notes": "",
@@ -1303,9 +1323,11 @@
       "id": "4048",
       "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Iiiihhhh!!!\nWas ist das denn?!\nEin Oktopus?!"
+        "Igitt! Einer von diesen Oktoroks!\nAber diesmal ein riesiger!"
       ],
       "controls": [
         "FADE(60)"
@@ -1323,19 +1345,6 @@
       ],
       "controls": [],
       "notes": "",
-      "locations": []
-    },
-    {
-      "id": "013D",
-      "section": "10. Ruto findet den Saphir – Plattform und großer Oktorok",
-      "kind": "Hauptgeschichte",
-      "project_sources": [],
-      "pages": [
-        "WAAAAS!?",
-        "Schau Dir all die Flaggen an!\nFinde heraus, welche davon\necht ist!"
-      ],
-      "controls": [],
-      "notes": "Zusätzlicher von Rutos Akteur referenzierter Text. Nicht als automatisch nach jeder ihrer Zeilen auftauchende Fortsetzung lesen.",
       "locations": []
     },
     {
@@ -1362,8 +1371,8 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Da bist Du ja! Hast Du unterwegs\nnoch einen Bademeister gesucht?",
-        "Ich wollte gerade untertauchen. Also\ndiesmal im übertragenen Sinn. Hier\ndraußen ist ja schon Wasser genug."
+        "Da bist Du ja! Wir haben es\ngeschafft. Das war vielleicht ein\nAbenteuer sondergleichen.",
+        "Das hat ehrlich gesagt echt Spaß\ngemacht, auch wenn wir fast verdaut\nwurden."
       ],
       "controls": [],
       "notes": "",
@@ -1377,7 +1386,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Ich hatte kurz Angst, daß mein Vater\nauftaucht. Der brüllt lauter als jeder\nFischmagen."
+        "Und mein Vater hat nichts davon\nerfahren. Der soll auch weiterhin im\nDunkeln bleiben, okay?"
       ],
       "controls": [],
       "notes": "",
@@ -1405,14 +1414,14 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Gut. Wir sind draußen. Jabu-Jabu hat\njetzt wahrscheinlich mehr Löcher als\nvorher. Aber wir leben.",
-        "Du hast mir geholfen. Und ich\nbrauche jemanden, dem ich diesen\nStein anvertrauen kann.",
-        "Was möchtest Du?\n\nIch möchte den Heiligen Stein!\nEigentlich nichts..."
+        "Ich hoffe ja echt, daß sich Jabu-Jabu\nvon seinen internen Blutungen erholt.\nAber ich denke, das wird schon\nwieder.",
+        "Ich danke Dir vielmals. Du hast mir\ngeholfen. Dafür hast Du einen Wunsch\nfrei.",
+        "Was möchtest Du?\n\nIch möchte den Heiligen Stein!\nEinen witzigen Witz!"
       ],
       "controls": [
         "TWO_CHOICE"
       ],
-      "notes": "Die Szene bietet die Antwortzweige 4026 und 4029 an; beide sind aufgeführt.",
+      "notes": "Antwort 1 wünscht den Heiligen Stein (4026), Antwort 2 einen witzigen Witz (4029). Beide führen unverändert über 4027 zur Übergabe.",
       "locations": []
     },
     {
@@ -1439,8 +1448,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Du willst nichts? Wirklich? Das ist\nschlecht. Ich muß diesen Stein\ndringend aus dem Einflußbereich\nmeines Vaters bekommen.",
-        "Komm, tu mir den Gefallen. Du trägst\nohnehin schon jede Menge seltsames\nZeug mit Dir herum."
+        "Treffen sich zwei Zoras. Sagt der\neine: Hi! Schreit der andere: WO?!"
       ],
       "controls": [
         "TEXTID(0x4027)"
@@ -1456,7 +1464,8 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Den Stein habe ich von meiner\nMutter. Mein Vater hat ihn Merz\nversprochen. Deshalb werde ich jetzt\nerst einmal untertauchen.",
+        "Ja, jetzt werde ich wohl\nuntertauchen müssen. Das ist dann\nwohl mein Schicksal. Aber ich opfere\ngerne die Beziehung zu meinem Vater,",
+        "um dieses Reich zu retten.",
         "Wenn er merkt, daß Du ihn hast,\nrastet er völlig aus. Sag ihm einfach,\nich komme gleich. Er glaubt das\nbestimmt.",
         "Hier. Der Zora-Saphir. Bring ihn in\nSicherheit. Und wenn jemand fragt:\nDu hast mich nie gesehen!"
       ],
@@ -1511,7 +1520,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Verrate meinem Vater nichts. Der\ndreht sonst völlig durch. Besonders,\nwenn es um seine versprochenen\nKlimaanlagen geht."
+        "Verrate meinem Vater nichts. Der\ndreht sonst völlig durch."
       ],
       "controls": [],
       "notes": "",
@@ -1579,10 +1588,11 @@
       "id": "0165",
       "section": "13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "[Spielername]...\nIch weiß nicht, was geschieht...\nIch fühle eine Bedrohung...",
-        "Das Schloß...\nDort geschieht Furchtbares!"
+        "[Spielername], kann ja sein, daß\ndas nur meine allgemeine Anxiety ist,\naber ich habe das Gefühl, dieser Mr.\nBean ist irgendwie in Gefahr."
       ],
       "controls": [
         "EVENT"
@@ -1706,9 +1716,12 @@
       "id": "003A",
       "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Die Okarina der Zeit!\nDie Okarina ist ein Artefakt\naus dem Besitz des Königs.\nSie hat geheimnisvolle Kräfte!"
+        "Die Okarina der Zeit! Ein\nArtefakt aus dem Besitz des\nKönigs.",
+        "Die Okarina der Salia\nbrauchen wir dann wohl nicht\nmehr. Sie wurde gerade\ngelöscht."
       ],
       "controls": [
         "ITEM_ICON(ITEM_OCARINA_OF_TIME)"
@@ -1720,9 +1733,11 @@
       "id": "2005",
       "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "[Spielername], kannst Du mich\nhören? Ich bin es, Zelda..."
+        "[Spielername], hörst Du mich? Ich\nbenutze meine Telepathie-Superkräfte."
       ],
       "controls": [
         "FADE(60)"
@@ -1734,12 +1749,14 @@
       "id": "2008",
       "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "[Spielername], nun, da Du die \nOkarina in Händen hältst...",
-        "...bin ich schon weit entfernt...",
-        "Ich versuchte, auf Dich zu warten,\ndoch die Zeit drängte...",
-        "Zumindest konnte ich Dir die \nOkarina übergeben...\nUnd diese Melodie..."
+        "[Spielername], hör zu. Mr. Bean\nweiß, was er tut.",
+        "Ich vertraue ihm voll und ganz.",
+        "Er wird mich retten. Du mußt jetzt\nschleunigst zur Zitadelle der Zeit.",
+        "Nimm die Okarina und lerne diese\nMelodie..."
       ],
       "controls": [
         "BOX_BREAK_DELAYED(60)",
@@ -1778,9 +1795,11 @@
       "id": "0166",
       "section": "15. Okarina im Graben – Zelda und die Hymne der Zeit",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Nanu? Deine Okarina klingt...\nirgendwie anders...\nDu hast wohl kräftig geübt,\n[Spielername]?"
+        "Hey, [Spielername], die klingt jetzt\naber wirklich viel besser als die\nOkarina der Salia. Das ist ja jetzt\nhier wirklich echte Qualität."
       ],
       "controls": [
         "EVENT"
@@ -1828,9 +1847,11 @@
       "id": "7040",
       "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Hier sind drei Vertiefungen\nund eine Inschrift...",
+        "Hier sind drei perfekt geformte\nVertiefungen für die drei Heiligen\nSteine und eine Inschrift...",
         "Jener mit den drei Heiligen Steinen\nnehme seine Okarina zur Hand\nund spiele hier die Hymne der Zeit.",
         "Seltsam, aber so steht\nes geschrieben..."
       ],
@@ -1848,7 +1869,7 @@
         "goronen_kakariko_de.json"
       ],
       "pages": [
-        "Die Zitadelle der Zeit wirkt friedlich.\nNach der Flucht am Schloß mißtraue\nich diesem Eindruck. Aber Zelda hat\nuns dorthin geschickt."
+        "Alles klar, dann schauen wir mal,\nwas wir hier hinter dieser Wand für\nReichtümer haben. Mein Feenkörper\nist bereit."
       ],
       "controls": [],
       "notes": "",
@@ -1858,9 +1879,11 @@
       "id": "70E6",
       "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "[Spielername], ist das nicht...?!"
+        "[Spielername], ich glaube, mich\ntritt ein Pferd!"
       ],
       "controls": [],
       "notes": "",
@@ -1870,9 +1893,11 @@
       "id": "70E7",
       "section": "17. Zitadelle der Zeit – Inschrift und Navi vor dem Schwert",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
       "pages": [
-        "Diese legendäre Klinge..."
+        "Das Master-Schwert! Eine der\nstärksten Klingen im Land, heißt es."
       ],
       "controls": [
         "FADE(30)"
@@ -1900,10 +1925,10 @@
         "zeituebergang_de.json"
       ],
       "pages": [
-        "Herr Bohne? Den habe ich ermordet.",
-        "Er kämpfte gut. Er starb mit Ehre.",
-        "Zelda entkam. Du öffnest mir das\nHeilige Reich.",
-        "Leistung muß sich lohnen!"
+        "Herr Bohne kämpfte gut. Wie zu\nerwarten.",
+        "Er starb mit Ehre. Ich habe ihn\nermordet.",
+        "Zelda entkam. Doch letztendlich\ngewinnt immer...",
+        "...die politische Mitte!"
       ],
       "controls": [
         "BOX_BREAK_DELAYED(60)",
@@ -2865,6 +2890,20 @@
       ],
       "controls": [],
       "notes": "Dieser Text liegt im Spiel vor. In der deutschen Fassung wird junge Ruto neben dem König nach dem Saphir jedoch entfernt; normalerweise dort nicht mehr ansprechbar.",
+      "locations": []
+    },
+    {
+      "id": "013D",
+      "section": "K. Alte Zusatzzeile ohne nachgewiesenen Gesprächsaufruf",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "jabu_neu_v12_de.json"
+      ],
+      "pages": [
+        "WAAAAS!?"
+      ],
+      "controls": [],
+      "notes": "Frühere Zuordnung zu Ruto war falsch: gleichlautende Kameradaten sind keine Textreferenzen. Kein Gesprächsaufruf bei Ruto oder den Jabu-Hinweis-Akteuren nachgewiesen. Flaggen-Zeile entfernt; kein neuer Navi-Ruf.",
       "locations": []
     }
   ]

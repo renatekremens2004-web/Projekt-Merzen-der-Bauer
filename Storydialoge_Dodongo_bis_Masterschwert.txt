@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: nach Dodongo bis zum Master-Schwert
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V11. Dies ist eine reine Abschrift zum Durchgehen und Umschreiben. Es wurden keine Dialoge und keine ROM-Dateien geändert.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V12. Dies ist eine reine Abschrift zum Durchgehen und Umschreiben. Es wurden keine Dialoge und keine ROM-Dateien geändert.
 
 Beginn: Darunias Auftritt nach König Dodongo. Ende: Merz’ kurze Rede unmittelbar nach dem Ziehen des Master-Schwerts (700A), noch vor dem Erwachen/Gespräch mit Robert Habeck in menschlicher Gestalt (704E).
 
@@ -38,6 +38,7 @@ Jede vierstellige Nummer ist eine Text-ID. Jede Seite und jede Auswahl bleibt ei
 - H. Wache im Krughaus – Tages- und Nachttext
 - I. Navi-Zielerfassung – Gegner dieses Abschnitts
 - J. Gespeicherte Zusatzvariante – Ruto neben dem König
+- K. Alte Zusatzzeile ohne nachgewiesenen Gesprächsaufruf
 
 ## 1. Nach König Dodongo – Darunia, Goronen-Opal und Umarmung
 
@@ -1251,27 +1252,33 @@ hat doch einen an der Flosse.
 **Seite 5**
 
 Ja, die Flaschenpost ist von mir.
-Verstecken und um Hilfe bitten
-schließen sich nicht aus, wenn hier
-plötzlich alles voller Monster ist.
+Normalerweise ist es hier ein bißchen
+sicherer, aber scheinbar hat
+Jabu-Jabu einen Haufen Gegner
 
 **Seite 6**
 
-Merz würde sich niemals hier durch
-den Schleim bewegen. Der läßt andere
-Leute für sich dreckig werden.
+gefressen.
 
 **Seite 7**
 
-Mein Vater rastet aus, wenn ich ohne
-seinen Klimaanlagen-Stein
-zurückkomme.
+Mein Vater ist so ein Idiot. Ich kann
+nicht fassen, daß er unser ganzes
+Königreich in den feuchten Abgrund
+stoßen möchte. Er will, daß das ganze
 
 **Seite 8**
 
-Also bleibe ich vorerst hier. Du
-kannst Dich derweil ruhig ein bißchen
-weniger auffällig anstellen.
+Königreich den Bach runtergeht.
+
+**Seite 9**
+
+Deswegen werde ich diesen Stein nur
+über meine Leiche hergeben.
+
+**Seite 10**
+
+Und jetzt laß mich in Ruhe.
 
 ### 404C
 
@@ -1310,8 +1317,6 @@ ich nirgendwohin.
 **Seite 6**
 
 Wenn Du mir helfen willst, dann hilf.
-Aber hör auf, jede Schleimhaut so
-persönlich zu nehmen.
 
 ### 404D
 
@@ -1323,10 +1328,10 @@ Du willst mir also helfen? Gut.
 
 **Seite 2**
 
-Dann darfst Du mich tragen. Ich
-möchte nicht überall hineintreten, nur
-weil Du den Begriff eines sicheren
-Weges nicht kennst.
+Ich habe keinen Bock, versehentlich in
+Magensäure oder so einen Mist zu
+treten. Deswegen trag Du mich mal.
+Du hast Schuhe an.
 
 **Seite 3**
 
@@ -1340,88 +1345,111 @@ Projekttext.
 
 **Seite 1**
 
-Warum läßt Du mich hier liegen? Ich
-bin die Prinzessin, nicht Deine
-zusätzliche Bodendekoration!
+Bist Du wahnsinnig? Ich hätte hier im
+Magen verdaut werden können! Ist
+das überhaupt der Magen?
+
+**Seite 2**
+
+Ich schätze, wir sind hier in
+verschiedenen Teilen von Jabu-Jabu.
+Links und rechts hat das zum
+Beispiel, glaube ich, irgendwie mit den
+
+**Seite 3**
+
+Kiemen zu tun. Diese grünen Räume
+wirst Du später noch sehen.
 
 ## 9. Navi – örtliche Hinweise in Jabu-Jabu
 
 ### 012F
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 2.
 
 **Seite 1**
 
-Vorsicht, [Spielername]!
-Dieses grüne, schleimige Ding ist
-voller elektrischer Energie!
+Hey, [Spielername], das erinnert
+mich an den Typen, der dieses
+Zora-Minispiel leitet. Mit dem
+Tauchen, weißt Du noch?
 
 ### 0131
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
 
 **Seite 1**
 
-Vorsicht, [Spielername]!
-Dieses rote, schleimige Ding ist
-voller elektrischer Energie!
+Guck mal, [Spielername], das ist
+wieder so ein Tentakel, aber diesmal
+in Rot.
 
 ### 0132
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
 
 **Seite 1**
 
-Vorsicht, [Spielername]!
-Dieses blaue, schleimige Ding ist
-voller elektrischer Energie!
+Ich habe es vielleicht ein bißchen
+vergessen zu erwähnen,
+[Spielername], aber diese Dinger
+sind voller elektrischer Energie.
 
 ### 0133
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
 
 **Seite 1**
 
-Der Schalter...
-Sieht so aus, als könntest Du ihn
-nicht betätigen, da Du allein zu 
-leicht bist...
+Mist, es wäre echt praktisch, wenn
+Du jetzt irgendwie schon, keine
+Ahnung, sieben Jahre älter wärst
+oder so. Für den Schalter bist Du zu
+
+**Seite 2**
+
+leicht.
 
 ### 0137
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 7.
 
 **Seite 1**
 
-Das rote, schleimige Ding ist fort!
-Es verschwand, als Du den
-Tentakel zerstört hast! Ob das
-bei den anderen auch funktioniert?
+Okay, dieses Tentakel-Ding ist jetzt
+weg. War das ein Polyp? Oder war
+das etwas, das zu Jabu-Jabu
+dazugehört?
+
+**Seite 2**
+
+Könnten wir hier drin ein bißchen
+aufpassen, okay?
 
 ### 0139
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 5.
 
 **Seite 1**
 
-Hinter dieser Wand befindet sich
-ein Schalter!
+Hey, ich glaube, das ist so eine Art
+Schalter. Also ein Teil von seinem
+Körper, der einen Reflex auslöst.
 
 ### 013A
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Örtlicher Navi-Hinweis: Jabu-Jabu, Raum 6.
 
 **Seite 1**
 
-Sieht so aus, als befände sich auf
-dieser Plattform etwas!
+Hey, schau mal, was ist denn das?
 
 ## 10. Ruto findet den Saphir – Plattform und großer Oktorok
 
@@ -1431,9 +1459,9 @@ Projekttext.
 
 **Seite 1**
 
-Da ist mein Saphir! Wirf mich auf
-die Plattform. Möglichst mit etwas
-mehr Anstand als bisher.
+Da ist der Saphir! Wirf mich sofort
+auf diese Plattform. Wird schon
+schiefgehen.
 
 ### 4050
 
@@ -1441,10 +1469,9 @@ Projekttext.
 
 **Seite 1**
 
-Ruto hat den Heiligen Stein gefunden.
-Schön. Aber wieso muß eine
-Prinzessin dafür in einem Fisch
-herumkriechen?
+Ruto hat ihren Heiligen Stein zurück.
+Zeit, aus Jabu-Jabus Arsch zu
+entkommen.
 
 ### 4051
 
@@ -1452,28 +1479,28 @@ Projekttext.
 
 **Seite 1**
 
-Da ist er! Der Stein von meiner
-Mutter!
+Ich bin so froh, diesen Stein wieder
+zu haben. Der kommt von meiner
+Mutter. Sie ist leider schon sehr früh
+gestorben. Deswegen darf er niemals
 
 **Seite 2**
 
-Ich habe ihn fallen lassen, als
-Jabu-Jabu so wild gezuckt hat. Dann
-lag er plötzlich hier unten.
+in die Hände von Friedrich Merz
+geraten.
 
 **Seite 3**
 
-Meinen Vater interessiert bestimmt
-wieder nur sein Deal mit Merz. Mich
-interessiert, daß er meinen Stein
-ungefragt verscherbeln will.
+Ich bin zwar für eine
+Erbschaftssteuer, aber das heißt ja
+nicht, daß ich diesen Stein hergeben
+muß.
 
 **Seite 4**
 
-Jetzt habe ich ihn wieder. Zeit,
-diesem Fisch den Rücken zu kehren
-und anschließend gründlich zu
-verschwinden.
+Aber jetzt habe ich ihn wieder. Ich
+glaube, ich werde über das Meer
+verschwinden. Also los.
 
 ### 4052
 
@@ -1487,14 +1514,13 @@ gesehen.
 
 ### 4048
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Zeitgesteuerte Textcodes: FADE(60). Die Werte sind nur dokumentiert, nicht geändert.
 
 **Seite 1**
 
-Iiiihhhh!!!
-Was ist das denn?!
-Ein Oktopus?!
+Igitt! Einer von diesen Oktoroks!
+Aber diesmal ein riesiger!
 
 ### 401E
 
@@ -1503,21 +1529,6 @@ Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
 **Seite 1**
 
 Ooooh neiiiin!
-
-### 013D
-
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
-Zusätzlicher von Rutos Akteur referenzierter Text. Nicht als automatisch nach jeder ihrer Zeilen auftauchende Fortsetzung lesen.
-
-**Seite 1**
-
-WAAAAS!?
-
-**Seite 2**
-
-Schau Dir all die Flaggen an!
-Finde heraus, welche davon
-echt ist!
 
 ## 11. Barinade – Begrüßung vor dem Kampf
 
@@ -1538,14 +1549,15 @@ Projekttext.
 
 **Seite 1**
 
-Da bist Du ja! Hast Du unterwegs
-noch einen Bademeister gesucht?
+Da bist Du ja! Wir haben es
+geschafft. Das war vielleicht ein
+Abenteuer sondergleichen.
 
 **Seite 2**
 
-Ich wollte gerade untertauchen. Also
-diesmal im übertragenen Sinn. Hier
-draußen ist ja schon Wasser genug.
+Das hat ehrlich gesagt echt Spaß
+gemacht, auch wenn wir fast verdaut
+wurden.
 
 ### 4023
 
@@ -1553,9 +1565,9 @@ Projekttext.
 
 **Seite 1**
 
-Ich hatte kurz Angst, daß mein Vater
-auftaucht. Der brüllt lauter als jeder
-Fischmagen.
+Und mein Vater hat nichts davon
+erfahren. Der soll auch weiterhin im
+Dunkeln bleiben, okay?
 
 ### 4024
 
@@ -1569,26 +1581,27 @@ Komm mal her!
 ### 4025
 
 Projekttext.
-Die Szene bietet die Antwortzweige 4026 und 4029 an; beide sind aufgeführt.
+Antwort 1 wünscht den Heiligen Stein (4026), Antwort 2 einen witzigen Witz (4029). Beide führen unverändert über 4027 zur Übergabe.
 
 **Seite 1**
 
-Gut. Wir sind draußen. Jabu-Jabu hat
-jetzt wahrscheinlich mehr Löcher als
-vorher. Aber wir leben.
+Ich hoffe ja echt, daß sich Jabu-Jabu
+von seinen internen Blutungen erholt.
+Aber ich denke, das wird schon
+wieder.
 
 **Seite 2**
 
-Du hast mir geholfen. Und ich
-brauche jemanden, dem ich diesen
-Stein anvertrauen kann.
+Ich danke Dir vielmals. Du hast mir
+geholfen. Dafür hast Du einen Wunsch
+frei.
 
 **Seite 3**
 
 Was möchtest Du?
 
 Ich möchte den Heiligen Stein!
-Eigentlich nichts...
+Einen witzigen Witz!
 
 _Auswahlantworten in ihrer tatsächlichen Reihenfolge stehen auf dieser Seite._
 
@@ -1610,16 +1623,8 @@ Direkte native Fortsetzung: 4027.
 
 **Seite 1**
 
-Du willst nichts? Wirklich? Das ist
-schlecht. Ich muß diesen Stein
-dringend aus dem Einflußbereich
-meines Vaters bekommen.
-
-**Seite 2**
-
-Komm, tu mir den Gefallen. Du trägst
-ohnehin schon jede Menge seltsames
-Zeug mit Dir herum.
+Treffen sich zwei Zoras. Sagt der
+eine: Hi! Schreit der andere: WO?!
 
 ### 4027
 
@@ -1627,19 +1632,23 @@ Projekttext.
 
 **Seite 1**
 
-Den Stein habe ich von meiner
-Mutter. Mein Vater hat ihn Merz
-versprochen. Deshalb werde ich jetzt
-erst einmal untertauchen.
+Ja, jetzt werde ich wohl
+untertauchen müssen. Das ist dann
+wohl mein Schicksal. Aber ich opfere
+gerne die Beziehung zu meinem Vater,
 
 **Seite 2**
+
+um dieses Reich zu retten.
+
+**Seite 3**
 
 Wenn er merkt, daß Du ihn hast,
 rastet er völlig aus. Sag ihm einfach,
 ich komme gleich. Er glaubt das
 bestimmt.
 
-**Seite 3**
+**Seite 4**
 
 Hier. Der Zora-Saphir. Bring ihn in
 Sicherheit. Und wenn jemand fragt:
@@ -1691,9 +1700,7 @@ Projekttext.
 **Seite 1**
 
 Verrate meinem Vater nichts. Der
-dreht sonst völlig durch. Besonders,
-wenn es um seine versprochenen
-Klimaanlagen geht.
+dreht sonst völlig durch.
 
 ## 13. Nach Jabu-Jabu – König Zora, Bewohner, Navi und Salia
 
@@ -1767,18 +1774,14 @@ mitbedacht hat.
 
 ### 0165
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-[Spielername]...
-Ich weiß nicht, was geschieht...
-Ich fühle eine Bedrohung...
-
-**Seite 2**
-
-Das Schloß...
-Dort geschieht Furchtbares!
+[Spielername], kann ja sein, daß
+das nur meine allgemeine Anxiety ist,
+aber ich habe das Gefühl, dieser Mr.
+Bean ist irgendwie in Gefahr.
 
 ## 14. Flucht vor dem Schloß – Friedrich Merz spricht Link an
 
@@ -1862,49 +1865,54 @@ noch etwas, das sie uns zuwarf.
 
 ### 003A
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-Die Okarina der Zeit!
-Die Okarina ist ein Artefakt
-aus dem Besitz des Königs.
-Sie hat geheimnisvolle Kräfte!
+Die Okarina der Zeit! Ein
+Artefakt aus dem Besitz des
+Königs.
+
+**Seite 2**
+
+Die Okarina der Salia
+brauchen wir dann wohl nicht
+mehr. Sie wurde gerade
+gelöscht.
 
 ### 2005
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Zeitgesteuerte Textcodes: FADE(60). Die Werte sind nur dokumentiert, nicht geändert.
 
 **Seite 1**
 
-[Spielername], kannst Du mich
-hören? Ich bin es, Zelda...
+[Spielername], hörst Du mich? Ich
+benutze meine Telepathie-Superkräfte.
 
 ### 2008
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(60), FADE(60). Die Werte sind nur dokumentiert, nicht geändert.
 
 **Seite 1**
 
-[Spielername], nun, da Du die 
-Okarina in Händen hältst...
+[Spielername], hör zu. Mr. Bean
+weiß, was er tut.
 
 **Seite 2**
 
-...bin ich schon weit entfernt...
+Ich vertraue ihm voll und ganz.
 
 **Seite 3**
 
-Ich versuchte, auf Dich zu warten,
-doch die Zeit drängte...
+Er wird mich retten. Du mußt jetzt
+schleunigst zur Zitadelle der Zeit.
 
 **Seite 4**
 
-Zumindest konnte ich Dir die 
-Okarina übergeben...
-Und diese Melodie...
+Nimm die Okarina und lerne diese
+Melodie...
 
 ### 00D5
 
@@ -1929,14 +1937,14 @@ Zeitaltar!
 
 ### 0166
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-Nanu? Deine Okarina klingt...
-irgendwie anders...
-Du hast wohl kräftig geübt,
-[Spielername]?
+Hey, [Spielername], die klingt jetzt
+aber wirklich viel besser als die
+Okarina der Salia. Das ist ja jetzt
+hier wirklich echte Qualität.
 
 ## 16. Optionaler Abschied – sterbender Soldat in der Gasse
 
@@ -1996,12 +2004,13 @@ Gegner war der Asphalt.
 
 ### 7040
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-Hier sind drei Vertiefungen
-und eine Inschrift...
+Hier sind drei perfekt geformte
+Vertiefungen für die drei Heiligen
+Steine und eine Inschrift...
 
 **Seite 2**
 
@@ -2020,27 +2029,29 @@ Projekttext.
 
 **Seite 1**
 
-Die Zitadelle der Zeit wirkt friedlich.
-Nach der Flucht am Schloß mißtraue
-ich diesem Eindruck. Aber Zelda hat
-uns dorthin geschickt.
+Alles klar, dann schauen wir mal,
+was wir hier hinter dieser Wand für
+Reichtümer haben. Mein Feenkörper
+ist bereit.
 
 ### 70E6
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-[Spielername], ist das nicht...?!
+[Spielername], ich glaube, mich
+tritt ein Pferd!
 
 ### 70E7
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Zeitgesteuerte Textcodes: FADE(30). Die Werte sind nur dokumentiert, nicht geändert.
 
 **Seite 1**
 
-Diese legendäre Klinge...
+Das Master-Schwert! Eine der
+stärksten Klingen im Land, heißt es.
 
 ### 70E8
 
@@ -2061,20 +2072,22 @@ Zeitgesteuerte Textcodes: BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(90), BOX_BREA
 
 **Seite 1**
 
-Herr Bohne? Den habe ich ermordet.
+Herr Bohne kämpfte gut. Wie zu
+erwarten.
 
 **Seite 2**
 
-Er kämpfte gut. Er starb mit Ehre.
+Er starb mit Ehre. Ich habe ihn
+ermordet.
 
 **Seite 3**
 
-Zelda entkam. Du öffnest mir das
-Heilige Reich.
+Zelda entkam. Doch letztendlich
+gewinnt immer...
 
 **Seite 4**
 
-Leistung muß sich lohnen!
+...die politische Mitte!
 
 ## Nebenhandlungen, Zusatzvarianten und Zielerfassung
 
@@ -3155,4 +3168,15 @@ Ich bleibe erst einmal verschwunden.
 Mein Vater kann Merz ja statt des
 Saphirs einen hübschen Kiesel
 anbieten.
+
+## K. Alte Zusatzzeile ohne nachgewiesenen Gesprächsaufruf
+
+### 013D
+
+Projekttext.
+Frühere Zuordnung zu Ruto war falsch: gleichlautende Kameradaten sind keine Textreferenzen. Kein Gesprächsaufruf bei Ruto oder den Jabu-Hinweis-Akteuren nachgewiesen. Flaggen-Zeile entfernt; kein neuer Navi-Ruf.
+
+**Seite 1**
+
+WAAAAS!?
 

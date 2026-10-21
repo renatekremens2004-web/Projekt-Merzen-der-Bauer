@@ -1,3 +1,9 @@
+# Jabu-Jabu bis Master-Schwert V12
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Jabu_Dialoge_V12.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Jabu_Dialoge_V12.bps?raw=true) · [Eingebaute neue Texte](Jabu_Dialoge_V12_Texte.md) · [Prüfung](Jabu_Dialoge_V12_Aenderungen.md) · [Quellen](Merzen_Jabu_Dialoge_V12_Quellen_Patch.zip?raw=true)
+
+32 neue Texte von Jabu-Jabu bis zum Master-Schwert, inklusive beider Ruto-Wunschzweige. Gelobte Texte bleiben erhalten; feste Einblendzeiten unverändert. Alle bisherigen Inhalte enthalten. Gesamtpatch jeweils auf unveränderte Vanilla PAL 1.0 anwenden. Die vollständige Arbeitsliste von Dodongo bis zum Master-Schwert ist ebenfalls aktualisiert.
+
 # Zora-Reich V11
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Zora_Dialoge_V11.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Zora_Dialoge_V11.bps?raw=true) · [Eingebaute neue Texte](Zora_Dialoge_V11_Texte.md) · [Prüfung](Zora_Dialoge_V11_Aenderungen.md) · [Quellen](Merzen_Zora_Dialoge_V11_Quellen_Patch.zip?raw=true)
