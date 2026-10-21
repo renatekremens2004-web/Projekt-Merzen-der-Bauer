@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: nach Dodongo bis zum Master-Schwert
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V10. Dies ist eine reine Abschrift zum Durchgehen und Umschreiben. Es wurden keine Dialoge und keine ROM-Dateien geändert.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V11. Dies ist eine reine Abschrift zum Durchgehen und Umschreiben. Es wurden keine Dialoge und keine ROM-Dateien geändert.
 
 Beginn: Darunias Auftritt nach König Dodongo. Ende: Merz’ kurze Rede unmittelbar nach dem Ziehen des Master-Schwerts (700A), noch vor dem Erwachen/Gespräch mit Robert Habeck in menschlicher Gestalt (704E).
 
@@ -629,21 +629,17 @@ Projekttext.
 
 **Seite 1**
 
-> Besuch? Willkommen bei den Zoras!
+> Willkommen in Zoras Reich! Diese
+> Höhle ist nur ein Teil davon. Unser
+> Reich geht natürlich noch viel, viel
+> weiter ins Wasser.
 
 **Seite 2**
 
-> Wir wohnen im Wasser. Unser König
-> hat trotzdem Klimaanlagen bestellt.
-> Ich bin sicher, er hat sich etwas
-> dabei gedacht.
-
-**Seite 3**
-
-> Also... Ich hoffe es. Bitte sprich ihn
-> nicht auf die Montage an. Dann
-> erklärt er Dir wieder, wie Strom
-> durch Wasser schwimmt.
+> Man kann sagen, der Großteil des
+> Wassers ist eigentlich unser Reich.
+> Mit Unterwasseranlagen und so was,
+> ne?
 
 ### 4007
 
@@ -669,9 +665,14 @@ Erstansprache; Wiederholungs-ID: 4009.
 
 **Seite 1**
 
-> Unser Fluß entspringt Zoras Quelle.
-> Unser politischer Unsinn entspringt
-> dem Thronsaal.
+> Ein Großteil des Wassers wird durch
+> die Zora-Eier, die Zora-Balls des
+> Königs gefiltert.
+
+**Seite 2**
+
+> Der sitzt da einfach. Guck Dir das
+> mal an. Das ist seltsam.
 
 ### 4009
 
@@ -680,10 +681,16 @@ Wiederholung bei erneutem Ansprechen nach 4008.
 
 **Seite 1**
 
-> Ruto füttert Jabu-Jabu. Der König
-> nennt das eine königliche Aufgabe.
-> Seine eigene Aufgabe ist offenbar das
-> Herumsitzen.
+> Ruto ist noch sehr klein und
+> trotzdem läuft sie freiwillig im
+> Inneren von Jabu-Jabu herum.
+> Seltsame Vorlieben.
+
+**Seite 2**
+
+> Keine Ahnung, ob den König das
+> interessiert. Den juckt das irgendwie
+> nicht, glaube ich.
 
 ### 400A
 
@@ -691,9 +698,9 @@ Projekttext.
 
 **Seite 1**
 
-> Ich mag Rockmusik. Die Goronen tun
-> immer so, als hätten sie Gitarren
-> erfunden, nur weil sie Steine essen.
+> Ja, ich mag Rockmusik, die ist total
+> cool, ich rock total gerne ab.
+> Rock'n'Roll, Leute!
 
 ### 400B
 
@@ -702,9 +709,7 @@ Wiederholung bei erneutem Ansprechen nach 402F.
 
 **Seite 1**
 
-> Ich wollte dem König meine Band
-> vorstellen. Er fragte, ob Rockmusik
-> seine Klimaanlagen antreiben kann.
+> Noch einmal: Rock'n'Roll, Leute!
 
 ### 400C
 
@@ -736,28 +741,22 @@ Projekttext.
 
 **Seite 1**
 
-> Du hast also noch kein Gespräch mit
-> einem riesigen Wal geführt. Sehr
-> vernünftig.
+> Das ist ein gigantischer Wal, und
+> das, was Du über der
+> Wasseroberfläche siehst, ist quasi
+> nur sein Kopf.
 
 **Seite 2**
 
-> Jabu-Jabu lebt hinter dem Thron,
-> draußen bei der Quelle. Der König
-> versperrt leider den Durchgang.
+> Sein noch viel gigantischerer
+> Gigantenkörper ist unter dem Wasser
+> verborgen. Das Ding ist wirklich
+> riesig, da kannst Du mir vertrauen.
 
 **Seite 3**
 
-> Er nennt sich einen vorausschauenden
-> Herrscher. Vermutlich, weil er die Tür
-> hinter sich seit Jahren nicht gesehen
-> hat.
-
-**Seite 4**
-
-> Ohne seine Erlaubnis kommst Du
-> nicht durch. Wenn Du eine wichtige
-> Nachricht für ihn hast, zeig sie ihm.
+> So ein kleines Kind könnte sich da
+> bestimmt stundenlang drin verirren.
 
 ### 400F
 
@@ -817,8 +816,7 @@ Projekttext.
 **Seite 3**
 
 > Warte mal. Bin ich selbst eine Frau?
-> Ich muß mich kurz setzen. Ach, ich
-> schwimme ja schon.
+> Ich muß mich kurz setzen.
 
 ### 4021
 
@@ -826,9 +824,10 @@ Projekttext.
 
 **Seite 1**
 
-> Ich habe im See eine Flasche
-> gefunden. Hoffentlich ist es keine
-> Rechnung für königliche Klimaanlagen.
+> Irgendwo im See hat irgend jemand
+> schon wieder seine Bierflasche
+> reingeworfen. Diese Hylianer sind echt
+> das Letzte.
 
 ### 402D
 
@@ -859,27 +858,29 @@ Erstansprache; Wiederholungs-ID: 400B.
 
 **Seite 1**
 
-> Unser König hat sich Klimaanlagen für
-> unter Wasser versprechen lassen.
-> Eine staatstragende Entscheidung.
+> Friedrich Merz und der König haben
+> zusammen getagt. Sie haben einen
+> Deal ausgehandelt, der uns
+> Klimaanlagen verspricht.
 
 **Seite 2**
 
-> Er gibt dafür den Saphir her. Wir
-> hätten vielleicht erst fragen sollen,
-> wo er die Steckdosen anbringen will.
+> Damit sollen wir vor den
+> katastrophalen Auswirkungen des
+> Klimawandels in den nächsten sieben
+> Jahren geschützt sein.
 
 **Seite 3**
 
-> Ich spiele übrigens Rockmusik. Wir
-> suchen noch jemanden, der den
-> Schlagzeuger vor solchen politischen
-> Gesprächen schützt.
+> Er hat ihm dafür unser wertvollstes
+> Gut versprochen: die Zora-Trompete.
+> Die wollte Merz nicht. Statt dessen
+> bekommt er den Saphir.
 
 ### 401A
 
 Projekttext.
-König Zora als Kind vor dem Vorzeigen von Rutos Brief.
+König Zora als Kind vor dem Vorzeigen von Rutos Brief. V11: Nutzerkorrektur zu Stein gegen kühle Luft; nicht die erwachsene 4013.
 
 **Seite 1**
 
@@ -890,16 +891,21 @@ König Zora als Kind vor dem Vorzeigen von Rutos Brief.
 
 **Seite 2**
 
-> Dafür bekommt er den Zora-Saphir.
-> Ein Stein gegen kalte Luft! Wer
-> würde da schon nein sagen?
+> Ein Stein gegen kühle, entspannende
+> Luft. Ah, wie angenehm. Fast so
+> angenehm wie das Wasser, das
+> zwischen meinen Beinen durchläuft.
 
 **Seite 3**
 
-> Leider ist meine Tochter mit dem
-> Stein abgehauen. Ich kann sie nicht
-> finden. RUTO! Hm. Keine Antwort.
-> Sehr rätselhaft.
+> Aber meine Tochter ist mit dem
+> Stein abgehauen, und ich kann sie
+> nicht finden. Die kommt bestimmt
+> bald zurück und gibt ihn mir wieder.
+
+**Seite 4**
+
+> Die kriegt sich immer ein.
 
 ## 6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge
 
@@ -909,27 +915,36 @@ Projekttext.
 
 **Seite 1**
 
-> Ach. Ein Kind. Genau das hat meinem
-> Tag noch gefehlt. Ich bin Thaddäus.
-> Künstler. Verkannt, versteht sich.
+> Was will denn irgendein Rotzbalg
+> hier? Ich bin der große Thaddäus
+> Quentin Tentakel, meines Zeichens
+> Künstler. Leider bin ich von
 
 **Seite 2**
 
-> Friedrich Merz ist ein Geizkragen, der
-> die Kunst nicht respektiert. Für eine
-> Klarinettenstunde kein Rubin, aber
-> Kohle findet er großartig.
+> Kulturbanausen umgeben.
 
 **Seite 3**
 
-> Also veranstalte ich dieses
-> Tauchspiel. Die einzige Kunst, die hier
-> bezahlt wird, ist offenbar das
-> Geldversenken.
+> Friedrich Merz vor allem. Der kann
+> mit Kunst überhaupt nichts anfangen.
+> Wenn der Hyrule übernimmt, Junge,
+> dann werde ich mir keine einzige
 
 **Seite 4**
 
-> Tauchspiel: 20 Rubine. Na?
+> Klarinettenstunde mehr leisten
+> können.
+
+**Seite 5**
+
+> Die ich sowieso nicht brauche, weil
+> ich schon perfekt bin. Na ja, egal.
+> Hier ist das Tauchspiel.
+
+**Seite 6**
+
+> Eine Runde kostet 20 Rubine. Na?
 >
 > Ja!
 > Nein!
@@ -955,17 +970,16 @@ Projekttext.
 **Seite 3**
 
 > Komm danach zu mir zurück. Dann
-> gibt es eine Belohnung. Einen Applaus
-> darfst Du Dir selbst vorstellen.
+> gibt es eine Belohnung.
 
 ### 405A
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
-Kurze Startanzeige des Tauchspiels.
+Projekttext.
+Kurze Startanzeige des Tauchspiels: Let’s go!
 
 **Seite 1**
 
-> START!
+> Let's go!
 
 ### 405B
 
@@ -981,29 +995,32 @@ Projekttext.
 ### 4055
 
 Projekttext.
+Siegmeldung unten im Wasser; Belohnung oben abholen.
 
 **Seite 1**
 
-> Du hast gewonnen. Wie unerwartet.
-> Komm hoch und hol Deine Belohnung,
-> bevor Du noch eine Zugabe verlangst.
+> Ah, Du hast gewonnen. Super. Na ja,
+> ich gucke mal, was ich hier habe.
+> Komm hoch, dann kriegst Du Deine
+> Belohnung.
 
 ### 4056
 
 Projekttext.
+Eigentliche Übergabe der Schuppe; hier steht der neue Massenproduktions-Kommentar.
 
 **Seite 1**
 
-> Na schön. Dein Tauchstil war
-> erträglicher als das Kulturprogramm
-> dieses Königreichs.
+> Ja, ich habe hier etwas. Die Dinger
+> sind massenproduziert. Habe eine
+> ganze Sammlung von den
+> Scheißdingern.
 
 **Seite 2**
 
-> Hier, die silberne Schuppe. Damit
-> kannst Du tiefer tauchen. Vielleicht
-> findest Du dort unten jemanden, der
-> Deine Begeisterung teilt.
+> Silberne Schuppen. Habe ich
+> massenhaft bestellt. Hier, nimm eine.
+> Damit kannst Du tiefer tauchen.
 
 ### 00CD
 
@@ -1022,9 +1039,9 @@ Projekttext.
 
 **Seite 1**
 
-> Wieder Du. Ich hatte gehofft, mein
-> nächster Besucher wäre ein Mäzen.
-> Oder wenigstens die Stille.
+> Ah, Du schon wieder. Willst Du es
+> nochmal ausprobieren? Die silberne
+> Schuppe hast Du ja schon.
 
 **Seite 2**
 
@@ -1052,15 +1069,13 @@ Tauchspiel verloren.
 
 **Seite 1**
 
-> Verloren. Du trauriger Clown. So viel
-> Gezappel, und nicht einmal das
-> Publikum ist geblieben.
+> Junge, Du hast verloren, Du trauriger
+> Clown.
 
 **Seite 2**
 
-> Übe erst einmal. Ich versuche
-> inzwischen, den Anblick aus meinem
-> Gedächtnis zu streichen.
+> Aha, haha! Trauriger... Ha ha ha!
+> Clown!
 
 ### 0138
 
@@ -1069,9 +1084,8 @@ Zu wenige Rubine für das Tauchspiel.
 
 **Seite 1**
 
-> Nicht einmal 20 Rubine? Ein Künstler
-> kann von Deinem großen Talent zum
-> Herumstehen leider nicht leben.
+> Nicht einmal 20 Rubine hast Du.
+> Lächerlich. Such Dir einen Job, Alter.
 
 ### 013B
 
@@ -1152,42 +1166,48 @@ Direkte native Fortsetzung: 401C.
 
 **Seite 1**
 
-> Ein Brief von Ruto! Meine
-> Suchstrategie hat funktioniert. Sie
-> hat mich gefunden!
+> Was ist denn das? Wie, meine
+> Tochter, meine Prinzessin ist einfach
+> in diesem riesigen Fisch, unserem
+> heiligen Jabu-Jabu? Scheiße.
 
 **Seite 2**
 
-> Sie versteckt sich im Inneren von
-> Jabu-Jabu? Aber da ist es doch naß.
-> Da kann man doch nicht wohnen!
+> Hoffentlich wird sie nicht verdaut.
 
 **Seite 3**
 
-> Obwohl... Wir wohnen ja auch im
-> Wasser. Hm. Egal. Der Saphir ist
-> jedenfalls für meine Klimaanlagen
-> bestimmt!
+> Ich würde ja selbst reingehen, aber
+> ich muß hier aufpassen. Kannst Du
+> das vielleicht übernehmen? Dann
+> werde ich mich auch erkenntlich
 
 **Seite 4**
 
-> Merz war sehr freundlich. Er hat
-> gesagt, ich müsse mich um nichts
-> kümmern. Genau das mache ich
-> seitdem.
+> zeigen. Wahrscheinlich.
 
 **Seite 5**
 
-> Du darfst hinter mir durch. Hol bitte
-> Ruto und den Stein. Ich rücke gleich
-> zur Seite. Einen Moment. Noch einen.
+> Wobei, so viel Geld habe ich aktuell
+> nicht. Ich habe Friedrich Merz schon
+> eine ganze Menge gegeben. Im
+> Zora-Königreich sind harte Zeiten
 
 **Seite 6**
 
-> Den Brief behalte ich. Die Flasche
-> kannst Du mitnehmen. Vielleicht
-> findest Du damit auch eine
-> Klimaanlage.
+> angebrochen.
+
+**Seite 7**
+
+> Warte, laß mich kurz meinen Arsch
+> aus dem Weg schieben. Einen
+> Moment.
+
+**Seite 8**
+
+> Die Flasche kannst Du übrigens
+> wiederhaben. Nimm Deinen Müll
+> wieder mit.
 
 ### 401C
 

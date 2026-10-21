@@ -1,6 +1,6 @@
 {
-  "source_sha256": "a6dc35c8ad9432217a9318f91caca6dbc0cf4d94693ecfb98a7ead899e65e4e8",
-  "rom_reference_sha256": "f5b13333e98c6ce571b43fda407efa181fc1b4112c5998f67143c28cf5d32cbc",
+  "source_sha256": "c01ef948db378cd86408e0259aacfe224100803765bdc16c2a52161edf6245f7",
+  "rom_reference_sha256": "d940ffb3dcedb2baa949c6a6ac49c9a549b1f4fed87da81f59c6150a9d811b97",
   "stop_before": "704E",
   "total_messages": 185,
   "main_messages": 124,
@@ -523,9 +523,8 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Besuch? Willkommen bei den Zoras!",
-        "Wir wohnen im Wasser. Unser König\nhat trotzdem Klimaanlagen bestellt.\nIch bin sicher, er hat sich etwas\ndabei gedacht.",
-        "Also... Ich hoffe es. Bitte sprich ihn\nnicht auf die Montage an. Dann\nerklärt er Dir wieder, wie Strom\ndurch Wasser schwimmt."
+        "Willkommen in Zoras Reich! Diese\nHöhle ist nur ein Teil davon. Unser\nReich geht natürlich noch viel, viel\nweiter ins Wasser.",
+        "Man kann sagen, der Großteil des\nWassers ist eigentlich unser Reich.\nMit Unterwasseranlagen und so was,\nne?"
       ],
       "controls": [],
       "notes": "",
@@ -554,7 +553,8 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Unser Fluß entspringt Zoras Quelle.\nUnser politischer Unsinn entspringt\ndem Thronsaal."
+        "Ein Großteil des Wassers wird durch\ndie Zora-Eier, die Zora-Balls des\nKönigs gefiltert.",
+        "Der sitzt da einfach. Guck Dir das\nmal an. Das ist seltsam."
       ],
       "controls": [],
       "notes": "",
@@ -568,7 +568,8 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Ruto füttert Jabu-Jabu. Der König\nnennt das eine königliche Aufgabe.\nSeine eigene Aufgabe ist offenbar das\nHerumsitzen."
+        "Ruto ist noch sehr klein und\ntrotzdem läuft sie freiwillig im\nInneren von Jabu-Jabu herum.\nSeltsame Vorlieben.",
+        "Keine Ahnung, ob den König das\ninteressiert. Den juckt das irgendwie\nnicht, glaube ich."
       ],
       "controls": [],
       "notes": "",
@@ -582,7 +583,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Ich mag Rockmusik. Die Goronen tun\nimmer so, als hätten sie Gitarren\nerfunden, nur weil sie Steine essen."
+        "Ja, ich mag Rockmusik, die ist total\ncool, ich rock total gerne ab.\nRock'n'Roll, Leute!"
       ],
       "controls": [],
       "notes": "",
@@ -596,7 +597,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Ich wollte dem König meine Band\nvorstellen. Er fragte, ob Rockmusik\nseine Klimaanlagen antreiben kann."
+        "Noch einmal: Rock'n'Roll, Leute!"
       ],
       "controls": [],
       "notes": "",
@@ -640,10 +641,9 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Du hast also noch kein Gespräch mit\neinem riesigen Wal geführt. Sehr\nvernünftig.",
-        "Jabu-Jabu lebt hinter dem Thron,\ndraußen bei der Quelle. Der König\nversperrt leider den Durchgang.",
-        "Er nennt sich einen vorausschauenden\nHerrscher. Vermutlich, weil er die Tür\nhinter sich seit Jahren nicht gesehen\nhat.",
-        "Ohne seine Erlaubnis kommst Du\nnicht durch. Wenn Du eine wichtige\nNachricht für ihn hast, zeig sie ihm."
+        "Das ist ein gigantischer Wal, und\ndas, was Du über der\nWasseroberfläche siehst, ist quasi\nnur sein Kopf.",
+        "Sein noch viel gigantischerer\nGigantenkörper ist unter dem Wasser\nverborgen. Das Ding ist wirklich\nriesig, da kannst Du mir vertrauen.",
+        "So ein kleines Kind könnte sich da\nbestimmt stundenlang drin verirren."
       ],
       "controls": [],
       "notes": "",
@@ -702,7 +702,7 @@
       "pages": [
         "Sag mal, gibt es eigentlich\nZora-Frauen? Ich sehe hier immer nur\nZoras.",
         "Vielleicht lassen sie sich einfach\nschwer unterscheiden. Das wäre\nnatürlich eine Erklärung.",
-        "Warte mal. Bin ich selbst eine Frau?\nIch muß mich kurz setzen. Ach, ich\nschwimme ja schon."
+        "Warte mal. Bin ich selbst eine Frau?\nIch muß mich kurz setzen."
       ],
       "controls": [],
       "notes": "",
@@ -716,7 +716,7 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Ich habe im See eine Flasche\ngefunden. Hoffentlich ist es keine\nRechnung für königliche Klimaanlagen."
+        "Irgendwo im See hat irgend jemand\nschon wieder seine Bierflasche\nreingeworfen. Diese Hylianer sind echt\ndas Letzte."
       ],
       "controls": [],
       "notes": "",
@@ -758,9 +758,9 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Unser König hat sich Klimaanlagen für\nunter Wasser versprechen lassen.\nEine staatstragende Entscheidung.",
-        "Er gibt dafür den Saphir her. Wir\nhätten vielleicht erst fragen sollen,\nwo er die Steckdosen anbringen will.",
-        "Ich spiele übrigens Rockmusik. Wir\nsuchen noch jemanden, der den\nSchlagzeuger vor solchen politischen\nGesprächen schützt."
+        "Friedrich Merz und der König haben\nzusammen getagt. Sie haben einen\nDeal ausgehandelt, der uns\nKlimaanlagen verspricht.",
+        "Damit sollen wir vor den\nkatastrophalen Auswirkungen des\nKlimawandels in den nächsten sieben\nJahren geschützt sein.",
+        "Er hat ihm dafür unser wertvollstes\nGut versprochen: die Zora-Trompete.\nDie wollte Merz nicht. Statt dessen\nbekommt er den Saphir."
       ],
       "controls": [],
       "notes": "",
@@ -775,11 +775,12 @@
       ],
       "pages": [
         "Friedrich Merz hat mir Klimaanlagen\nversprochen! Damit retten wir die\nZoras vor dem Klimawandel. Ich bin\nein Genie.",
-        "Dafür bekommt er den Zora-Saphir.\nEin Stein gegen kalte Luft! Wer\nwürde da schon nein sagen?",
-        "Leider ist meine Tochter mit dem\nStein abgehauen. Ich kann sie nicht\nfinden. RUTO! Hm. Keine Antwort.\nSehr rätselhaft."
+        "Ein Stein gegen kühle, entspannende\nLuft. Ah, wie angenehm. Fast so\nangenehm wie das Wasser, das\nzwischen meinen Beinen durchläuft.",
+        "Aber meine Tochter ist mit dem\nStein abgehauen, und ich kann sie\nnicht finden. Die kommt bestimmt\nbald zurück und gibt ihn mir wieder.",
+        "Die kriegt sich immer ein."
       ],
       "controls": [],
-      "notes": "König Zora als Kind vor dem Vorzeigen von Rutos Brief.",
+      "notes": "König Zora als Kind vor dem Vorzeigen von Rutos Brief. V11: Nutzerkorrektur zu Stein gegen kühle Luft; nicht die erwachsene 4013.",
       "locations": []
     },
     {
@@ -790,10 +791,12 @@
         "thaddaeus_tauchspiel_de.json"
       ],
       "pages": [
-        "Ach. Ein Kind. Genau das hat meinem\nTag noch gefehlt. Ich bin Thaddäus.\nKünstler. Verkannt, versteht sich.",
-        "Friedrich Merz ist ein Geizkragen, der\ndie Kunst nicht respektiert. Für eine\nKlarinettenstunde kein Rubin, aber\nKohle findet er großartig.",
-        "Also veranstalte ich dieses\nTauchspiel. Die einzige Kunst, die hier\nbezahlt wird, ist offenbar das\nGeldversenken.",
-        "Tauchspiel: 20 Rubine. Na?\n\nJa!\nNein!"
+        "Was will denn irgendein Rotzbalg\nhier? Ich bin der große Thaddäus\nQuentin Tentakel, meines Zeichens\nKünstler. Leider bin ich von",
+        "Kulturbanausen umgeben.",
+        "Friedrich Merz vor allem. Der kann\nmit Kunst überhaupt nichts anfangen.\nWenn der Hyrule übernimmt, Junge,\ndann werde ich mir keine einzige",
+        "Klarinettenstunde mehr leisten\nkönnen.",
+        "Die ich sowieso nicht brauche, weil\nich schon perfekt bin. Na ja, egal.\nHier ist das Tauchspiel.",
+        "Eine Runde kostet 20 Rubine. Na?\n\nJa!\nNein!"
       ],
       "controls": [
         "TWO_CHOICE"
@@ -811,7 +814,7 @@
       "pages": [
         "Wunderbar. Ein zahlender Störenfried.\nWelch seltener Glücksfall.",
         "Ich werfe fünf Rubine hinunter.\nSammle sie alle ein, bevor die Zeit\nabläuft. Möglichst ohne Deine übliche\nZirkusnummer.",
-        "Komm danach zu mir zurück. Dann\ngibt es eine Belohnung. Einen Applaus\ndarfst Du Dir selbst vorstellen."
+        "Komm danach zu mir zurück. Dann\ngibt es eine Belohnung."
       ],
       "controls": [
         "EVENT"
@@ -823,14 +826,16 @@
       "id": "405A",
       "section": "6. Thaddäus – Tauchspiel, Schuppe und alle Spielausgänge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "zora_neu_v11_de.json"
+      ],
       "pages": [
-        "START!"
+        "Let's go!"
       ],
       "controls": [
         "EVENT"
       ],
-      "notes": "Kurze Startanzeige des Tauchspiels.",
+      "notes": "Kurze Startanzeige des Tauchspiels: Let’s go!",
       "locations": []
     },
     {
@@ -857,12 +862,12 @@
         "thaddaeus_tauchspiel_de.json"
       ],
       "pages": [
-        "Du hast gewonnen. Wie unerwartet.\nKomm hoch und hol Deine Belohnung,\nbevor Du noch eine Zugabe verlangst."
+        "Ah, Du hast gewonnen. Super. Na ja,\nich gucke mal, was ich hier habe.\nKomm hoch, dann kriegst Du Deine\nBelohnung."
       ],
       "controls": [
         "EVENT"
       ],
-      "notes": "",
+      "notes": "Siegmeldung unten im Wasser; Belohnung oben abholen.",
       "locations": []
     },
     {
@@ -873,13 +878,13 @@
         "thaddaeus_tauchspiel_de.json"
       ],
       "pages": [
-        "Na schön. Dein Tauchstil war\nerträglicher als das Kulturprogramm\ndieses Königreichs.",
-        "Hier, die silberne Schuppe. Damit\nkannst Du tiefer tauchen. Vielleicht\nfindest Du dort unten jemanden, der\nDeine Begeisterung teilt."
+        "Ja, ich habe hier etwas. Die Dinger\nsind massenproduziert. Habe eine\nganze Sammlung von den\nScheißdingern.",
+        "Silberne Schuppen. Habe ich\nmassenhaft bestellt. Hier, nimm eine.\nDamit kannst Du tiefer tauchen."
       ],
       "controls": [
         "EVENT"
       ],
-      "notes": "",
+      "notes": "Eigentliche Übergabe der Schuppe; hier steht der neue Massenproduktions-Kommentar.",
       "locations": []
     },
     {
@@ -904,7 +909,7 @@
         "thaddaeus_tauchspiel_de.json"
       ],
       "pages": [
-        "Wieder Du. Ich hatte gehofft, mein\nnächster Besucher wäre ein Mäzen.\nOder wenigstens die Stille.",
+        "Ah, Du schon wieder. Willst Du es\nnochmal ausprobieren? Die silberne\nSchuppe hast Du ja schon.",
         "Noch eine Runde für 20 Rubine?\n\nJa!\nNein!"
       ],
       "controls": [
@@ -937,8 +942,8 @@
         "thaddaeus_tauchspiel_de.json"
       ],
       "pages": [
-        "Verloren. Du trauriger Clown. So viel\nGezappel, und nicht einmal das\nPublikum ist geblieben.",
-        "Übe erst einmal. Ich versuche\ninzwischen, den Anblick aus meinem\nGedächtnis zu streichen."
+        "Junge, Du hast verloren, Du trauriger\nClown.",
+        "Aha, haha! Trauriger... Ha ha ha!\nClown!"
       ],
       "controls": [
         "EVENT"
@@ -954,7 +959,7 @@
         "thaddaeus_tauchspiel_de.json"
       ],
       "pages": [
-        "Nicht einmal 20 Rubine? Ein Künstler\nkann von Deinem großen Talent zum\nHerumstehen leider nicht leben."
+        "Nicht einmal 20 Rubine hast Du.\nLächerlich. Such Dir einen Job, Alter."
       ],
       "controls": [
         "PERSISTENT"
@@ -1032,12 +1037,14 @@
         "zoras_jabu_de.json"
       ],
       "pages": [
-        "Ein Brief von Ruto! Meine\nSuchstrategie hat funktioniert. Sie\nhat mich gefunden!",
-        "Sie versteckt sich im Inneren von\nJabu-Jabu? Aber da ist es doch naß.\nDa kann man doch nicht wohnen!",
-        "Obwohl... Wir wohnen ja auch im\nWasser. Hm. Egal. Der Saphir ist\njedenfalls für meine Klimaanlagen\nbestimmt!",
-        "Merz war sehr freundlich. Er hat\ngesagt, ich müsse mich um nichts\nkümmern. Genau das mache ich\nseitdem.",
-        "Du darfst hinter mir durch. Hol bitte\nRuto und den Stein. Ich rücke gleich\nzur Seite. Einen Moment. Noch einen.",
-        "Den Brief behalte ich. Die Flasche\nkannst Du mitnehmen. Vielleicht\nfindest Du damit auch eine\nKlimaanlage."
+        "Was ist denn das? Wie, meine\nTochter, meine Prinzessin ist einfach\nin diesem riesigen Fisch, unserem\nheiligen Jabu-Jabu? Scheiße.",
+        "Hoffentlich wird sie nicht verdaut.",
+        "Ich würde ja selbst reingehen, aber\nich muß hier aufpassen. Kannst Du\ndas vielleicht übernehmen? Dann\nwerde ich mich auch erkenntlich",
+        "zeigen. Wahrscheinlich.",
+        "Wobei, so viel Geld habe ich aktuell\nnicht. Ich habe Friedrich Merz schon\neine ganze Menge gegeben. Im\nZora-Königreich sind harte Zeiten",
+        "angebrochen.",
+        "Warte, laß mich kurz meinen Arsch\naus dem Weg schieben. Einen\nMoment.",
+        "Die Flasche kannst Du übrigens\nwiederhaben. Nimm Deinen Müll\nwieder mit."
       ],
       "controls": [
         "TEXTID(0x401C)"

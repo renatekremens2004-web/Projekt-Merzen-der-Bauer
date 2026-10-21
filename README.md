@@ -1,3 +1,9 @@
+# Zora-Reich V11
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Zora_Dialoge_V11.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Zora_Dialoge_V11.bps?raw=true) · [Eingebaute neue Texte](Zora_Dialoge_V11_Texte.md) · [Prüfung](Zora_Dialoge_V11_Aenderungen.md) · [Quellen](Merzen_Zora_Dialoge_V11_Quellen_Patch.zip?raw=true)
+
+19 neue Zora-/Thaddäus-Texte mit neuem Tauchspiel-Start und König-Zora-Flaschenpost. Gelobte Texte bleiben erhalten. Alle bisherigen Inhalte enthalten. Gesamtpatch jeweils auf unveränderte Vanilla PAL 1.0 anwenden. Die vollständige Arbeitsliste von Dodongo bis zum Master-Schwert ist ebenfalls aktualisiert.
+
 # Goronen-Nachspiel V10
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Goronen_Nachspiel_V10.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Goronen_Nachspiel_V10.bps?raw=true) · [Eingebaute neue Texte](Goronen_Nachspiel_V10_Texte.md) · [Prüfung](Goronen_Nachspiel_V10_Aenderungen.md) · [Quellen](Merzen_Goronen_Nachspiel_V10_Quellen_Patch.zip?raw=true)
