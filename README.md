@@ -1,3 +1,15 @@
+# Pinguine und Modellkorrekturen V26
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Pinguine_Fixes_V26.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Pinguine_Fixes_V26.bps?raw=true) · [Änderungen](Pinguine_Fixes_V26_Aenderungen.md) · [Quellen](Merzen_Pinguine_Fixes_V26_Quellen_Patch.zip?raw=true)
+
+Terris falsche Texturwiederholung und Pingus Flügelhaltung sind korrigiert. Skipper, Kowalski, Private und Rico stehen mit Dynamit in vier Schloß-Räumen. Gezielt mit 4 MiB RAM geprüft; alle bisherigen Änderungen enthalten.
+
+![Terri korrigiert](Terri_V26_Korrigiert.png)
+
+![Pingu mit korrigierten Flügeln](Pingu_V26_Fluegel.png)
+
+[Skipper](Skipper_V26.png) · [Kowalski](Kowalski_V26.png) · [Private](Private_V26.png) · [Rico](Rico_V26.png)
+
 # Pingu, Crazy Frog und Terri V25
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Pingu_Frog_Terri_V25.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Pingu_Frog_Terri_V25.bps?raw=true) · [Änderungen](Pingu_Frog_Terri_V25_Aenderungen.md) · [Quellen](Merzen_Pingu_Frog_Terri_V25_Quellen_Patch.zip?raw=true)
