@@ -1,3 +1,9 @@
+# Arbeitsliste: nach Feuertempel bis Wassertempel
+
+[Alle Dialoge lesen](Storydialoge_nach_Feuertempel_bis_Wassertempel.md) · [TXT herunterladen](Storydialoge_nach_Feuertempel_bis_Wassertempel.txt?raw=true) · [ZIP herunterladen](Storydialoge_nach_Feuertempel_bis_Wassertempel.zip?raw=true)
+
+116 Text-IDs, 244 Textbox-Seiten: Zoras Reich, Eishöhle, Sheik, Thaddäus, Navi, Okto, Pepsiman, Fanboy und Chum Chum. König-Zora-Varianten, Hylia-See, Labor, Tauschquest, erwachsener Doofenshmirtz und Zielerfassung im Anhang. Aktueller V22-Textbestand; reiner Export.
+
 # Goronia und Feuertempel V21
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Feuertempel_V21.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Feuertempel_V21.bps?raw=true) · [16 neue Texte](Feuertempel_V21_Aenderungen.md) · [Quellen](Merzen_Feuertempel_V21_Quellen_Patch.zip?raw=true)

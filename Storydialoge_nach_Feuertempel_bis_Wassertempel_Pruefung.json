@@ -1,0 +1,10 @@
+{
+  "stand": "V22",
+  "ids": 116,
+  "pages": 244,
+  "all_pages_and_controls_match_current_source": true,
+  "native_cutscene_sources": 3,
+  "no_game_changes_from_export": true,
+  "source_sha256": "e40b2176fd07aade774c6a2f4861c6eeb7530ec956c155612ecdce04fffe8f6a",
+  "normal_rom_reference_sha256": "86800b91b181b1110145d024be4b7dbc4ba594ed434b55bac78e85ae423550e2"
+}
