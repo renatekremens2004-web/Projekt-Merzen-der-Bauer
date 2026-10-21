@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Waldtempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V20. Abschrift zum Durchgehen und Umschreiben; Die elf neuen Nachrichten zu Tripple T und den Goronen sind enthalten; alle anderen Nachrichten bleiben unverändert.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V21. Abschrift zum Durchgehen und Umschreiben; Die 16 neuen Nachrichten zu Goronia und Feuertempel sind enthalten; alle anderen Nachrichten bleiben unverändert.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Waldweise, Tripple T und unmittelbare Reaktionen nach dem Waldtempel. Boris, alle erwachsenen Kokiri-Zustände und optionale Nebenbegegnungen dieses Kapitels sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 

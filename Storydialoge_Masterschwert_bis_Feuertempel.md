@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Master-Schwert bis Feuertempel
 
-Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V20. Abschrift zum Durchgehen und Umschreiben; Die elf neuen Nachrichten zu Tripple T und den Goronen sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
+Stand: 21. Oktober 2026, eingebauter deutscher PAL-1.0-Stand V21. Abschrift zum Durchgehen und Umschreiben; Die 16 neuen Nachrichten zu Goronia und Feuertempel sind enthalten; der Export selbst ändert keine Spieltexte oder ROM-Dateien.
 
 Beginn: Erwachen bei Robert Habeck nach dem Ziehen des Master-Schwerts. Ende: Wallace als Weise des Feuers, Feueramulett und unmittelbare Reaktionen nach dem Feuertempel. Boris, alle erwachsenen Kokiri-Zustände, Goronia, sämtliche platzierten Feuertempel-Gefangenen und optionale Nebenbegegnungen dieser Kapitel sind ebenfalls enthalten. Andere frei bereisbare Weltregionen und spätere Hauptkapitel sind nicht Gegenstand dieser Liste.
 
@@ -2284,51 +2284,67 @@ Direkte native Fortsetzung: 3033.
 > der Drache blutdürstig und ziemlich
 > gefährlich. Und er spuckt Feuer.
 
-### 3036
-
-Projekttext.
-Zweiter Antwortzweig, jetzt mit der Auswahl Über Wallace beschriftet; Text 3036 noch unverändert für die Fortsetzung. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.
-
-**Seite 1**
-
-> Alle Goronen arbeiten jetzt im
-> Feuertempel. Merz hat sie dazu
-> gezwungen.
-
-**Seite 2**
-
-> Schichtende soll angeblich irgendwann
-> sein. Danach kommen sie wieder
-> heim. Angeblich.
-
 **Seite 3**
 
-> Für einen Hungerslohn, manchmal die
-> ganze Nacht. Und Feierabend machen
-> dürfen sie nicht.
+> Es gibt nur einen Mann, der Volvagia
+> aufhalten kann: Wallace.
 
 **Seite 4**
 
-> Die Zellen heißen jetzt
-> Mitarbeiter-Unterkünfte. Von außen
-> abgeschlossen.
+> Das hat Friedrich Merz nicht gefallen.
+> Deswegen hat er Wallace sein
+> Equipment weggenommen: einen
+> besonderen Hammer, der jetzt im
 
 **Seite 5**
 
-> Vater will sie da rausholen. Bitte hilf
-> ihm, [Spielername]!
+> Feuertempel versteckt ist.
 
 **Seite 6**
 
-> Tut mir leid, daß ich Deinen Namen
-> beleidigt hab. Nimm dieses Gewand
-> als Entschuldigung.
+> Mein Vater ist dorthin gegangen, um
+> an den Wallace-Hammer zu gelangen.
 
-**Seite 7**
+### 3036
 
-> Ein Forscher namens Wallace hat es
-> entwickelt. Feuerfest! Und zufällig
-> genau Deine Größe. Wahnsinn, oder?
+Projekttext.
+Wallace-Antwortzweig: Forschung bei den Goronen, Donnerblumen, Merz und Gewandübergabe. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.
+
+**Seite 1**
+
+> Wallace kam einst zu uns, erzählte
+> mir mein Vater, um mehr über das
+> Volk der Goronen zu lernen. Wie wir
+> hier in diesem Klima überleben und
+
+**Seite 2**
+
+> wie unser Steinmetabolismus
+> funktioniert.
+
+**Seite 3**
+
+> Wallace zeigte sich ebenfalls
+> interessiert an unseren nativen
+> Gewächsen, den Donnerblumen. Die
+> kennst Du ja. Das sind Pflanzen, die
+
+**Seite 4**
+
+> wie eine Bombe explodieren.
+
+**Seite 5**
+
+> Friedrich Merz bekam davon Wind und
+> engagierte Wallace, um die ultimative
+> Waffe zu konstruieren.
+
+**Seite 6**
+
+> Du mußt Wallace da rausholen,
+> [Spielername]! Nimm dafür dieses
+> Gewand. Er hat es selbst basierend
+> auf seiner Forschung entwickelt.
 
 ### 0050
 
@@ -2350,56 +2366,60 @@ Erstansprache; Wiederholungs-ID: 3038.
 
 **Seite 1**
 
-> Vater sagte, ich solle niemanden
-> durchlassen.
+> Ich dachte immer, es wäre spannend,
+> wenn ich ganz Goronia für mich
+> selbst hätte, [Spielername]. Aber
+> jetzt ist niemand hier, der mit mir
 
 **Seite 2**
 
-> Bei Dir, [Spielername], ist das
-> etwas anderes. Du kannst uns helfen!
+> spielen kann.
 
 **Seite 3**
 
-> Vater ist Chef, weil er Steine ißt.
-> Das kann ich auch. Muß ich jetzt
-> eine Bewerbung schreiben?
+> Deshalb spiele ich mit mir selbst.
+> Warte, das hat sich gerade ein
+> bißchen komisch angehört.
 
 **Seite 4**
 
-> Der Ladenbesitzer hat sich irgendwo
-> versteckt. Vielleicht kann er Dir
-> helfen.
-
-**Seite 5**
-
-> Ich zeige Dir den geheimen Pfad zum
-> Feuertempel!
+> Ich habe mich gerade wie ein Loser
+> angehört, der den ganzen Tag Doodle
+> Jump auf seinem Handy spielt. Das
+> meinte ich damit.
 
 ### 3038
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Wiederholung mit Goronen-Rüstung und ohne Feueramulett.
 Wiederholung bei erneutem Ansprechen nach 3037.
 
 **Seite 1**
 
-> Versuche, die Statue in Vaters 
-> Raum zu verschieben!
+> Der Eingang zum Feuertempel ist im
+> Büro meines Vaters hinter der
+> Statue. Dort, wo er damals stand, als
+> Du sein Blut kontrolliert hast.
+
+**Seite 2**
+
+> Das hat er mir auch erzählt. Total
+> verrückt.
 
 ## 18. Todeskrater – Hitze, Sheik und der Bolero des Feuers
 
 ### 3040
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Allgemeine zeitgesteuerte Hitze-Warnung; kann an passenden Stellen vor dem sicheren Schutz erscheinen.
 Zeitgesteuerte Textcodes: FADE(60). Die Werte sind nur dokumentiert, nicht geändert.
 
 **Seite 1**
 
-> [Spielername], in dieser Höhle 
-> herrscht extreme Hitze! 
-> Lange können wir hier nicht 
-> bleiben!
+> [Spielername], was machst Du
+> denn? Wenn wir uns hier weiter
+> aufhalten, werden wir in Flammen
+> aufgehen!
 
 ### 303E
 
@@ -2461,73 +2481,70 @@ Darunia am Anfang des Feuertempels. Er ist in dieser Begegnung noch Darunia; Wal
 
 **Seite 1**
 
-> Wer ist da? Bist Du es,
-> [Spielername]?
+> Ich werde wahnsinnig,
+> [Spielername]! Aus dem
+> Drei-Käse-Hoch ist jetzt ein
+> Neun-Käse-Hoch geworden. Es ist
 
 **Seite 2**
 
-> Sieben Jahre! Du bist groß geworden.
-> Meine Qualifikation ist ebenfalls
-> gewachsen.
+> sieben Jahre her, und Du bist so in
+> die Höhe gewachsen!
 
 **Seite 3**
 
-> Ich bin bärenstark, esse Steine und
-> kann mich zusammenrollen.
+> Merz hat mich gezwungen, mein
+> eigenes Volk anzuleiten, hier Bergbau
+> für seine grauenvolle Bombe zu
+> betreiben.
 
 **Seite 4**
 
-> Ja, das können die anderen auch.
-> Aber ich kann es in leitender
-> Funktion!
+> Auch Wallace ist hier. Er war mir
+> immer ein guter Freund. Wir haben
+> immer gerne zusammen Käse
+> gegessen. Ich habe den Käse dann auf
 
 **Seite 5**
 
-> Merz hat Volvagia wiedererweckt.
-> Der Drache soll die gefangenen
-> Goronen fressen.
+> Steinen gegessen, weil ich ein Gorone
+> bin.
 
 **Seite 6**
 
-> Eine Warnung an jeden, der
-> widerspricht. Merz hält das offenbar
-> für Personalführung.
+> Und jetzt wird es endlich Zeit für die
+> Rebellion! Hilf mir, die Männer und
+> Frauen meines Volkes zu befreien. Ja,
+> es gibt auch Goronen-Frauen. Was
 
 **Seite 7**
 
-> Kommt Volvagia hier raus, brennt
-> ganz Hyrule. Da hilft selbst meine
-> Hitzebeständigkeit nicht.
+> dachtest Du denn?
 
 **Seite 8**
 
-> Ich gehe zur Bestie. Ich kann durch
-> Lava laufen. Du willst schon wieder
-> etwas dazu sagen, oder?
+> Während Du Dich um Wallace
+> kümmerst, werde ich schon mal meine
+> anderen Männer suchen und von ihrer
+> Tätigkeit erlösen.
 
 **Seite 9**
 
-> Der legendäre Hammer fehlt mir
-> allerdings. Aber ich habe Erfahrung.
-> Und diese Frisur.
+> Ich bitte Dich: Bewahre Goronia und
+> den Rest dieses Landes vor einem
+> Super-GAU!
 
 **Seite 10**
 
-> [Spielername], als Dein Bruder
-> bitte ich Dich: Rette meine Leute,
-> während ich den Drachen fordere!
+> Merz bedroht Hyrule mit
+> Abschreckungslärm, mit Superwaffen,
+> Neutronen und Tod.
 
 **Seite 11**
 
-> Die Zellen sind über den ganzen
-> Feuertempel verteilt. Befreie die
-> gefangenen Goronen!
-
-**Seite 12**
-
-> Falls jemand fragt: Ich bin wegen
-> meiner Fähigkeiten der Chef. Nicht
-> wegen der Haare.
+> Das ist die moderne Inquisition gegen
+> Dich und die Goronen-Union. Wir
+> sehen uns!
 
 ## 20. Feuertempel – sämtliche örtlichen Navi-Hinweise
 
@@ -2618,178 +2635,139 @@ Navi: automatische Warnung am verrosteten Schalter, Räume 10 und 11; beide verw
 
 ### 3051
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Normaler Gorone bei noch geschlossener Zelle. Wallace hat hierfür stattdessen 209E.
 
 **Seite 1**
 
-> Bitte... Bitte friß mich nicht!
-> Wenn Du mich frißt, wird Dir 
-> ganz schlecht werden!
-
-**Seite 2**
-
-> Du würdest es bereuen!
+> Man kann diese Steine nicht essen.
+> Mir wird nur schlecht von ihnen, und
+> ich schmecke Metall in meinem Mund.
 
 ### 3071
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
 Gemeinsamer Befreiungs-Auftakt nach Öffnen einer Zelle; beim Bestätigen folgt genau der zu diesem Gefangenen gehörende Text. Nicht sämtliche Ratschläge hintereinander.
 
 **Seite 1**
 
-> Die Qualen haben ein Ende!
-> Ich bin frei!
+> Es ist endlich Zeit zurückzuschlagen!
 
 ### 3052
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 17, Zellenschalter 9. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Ah, sicher hat Darunia Dich um
-> Hilfe gebeten! Du hast etwas bei
-> mir gut!
-
-**Seite 2**
-
-> Hilf Darunia!
+> Es wird Zeit, daß die Goronen sich
+> Goronia zurückholen. Merz, leck Eier!
 
 ### 306A
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 23, Zellenschalter 5. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Du hast mich gerettet! Dafür
-> offenbare ich Dir ein Geheimnis!
-
-**Seite 2**
-
-> Hast Du Feuer gefangen, so 
-> schwinge Dein Schwert oder rolle
-> Dich über den Boden. So löschst
-> Du es schneller...
+> Mir gefällt Dein orangenes Gewand.
+> Ich kenne den Typen, der das Ding
+> erfunden hat. Ziemlich cooler Kerl!
 
 ### 306B
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 4, Zellenschalter 4. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Hab Dank! Du bist mein Retter!
-> Höre meinen Ratschlag...
+> Du hast mich gerettet! Jetzt kann
+> ich endlich zu meiner Frau und
+> meinen Kindern zurückkehren. Meinen
+> Goronen-Kindern.
 
 **Seite 2**
 
-> In diesem Tempel wirst Du auf
-> Kreaturen treffen, die Dich 
-> attackieren, während sie tanzen.
-> Gegen Pfeile sind sie immun...
+> Die sind relativ schnell ausgewachsen,
+> falls Du mal ein Goronenkind siehst.
+> Die werden relativ schnell erwachsen.
+> Das ist bei uns einfach so.
 
 **Seite 3**
 
-> Finde das Relikt der Goronen,
-> und Du wirst auch diese Gegner
-> bezwingen!
+> Rein visuell meine ich natürlich. Vom
+> Geist her sind die immer noch relativ
+> kindisch drauf. Sind ja auch Kinder.
 
 ### 306C
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 22, Zellenschalter 2. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Laß mich Dir als Dank
-> dafür etwas verraten!
-
-**Seite 2**
-
-> Einige Schalter dieses Tempels
-> lassen sich nur mit Gewalt 
-> aktivieren. Das Relikt der Goronen
-> kann Dir dabei behilflich sein!
+> Möge uns das Feuer dieses Tempels
+> zum Siege gereichen, um auch
+> Friedrich Merz' letzte Haare zu
+> verbrennen!
 
 ### 306D
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 5, Zellenschalter 10. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Als Dank für meine Befreiung 
-> verrate ich Dir etwas!
+> Als Dank für meine Befreiung verrate
+> ich Dir etwas: Merz ist ein geiziges,
+> gieriges Gerippe.
 
 **Seite 2**
 
-> Findest Du auf der Karte einen
-> Ort, den Du nicht erreichen 
-> kannst, versuche es mit der 
-> Okarina!
+> Das ist kein Geheimnis. Das ist ein
+> Fakt.
 
 ### 306E
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 2, Zellenschalter 8. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Als Dank für meine Rettung
-> verrate ich Dir ein Geheimnis!
+> Ich war selbst daran interessiert, die
+> ultimative Waffe zu konstruieren.
+> Aber Merz hat es zu weit getrieben.
+> Deswegen weise ich jede Schuld von
 
 **Seite 2**
 
-> Um zu der Tür zu gelangen, hinter
-> der Darunia verschwunden ist,
-> mußt Du den Pfeiler, der aus der 
-> Decke ragt, nach unten befördern!
-
-**Seite 3**
-
-> Finde einen Weg, der Dich in
-> die oberen Stockwerke bringt!
+> mir.
 
 ### 306F
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 11, Zellenschalter 11. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Du hast mich gerettet! Dafür
-> vertraue ich Dir etwas an!
-
-**Seite 2**
-
-> In der Eingangshalle des Tempels
-> befindet sich eine Statue.
-> Sie verbirgt eine Tür...
-
-**Seite 3**
-
-> Mit dem Relikt der Goronen
-> kannst Du auch dieses Problem
-> lösen!
+> Jetzt erkenne ich, daß das
+> Wettrüsten zu nichts Gutem führt.
 
 ### 3070
 
-Vorhandener Originaltext ohne eigenen Kapitel-Ersatz.
+Projekttext.
  Tatsächlich platzierter Gefangener in Raum 20, Zellenschalter 1. Folgt bei diesem Goronen nach 3071.
 
 **Seite 1**
 
-> Danke! Laß mich Dir ein Geheimnis
-> anvertrauen...
+> Danke, daß Du mich befreit hast. Laß
+> mich Dir ein Geheimnis anvertrauen:
+> Manchmal rolle ich mich zusammen,
+> um mich selbst als Bowlingkugel zu
 
 **Seite 2**
 
-> Wände, die Du mit dem Relikt
-> der Goronen zerstören kannst, 
-> klingen hohl, wenn Du mit dem
-> Schwert dagegen schlägst.
+> verwenden.
 
 ## 22. Wallace im Feuertempel – vor und nach dem Öffnen seiner Zelle
 

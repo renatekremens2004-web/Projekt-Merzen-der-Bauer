@@ -1,3 +1,11 @@
+# Goronia und Feuertempel V21
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Feuertempel_V21.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Feuertempel_V21.bps?raw=true) · [16 neue Texte](Feuertempel_V21_Aenderungen.md) · [Quellen](Merzen_Feuertempel_V21_Quellen_Patch.zip?raw=true)
+
+[Aktuelle Dialoge bis Feuertempel](Storydialoge_Masterschwert_bis_Feuertempel.md) · [Als TXT](Storydialoge_Masterschwert_bis_Feuertempel.txt?raw=true)
+
+Darunias Sohn, Wallace-Antwortzweig, Darunia und die gefangenen Goronen überarbeitet. Wallace selbst bleibt für die Fortsetzung unverändert; feste Textzeiten erhalten. Alle bisherigen Änderungen enthalten; jeweils auf unveränderte PAL 1.0 anwenden.
+
 # Tripple T und Goronen V20
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Sahur_Goronen_V20.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Sahur_Goronen_V20.bps?raw=true) · [Elf neue Texte](Sahur_Goronen_V20_Aenderungen.md) · [Quellen](Merzen_Sahur_Goronen_V20_Quellen_Patch.zip?raw=true)

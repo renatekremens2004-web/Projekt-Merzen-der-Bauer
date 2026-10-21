@@ -1,6 +1,6 @@
 {
-  "source_sha256": "f4febae8f761bffe509c6a4aedc0a8bb793918bd020f2abaa9f48fe8d06fe883",
-  "rom_reference_sha256": "1a3fc73bf300c5ce2a6fc923c3b792db81234918a775380cfc10b58d577b1622",
+  "source_sha256": "a6d356229ae0b09269a9a112cffebb9f8ab7280d1c76abd4fa3933ac8d223d5c",
+  "rom_reference_sha256": "bcb38b4007b603291c341fadd55f34347511d2e65b1d0360409d4a4e2e462fc3",
   "scope": "Schwert gezogen / Erwachen bis Feuertempel-Abschluß und unmittelbare Reaktionen",
   "fire_prisoner_placements": [
     {
@@ -1928,7 +1928,11 @@
       ],
       "pages": [
         "Volvagia heißt der Drache. Er lebt im\nFeuertempel und war einst ein\nwunderschönes Geschöpf.",
-        "Friedrich Merz hat es jedoch auch\ngeschafft, das zu versauen. Jetzt ist\nder Drache blutdürstig und ziemlich\ngefährlich. Und er spuckt Feuer."
+        "Friedrich Merz hat es jedoch auch\ngeschafft, das zu versauen. Jetzt ist\nder Drache blutdürstig und ziemlich\ngefährlich. Und er spuckt Feuer.",
+        "Es gibt nur einen Mann, der Volvagia\naufhalten kann: Wallace.",
+        "Das hat Friedrich Merz nicht gefallen.\nDeswegen hat er Wallace sein\nEquipment weggenommen: einen\nbesonderen Hammer, der jetzt im",
+        "Feuertempel versteckt ist.",
+        "Mein Vater ist dorthin gegangen, um\nan den Wallace-Hammer zu gelangen."
       ],
       "controls": [
         "TEXTID(0x3033)"
@@ -1944,16 +1948,15 @@
         "feuertempel_wallace_de.json"
       ],
       "pages": [
-        "Alle Goronen arbeiten jetzt im\nFeuertempel. Merz hat sie dazu\ngezwungen.",
-        "Schichtende soll angeblich irgendwann\nsein. Danach kommen sie wieder\nheim. Angeblich.",
-        "Für einen Hungerslohn, manchmal die\nganze Nacht. Und Feierabend machen\ndürfen sie nicht.",
-        "Die Zellen heißen jetzt\nMitarbeiter-Unterkünfte. Von außen\nabgeschlossen.",
-        "Vater will sie da rausholen. Bitte hilf\nihm, [Spielername]!",
-        "Tut mir leid, daß ich Deinen Namen\nbeleidigt hab. Nimm dieses Gewand\nals Entschuldigung.",
-        "Ein Forscher namens Wallace hat es\nentwickelt. Feuerfest! Und zufällig\ngenau Deine Größe. Wahnsinn, oder?"
+        "Wallace kam einst zu uns, erzählte\nmir mein Vater, um mehr über das\nVolk der Goronen zu lernen. Wie wir\nhier in diesem Klima überleben und",
+        "wie unser Steinmetabolismus\nfunktioniert.",
+        "Wallace zeigte sich ebenfalls\ninteressiert an unseren nativen\nGewächsen, den Donnerblumen. Die\nkennst Du ja. Das sind Pflanzen, die",
+        "wie eine Bombe explodieren.",
+        "Friedrich Merz bekam davon Wind und\nengagierte Wallace, um die ultimative\nWaffe zu konstruieren.",
+        "Du mußt Wallace da rausholen,\n[Spielername]! Nimm dafür dieses\nGewand. Er hat es selbst basierend\nauf seiner Forschung entwickelt."
       ],
       "controls": [],
-      "notes": "Zweiter Antwortzweig, jetzt mit der Auswahl Über Wallace beschriftet; Text 3036 noch unverändert für die Fortsetzung. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.",
+      "notes": "Wallace-Antwortzweig: Forschung bei den Goronen, Donnerblumen, Merz und Gewandübergabe. Beim Schließen wird die Goronen-Rüstung angeboten; Kauf-/Belohnungslogik unverändert.",
       "locations": []
     },
     {
@@ -1980,11 +1983,10 @@
         "darunia_qualifikation_de.json"
       ],
       "pages": [
-        "Vater sagte, ich solle niemanden\ndurchlassen.",
-        "Bei Dir, [Spielername], ist das\netwas anderes. Du kannst uns helfen!",
-        "Vater ist Chef, weil er Steine ißt.\nDas kann ich auch. Muß ich jetzt\neine Bewerbung schreiben?",
-        "Der Ladenbesitzer hat sich irgendwo\nversteckt. Vielleicht kann er Dir\nhelfen.",
-        "Ich zeige Dir den geheimen Pfad zum\nFeuertempel!"
+        "Ich dachte immer, es wäre spannend,\nwenn ich ganz Goronia für mich\nselbst hätte, [Spielername]. Aber\njetzt ist niemand hier, der mit mir",
+        "spielen kann.",
+        "Deshalb spiele ich mit mir selbst.\nWarte, das hat sich gerade ein\nbißchen komisch angehört.",
+        "Ich habe mich gerade wie ein Loser\nangehört, der den ganzen Tag Doodle\nJump auf seinem Handy spielt. Das\nmeinte ich damit."
       ],
       "controls": [],
       "notes": "Erste Ansprache des kleinen Goronen mit Goronen-Rüstung und ohne Feueramulett.",
@@ -1994,9 +1996,12 @@
       "id": "3038",
       "section": "17. Goronia als Erwachsener – Darunias Sohn und das feuerfeste Gewand",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Versuche, die Statue in Vaters \nRaum zu verschieben!"
+        "Der Eingang zum Feuertempel ist im\nBüro meines Vaters hinter der\nStatue. Dort, wo er damals stand, als\nDu sein Blut kontrolliert hast.",
+        "Das hat er mir auch erzählt. Total\nverrückt."
       ],
       "controls": [],
       "notes": "Wiederholung mit Goronen-Rüstung und ohne Feueramulett.",
@@ -2006,9 +2011,11 @@
       "id": "3040",
       "section": "18. Todeskrater – Hitze, Sheik und der Bolero des Feuers",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "[Spielername], in dieser Höhle \nherrscht extreme Hitze! \nLange können wir hier nicht \nbleiben!"
+        "[Spielername], was machst Du\ndenn? Wenn wir uns hier weiter\naufhalten, werden wir in Flammen\naufgehen!"
       ],
       "controls": [
         "FADE(60)"
@@ -2069,18 +2076,17 @@
         "darunia_qualifikation_de.json"
       ],
       "pages": [
-        "Wer ist da? Bist Du es,\n[Spielername]?",
-        "Sieben Jahre! Du bist groß geworden.\nMeine Qualifikation ist ebenfalls\ngewachsen.",
-        "Ich bin bärenstark, esse Steine und\nkann mich zusammenrollen.",
-        "Ja, das können die anderen auch.\nAber ich kann es in leitender\nFunktion!",
-        "Merz hat Volvagia wiedererweckt.\nDer Drache soll die gefangenen\nGoronen fressen.",
-        "Eine Warnung an jeden, der\nwiderspricht. Merz hält das offenbar\nfür Personalführung.",
-        "Kommt Volvagia hier raus, brennt\nganz Hyrule. Da hilft selbst meine\nHitzebeständigkeit nicht.",
-        "Ich gehe zur Bestie. Ich kann durch\nLava laufen. Du willst schon wieder\netwas dazu sagen, oder?",
-        "Der legendäre Hammer fehlt mir\nallerdings. Aber ich habe Erfahrung.\nUnd diese Frisur.",
-        "[Spielername], als Dein Bruder\nbitte ich Dich: Rette meine Leute,\nwährend ich den Drachen fordere!",
-        "Die Zellen sind über den ganzen\nFeuertempel verteilt. Befreie die\ngefangenen Goronen!",
-        "Falls jemand fragt: Ich bin wegen\nmeiner Fähigkeiten der Chef. Nicht\nwegen der Haare."
+        "Ich werde wahnsinnig,\n[Spielername]! Aus dem\nDrei-Käse-Hoch ist jetzt ein\nNeun-Käse-Hoch geworden. Es ist",
+        "sieben Jahre her, und Du bist so in\ndie Höhe gewachsen!",
+        "Merz hat mich gezwungen, mein\neigenes Volk anzuleiten, hier Bergbau\nfür seine grauenvolle Bombe zu\nbetreiben.",
+        "Auch Wallace ist hier. Er war mir\nimmer ein guter Freund. Wir haben\nimmer gerne zusammen Käse\ngegessen. Ich habe den Käse dann auf",
+        "Steinen gegessen, weil ich ein Gorone\nbin.",
+        "Und jetzt wird es endlich Zeit für die\nRebellion! Hilf mir, die Männer und\nFrauen meines Volkes zu befreien. Ja,\nes gibt auch Goronen-Frauen. Was",
+        "dachtest Du denn?",
+        "Während Du Dich um Wallace\nkümmerst, werde ich schon mal meine\nanderen Männer suchen und von ihrer\nTätigkeit erlösen.",
+        "Ich bitte Dich: Bewahre Goronia und\nden Rest dieses Landes vor einem\nSuper-GAU!",
+        "Merz bedroht Hyrule mit\nAbschreckungslärm, mit Superwaffen,\nNeutronen und Tod.",
+        "Das ist die moderne Inquisition gegen\nDich und die Goronen-Union. Wir\nsehen uns!"
       ],
       "controls": [],
       "notes": "Darunia am Anfang des Feuertempels. Er ist in dieser Begegnung noch Darunia; Wallace übernimmt die spätere Feuerweisen-Rolle.",
@@ -2161,10 +2167,11 @@
       "id": "3051",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Bitte... Bitte friß mich nicht!\nWenn Du mich frißt, wird Dir \nganz schlecht werden!",
-        "Du würdest es bereuen!"
+        "Man kann diese Steine nicht essen.\nMir wird nur schlecht von ihnen, und\nich schmecke Metall in meinem Mund."
       ],
       "controls": [],
       "notes": "Normaler Gorone bei noch geschlossener Zelle. Wallace hat hierfür stattdessen 209E.",
@@ -2174,9 +2181,11 @@
       "id": "3071",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Die Qualen haben ein Ende!\nIch bin frei!"
+        "Es ist endlich Zeit zurückzuschlagen!"
       ],
       "controls": [
         "EVENT"
@@ -2188,10 +2197,11 @@
       "id": "3052",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Ah, sicher hat Darunia Dich um\nHilfe gebeten! Du hast etwas bei\nmir gut!",
-        "Hilf Darunia!"
+        "Es wird Zeit, daß die Goronen sich\nGoronia zurückholen. Merz, leck Eier!"
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 17, Zellenschalter 9. Folgt bei diesem Goronen nach 3071.",
@@ -2201,10 +2211,11 @@
       "id": "306A",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Du hast mich gerettet! Dafür\noffenbare ich Dir ein Geheimnis!",
-        "Hast Du Feuer gefangen, so \nschwinge Dein Schwert oder rolle\nDich über den Boden. So löschst\nDu es schneller..."
+        "Mir gefällt Dein orangenes Gewand.\nIch kenne den Typen, der das Ding\nerfunden hat. Ziemlich cooler Kerl!"
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 23, Zellenschalter 5. Folgt bei diesem Goronen nach 3071.",
@@ -2214,11 +2225,13 @@
       "id": "306B",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Hab Dank! Du bist mein Retter!\nHöre meinen Ratschlag...",
-        "In diesem Tempel wirst Du auf\nKreaturen treffen, die Dich \nattackieren, während sie tanzen.\nGegen Pfeile sind sie immun...",
-        "Finde das Relikt der Goronen,\nund Du wirst auch diese Gegner\nbezwingen!"
+        "Du hast mich gerettet! Jetzt kann\nich endlich zu meiner Frau und\nmeinen Kindern zurückkehren. Meinen\nGoronen-Kindern.",
+        "Die sind relativ schnell ausgewachsen,\nfalls Du mal ein Goronenkind siehst.\nDie werden relativ schnell erwachsen.\nDas ist bei uns einfach so.",
+        "Rein visuell meine ich natürlich. Vom\nGeist her sind die immer noch relativ\nkindisch drauf. Sind ja auch Kinder."
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 4, Zellenschalter 4. Folgt bei diesem Goronen nach 3071.",
@@ -2228,10 +2241,11 @@
       "id": "306C",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Laß mich Dir als Dank\ndafür etwas verraten!",
-        "Einige Schalter dieses Tempels\nlassen sich nur mit Gewalt \naktivieren. Das Relikt der Goronen\nkann Dir dabei behilflich sein!"
+        "Möge uns das Feuer dieses Tempels\nzum Siege gereichen, um auch\nFriedrich Merz' letzte Haare zu\nverbrennen!"
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 22, Zellenschalter 2. Folgt bei diesem Goronen nach 3071.",
@@ -2241,10 +2255,12 @@
       "id": "306D",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Als Dank für meine Befreiung \nverrate ich Dir etwas!",
-        "Findest Du auf der Karte einen\nOrt, den Du nicht erreichen \nkannst, versuche es mit der \nOkarina!"
+        "Als Dank für meine Befreiung verrate\nich Dir etwas: Merz ist ein geiziges,\ngieriges Gerippe.",
+        "Das ist kein Geheimnis. Das ist ein\nFakt."
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 5, Zellenschalter 10. Folgt bei diesem Goronen nach 3071.",
@@ -2254,11 +2270,12 @@
       "id": "306E",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Als Dank für meine Rettung\nverrate ich Dir ein Geheimnis!",
-        "Um zu der Tür zu gelangen, hinter\nder Darunia verschwunden ist,\nmußt Du den Pfeiler, der aus der \nDecke ragt, nach unten befördern!",
-        "Finde einen Weg, der Dich in\ndie oberen Stockwerke bringt!"
+        "Ich war selbst daran interessiert, die\nultimative Waffe zu konstruieren.\nAber Merz hat es zu weit getrieben.\nDeswegen weise ich jede Schuld von",
+        "mir."
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 2, Zellenschalter 8. Folgt bei diesem Goronen nach 3071.",
@@ -2268,11 +2285,11 @@
       "id": "306F",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Du hast mich gerettet! Dafür\nvertraue ich Dir etwas an!",
-        "In der Eingangshalle des Tempels\nbefindet sich eine Statue.\nSie verbirgt eine Tür...",
-        "Mit dem Relikt der Goronen\nkannst Du auch dieses Problem\nlösen!"
+        "Jetzt erkenne ich, daß das\nWettrüsten zu nichts Gutem führt."
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 11, Zellenschalter 11. Folgt bei diesem Goronen nach 3071.",
@@ -2282,10 +2299,12 @@
       "id": "3070",
       "section": "21. Gefangene Goronen – Ansprache, Befreiung und alle tatsächlich platzierten Ratschläge",
       "kind": "Hauptgeschichte",
-      "project_sources": [],
+      "project_sources": [
+        "fire_neu_v21_de.json"
+      ],
       "pages": [
-        "Danke! Laß mich Dir ein Geheimnis\nanvertrauen...",
-        "Wände, die Du mit dem Relikt\nder Goronen zerstören kannst, \nklingen hohl, wenn Du mit dem\nSchwert dagegen schlägst."
+        "Danke, daß Du mich befreit hast. Laß\nmich Dir ein Geheimnis anvertrauen:\nManchmal rolle ich mich zusammen,\num mich selbst als Bowlingkugel zu",
+        "verwenden."
       ],
       "controls": [],
       "notes": " Tatsächlich platzierter Gefangener in Raum 20, Zellenschalter 1. Folgt bei diesem Goronen nach 3071.",
