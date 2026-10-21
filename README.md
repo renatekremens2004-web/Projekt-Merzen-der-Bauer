@@ -1,3 +1,9 @@
+# Schloß- und Wald-Dialoge V8
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Schloss_Wald_V8.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Schloss_Wald_V8.bps?raw=true) · [Eingebaute neue Texte](Schloss_Wald_V8_Texte.md) · [Prüfung](Schloss_Wald_V8_Aenderungen.md) · [Quellen](Merzen_Schloss_Wald_V8_Quellen_Patch.zip?raw=true)
+
+30 überarbeitete Texte mit der C-/Netz-Korrektur und genau einer Nietzsche-Erwähnung (1029). Alle bisherigen Inhalte enthalten. Gesamtpatch jeweils auf unveränderte Vanilla PAL 1.0 anwenden. Die vollständigen Arbeitslisten Kapitel 1–2 sind ebenfalls aktualisiert.
+
 # Kokiri-Dialoge V7: neue Texte am Spielanfang
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Kokiri_Dialoge_V7.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kokiri_Dialoge_V7.bps?raw=true) · [Eingebaute neue Texte](Kokiri_Dialoge_V7_Texte.md) · [Prüfung](Kokiri_Dialoge_V7_Aenderungen.md) · [Quellen](Merzen_Kokiri_Dialoge_V7_Quellen_Patch.zip?raw=true)

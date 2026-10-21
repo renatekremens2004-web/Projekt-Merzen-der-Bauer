@@ -1,8 +1,8 @@
 # Storydialoge Kapitel 1–2 – Hauptstrang bis vor die Zoras
 
-Stand: 21. Oktober 2026, Kokiri-Dialoge V7 (aktuell gebauter deutscher PAL-1.0-Stand).
+Stand: 21. Oktober 2026, Schloß-/Wald-Dialoge V8 (aktuell gebauter deutscher PAL-1.0-Stand).
 
-Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-/Deku-Baum-Änderungen V7.
+Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Enthält die neu eingebauten Kokiri-, Schloß- und Wald-Änderungen bis V8.
 
 Geltungsbereich: Kind-Link vom Intro über Deku-Baum, erste Zelda-Begegnung, Kakariko, Salias Lied, Goronia und Dodongos Höhle bis zum Übergang zu den Zoras. Die Farm und andere frei erreichbare Nebenhandlungen können in unterschiedlicher Reihenfolge besucht werden.
 
@@ -553,10 +553,10 @@ Projekttext.
 
 **Seite 1**
 
-> [Spielername], sieh dieses Netz!
-> Jetzt wirst Du gehetzt. Wenn ich
-> JETZT rufe, drückst Du [C-Up], um da
-> durchzugucken. JETZT!
+> [Spielername], jetzt C dieses Netz.
+> Jetzt wirst Du gehetzt. Wenn ich ruf
+> JETZT, dann blickst Du mit [C-Up] ab
+> durch das Netz. JETZT!
 
 ### 0102
 
@@ -878,8 +878,8 @@ Projekttext.
 
 **Seite 1**
 
-> Die Göttinnen haben uns verlassen.
-> Nietzsche oder so.
+> Als ihr Werk getan war, verließen die
+> Göttinnen diese Welt.
 
 ### 108B
 
@@ -1266,10 +1266,14 @@ Projekttext.
 
 **Seite 1**
 
-> Ist das soweit verständlich?
->
-> Nein!
+> Soll ich mich einfach mal komplett
+
+**Seite 2**
+
+> eins zu eins exakt nochmal so
+> wiederholen?
 > Ja!
+> Nein!
 
 _Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
 
@@ -1361,9 +1365,27 @@ Projekttext.
 
 **Seite 1**
 
-> Ich sah Mario mit Milchkisten zum
-> Schloß gehen. Rote Kappe, großer
-> Schnurrbart. Sehr wenig unauffällig.
+> Mein Vater Mario ist mit Milchkisten
+> zum Schloß gegangen. Er hat eine
+> rote Kappe, einen großen Schnurrbart
+> und eine blaue Latzhose.
+
+**Seite 2**
+
+> Also, es kann auch gut sein, daß er
+> seine Kappe mal wieder verloren hat.
+> Das ist eigentlich sein
+> Erkennungsmerkmal, aber manchmal
+
+**Seite 3**
+
+> hat er sie halt nicht auf.
+
+**Seite 4**
+
+> Da darf man sich jetzt nicht viel bei
+> denken. Das passiert halt manchmal,
+> ne? Er ist trotzdem Mario.
 
 ### 2041
 
@@ -1372,20 +1394,23 @@ Erstansprache; Wiederholung bei erneutem Ansprechen: 2042.
 
 **Seite 1**
 
-> Du siehst aus wie ein Feen-Junge aus
-> dem Wald! Wo kommst Du her?
+> Bist Du nicht einer von diesen
+> Kokiri? Hey, warte mal, müßtest Du
+> hier draußen nicht gleich einen
+> Herzinfarkt bekommen?
 
 **Seite 2**
 
-> Ich bin Malon. Meinem Vater Mario
-> gehört die Lon Lon-Farm.
+> Nein? Oh, war wohl einfach nur ein
+> Vorurteil. Egal, ich bin Malon. Meinem
+> Vater Mario gehört die Lon Lon-Farm.
 
 **Seite 3**
 
-> Er liefert Milch ans Schloß.
-> Hoffentlich sucht er diesmal wirklich
-> die Küche und nicht schon wieder
-> eine Prinzessin.
+> Er bringt gerade Milch zum Schloß.
+> Irgendein Verrückter dort, namens
+> Friedrich, hat Brustmilch bestellt.
+> Was zur Hölle, Alter!
 
 ### 2042
 
@@ -1394,10 +1419,10 @@ Wiederholungsansprache nach 2041; kein zusätzlicher Seitenanhang an dieses Erst
 
 **Seite 1**
 
-> Mario wollte Milch ins Schloß liefern.
-> Vermutlich hüpft er dort gerade über
-> etwas, statt einfach die Kisten
-> abzustellen.
+> Also, so eine Bestellung ist halt echt
+> seltsam, ne? Wir haben ihm jetzt
+> einfach ganz normale Milch geliefert.
+> Von einer Hyrule-Kuh.
 
 ### 2043
 
@@ -1405,21 +1430,24 @@ Projekttext.
 
 **Seite 1**
 
-> Gehst Du zum Schloß? Bitte suche
-> dort meinen Vater Mario. Er wollte
-> Milch abliefern.
+> Wenn Du gerade sowieso auf dem
+> Weg zum Schloß bist, dann schau mal
+> bitte, ob Mario da wieder eingepennt
+> ist.
 
 **Seite 2**
 
-> Sicher schläft er wieder. Er nennt
-> das einen Zwischenstand speichern.
-> Luigi findet sogar dafür lobende
-> Worte.
+> Das Problem mit ihm ist, daß er
+> teilweise nächtelang durchschläft.
+> Wenn Du ihn nicht weckst, würde der
+> locker sieben Jahre durchschlafen.
 
 **Seite 3**
 
-> Nimm dieses Ei mit. Bewahre es
-> warm und sorgsam auf.
+> Ach, eine Sache noch: Jemand beim
+> Schloß hat Eier zum Lecken bestellt.
+> Deswegen nimm das bei der
+> Gelegenheit bitte mit.
 
 **Seite 4**
 
@@ -1434,14 +1462,10 @@ Projekttext.
 
 **Seite 1**
 
-> Lege das Ei auf [C], um es
-> einzusetzen!
-
-**Seite 2**
-
-> Mario braucht täglich einen Superpilz.
-> Ich brauche einen Vater, der seine
-> Lieferung beendet.
+> Übrigens, wenn Du mal ganz genau
+> hinguckst, trägt Mario das Gesicht
+> von seinem Erzfeind als Anhänger.
+> Achte da mal drauf.
 
 ### 702A
 
@@ -1449,19 +1473,15 @@ Projekttext.
 
 **Seite 1**
 
-> Zzz... Superpilz...
+> Zzz... It's-a me... Mario...
 
 **Seite 2**
 
-> Prinzessin... gerettet...
+> Let's-a... go... Zzz...
 
 **Seite 3**
 
-> Milch... abliefern...
-
-**Seite 4**
-
-> Let's-a... go... Zzz...
+> Mario... number one... Zzz...
 
 ### 702B
 
@@ -1469,13 +1489,9 @@ Projekttext.
 
 **Seite 1**
 
-> Mamma mia! Wer hat mich aus
-> meinem Bonus-Level geholt?
-
-**Seite 2**
-
-> Oh! Ein neuer Mitspieler! Das ist ja
-> wunderbar!
+> Mamma mia! It's-a me, Mario! Ich bin
+> wach. Oh. Bin ich schon wieder
+> eingeschlafen?
 
 ### 702C
 
@@ -1487,15 +1503,17 @@ Projekttext.
 
 **Seite 2**
 
-> Mir gehört die Lon Lon-Farm. Wir
-> haben Milch, Hühner und erstaunlich
-> wenige Abflußrohre.
+> Ja, mir gehört die Lon Lon-Farm. Wir
+> haben Milch und Hühner und auch
+> Pferde, falls Du mal vorbeikommen
+> willst.
 
 **Seite 3**
 
-> Ich wollte Milch ins Schloß liefern.
-> Dann habe ich kurz gespeichert. Im
-> Liegen. Mit geschlossenen Augen.
+> Ich wollte hier Milch ins Schloß
+> liefern und einfach nur kurz meinen
+> Zwischenstand speichern, sozusagen.
+> Metaphorisch gemeint.
 
 **Seite 4**
 
@@ -1504,10 +1522,17 @@ Projekttext.
 
 **Seite 5**
 
-> Ich dachte, meine Prinzessinnenpause
-> wäre nur ganz kurz gewesen!
+> Mario number one! Ich bin die
+> Nummer eins, das sage ich ab und
+> an. Aber wenn ich wieder eingepennt
+> bin, ist mir das doch peinlich. Da
 
 **Seite 6**
+
+> fühle ich mich wie ein Betrüger. Das
+> nennt man wohl Impostor-Syndrom.
+
+**Seite 7**
 
 > Ich muß zurück! Danke fürs
 > Aufwecken. Let's-a go!
@@ -1516,24 +1541,22 @@ Projekttext.
 
 ### 702E
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Nanu?
+> Oh, nanu?
 
 ### 702F
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Wer bist Du?
-
-**Seite 2**
-
-> Wie hast Du es geschafft,
-> an den Wachen vorbeizukommen?
+> Wer bist Du? Wie hast Du es
+> geschafft, an den Wachen
+> vorbeizukommen? Das braucht
+> meistens mehrere Versuche.
 
 ### 7030
 
@@ -1550,18 +1573,12 @@ _Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
 
 ### 7031
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Das ist seltsam...
-> Ich glaubte eben, Du wärst der
-> Junge aus meinem Traum...
-> Du hast ihn wirklich nicht?
-
-**Seite 2**
-
-> Sag mir bitte die Wahrheit...
+> Ich hatte einen Albtraum, und Du
+> kamst darin vor.
 
 ### 7032
 
@@ -1645,7 +1662,7 @@ Ohne Kapitel-Ersatz.
 
 ### 7036
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
@@ -1655,9 +1672,9 @@ Ohne Kapitel-Ersatz.
 
 **Seite 2**
 
-> Denn das Triforce hat die Macht,
-> die Wünsche dessen wahr werden
-> zu lassen, der es in Händen hält!
+> Das Triforce ist eine
+> Wunscherfüllmaschine. Wer es hat,
+> kann sich alles wünschen!
 
 **Seite 3**
 
@@ -1728,13 +1745,13 @@ _Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
 
 ### 7038
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Oh, tut mir leid...
-> Ich konnte noch nie gut
-> Geschichten erzählen...
+> Ist das Dein Ernst? Jetzt muß ich
+> die ganze Geschichte nochmal
+> wiederholen.
 
 ### 7005
 
@@ -1816,8 +1833,10 @@ Projekttext.
 
 **Seite 1**
 
-> Ich weiß: Friedrich Merz ist der Mann
-> aus meinem Traum!
+> Dieser Mann ist das pure Böse, und
+> charmant ist er auch nicht. Doch
+> mein Vater ist alt, und deswegen
+> fällt er auf ihn rein.
 
 **Seite 2**
 
@@ -1872,21 +1891,20 @@ Projekttext.
 
 ### 7039
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 
 **Seite 1**
 
-> Was ist passiert? Hat er Dich
-> gesehen?
+> Was machst Du da?
 
 **Seite 2**
 
-> Hab keine Angst.
+> Das war viel zu offensichtlich.
 
 **Seite 3**
 
-> Er hat keine Ahnung von unseren
-> Plänen... Noch nicht!
+> Toll, jetzt hat er uns gesehen. Große
+> Klasse.
 
 ### 703A
 
@@ -2058,8 +2076,7 @@ Projekttext.
 
 **Seite 1**
 
-> Hyrule needs saving.
-> I've made a start.
+> Let's save Hyrule.
 
 ### 2062
 
@@ -2067,13 +2084,12 @@ Projekttext.
 
 **Seite 1**
 
-> My village is below the mountain.
-> Kakariko. People needed a home.
+> Kakariko is at the foot of Death
+> Mountain. I helped build it.
 
 **Seite 2**
 
-> Ask the people there.
-> They'll say nice things about me.
+> The village. Not the mountain.
 
 ### 2063
 
@@ -2256,21 +2272,35 @@ Projekttext.
 
 **Seite 8**
 
-> Mein Sohn möchte eine Maske. Dieser
-> Maskenladen in Hyrule hat ihm den
-> Kopf verdreht.
+> Diese Pokémon sind momentan sehr
+> beliebt, und mein Sohn will so eine
+> Pikachu-Maske haben. Finde ich
+> prinzipiell auch nicht schlimm. Was
 
 **Seite 9**
 
-> Kannst Du ihm eine besorgen? Eine
-> Fuchs-Maske wäre toll.
+> soll man gegen Pokémon einzuwenden
+> haben?
 
 **Seite 10**
 
-> Nur, wenn Du sowieso nach Hyrule
-> kommst. Ich kann hier nicht weg.
+> Hier in den Neunzigern sind die ja
+> noch ganz cool. Erst dreißig Jahre
+> später sind die so kacke geworden.
+> Aber besorg die Maske bitte für
 
 **Seite 11**
+
+> meinen Jungen. Oder besser gesagt
+> für mich.
+
+**Seite 12**
+
+> Das ist aber optional. Der Brief war
+> wichtig; den hast Du mir ja schon
+> gezeigt.
+
+**Seite 13**
 
 > Wegen des Dienstes. Ich bewache ja
 > diesen Berg. Ob das überhaupt unsere
@@ -2318,13 +2348,8 @@ Native direkte Fortsetzung zu 10C8.
 
 **Seite 1**
 
-> Was denn?
-
-**Seite 2**
-
-> Mido läßt Dich nicht zum Baum? Er
-> verwechselt seinen Kopf mal wieder
-> mit einem Schlagbaum.
+> Mido ist ein aufgeblasener Windbeutel.
+> Ich hasse den Typen.
 
 ### 10C8
 
@@ -2375,8 +2400,8 @@ Projekttext.
 
 **Seite 2**
 
-> Er schmollt in einem der Häuser.
-> Ganz ohne Publikum.
+> Dann können wir ja nochmal Mido auf
+> den Sack gehen.
 
 ### 10B5
 
@@ -2399,10 +2424,7 @@ Native direkte Fortsetzung zu 10C1.
 
 **Seite 2**
 
-> Gerade im Wald ist das wichtig. Da
-> sieht jeder Baum aus wie ein
-> weiteres Argument für denselben
-> Irrweg.
+> Hier im Wald sieht alles gleich aus.
 
 ### 10C1
 
@@ -2410,29 +2432,33 @@ Projekttext.
 
 **Seite 1**
 
-> In den Verlorenen Wäldern liegt die
-> Heilige Lichtung. Das ist das Ziel. Der
-> Wald dazwischen ist die Umsetzung.
+> Wir müssen in den Wäldern zum
+> Heiligen Hain. Es ist mal wieder Zeit
+> für ein Rätsel.
 
 **Seite 2**
 
-> Wenige erreichen sie. Daraus folgt
-> aber nicht, daß sie unerreichbar ist.
-> Da müssen wir präzise bleiben.
+> Am liebsten würde ich diese
+> komische Steinwand hier im Wald
+> hochkraxeln. Also, Du kannst das
+> machen. Ich kann da einfach
 
 **Seite 3**
 
-> Hör auf die Musik. Zwischen all den
-> Bäumen gibt sie Dir eine Richtung.
-> Nicht jeder Fortschritt ist
-> ausgeschildert.
+> drüberfliegen.
 
 **Seite 4**
 
-> Kannst Du sie hören? Man muß nicht
-> zu jeder Frage sofort etwas sagen.
-> Manchmal wäre Zuhören schon ein
-> Anfang.
+> Du würdest Dich wundern, meine
+> Maximalflughöhe ist ganz schön hoch.
+> Ich kann ganz schön weit hoch
+> fliegen.
+
+**Seite 5**
+
+> Aber Du kannst nur laufen, und
+> deswegen achte mal auf die Musik,
+> damit Du hier durchkommst.
 
 ### 10C2
 
@@ -2453,43 +2479,40 @@ Projekttext.
 
 **Seite 1**
 
-> Folge der Musik bis zur Heiligen
-> Lichtung. Ein Ton ist natürlich noch
-> kein Weg.
-
-**Seite 2**
-
-> Aber wenn Du den Zusammenhang
-> erkennst, kommst Du weiter. Das ist
-> jetzt durchaus praktisch gemeint.
+> Wenn Du die ganze Zeit am Labern
+> bist, ist es ja kein Wunder, daß wir
+> uns nicht auf die Musik konzentrieren
+> können.
 
 ### 10A8
 
-Ohne Kapitel-Ersatz.
+Projekttext.
 Native direkte Fortsetzung zu 10A9.
 
 **Seite 1**
 
-> Ich habe auf Dich gewartet,
-> [Spielername]!
+> Und so sehen wir uns wieder,
+> [Spielername]! Das hier ist einer
+> meiner Lieblingsorte.
 
 **Seite 2**
 
-> Dies ist die Heilige Lichtung,
-> mein Lieblingsort!
-> Ich spüre etwas...
+> Ich meine, gut, ich kenne ja auch
+> nicht so viele Orte, weil ich den
+> Wald noch nicht verlassen habe.
 
 **Seite 3**
 
-> Dieser Ort wird für uns beide 
-> von schicksalhafter Bedeutung sein.
-> Das kann ich fühlen...
+> Ich habe ein magisches Lied. Damit
+> kann man Menschen zum Tanzen
+> bringen, welche die Blutgruppe AB
+> negativ haben.
 
 **Seite 4**
 
-> Spielst Du hier die Okarina, 
-> kannst Du zu den Geistern des 
-> Waldes sprechen.
+> Keine Ahnung, warum es
+> ausgerechnet die sein müssen, aber
+> bei denen funktioniert es.
 
 ### 10A9
 
@@ -2556,27 +2579,18 @@ Native direkte Fortsetzung zu 10C5.
 
 **Seite 1**
 
-> [Spielername], eine kurze
-> Rückfrage. Also kurz in der Absicht.
+> [Spielername], das ist ja
+> Wahnsinn!
 
 **Seite 2**
 
-> Hat Salia Dir ihr Lied beigebracht?
-> Das wäre ein Fortschritt, auf dem
-> wir aufbauen können.
+> Das ist ja einfach Blutmagie! Keine
+> Ahnung, warum Salia das kann.
 
 **Seite 3**
 
-> Musik kann hier reale Wirkung
-> entfalten. Das ist keine Metapher. Es
-> gehen tatsächlich Türen auf.
-
-**Seite 4**
-
-> Auch anderswo lernst Du Lieder,
-> etwa in Hyrule. Wir dürfen das
-> Potential nicht auf einen einzigen Ton
-> verengen.
+> Aber vielleicht kann man das ja
+> später mal benutzen.
 
 ### 10C5
 
@@ -2584,23 +2598,33 @@ Projekttext.
 
 **Seite 1**
 
-> Lege die Okarina auf [C]. Wenn Du sie
-> benutzt, erscheinen die Notenlinien.
-> Das ist die praktische Ebene.
+> Leg die Okarina auf einen von den
+> [C]-Knöpfen. Du kannst damit richtig
+> abrocken, aber bitte übertreib es
+> nicht.
 
 **Seite 2**
 
-> Spiele ein gelerntes Lied. Die Töne
-> müssen zusammenpassen. Jeder für
-> sich kann sehr überzeugt klingen und
-> trotzdem falsch sein.
+> Deine Fee hat dazu gesagt: "Ich will
+> nicht, daß Du meine Nerven noch
+> mehr strapazierst.
 
 **Seite 3**
 
-> Du kannst auch ohne Notenlinien
-> spielen. Nicht alles, was einen Wert
-> hat, muß sofort einen meßbaren
-> Ertrag bringen.
+> Ich würde die ja selbst spielen, aber
+> ich habe leider keine Arme oder
+> Hände oder Finger oder einen Mund.
+
+**Seite 4**
+
+> Zumindest keinen, wo Luft
+> rausgepustet wird. Ich habe ja keine
+> Lungen, glaube ich."
+
+**Seite 5**
+
+> So viel also zur Arbeitsteilung
+> zwischen Dir und Deiner Fee.
 
 ### 10C6
 
@@ -2621,10 +2645,8 @@ Projekttext.
 
 **Seite 1**
 
-> Die gelernten Lieder stehen im
-> Status-Menü. Wissen muß zugänglich
-> sein. Sonst hat man es zwar, aber
-> findet es nicht.
+> Boah, ich bin gespannt, was wir noch
+> für mächtige Lieder lernen.
 
 ## 2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia
 

@@ -1,5 +1,5 @@
 {
-  "source_sha256": "add5dc97b62373da08ccd7e7ffb9ab107889cace463051dcf608cfa49203c21d",
+  "source_sha256": "62727d5a949cf6f67165621de50ff86403a07c63cf725572bd63ac2abed531c3",
   "main_messages": 224,
   "optional_messages": 202,
   "total_messages": 426,
@@ -424,7 +424,7 @@
       ],
       "controls": [],
       "pages": [
-        "[Spielername], sieh dieses Netz!\nJetzt wirst Du gehetzt. Wenn ich\nJETZT rufe, drückst Du [C-Up], um da\ndurchzugucken. JETZT!"
+        "[Spielername], jetzt C dieses Netz.\nJetzt wirst Du gehetzt. Wenn ich ruf\nJETZT, dann blickst Du mit [C-Up] ab\ndurch das Netz. JETZT!"
       ],
       "locations": [
         "Deku-Baum – Raum 0"
@@ -805,7 +805,7 @@
         "FADE(90)"
       ],
       "pages": [
-        "Die Göttinnen haben uns verlassen.\nNietzsche oder so."
+        "Als ihr Werk getan war, verließen die\nGöttinnen diese Welt."
       ],
       "locations": []
     },
@@ -1103,7 +1103,8 @@
         "TWO_CHOICE"
       ],
       "pages": [
-        "Ist das soweit verständlich?\n\nNein!\nJa!"
+        "Soll ich mich einfach mal komplett",
+        "eins zu eins exakt nochmal so\nwiederholen?\nJa!\nNein!"
       ],
       "locations": []
     },
@@ -1186,7 +1187,10 @@
       ],
       "controls": [],
       "pages": [
-        "Ich sah Mario mit Milchkisten zum\nSchloß gehen. Rote Kappe, großer\nSchnurrbart. Sehr wenig unauffällig."
+        "Mein Vater Mario ist mit Milchkisten\nzum Schloß gegangen. Er hat eine\nrote Kappe, einen großen Schnurrbart\nund eine blaue Latzhose.",
+        "Also, es kann auch gut sein, daß er\nseine Kappe mal wieder verloren hat.\nDas ist eigentlich sein\nErkennungsmerkmal, aber manchmal",
+        "hat er sie halt nicht auf.",
+        "Da darf man sich jetzt nicht viel bei\ndenken. Das passiert halt manchmal,\nne? Er ist trotzdem Mario."
       ],
       "locations": []
     },
@@ -1198,9 +1202,9 @@
       ],
       "controls": [],
       "pages": [
-        "Du siehst aus wie ein Feen-Junge aus\ndem Wald! Wo kommst Du her?",
-        "Ich bin Malon. Meinem Vater Mario\ngehört die Lon Lon-Farm.",
-        "Er liefert Milch ans Schloß.\nHoffentlich sucht er diesmal wirklich\ndie Küche und nicht schon wieder\neine Prinzessin."
+        "Bist Du nicht einer von diesen\nKokiri? Hey, warte mal, müßtest Du\nhier draußen nicht gleich einen\nHerzinfarkt bekommen?",
+        "Nein? Oh, war wohl einfach nur ein\nVorurteil. Egal, ich bin Malon. Meinem\nVater Mario gehört die Lon Lon-Farm.",
+        "Er bringt gerade Milch zum Schloß.\nIrgendein Verrückter dort, namens\nFriedrich, hat Brustmilch bestellt.\nWas zur Hölle, Alter!"
       ],
       "locations": []
     },
@@ -1212,7 +1216,7 @@
       ],
       "controls": [],
       "pages": [
-        "Mario wollte Milch ins Schloß liefern.\nVermutlich hüpft er dort gerade über\netwas, statt einfach die Kisten\nabzustellen."
+        "Also, so eine Bestellung ist halt echt\nseltsam, ne? Wir haben ihm jetzt\neinfach ganz normale Milch geliefert.\nVon einer Hyrule-Kuh."
       ],
       "locations": []
     },
@@ -1227,9 +1231,9 @@
         "EVENT"
       ],
       "pages": [
-        "Gehst Du zum Schloß? Bitte suche\ndort meinen Vater Mario. Er wollte\nMilch abliefern.",
-        "Sicher schläft er wieder. Er nennt\ndas einen Zwischenstand speichern.\nLuigi findet sogar dafür lobende\nWorte.",
-        "Nimm dieses Ei mit. Bewahre es\nwarm und sorgsam auf.",
+        "Wenn Du gerade sowieso auf dem\nWeg zum Schloß bist, dann schau mal\nbitte, ob Mario da wieder eingepennt\nist.",
+        "Das Problem mit ihm ist, daß er\nteilweise nächtelang durchschläft.\nWenn Du ihn nicht weckst, würde der\nlocker sieben Jahre durchschlafen.",
+        "Ach, eine Sache noch: Jemand beim\nSchloß hat Eier zum Lecken bestellt.\nDeswegen nimm das bei der\nGelegenheit bitte mit.",
         "Was daraus schlüpft, hilft beim\nWecken. Ein Wecker aus einem\nFragezeichenblock war leider\nausverkauft."
       ],
       "locations": []
@@ -1242,8 +1246,7 @@
       ],
       "controls": [],
       "pages": [
-        "Lege das Ei auf [C], um es\neinzusetzen!",
-        "Mario braucht täglich einen Superpilz.\nIch brauche einen Vater, der seine\nLieferung beendet."
+        "Übrigens, wenn Du mal ganz genau\nhinguckst, trägt Mario das Gesicht\nvon seinem Erzfeind als Anhänger.\nAchte da mal drauf."
       ],
       "locations": []
     },
@@ -1255,10 +1258,9 @@
       ],
       "controls": [],
       "pages": [
-        "Zzz... Superpilz...",
-        "Prinzessin... gerettet...",
-        "Milch... abliefern...",
-        "Let's-a... go... Zzz..."
+        "Zzz... It's-a me... Mario...",
+        "Let's-a... go... Zzz...",
+        "Mario... number one... Zzz..."
       ],
       "locations": []
     },
@@ -1270,8 +1272,7 @@
       ],
       "controls": [],
       "pages": [
-        "Mamma mia! Wer hat mich aus\nmeinem Bonus-Level geholt?",
-        "Oh! Ein neuer Mitspieler! Das ist ja\nwunderbar!"
+        "Mamma mia! It's-a me, Mario! Ich bin\nwach. Oh. Bin ich schon wieder\neingeschlafen?"
       ],
       "locations": []
     },
@@ -1287,10 +1288,11 @@
       ],
       "pages": [
         "It's-a me, Mario! Wer bist Du?",
-        "Mir gehört die Lon Lon-Farm. Wir\nhaben Milch, Hühner und erstaunlich\nwenige Abflußrohre.",
-        "Ich wollte Milch ins Schloß liefern.\nDann habe ich kurz gespeichert. Im\nLiegen. Mit geschlossenen Augen.",
+        "Ja, mir gehört die Lon Lon-Farm. Wir\nhaben Milch und Hühner und auch\nPferde, falls Du mal vorbeikommen\nwillst.",
+        "Ich wollte hier Milch ins Schloß\nliefern und einfach nur kurz meinen\nZwischenstand speichern, sozusagen.\nMetaphorisch gemeint.",
         "Was?! Malon sucht mich? Mamma\nmia!",
-        "Ich dachte, meine Prinzessinnenpause\nwäre nur ganz kurz gewesen!",
+        "Mario number one! Ich bin die\nNummer eins, das sage ich ab und\nan. Aber wenn ich wieder eingepennt\nbin, ist mir das doch peinlich. Da",
+        "fühle ich mich wie ein Betrüger. Das\nnennt man wohl Impostor-Syndrom.",
         "Ich muß zurück! Danke fürs\nAufwecken. Let's-a go!"
       ],
       "locations": []
@@ -1298,25 +1300,28 @@
     {
       "id": "702E",
       "section": "2.3 Zelda – erstes Treffen und Antworten",
-      "source_files": [],
+      "source_files": [
+        "schloss_wald_neu_de.json"
+      ],
       "controls": [
         "EVENT"
       ],
       "pages": [
-        "Nanu?"
+        "Oh, nanu?"
       ],
       "locations": []
     },
     {
       "id": "702F",
       "section": "2.3 Zelda – erstes Treffen und Antworten",
-      "source_files": [],
+      "source_files": [
+        "schloss_wald_neu_de.json"
+      ],
       "controls": [
         "EVENT"
       ],
       "pages": [
-        "Wer bist Du?",
-        "Wie hast Du es geschafft,\nan den Wachen vorbeizukommen?"
+        "Wer bist Du? Wie hast Du es\ngeschafft, an den Wachen\nvorbeizukommen? Das braucht\nmeistens mehrere Versuche."
       ],
       "locations": []
     },
@@ -1335,13 +1340,14 @@
     {
       "id": "7031",
       "section": "2.3 Zelda – erstes Treffen und Antworten",
-      "source_files": [],
+      "source_files": [
+        "schloss_wald_neu_de.json"
+      ],
       "controls": [
         "EVENT"
       ],
       "pages": [
-        "Das ist seltsam...\nIch glaubte eben, Du wärst der\nJunge aus meinem Traum...\nDu hast ihn wirklich nicht?",
-        "Sag mir bitte die Wahrheit..."
+        "Ich hatte einen Albtraum, und Du\nkamst darin vor."
       ],
       "locations": []
     },
@@ -1435,7 +1441,9 @@
     {
       "id": "7036",
       "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
-      "source_files": [],
+      "source_files": [
+        "schloss_wald_neu_de.json"
+      ],
       "controls": [
         "BOX_BREAK_DELAYED(80)",
         "BOX_BREAK_DELAYED(80)",
@@ -1445,7 +1453,7 @@
       ],
       "pages": [
         "Das Triforce vereinte die Kraft\nder drei Göttinnen. Sie verbargen\nes an einem Ort in Hyrule.",
-        "Denn das Triforce hat die Macht,\ndie Wünsche dessen wahr werden\nzu lassen, der es in Händen hält!",
+        "Das Triforce ist eine\nWunscherfüllmaschine. Wer es hat,\nkann sich alles wünschen!",
         "Ein rechtschaffenes Herz würde\nHyrule in goldene Zeiten voller\nReichtum und Frieden führen...",
         "Würden Wünsche eines Menschen\nmit niederer Gesinnung erfüllt,\nso verschlänge das Böse die Welt!",
         "Daher errichteten die Weisen die\nZitadelle der Zeit, um das Triforce\nvor bösen Mächten zu bewahren."
@@ -1494,12 +1502,14 @@
     {
       "id": "7038",
       "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
-      "source_files": [],
+      "source_files": [
+        "schloss_wald_neu_de.json"
+      ],
       "controls": [
         "EVENT"
       ],
       "pages": [
-        "Oh, tut mir leid...\nIch konnte noch nie gut\nGeschichten erzählen..."
+        "Ist das Dein Ernst? Jetzt muß ich\ndie ganze Geschichte nochmal\nwiederholen."
       ],
       "locations": []
     },
@@ -1569,7 +1579,7 @@
         "EVENT"
       ],
       "pages": [
-        "Ich weiß: Friedrich Merz ist der Mann\naus meinem Traum!",
+        "Dieser Mann ist das pure Böse, und\ncharmant ist er auch nicht. Doch\nmein Vater ist alt, und deswegen\nfällt er auf ihn rein.",
         "Vater meint, ein Mann mit\nWirtschaftserfahrung werde uns\nschon helfen.",
         "Merz redet gegen die Viertagewoche.\nFür erschöpfte Menschen hat er vor\nallem noch mehr Arbeit übrig.",
         "Das ist keine Zukunft, die ich mir für\nHyrule wünsche. Und hinter seinen\nVersprechen steckt noch etwas\nSchlimmeres."
@@ -1609,14 +1619,16 @@
     {
       "id": "7039",
       "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
-      "source_files": [],
+      "source_files": [
+        "schloss_wald_neu_de.json"
+      ],
       "controls": [
         "EVENT"
       ],
       "pages": [
-        "Was ist passiert? Hat er Dich\ngesehen?",
-        "Hab keine Angst.",
-        "Er hat keine Ahnung von unseren\nPlänen... Noch nicht!"
+        "Was machst Du da?",
+        "Das war viel zu offensichtlich.",
+        "Toll, jetzt hat er uns gesehen. Große\nKlasse."
       ],
       "locations": []
     },
@@ -1758,7 +1770,7 @@
       ],
       "controls": [],
       "pages": [
-        "Hyrule needs saving.\nI've made a start."
+        "Let's save Hyrule."
       ],
       "locations": []
     },
@@ -1770,8 +1782,8 @@
       ],
       "controls": [],
       "pages": [
-        "My village is below the mountain.\nKakariko. People needed a home.",
-        "Ask the people there.\nThey'll say nice things about me."
+        "Kakariko is at the foot of Death\nMountain. I helped build it.",
+        "The village. Not the mountain."
       ],
       "locations": []
     },
@@ -1904,9 +1916,11 @@
         "Im Basar auf Hyrules Marktplatz\nbekommst Du passende Ausrüstung.",
         "Sag, ich hätte Dich geschickt.\nVielleicht machen sie Dir einen\nSonderpreis.",
         "Und dann hätte ich noch einen ganz\nkleinen privaten Auftrag.",
-        "Mein Sohn möchte eine Maske. Dieser\nMaskenladen in Hyrule hat ihm den\nKopf verdreht.",
-        "Kannst Du ihm eine besorgen? Eine\nFuchs-Maske wäre toll.",
-        "Nur, wenn Du sowieso nach Hyrule\nkommst. Ich kann hier nicht weg.",
+        "Diese Pokémon sind momentan sehr\nbeliebt, und mein Sohn will so eine\nPikachu-Maske haben. Finde ich\nprinzipiell auch nicht schlimm. Was",
+        "soll man gegen Pokémon einzuwenden\nhaben?",
+        "Hier in den Neunzigern sind die ja\nnoch ganz cool. Erst dreißig Jahre\nspäter sind die so kacke geworden.\nAber besorg die Maske bitte für",
+        "meinen Jungen. Oder besser gesagt\nfür mich.",
+        "Das ist aber optional. Der Brief war\nwichtig; den hast Du mir ja schon\ngezeigt.",
         "Wegen des Dienstes. Ich bewache ja\ndiesen Berg. Ob das überhaupt unsere\nJurisdiktion ist? Ach, vergiß es."
       ],
       "locations": []
@@ -1948,8 +1962,7 @@
         "TEXTID(0x10C8)"
       ],
       "pages": [
-        "Was denn?",
-        "Mido läßt Dich nicht zum Baum? Er\nverwechselt seinen Kopf mal wieder\nmit einem Schlagbaum."
+        "Mido ist ein aufgeblasener Windbeutel.\nIch hasse den Typen."
       ],
       "locations": []
     },
@@ -2004,7 +2017,7 @@
       "controls": [],
       "pages": [
         "Vielleicht weiß Mido, wo Salia ist.",
-        "Er schmollt in einem der Häuser.\nGanz ohne Publikum."
+        "Dann können wir ja nochmal Mido auf\nden Sack gehen."
       ],
       "locations": []
     },
@@ -2032,7 +2045,7 @@
       ],
       "pages": [
         "Da bist Du, [Spielername]. Laß uns\nüber Orientierung sprechen.",
-        "Gerade im Wald ist das wichtig. Da\nsieht jeder Baum aus wie ein\nweiteres Argument für denselben\nIrrweg."
+        "Hier im Wald sieht alles gleich aus."
       ],
       "locations": []
     },
@@ -2046,10 +2059,11 @@
         "EVENT"
       ],
       "pages": [
-        "In den Verlorenen Wäldern liegt die\nHeilige Lichtung. Das ist das Ziel. Der\nWald dazwischen ist die Umsetzung.",
-        "Wenige erreichen sie. Daraus folgt\naber nicht, daß sie unerreichbar ist.\nDa müssen wir präzise bleiben.",
-        "Hör auf die Musik. Zwischen all den\nBäumen gibt sie Dir eine Richtung.\nNicht jeder Fortschritt ist\nausgeschildert.",
-        "Kannst Du sie hören? Man muß nicht\nzu jeder Frage sofort etwas sagen.\nManchmal wäre Zuhören schon ein\nAnfang."
+        "Wir müssen in den Wäldern zum\nHeiligen Hain. Es ist mal wieder Zeit\nfür ein Rätsel.",
+        "Am liebsten würde ich diese\nkomische Steinwand hier im Wald\nhochkraxeln. Also, Du kannst das\nmachen. Ich kann da einfach",
+        "drüberfliegen.",
+        "Du würdest Dich wundern, meine\nMaximalflughöhe ist ganz schön hoch.\nIch kann ganz schön weit hoch\nfliegen.",
+        "Aber Du kannst nur laufen, und\ndeswegen achte mal auf die Musik,\ndamit Du hier durchkommst."
       ],
       "locations": []
     },
@@ -2075,23 +2089,24 @@
       ],
       "controls": [],
       "pages": [
-        "Folge der Musik bis zur Heiligen\nLichtung. Ein Ton ist natürlich noch\nkein Weg.",
-        "Aber wenn Du den Zusammenhang\nerkennst, kommst Du weiter. Das ist\njetzt durchaus praktisch gemeint."
+        "Wenn Du die ganze Zeit am Labern\nbist, ist es ja kein Wunder, daß wir\nuns nicht auf die Musik konzentrieren\nkönnen."
       ],
       "locations": []
     },
     {
       "id": "10A8",
       "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
-      "source_files": [],
+      "source_files": [
+        "schloss_wald_neu_de.json"
+      ],
       "controls": [
         "TEXTID(0x10A9)"
       ],
       "pages": [
-        "Ich habe auf Dich gewartet,\n[Spielername]!",
-        "Dies ist die Heilige Lichtung,\nmein Lieblingsort!\nIch spüre etwas...",
-        "Dieser Ort wird für uns beide \nvon schicksalhafter Bedeutung sein.\nDas kann ich fühlen...",
-        "Spielst Du hier die Okarina, \nkannst Du zu den Geistern des \nWaldes sprechen."
+        "Und so sehen wir uns wieder,\n[Spielername]! Das hier ist einer\nmeiner Lieblingsorte.",
+        "Ich meine, gut, ich kenne ja auch\nnicht so viele Orte, weil ich den\nWald noch nicht verlassen habe.",
+        "Ich habe ein magisches Lied. Damit\nkann man Menschen zum Tanzen\nbringen, welche die Blutgruppe AB\nnegativ haben.",
+        "Keine Ahnung, warum es\nausgerechnet die sein müssen, aber\nbei denen funktioniert es."
       ],
       "locations": []
     },
@@ -2162,10 +2177,9 @@
         "TEXTID(0x10C5)"
       ],
       "pages": [
-        "[Spielername], eine kurze\nRückfrage. Also kurz in der Absicht.",
-        "Hat Salia Dir ihr Lied beigebracht?\nDas wäre ein Fortschritt, auf dem\nwir aufbauen können.",
-        "Musik kann hier reale Wirkung\nentfalten. Das ist keine Metapher. Es\ngehen tatsächlich Türen auf.",
-        "Auch anderswo lernst Du Lieder,\netwa in Hyrule. Wir dürfen das\nPotential nicht auf einen einzigen Ton\nverengen."
+        "[Spielername], das ist ja\nWahnsinn!",
+        "Das ist ja einfach Blutmagie! Keine\nAhnung, warum Salia das kann.",
+        "Aber vielleicht kann man das ja\nspäter mal benutzen."
       ],
       "locations": []
     },
@@ -2179,9 +2193,11 @@
         "EVENT"
       ],
       "pages": [
-        "Lege die Okarina auf [C]. Wenn Du sie\nbenutzt, erscheinen die Notenlinien.\nDas ist die praktische Ebene.",
-        "Spiele ein gelerntes Lied. Die Töne\nmüssen zusammenpassen. Jeder für\nsich kann sehr überzeugt klingen und\ntrotzdem falsch sein.",
-        "Du kannst auch ohne Notenlinien\nspielen. Nicht alles, was einen Wert\nhat, muß sofort einen meßbaren\nErtrag bringen."
+        "Leg die Okarina auf einen von den\n[C]-Knöpfen. Du kannst damit richtig\nabrocken, aber bitte übertreib es\nnicht.",
+        "Deine Fee hat dazu gesagt: \"Ich will\nnicht, daß Du meine Nerven noch\nmehr strapazierst.",
+        "Ich würde die ja selbst spielen, aber\nich habe leider keine Arme oder\nHände oder Finger oder einen Mund.",
+        "Zumindest keinen, wo Luft\nrausgepustet wird. Ich habe ja keine\nLungen, glaube ich.\"",
+        "So viel also zur Arbeitsteilung\nzwischen Dir und Deiner Fee."
       ],
       "locations": []
     },
@@ -2207,7 +2223,7 @@
       ],
       "controls": [],
       "pages": [
-        "Die gelernten Lieder stehen im\nStatus-Menü. Wissen muß zugänglich\nsein. Sonst hat man es zwar, aber\nfindet es nicht."
+        "Boah, ich bin gespannt, was wir noch\nfür mächtige Lieder lernen."
       ],
       "locations": []
     },
