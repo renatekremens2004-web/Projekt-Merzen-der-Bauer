@@ -1,3 +1,11 @@
+# Goronia: CDU-Bombe V23
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Goronia_Bombe_V23.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Goronia_Bombe_V23.bps?raw=true) · [Änderungen](Goronia_Bombe_V23_Aenderungen.md) · [Quellen](Merzen_Goronia_Bombe_V23_Quellen_Patch.zip?raw=true)
+
+Große Bombe mit CDU-Emblem, vier getrennte Donnerblumen, langsame Goronia-Musik bis zum Feuer-Amulett und zwei Navi-Seiten beim Anvisieren. Mit 4 MiB RAM geprüft. Alle bisherigen Änderungen enthalten; auf unveränderte PAL 1.0 anwenden.
+
+![Navi an der Bombe](Goronia_Bombe_V23.png)
+
 # Wallace und Nachspiel V22
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Wallace_V22.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Wallace_V22.bps?raw=true) · [Sechs neue Texte](Wallace_V22_Aenderungen.md) · [Quellen](Merzen_Wallace_V22_Quellen_Patch.zip?raw=true)
