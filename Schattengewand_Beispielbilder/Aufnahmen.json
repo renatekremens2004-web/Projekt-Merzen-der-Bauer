@@ -1,0 +1,50 @@
+[
+  {
+    "file": "Kind_vorher_gruen.png",
+    "source": "/workspace/bean-rider/screens-shadow-child-before-still-release-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Schattengewand_Fund.png",
+    "source": "/workspace/bean-rider/screens-shadow-chest-release-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Kind_Schattengewand.png",
+    "source": "/workspace/bean-rider/screens-shadow-child-after-still-release-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Erwachsener_Schattengewand.png",
+    "source": "/workspace/bean-rider/screens-shadow-adult-after-still-release-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Goronen_Orange.png",
+    "source": "/workspace/bean-rider/screens-shadow-adult-goron-still-release-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Zora_Hellblau.png",
+    "source": "/workspace/bean-rider/screens-shadow-adult-zora-still-release-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Schattengewand_Ausruestung.png",
+    "source": "/workspace/bean-rider/screens-shadow-equipment-release-direct-clip-on/the_legend_of_zelda-003.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  },
+  {
+    "file": "Schattengewand_Nach_Neustart.png",
+    "source": "/workspace/bean-rider/screens-shadow-native-reload-release-direct-clip-on/the_legend_of_zelda-001.png",
+    "rom_sha256": "0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332",
+    "unaltered_emulator_image": true
+  }
+]

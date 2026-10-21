@@ -1,0 +1,5 @@
+Kumulativer Gesamtpatch: alle bisherigen Änderungen plus Schattengewand. Neue Truhe im Brunnenraum mit Beamos/Fledermäusen/unsichtbaren Gruben, nicht am Eingang. Automatisch angelegte schwarze Standardkleidung für Kind und Erwachsenen. Der neue Halbierungsschutz gilt nur mit dem Schattengewand; Feuer-/Wassergewand schalten ihn aus. Fundmodell und Icons schwarz.
+
+Mit https://www.marcrobledo.com/RomPatcher.js/ auf die entpackte unveränderte Europa/PAL-1.0-ROM anwenden, nicht auf einen früheren Patch. Original-MD5 e040de91a74b61e3201db0e2323f768a. Deutsch wählen. Normale Spielstände sind kompatibel; für neue ROM-Versionen keine alten Savestates übernehmen. Das Gewand muß erst aus der Truhe geholt werden. Ziel-SHA256 0c717a4d2b8746f749707b098a51b009014b5c0f72fb97b7d0e1c3560c635332
+
+Gezielte Proben mit echten 4 MiB und native SRAM-Speicherung geprüft; kein vollständiger Spieldurchlauf oder Hardwaretest.

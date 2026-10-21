@@ -1,3 +1,9 @@
+# Schattengewand im Brunnen
+
+[Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Schattengewand.bps?raw=true) · [Bilder](Schattengewand_Beispielbilder/) · [Fundtext](Schattengewand_Fundtext.md) · [Quellen](Merzen_Schattengewand_Quellen_Patch.zip?raw=true)
+
+Alle früheren Änderungen enthalten. Schwarzes Standardgewand für beide Altersstufen aus einer neuen Brunnen-Truhe. Der neue Halbierungsschutz gilt nur mit dem Schattengewand; Feuer-/Wassergewand schalten ihn aus. Schwarze Icons und schwarzes Fundmodell. Auf unveränderte Vanilla PAL 1.0 anwenden. Gezielte 4-MiB-Proben und native Speicherung geprüft; kein vollständiger Spieldurchlauf.
+
 # Doofenshmirtz, Shrek und Mr. Monopoly
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Doof_Shrek_Monopoly.bps?raw=true) · [Dialoge](Dialoge_Doof_Shrek_Monopoly.md) · [Beispielbilder](Doof_Shrek_Monopoly_Beispielbilder/) · [Quellen](Merzen_Doof_Shrek_Monopoly_Quellen_Patch.zip?raw=true)
