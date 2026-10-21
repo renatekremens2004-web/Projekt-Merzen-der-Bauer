@@ -1,3 +1,9 @@
+# Storydialoge Kapitel 1–2 zum Überarbeiten
+
+[Hauptstrang: Intro bis nach Dodongos Höhle](Storydialoge_Kapitel_1_2_Hauptstrang.md) · [Nebenhandlungen/Bewohner](Storydialoge_Kapitel_1_2_Nebenhandlungen.md) · [Hauptstrang als Textdatei](Storydialoge_Kapitel_1_2_Hauptstrang.txt?raw=true) · [Nebenhandlungen als Textdatei](Storydialoge_Kapitel_1_2_Nebenhandlungen.txt?raw=true)
+
+Aktuell eingebaute deutsche Texte aus Charakterbewegung V4, mit IDs und Seiten. 224 Hauptstrang-Textzustände und 202 optionale Ergänzungen. Antwortzweige, Wiederholungen und Navi-Ausnahmen markiert; auch noch nicht neu geschriebene Passagen enthalten. Keine Änderung an ROM oder Patch.
+
 # Charakterbewegung V4: Triangle Guy lebt auf
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Charakterbewegung_V4.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Charakterbewegung_V4.bps?raw=true) · [Video](Triangle_Guy_Bewegung.mp4?raw=true) · [Änderungen/Prüfung](Charakterbewegung_V4_Aenderungen.md) · [Quellen](Merzen_Charakterbewegung_V4_Quellen_Patch.zip?raw=true)

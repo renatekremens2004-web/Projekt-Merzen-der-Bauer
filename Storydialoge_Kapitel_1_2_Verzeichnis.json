@@ -1,0 +1,5885 @@
+{
+  "verification": {
+    "source_release": "Charakterbewegung V4",
+    "rom_sha256": "c37e6b381dbfb9cd7e883b3bcc2b097c86f4ba4ce7e79be91db3641cbedbc61e",
+    "text_source_sha256": "33dde3afca103ff14d9e12944d699ddd7950afadf2ae36227a872219bd5988ef",
+    "main_text_ids": 224,
+    "optional_text_ids": 202,
+    "all_native_TEXTID_continuations_included": true,
+    "all_pages_match_current_build": true,
+    "rom_unchanged": true
+  },
+  "messages": [
+    {
+      "id": "109D",
+      "section": "1.1 Intro – Erzähler Deku-Baum",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "FADE(70)"
+      ],
+      "pages": [
+        "Es war einmal im fernen Hyrule...",
+        "Dort hütete ich, der alte Deku-Baum,\ndie Kokiri des Waldes."
+      ],
+      "locations": []
+    },
+    {
+      "id": "109E",
+      "section": "1.1 Intro – Erzähler Deku-Baum",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "FADE(60)"
+      ],
+      "pages": [
+        "Einem jeden stand eine Fee zur\nSeite...",
+        "... nur einem Jungen nicht. Warum ich\nihn ausließ, weiß ich selbst nicht\nmehr."
+      ],
+      "locations": []
+    },
+    {
+      "id": "109F",
+      "section": "1.1 Intro – Erzähler Deku-Baum",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "pages": [
+        "Feenknappheit? War er zu jung? Nun\nwar er elf, und Nacht für Nacht\nplagten ihn Albträume..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1099",
+      "section": "1.1 Intro – Erzähler Deku-Baum",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Navi... Komm zu mir. Etwas\nSchreckliches ist geschehen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "109A",
+      "section": "1.1 Intro – Erzähler Deku-Baum",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Navi, etwas Schreckliches ist\ngeschehen. Ich sterbe, und ehrlich\ngesagt geht es mir gerade richtig\ndreckig.",
+        "Friedrich Merz will Hyrule übernehmen\nund kauft sich mit seinen Rubinen\nGehör am Hofe, während das Volk\ndraußen bleibt.",
+        "Als er auch den Kokiri-Smaragd\nverlangte, habe ich ihn fortgeschickt.\nDieser Wald gehört schließlich uns\nallen.",
+        "Daraufhin hat er mich verflucht. Nun\nfrißt sich sein Fluch durch meine\nWurzeln, und meine Zeit wird knapp.",
+        "Suche [Spielername], den Jungen\nohne Fee. Warum er keine hat, weiß\nich selbst nicht mehr. Vielleicht\nwaren die Feen damals knapp.",
+        "Oder muß man erst elf werden?\nSagen wir, das war die Regel. Er ist\njetzt elf, und wir brauchen ihn.",
+        "Gib ihm also eine Fee und bring ihn\nzu mir, bevor Merz aus unserem\nWald einen Privatforst mit Eintritt\nmacht.",
+        "Wir brauchen jemanden, der auch\nohne Lohnversprechen hilft, denn nicht\nalles, was Wert hat, gehört auf einen\nMarkt.",
+        "Steh ihm bei, Navi. Die Last aller\nsollte niemals auf den Schultern eines\neinzelnen liegen.",
+        "Und nun flieg. Was hier wächst, soll\nallen zugute kommen, nicht bloß dem,\nder sich den ganzen Boden kaufen\nkann."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1095",
+      "section": "1.2 Navi weckt den Spieler",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_NA_HELLO_3)"
+      ],
+      "pages": [
+        "Hey, [Spielername]! Aufwachen!\nDer Deku-Baum braucht Dich, und Du\npennst hier, als könntest Du Dir\neinen neuen Wald bestellen.",
+        "Ich soll Dich zu ihm bringen. Wenn\nDu Dich also kurz von Deiner\nverdammten Matratze trennen\nkönntest?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1096",
+      "section": "1.2 Navi weckt den Spieler",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_NA_HELLO_2)"
+      ],
+      "pages": [
+        "Jetzt mach schon, [Spielername]!\nIch kann den Deku-Baum schlecht um\nAufschub bitten, weil Du noch fünf\nMinuten brauchst.",
+        "Der hat Wurzeln, der rennt uns nicht\nentgegen. Wir müssen schon selbst\nhingehen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1098",
+      "section": "1.2 Navi weckt den Spieler",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Steh auf, [Spielername]! Ich bin\neine Fee, kein verdammter\nWeckdienst!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1000",
+      "section": "1.2 Navi weckt den Spieler",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Na endlich, [Spielername]. Ich bin\nNavi, Deine Fee. Der Deku-Baum will\nDich dringend sprechen.",
+        "Warum ausgerechnet Du? Keine\nAhnung. Ich kenne Dich seit zwei\nMinuten und mußte Dich schon\ndreimal anschreien."
+      ],
+      "locations": []
+    },
+    {
+      "id": "107D",
+      "section": "1.2 Navi weckt den Spieler",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Deku-Baum, ich habe ihn. Die Auswahl\nwar offenbar begrenzt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1001",
+      "section": "1.3 Salia vor dem Haus",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "He, [Spielername]! Du hast jetzt\nauch eine Fee? Das ist ja\nfeentastisch!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1002",
+      "section": "1.3 Salia vor dem Haus",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x100F)"
+      ],
+      "pages": [
+        "Und der Deku-Baum will persönlich\nmit Dir quasseln? Das ist eine große\nEhre, [Spielername].",
+        "Er spricht nur sehr selten mit\njemandem. Die meisten Kokiri erleben\nso etwas ihr ganzes Leben lang nicht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "100F",
+      "section": "1.3 Salia vor dem Haus",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_RT_LAUGH_0)",
+        "TEXTID(0x1010)"
+      ],
+      "pages": [
+        "Das hat er mir gestern selbst\nerzählt, als wir zusammen ein bißchen\ngeplaudert haben.",
+        "Wir saßen den ganzen Nachmittag da.\nEr wollte unbedingt wissen, wie es\nDir geht, [Spielername]."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1010",
+      "section": "1.3 Salia vor dem Haus",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x1003)"
+      ],
+      "pages": [
+        "Jedenfalls solltest Du ihn nicht\nwarten lassen. Wenn er Dich eigens\nruft, muß es wirklich wichtig sein.",
+        "Und falls Mido wieder so tut, als\ngehöre ihm der ganze Wald, laß Dich\ndavon bloß nicht aufhalten."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1003",
+      "section": "1.3 Salia vor dem Haus",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Geh erst mal zum Deku-Baum. Wir\nkönnen später weiterreden, wenn Du\nwieder da bist."
+      ],
+      "locations": []
+    },
+    {
+      "id": "102F",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x10D0)"
+      ],
+      "pages": [
+        "Halt! Seit wann marschierst Du hier\neinfach durch?",
+        "Ich bewache den Weg zum\nDeku-Baum. Einer muß hier schließlich\nwichtig sein."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10D0",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x10D1)"
+      ],
+      "pages": [
+        "Eine Fee? Bei DIR? Und der\nDeku-Baum will Dich sprechen?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10D1",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x1030)"
+      ],
+      "pages": [
+        "Das kann doch nicht sein!",
+        "Er hätte MICH rufen sollen. Ich bin\nschließlich der große Mido!",
+        "Na schön. Zeig erst mal Deine\nAusrüstung.",
+        "Ohne Schwert und Schild lasse ich\nDich nicht durch.",
+        "Ein Auftrag ersetzt keine Ausrüstung.",
+        "Daß ich selbst keine trage, hat\norganisatorische Gründe."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1030",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Rüste Dich mit dem Kokiri-Schwert\nund dem Deku-Schild aus.",
+        "Vorher geht es hier nicht weiter. Ich\nhabe gesprochen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1033",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x10D2)"
+      ],
+      "pages": [
+        "Sind Kokiri-Schwert und Deku-Schild\nwirklich ausgerüstet? Vorher bleibe\nich hier stehen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10D2",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x10D3)"
+      ],
+      "pages": [
+        "Moment mal...",
+        "Ein Deku-Schild!",
+        "Und auf Deinem Rücken...",
+        "Das Kokiri-Schwert?! Wo hast Du\ndas denn her?",
+        "Na gut. Die Ausrüstung ist wohl\nvollständig."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10D3",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x1034)"
+      ],
+      "pages": [
+        "Nur damit das klar ist: Ein Schwert\nmacht aus Dir noch lange keinen\nMido."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1034",
+      "section": "1.4 Mido versperrt den Weg",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du darfst passieren. Aber wichtig\nbist Du deshalb noch nicht.",
+        "Erst Salia, jetzt der Deku-Baum...\nWarum trauen alle ausgerechnet Dir\netwas zu?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1015",
+      "section": "1.5 Deku-Baum – Auftrag und Betreten",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x1016)"
+      ],
+      "pages": [
+        "Navi... Du hast ihn gefunden. Gut.",
+        "Sei willkommen, [Spielername].",
+        "Ich bin der Deku-Baum. Hier wächst\njeder nach seinen Möglichkeiten.",
+        "Die letzten Nächte waren voller\ndunkler Träume, nicht wahr?",
+        "Friedrich Merz greift nach Hyrule.\nSein Geld öffnet Türen, die besser\nverschlossen blieben.",
+        "Du hast die Gefahr gespürt, noch\nbevor Du ihren Namen kanntest.",
+        "[Spielername], Du besitzt wenig.\nDoch was wir jetzt brauchen, läßt\nsich nicht kaufen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1016",
+      "section": "1.5 Deku-Baum – Auftrag und Betreten",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Merz hat mich verflucht. Das Übel\nsitzt in meinem Inneren. Hilf mir, es\nzu vertreiben.",
+        "Willst Du den Fluch brechen?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1018",
+      "section": "1.5 Deku-Baum – Auftrag und Betreten",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du zögerst. Bereite Dich im\nKokiri-Trainingslager vor.",
+        "Komm wieder und sprich mich mit [Z]\nan. Merz besitzt viele Rubine. Ich\nbesitze wenig Zeit."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1017",
+      "section": "1.5 Deku-Baum – Auftrag und Betreten",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "So tritt ein, [Spielername]. Und Du\nauch, Navi.",
+        "Steh [Spielername] bei. Ein\neinzelner muß nicht jede Last allein\ntragen.",
+        "[Spielername], wenn Navi Dich\nruft, höre ihr mit [C-Up] zu. Auch, wenn\nihr Ton etwas rauh ist."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0134",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "[Spielername], wir laufen gerade IM\nDeku-Baum herum. In seinem Körper!",
+        "Er redet mit uns, und wir trampeln\ndurch seine Eingeweide. Findest Du\ndas etwa normal?",
+        "Na schön. Such den Ursprung des\nFluchs. Aber wisch Dir wenigstens\ndie Stiefel ab!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0101",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "[Spielername], mit [C-Up] schaust Du\ndurchs Netz nach unten. Kopf\nbewegen. Schwer, ich weiß."
+      ],
+      "locations": [
+        "Deku-Baum – Raum 0"
+      ]
+    },
+    {
+      "id": "0102",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ranken an der Wand. Daran kann man\nklettern. Du mußt sie nicht erst\nhöflich fragen."
+      ],
+      "locations": [
+        "Deku-Baum – Raum 0"
+      ]
+    },
+    {
+      "id": "0103",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Stell Dich vor die Tür und drücke [A].\nDas ist eine Tür, kein Endgegner.",
+        "Das blaue Symbol oben zeigt Dir die\nAktion. Es arbeitet sogar, wenn Du\nes nicht tust."
+      ],
+      "locations": [
+        "Deku-Baum – Raum 0"
+      ]
+    },
+    {
+      "id": "0104",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Eine Leiter. Dort oben. Nein, sie\nkommt nicht von allein herunter."
+      ],
+      "locations": [
+        "Deku-Baum – Raum 2"
+      ]
+    },
+    {
+      "id": "0106",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Die Fackel hat wohl eben noch\ngebrannt. Das verkohlte Ende war\nmein Hinweis."
+      ],
+      "locations": [
+        "Deku-Baum – Raum 10"
+      ]
+    },
+    {
+      "id": "0108",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Stell Dich vor den Block. Halte [A], um\nihn zu ziehen oder zu schieben.",
+        "Zum Klettern: [Control-Pad] zum Block, dann [A].\nJa, Du darfst ihn anfassen.",
+        "Das blaue Symbol zeigt die Aktion.\nDer Stein braucht keine\nBedienungsanleitung. Du schon."
+      ],
+      "locations": [
+        "Deku-Baum – Raum 5"
+      ]
+    },
+    {
+      "id": "010C",
+      "section": "1.6 Navi – Storyruf im Deku-Baum und örtliche Hinweise",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Halte im Wasser [A], um zu tauchen.\nDas macht Dich kurz nützlich. Nicht\ngleich übertreiben."
+      ],
+      "locations": [
+        "Deku-Baum – Raum 5"
+      ]
+    },
+    {
+      "id": "109B",
+      "section": "1.7 Deku-Brüder – Reihenfolge und Boßhinweis",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_EN_NUTS_FAINT)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "EVENT"
+      ],
+      "pages": [
+        "Schon gut! Laß mich gehen, ich\nverrate Dir unser Geheimnis!",
+        "Meine Brüder mußt Du in einer\nbestimmten Reihenfolge besiegen.",
+        "2 3 1! Erst die Mitte, dann rechts,\ndann links. Verrat ist offenbar mein\nTalent."
+      ],
+      "locations": []
+    },
+    {
+      "id": "109C",
+      "section": "1.7 Deku-Brüder – Reihenfolge und Boßhinweis",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_EN_NUTS_FAINT)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "EVENT"
+      ],
+      "pages": [
+        "Woher wußtest Du das?! Wir\nmüssen dringend an unserer\nGeheimhaltung arbeiten.",
+        "Die Spinnenkönigin hat eine\nSchwachstelle. Hör gut zu.",
+        "Nutze die Früchte des Baumes, um\nsie zu betäuben.",
+        "Wenn sie stillhält, kannst Du sie\nleichter treffen.",
+        "Verzeiht mir, Königin. Ich bin für\nGeheimnisse einfach nicht gebaut."
+      ],
+      "locations": []
+    },
+    {
+      "id": "101A",
+      "section": "1.7 Deku-Brüder – Reihenfolge und Boßhinweis",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_EN_NUTS_FAINT)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "SFX(NA_SE_EN_NUTS_DAMAGE)",
+        "EVENT"
+      ],
+      "pages": [
+        "Nicht schlagen! Ich habe einen\nHinweis und wenig Rückgrat.",
+        "Wenn Du aus der Höhe springst,\ndrücke beim Landen [Control-Pad] nach vorn.",
+        "So rollst Du Dich ab und linderst den\nSturz.",
+        "Aus zu großer Höhe hilft das nicht.\nIch verschwinde, bevor Du es an mir\nausprobierst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1091",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ja! Glücklicherweise ist der Parasit\njetzt beseitigt. Da kann ich ja noch\nein langes Leben führen!",
+        "[Spielername], Du hast hier echt\nden Wald gerettet. Boah, das war\ndiesmal ganz schön knapp!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1092",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Willst Du nun die Wahrheit hören?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1026",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Bitte, [Spielername]. Höre mich an.\nEs bleibt nicht mehr viel Zeit."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1027",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Friedrich Merz selbst hat mich\nverflucht. Er wollte den Smaragd. Ich\nwar nicht käuflich."
+      ],
+      "locations": []
+    },
+    {
+      "id": "107E",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Smaragd ist nur ein Teil seines\nPlans. Merz sucht den Zugang zum\nHeiligen Reich.",
+        "Dort ruht das Triforce. Wer seine\nMacht erhält, könnte Hyrule nach\nseinem Willen formen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "107F",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "pages": [
+        "Vor langer Zeit..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1080",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(99)"
+      ],
+      "pages": [
+        "...gaben drei Göttinnen der Welt ihre\nGestalt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1081",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "pages": [
+        "Din gab ihr Kraft..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1082",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "pages": [
+        "Nayru gab ihr Weisheit..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1083",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "pages": [
+        "Farore gab ihr Mut..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1084",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "pages": [
+        "Din..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1085",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(99)"
+      ],
+      "pages": [
+        "Sie schuf den Boden, auf dem wir alle\nstehen. Ohne Kaufvertrag."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1086",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "pages": [
+        "Nayru..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1087",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(99)"
+      ],
+      "pages": [
+        "Sie gab der Welt Ordnung und\nWeisheit."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1088",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "pages": [
+        "Farore..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1089",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(99)"
+      ],
+      "pages": [
+        "Sie schenkte der Welt Leben in all\nseinen Formen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "108A",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(90)"
+      ],
+      "pages": [
+        "Als ihr Werk getan war, verließen die\nGöttinnen diese Welt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "108B",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(90)"
+      ],
+      "pages": [
+        "Zurück blieb das Triforce, das Zeichen\nihrer vereinten Kräfte."
+      ],
+      "locations": []
+    },
+    {
+      "id": "108C",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(90)"
+      ],
+      "pages": [
+        "Ein Relikt von unvorstellbarer Macht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "108D",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "FADE(99)"
+      ],
+      "pages": [
+        "Seit jener Zeit ruht es im Heiligen\nReich."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1029",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Merz darf das Triforce nicht erhalten.\nSein Vermögen allein richtet schon\ngenug Schaden an.",
+        "Wer alles besitzen will, darf nicht\nauch noch über alles bestimmen.",
+        "Als ich ihm den Smaragd verweigerte,\nbelegte er mich mit diesem Fluch.",
+        "Aber glücklicherweise hast Du den\nParasiten beseitigt. Die Sache hat\nsich also erledigt!",
+        "Jetzt werde ich noch ein langes\nLeben führen. Locker noch hundert\nJahre. Mindestens!",
+        "Ich fühl mich unaufhaltsam! Endlich\nwieder richtig im Saft, verstehst Du?",
+        "Den Wald gerettet, den Parasiten\nerledigt. Saubere Arbeit,\n[Spielername]!",
+        "So, genug gelabert. Ich hab schließlich\nnoch mein ganzes Leben vor mir."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1093",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "[Spielername], begib Dich zum\nSchloß von Hyrule.",
+        "Suche Prinzessin Zelda. Berichte ihr\nvon Merz und dem Fluch. Sie wird\nDich anhören.",
+        "Nimm den Kokiri-Smaragd. Ich\nvertraue ihn Dir für den Wald an.\nMerz soll ihn nicht bekommen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0080",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_KOKIRI_EMERALD)"
+      ],
+      "pages": [
+        "Der Kokiri-Smaragd! Der\nDeku-Baum vertraut Dir den\nHeiligen Stein des Waldes an."
+      ],
+      "locations": []
+    },
+    {
+      "id": "102A",
+      "section": "1.8 Nach Gohma – letzter Auftritt des Deku-Baums",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Navi, paß gut auf [Spielername]\nauf. Ich passe hier auf den Wald auf.\nIst ja mein Job!",
+        "Mir geht es wieder prächtig. Ich fühl\nmich unaufhaltsam!",
+        "Nichts kann diesen Tag ruinieren!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1045",
+      "section": "1.9 Mido und die Reaktion auf den Tod",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Du, sag mal, [Spielername]... Riecht\nes hier irgendwie nach Kompost?",
+        "Alter, was zur Hölle?! Was? Du\nhast den Deku-Baum getötet?!",
+        "What the fuck?! Als ob der\nDeku-Baum jetzt einfach hinüber ist!",
+        "Du hast den scheiß Deku-Baum\nkomplett geschrottet! Das kann doch\necht nicht wahr sein!",
+        "Ich brech zusammen. Das ist der\nschlimmste Tag in der Geschichte der\nKokiri!",
+        "Keine Ahnung, wie alt diese\nGeschichte überhaupt ist.",
+        "Wir sehen alle so aus, als wären wir\nerst sieben Jahre alt.",
+        "Und Du warst zuletzt bei ihm! Ich\nschick Dich EINMAL zum Baum, und\ndanach riecht es hier nach Kompost!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1046",
+      "section": "1.9 Mido und die Reaktion auf den Tod",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ohne den Deku-Baum... Was wird\njetzt aus uns? Ich wollte doch bloß,\ndaß alles so bleibt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1049",
+      "section": "1.9 Mido und die Reaktion auf den Tod",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Was ist beim Deku-Baum geschehen?\nDu siehst aus, als würdest Du lieber\nnicht darüber reden."
+      ],
+      "locations": []
+    },
+    {
+      "id": "104A",
+      "section": "1.9 Mido und die Reaktion auf den Tod",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Wald fühlt sich plötzlich kälter\nan. Dabei scheint noch dieselbe\nSonne."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10D9",
+      "section": "1.9 Mido und die Reaktion auf den Tod",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Was ist mit dem Deku-Baum\ngeschehen? Ohne ihn wirkt der ganze\nWald anders."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1094",
+      "section": "1.10 Salia – Abschied auf der Brücke",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich habe geahnt, daß Du eines Tages\nhinausziehen würdest,\n[Spielername].",
+        "Du hast immer wissen wollen, was\nhinter dem nächsten Baum liegt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1011",
+      "section": "1.10 Salia – Abschied auf der Brücke",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du gehst wirklich fort?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1012",
+      "section": "1.10 Salia – Abschied auf der Brücke",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich werde Dich vermissen. Versprich\nmir, daß der Wald für Dich ein\nZuhause bleibt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1013",
+      "section": "1.10 Salia – Abschied auf der Brücke",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Nimm meine Okarina mit. Dann hast\nDu etwas von hier bei Dir."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1014",
+      "section": "1.10 Salia – Abschied auf der Brücke",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wenn Du sie spielst, denk an mich.\nUnd komm heil wieder, hörst Du?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10AE",
+      "section": "1.10 Salia – Abschied auf der Brücke",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Paß gut auf meine Okarina \nauf..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2064",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "TEXTID(0x2065)"
+      ],
+      "pages": [
+        "Ah, [Spielername]. Ich würde gern\nkurz mit Dir über die Lage sprechen.",
+        "Du stehst am Anfang eines Weges.\nUnd Anfänge, das wissen wir, sind\nselten schon Lösungen.",
+        "Also. Wir müssen jetzt handeln.\nWobei: Wir müssen natürlich auch\nwissen, wohin."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2065",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x2066)"
+      ],
+      "pages": [
+        "Zum Schloß Hyrule. Zur Prinzessin.\nDas ist der Weg. Jedenfalls der\nnächste, nicht gleich der ganze.",
+        "Wenn Du Dich verläufst, nimm die\nKarte. Man kann nicht einfach sagen:\nDer Weg ist weg. Er ist nur\nwoanders.",
+        "Besuchte Orte werden dort\neingetragen. Die Karte wächst also\nmit Deinen Erfahrungen. Das ist ein\nLernprozeß.",
+        "Drücke START, dann [Z] oder [R] bis\nzum Karten-Bildschirm. So. Jetzt wird\naus Orientierung auch Anwendung.",
+        "Dort siehst Du Dein nächstes Ziel.\nEine Zielvorgabe allein bringt Dich\nnoch nicht hin. Aber ohne wird es\nschwierig."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2066",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Ist das soweit verständlich?\n\nNein!\nJa!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2067",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Dann geh. Wir können den Aufbruch\nnicht so lange besprechen, bis es\nkeinen Tag mehr gibt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2068",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "EVENT"
+      ],
+      "pages": [
+        "[Spielername], hier. Wir müssen\ndie Lage am Schloß einmal nüchtern\nbetrachten.",
+        "Zelda ist drin, die Wachen stehen\ndavor. Eine gute Absicht ist leider\nnoch kein Zugangskonzept."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2069",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Hier draußen vergeht die Zeit. Das\nklingt selbstverständlich. Ist es in\nHyrule aber offenkundig nicht.",
+        "In Städten und auf der Farm stehen\nSonne und Mond still. Da muß man\nzwischen gefühlter und tatsächlicher\nZeit unterscheiden.",
+        "Für eine andere Tageszeit mußt Du\nhinaus und später zurück. Der Umweg\nist hier Teil der Lösung. Schön ist\ndas nicht.",
+        "Und die Wachen dürfen Dich nicht\nsehen. Wir wollen das Schloß\nerreichen. Nicht die Sicherheitslage\ntesten."
+      ],
+      "locations": []
+    },
+    {
+      "id": "206A",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Soll ich das anders erklären?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "206B",
+      "section": "2.1 Hyrule-Feld und Schloßzugang – Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Gut. Das Problem ist damit noch\nnicht gelöst. Aber immerhin ist jetzt\ngeklärt, welches wir lösen müssen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "701C",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich sah Mario mit Milchkisten zum\nSchloß gehen. Rote Kappe, großer\nSchnurrbart. Sehr wenig unauffällig."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2041",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du siehst aus wie ein Feen-Junge aus\ndem Wald! Wo kommst Du her?",
+        "Ich bin Malon. Meinem Vater Mario\ngehört die Lon Lon-Farm.",
+        "Er liefert Milch ans Schloß.\nHoffentlich sucht er diesmal wirklich\ndie Küche und nicht schon wieder\neine Prinzessin."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2042",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mario wollte Milch ins Schloß liefern.\nVermutlich hüpft er dort gerade über\netwas, statt einfach die Kisten\nabzustellen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2043",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_Z0_SMILE_0)",
+        "EVENT"
+      ],
+      "pages": [
+        "Gehst Du zum Schloß? Bitte suche\ndort meinen Vater Mario. Er wollte\nMilch abliefern.",
+        "Sicher schläft er wieder. Er nennt\ndas einen Zwischenstand speichern.\nLuigi findet sogar dafür lobende\nWorte.",
+        "Nimm dieses Ei mit. Bewahre es\nwarm und sorgsam auf.",
+        "Was daraus schlüpft, hilft beim\nWecken. Ein Wecker aus einem\nFragezeichenblock war leider\nausverkauft."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2044",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Lege das Ei auf [C], um es\neinzusetzen!",
+        "Mario braucht täglich einen Superpilz.\nIch brauche einen Vater, der seine\nLieferung beendet."
+      ],
+      "locations": []
+    },
+    {
+      "id": "702A",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Zzz... Superpilz...",
+        "Prinzessin... gerettet...",
+        "Milch... abliefern...",
+        "Let's-a... go... Zzz..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "702B",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mamma mia! Wer hat mich aus\nmeinem Bonus-Level geholt?",
+        "Oh! Ein neuer Mitspieler! Das ist ja\nwunderbar!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "702C",
+      "section": "2.2 Malon sucht Mario; Mario am Schloß",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_TA_CRY_0)",
+        "EVENT"
+      ],
+      "pages": [
+        "It's-a me, Mario! Wer bist Du?",
+        "Mir gehört die Lon Lon-Farm. Wir\nhaben Milch, Hühner und erstaunlich\nwenige Abflußrohre.",
+        "Ich wollte Milch ins Schloß liefern.\nDann habe ich kurz gespeichert. Im\nLiegen. Mit geschlossenen Augen.",
+        "Was?! Malon sucht mich? Mamma\nmia!",
+        "Ich dachte, meine Prinzessinnenpause\nwäre nur ganz kurz gewesen!",
+        "Ich muß zurück! Danke fürs\nAufwecken. Let's-a go!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "702E",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Nanu?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "702F",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Wer bist Du?",
+        "Wie hast Du es geschafft,\nan den Wachen vorbeizukommen?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7030",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Nun, hast Du ihn dabei? \n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7031",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Das ist seltsam...\nIch glaubte eben, Du wärst der\nJunge aus meinem Traum...\nDu hast ihn wirklich nicht?",
+        "Sag mir bitte die Wahrheit..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7032",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Wie ich mir dachte!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7033",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Du wirst das doch\nnicht weitererzählen?\nOkay!\nDoch!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7034",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Also das hätte ich von Dir\nnicht gedacht!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2073",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Wie lautet Dein Name?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2074",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Ich fühle etwas...",
+        "[Spielername]...",
+        "Seltsam... Er kommt mir so... \nvertraut vor."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2075",
+      "section": "2.3 Zelda – erstes Treffen und Antworten",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "So sei es, [Spielername]...",
+        "Ich werde Dich nun in das\nGeheimnis des Heiligen Reiches\neinweihen, das seit Generationen\nvon meiner Familie gehütet wird."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7035",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Dies ist die Legende..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7036",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "BOX_BREAK_DELAYED(80)",
+        "BOX_BREAK_DELAYED(80)",
+        "BOX_BREAK_DELAYED(60)",
+        "BOX_BREAK_DELAYED(80)",
+        "FADE(90)"
+      ],
+      "pages": [
+        "Das Triforce vereinte die Kraft\nder drei Göttinnen. Sie verbargen\nes an einem Ort in Hyrule.",
+        "Denn das Triforce hat die Macht,\ndie Wünsche dessen wahr werden\nzu lassen, der es in Händen hält!",
+        "Ein rechtschaffenes Herz würde\nHyrule in goldene Zeiten voller\nReichtum und Frieden führen...",
+        "Würden Wünsche eines Menschen\nmit niederer Gesinnung erfüllt,\nso verschlänge das Böse die Welt!",
+        "Daher errichteten die Weisen die\nZitadelle der Zeit, um das Triforce\nvor bösen Mächten zu bewahren."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7037",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Die Zitadelle der Zeit ist\nin unserer Welt der Zugang zum\nHeiligen Reich.",
+        "Doch dieser Zugang ist versiegelt\ndurch eine steinerne Mauer, die\nman Zeitportal nennt.",
+        "Es heißt, man brauche die drei\nHeiligen Steine, um den Zugang\nzu öffnen.",
+        "Und noch etwas... Nämlich ein\nuraltes Relikt, das im Besitz der\nKönigsfamilie von Hyrule ist..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2076",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Die Okarina der Zeit!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2077",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Hast Du die Geschichte, die ich\nDir anvertraute, verstanden?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7038",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Oh, tut mir leid...\nIch konnte noch nie gut\nGeschichten erzählen..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7005",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Großartig!",
+        "Das habe ich ganz vergessen..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "700B",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Bitte! Wenn Du Dich nicht beeilst,\nwird er fort sein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7009",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Siehst Du den Mann dort? Er nennt\nsich Friedrich Merz.",
+        "Er war Aufsichtsratschef bei\nBlackRock in Deutschland. Jetzt\nmacht er meinem Vater schöne\nVersprechen.",
+        "Für große Vermögen will er keine\nVermögensteuer. Von den anderen\nverlangt er mehr Arbeit.",
+        "Mein Vater hört nur Wohlstand. Ich\nfrage mich: Für wen? In meinem\nTraum lag ganz Hyrule in seinem\nSchatten."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2078",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Ich habe gerade durch dieses Fenster\ngeschaut.",
+        "Die dunklen Wolken aus meinem\nTraum scheinen diesen Mann zu\nmeinen...",
+        "Möchtest Du ihn Dir ansehen?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2079",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Ich weiß: Friedrich Merz ist der Mann\naus meinem Traum!",
+        "Vater meint, ein Mann mit\nWirtschaftserfahrung werde uns\nschon helfen.",
+        "Merz redet gegen die Viertagewoche.\nFür erschöpfte Menschen hat er vor\nallem noch mehr Arbeit übrig.",
+        "Das ist keine Zukunft, die ich mir für\nHyrule wünsche. Und hinter seinen\nVersprechen steckt noch etwas\nSchlimmeres."
+      ],
+      "locations": []
+    },
+    {
+      "id": "207A",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Merz will das Triforce des Heiligen\nReiches.",
+        "Steuersenkungen für Firmen genügen\nihm offenbar nicht. Er will, daß\nniemand seiner Macht Grenzen setzt.",
+        "Mit dem Triforce könnte er ganz\nHyrule unterwerfen. Dann bliebe vom\nversprochenen Wohlstand nur sein\neigener."
+      ],
+      "locations": []
+    },
+    {
+      "id": "207B",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "[Spielername], wir müssen Merz\naufhalten! Niemand sonst glaubt mir,\nwie gefährlich sein Plan ist."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7039",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Was ist passiert? Hat er Dich\ngesehen?",
+        "Hab keine Angst.",
+        "Er hat keine Ahnung von unseren\nPlänen... Noch nicht!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "703A",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Bitte!\n\nJa!\nIch glaube kein Wort!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "703B",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Ich danke Dir!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "207C",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Merz darf das Triforce nicht\nbekommen!",
+        "Ich beschütze die Okarina der Zeit.\nOhne sie kann er das Zeitportal nicht\nöffnen.",
+        "Bitte finde die beiden übrigen Heiligen\nSteine. Zusammen sind die drei Steine\nder Schlüssel.",
+        "Dann können wir das Triforce vor ihm\nerreichen und seine Herrschaft\nverhindern!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "207D",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Eines noch...\nNimm diesen Brief an Dich.\nIch bin sicher, Du wirst ihn \nbrauchen können..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0069",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [
+        "ITEM_ICON(ITEM_ZELDAS_LETTER)",
+        "ITEM_ICON(ITEM_ZELDAS_LETTER)"
+      ],
+      "pages": [
+        "Das ist Zeldas Brief!\nEr trägt Prinzessin Zeldas\nUnterschrift!",
+        "Im Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren. Benutze [C], um ihn\njemandem zu zeigen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "703C",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mein Vertrauter Mr. Bean führt Dich\nhinaus. Du kannst ihm völlig\nvertrauen. Sprich mit ihm."
+      ],
+      "locations": []
+    },
+    {
+      "id": "703D",
+      "section": "2.4 Zelda – Legende, Traum und Blick auf Friedrich Merz",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Der Heilige Stein...\nDu hast ihn gefunden!",
+        "Wesen, deren Volk einen Heiligen\nStein besitzt, vertrauen sich nur\ndem an, der eine Melodie aus dem\nErbe unserer Familie kennt.",
+        "Doch das wußtest Du bereits,\nnicht wahr?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "708D",
+      "section": "2.5 Mr. Bean – Wiegenlied und Auftrag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Bean. Mr. Bean.\nI look after Zelda.\nShe said you'd turn up."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7090",
+      "section": "2.5 Mr. Bean – Wiegenlied und Auftrag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ah. A hero.\nJust what we need.",
+        "I know a song.\nA very important song.",
+        "Royal family business.\nBest look serious.",
+        "Zelda liked it as a baby.\nUsually.",
+        "There is magic in the notes.\nI did check.",
+        "Watch carefully.\nThis is the difficult bit."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00D4",
+      "section": "2.5 Mr. Bean – Wiegenlied und Auftrag",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Du hast\nZeldas Wiegenlied\nerlernt!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2060",
+      "section": "2.5 Mr. Bean – Wiegenlied und Auftrag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hyrule needs saving.\nI've made a start."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2062",
+      "section": "2.5 Mr. Bean – Wiegenlied und Auftrag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "My village is below the mountain.\nKakariko. People needed a home.",
+        "Ask the people there.\nThey'll say nice things about me."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2063",
+      "section": "2.5 Mr. Bean – Wiegenlied und Auftrag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "The royal lullaby opens doors.\nSaves a lot of knocking.",
+        "Play it to prove Zelda sent you.\nDo try to keep the beat.",
+        "Find the stones, then come back.\nZelda is safe with me.\nSo is Teddy."
+      ],
+      "locations": []
+    },
+    {
+      "id": "708E",
+      "section": "2.5 Mr. Bean – Wiegenlied und Auftrag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Follow me.\nQuietly, if you don't mind.\n...Other way."
+      ],
+      "locations": []
+    },
+    {
+      "id": "206C",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "[Spielername], kurz. Eine Treppe\nnach oben ist noch keine politische\nRichtung.",
+        "Warst Du schon bei Zelda? Bevor wir\nüber Zuständigkeiten sprechen, sollten\nwir erst einmal wissen, was hier\neigentlich los ist."
+      ],
+      "locations": []
+    },
+    {
+      "id": "206D",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "EVENT"
+      ],
+      "pages": [
+        "Ah, [Spielername]. Laß uns die\nnächsten Schritte einmal zusammen\ndenken.",
+        "Diese Treppen führen nach Kakariko.\nMan muß hinaufgehen. Darüber kann\nman lange reden, aber irgendwann\nbraucht es Beine."
+      ],
+      "locations": []
+    },
+    {
+      "id": "206E",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "[Spielername], wir können nicht\njede Unsicherheit auflösen. Aber wir\nkönnen den nächsten Schritt gehen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "200E",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich bewache den Todesberg. Warum?\nKeine Ahnung. Ist das überhaupt in\nunserer Jurisdiktion?",
+        "Ich folge einfach nur Befehlen. Oh\nnein, dieser Satz hat noch nie was\nGutes bedeutet.",
+        "Du brauchst eine königliche Erlaubnis.\nSonst darf ich Dich nicht durchlassen.\nZuständigkeit hin oder her."
+      ],
+      "locations": []
+    },
+    {
+      "id": "200F",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Das ist keine königliche Erlaubnis.\nUnd auch kein Berg. Bitte bring mich\nnicht noch mehr durcheinander."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2010",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Das ist ja Zeldas Handschrift. Zeig\nmal her.",
+        "Hier steht: [Spielername] soll\nHyrule retten. Ein Kind. Mit einer\nköniglichen Erlaubnis.",
+        "Ich hab gerade noch über Jurisdiktion\nnachgedacht. Das hier geht weit über\nmeine Gehaltsklasse.",
+        "Na gut. Du darfst durch. Wenn\njemand fragt: Ich habe den Brief\ngelesen. Genau so steht es im\nDienstplan."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2015",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Gut, Nachwuchsheld. Bevor Du zum\nTodesberg gehst, muß ich Dir noch\nein paar Dinge sagen.",
+        "Ich bewache den Todesberg. Das ist\nmein Job. Warum genau wir diesen\nBerg bewachen, weiß ich nicht.",
+        "Ich folge einfach nur Befehlen. Oh\nnein. Schon wieder dieser Satz.",
+        "Nimm einen stabilen Schild mit. Der\nVulkan ist aktiv. Da fallen heiße\nBrocken herunter.",
+        "Im Basar auf Hyrules Marktplatz\nbekommst Du passende Ausrüstung.",
+        "Sag, ich hätte Dich geschickt.\nVielleicht machen sie Dir einen\nSonderpreis.",
+        "Und dann hätte ich noch einen ganz\nkleinen privaten Auftrag.",
+        "Mein Sohn möchte eine Maske. Dieser\nMaskenladen in Hyrule hat ihm den\nKopf verdreht.",
+        "Kannst Du ihm eine besorgen? Eine\nFuchs-Maske wäre toll.",
+        "Nur, wenn Du sowieso nach Hyrule\nkommst. Ich kann hier nicht weg.",
+        "Wegen des Dienstes. Ich bewache ja\ndiesen Berg. Ob das überhaupt unsere\nJurisdiktion ist? Ach, vergiß es."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2016",
+      "section": "2.6 Kakariko – Eule, Bergwache und königliche Erlaubnis",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mein Sohn wünscht sich eine Maske\naus Hyrule. Eine Fuchs-Maske.",
+        "Ich kann nicht selbst hin. Ich\nbewache den Todesberg. Frag mich\nbitte nicht noch mal, warum."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1028",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du suchst Salia? Sie ist in den\nVerlorenen Wäldern.",
+        "Wenn Du Dich verläufst, mach nicht\nmich dafür verantwortlich.",
+        "Und nun laß mich in Ruhe."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1031",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x10C8)"
+      ],
+      "pages": [
+        "Was denn?",
+        "Mido läßt Dich nicht zum Baum? Er\nverwechselt seinen Kopf mal wieder\nmit einem Schlagbaum."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C8",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x10C9)"
+      ],
+      "pages": [
+        "Mido führt sich auf, als hätte er den\nWald persönlich gepflanzt.",
+        "Aber Schwert und Schild sind\ntrotzdem eine vernünftige Idee."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C9",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x1032)"
+      ],
+      "pages": [
+        "Im Wald ist etwas faul.",
+        "Such Dir besser eine Waffe, bevor Du\nder Sache nachgehst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1032",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Das Kokiri-Schwert liegt verborgen\nbeim Trainingslager. Den Deku-Schild\nbekommst Du im Laden."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10B0",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Vielleicht weiß Mido, wo Salia ist.",
+        "Er schmollt in einem der Häuser.\nGanz ohne Publikum."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10B5",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Salia hat Dich gesucht. Habt Ihr Euch\nendlich gefunden?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C0",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "TEXTID(0x10C1)"
+      ],
+      "pages": [
+        "Da bist Du, [Spielername]. Laß uns\nüber Orientierung sprechen.",
+        "Gerade im Wald ist das wichtig. Da\nsieht jeder Baum aus wie ein\nweiteres Argument für denselben\nIrrweg."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C1",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "In den Verlorenen Wäldern liegt die\nHeilige Lichtung. Das ist das Ziel. Der\nWald dazwischen ist die Umsetzung.",
+        "Wenige erreichen sie. Daraus folgt\naber nicht, daß sie unerreichbar ist.\nDa müssen wir präzise bleiben.",
+        "Hör auf die Musik. Zwischen all den\nBäumen gibt sie Dir eine Richtung.\nNicht jeder Fortschritt ist\nausgeschildert.",
+        "Kannst Du sie hören? Man muß nicht\nzu jeder Frage sofort etwas sagen.\nManchmal wäre Zuhören schon ein\nAnfang."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C2",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Soll ich die Orientierungshilfe noch\neinmal einordnen?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C3",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Folge der Musik bis zur Heiligen\nLichtung. Ein Ton ist natürlich noch\nkein Weg.",
+        "Aber wenn Du den Zusammenhang\nerkennst, kommst Du weiter. Das ist\njetzt durchaus praktisch gemeint."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10A8",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [],
+      "controls": [
+        "TEXTID(0x10A9)"
+      ],
+      "pages": [
+        "Ich habe auf Dich gewartet,\n[Spielername]!",
+        "Dies ist die Heilige Lichtung,\nmein Lieblingsort!\nIch spüre etwas...",
+        "Dieser Ort wird für uns beide \nvon schicksalhafter Bedeutung sein.\nDas kann ich fühlen...",
+        "Spielst Du hier die Okarina, \nkannst Du zu den Geistern des \nWaldes sprechen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10A9",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Machst Du mir die Freude und \nspielst mit mir?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10AA",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Versuch, die Melodie, die ich\nspiele, nachzuspielen...\nBist Du bereit?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10AB",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Was?!\nDu enttäuschst mich!\nKomm schon, spiel mir nach!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10AC",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [],
+      "controls": [
+        "SFX(NA_SE_VO_RT_LAUGH_0)",
+        "TEXTID(0x10AD)"
+      ],
+      "pages": [
+        "Wie wunderschön!",
+        "Du darfst dieses Lied nie \nvergessen. Versprich es!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10AD",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Willst Du meine Stimme hören, so \nspiele Salias Lied. Du kannst \nDich jederzeit mit mir \nunterhalten..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C4",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "TEXTID(0x10C5)"
+      ],
+      "pages": [
+        "[Spielername], eine kurze\nRückfrage. Also kurz in der Absicht.",
+        "Hat Salia Dir ihr Lied beigebracht?\nDas wäre ein Fortschritt, auf dem\nwir aufbauen können.",
+        "Musik kann hier reale Wirkung\nentfalten. Das ist keine Metapher. Es\ngehen tatsächlich Türen auf.",
+        "Auch anderswo lernst Du Lieder,\netwa in Hyrule. Wir dürfen das\nPotential nicht auf einen einzigen Ton\nverengen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C5",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Lege die Okarina auf [C]. Wenn Du sie\nbenutzt, erscheinen die Notenlinien.\nDas ist die praktische Ebene.",
+        "Spiele ein gelerntes Lied. Die Töne\nmüssen zusammenpassen. Jeder für\nsich kann sehr überzeugt klingen und\ntrotzdem falsch sein.",
+        "Du kannst auch ohne Notenlinien\nspielen. Nicht alles, was einen Wert\nhat, muß sofort einen meßbaren\nErtrag bringen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C6",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Noch ein Gedanke zur Einordnung?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "10C7",
+      "section": "2.7 Verlorene Wälder – Salia suchen und ihr Lied lernen",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Die gelernten Lieder stehen im\nStatus-Menü. Wissen muß zugänglich\nsein. Sonst hat man es zwar, aber\nfindet es nicht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3008",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wir Goronen leben von Steinen. Die\nguten liegen in Dodongos Höhle.",
+        "Friedrich Merz ließ hier Kohle\nabbauen. Er versprach Arbeit und\nWohlstand.",
+        "Dann brach sein ganzer Mist\nzusammen. Der Eingang ist\nverschüttet. Unsere Nahrung liegt\ndahinter.",
+        "Jetzt treiben sich auch noch\nDodongos in der Höhle herum. Hunger\nund Monster: sein großes\nStandortkonzept.",
+        "Merz nennt es einen bedauerlichen\nBetriebszwischenfall. Mein Magen\nnennt es eine beschissene Woche."
+      ],
+      "locations": []
+    },
+    {
+      "id": "302A",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Merz hat unseren Speiseplan\nverschüttet. Vielleicht kriegt ein Kind\nmehr hin als seine ganze\nBergbauverwaltung."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3009",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mit einer Donnerblume könnte ich\nMerz' Schutthaufen vor der Höhle\nwegsprengen.",
+        "Aber ich erreiche den Eingang nicht,\nbevor sie explodiert.",
+        "Unsere Wirtschaftspolitik besteht\ninzwischen daraus, rechtzeitig eine\nPflanze zu werfen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3026",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wir hätten die Donnerblume von der\nKlippe werfen müssen. Ich wollte erst\neinen Arbeitskreis gründen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "300A",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Ich spende den Donnerblumen\nSchatten. Wenigstens eine brauchbare\nEnergiepolitik.",
+        "Was möchtest Du wissen?\n\nÜber die Donnerblumen\nÜber Dodongos Höhle"
+      ],
+      "locations": []
+    },
+    {
+      "id": "300B",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Donnerblumen sind explosive\nHöhlenpflanzen. Die Blüte wird für\nBomben verwendet.",
+        "Pflücke sie vorsichtig. Eine Explosion\nist hier keine Metapher für\nWachstum.",
+        "Normalerweise wachsen sie in dunklen\nHöhlen.",
+        "Dieses Exemplar draußen ist selten.\nSeit Merz buddelt, brauchen selbst\nPflanzen einen Ausweichstandort."
+      ],
+      "locations": []
+    },
+    {
+      "id": "300C",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Das sind Donnerblumen: explosive\nPflanzen für die Bombenherstellung.",
+        "Eigentlich wachsen sie in dunklen\nHöhlen. Draußen sind sie selten.",
+        "Mit dem Goronen-Armband kannst\nsogar Du sie mit [A] pflücken. Ohne\nKraft ist das keine gute Idee."
+      ],
+      "locations": []
+    },
+    {
+      "id": "300D",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "In Dodongos Höhle wächst unsere\nNahrung zwischen den Donnerblumen.",
+        "Merz hat beim Kohleabbau den\nEingang einstürzen lassen. Wir\nbekommen den Hunger, er behält die\nAusrede."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3014",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich habe Hunger. Und bevor Du mit\neinem Kiesel vom Straßenrand\nankommst...",
+        "Wir ernähren uns von Steinen. Das\nheißt nicht, daß wir jeden Dreck\nfressen müssen!",
+        "Das ist ein Goronen-Vorurteil!",
+        "In Dodongos Höhle lagern die besten\nSpeisesteine. Merz' Kohleabbau hat\nden Zugang verschüttet.",
+        "Er nennt sich wirtschaftskompetent.\nIch würde gern einmal den Beleg dazu\nessen.",
+        "Wir brauchen die Höhle zurück.\nHunger läßt sich schlecht bis zur\nnächsten Legislaturperiode\naufschieben."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3015",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Steinfilet aus Dodongos Höhle. Kein\nStraßendreck. Ich bin hungrig, nicht\nanspruchslos."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3016",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "He, Kleiner!",
+        "Du bist bestimmt wegen des Roten\nSteins hier. Den findet hier jeder zum\nAnbeißen.",
+        "Ich liebe Rockmusik. Besonders die\nharten Sachen.",
+        "Ja, wir essen Steine und hören Rock.\nIch weiß selbst, wie das klingt.",
+        "Du suchst einen Heiligen Stein? Dann\nmeinst Du wohl den Goronen-Opal.",
+        "Ich wollte nur ein winziges Stück\nkosten. Wirklich winzig. Ein kultureller\nBeitrag.",
+        "Aber Darunia hat ihn mitgenommen.",
+        "Er hat sich in seinem Raum\neingeschlossen. Vermutlich wollte er\neinmal etwas besitzen, das keiner\nanleckt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3017",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Darunia wartet in seinem\nverschlossenen Raum auf einen Boten\nder Königsfamilie. Der Mann braucht\ndringend gute Nachrichten.",
+        "Er sagt, sein Job habe nichts mit\nseinen Haaren zu tun. Ich habe ihn\ngar nicht nach seinen Haaren gefragt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3018",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich sage es offen: Rockmusik ist\nmega scheiße.",
+        "Darunia mußt Du trotzdem aufsuchen.\nEr kennt sich mit dem Heiligen Stein\naus.",
+        "Er ist mies gelaunt, seit sein Volk\nwegen Merz' Kohlegrube hungert.",
+        "Musik kann ihn aufheitern. Leider. Bei\nmir müßte man sie dafür abschalten.",
+        "Versuche die Musik aus dem Wald. Er\nliebt sie, und ich kann so lange die\nWand anstarren."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3019",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x302C)"
+      ],
+      "pages": [
+        "Darunia mag besonders die Musik des\nWaldes. Das ist Dein Ansatz.",
+        "Ich mag besonders, wenn sie aufhört.\nWir ergänzen uns als Gesellschaft."
+      ],
+      "locations": []
+    },
+    {
+      "id": "302C",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Die Fackeln sind ein Symbol des\nLebens in Goronia. Würden sie\nalle brennen, wäre es hier\nsicher wieder schöner!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3024",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Seit Merz hier Kohle abbauen ließ,\nkriegen wir kaum noch gutes Essen.",
+        "Der Rote Stein? Darunia hat den\nGoronen-Opal mitgenommen.",
+        "Er sitzt in seinem Raum. Die\nDunkelheit hier macht den Hunger\nnicht besser.",
+        "Vielleicht hilft etwas Licht. Einen\ntrockenen Vortrag über\nEigenverantwortung haben wir schon\nbekommen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3025",
+      "section": "2.8 Goronia – Hunger, Kohleabbau und Zugang zu Darunia",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Zünde die Fackeln an der\nGoronenstatue an. In Darunias\nKammer gibt es Feuer. Ich hätte gern\nauch mal Hoffnung statt Glut."
+      ],
+      "locations": []
+    },
+    {
+      "id": "301A",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x301B)"
+      ],
+      "pages": [
+        "Was? Wer bist Du?",
+        "Ich hörte das Lied der Königsfamilie\nund erwartete ihren Boten. Jetzt\nsteht ein Kind vor mir.",
+        "Ich bin Darunia, Anführer der\nGoronen. Und mein Volk hungert!",
+        "Und bevor Du fragst: Ich bin nicht\nbloß Chef, weil ich anders aussehe.\nIch besitze Fähigkeiten!",
+        "Ich bin bärenstark. Ich esse Steine.\nUnd ich kann mich zusammenrollen.\nDas muß man erst mal können!",
+        "Merz hat uns Kohleabbau als\nWohlstand verkauft. Dann brach alles\nüber unserem Speiselager zusammen.",
+        "Ich verlangte Hilfe vom Schloß.",
+        "Statt dessen hieß es, der Markt\nwerde das regeln. Der Markt hat\noffenbar keine Arme.",
+        "Dodongos wüten in unserer Höhle.",
+        "Die Donnerblumen-Ernte war schlecht.\nDer Eingang liegt unter Schutt.",
+        "Und ich soll noch dankbar sein, weil\ndas angeblich unsere Wirtschaft\nankurbelt?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "301B",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mein Volk hungert. Ich brauche Hilfe,\nkeine Diskussion über meine\nErnennung zum Anführer!",
+        "Daß alle Goronen stark sind, weiß ich\nselbst. Aber ich bin stark UND Chef.\nDas ist eine Kombination!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3020",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Hmmm, ganz gut... Aber nicht\ngenau das, was ich hören wollte...",
+        "Ich mag Melodien... Wie soll ich \nsagen... Von außerhalb... etwas\nNatürliches... Grünes... aus dem \nWald...",
+        "Das ist meine Art von Musik!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3007",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [],
+      "controls": [
+        "BOX_BREAK_DELAYED(30)",
+        "BOX_BREAK_DELAYED(40)",
+        "BOX_BREAK_DELAYED(30)",
+        "BOX_BREAK_DELAYED(40)",
+        "BOX_BREAK_DELAYED(30)",
+        "BOX_BREAK_DELAYED(40)",
+        "BOX_BREAK_DELAYED(40)",
+        "BOX_BREAK_DELAYED(40)"
+      ],
+      "pages": [
+        "Oh...",
+        "Wow!",
+        "Das groovt!",
+        "Yeah! Yeah! Yeah!",
+        "Ein heißer Beat!",
+        "Groovy!",
+        "Let's dance!",
+        "YEEEEAH!",
+        "YAHOOO!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "301C",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Dieser Klang! Endlich mal kein\nVortrag über den\nWirtschaftsstandort!",
+        "Die Musik des Waldes hat mich\nerwischt. Ich mußte einfach tanzen!",
+        "Ich bin Darunia. Ein besonders\nqualifizierter Gorone!",
+        "Ich vertrage Hitze und kann rollen.\nDeshalb führe ich die Goronen. Meine\nFrisur spielt dabei keine Rolle!",
+        "Was suchst Du?",
+        "Den Heiligen Stein des Feuers?",
+        "Wir nennen ihn Goronen-Opal. Er ist\ndas wertvollste Relikt unseres\nVolkes.",
+        "Ich gebe ihn jemandem, auf den wir\nuns verlassen können. Keine weitere\nHochglanzzusage.",
+        "Vertreibe die Kreaturen aus Dodongos\nHöhle!",
+        "Hilfst Du meinem Volk, soll der Stein\nDir gehören.",
+        "Nimm zuerst dieses\nGoronen-Armband. Ein Geschenk unter\nFreunden.",
+        "Damit kannst Du sogar schwere\nDonnerblumen mit [A] heben. Merz hat\nuns den Schutt gebracht. Du bringst\nhoffentlich die Lösung."
+      ],
+      "locations": []
+    },
+    {
+      "id": "301D",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Vertreibe die Dodongos aus der\nHöhle. Dann gehört Dir der Heilige\nStein. Mein Volk braucht Essen, keine\nneue Durchhalterede.",
+        "Warum ich nicht selbst gehe? Ich bin\nstark, hitzebeständig und kann rollen.\nDarum muß ich hier die Leitung\nübernehmen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "302F",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Darunia geht es besser? Gut. Ein\nkleiner Erfolg gegen eine sehr große\nschlechte Laune.",
+        "Jetzt erklärt er mir, daß er\nbärenstark ist und Steine ißt. Ich\nwollte bloß wissen, wer heute die\nKüche aufräumt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3021",
+      "section": "2.9 Darunia – Erstgespräch, Musik und Auftrag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Zugang ist offen! Endlich. Jetzt\nfehlen nur noch die Dodongos. Ein\nProblem weniger ist trotzdem ein\nProblem weniger."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0114",
+      "section": "2.10 Dodongos Höhle – Navi und Wallace",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Wow! Schau Dir all die\nDonnerblumen an!",
+        "Meinst Du, Du kannst sie\nalle auf einmal zünden?"
+      ],
+      "locations": [
+        "Dodongos Höhle – Raum 2"
+      ]
+    },
+    {
+      "id": "0115",
+      "section": "2.10 Dodongos Höhle – Navi und Wallace",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Sieht aus, als wären hier jede\nMenge Lavagruben! Paß auf, wo\nDu hintrittst!"
+      ],
+      "locations": [
+        "Dodongos Höhle – Raum 0"
+      ]
+    },
+    {
+      "id": "0116",
+      "section": "2.10 Dodongos Höhle – Navi und Wallace",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Betätige den Schalter, damit sich\ndie Plattform hebt. So erreichst\nDu leicht ein höheres Stockwerk!"
+      ],
+      "locations": [
+        "Dodongos Höhle – Raum 0"
+      ]
+    },
+    {
+      "id": "0119",
+      "section": "2.10 Dodongos Höhle – Navi und Wallace",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "In diesen schmalen Gängen weiß\nman nie, was sich hinter der \nnächsten Ecke befindet...",
+        "Drücke [Z], um immer in die\nrichtige Richtung zu schauen.\nPraktisch, nicht wahr?"
+      ],
+      "locations": [
+        "Dodongos Höhle – Raum 9"
+      ]
+    },
+    {
+      "id": "019A",
+      "section": "2.10 Dodongos Höhle – Navi und Wallace",
+      "source_files": [
+        "wallace_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Oh, hi, lad! Wallace hier. Die\nGoronen sind ein prächtiges Völkchen.\nSteine zum Abendbrot! Da fehlt bloß\nder Käse.",
+        "Ich erforsche, wie man das Klima auf\ndem Todesberg überlebt. Hier ist es\nheißer als in meinem Käsetoaster!",
+        "Not macht erfinderisch! Ich tüftle an\neinem hitzefesten Gewand. Mein\nWensleydale ist leider schon\ngeschmolzen.",
+        "Dann hat Friedrich Merz mit seinem\nKohleabbau den Eingang verschüttet.\nDa hatten wir den Käse! Ein Fiasko.",
+        "Jetzt sitze ich hier fest. Ich wollte\ndie Goronen erforschen, nicht bei\nihnen einziehen. Und der Gouda wird\nknapp, lad!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3023",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Bruder! Du hast die Dodongos\nbezwungen. Unser Volk kann wieder\nan seine Nahrung!",
+        "Merz versprach Wohlstand und\nhinterließ einen Einsturz. Du kamst\nohne Wahlplakat und hast uns\ngeholfen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3004",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich mag Dich, Kleiner!",
+        "Du und ich sollten Blutsbrüder\nwerden. Freundschaft hält hoffentlich\nlänger als ein Bergbauversprechen.",
+        "Nimm den Goronen-Opal als Zeichen\nunserer Freundschaft. Den hast Du\nDir verdient!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3000",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Nun sind wir Blutsbrüder. Zwei Heilige\nSteine hast Du. Suche den dritten!\nUnd laß Dir von Merz keinen Schotter\nals Juwel verkaufen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3068",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Bruder, denke daran, Deine Kräfte zu\nstärken. Du mußt nicht die ganze\nWelt allein schleppen.",
+        "Auf dem Gipfel des Todesberges lebt\neine Fee. Sie kann Dir helfen.",
+        "Freunde! Verabschiedet unseren\nBruder VORSICHTIG. Er ist ein Kind.\nIhr brecht ihm sonst noch die\nKnochen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3005",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "pages": [
+        "LEUTE! VORSICHT!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3006",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "pages": [
+        "DAS IST EIN KIND, ALTER!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3027",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Danke, Bruder! Wir können wieder\nSteine essen. Den Kohlenstaub darf\nMerz sich selbst auf den Teller\nkippen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3067",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du hast den Roten Stein? Darf ich\nein winziges Stück probieren?",
+        "Nein? Schon gut. Bei Merz nennt man\ndas offenbar geschütztes\nPrivatvermögen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "301E",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Komm wieder und spiel uns etwas\nvor, Bruder! Ein Konzert ist mir\nlieber als Merz' nächste\nGrundsatzrede.",
+        "Ich bin übrigens der einzige Gorone\nhier, der Chef ist. Das ist doch wohl\nein Alleinstellungsmerkmal!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "301F",
+      "section": "2.11 Nach König Dodongo – Opal und Goronen-Umarmung",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Alle Goronen essen Steine? Schon.\nAber nicht alle essen sie mit meiner\nFührungsverantwortung!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3064",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wenn ich am Strand schwimmen\ngehe, sterbe ich.",
+        "Deshalb bleibe ich auf dem Berg. Auf\ndem Gipfel lebt übrigens eine Fee.\nDie solltest Du besuchen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3065",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Die Fee auf dem Gipfel hilft Dir\nbestimmt. Nimm einen großen Schild\ngegen die herabfallenden Brocken mit.",
+        "Ich bleibe hier. Ein Berg wirft\nmanchmal Steine auf mich. Das Meer\nwürde mich ganz behalten."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00D7",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Hallo mein süßer [Spielername]!\nIch bin die Fee der Fähigkeiten!",
+        "Ich verleihe Dir mit meiner Macht\neine neue Schwert-Technik!",
+        "Sei bereit!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00DD",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Du beherrschst die kraftvolle\nWirbelattacke!",
+        "Halte [B] gedrückt, um Dein\nSchwert aufzuladen. Laß [B]\nlos, um einen energiegeladenen\nRundumschlag auszuführen!",
+        "Bewegst Du [Control-Pad] einmal im Kreis\nund drückst dann [B], kannst Du\ndie Wirbelattacke sofort und ohne\nWartezeit ausführen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00DB",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Hallo mein süßer [Spielername]!\nIch werde Deine Wunden heilen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00DA",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Wenn Du vom Kampf erschöpft\nbist, kannst Du mich jederzeit\nwieder besuchen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3062",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Gipfel, [Spielername]. Das ist\neine Leistung. Ich will die\nAnstrengung dahinter gar nicht\nkleinreden.",
+        "Die Wolken zeigen, wie es dem Berg\ngeht. Weiß heißt Frieden. Das ist ein\nIndikator, keine dauerhafte Garantie.",
+        "Mut hast Du bewiesen. Nun wäre es\nvernünftig, Unterstützung anzunehmen.\nDas ist keine Schwäche.",
+        "Hier lebt die Mutter aller Feen. Such\nsie auf. Manche Investitionen in die\neigene Zukunft bezahlt zum Glück\njemand anders.",
+        "Danach kann ich Dich zum Fuß des\nBerges bringen. Der Abstieg muß\nnicht dieselbe Belastung haben wie\nder Aufstieg."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3063",
+      "section": "2.12 Todesberg-Gipfel – Große Fee und Eule",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Die Fee hat Dir geholfen. Jetzt hast\nDu mehr Möglichkeiten. Das ist erst\neinmal ein Zugewinn an\nHandlungsspielraum.",
+        "Energie muß verfügbar sein, wenn\nman sie braucht. Nur zu behaupten,\nman habe welche, hilft im Ernstfall\nwenig.",
+        "Für den Flug zum Fuß des Berges\nhalte Dich an meinen Krallen fest. Da\nmöchte ich beim Sicherheitskonzept\nkeine Interpretationsspielräume."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0140",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Deku-Baum ruft uns. Wenn der\nmich nur zum Blätterfegen braucht,\nraste ich aus."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0141",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Da hinein. Der Baum hat Dich\neingeladen. Selbst Mido begreift das."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0142",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Die Prinzessin wartet im Schloß von\nHyrule. Geh los, bevor Du anwächst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0143",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mario liefert Milch und macht ein\nNickerchen. Malon hält den Betrieb\nzusammen. Ich finde das erstaunlich\nvertraut."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0144",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Zelda lebt hinter Wachen, Mauern und\neinem Wassergraben. Man könnte\nmeinen, das Schloß wünsche keinen\nBesuch."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0146",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Bean schickt uns zum Todesberg.\nGoronen hüten dort den Feuerstein.\nIch hätte lieber einen Auftrag ohne\nTodesandrohung."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0145",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Darunia hungert hinter seiner Tür.\nSalia versteht etwas von Musik.\nVielleicht läßt er sich damit\naufheitern."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0147",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Merz hat den Höhleneingang versaut,\nund wir dürfen die Donnerblume\ntragen. Eigenverantwortung riecht\nüberraschend nach Sprengstoff."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0148",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wir retten Goronia, und die erste\nEmpfehlung ist noch mehr Leistung.\nImmerhin hilft die Fee auf dem Gipfel\ntatsächlich."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0135",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wir waren schon wieder in einem\nMund! Dodongos Höhle lag in einem\nriesigen Gerippe.",
+        "Und kurz vor dem Boß mußten wir\nauch noch durch einen gewaltigen\nDodongo-Schädel. Also Mund im\nMund!",
+        "Erst der Deku-Baum, jetzt das. Ich\nmöchte unser nächstes Reiseziel bitte\nvon außen kennenlernen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0149",
+      "section": "2.13 Navi – natürliche Storyhinweise bis zum Übergang zu den Zoras",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Salia weiß vielleicht etwas über den\nletzten Heiligen Stein. Mir ist jemand\nmit Walderfahrung lieber als noch ein\nBergbauunternehmer."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00E0",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Willst Du mit Salia sprechen?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00E1",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Willst Du dann mit mir sprechen? \n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00E2",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Hallo [Spielername]!\nIch bin es, Salia.\nHörst Du mich?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00E3",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Willst Du nochmal mit ihr reden?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0160",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Ich unterhalte mich gern auf\ntelepathische Weise mit Dir.\nDoch jetzt würde ich Dich lieber\npersönlich sprechen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0161",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Dieser Wald ist mit vielen Orten\nverbunden. Wenn Du mein Lied\nirgendwo hörst, muß es von dort\neinen Weg hierher geben!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0164",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Sammelst Du die Heiligen Steine?\nDu mußt noch einen finden? Den\nHeiligen Stein des Feuers, oder?",
+        "Der Deku-Baum erzählte mir einst,\ndaß ihn Darunia, der Gebieter über\nGoronia, besitzt..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0162",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Ich habe mich sehr gefreut, daß\nDarunia mein Lied gefallen hat!",
+        "Noch schöner finde ich, daß es\nDir bei Deiner Mission geholfen\nhat, [Spielername]!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0163",
+      "section": "2.14 Salia über ihr Lied rufen – frühe Zustände",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Sammelst Du die Heiligen Steine?\nDu mußt noch einen finden? Den\nHeiligen Stein des Wassers, oder?",
+        "Der Deku-Baum erzählte mir einst,\ndaß ihn König Zora besitzt..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1004",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mit [A] hebst Du Dinge auf. Zum\nBeispiel diese Steine.",
+        "Mido hat das Wegräumen angeordnet.\nDie Anordnung war sein ganzer\nBeitrag."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1005",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Eine Fee! Na also, [Spielername].",
+        "Was gibt es?",
+        "Der Deku-Baum ruft Dich persönlich?",
+        "Normalerweise läßt er uns einfach\nwachsen.",
+        "Er beschützt uns und den Wald.\nWenn er ruft, würde ich hingehen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1006",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ob der Deku-Baum auch Mido\nerschaffen hat? Jeder macht mal\nFehler."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1008",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Halt! Als Kokiri darfst Du den Wald\nnicht verlassen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1009",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Draußen sollen Kokiri sterben. Das\nsagt man hier. Ich habe wenig Lust,\ndie Ausnahme zu suchen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "100A",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Oh Mann, oh Junge! Ich liebe es, ein\nKokiri zu sein.",
+        "Dieser Wald ist so entspannt. Mein\nLeben... entspannter geht es ja gar\nnicht.",
+        "Ich entspanne hier den ganzen Tag\nund hab 'ne richtig coole Hütte.",
+        "Der Deku-Baum ist quicklebendig. Der\nmacht locker noch hundert Jahre\ndurch.",
+        "Nichts kann diesen Tag ruinieren."
+      ],
+      "locations": []
+    },
+    {
+      "id": "100B",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hilfst Du mir? Salia ist doch auch\nDeine Freundin.",
+        "Was Du im Gras findest, kannst Du\nbehalten. Mido braucht davon nichts\nzu erfahren."
+      ],
+      "locations": []
+    },
+    {
+      "id": "100C",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x100D)"
+      ],
+      "pages": [
+        "Gut! Deine Fee hilft Dir bei der\nZielerfassung.",
+        "Nun kannst Du auch auf Entfernung\nmit Leuten sprechen.",
+        "Das ist praktisch. Besonders, wenn\njemand wie Mido näherkommt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "100D",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Fliegt Deine Fee zu etwas, schaust\nDu mit [Z] genau dorthin.",
+        "Halte [Z] und drücke [A], um weiter\nentfernte Leute anzusprechen.",
+        "Ohne Ziel richtest Du mit [Z] die\nSicht geradeaus. Probier es aus."
+      ],
+      "locations": []
+    },
+    {
+      "id": "100E",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x1019)"
+      ],
+      "pages": [
+        "Du hast jetzt eine Fee? Dann können\nwir endlich trainieren.",
+        "Die Fee kann beraten. Ausweichen\nmußt Du immer noch selbst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1019",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Im Kokiri-Trainingslager lernt man\nmehr als in Midos Ansprachen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1021",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du bist wieder da? Und ich hatte mir\ngerade einen Abschiedsspruch\nüberlegt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1023",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Salia wartet in den Verlorenen\nWäldern auf Dich. Am üblichen Ort."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1024",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Danke, [Spielername]. Wenigstens\neiner hilft hier ohne große Ansprache."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1041",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Das ist nicht Salias Lied. Aber mutig\ngespielt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1042",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mido ist völlig außer sich. Diesmal\nweiß ich sogar nicht, weshalb."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1043",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du willst wirklich fort?",
+        "Zum Schloß? Da muß Dein Ausflug\ngrößer sein als meiner zum Laden."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1044",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Es heißt, Kokiri sterben, wenn sie den\nWald verlassen.",
+        "Ich hoffe, Du weißt, was Du tust.\nEine Fee ist schließlich kein Reiseplan."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1047",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x1048)"
+      ],
+      "pages": [
+        "Da bist Du ja, [Spielername]."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1048",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Egal, wohin Dein Weg führt: Du\nbleibst mein Freund. Mido muß damit\nleben."
+      ],
+      "locations": []
+    },
+    {
+      "id": "104B",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "[Spielername], gehst Du wirklich\nfort? Paß draußen auf Dich auf."
+      ],
+      "locations": []
+    },
+    {
+      "id": "104C",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wenn Dein Schild kaputtgeht, komm\nwieder. Im Laden gibt es Ersatz.\nAuch ein Held braucht einen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10D7",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x10D8)"
+      ],
+      "pages": [
+        "Du hast einen wichtigen Auftrag?\nDann nimm Dir einen Augenblick.\nAuch Helden dürfen sich umsehen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10D8",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mit [C-Up] und [Control-Pad] kannst Du Dich\numschauen. Die Aussicht verlangt\nkeinen Eintritt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "10DA",
+      "section": "Kokiri – weitere frühe Gespräche und Reaktionen",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Geh gut ausgerüstet in die\nVerlorenen Wälder. Die Bäume dort\nsind schlechte Wegweiser."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7014",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Oh Junge, ich muß unbedingt so eine\nMaske mieten! Ich kann es kaum\nerwarten! JAAAAAA!!!!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "70A4",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Malon ist zum Schloß gegangen. Ich\ngehe zum Maskenladen. Endlich hat\nmein Leben einen Sinn!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "700D",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich check nicht, was der Maskentyp\nsoll. Warum sollte man eine Maske\nmieten? Für was denn bitte\nüberhaupt??"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7015",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ist Dir aufgefallen, daß diese\nkomischen Augen-Uhren-Ansagesteine\nsich anfühlen, als wären sie aus\nGummi?",
+        "Ich habe draufgehauen. Der Stein hat\ngezittert. Dann hat er mir die Uhrzeit\ngesagt. Ich brauche Urlaub."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7018",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich habe einen sauguten Kumpel, der\nliebt es zu trommeln. Wir nennen ihn\nalle liebevoll Bongo Bongo.",
+        "Er ist nach Kakariko gezogen, um\ndort mit seiner Musik durchzustarten.",
+        "Seitdem haben wir nichts mehr von\nihm gehört. Nicht mal ein einziges\nSolo.",
+        "Vielleicht übt er im Keller. Gute\nSchlagzeuger brauchen schließlich\neinen eigenen Raum."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7019",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Bongo Bongo in Kakariko. Falls Du ihn\nsiehst, sag ihm, daß seine alte Band\nauf ihn wartet.",
+        "Und falls er wieder behauptet, er\nkönne ohne Kopf besser den Takt\nhalten: Glaub ihm kein Wort."
+      ],
+      "locations": []
+    },
+    {
+      "id": "701F",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich kenne Mido aus dem Wald.\nRichtiger Wichser, der Typ. Bin\nsaufroh, daß Kokiri den Wald nicht\nverlassen können!",
+        "Ich schwör! Einmal hat er mir\nerklärt, wie man richtig steht. Ich\nstand einfach nur da."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7020",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mido würde sogar vor einer offenen\nTür stehen und verlangen, daß Du\nerst die richtige Hose findest."
+      ],
+      "locations": []
+    },
+    {
+      "id": "701D",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "In Zoras Reich soll ein seltsamer\nTentakelmann aufgetaucht sein. Sein\nName sei Thaddäus.",
+        "Niemand weiß, woher er kommt. Man\nhört nur manchmal eine furchtbare\nKlarinette unter dem Wasserfall."
+      ],
+      "locations": []
+    },
+    {
+      "id": "701E",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Thaddäus, der Tentakelmann... Er soll\njeden anstarren, der fröhlich ist."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7021",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können.",
+        "Die schwimmen da den ganzen Tag\nelektrisch rum. Irgendwo muß der\nStrom ja herkommen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7022",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7016",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Man sieht mich nur von weiter weg,\nansonsten würde auffallen, daß mein\nGesicht nur grottenschlecht aufgemalt\nwurde."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7017",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mehr Nähe verträgt meine Textur\nnicht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "701A",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Früher war der Burggraben im\nSommer kühl. Jetzt kann man darin\nfast Suppe kochen.",
+        "Klimawandel in Hyrule, sage ich Dir!\nSogar mein Bart sucht Schatten."
+      ],
+      "locations": []
+    },
+    {
+      "id": "701B",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x701C)"
+      ],
+      "pages": [
+        "Dieser Bart ist mein ganzer Stolz!",
+        "Bei der Hitze würde ich ihn am\nliebsten abnehmen. Geht leider nicht.",
+        "Merz sagt, wir sollen mehr arbeiten.\nMein Schweiß leistet schon\nÜberstunden.",
+        "Du suchst Mario von der Lon\nLon-Farm?",
+        "Ja, den habe ich gesehen..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7023",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mr. Bean war mein Rettungssanitäter,\nals ich 'ne Überdosis hatte.",
+        "Jetzt beschützt er Zelda. Ich würde\nsagen, die hat den richtigen Mann\nerwischt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7024",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mr. Bean war mein Rettungssanitäter,\nals ich 'ne Überdosis hatte."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7027",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Friedrich Merz verspricht Wohlstand.\nVor allem denen, die schon welchen\nhaben.",
+        "Er war Aufsichtsratschef bei\nBlackRock in Deutschland. Ich war\nbeim Bäcker. Auch teuer.",
+        "Wenn Reichtum nach unten tropfen\nsoll, muß oben wohl jemand den Hahn\nzugedreht haben.",
+        "Immerhin beschützt Mr. Bean unsere\nPrinzessin. Der löst Probleme, ohne\nerst den Milchpreis zu erklären.",
+        "Man sieht ihn oft beim Schloß..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7028",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mr. Bean lebt im Schloß. Er gilt als\nZeldas fähigster Beschützer. Ein Mann\nmit Weitblick!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7089",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Scheiße, verfickte Kacke! Dieser\nbeschissene Köter hat mir schon\nwieder vor die Tür geschissen!",
+        "Ich wollte EINEN ruhigen Abend, Du\narschgeigender Dreckswichser von\neinem Schicksal!",
+        "Und dann kommt so ein\nZipfelmützenfurz an und wartet auf\neinen weisen Spruch. Hier: Fick die\nScheißwand an!",
+        "So. Jetzt ist gut. Ich wünsche Dir\neinen zauberhaften Aufenthalt in\nHyrule."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7002",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "alltagsgags_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Mond sieht ganz normal aus wie\nimmer. In drei Tagen wird hier\nwahrscheinlich alles beim alten sein.\nZum Glück!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7003",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "alltagsgags_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich beschütze Hyrule. Und zwar bei\nNacht! Tagsüber kann das ja jeder."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7006",
+      "section": "Hyrule-Stadt – Bewohner und erste Gerüchte",
+      "source_files": [
+        "alltagsgags_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Mond sieht ganz normal aus wie\nimmer. In drei Tagen wird hier\nwahrscheinlich alles beim alten sein.\nZum Glück!",
+        "Im Schloß herrscht gerade Unruhe.\nDeshalb darf niemand hinein. Auch bei\nvöllig normalem Mond."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7001",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich freu mich schon, in sieben Jahren\nhier wieder aufzutauchen und im\nschönen Hyrule abzuhängen. Das wird\nein Fest!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "703E",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hast Du jemals 'nen Zora außerhalb\nvon Zoras Reich gesehen? Laß mal\nHyrule fluten für mehr Inklusion."
+      ],
+      "locations": []
+    },
+    {
+      "id": "703F",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich hab gehört, irgendein Vollidiot hat\nden Deku-Baum komplett\ngeschrottet??"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7041",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Für 'ne Stadt isses hier ganz schön\nklein. Ich hab geniest und war in der\nSeitengasse."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7042",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Friedrich Scherz bereitet mir\nFriedrich Schmerz."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7043",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich hab mir 'ne Fee in die Hose\ngesteckt. Falls ich sterbe, wird das\nfür alle Beteiligten richtig\nunangenehm."
+      ],
+      "locations": []
+    },
+    {
+      "id": "700C",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich kaufe Flascheninhalte. Keine\nFlaschen. Das muß ich hier ständig\ndazusagen.",
+        "Zeig mir mit [C], was Du hast. Fisch,\nKäfer oder blaues Feuer. Ich bin da\ngeschäftlich recht offen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7000",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wenn ich dieses Huhn fange, bring ich\nihm Schwimmen bei. Dann hab ich\nendlich 'ne Ente."
+      ],
+      "locations": []
+    },
+    {
+      "id": "700E",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich hab die Hymne der Zeit aus\nVersehen rückwärts gespielt.",
+        "Jetzt ist mein Vater jünger als ich.\nRichtig unangenehm beim Elternabend."
+      ],
+      "locations": []
+    },
+    {
+      "id": "7055",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "In meinem Haus steht eine Truhe, die\nsich nur öffnet, wenn alle Gäste weg\nsind.",
+        "Deshalb mag ich Dich persönlich\nüberhaupt nicht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "708A",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "In der Nähe des Schlosses ist eine\nversteckte Feenquelle. Da kannst Du\nDich heilen lassen.",
+        "Ich war wegen meiner Bandscheibe\nda. Die Fee hat nur gelacht. Seitdem\ngeh ich krumm UND bin beleidigt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "709B",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Richard zahlt keine Steuern, wohnt\nmietfrei und schläft den ganzen Tag.\nFriedrich Merz nennt ihn\nLeistungsträger."
+      ],
+      "locations": []
+    },
+    {
+      "id": "709C",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mein Hund Richard frißt besser als\nich. Ich hab gestern sein Futter\nprobiert. Scheiße, der hat recht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "709D",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mein kleiner weißer Hund Richard ist\nweg! Such ihn bitte und bring ihn\nher. Dem Depp fällt nicht mal sein\nName ein."
+      ],
+      "locations": []
+    },
+    {
+      "id": "709E",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Das ist nicht Richard! Ich wollte\nmeinen Hund zurück, keine zufällige\nFellwurst aus der Fußgängerzone!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "709F",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Richard! Endlich wieder da!",
+        "Danke! Hier ist Deine Belohnung.\nRichard bekommt erst mal\nHausarrest. Das besprechen wir mit\nseinem Anwalt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "70A0",
+      "section": "Hyrule-Stadt – weitere persönliche Sprüche",
+      "source_files": [
+        "hyrule_nachschlag_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Nachts streunen überall Hunde herum.\nRichard ist wieder sicher. Ich hab die\nTür zugemacht. Verrücktes Konzept."
+      ],
+      "locations": []
+    },
+    {
+      "id": "70A1",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Willkommen beim lustigen\nMaskenhändler! Ich leihe Dir Masken.\nDu verkaufst sie und zahlst mir den\nErlös.",
+        "Ich habe auch eine ganz besondere\nMaske...",
+        "Sie ist ganz besonders... gefährlich.\nNein, die verleihe ich nicht.",
+        "Bald reise ich in ein fernes Land.\nDurch ein Portal im Wald. Ein\nWaldportal sozusagen.",
+        "Aber zuerst verkaufen wir fröhliche\nMasken an fröhliche Menschen.\nVertrau mir..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "70A3",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Lege die geliehene Maske auf [C].\nDrücke [C], um sie zu tragen.",
+        "Sprich damit Leute an. Manche\nreagieren darauf und wollen sie Dir\nabkaufen.",
+        "Für jede Maske findet sich irgendwo\nein Käufer.",
+        "Du willst meine besondere Maske\nsehen? Nein? Ich würde sie Dir\nsowieso nicht zeigen!",
+        "Sie ist viel zu gefährlich. Habe ich\ngefährlich schon erwähnt?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "70A6",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Noch kein Käufer? Such weiter. Die\nMajoras Maske ist gefährlich, aber\nnicht entbehrlich...",
+        "Oh Mist! Jetzt habe ich ihren Namen\nverraten. Vergiß, was ich gesagt\nhabe!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "101B",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "He, Du unter der Maske! Bist Du\nnicht der Junge aus dem Kokiri-Dorf?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "101C",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Mit der Maske könnte ich die Leute\nendlich standesgemäß erschrecken.",
+        "Gibst Du sie mir?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "101D",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Schade. Dann muß wieder mein\nGesicht genügen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "101E",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Großartig! Die behalte ich auf. Man\nweiß nie, wen man trifft."
+      ],
+      "locations": []
+    },
+    {
+      "id": "101F",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_SY_TRE_BOX_APPEAR)"
+      ],
+      "pages": [
+        "Er gibt Dir nur 10 Rubine für die 20\nRubine teure Maske. Das war kein\ngutes Geschäft.",
+        "Dem Maskenhändler schuldest Du\ntrotzdem 20 Rubine. Die fehlenden 10\nzahlst Du selbst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "1020",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich bin ein Zombie! Schrei wenigstens\nein bißchen. Ich habe mir Mühe\ngegeben."
+      ],
+      "locations": []
+    },
+    {
+      "id": "200A",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x200B)"
+      ],
+      "pages": [
+        "Ha! Dich erkenne ich sofort!",
+        "Moment. Ist das eine Fuchs-Maske?",
+        "Mein Sohn will genau so eine. Das\nfällt jetzt vermutlich nicht unter\nBergbewachung, aber...",
+        "Würdest Du mir die verkaufen?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "200B",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Würdest Du sie mir verkaufen?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "200C",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Na gut. Ich warte. Viel anderes\nmache ich hier ja ohnehin nicht. Berg\nbewachen und warten."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2020",
+      "section": "Maskenhändler – früher Leihmasken-Handlungszweig",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Danke! Mein Sohn wird sich über die\nMaske freuen. Endlich hat diese\nSchicht mal etwas gebracht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00BF",
+      "section": "Krabbelminen-Frau – Studium und Arbeit",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Uah... Was? Ein Kunde?",
+        "Ich war bis nachts an der Uni Hyrule.\nHeute muß ich hier schon wieder\narbeiten.",
+        "Studieren und Miete zahlen. Schlaf ist\noffenbar ein Wahlfach."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00C0",
+      "section": "Krabbelminen-Frau – Studium und Arbeit",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Zzz... Hausarbeit... Frühschicht... Zzz..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0018",
+      "section": "Krabbelminen-Frau – Studium und Arbeit",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Willkommen beim\nKrabbelminen-Bowling!",
+        "Neben dem Studium muß ich diese\nBahn betreuen. Merz würde das\nvermutlich Eigenverantwortung nennen.",
+        "Was Du gewinnst, verrate ich nach\ndem Bezahlen. Spannung kostet hier\nextra.",
+        "Ein Spiel kostet 30 Rubine. Möchtest\nDu spielen?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7058",
+      "section": "Krabbelminen-Frau – Studium und Arbeit",
+      "source_files": [
+        "hyrule_stadt_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Noch geschlossen! Ich muß erst zur\nVorlesung. Komm später wieder. Mein\nStundenplan heult schon."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2047",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_Z0_SMILE_0)"
+      ],
+      "pages": [
+        "Da ist ja mein Feen-Junge!",
+        "Danke, daß Du Mario gefunden hast!\nWarst Du im Schloß? Hast Du die\nPrinzessin gesehen?",
+        "Papa kam sofort zurück. Luigi hat ihm\nzu seiner hervorragenden\nRückkehrleistung gratuliert.",
+        "Ich möchte Dir jemanden vorstellen.",
+        "Das ist Epona! Sie mag Musik. Ihre\nBegeisterung äußert sie allerdings\netwas leiser als Luigi."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2048",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Wie es scheint, hat Epona Angst \nvor Dir..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2049",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Dieses Lied hat meine Mutter \ngeschrieben. Es ist wunderschön. \nLaß es uns zusammen singen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "204A",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Epona mag Dich! Luigi würde jetzt\nvor Freude einen dreiteiligen\nMotivationsvortrag halten. Ich sage\neinfach: Schön!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2061",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Oh, eine hübsche Okarina!\nWirst Du das Lied auf der \nOkarina spielen?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00D2",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Du hast\nEponas Lied\nerlernt!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2000",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Danke für Deine Hilfe! Wie heißt Du\neigentlich?",
+        "Sagst Du mir Deinen Namen?",
+        "Wirklich? [Spielername]!",
+        "Der Feen-Junge aus dem Wald! Ich\nhabe Dich wiedererkannt!",
+        "Epona natürlich schon viel früher. Die\nhört eben nicht ständig Luigis\nMotivationsreden.",
+        "Luigi hat sich unheimlich über Dein\nRennen gefreut.",
+        "Er wollte Epona bei der Siegerfeier\nnur kurz hinter dem Tor sichern.\nJetzt nennt er Euren Sprung eine\nhervorragende Eigeninitiative.",
+        "Mario ist wieder zu Hause. Luigi hat\nihm vor Freude beinahe sämtliche\nKnöpfe vom Overall umarmt.",
+        "Die trockenen Weiden bleiben ein\nProblem. Merz' Politik wird leider\nnicht dadurch besser, daß Luigi sie\nfreundlich anlächelt.",
+        "Aber als Team schaffen wir den\nWiederaufbau. Auch dank Dir!",
+        "Vielen Dank, [Spielername]!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2014",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "It's-a me, Luigi! Willkommen! Du\nstehst genau richtig. Ein Gast macht\njeden Arbeitstag schöner!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "203F",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Oh, yeah! Ein Besucher! Wie\nwunderbar!",
+        "It's-a me, Luigi! Willkommen auf\nunserer schönen Lon Lon-Farm!",
+        "Ich kümmere mich hier mit ganzem\nHerzen um alles. Mario ist mein Chef\nund mein allerbester Freund!",
+        "Heute liefert Mario Milch im Schloß.\nBestimmt rettet er unterwegs noch\neine Prinzessin.",
+        "Solange er fort ist, darf ich die\nganze Farm versorgen. So viel\nVertrauen! Ich könnte vor Freude\neinen Heuballen umarmen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2040",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Luigi-Time! Ich habe die ganze Arbeit\nfür mich! Andere nennen das\nÜberlastung. Ich nenne es ein ganz\npersönliches Abenteuer!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2045",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mario ist wieder da! Mamma mia,\njetzt kann ich ihm noch mehr Arbeit\nabnehmen!",
+        "Manche träumen von Urlaub. Ich\nträume von einer besonders gut\norganisierten Mistgabel."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2046",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mario sollte sich öfter ausruhen.\nDann darf ich noch mehr helfen! Ein\nTraum in Grün! Oh, yeah!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "204E",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Zzz... so viele glückliche Pferde... so\nviele schöne Aufgaben... Zzz..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2057",
+      "section": "Lon-Lon-Farm – Malon und Luigi als Kind",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Zzz... Mario ist wieder da... so ein\nschöner Tag... let's a go... Zzz..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "204B",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Zzz... noch ein Level... dann melken...\nZzz..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "200D",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mamma mia! Schon wach!",
+        "Oh, Du bist es! Mein Helfer aus dem\nWald!",
+        "Ich bin Mario. Erinnerst Du Dich an\nmeine legendäre Schlafmission beim\nSchloß?",
+        "Du hast mir damals sehr geholfen.\nMalon war erleichtert, Luigi hat sogar\nvor Freude gekehrt.",
+        "Hier ist Milch für Dich! Die Flasche\ndarfst Du behalten. Ein kleines\nExtra-Leben für unterwegs!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "207E",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Mamma mia! Bin ich schon wach?",
+        "Das muß ein neuer Spielabschnitt\nsein!",
+        "Da ist ja mein Helfer aus dem Wald!\nDanke noch einmal fürs Aufwecken!",
+        "Malon hat mir erklärt, daß Milchkisten\nkeine Speicherpunkte sind. Man lernt\nnie aus.",
+        "Merz verteuert uns das Futter. Luigi\nnennt jede neue Rechnung eine\nwunderbare Rechenaufgabe.",
+        "Diese drei Hühner sind Super-Hühner!\nIch mische sie unter die gewöhnlichen\nHühner.",
+        "Finde alle drei innerhalb der Zeit.",
+        "Dann bekommst Du etwas Nützliches.\nGanz ohne eine Prinzessin aus einem\nanderen Schloß zu holen!",
+        "Ein Spiel kostet 10 Rubine. Machst Du\nmit?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "207F",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "It's-a me! Schon wieder wach!",
+        "Mein fleißiger Freund aus dem Wald!\nLust auf eine neue Runde?",
+        "Ich mische drei Super-Hühner unter\ndie anderen Hühner.",
+        "Finde die drei innerhalb der Zeit. Eine\nnützliche Belohnung wartet!",
+        "Luigi würde selbst dem letzten Huhn\nnoch zum hervorragenden Versteck\ngratulieren.",
+        "Ein Spiel kostet 10 Rubine. Möchtest\nDu?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2080",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Du hast 30 Sekunden! Hier sind die\ndrei Super-Hühner!",
+        "FINDE SIE! LET'S-A GO!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2081",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Die Zeit ist um. Mamma mia! Das\nwar eine knifflige Runde!",
+        "Meine Super-Hühner sind großartige\nVersteckspieler. Luigi würde ihnen\neinen Pokal bauen.",
+        "Kommt her, Ihr gefiederten\nBonus-Level!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2082",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Das ist eins! Super gemacht! Zwei\nfehlen noch. Let's-a go!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2083",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Wahoo! Wieder eins! Noch ein Huhn\nfehlt. Du bist fast am Ziel!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2084",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Wahoo! Alle drei gefunden! Was für\nein großartiger Mitspieler!",
+        "Komm her! Jetzt gibt es Deine\nBelohnung!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2085",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Noch eine Runde? Ein Held braucht\nschließlich auch ein bißchen Training!",
+        "Finde wieder alle drei Super-Hühner in\n30 Sekunden.",
+        "Diesmal kostet es 5 Rubine. Los\ngeht's?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2086",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Du hast das Zeug zum\nSuper-Huhn-Champion!",
+        "Möchtest Du den inoffiziellen Titel\nfeierlich annehmen?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2087",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Hahaha! Ein Titel allein macht\nnatürlich nicht satt.",
+        "Hier ist eine Flasche Lon Lon-Milch.\nSie gibt Dir neue Energie, wenn Du\nsie trinkst!",
+        "Ist die Flasche leer, fülle ich sie\ngegen ein kleines Entgelt wieder auf.\nEin echter Mitspieler braucht\nProviant!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2088",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Du bist ein prima Partner! Luigi wäre\nvöllig aus dem Häuschen!",
+        "Wenn Du erwachsen bist, komm auf\ndie Farm. Für ein gutes Team haben\nwir immer Platz!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2089",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Hier, frische Lon Lon-Milch! Ein\nExtraleben zum Trinken. Na ja, fast.\nWahoo!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "208A",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hier wäre frische Milch für Dich...",
+        "Mamma mia, Du hast keine leere\nFlasche! Selbst Mario kann Milch\nnicht in einer Hosentasche\ntransportieren."
+      ],
+      "locations": []
+    },
+    {
+      "id": "208B",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "THREE_CHOICE"
+      ],
+      "pages": [
+        "Mamma mia! Ich bin wach!",
+        "Was gibt's?",
+        "[Spielername]! Malon ist draußen.\nOder suchst Du ein neues\nSuper-Huhn-Abenteuer?",
+        "Milch gibt es auch. Bei uns kann man\nseine Energie auffüllen, ohne an einen\nschwebenden Block zu springen.",
+        "Was darf es sein?\nLon Lon-Milch - 30 Rubine\nSuper-Huhn-Suchen - 10 Rubine\nZurück"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2013",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Mamma mia! Keine leere Flasche.\nBring eine mit, dann gibt es Milch.\nDie braucht eben mehr Platz als eine\nGoldmünze!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "205D",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Luigi würde die Milch am liebsten\nverschenken. Aber das Futter bezahlt\nsich nicht mit Begeisterung. Deshalb\ngilt der normale Preis."
+      ],
+      "locations": []
+    },
+    {
+      "id": "205E",
+      "section": "Lon-Lon-Farm – Mario, Super-Hühner und Milch",
+      "source_files": [
+        "farm_mario_luigi_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Frische Milch für 30 Rubine. Möchtest\nDu welche?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5028",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_IN_LOST)"
+      ],
+      "pages": [
+        "Ich leite die Zimmerleute. Mr. Bean\nhat uns mit dem Ausbau dieser Stadt\nbeauftragt.",
+        "Was für ein kluger Mann! Er hört zu\nund sagt nur das Nötigste.",
+        "Meine Arbeiter könnten von ihm\nlernen. Sie laufen nur herum, statt\nendlich anzupacken!",
+        "Selbst mein Sohn drückt sich vor der\nArbeit. Wo ist bloß Beans\nPflichtgefühl geblieben?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "505B",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "He! Du kommst einfach in ein\nfremdes Haus? Was werden Deine\nEltern dazu sagen?",
+        "Na, egal...",
+        "Das ist ohnehin nicht mein Haus. Hier\nwohnt der große Mr. Bean. Ein Mann\nvon höchstem Ansehen!",
+        "Er ging zum Friedhof, um eine\nwiderliche Kreatur zu bezwingen. Auf\nBean ist eben Verlaß.",
+        "Seit Friedrich Merz hier sein Unwesen\ntreibt, wimmelt es von solchen\nScheußlichkeiten!",
+        "Mr. Bean hat schon oft für Frieden im\nDorf gesorgt. Sein Mut ist über jeden\nZweifel erhaben.",
+        "Nun gut.",
+        "Er ist noch nicht zurück. Sicher hat\ner alles wohlüberlegt. Bean überläßt\nnichts dem Zufall."
+      ],
+      "locations": []
+    },
+    {
+      "id": "505C",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "wawario_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hast Du diese seltsamen Kinder\ngetroffen? Sie nennen sich Fanboy\nund Chum Chum.",
+        "Halten sich für so 'ne Art\nSuperhelden. Pah! Was Menschen\nnicht alles tun, um sich von der\nArbeit zu drücken!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "505D",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Willkommen in Kakariko! Bist Du zum\nersten Mal hier?",
+        "Mr. Bean ließ das Dorf für einfache\nLeute wie uns erbauen. Ein fähiger,\ngroßherziger Mann!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "505E",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Fühle Dich ganz wie zu Hause.\nDas Essen ist allerdings\nnoch nicht fertig!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5060",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "wawario_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mario und Luigi sind beides\ngroßartige Männer. Dann gibt es\nnoch den gierigen Wario. Pfu!",
+        "Und dieser Waluigi wird es nie zu\netwas bringen. Manchen ist es wohl\nvorherbestimmt, ewig nutzlos zu sein.",
+        "Und von Wawario und Wawaluigi\nwill ich gar nicht erst anfangen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5061",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "wawario_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mario und Luigi sind beides\ngroßartige Männer. Dann gibt es\nnoch den gierigen Wario. Pfu!",
+        "Und dieser Waluigi wird es nie zu\netwas bringen. Manchen ist es wohl\nvorherbestimmt, ewig nutzlos zu sein.",
+        "Und von Wawario und Wawaluigi\nwill ich gar nicht erst anfangen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5063",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [
+        "TIME"
+      ],
+      "pages": [
+        "Es ist [Uhrzeit] Uhr! Zeit, Dir etwas\nüber Kakariko zu erzählen.",
+        "Mr. Bean, Zeldas verläßlicher\nBeschützer, ließ dieses Dorf für\neinfache Leute wie uns erbauen.",
+        "Noch sind wir wenige. Doch mit\nseinem klugen Rat wird hier bald das\nLeben blühen!",
+        "Für den Aufstieg brauchst Du eine\nkönigliche Erlaubnis. Das sollte ein\nMann wie Bean wissen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5079",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "bean_impa_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hier lebte Mr. Bean. Er hat das Haus\ngroßzügig dem Dorf geöffnet. Ein\nvorbildlicher Mann!",
+        "Auch Du darfst hinein. Bean vertraut\nseinen Mitmenschen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "507A",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Dieses Dorf gehörte einst den\nShiekah, aber jetzt kann jeder\nhier leben."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5083",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich habe ja nichts gegen Goronen.\nAber müssen die wirklich nackt\nrumlaufen?",
+        "Mein Nachbar sagt, das sei ihre\nKultur. Meine Unterhose ist übrigens\nauch kulturell gewachsen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5084",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Gorone hat mir erklärt, das sei\nkeine Nacktheit, sondern geologische\nFreiheit. Jetzt denke ich seit Stunden\ndarüber nach."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5074",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Meine Hände sind von der Arbeit\nrissig. Merz würde sagen, ich soll\neinfach länger damit arbeiten. Das\nheilt bestimmt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5075",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Viel Geld für wenig Arbeit? Ich habe\nan eine Unternehmensberatung für\nGoronen gedacht. Ich sage ihnen, sie\nsollen Steine essen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5069",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Meine Eltern erklären mir ständig, daß\nich später Verantwortung übernehmen\nmuß. Die Erwachsenen haben Merz\neingeladen. Ich habe Fragen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5056",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Mit [C-Up] schaust Du Dich um. Sehr\nnützlich, falls Du kontrollieren\nmöchtest, ob der TODESBERG noch\nda ist."
+      ],
+      "locations": []
+    },
+    {
+      "id": "506A",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "alltagsgags_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich war neulich auf der Lon Lon-Farm.\nMario und Luigi sind echt super\nBrüder. Kauft mehr Milch!",
+        "Wir bauen hier den ganzen Tag. Wenn\nder Chef fragt: Das ist keine Pause,\ndas ist Milchwerbung."
+      ],
+      "locations": []
+    },
+    {
+      "id": "506B",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "alltagsgags_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich war neulich auf der Lon Lon-Farm.\nMario und Luigi sind echt super\nBrüder. Kauft mehr Milch!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5077",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "alltagsgags_de.json"
+      ],
+      "controls": [
+        "TIME"
+      ],
+      "pages": [
+        "Die Krabbelminen-Frau ist mega\nattraktiv.",
+        "Ich krabble in die Minen, um genug\nGeld für 'ne krabbelige Runde\nKrabbelminen-Bowling\nzusammenzukratzen.",
+        "Jetzt ist es [Uhrzeit]. Boris ist erst\nabends auf dem Friedhof. Vorher hab\nich Zeit zum Krabbeln."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5078",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "alltagsgags_de.json"
+      ],
+      "controls": [
+        "TIME"
+      ],
+      "pages": [
+        "Es ist [Uhrzeit]. Die\nKrabbelminen-Frau ist mega attraktiv.",
+        "Ich krabble in die Minen, um genug\nGeld für 'ne krabbelige Runde\nKrabbelminen-Bowling\nzusammenzukratzen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5087",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hast Du das Deku-Ballspiel gesehen?\nCrazy Dekus 07 gegen die hölzernen\nHolztypis!",
+        "Der Schiedsrichter hat die ganze Zeit\nkomplett reingekackt. Dreimal\nHandspiel nicht gepfiffen!",
+        "DIE HABEN ÄSTE! Das sieht man\ndoch! Ich reg mich schon wieder auf.\nUnfaßbar, dieser Vollidiot!",
+        "Du suchst das Auge der Wahrheit?\nSein Besitzer wohnte da, wo jetzt\nder Brunnen steht. Das nur nebenbei."
+      ],
+      "locations": []
+    },
+    {
+      "id": "507F",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ah, wie findest Du denn meinen\nBart? Ist das nicht ein toller\nSchnurrbart?",
+        "Dafür benutze ich das edelste\nBartwachs, das man in diesem Land\nkriegen kann. Das muß auch mal\ngesagt werden."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5080",
+      "section": "Kakariko – Mr. Bean, Dorfbewohner und Alltag",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du schaust schon wieder auf meinen\nSchnurrbart. Versteh ich.",
+        "Das edelste Bartwachs im ganzen\nLand. Billiges Zeug kommt mir da\nnicht rein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5036",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Markus Söder hat meine ganzen\nSchweine gefressen. Die GANZEN\nSchweine!",
+        "Jetzt habe ich nur noch Hühner.\nGegen die bin ich allergisch, und sie\nsind auch noch ausgebüxt. Sammelst\nDu sie bitte ein?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5037",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Das machst Du sehr gut!\nBring doch bitte noch die\nanderen vier zurück!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5038",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Prima! Du bist ein echter\nHühnerfänger!\nBring doch auch die anderen\ndrei zurück!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5039",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Klasse! Du bist richtig lieb!\nBring doch noch die anderen\nzwei zurück! Bitte!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "503A",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Super! Jetzt hast Du fast alle!\nBring doch bitte noch das letzte\nHuhn zurück!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "503B",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Danke fürs Einsammeln! Ich bekomme\nAusschlag, wenn ich meine Hühner\nanfasse. Die Schweine waren mir\nlieber.",
+        "Bis Söder kam. Hier, nimm diese\nBelohnung! Wenigstens etwas soll\nheute den Besitzer wechseln, ohne\naufgegessen zu werden."
+      ],
+      "locations": []
+    },
+    {
+      "id": "503C",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Hey, was machst Du denn da?!\nSammle sie ein oder zahle dafür!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "503D",
+      "section": "Kakariko – Hühnerfrau und Schweine",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Ärgere die Hühner bitte nicht!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5018",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x5019)"
+      ],
+      "pages": [
+        "Guten Abend. Boris, Totengräber.\nMeine Arbeit beschäftigt sich mit der\nEndlichkeit in ihrer materiellen\nAusprägung.",
+        "Der Tod ist kein Zustand, den wir\nerleben. Er beendet vielmehr die\nBedingungen unserer Erfahrung.",
+        "Trotzdem strukturieren wir unser\nLeben durch seine Möglichkeit. Eine\nbemerkenswerte ontologische\nZumutung.",
+        "Ach ja, ich hab da so einen\nEnterhaken. Den kannst Du nach\nmeinem Tod haben. Ich schreibe Dich\neinfach ins Testament rein.",
+        "Bis dahin biete ich die Grausige\nGrabgrusel-Tour an. Zehn Rubine fürs\nGraben. Auch ein Existentialist muß\nseine Miete zahlen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5019",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Willst Du, daß ich hier grabe?\n10 Rubine für ein Loch.\nJa!\nLaß mal bleiben!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5001",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Die Endlichkeit gibt Entscheidungen\nGewicht. Meine betrifft einen\nEnterhaken: Nach meinem Tod gehört\ner Dir.",
+        "Ich notiere Dich im Testament. Eine\nkleine Fußnote gegen die große Leere."
+      ],
+      "locations": []
+    },
+    {
+      "id": "2022",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich liebe Friedhöfe. Die Ruhe, die\nGräber, diese konsequent zu Ende\ngedachte Nachbarschaft.",
+        "Manchmal wünsche ich mir, ich wäre\nselbst tot. Dann dürfte ich endlich\nhier wohnen.",
+        "Boris sagt, ich soll erst mal meine\nHausaufgaben machen. Er nimmt meine\nZukunftspläne überhaupt nicht ernst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5032",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich bin so stinkig, mein Blut kocht,\nich könnte explodieren! Mir geht der\nHut hoch!",
+        "Ein Kind, das eins zu eins aussieht\nwie Du, wird eines Tages diese ganze\nMühle mit seiner bekloppten\nRegenmusik zerstören!",
+        "Ich hoffe, das wirst nicht Du sein!\nIch übe diese Beschwerde vorsorglich\nseit Wochen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5002",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Des Totengräbers Tagebuch.\nWillst Du es lesen?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5004",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Das ist auch besser so!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5000",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "AARGH!\nDu hast mich bezwungen!\nWie? Ach, Du bist es.",
+        "Hast Du mal die Hymne der Sonne\ngespielt?",
+        "Ich habe Dir ja schon \nerzählt, daß Du damit die Nacht \nzum Tag und den Tag zur Nacht\nmachst - wann immer Du willst.",
+        "Wenn alles um Dich herum dunkel\nist, kannst Du damit wieder Licht\nin die Welt bringen. Probier's!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "500F",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TEXTID(0x5010)"
+      ],
+      "pages": [
+        "AARGH!\nDU HAST MICH BEZWUNGEN!\nUnglaublich!",
+        "Wie?\nDu bist doch nicht einer von\nGanondorfs Schergen, oder?",
+        "Als Gespenst muß ich mich so\nkomisch benehmen. Tut mir leid.",
+        "Alsdann, ich glaube, ich stelle\nmich mal vor!\nÄhem..."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5010",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TEXTID(0x5011)"
+      ],
+      "pages": [
+        "Ich bin einer der geisterhaften\nKomponisten-Brüder von Kakariko.",
+        "Wie alle Hylianer, so dienten auch\nwir dem König dieses Landes.",
+        "Wir, die Gebrüder Brahmstein,\nwaren beauftragt, die mystische\nMacht der königlichen Familie zu\nuntersuchen.",
+        "Wir haben bis jetzt die Macht des\nTriforce nicht erklären können.",
+        "Aber unsere \"Studien zur Macht\nüber die Zeit mittels Tönen\neiner Okarina\" haben wir\nfast abgeschlossen!",
+        "Um ehrlich zu sein...",
+        "Wir haben unsere Studien dazu\nbereits beendet!",
+        "Wir wären berühmt geworden, wenn\ndieser widerliche Ganondorf nicht\nversucht hätte, die Aufzeichnungen \nzu stehlen.",
+        "Wir konnten es nicht zulassen, daß\ner die Früchte unserer Arbeit an\nsich reißt!",
+        "Daher haben wir unser Leben\nriskiert, um diese Geheimnisse zu\nbewahren."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5011",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Möchtest Du unsere Geschichte\nnoch einmal hören?\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5012",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TEXTID(0x5014)"
+      ],
+      "pages": [
+        "AARGH!\nICH BIN WIEDER BESIEGT!\nWas? Du schon wieder?",
+        "Wenn ich Dich so ansehe, muß ich\nan Prinzessin Zelda denken.",
+        "Da Du offenbar mit der\nKönigsfamilie in Kontakt stehst,\nkann ich Dir ein wenig mehr über\nuns erzählen.",
+        "Damals nannten uns die Leute\nüberall \"Die tadellosen Tonsetzer\",\nda wir viele Meisterwerke\nkomponiert haben.",
+        "Aber wir waren nicht nur\nKomponisten!",
+        "Wir hatten auch einen Auftrag!\nWir sollten die geheimnisvollen\nKräfte der hylianischen \nKönigsfamilie untersuchen.",
+        "Unsere Namen wären in die\nGeschichte Hyrules eingegangen,\nwenn wir unsere Studien beendet\nhätten.",
+        "Wir haben diese Studien natürlich\nstets streng geheim gehalten!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5013",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TEXTID(0x5014)"
+      ],
+      "pages": [
+        "AARGH!\nICH BIN SCHON WIEDER TOT!\nWas? Du schon wieder?",
+        "Wenn ich Dich so anschaue, muß\nich an Prinzessin Zelda denken...",
+        "Wenn Du mit der Königsfamilie\nnäher bekannt bist, kann ich Dir\nja etwas mehr über uns erzählen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5014",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [
+        "TEXTID(0x5011)"
+      ],
+      "pages": [
+        "Mein Bruder und ich studierten\nverschiedene Melodien: Eine, den\nMond zu beschwören, und eine\nandere, die Sonne herbeizurufen!",
+        "Da Du von einem Angehörigen des\nKönigshauses geschickt wurdest,\nwill ich Dir von den Ergebnissen\nunserer Untersuchungen berichten.",
+        "Sie stehen geschrieben auf dem\nköniglichen Grabstein.",
+        "Zeige auf musikalische Weise, daß\nDu in königlichem Auftrag\nunterwegs bist, wenn Du auf dem\nTriforce vor dem Grab stehst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "5009",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Das Sonnenlicht, es schwindet\nbei Nacht...\nErst am Tag ist wieder sein Feuer\nentfacht.",
+        "Von Sonne zu Mond und zu Sonne\nerneut...",
+        "Ewige Ruhe die lebenden Toten\nerfreut.",
+        "Ziemlich schöne Lyrik, nicht wahr?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "500A",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Ruhelose Seelen wandern ohne Wonne.\nGib Frieden mit der Hymne der Sonne."
+      ],
+      "locations": []
+    },
+    {
+      "id": "500B",
+      "section": "Friedhof und Windmühle – frühe Gespräche",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Da ist eine Inschrift auf diesem\nGrabstein...",
+        "Eine geheime Weise der\nGebrüder Brahmstein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0026",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_SKULL_TOKEN)",
+        "ITEM_ICON(ITEM_SKULL_TOKEN)",
+        "TEXTID(0x00FE)"
+      ],
+      "pages": [
+        "Das hat jetzt zwar nichts mit\nFriedrich Merz zu tun, aber hier liegt\nso ein komischer Spinnenfluch auf\nuns.",
+        "Keine Ahnung, wie das passiert ist.\nJetzt hängen wir halt hier und sehen\naus wie Spinnen.",
+        "Du müßtest goldene Skulltulas\numbringen und ihre Symbole\neinsammeln. Hundert Stück insgesamt.",
+        "Gut, hundert ist schon viel.\nAber bitte sammle\nwenigstens ein paar dieser\nSymbole.",
+        "Auf dem Status-Bildschirm\nsteht, wie viele Du hast. Ein\nSpinnensymbol auf der Karte\nheißt: Gebiet erledigt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "00FE",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x0027)"
+      ],
+      "pages": [
+        "Such draußen und in den Dungeons.\nNachts sind auch welche unterwegs.",
+        "Das ist jetzt kein Befehl. Versuch\neinfach, was Du so kannst. Wäre\nganz cool."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0027",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Versuch es wenigstens. Für Hilfe gibt\nes Belohnungen. Für Rumstehen leider\nnicht."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0025",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "TEXTID(0x0024)"
+      ],
+      "pages": [
+        "Ja, wir sehen immer noch aus wie\nSpinnen. Aber bei den Kindern tut\nsich schon was."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0024",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Du hast schon [Skulltula-Symbole] Symbole\ngesammelt. Der Fluch läßt langsam\nnach.",
+        "Haben Dir die befreiten Kinder ihre\nBelohnungen gegeben? Die haben\neiniges rumliegen.",
+        "Bei 10, 20, 30, 40 und 50 Symbolen\nwird jeweils eines meiner Kinder\nwieder normal.",
+        "Such aufmerksam. Die Viecher kleben\nnicht alle bequem neben der Haustür.",
+        "Für mich braucht es hundert. Ich\nweiß. Das ist ein bißchen viel.\nVersuch halt, was Du schaffst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0029",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Danke, meine Kinder sind wieder\nMenschen. Für die haben fünfzig\nSymbole gereicht.",
+        "Du hast schon [Skulltula-Symbole] Symbole. Ich\nhänge leider immer noch hier.",
+        "Für mich müssen es hundert sein. Ja\ngut, ich glaube auch, das ist ein\nbißchen viel. Aber versuch es\nwenigstens."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0022",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich bin verflucht. Jetzt bin ich halt\n'ne Spinne. Bitte sammle goldene\nSkulltula-Symbole, damit das wieder\naufhört."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0021",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Wieder ein Mensch! Danke! Hier ist\nDeine Belohnung. Ich brauche jetzt\nerst mal 'ne Hose."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0020",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Hilfst Du meinen Geschwistern auch\nnoch? Die hängen immer noch als\nSpinnen hier rum.",
+        "Die haben auch Belohnungen für Dich.\nDas ist hier keine reine Gefälligkeit,\nkeine Sorge."
+      ],
+      "locations": []
+    },
+    {
+      "id": "001F",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Der Fluch ist von uns Kindern\ngenommen. Unser Vater braucht leider\nnoch mehr Symbole. Hundert\ninsgesamt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0023",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Wir sind alle wieder normal. Ich hoffe\nsehr, daß es für diesen komischen\nSpinnenfluch keine zweite Staffel gibt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0028",
+      "section": "Skulltula-Haus – Fluch und Belohnungen",
+      "source_files": [
+        "npc_stimmen_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "[Skulltula-Symbole] Symbole! Jetzt bin ich auch\nwieder normal. Endlich Schluß mit\ndem Spinnendasein.",
+        "Hier ist Deine Belohnung. Danke, daß\nDu es tatsächlich durchgezogen hast."
+      ],
+      "locations": []
+    },
+    {
+      "id": "300E",
+      "section": "Goronia – weitere Meinungen und rollender Gorone",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich sage Dir: Atomenergie ist\nhervorragend. Hohe Energiedichte,\nwenig Flächenbedarf.",
+        "Kernspaltung liefert verläßlich Strom,\nauch nachts und bei Windstille.",
+        "Über den Lebenszyklus verursacht sie\nwenig Treibhausgas. Das ist beim\nKlimaschutz ein ernstes Argument.",
+        "Eine wetterunabhängige Erzeugung\nkann ein Stromsystem stabilisieren.\nSpeicher und Netze kosten schließlich\nauch.",
+        "Wer vorhandene, sichere Anlagen\nlänger nutzt, kann fossile Erzeugung\nersetzen. Kohle verpestet die Luft.",
+        "Ja, Neubauten können teuer werden\nund lange dauern. Man braucht\nAufsicht, Fachleute und eine Lösung\nfür den Abfall.",
+        "Auch Kühlung, Haftung und\nBauverzögerungen gehören in die\nRechnung. Sonst rechnet man sich\ndas Ergebnis schön.",
+        "Trotzdem halte ich Kernkraft für eine\ngute Ergänzung. Eine Technologie muß\nan ihren Folgen gemessen werden.",
+        "Deku-Nüsse, Kerne und Stäbe gibt es\nhier kaum. Falls Du einen Stab\nbrauchst: Ich habe einen versteckt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3022",
+      "section": "Goronia – weitere Meinungen und rollender Gorone",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Einen brennenden Deku-Stab löschst\nDu mit [A], bevor er verbrennt. Hier\nliegt auch einer versteckt.",
+        "Und ja: Mein Kernkraftvortrag war\nlang. Für eine schlichte\nEnergiedebatte mußt Du einen anderen\nStein fragen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "3011",
+      "section": "Goronia – weitere Meinungen und rollender Gorone",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "He, warum hältst Du mich an?",
+        "Ich war gerade so schön in Fahrt!",
+        "Ich rolle, bis der ganze politische\nMist aus meinem Kopf ist.",
+        "Unter Merz ist das inzwischen\nAusdauersport. Rock'n'Roll!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3013",
+      "section": "Goronia – weitere Meinungen und rollender Gorone",
+      "source_files": [
+        "goronen_kakariko_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Danke für Deine Hilfe! Ich rolle vor\nFreude. Das ist eine Körperfunktion,\nkeine Zustimmung zum Kohleabbau."
+      ],
+      "locations": []
+    },
+    {
+      "id": "71B3",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "jabba_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Jabba! (JABBA!)",
+        "Jee am on Ma way Tah meet\nfriedrich merz at Ta castle of hyrule.",
+        "(ICH BIN AUF DEM WEG FRIEDRICH\nMERZ IM SCHLOSS HYRULE ZU\nTREFFEN!)",
+        "He offered Je Du Grancha Bargon!\n(ER BAT MIR EINEN GUTEN DEAL\nAN!)",
+        "ho ho ho! (HO HO HO!)"
+      ],
+      "locations": []
+    },
+    {
+      "id": "71B4",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "bttf_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Marty: Hey Doc! Das ist doch der\nJunge aus der Wüste!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "71B5",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "bttf_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Doc: Marty! Grundgütiger, du mußt\nvierdimensional denken!",
+        "Doc: Er ist uns doch in dieser Zeit\nnoch gar nicht begegnet!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "71B6",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "bttf_de.json"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "pages": [
+        "Marty: Jesus Christ, Doc, du hast ja\nrecht! Ich steig mit diesen Zeitreisen\nnicht durch. Ich brauch echt ne\nPause!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "71B7",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "bttf_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Doc: Du sollst so viele Pausen\nkriegen, wie du möchtest, sobald wir\nerst einmal Friedrich Merz\naufgehalten haben.",
+        "Doc: Denk an unsere Aufgabe, Marty!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "608F",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "yellow_guy_wario_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Oh. Hallo! Ich bin machen einen\nAusflug. Nach ... hier. Hyrule.",
+        "Ich mag das hier. Ein großes Haus für\nden König. Und kleine Häuser für die\nanderen. Das ist gut sortiert.",
+        "Ich hab die Wache gefragt, ob ich\nauch König sein kann. Die hat gesagt:\nGeh weg. Also übe ich das jetzt.",
+        "Und die kleinen Steine sind auch nett.\nDie sind schon die ganze Zeit hier\nund machen keinen Ärger.",
+        "Ich möchte, daß das alles so bleibt.\nSo wie jetzt. Bloß ... vielleicht mit\nmir in einem der Häuser."
+      ],
+      "locations": []
+    },
+    {
+      "id": "601C",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "yellow_guy_wario_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "WAH! IT'S A ME, WARIO!",
+        "Waluigi? Der ist zum Geistertempel\naufgebrochen. Will sich unbedingt\nbeweisen, dieser lange Lulatsch.",
+        "Alle in Hyrule lachen über ihn. Keiner\nnimmt ihn ernst. Jetzt will er etwas\nGroßes schaffen, damit das endlich\naufhört.",
+        "Mir gefällt das nicht. Er rennt da\nganz allein rein, bloß weil diese\nDeppen ihn für einen Versager halten.",
+        "Ja, ich mach mir Sorgen! Er ist mein\nKumpel. Aber erzähl ihm bloß nicht,\ndaß ich das gesagt habe!",
+        "Wenn Du zum Geistertempel kommst,\nschau nach ihm. Und jetzt: HAVE A\nROTTEN DAY! WAH HA HA!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "71DA",
+      "section": "Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty",
+      "source_files": [
+        "doof_guests_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Raus aus meinem Wald! Also nicht\nDu. Du kannst bleiben. Ich meine\ndiesen Friedrich Merz.",
+        "Ich hatte endlich ein ruhiges, feuchtes\nFleckchen gefunden, an dem mich\nniemand wegen meiner Ohren",
+        "anstarrt, und jetzt will der Kerl mir\nden Wald wegnehmen.",
+        "Er nennt es Erschließung. Ich nenne\nes: Da wohnt schon jemand, Du\nverdammter Anzugträger!",
+        "Offenbar braucht Hyrule noch einen\nGolfplatz für Leute, die vor einem\nOger Angst haben, aber einen ganzen\nWald ohne Gewissensbisse umlegen.",
+        "Wenn er hier mit einer Axt\nauftaucht, braucht er hinterher\njedenfalls einen sehr guten Arzt."
+      ],
+      "locations": []
+    },
+    {
+      "id": "4018",
+      "section": "Hylia-See als frei erreichbarer Abstecher – Forscher und normaler Doofenshmirtz",
+      "source_files": [
+        "superhelden_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Ich hab gehört, dieser Merz möchte\nuns das Budget kürzen? Der werte\nHerr soll das gerne versuchen. Das\nwill ich sehen!",
+        "Nur über meine Leiche! Boah, ich\nhoffe echt, daß ich noch sieben Jahre\ndurchhalte. Ich bin halt echt schon\nmega alt, ne?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "407B",
+      "section": "Hylia-See als frei erreichbarer Abstecher – Forscher und normaler Doofenshmirtz",
+      "source_files": [
+        "doof_guests_de.json"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "pages": [
+        "Ah, ein Besucher! Dr. Heinz\nDoofenshmirtz, erfreut. Du fragst\nDich sicher, warum ein",
+        "Wissenschaftler einen Angelteich\nbetreibt.",
+        "Es begann in meiner Kindheit in\nGimmelschtump. Die anderen Kinder\ndurften angeln gehen, ich natürlich\nnicht.",
+        "Wobei es bei uns ohnehin nur\nJauchegruben gab. Also selbst wenn\nich gedurft hätte, wäre das eine",
+        "ziemlich traurige Angelegenheit\ngewesen.",
+        "Deshalb habe ich den Angelinator\nerfunden! Er soll sämtliche Fische\nHyrules in meinen Teich bringen!",
+        "Oder zumindest eine große\nAnsammlung. Ich habe beim Antrag\nsämtliche Fische geschrieben, aber",
+        "wir wollen jetzt nicht kleinlich\nwerden.",
+        "Und falls ein Schnabeltier auftaucht:\nSag ihm, ich wäre gerade nicht da.",
+        "Willst Du für 20 Rubine angeln?\n\nJa!\nNein!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "408F",
+      "section": "Hylia-See als frei erreichbarer Abstecher – Forscher und normaler Doofenshmirtz",
+      "source_files": [
+        "doof_guests_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Warum ich unbedingt alle Fische in\ndiesem Teich haben möchte?",
+        "Weil man auf eine traurige Kindheit\noffenbar nur mit einem völlig\nüberdimensionierten technischen\nProjekt reagieren kann."
+      ],
+      "locations": []
+    },
+    {
+      "id": "4092",
+      "section": "Hylia-See als frei erreichbarer Abstecher – Forscher und normaler Doofenshmirtz",
+      "source_files": [
+        "doof_guests_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Komm ruhig wieder. In sieben Jahren\nhabe ich hier bestimmt alles im Griff.\nWas soll denn groß passieren?"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00A4",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [
+        "kokiri_de.json"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_SWORD_KOKIRI)",
+        "ITEM_ICON(ITEM_SWORD_KOKIRI)"
+      ],
+      "pages": [
+        "Das Kokiri-Schwert! Rüste es\nim Ausrüstungs-Menü mit [A]\naus.",
+        "Eine Waffe der Kokiri. Übe\ndamit, bevor Du für den Wald\naufbrichst."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0030",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [],
+      "controls": [
+        "ITEM_ICON(ITEM_SLINGSHOT)",
+        "ITEM_ICON(ITEM_SLINGSHOT)",
+        "ITEM_ICON(ITEM_SLINGSHOT)"
+      ],
+      "pages": [
+        "Die Feen-Schleuder!\nIm Gegenstands-Menü kannst\nDu sie auf [C-Left], [C-Down] oder [C-Right]\nplazieren.",
+        "Drücke [C], um die Schleuder\nzu benutzen. Halte [C] und\nziele mit [Control-Pad]. Laß [C] los,\num Deku-Kerne abzuschießen!",
+        "Wenn Du sofort schießen\nwillst, halte [C] etwas länger\ngedrückt und laß dann los."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0032",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [],
+      "controls": [
+        "ITEM_ICON(ITEM_BOMB)",
+        "ITEM_ICON(ITEM_BOMB)"
+      ],
+      "pages": [
+        "Die Bomben!\nIm Gegenstands-Menü kannst\nDu sie auf [C-Left], [C-Down] oder [C-Right]\nplazieren.",
+        "Mit [C] kannst Du sie halten\nund ablegen. Drückst Du [C]\nwährend Du rennst, kannst\nDu die Bomben auch werfen!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0058",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [],
+      "controls": [
+        "ITEM_ICON(ITEM_BOMB_BAG_20)",
+        "ITEM_ICON(ITEM_BOMB)"
+      ],
+      "pages": [
+        "Die Bombentasche!\nDiese Bombentasche ist aus\nDodongo-Leder hergestellt.",
+        "Darin findest Du 20 Bomben!\nDu kannst die Bomben auf [C]\nplazieren und Hindernisse\nwegsprengen! Das ist bombig!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00D1",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Du hast\nSalias Lied\nerlernt!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "00D3",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [],
+      "controls": [],
+      "pages": [
+        "Du hast die\nHymne der Sonne\nerlernt!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0066",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)"
+      ],
+      "pages": [
+        "Die Labyrinth-Karte!\nDrücke START, um sie im\nKarten-Bildschirm anzusehen!",
+        "Blaue Räume hast Du bereits\naufgesucht.\nDer blinkende Raum zeigt\nDeine derzeitige Position.",
+        "Bewege [Control-Pad], um ein\nStockwerk auszuwählen."
+      ],
+      "locations": []
+    },
+    {
+      "id": "0067",
+      "section": "Frühe wichtige Fundtexte",
+      "source_files": [],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_COMPASS)"
+      ],
+      "pages": [
+        "Der Kompaß!\nJetzt siehst Du auf Deiner\nKarte alle Schatztruhen\ndieses Labyrinths!"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0601",
+      "section": "Navi – die beiden frühen Endbosse (Zielerfassung, keine Storyrufe)",
+      "source_files": [
+        "navi_gegner_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "Gohma. Ein einziges riesiges Auge,\nund trotzdem läßt Du Dir genau da\nreinschießen. Du dumme Sau."
+      ],
+      "locations": []
+    },
+    {
+      "id": "060C",
+      "section": "Navi – die beiden frühen Endbosse (Zielerfassung, keine Storyrufe)",
+      "source_files": [
+        "navi_gegner_de.json"
+      ],
+      "controls": [],
+      "pages": [
+        "King Dodongo. Jetzt reißt er wieder\ndas Maul auf. Friß die Bombe, Du\nverfressener Vollidiot!"
+      ],
+      "locations": []
+    }
+  ]
+}

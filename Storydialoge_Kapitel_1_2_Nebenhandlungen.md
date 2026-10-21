@@ -1,0 +1,3523 @@
+# Storydialoge Kapitel 1–2 – Nebenhandlungen und Bewohner
+
+Stand: 21. Oktober 2026, Charakterbewegung V4 (aktuell gebauter deutscher PAL-1.0-Stand).
+
+Arbeitsfassung zum Umschreiben. Die Wortlaute sind direkt aus der eingebauten Textdatei ausgelesen, einschließlich noch nicht neu geschriebener Passagen. Keine Textänderung am Spiel vorgenommen.
+
+Geltungsbereich: Kind-Link vom Intro über Deku-Baum, erste Zelda-Begegnung, Kakariko, Salias Lied, Goronia und Dodongos Höhle bis zum Übergang zu den Zoras. Die Farm und andere frei erreichbare Nebenhandlungen können in unterschiedlicher Reihenfolge besucht werden.
+
+Jede vierstellige Nummer ist eine Text-ID. Seiten bleiben einzeln erkennbar. [Spielername] wird im Spiel durch Deinen gewählten Namen ersetzt. Auswahlantworten stehen unter der jeweiligen Seite. Varianten und Wiederholungen sind keine zusätzlichen Sätze, die immer im ersten Gespräch erscheinen. Zeitgesteuerte Szenen behalten ihre bisherigen Abläufe.
+
+„Projekttext“ bedeutet: Die ID besitzt einen Ersatz in unseren Story-Dateien. „Ohne Kapitel-Ersatz“ bedeutet: Dort ist für diese ID kein Ersatz hinterlegt; gezeigt wird trotzdem der tatsächliche aktuelle Wortlaut. Die Liste ist nach Spielabschnitten geordnet, nicht als exakt ein einziger Cutscene-Ablauf zu lesen.
+
+Zum Überarbeiten reicht z. B.: „301A neu: …“ oder „2079, Seite 2: …“.
+
+## Kokiri – weitere frühe Gespräche und Reaktionen
+
+### 1004
+
+Projekttext.
+
+**Seite 1**
+
+> Mit [A] hebst Du Dinge auf. Zum
+> Beispiel diese Steine.
+
+**Seite 2**
+
+> Mido hat das Wegräumen angeordnet.
+> Die Anordnung war sein ganzer
+> Beitrag.
+
+### 1005
+
+Projekttext.
+
+**Seite 1**
+
+> Eine Fee! Na also, [Spielername].
+
+**Seite 2**
+
+> Was gibt es?
+
+**Seite 3**
+
+> Der Deku-Baum ruft Dich persönlich?
+
+**Seite 4**
+
+> Normalerweise läßt er uns einfach
+> wachsen.
+
+**Seite 5**
+
+> Er beschützt uns und den Wald.
+> Wenn er ruft, würde ich hingehen.
+
+### 1006
+
+Projekttext.
+
+**Seite 1**
+
+> Ob der Deku-Baum auch Mido
+> erschaffen hat? Jeder macht mal
+> Fehler.
+
+### 1008
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 1009.
+
+**Seite 1**
+
+> Halt! Als Kokiri darfst Du den Wald
+> nicht verlassen.
+
+### 1009
+
+Projekttext.
+Wiederholungsansprache nach 1008; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Draußen sollen Kokiri sterben. Das
+> sagt man hier. Ich habe wenig Lust,
+> die Ausnahme zu suchen.
+
+### 100A
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 100B.
+
+**Seite 1**
+
+> Oh Mann, oh Junge! Ich liebe es, ein
+> Kokiri zu sein.
+
+**Seite 2**
+
+> Dieser Wald ist so entspannt. Mein
+> Leben... entspannter geht es ja gar
+> nicht.
+
+**Seite 3**
+
+> Ich entspanne hier den ganzen Tag
+> und hab 'ne richtig coole Hütte.
+
+**Seite 4**
+
+> Der Deku-Baum ist quicklebendig. Der
+> macht locker noch hundert Jahre
+> durch.
+
+**Seite 5**
+
+> Nichts kann diesen Tag ruinieren.
+
+### 100B
+
+Projekttext.
+Wiederholungsansprache nach 100A; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Hilfst Du mir? Salia ist doch auch
+> Deine Freundin.
+
+**Seite 2**
+
+> Was Du im Gras findest, kannst Du
+> behalten. Mido braucht davon nichts
+> zu erfahren.
+
+### 100C
+
+Projekttext.
+Native direkte Fortsetzung zu 100D.
+
+**Seite 1**
+
+> Gut! Deine Fee hilft Dir bei der
+> Zielerfassung.
+
+**Seite 2**
+
+> Nun kannst Du auch auf Entfernung
+> mit Leuten sprechen.
+
+**Seite 3**
+
+> Das ist praktisch. Besonders, wenn
+> jemand wie Mido näherkommt.
+
+### 100D
+
+Projekttext.
+
+**Seite 1**
+
+> Fliegt Deine Fee zu etwas, schaust
+> Du mit [Z] genau dorthin.
+
+**Seite 2**
+
+> Halte [Z] und drücke [A], um weiter
+> entfernte Leute anzusprechen.
+
+**Seite 3**
+
+> Ohne Ziel richtest Du mit [Z] die
+> Sicht geradeaus. Probier es aus.
+
+### 100E
+
+Projekttext.
+Native direkte Fortsetzung zu 1019.
+
+**Seite 1**
+
+> Du hast jetzt eine Fee? Dann können
+> wir endlich trainieren.
+
+**Seite 2**
+
+> Die Fee kann beraten. Ausweichen
+> mußt Du immer noch selbst.
+
+### 1019
+
+Projekttext.
+
+**Seite 1**
+
+> Im Kokiri-Trainingslager lernt man
+> mehr als in Midos Ansprachen.
+
+### 1021
+
+Projekttext.
+
+**Seite 1**
+
+> Du bist wieder da? Und ich hatte mir
+> gerade einen Abschiedsspruch
+> überlegt.
+
+### 1023
+
+Projekttext.
+
+**Seite 1**
+
+> Salia wartet in den Verlorenen
+> Wäldern auf Dich. Am üblichen Ort.
+
+### 1024
+
+Projekttext.
+
+**Seite 1**
+
+> Danke, [Spielername]. Wenigstens
+> einer hilft hier ohne große Ansprache.
+
+### 1041
+
+Projekttext.
+
+**Seite 1**
+
+> Das ist nicht Salias Lied. Aber mutig
+> gespielt.
+
+### 1042
+
+Projekttext.
+
+**Seite 1**
+
+> Mido ist völlig außer sich. Diesmal
+> weiß ich sogar nicht, weshalb.
+
+### 1043
+
+Projekttext.
+
+**Seite 1**
+
+> Du willst wirklich fort?
+
+**Seite 2**
+
+> Zum Schloß? Da muß Dein Ausflug
+> größer sein als meiner zum Laden.
+
+### 1044
+
+Projekttext.
+
+**Seite 1**
+
+> Es heißt, Kokiri sterben, wenn sie den
+> Wald verlassen.
+
+**Seite 2**
+
+> Ich hoffe, Du weißt, was Du tust.
+> Eine Fee ist schließlich kein Reiseplan.
+
+### 1047
+
+Projekttext.
+Native direkte Fortsetzung zu 1048.
+
+**Seite 1**
+
+> Da bist Du ja, [Spielername].
+
+### 1048
+
+Projekttext.
+
+**Seite 1**
+
+> Egal, wohin Dein Weg führt: Du
+> bleibst mein Freund. Mido muß damit
+> leben.
+
+### 104B
+
+Projekttext.
+
+**Seite 1**
+
+> [Spielername], gehst Du wirklich
+> fort? Paß draußen auf Dich auf.
+
+### 104C
+
+Projekttext.
+
+**Seite 1**
+
+> Wenn Dein Schild kaputtgeht, komm
+> wieder. Im Laden gibt es Ersatz.
+> Auch ein Held braucht einen.
+
+### 10D7
+
+Projekttext.
+Native direkte Fortsetzung zu 10D8.
+
+**Seite 1**
+
+> Du hast einen wichtigen Auftrag?
+> Dann nimm Dir einen Augenblick.
+> Auch Helden dürfen sich umsehen.
+
+### 10D8
+
+Projekttext.
+
+**Seite 1**
+
+> Mit [C-Up] und [Control-Pad] kannst Du Dich
+> umschauen. Die Aussicht verlangt
+> keinen Eintritt.
+
+### 10DA
+
+Projekttext.
+
+**Seite 1**
+
+> Geh gut ausgerüstet in die
+> Verlorenen Wälder. Die Bäume dort
+> sind schlechte Wegweiser.
+
+## Hyrule-Stadt – Bewohner und erste Gerüchte
+
+### 7014
+
+Projekttext.
+
+**Seite 1**
+
+> Oh Junge, ich muß unbedingt so eine
+> Maske mieten! Ich kann es kaum
+> erwarten! JAAAAAA!!!!
+
+### 70A4
+
+Projekttext.
+
+**Seite 1**
+
+> Malon ist zum Schloß gegangen. Ich
+> gehe zum Maskenladen. Endlich hat
+> mein Leben einen Sinn!
+
+### 700D
+
+Projekttext.
+
+**Seite 1**
+
+> Ich check nicht, was der Maskentyp
+> soll. Warum sollte man eine Maske
+> mieten? Für was denn bitte
+> überhaupt??
+
+### 7015
+
+Projekttext.
+
+**Seite 1**
+
+> Ist Dir aufgefallen, daß diese
+> komischen Augen-Uhren-Ansagesteine
+> sich anfühlen, als wären sie aus
+> Gummi?
+
+**Seite 2**
+
+> Ich habe draufgehauen. Der Stein hat
+> gezittert. Dann hat er mir die Uhrzeit
+> gesagt. Ich brauche Urlaub.
+
+### 7018
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 7019.
+
+**Seite 1**
+
+> Ich habe einen sauguten Kumpel, der
+> liebt es zu trommeln. Wir nennen ihn
+> alle liebevoll Bongo Bongo.
+
+**Seite 2**
+
+> Er ist nach Kakariko gezogen, um
+> dort mit seiner Musik durchzustarten.
+
+**Seite 3**
+
+> Seitdem haben wir nichts mehr von
+> ihm gehört. Nicht mal ein einziges
+> Solo.
+
+**Seite 4**
+
+> Vielleicht übt er im Keller. Gute
+> Schlagzeuger brauchen schließlich
+> einen eigenen Raum.
+
+### 7019
+
+Projekttext.
+Wiederholungsansprache nach 7018; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Bongo Bongo in Kakariko. Falls Du ihn
+> siehst, sag ihm, daß seine alte Band
+> auf ihn wartet.
+
+**Seite 2**
+
+> Und falls er wieder behauptet, er
+> könne ohne Kopf besser den Takt
+> halten: Glaub ihm kein Wort.
+
+### 701F
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 7020.
+
+**Seite 1**
+
+> Ich kenne Mido aus dem Wald.
+> Richtiger Wichser, der Typ. Bin
+> saufroh, daß Kokiri den Wald nicht
+> verlassen können!
+
+**Seite 2**
+
+> Ich schwör! Einmal hat er mir
+> erklärt, wie man richtig steht. Ich
+> stand einfach nur da.
+
+### 7020
+
+Projekttext.
+Wiederholungsansprache nach 701F; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Mido würde sogar vor einer offenen
+> Tür stehen und verlangen, daß Du
+> erst die richtige Hose findest.
+
+### 701D
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 701E.
+
+**Seite 1**
+
+> In Zoras Reich soll ein seltsamer
+> Tentakelmann aufgetaucht sein. Sein
+> Name sei Thaddäus.
+
+**Seite 2**
+
+> Niemand weiß, woher er kommt. Man
+> hört nur manchmal eine furchtbare
+> Klarinette unter dem Wasserfall.
+
+### 701E
+
+Projekttext.
+Wiederholungsansprache nach 701D; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Thaddäus, der Tentakelmann... Er soll
+> jeden anstarren, der fröhlich ist.
+
+### 7021
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 7022.
+
+**Seite 1**
+
+> Ich schmeiß Autobatterien in den
+> Hylia-See, damit die Zitteraale genug
+> Strom nachladen können.
+
+**Seite 2**
+
+> Die schwimmen da den ganzen Tag
+> elektrisch rum. Irgendwo muß der
+> Strom ja herkommen.
+
+### 7022
+
+Projekttext.
+Wiederholungsansprache nach 7021; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Ich schmeiß Autobatterien in den
+> Hylia-See, damit die Zitteraale genug
+> Strom nachladen können.
+
+### 7016
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 7017.
+
+**Seite 1**
+
+> Man sieht mich nur von weiter weg,
+> ansonsten würde auffallen, daß mein
+> Gesicht nur grottenschlecht aufgemalt
+> wurde.
+
+### 7017
+
+Projekttext.
+Wiederholungsansprache nach 7016; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Mehr Nähe verträgt meine Textur
+> nicht.
+
+### 701A
+
+Projekttext.
+
+**Seite 1**
+
+> Früher war der Burggraben im
+> Sommer kühl. Jetzt kann man darin
+> fast Suppe kochen.
+
+**Seite 2**
+
+> Klimawandel in Hyrule, sage ich Dir!
+> Sogar mein Bart sucht Schatten.
+
+### 701B
+
+Projekttext.
+Native direkte Fortsetzung zu 701C.
+
+**Seite 1**
+
+> Dieser Bart ist mein ganzer Stolz!
+
+**Seite 2**
+
+> Bei der Hitze würde ich ihn am
+> liebsten abnehmen. Geht leider nicht.
+
+**Seite 3**
+
+> Merz sagt, wir sollen mehr arbeiten.
+> Mein Schweiß leistet schon
+> Überstunden.
+
+**Seite 4**
+
+> Du suchst Mario von der Lon
+> Lon-Farm?
+
+**Seite 5**
+
+> Ja, den habe ich gesehen...
+
+### 7023
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 7024.
+
+**Seite 1**
+
+> Mr. Bean war mein Rettungssanitäter,
+> als ich 'ne Überdosis hatte.
+
+**Seite 2**
+
+> Jetzt beschützt er Zelda. Ich würde
+> sagen, die hat den richtigen Mann
+> erwischt.
+
+### 7024
+
+Projekttext.
+Wiederholungsansprache nach 7023; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Mr. Bean war mein Rettungssanitäter,
+> als ich 'ne Überdosis hatte.
+
+### 7027
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 7028.
+
+**Seite 1**
+
+> Friedrich Merz verspricht Wohlstand.
+> Vor allem denen, die schon welchen
+> haben.
+
+**Seite 2**
+
+> Er war Aufsichtsratschef bei
+> BlackRock in Deutschland. Ich war
+> beim Bäcker. Auch teuer.
+
+**Seite 3**
+
+> Wenn Reichtum nach unten tropfen
+> soll, muß oben wohl jemand den Hahn
+> zugedreht haben.
+
+**Seite 4**
+
+> Immerhin beschützt Mr. Bean unsere
+> Prinzessin. Der löst Probleme, ohne
+> erst den Milchpreis zu erklären.
+
+**Seite 5**
+
+> Man sieht ihn oft beim Schloß...
+
+### 7028
+
+Projekttext.
+Wiederholungsansprache nach 7027; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Mr. Bean lebt im Schloß. Er gilt als
+> Zeldas fähigster Beschützer. Ein Mann
+> mit Weitblick!
+
+### 7089
+
+Projekttext.
+
+**Seite 1**
+
+> Scheiße, verfickte Kacke! Dieser
+> beschissene Köter hat mir schon
+> wieder vor die Tür geschissen!
+
+**Seite 2**
+
+> Ich wollte EINEN ruhigen Abend, Du
+> arschgeigender Dreckswichser von
+> einem Schicksal!
+
+**Seite 3**
+
+> Und dann kommt so ein
+> Zipfelmützenfurz an und wartet auf
+> einen weisen Spruch. Hier: Fick die
+> Scheißwand an!
+
+**Seite 4**
+
+> So. Jetzt ist gut. Ich wünsche Dir
+> einen zauberhaften Aufenthalt in
+> Hyrule.
+
+### 7002
+
+Projekttext.
+
+**Seite 1**
+
+> Der Mond sieht ganz normal aus wie
+> immer. In drei Tagen wird hier
+> wahrscheinlich alles beim alten sein.
+> Zum Glück!
+
+### 7003
+
+Projekttext.
+
+**Seite 1**
+
+> Ich beschütze Hyrule. Und zwar bei
+> Nacht! Tagsüber kann das ja jeder.
+
+### 7006
+
+Projekttext.
+
+**Seite 1**
+
+> Der Mond sieht ganz normal aus wie
+> immer. In drei Tagen wird hier
+> wahrscheinlich alles beim alten sein.
+> Zum Glück!
+
+**Seite 2**
+
+> Im Schloß herrscht gerade Unruhe.
+> Deshalb darf niemand hinein. Auch bei
+> völlig normalem Mond.
+
+## Hyrule-Stadt – weitere persönliche Sprüche
+
+### 7001
+
+Projekttext.
+
+**Seite 1**
+
+> Ich freu mich schon, in sieben Jahren
+> hier wieder aufzutauchen und im
+> schönen Hyrule abzuhängen. Das wird
+> ein Fest!
+
+### 703E
+
+Projekttext.
+
+**Seite 1**
+
+> Hast Du jemals 'nen Zora außerhalb
+> von Zoras Reich gesehen? Laß mal
+> Hyrule fluten für mehr Inklusion.
+
+### 703F
+
+Projekttext.
+
+**Seite 1**
+
+> Ich hab gehört, irgendein Vollidiot hat
+> den Deku-Baum komplett
+> geschrottet??
+
+### 7041
+
+Projekttext.
+
+**Seite 1**
+
+> Für 'ne Stadt isses hier ganz schön
+> klein. Ich hab geniest und war in der
+> Seitengasse.
+
+### 7042
+
+Projekttext.
+
+**Seite 1**
+
+> Friedrich Scherz bereitet mir
+> Friedrich Schmerz.
+
+### 7043
+
+Projekttext.
+
+**Seite 1**
+
+> Ich hab mir 'ne Fee in die Hose
+> gesteckt. Falls ich sterbe, wird das
+> für alle Beteiligten richtig
+> unangenehm.
+
+### 700C
+
+Projekttext.
+
+**Seite 1**
+
+> Ich kaufe Flascheninhalte. Keine
+> Flaschen. Das muß ich hier ständig
+> dazusagen.
+
+**Seite 2**
+
+> Zeig mir mit [C], was Du hast. Fisch,
+> Käfer oder blaues Feuer. Ich bin da
+> geschäftlich recht offen.
+
+### 7000
+
+Projekttext.
+
+**Seite 1**
+
+> Wenn ich dieses Huhn fange, bring ich
+> ihm Schwimmen bei. Dann hab ich
+> endlich 'ne Ente.
+
+### 700E
+
+Projekttext.
+
+**Seite 1**
+
+> Ich hab die Hymne der Zeit aus
+> Versehen rückwärts gespielt.
+
+**Seite 2**
+
+> Jetzt ist mein Vater jünger als ich.
+> Richtig unangenehm beim Elternabend.
+
+### 7055
+
+Projekttext.
+
+**Seite 1**
+
+> In meinem Haus steht eine Truhe, die
+> sich nur öffnet, wenn alle Gäste weg
+> sind.
+
+**Seite 2**
+
+> Deshalb mag ich Dich persönlich
+> überhaupt nicht.
+
+### 708A
+
+Projekttext.
+
+**Seite 1**
+
+> In der Nähe des Schlosses ist eine
+> versteckte Feenquelle. Da kannst Du
+> Dich heilen lassen.
+
+**Seite 2**
+
+> Ich war wegen meiner Bandscheibe
+> da. Die Fee hat nur gelacht. Seitdem
+> geh ich krumm UND bin beleidigt.
+
+### 709B
+
+Projekttext.
+
+**Seite 1**
+
+> Richard zahlt keine Steuern, wohnt
+> mietfrei und schläft den ganzen Tag.
+> Friedrich Merz nennt ihn
+> Leistungsträger.
+
+### 709C
+
+Projekttext.
+
+**Seite 1**
+
+> Mein Hund Richard frißt besser als
+> ich. Ich hab gestern sein Futter
+> probiert. Scheiße, der hat recht.
+
+### 709D
+
+Projekttext.
+
+**Seite 1**
+
+> Mein kleiner weißer Hund Richard ist
+> weg! Such ihn bitte und bring ihn
+> her. Dem Depp fällt nicht mal sein
+> Name ein.
+
+### 709E
+
+Projekttext.
+
+**Seite 1**
+
+> Das ist nicht Richard! Ich wollte
+> meinen Hund zurück, keine zufällige
+> Fellwurst aus der Fußgängerzone!
+
+### 709F
+
+Projekttext.
+
+**Seite 1**
+
+> Richard! Endlich wieder da!
+
+**Seite 2**
+
+> Danke! Hier ist Deine Belohnung.
+> Richard bekommt erst mal
+> Hausarrest. Das besprechen wir mit
+> seinem Anwalt.
+
+### 70A0
+
+Projekttext.
+
+**Seite 1**
+
+> Nachts streunen überall Hunde herum.
+> Richard ist wieder sicher. Ich hab die
+> Tür zugemacht. Verrücktes Konzept.
+
+## Maskenhändler – früher Leihmasken-Handlungszweig
+
+### 70A1
+
+Projekttext.
+
+**Seite 1**
+
+> Willkommen beim lustigen
+> Maskenhändler! Ich leihe Dir Masken.
+> Du verkaufst sie und zahlst mir den
+> Erlös.
+
+**Seite 2**
+
+> Ich habe auch eine ganz besondere
+> Maske...
+
+**Seite 3**
+
+> Sie ist ganz besonders... gefährlich.
+> Nein, die verleihe ich nicht.
+
+**Seite 4**
+
+> Bald reise ich in ein fernes Land.
+> Durch ein Portal im Wald. Ein
+> Waldportal sozusagen.
+
+**Seite 5**
+
+> Aber zuerst verkaufen wir fröhliche
+> Masken an fröhliche Menschen.
+> Vertrau mir...
+
+### 70A3
+
+Projekttext.
+
+**Seite 1**
+
+> Lege die geliehene Maske auf [C].
+> Drücke [C], um sie zu tragen.
+
+**Seite 2**
+
+> Sprich damit Leute an. Manche
+> reagieren darauf und wollen sie Dir
+> abkaufen.
+
+**Seite 3**
+
+> Für jede Maske findet sich irgendwo
+> ein Käufer.
+
+**Seite 4**
+
+> Du willst meine besondere Maske
+> sehen? Nein? Ich würde sie Dir
+> sowieso nicht zeigen!
+
+**Seite 5**
+
+> Sie ist viel zu gefährlich. Habe ich
+> gefährlich schon erwähnt?
+
+### 70A6
+
+Projekttext.
+
+**Seite 1**
+
+> Noch kein Käufer? Such weiter. Die
+> Majoras Maske ist gefährlich, aber
+> nicht entbehrlich...
+
+**Seite 2**
+
+> Oh Mist! Jetzt habe ich ihren Namen
+> verraten. Vergiß, was ich gesagt
+> habe!
+
+### 101B
+
+Projekttext.
+
+**Seite 1**
+
+> He, Du unter der Maske! Bist Du
+> nicht der Junge aus dem Kokiri-Dorf?
+
+### 101C
+
+Projekttext.
+
+**Seite 1**
+
+> Mit der Maske könnte ich die Leute
+> endlich standesgemäß erschrecken.
+
+**Seite 2**
+
+> Gibst Du sie mir?
+>
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 101D
+
+Projekttext.
+
+**Seite 1**
+
+> Schade. Dann muß wieder mein
+> Gesicht genügen.
+
+### 101E
+
+Projekttext.
+
+**Seite 1**
+
+> Großartig! Die behalte ich auf. Man
+> weiß nie, wen man trifft.
+
+### 101F
+
+Projekttext.
+
+**Seite 1**
+
+> Er gibt Dir nur 10 Rubine für die 20
+> Rubine teure Maske. Das war kein
+> gutes Geschäft.
+
+**Seite 2**
+
+> Dem Maskenhändler schuldest Du
+> trotzdem 20 Rubine. Die fehlenden 10
+> zahlst Du selbst.
+
+### 1020
+
+Projekttext.
+
+**Seite 1**
+
+> Ich bin ein Zombie! Schrei wenigstens
+> ein bißchen. Ich habe mir Mühe
+> gegeben.
+
+### 200A
+
+Projekttext.
+Native direkte Fortsetzung zu 200B.
+
+**Seite 1**
+
+> Ha! Dich erkenne ich sofort!
+
+**Seite 2**
+
+> Moment. Ist das eine Fuchs-Maske?
+
+**Seite 3**
+
+> Mein Sohn will genau so eine. Das
+> fällt jetzt vermutlich nicht unter
+> Bergbewachung, aber...
+
+**Seite 4**
+
+> Würdest Du mir die verkaufen?
+
+### 200B
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Würdest Du sie mir verkaufen?
+>
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 200C
+
+Projekttext.
+
+**Seite 1**
+
+> Na gut. Ich warte. Viel anderes
+> mache ich hier ja ohnehin nicht. Berg
+> bewachen und warten.
+
+### 2020
+
+Projekttext.
+
+**Seite 1**
+
+> Danke! Mein Sohn wird sich über die
+> Maske freuen. Endlich hat diese
+> Schicht mal etwas gebracht.
+
+## Krabbelminen-Frau – Studium und Arbeit
+
+### 00BF
+
+Projekttext.
+
+**Seite 1**
+
+> Uah... Was? Ein Kunde?
+
+**Seite 2**
+
+> Ich war bis nachts an der Uni Hyrule.
+> Heute muß ich hier schon wieder
+> arbeiten.
+
+**Seite 3**
+
+> Studieren und Miete zahlen. Schlaf ist
+> offenbar ein Wahlfach.
+
+### 00C0
+
+Projekttext.
+
+**Seite 1**
+
+> Zzz... Hausarbeit... Frühschicht... Zzz...
+
+### 0018
+
+Projekttext.
+
+**Seite 1**
+
+> Willkommen beim
+> Krabbelminen-Bowling!
+
+**Seite 2**
+
+> Neben dem Studium muß ich diese
+> Bahn betreuen. Merz würde das
+> vermutlich Eigenverantwortung nennen.
+
+**Seite 3**
+
+> Was Du gewinnst, verrate ich nach
+> dem Bezahlen. Spannung kostet hier
+> extra.
+
+**Seite 4**
+
+> Ein Spiel kostet 30 Rubine. Möchtest
+> Du spielen?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 7058
+
+Projekttext.
+
+**Seite 1**
+
+> Noch geschlossen! Ich muß erst zur
+> Vorlesung. Komm später wieder. Mein
+> Stundenplan heult schon.
+
+## Lon-Lon-Farm – Malon und Luigi als Kind
+
+### 2047
+
+Projekttext.
+
+**Seite 1**
+
+> Da ist ja mein Feen-Junge!
+
+**Seite 2**
+
+> Danke, daß Du Mario gefunden hast!
+> Warst Du im Schloß? Hast Du die
+> Prinzessin gesehen?
+
+**Seite 3**
+
+> Papa kam sofort zurück. Luigi hat ihm
+> zu seiner hervorragenden
+> Rückkehrleistung gratuliert.
+
+**Seite 4**
+
+> Ich möchte Dir jemanden vorstellen.
+
+**Seite 5**
+
+> Das ist Epona! Sie mag Musik. Ihre
+> Begeisterung äußert sie allerdings
+> etwas leiser als Luigi.
+
+### 2048
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Wie es scheint, hat Epona Angst 
+> vor Dir...
+
+### 2049
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Dieses Lied hat meine Mutter 
+> geschrieben. Es ist wunderschön. 
+> Laß es uns zusammen singen!
+
+### 204A
+
+Projekttext.
+
+**Seite 1**
+
+> Epona mag Dich! Luigi würde jetzt
+> vor Freude einen dreiteiligen
+> Motivationsvortrag halten. Ich sage
+> einfach: Schön!
+
+### 2061
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Oh, eine hübsche Okarina!
+> Wirst Du das Lied auf der 
+> Okarina spielen?
+
+### 00D2
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Du hast
+> Eponas Lied
+> erlernt!
+
+### 2000
+
+Projekttext.
+
+**Seite 1**
+
+> Danke für Deine Hilfe! Wie heißt Du
+> eigentlich?
+
+**Seite 2**
+
+> Sagst Du mir Deinen Namen?
+
+**Seite 3**
+
+> Wirklich? [Spielername]!
+
+**Seite 4**
+
+> Der Feen-Junge aus dem Wald! Ich
+> habe Dich wiedererkannt!
+
+**Seite 5**
+
+> Epona natürlich schon viel früher. Die
+> hört eben nicht ständig Luigis
+> Motivationsreden.
+
+**Seite 6**
+
+> Luigi hat sich unheimlich über Dein
+> Rennen gefreut.
+
+**Seite 7**
+
+> Er wollte Epona bei der Siegerfeier
+> nur kurz hinter dem Tor sichern.
+> Jetzt nennt er Euren Sprung eine
+> hervorragende Eigeninitiative.
+
+**Seite 8**
+
+> Mario ist wieder zu Hause. Luigi hat
+> ihm vor Freude beinahe sämtliche
+> Knöpfe vom Overall umarmt.
+
+**Seite 9**
+
+> Die trockenen Weiden bleiben ein
+> Problem. Merz' Politik wird leider
+> nicht dadurch besser, daß Luigi sie
+> freundlich anlächelt.
+
+**Seite 10**
+
+> Aber als Team schaffen wir den
+> Wiederaufbau. Auch dank Dir!
+
+**Seite 11**
+
+> Vielen Dank, [Spielername]!
+
+### 2014
+
+Projekttext.
+
+**Seite 1**
+
+> It's-a me, Luigi! Willkommen! Du
+> stehst genau richtig. Ein Gast macht
+> jeden Arbeitstag schöner!
+
+### 203F
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 2040.
+
+**Seite 1**
+
+> Oh, yeah! Ein Besucher! Wie
+> wunderbar!
+
+**Seite 2**
+
+> It's-a me, Luigi! Willkommen auf
+> unserer schönen Lon Lon-Farm!
+
+**Seite 3**
+
+> Ich kümmere mich hier mit ganzem
+> Herzen um alles. Mario ist mein Chef
+> und mein allerbester Freund!
+
+**Seite 4**
+
+> Heute liefert Mario Milch im Schloß.
+> Bestimmt rettet er unterwegs noch
+> eine Prinzessin.
+
+**Seite 5**
+
+> Solange er fort ist, darf ich die
+> ganze Farm versorgen. So viel
+> Vertrauen! Ich könnte vor Freude
+> einen Heuballen umarmen.
+
+### 2040
+
+Projekttext.
+Wiederholungsansprache nach 203F; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Luigi-Time! Ich habe die ganze Arbeit
+> für mich! Andere nennen das
+> Überlastung. Ich nenne es ein ganz
+> persönliches Abenteuer!
+
+### 2045
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 2046.
+
+**Seite 1**
+
+> Mario ist wieder da! Mamma mia,
+> jetzt kann ich ihm noch mehr Arbeit
+> abnehmen!
+
+**Seite 2**
+
+> Manche träumen von Urlaub. Ich
+> träume von einer besonders gut
+> organisierten Mistgabel.
+
+### 2046
+
+Projekttext.
+Wiederholungsansprache nach 2045; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Mario sollte sich öfter ausruhen.
+> Dann darf ich noch mehr helfen! Ein
+> Traum in Grün! Oh, yeah!
+
+### 204E
+
+Projekttext.
+
+**Seite 1**
+
+> Zzz... so viele glückliche Pferde... so
+> viele schöne Aufgaben... Zzz...
+
+### 2057
+
+Projekttext.
+
+**Seite 1**
+
+> Zzz... Mario ist wieder da... so ein
+> schöner Tag... let's a go... Zzz...
+
+## Lon-Lon-Farm – Mario, Super-Hühner und Milch
+
+### 204B
+
+Projekttext.
+
+**Seite 1**
+
+> Zzz... noch ein Level... dann melken...
+> Zzz...
+
+### 200D
+
+Projekttext.
+
+**Seite 1**
+
+> Mamma mia! Schon wach!
+
+**Seite 2**
+
+> Oh, Du bist es! Mein Helfer aus dem
+> Wald!
+
+**Seite 3**
+
+> Ich bin Mario. Erinnerst Du Dich an
+> meine legendäre Schlafmission beim
+> Schloß?
+
+**Seite 4**
+
+> Du hast mir damals sehr geholfen.
+> Malon war erleichtert, Luigi hat sogar
+> vor Freude gekehrt.
+
+**Seite 5**
+
+> Hier ist Milch für Dich! Die Flasche
+> darfst Du behalten. Ein kleines
+> Extra-Leben für unterwegs!
+
+### 207E
+
+Projekttext.
+
+**Seite 1**
+
+> Mamma mia! Bin ich schon wach?
+
+**Seite 2**
+
+> Das muß ein neuer Spielabschnitt
+> sein!
+
+**Seite 3**
+
+> Da ist ja mein Helfer aus dem Wald!
+> Danke noch einmal fürs Aufwecken!
+
+**Seite 4**
+
+> Malon hat mir erklärt, daß Milchkisten
+> keine Speicherpunkte sind. Man lernt
+> nie aus.
+
+**Seite 5**
+
+> Merz verteuert uns das Futter. Luigi
+> nennt jede neue Rechnung eine
+> wunderbare Rechenaufgabe.
+
+**Seite 6**
+
+> Diese drei Hühner sind Super-Hühner!
+> Ich mische sie unter die gewöhnlichen
+> Hühner.
+
+**Seite 7**
+
+> Finde alle drei innerhalb der Zeit.
+
+**Seite 8**
+
+> Dann bekommst Du etwas Nützliches.
+> Ganz ohne eine Prinzessin aus einem
+> anderen Schloß zu holen!
+
+**Seite 9**
+
+> Ein Spiel kostet 10 Rubine. Machst Du
+> mit?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 207F
+
+Projekttext.
+
+**Seite 1**
+
+> It's-a me! Schon wieder wach!
+
+**Seite 2**
+
+> Mein fleißiger Freund aus dem Wald!
+> Lust auf eine neue Runde?
+
+**Seite 3**
+
+> Ich mische drei Super-Hühner unter
+> die anderen Hühner.
+
+**Seite 4**
+
+> Finde die drei innerhalb der Zeit. Eine
+> nützliche Belohnung wartet!
+
+**Seite 5**
+
+> Luigi würde selbst dem letzten Huhn
+> noch zum hervorragenden Versteck
+> gratulieren.
+
+**Seite 6**
+
+> Ein Spiel kostet 10 Rubine. Möchtest
+> Du?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 2080
+
+Projekttext.
+
+**Seite 1**
+
+> Du hast 30 Sekunden! Hier sind die
+> drei Super-Hühner!
+
+**Seite 2**
+
+> FINDE SIE! LET'S-A GO!
+
+### 2081
+
+Projekttext.
+
+**Seite 1**
+
+> Die Zeit ist um. Mamma mia! Das
+> war eine knifflige Runde!
+
+**Seite 2**
+
+> Meine Super-Hühner sind großartige
+> Versteckspieler. Luigi würde ihnen
+> einen Pokal bauen.
+
+**Seite 3**
+
+> Kommt her, Ihr gefiederten
+> Bonus-Level!
+
+### 2082
+
+Projekttext.
+
+**Seite 1**
+
+> Das ist eins! Super gemacht! Zwei
+> fehlen noch. Let's-a go!
+
+### 2083
+
+Projekttext.
+
+**Seite 1**
+
+> Wahoo! Wieder eins! Noch ein Huhn
+> fehlt. Du bist fast am Ziel!
+
+### 2084
+
+Projekttext.
+
+**Seite 1**
+
+> Wahoo! Alle drei gefunden! Was für
+> ein großartiger Mitspieler!
+
+**Seite 2**
+
+> Komm her! Jetzt gibt es Deine
+> Belohnung!
+
+### 2085
+
+Projekttext.
+
+**Seite 1**
+
+> Noch eine Runde? Ein Held braucht
+> schließlich auch ein bißchen Training!
+
+**Seite 2**
+
+> Finde wieder alle drei Super-Hühner in
+> 30 Sekunden.
+
+**Seite 3**
+
+> Diesmal kostet es 5 Rubine. Los
+> geht's?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 2086
+
+Projekttext.
+
+**Seite 1**
+
+> Du hast das Zeug zum
+> Super-Huhn-Champion!
+
+**Seite 2**
+
+> Möchtest Du den inoffiziellen Titel
+> feierlich annehmen?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 2087
+
+Projekttext.
+
+**Seite 1**
+
+> Hahaha! Ein Titel allein macht
+> natürlich nicht satt.
+
+**Seite 2**
+
+> Hier ist eine Flasche Lon Lon-Milch.
+> Sie gibt Dir neue Energie, wenn Du
+> sie trinkst!
+
+**Seite 3**
+
+> Ist die Flasche leer, fülle ich sie
+> gegen ein kleines Entgelt wieder auf.
+> Ein echter Mitspieler braucht
+> Proviant!
+
+### 2088
+
+Projekttext.
+
+**Seite 1**
+
+> Du bist ein prima Partner! Luigi wäre
+> völlig aus dem Häuschen!
+
+**Seite 2**
+
+> Wenn Du erwachsen bist, komm auf
+> die Farm. Für ein gutes Team haben
+> wir immer Platz!
+
+### 2089
+
+Projekttext.
+
+**Seite 1**
+
+> Hier, frische Lon Lon-Milch! Ein
+> Extraleben zum Trinken. Na ja, fast.
+> Wahoo!
+
+### 208A
+
+Projekttext.
+
+**Seite 1**
+
+> Hier wäre frische Milch für Dich...
+
+**Seite 2**
+
+> Mamma mia, Du hast keine leere
+> Flasche! Selbst Mario kann Milch
+> nicht in einer Hosentasche
+> transportieren.
+
+### 208B
+
+Projekttext.
+
+**Seite 1**
+
+> Mamma mia! Ich bin wach!
+
+**Seite 2**
+
+> Was gibt's?
+
+**Seite 3**
+
+> [Spielername]! Malon ist draußen.
+> Oder suchst Du ein neues
+> Super-Huhn-Abenteuer?
+
+**Seite 4**
+
+> Milch gibt es auch. Bei uns kann man
+> seine Energie auffüllen, ohne an einen
+> schwebenden Block zu springen.
+
+**Seite 5**
+
+> Was darf es sein?
+> Lon Lon-Milch - 30 Rubine
+> Super-Huhn-Suchen - 10 Rubine
+> Zurück
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 2013
+
+Projekttext.
+
+**Seite 1**
+
+> Mamma mia! Keine leere Flasche.
+> Bring eine mit, dann gibt es Milch.
+> Die braucht eben mehr Platz als eine
+> Goldmünze!
+
+### 205D
+
+Projekttext.
+
+**Seite 1**
+
+> Luigi würde die Milch am liebsten
+> verschenken. Aber das Futter bezahlt
+> sich nicht mit Begeisterung. Deshalb
+> gilt der normale Preis.
+
+### 205E
+
+Projekttext.
+
+**Seite 1**
+
+> Frische Milch für 30 Rubine. Möchtest
+> Du welche?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+## Kakariko – Mr. Bean, Dorfbewohner und Alltag
+
+### 5028
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 5029.
+
+**Seite 1**
+
+> Ich leite die Zimmerleute. Mr. Bean
+> hat uns mit dem Ausbau dieser Stadt
+> beauftragt.
+
+**Seite 2**
+
+> Was für ein kluger Mann! Er hört zu
+> und sagt nur das Nötigste.
+
+**Seite 3**
+
+> Meine Arbeiter könnten von ihm
+> lernen. Sie laufen nur herum, statt
+> endlich anzupacken!
+
+**Seite 4**
+
+> Selbst mein Sohn drückt sich vor der
+> Arbeit. Wo ist bloß Beans
+> Pflichtgefühl geblieben?
+
+### 505B
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 505C.
+
+**Seite 1**
+
+> He! Du kommst einfach in ein
+> fremdes Haus? Was werden Deine
+> Eltern dazu sagen?
+
+**Seite 2**
+
+> Na, egal...
+
+**Seite 3**
+
+> Das ist ohnehin nicht mein Haus. Hier
+> wohnt der große Mr. Bean. Ein Mann
+> von höchstem Ansehen!
+
+**Seite 4**
+
+> Er ging zum Friedhof, um eine
+> widerliche Kreatur zu bezwingen. Auf
+> Bean ist eben Verlaß.
+
+**Seite 5**
+
+> Seit Friedrich Merz hier sein Unwesen
+> treibt, wimmelt es von solchen
+> Scheußlichkeiten!
+
+**Seite 6**
+
+> Mr. Bean hat schon oft für Frieden im
+> Dorf gesorgt. Sein Mut ist über jeden
+> Zweifel erhaben.
+
+**Seite 7**
+
+> Nun gut.
+
+**Seite 8**
+
+> Er ist noch nicht zurück. Sicher hat
+> er alles wohlüberlegt. Bean überläßt
+> nichts dem Zufall.
+
+### 505C
+
+Projekttext.
+Wiederholungsansprache nach 505B; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Hast Du diese seltsamen Kinder
+> getroffen? Sie nennen sich Fanboy
+> und Chum Chum.
+
+**Seite 2**
+
+> Halten sich für so 'ne Art
+> Superhelden. Pah! Was Menschen
+> nicht alles tun, um sich von der
+> Arbeit zu drücken!
+
+### 505D
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 505E.
+
+**Seite 1**
+
+> Willkommen in Kakariko! Bist Du zum
+> ersten Mal hier?
+
+**Seite 2**
+
+> Mr. Bean ließ das Dorf für einfache
+> Leute wie uns erbauen. Ein fähiger,
+> großherziger Mann!
+
+### 505E
+
+Ohne Kapitel-Ersatz.
+Wiederholungsansprache nach 505D; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Fühle Dich ganz wie zu Hause.
+> Das Essen ist allerdings
+> noch nicht fertig!
+
+### 5060
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 5061.
+
+**Seite 1**
+
+> Mario und Luigi sind beides
+> großartige Männer. Dann gibt es
+> noch den gierigen Wario. Pfu!
+
+**Seite 2**
+
+> Und dieser Waluigi wird es nie zu
+> etwas bringen. Manchen ist es wohl
+> vorherbestimmt, ewig nutzlos zu sein.
+
+**Seite 3**
+
+> Und von Wawario und Wawaluigi
+> will ich gar nicht erst anfangen!
+
+### 5061
+
+Projekttext.
+Wiederholungsansprache nach 5060; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Mario und Luigi sind beides
+> großartige Männer. Dann gibt es
+> noch den gierigen Wario. Pfu!
+
+**Seite 2**
+
+> Und dieser Waluigi wird es nie zu
+> etwas bringen. Manchen ist es wohl
+> vorherbestimmt, ewig nutzlos zu sein.
+
+**Seite 3**
+
+> Und von Wawario und Wawaluigi
+> will ich gar nicht erst anfangen!
+
+### 5063
+
+Projekttext.
+
+**Seite 1**
+
+> Es ist [Uhrzeit] Uhr! Zeit, Dir etwas
+> über Kakariko zu erzählen.
+
+**Seite 2**
+
+> Mr. Bean, Zeldas verläßlicher
+> Beschützer, ließ dieses Dorf für
+> einfache Leute wie uns erbauen.
+
+**Seite 3**
+
+> Noch sind wir wenige. Doch mit
+> seinem klugen Rat wird hier bald das
+> Leben blühen!
+
+**Seite 4**
+
+> Für den Aufstieg brauchst Du eine
+> königliche Erlaubnis. Das sollte ein
+> Mann wie Bean wissen.
+
+### 5079
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 507A.
+
+**Seite 1**
+
+> Hier lebte Mr. Bean. Er hat das Haus
+> großzügig dem Dorf geöffnet. Ein
+> vorbildlicher Mann!
+
+**Seite 2**
+
+> Auch Du darfst hinein. Bean vertraut
+> seinen Mitmenschen.
+
+### 507A
+
+Ohne Kapitel-Ersatz.
+Wiederholungsansprache nach 5079; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Dieses Dorf gehörte einst den
+> Shiekah, aber jetzt kann jeder
+> hier leben.
+
+### 5083
+
+Projekttext.
+
+**Seite 1**
+
+> Ich habe ja nichts gegen Goronen.
+> Aber müssen die wirklich nackt
+> rumlaufen?
+
+**Seite 2**
+
+> Mein Nachbar sagt, das sei ihre
+> Kultur. Meine Unterhose ist übrigens
+> auch kulturell gewachsen.
+
+### 5084
+
+Projekttext.
+
+**Seite 1**
+
+> Der Gorone hat mir erklärt, das sei
+> keine Nacktheit, sondern geologische
+> Freiheit. Jetzt denke ich seit Stunden
+> darüber nach.
+
+### 5074
+
+Projekttext.
+
+**Seite 1**
+
+> Meine Hände sind von der Arbeit
+> rissig. Merz würde sagen, ich soll
+> einfach länger damit arbeiten. Das
+> heilt bestimmt.
+
+### 5075
+
+Projekttext.
+
+**Seite 1**
+
+> Viel Geld für wenig Arbeit? Ich habe
+> an eine Unternehmensberatung für
+> Goronen gedacht. Ich sage ihnen, sie
+> sollen Steine essen.
+
+### 5069
+
+Projekttext.
+
+**Seite 1**
+
+> Meine Eltern erklären mir ständig, daß
+> ich später Verantwortung übernehmen
+> muß. Die Erwachsenen haben Merz
+> eingeladen. Ich habe Fragen.
+
+### 5056
+
+Projekttext.
+
+**Seite 1**
+
+> Mit [C-Up] schaust Du Dich um. Sehr
+> nützlich, falls Du kontrollieren
+> möchtest, ob der TODESBERG noch
+> da ist.
+
+### 506A
+
+Projekttext.
+
+**Seite 1**
+
+> Ich war neulich auf der Lon Lon-Farm.
+> Mario und Luigi sind echt super
+> Brüder. Kauft mehr Milch!
+
+**Seite 2**
+
+> Wir bauen hier den ganzen Tag. Wenn
+> der Chef fragt: Das ist keine Pause,
+> das ist Milchwerbung.
+
+### 506B
+
+Projekttext.
+
+**Seite 1**
+
+> Ich war neulich auf der Lon Lon-Farm.
+> Mario und Luigi sind echt super
+> Brüder. Kauft mehr Milch!
+
+### 5077
+
+Projekttext.
+
+**Seite 1**
+
+> Die Krabbelminen-Frau ist mega
+> attraktiv.
+
+**Seite 2**
+
+> Ich krabble in die Minen, um genug
+> Geld für 'ne krabbelige Runde
+> Krabbelminen-Bowling
+> zusammenzukratzen.
+
+**Seite 3**
+
+> Jetzt ist es [Uhrzeit]. Boris ist erst
+> abends auf dem Friedhof. Vorher hab
+> ich Zeit zum Krabbeln.
+
+### 5078
+
+Projekttext.
+
+**Seite 1**
+
+> Es ist [Uhrzeit]. Die
+> Krabbelminen-Frau ist mega attraktiv.
+
+**Seite 2**
+
+> Ich krabble in die Minen, um genug
+> Geld für 'ne krabbelige Runde
+> Krabbelminen-Bowling
+> zusammenzukratzen.
+
+### 5087
+
+Projekttext.
+
+**Seite 1**
+
+> Hast Du das Deku-Ballspiel gesehen?
+> Crazy Dekus 07 gegen die hölzernen
+> Holztypis!
+
+**Seite 2**
+
+> Der Schiedsrichter hat die ganze Zeit
+> komplett reingekackt. Dreimal
+> Handspiel nicht gepfiffen!
+
+**Seite 3**
+
+> DIE HABEN ÄSTE! Das sieht man
+> doch! Ich reg mich schon wieder auf.
+> Unfaßbar, dieser Vollidiot!
+
+**Seite 4**
+
+> Du suchst das Auge der Wahrheit?
+> Sein Besitzer wohnte da, wo jetzt
+> der Brunnen steht. Das nur nebenbei.
+
+### 507F
+
+Projekttext.
+
+**Seite 1**
+
+> Ah, wie findest Du denn meinen
+> Bart? Ist das nicht ein toller
+> Schnurrbart?
+
+**Seite 2**
+
+> Dafür benutze ich das edelste
+> Bartwachs, das man in diesem Land
+> kriegen kann. Das muß auch mal
+> gesagt werden.
+
+### 5080
+
+Projekttext.
+
+**Seite 1**
+
+> Du schaust schon wieder auf meinen
+> Schnurrbart. Versteh ich.
+
+**Seite 2**
+
+> Das edelste Bartwachs im ganzen
+> Land. Billiges Zeug kommt mir da
+> nicht rein!
+
+## Kakariko – Hühnerfrau und Schweine
+
+### 5036
+
+Projekttext.
+
+**Seite 1**
+
+> Markus Söder hat meine ganzen
+> Schweine gefressen. Die GANZEN
+> Schweine!
+
+**Seite 2**
+
+> Jetzt habe ich nur noch Hühner.
+> Gegen die bin ich allergisch, und sie
+> sind auch noch ausgebüxt. Sammelst
+> Du sie bitte ein?
+
+### 5037
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Das machst Du sehr gut!
+> Bring doch bitte noch die
+> anderen vier zurück!
+
+### 5038
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Prima! Du bist ein echter
+> Hühnerfänger!
+> Bring doch auch die anderen
+> drei zurück!
+
+### 5039
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Klasse! Du bist richtig lieb!
+> Bring doch noch die anderen
+> zwei zurück! Bitte!
+
+### 503A
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Super! Jetzt hast Du fast alle!
+> Bring doch bitte noch das letzte
+> Huhn zurück!
+
+### 503B
+
+Projekttext.
+
+**Seite 1**
+
+> Danke fürs Einsammeln! Ich bekomme
+> Ausschlag, wenn ich meine Hühner
+> anfasse. Die Schweine waren mir
+> lieber.
+
+**Seite 2**
+
+> Bis Söder kam. Hier, nimm diese
+> Belohnung! Wenigstens etwas soll
+> heute den Besitzer wechseln, ohne
+> aufgegessen zu werden.
+
+### 503C
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Hey, was machst Du denn da?!
+> Sammle sie ein oder zahle dafür!
+
+### 503D
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Ärgere die Hühner bitte nicht!
+
+## Friedhof und Windmühle – frühe Gespräche
+
+### 5018
+
+Projekttext.
+Native direkte Fortsetzung zu 5019.
+
+**Seite 1**
+
+> Guten Abend. Boris, Totengräber.
+> Meine Arbeit beschäftigt sich mit der
+> Endlichkeit in ihrer materiellen
+> Ausprägung.
+
+**Seite 2**
+
+> Der Tod ist kein Zustand, den wir
+> erleben. Er beendet vielmehr die
+> Bedingungen unserer Erfahrung.
+
+**Seite 3**
+
+> Trotzdem strukturieren wir unser
+> Leben durch seine Möglichkeit. Eine
+> bemerkenswerte ontologische
+> Zumutung.
+
+**Seite 4**
+
+> Ach ja, ich hab da so einen
+> Enterhaken. Den kannst Du nach
+> meinem Tod haben. Ich schreibe Dich
+> einfach ins Testament rein.
+
+**Seite 5**
+
+> Bis dahin biete ich die Grausige
+> Grabgrusel-Tour an. Zehn Rubine fürs
+> Graben. Auch ein Existentialist muß
+> seine Miete zahlen.
+
+### 5019
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Willst Du, daß ich hier grabe?
+> 10 Rubine für ein Loch.
+> Ja!
+> Laß mal bleiben!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 5001
+
+Projekttext.
+
+**Seite 1**
+
+> Die Endlichkeit gibt Entscheidungen
+> Gewicht. Meine betrifft einen
+> Enterhaken: Nach meinem Tod gehört
+> er Dir.
+
+**Seite 2**
+
+> Ich notiere Dich im Testament. Eine
+> kleine Fußnote gegen die große Leere.
+
+### 2022
+
+Projekttext.
+
+**Seite 1**
+
+> Ich liebe Friedhöfe. Die Ruhe, die
+> Gräber, diese konsequent zu Ende
+> gedachte Nachbarschaft.
+
+**Seite 2**
+
+> Manchmal wünsche ich mir, ich wäre
+> selbst tot. Dann dürfte ich endlich
+> hier wohnen.
+
+**Seite 3**
+
+> Boris sagt, ich soll erst mal meine
+> Hausaufgaben machen. Er nimmt meine
+> Zukunftspläne überhaupt nicht ernst.
+
+### 5032
+
+Projekttext.
+
+**Seite 1**
+
+> Ich bin so stinkig, mein Blut kocht,
+> ich könnte explodieren! Mir geht der
+> Hut hoch!
+
+**Seite 2**
+
+> Ein Kind, das eins zu eins aussieht
+> wie Du, wird eines Tages diese ganze
+> Mühle mit seiner bekloppten
+> Regenmusik zerstören!
+
+**Seite 3**
+
+> Ich hoffe, das wirst nicht Du sein!
+> Ich übe diese Beschwerde vorsorglich
+> seit Wochen.
+
+### 5002
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Des Totengräbers Tagebuch.
+> Willst Du es lesen?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 5004
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Das ist auch besser so!
+
+### 5000
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> AARGH!
+> Du hast mich bezwungen!
+> Wie? Ach, Du bist es.
+
+**Seite 2**
+
+> Hast Du mal die Hymne der Sonne
+> gespielt?
+
+**Seite 3**
+
+> Ich habe Dir ja schon 
+> erzählt, daß Du damit die Nacht 
+> zum Tag und den Tag zur Nacht
+> machst - wann immer Du willst.
+
+**Seite 4**
+
+> Wenn alles um Dich herum dunkel
+> ist, kannst Du damit wieder Licht
+> in die Welt bringen. Probier's!
+
+### 500F
+
+Ohne Kapitel-Ersatz.
+Native direkte Fortsetzung zu 5010.
+
+**Seite 1**
+
+> AARGH!
+> DU HAST MICH BEZWUNGEN!
+> Unglaublich!
+
+**Seite 2**
+
+> Wie?
+> Du bist doch nicht einer von
+> Ganondorfs Schergen, oder?
+
+**Seite 3**
+
+> Als Gespenst muß ich mich so
+> komisch benehmen. Tut mir leid.
+
+**Seite 4**
+
+> Alsdann, ich glaube, ich stelle
+> mich mal vor!
+> Ähem...
+
+### 5010
+
+Ohne Kapitel-Ersatz.
+Native direkte Fortsetzung zu 5011.
+
+**Seite 1**
+
+> Ich bin einer der geisterhaften
+> Komponisten-Brüder von Kakariko.
+
+**Seite 2**
+
+> Wie alle Hylianer, so dienten auch
+> wir dem König dieses Landes.
+
+**Seite 3**
+
+> Wir, die Gebrüder Brahmstein,
+> waren beauftragt, die mystische
+> Macht der königlichen Familie zu
+> untersuchen.
+
+**Seite 4**
+
+> Wir haben bis jetzt die Macht des
+> Triforce nicht erklären können.
+
+**Seite 5**
+
+> Aber unsere "Studien zur Macht
+> über die Zeit mittels Tönen
+> einer Okarina" haben wir
+> fast abgeschlossen!
+
+**Seite 6**
+
+> Um ehrlich zu sein...
+
+**Seite 7**
+
+> Wir haben unsere Studien dazu
+> bereits beendet!
+
+**Seite 8**
+
+> Wir wären berühmt geworden, wenn
+> dieser widerliche Ganondorf nicht
+> versucht hätte, die Aufzeichnungen 
+> zu stehlen.
+
+**Seite 9**
+
+> Wir konnten es nicht zulassen, daß
+> er die Früchte unserer Arbeit an
+> sich reißt!
+
+**Seite 10**
+
+> Daher haben wir unser Leben
+> riskiert, um diese Geheimnisse zu
+> bewahren.
+
+### 5011
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Möchtest Du unsere Geschichte
+> noch einmal hören?
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 5012
+
+Ohne Kapitel-Ersatz.
+Native direkte Fortsetzung zu 5014.
+
+**Seite 1**
+
+> AARGH!
+> ICH BIN WIEDER BESIEGT!
+> Was? Du schon wieder?
+
+**Seite 2**
+
+> Wenn ich Dich so ansehe, muß ich
+> an Prinzessin Zelda denken.
+
+**Seite 3**
+
+> Da Du offenbar mit der
+> Königsfamilie in Kontakt stehst,
+> kann ich Dir ein wenig mehr über
+> uns erzählen.
+
+**Seite 4**
+
+> Damals nannten uns die Leute
+> überall "Die tadellosen Tonsetzer",
+> da wir viele Meisterwerke
+> komponiert haben.
+
+**Seite 5**
+
+> Aber wir waren nicht nur
+> Komponisten!
+
+**Seite 6**
+
+> Wir hatten auch einen Auftrag!
+> Wir sollten die geheimnisvollen
+> Kräfte der hylianischen 
+> Königsfamilie untersuchen.
+
+**Seite 7**
+
+> Unsere Namen wären in die
+> Geschichte Hyrules eingegangen,
+> wenn wir unsere Studien beendet
+> hätten.
+
+**Seite 8**
+
+> Wir haben diese Studien natürlich
+> stets streng geheim gehalten!
+
+### 5013
+
+Ohne Kapitel-Ersatz.
+Native direkte Fortsetzung zu 5014.
+
+**Seite 1**
+
+> AARGH!
+> ICH BIN SCHON WIEDER TOT!
+> Was? Du schon wieder?
+
+**Seite 2**
+
+> Wenn ich Dich so anschaue, muß
+> ich an Prinzessin Zelda denken...
+
+**Seite 3**
+
+> Wenn Du mit der Königsfamilie
+> näher bekannt bist, kann ich Dir
+> ja etwas mehr über uns erzählen.
+
+### 5014
+
+Ohne Kapitel-Ersatz.
+Native direkte Fortsetzung zu 5011.
+
+**Seite 1**
+
+> Mein Bruder und ich studierten
+> verschiedene Melodien: Eine, den
+> Mond zu beschwören, und eine
+> andere, die Sonne herbeizurufen!
+
+**Seite 2**
+
+> Da Du von einem Angehörigen des
+> Königshauses geschickt wurdest,
+> will ich Dir von den Ergebnissen
+> unserer Untersuchungen berichten.
+
+**Seite 3**
+
+> Sie stehen geschrieben auf dem
+> königlichen Grabstein.
+
+**Seite 4**
+
+> Zeige auf musikalische Weise, daß
+> Du in königlichem Auftrag
+> unterwegs bist, wenn Du auf dem
+> Triforce vor dem Grab stehst.
+
+### 5009
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Das Sonnenlicht, es schwindet
+> bei Nacht...
+> Erst am Tag ist wieder sein Feuer
+> entfacht.
+
+**Seite 2**
+
+> Von Sonne zu Mond und zu Sonne
+> erneut...
+
+**Seite 3**
+
+> Ewige Ruhe die lebenden Toten
+> erfreut.
+
+**Seite 4**
+
+> Ziemlich schöne Lyrik, nicht wahr?
+
+### 500A
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Ruhelose Seelen wandern ohne Wonne.
+> Gib Frieden mit der Hymne der Sonne.
+
+### 500B
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Da ist eine Inschrift auf diesem
+> Grabstein...
+
+**Seite 2**
+
+> Eine geheime Weise der
+> Gebrüder Brahmstein!
+
+## Skulltula-Haus – Fluch und Belohnungen
+
+### 0026
+
+Projekttext.
+Native direkte Fortsetzung zu 00FE.
+
+**Seite 1**
+
+> Das hat jetzt zwar nichts mit
+> Friedrich Merz zu tun, aber hier liegt
+> so ein komischer Spinnenfluch auf
+> uns.
+
+**Seite 2**
+
+> Keine Ahnung, wie das passiert ist.
+> Jetzt hängen wir halt hier und sehen
+> aus wie Spinnen.
+
+**Seite 3**
+
+> Du müßtest goldene Skulltulas
+> umbringen und ihre Symbole
+> einsammeln. Hundert Stück insgesamt.
+
+**Seite 4**
+
+> Gut, hundert ist schon viel.
+> Aber bitte sammle
+> wenigstens ein paar dieser
+> Symbole.
+
+**Seite 5**
+
+> Auf dem Status-Bildschirm
+> steht, wie viele Du hast. Ein
+> Spinnensymbol auf der Karte
+> heißt: Gebiet erledigt.
+
+### 00FE
+
+Projekttext.
+Native direkte Fortsetzung zu 0027.
+
+**Seite 1**
+
+> Such draußen und in den Dungeons.
+> Nachts sind auch welche unterwegs.
+
+**Seite 2**
+
+> Das ist jetzt kein Befehl. Versuch
+> einfach, was Du so kannst. Wäre
+> ganz cool.
+
+### 0027
+
+Projekttext.
+
+**Seite 1**
+
+> Versuch es wenigstens. Für Hilfe gibt
+> es Belohnungen. Für Rumstehen leider
+> nicht.
+
+### 0025
+
+Projekttext.
+Native direkte Fortsetzung zu 0024.
+
+**Seite 1**
+
+> Ja, wir sehen immer noch aus wie
+> Spinnen. Aber bei den Kindern tut
+> sich schon was.
+
+### 0024
+
+Projekttext.
+
+**Seite 1**
+
+> Du hast schon [Skulltula-Symbole] Symbole
+> gesammelt. Der Fluch läßt langsam
+> nach.
+
+**Seite 2**
+
+> Haben Dir die befreiten Kinder ihre
+> Belohnungen gegeben? Die haben
+> einiges rumliegen.
+
+**Seite 3**
+
+> Bei 10, 20, 30, 40 und 50 Symbolen
+> wird jeweils eines meiner Kinder
+> wieder normal.
+
+**Seite 4**
+
+> Such aufmerksam. Die Viecher kleben
+> nicht alle bequem neben der Haustür.
+
+**Seite 5**
+
+> Für mich braucht es hundert. Ich
+> weiß. Das ist ein bißchen viel.
+> Versuch halt, was Du schaffst.
+
+### 0029
+
+Projekttext.
+
+**Seite 1**
+
+> Danke, meine Kinder sind wieder
+> Menschen. Für die haben fünfzig
+> Symbole gereicht.
+
+**Seite 2**
+
+> Du hast schon [Skulltula-Symbole] Symbole. Ich
+> hänge leider immer noch hier.
+
+**Seite 3**
+
+> Für mich müssen es hundert sein. Ja
+> gut, ich glaube auch, das ist ein
+> bißchen viel. Aber versuch es
+> wenigstens.
+
+### 0022
+
+Projekttext.
+
+**Seite 1**
+
+> Ich bin verflucht. Jetzt bin ich halt
+> 'ne Spinne. Bitte sammle goldene
+> Skulltula-Symbole, damit das wieder
+> aufhört.
+
+### 0021
+
+Projekttext.
+
+**Seite 1**
+
+> Wieder ein Mensch! Danke! Hier ist
+> Deine Belohnung. Ich brauche jetzt
+> erst mal 'ne Hose.
+
+### 0020
+
+Projekttext.
+
+**Seite 1**
+
+> Hilfst Du meinen Geschwistern auch
+> noch? Die hängen immer noch als
+> Spinnen hier rum.
+
+**Seite 2**
+
+> Die haben auch Belohnungen für Dich.
+> Das ist hier keine reine Gefälligkeit,
+> keine Sorge.
+
+### 001F
+
+Projekttext.
+
+**Seite 1**
+
+> Der Fluch ist von uns Kindern
+> genommen. Unser Vater braucht leider
+> noch mehr Symbole. Hundert
+> insgesamt.
+
+### 0023
+
+Projekttext.
+
+**Seite 1**
+
+> Wir sind alle wieder normal. Ich hoffe
+> sehr, daß es für diesen komischen
+> Spinnenfluch keine zweite Staffel gibt.
+
+### 0028
+
+Projekttext.
+
+**Seite 1**
+
+> [Skulltula-Symbole] Symbole! Jetzt bin ich auch
+> wieder normal. Endlich Schluß mit
+> dem Spinnendasein.
+
+**Seite 2**
+
+> Hier ist Deine Belohnung. Danke, daß
+> Du es tatsächlich durchgezogen hast.
+
+## Goronia – weitere Meinungen und rollender Gorone
+
+### 300E
+
+Projekttext.
+Erstansprache; Wiederholung bei erneutem Ansprechen: 3022.
+
+**Seite 1**
+
+> Ich sage Dir: Atomenergie ist
+> hervorragend. Hohe Energiedichte,
+> wenig Flächenbedarf.
+
+**Seite 2**
+
+> Kernspaltung liefert verläßlich Strom,
+> auch nachts und bei Windstille.
+
+**Seite 3**
+
+> Über den Lebenszyklus verursacht sie
+> wenig Treibhausgas. Das ist beim
+> Klimaschutz ein ernstes Argument.
+
+**Seite 4**
+
+> Eine wetterunabhängige Erzeugung
+> kann ein Stromsystem stabilisieren.
+> Speicher und Netze kosten schließlich
+> auch.
+
+**Seite 5**
+
+> Wer vorhandene, sichere Anlagen
+> länger nutzt, kann fossile Erzeugung
+> ersetzen. Kohle verpestet die Luft.
+
+**Seite 6**
+
+> Ja, Neubauten können teuer werden
+> und lange dauern. Man braucht
+> Aufsicht, Fachleute und eine Lösung
+> für den Abfall.
+
+**Seite 7**
+
+> Auch Kühlung, Haftung und
+> Bauverzögerungen gehören in die
+> Rechnung. Sonst rechnet man sich
+> das Ergebnis schön.
+
+**Seite 8**
+
+> Trotzdem halte ich Kernkraft für eine
+> gute Ergänzung. Eine Technologie muß
+> an ihren Folgen gemessen werden.
+
+**Seite 9**
+
+> Deku-Nüsse, Kerne und Stäbe gibt es
+> hier kaum. Falls Du einen Stab
+> brauchst: Ich habe einen versteckt.
+
+### 3022
+
+Projekttext.
+Wiederholungsansprache nach 300E; kein zusätzlicher Seitenanhang an dieses Erstgespräch.
+
+**Seite 1**
+
+> Einen brennenden Deku-Stab löschst
+> Du mit [A], bevor er verbrennt. Hier
+> liegt auch einer versteckt.
+
+**Seite 2**
+
+> Und ja: Mein Kernkraftvortrag war
+> lang. Für eine schlichte
+> Energiedebatte mußt Du einen anderen
+> Stein fragen.
+
+### 3011
+
+Projekttext.
+
+**Seite 1**
+
+> He, warum hältst Du mich an?
+
+**Seite 2**
+
+> Ich war gerade so schön in Fahrt!
+
+**Seite 3**
+
+> Ich rolle, bis der ganze politische
+> Mist aus meinem Kopf ist.
+
+**Seite 4**
+
+> Unter Merz ist das inzwischen
+> Ausdauersport. Rock'n'Roll!
+
+### 3013
+
+Projekttext.
+
+**Seite 1**
+
+> Danke für Deine Hilfe! Ich rolle vor
+> Freude. Das ist eine Körperfunktion,
+> keine Zustimmung zum Kohleabbau.
+
+## Neue Gäste vor dem Zora-Kapitel – Jabba, Yellow Guy, Shrek, Doc und Marty
+
+### 71B3
+
+Projekttext.
+
+**Seite 1**
+
+> Jabba! (JABBA!)
+
+**Seite 2**
+
+> Jee am on Ma way Tah meet
+> friedrich merz at Ta castle of hyrule.
+
+**Seite 3**
+
+> (ICH BIN AUF DEM WEG FRIEDRICH
+> MERZ IM SCHLOSS HYRULE ZU
+> TREFFEN!)
+
+**Seite 4**
+
+> He offered Je Du Grancha Bargon!
+> (ER BAT MIR EINEN GUTEN DEAL
+> AN!)
+
+**Seite 5**
+
+> ho ho ho! (HO HO HO!)
+
+### 71B4
+
+Projekttext.
+
+**Seite 1**
+
+> Marty: Hey Doc! Das ist doch der
+> Junge aus der Wüste!
+
+### 71B5
+
+Projekttext.
+
+**Seite 1**
+
+> Doc: Marty! Grundgütiger, du mußt
+> vierdimensional denken!
+
+**Seite 2**
+
+> Doc: Er ist uns doch in dieser Zeit
+> noch gar nicht begegnet!
+
+### 71B6
+
+Projekttext.
+
+**Seite 1**
+
+> Marty: Jesus Christ, Doc, du hast ja
+> recht! Ich steig mit diesen Zeitreisen
+> nicht durch. Ich brauch echt ne
+> Pause!
+
+### 71B7
+
+Projekttext.
+
+**Seite 1**
+
+> Doc: Du sollst so viele Pausen
+> kriegen, wie du möchtest, sobald wir
+> erst einmal Friedrich Merz
+> aufgehalten haben.
+
+**Seite 2**
+
+> Doc: Denk an unsere Aufgabe, Marty!
+
+### 608F
+
+Projekttext.
+
+**Seite 1**
+
+> Oh. Hallo! Ich bin machen einen
+> Ausflug. Nach ... hier. Hyrule.
+
+**Seite 2**
+
+> Ich mag das hier. Ein großes Haus für
+> den König. Und kleine Häuser für die
+> anderen. Das ist gut sortiert.
+
+**Seite 3**
+
+> Ich hab die Wache gefragt, ob ich
+> auch König sein kann. Die hat gesagt:
+> Geh weg. Also übe ich das jetzt.
+
+**Seite 4**
+
+> Und die kleinen Steine sind auch nett.
+> Die sind schon die ganze Zeit hier
+> und machen keinen Ärger.
+
+**Seite 5**
+
+> Ich möchte, daß das alles so bleibt.
+> So wie jetzt. Bloß ... vielleicht mit
+> mir in einem der Häuser.
+
+### 601C
+
+Projekttext.
+
+**Seite 1**
+
+> WAH! IT'S A ME, WARIO!
+
+**Seite 2**
+
+> Waluigi? Der ist zum Geistertempel
+> aufgebrochen. Will sich unbedingt
+> beweisen, dieser lange Lulatsch.
+
+**Seite 3**
+
+> Alle in Hyrule lachen über ihn. Keiner
+> nimmt ihn ernst. Jetzt will er etwas
+> Großes schaffen, damit das endlich
+> aufhört.
+
+**Seite 4**
+
+> Mir gefällt das nicht. Er rennt da
+> ganz allein rein, bloß weil diese
+> Deppen ihn für einen Versager halten.
+
+**Seite 5**
+
+> Ja, ich mach mir Sorgen! Er ist mein
+> Kumpel. Aber erzähl ihm bloß nicht,
+> daß ich das gesagt habe!
+
+**Seite 6**
+
+> Wenn Du zum Geistertempel kommst,
+> schau nach ihm. Und jetzt: HAVE A
+> ROTTEN DAY! WAH HA HA!
+
+### 71DA
+
+Projekttext.
+
+**Seite 1**
+
+> Raus aus meinem Wald! Also nicht
+> Du. Du kannst bleiben. Ich meine
+> diesen Friedrich Merz.
+
+**Seite 2**
+
+> Ich hatte endlich ein ruhiges, feuchtes
+> Fleckchen gefunden, an dem mich
+> niemand wegen meiner Ohren
+
+**Seite 3**
+
+> anstarrt, und jetzt will der Kerl mir
+> den Wald wegnehmen.
+
+**Seite 4**
+
+> Er nennt es Erschließung. Ich nenne
+> es: Da wohnt schon jemand, Du
+> verdammter Anzugträger!
+
+**Seite 5**
+
+> Offenbar braucht Hyrule noch einen
+> Golfplatz für Leute, die vor einem
+> Oger Angst haben, aber einen ganzen
+> Wald ohne Gewissensbisse umlegen.
+
+**Seite 6**
+
+> Wenn er hier mit einer Axt
+> auftaucht, braucht er hinterher
+> jedenfalls einen sehr guten Arzt.
+
+## Hylia-See als frei erreichbarer Abstecher – Forscher und normaler Doofenshmirtz
+
+### 4018
+
+Projekttext.
+
+**Seite 1**
+
+> Ich hab gehört, dieser Merz möchte
+> uns das Budget kürzen? Der werte
+> Herr soll das gerne versuchen. Das
+> will ich sehen!
+
+**Seite 2**
+
+> Nur über meine Leiche! Boah, ich
+> hoffe echt, daß ich noch sieben Jahre
+> durchhalte. Ich bin halt echt schon
+> mega alt, ne?
+
+### 407B
+
+Projekttext.
+
+**Seite 1**
+
+> Ah, ein Besucher! Dr. Heinz
+> Doofenshmirtz, erfreut. Du fragst
+> Dich sicher, warum ein
+
+**Seite 2**
+
+> Wissenschaftler einen Angelteich
+> betreibt.
+
+**Seite 3**
+
+> Es begann in meiner Kindheit in
+> Gimmelschtump. Die anderen Kinder
+> durften angeln gehen, ich natürlich
+> nicht.
+
+**Seite 4**
+
+> Wobei es bei uns ohnehin nur
+> Jauchegruben gab. Also selbst wenn
+> ich gedurft hätte, wäre das eine
+
+**Seite 5**
+
+> ziemlich traurige Angelegenheit
+> gewesen.
+
+**Seite 6**
+
+> Deshalb habe ich den Angelinator
+> erfunden! Er soll sämtliche Fische
+> Hyrules in meinen Teich bringen!
+
+**Seite 7**
+
+> Oder zumindest eine große
+> Ansammlung. Ich habe beim Antrag
+> sämtliche Fische geschrieben, aber
+
+**Seite 8**
+
+> wir wollen jetzt nicht kleinlich
+> werden.
+
+**Seite 9**
+
+> Und falls ein Schnabeltier auftaucht:
+> Sag ihm, ich wäre gerade nicht da.
+
+**Seite 10**
+
+> Willst Du für 20 Rubine angeln?
+>
+> Ja!
+> Nein!
+
+_Enthält die eingebauten Auswahlantworten in ihrer vorhandenen Reihenfolge._
+
+### 408F
+
+Projekttext.
+
+**Seite 1**
+
+> Warum ich unbedingt alle Fische in
+> diesem Teich haben möchte?
+
+**Seite 2**
+
+> Weil man auf eine traurige Kindheit
+> offenbar nur mit einem völlig
+> überdimensionierten technischen
+> Projekt reagieren kann.
+
+### 4092
+
+Projekttext.
+
+**Seite 1**
+
+> Komm ruhig wieder. In sieben Jahren
+> habe ich hier bestimmt alles im Griff.
+> Was soll denn groß passieren?
+
+## Frühe wichtige Fundtexte
+
+### 00A4
+
+Projekttext.
+
+**Seite 1**
+
+> Das Kokiri-Schwert! Rüste es
+> im Ausrüstungs-Menü mit [A]
+> aus.
+
+**Seite 2**
+
+> Eine Waffe der Kokiri. Übe
+> damit, bevor Du für den Wald
+> aufbrichst.
+
+### 0030
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Die Feen-Schleuder!
+> Im Gegenstands-Menü kannst
+> Du sie auf [C-Left], [C-Down] oder [C-Right]
+> plazieren.
+
+**Seite 2**
+
+> Drücke [C], um die Schleuder
+> zu benutzen. Halte [C] und
+> ziele mit [Control-Pad]. Laß [C] los,
+> um Deku-Kerne abzuschießen!
+
+**Seite 3**
+
+> Wenn Du sofort schießen
+> willst, halte [C] etwas länger
+> gedrückt und laß dann los.
+
+### 0032
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Die Bomben!
+> Im Gegenstands-Menü kannst
+> Du sie auf [C-Left], [C-Down] oder [C-Right]
+> plazieren.
+
+**Seite 2**
+
+> Mit [C] kannst Du sie halten
+> und ablegen. Drückst Du [C]
+> während Du rennst, kannst
+> Du die Bomben auch werfen!
+
+### 0058
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Die Bombentasche!
+> Diese Bombentasche ist aus
+> Dodongo-Leder hergestellt.
+
+**Seite 2**
+
+> Darin findest Du 20 Bomben!
+> Du kannst die Bomben auf [C]
+> plazieren und Hindernisse
+> wegsprengen! Das ist bombig!
+
+### 00D1
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Du hast
+> Salias Lied
+> erlernt!
+
+### 00D3
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Du hast die
+> Hymne der Sonne
+> erlernt!
+
+### 0066
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Die Labyrinth-Karte!
+> Drücke START, um sie im
+> Karten-Bildschirm anzusehen!
+
+**Seite 2**
+
+> Blaue Räume hast Du bereits
+> aufgesucht.
+> Der blinkende Raum zeigt
+> Deine derzeitige Position.
+
+**Seite 3**
+
+> Bewege [Control-Pad], um ein
+> Stockwerk auszuwählen.
+
+### 0067
+
+Ohne Kapitel-Ersatz.
+
+**Seite 1**
+
+> Der Kompaß!
+> Jetzt siehst Du auf Deiner
+> Karte alle Schatztruhen
+> dieses Labyrinths!
+
+## Navi – die beiden frühen Endbosse (Zielerfassung, keine Storyrufe)
+
+### 0601
+
+Projekttext.
+
+**Seite 1**
+
+> Gohma. Ein einziges riesiges Auge,
+> und trotzdem läßt Du Dir genau da
+> reinschießen. Du dumme Sau.
+
+### 060C
+
+Projekttext.
+
+**Seite 1**
+
+> King Dodongo. Jetzt reißt er wieder
+> das Maul auf. Friß die Bombe, Du
+> verfressener Vollidiot!
+
