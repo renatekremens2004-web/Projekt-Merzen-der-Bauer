@@ -1,3 +1,9 @@
+# NPC-Dialoge V2: Wegzusätze entfernt, Twinrova nennt Merz
+
+[Normaler Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_NPC_Dialoge_V2.bps?raw=true) · [Debug-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_NPC_Dialoge_V2.bps?raw=true) · [Änderungen/Prüfung](NPC_Dialoge_V2_Aenderungen.md) · [Quellen](Merzen_NPC_Dialoge_V2_Quellen_Patch.zip?raw=true)
+
+Alle bisherigen Inhalte. Überflüssige Wegzusätze entfernt, bei Koume/Kotakes Kampfeinleitung Ganondorf durch Friedrich Merz ersetzt. Die 35 getrennten Erst-/Wiederholungsdialoge bleiben erhalten. Deutsch, Vanilla PAL 1.0, jeweils einen Gesamtpatch anwenden. Debugsteuerung unverändert.
+
 # Getrennte Erst- und Wiederholungsdialoge
 
 [Normaler Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_NPC_Dialoge.bps?raw=true) · [Debug-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_NPC_Dialoge.bps?raw=true) · [Änderungen/Prüfung](NPC_Dialoge_Aenderungen.md) · [Quellen](Merzen_NPC_Dialoge_Quellen_Patch.zip?raw=true)
