@@ -1,3 +1,9 @@
+# Barinade: rote Spritzer V15
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Barinade_Rot_V15.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Barinade_Rot_V15.bps?raw=true) · [Änderung/Prüfung](Barinade_Rot_V15_Aenderungen.md) · [Quellen](Merzen_Barinade_Rot_V15_Quellen_Patch.zip?raw=true)
+
+Barinades vorhandene grüne Spritzer und Bodenflecken sind jetzt rot. Keine zusätzlichen Partikel oder Speicherbelegung. Alle bisherigen Änderungen enthalten; jeweils auf unveränderte PAL 1.0 anwenden.
+
 # Navi: Eisenstangen V14
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Navi_Knast_V14.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Navi_Knast_V14.bps?raw=true) · [Änderung/Prüfung](Navi_Knast_V14_Aenderungen.md) · [Quellen](Merzen_Navi_Knast_V14_Quellen_Patch.zip?raw=true)
