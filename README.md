@@ -1,3 +1,11 @@
+# Triangle Guy V24
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Triangle_V24.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Triangle_V24.bps?raw=true) · [Video mit Ton](Triangle_Guy_V24_Gesicht_Arme_mit_Ton.mp4?raw=true) · [Änderungen](Triangle_Guy_V24_Aenderungen.md) · [Quellen](Merzen_Triangle_V24_Quellen_Patch.zip?raw=true)
+
+Triangle Guy steht mit Link innerhalb des Feuerrings vor Zelda, hat sauberere Augen und winkende Arme. Mit 4 MiB RAM und regulärem Ansprechen geprüft. Alle bisherigen Änderungen enthalten.
+
+![Triangle Guy](Triangle_Guy_V24.png)
+
 # Goronia V23: Video mit Ton
 
 [MP4 herunterladen](Goronia_Bombe_V23_Test_mit_Ton.mp4?raw=true) · [Hinweise](Goronia_Bombe_V23_Test_mit_Ton.md)
