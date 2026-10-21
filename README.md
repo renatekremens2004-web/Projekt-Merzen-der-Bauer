@@ -1,3 +1,9 @@
+# Finale Burns V5: native Körper mit Burns-Köpfen
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Finale_Burns_V5.bps?raw=true) · [Debug](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Finale_Burns_V5.bps?raw=true) · [Merz-Video](Merz_Ganondorf_Koerper.mp4?raw=true) · [Ganon-Verwandlung](Ganon_Burns_Verwandlung.mp4?raw=true) · [Änderungen/Prüfung](Finale_Burns_V5_Aenderungen.md) · [Quellen](Merzen_Finale_Burns_V5_Quellen_Patch.zip?raw=true)
+
+Kindheit bleibt vollständiger Burns. Erwachsene Ganondorf-Auftritte im Schloß/Finale: nativer Körper mit Burns-Kopf. Ganon: Bestienkörper mit großem Burns-Kopf. Kumulativer Gesamtpatch; je auf Vanilla PAL 1.0 anwenden. Alle bisherigen Inhalte und Texte erhalten.
+
 # Storydialoge Kapitel 1–2 zum Überarbeiten
 
 [Hauptstrang: Intro bis nach Dodongos Höhle](Storydialoge_Kapitel_1_2_Hauptstrang.md) · [Nebenhandlungen/Bewohner](Storydialoge_Kapitel_1_2_Nebenhandlungen.md) · [Hauptstrang als Textdatei](Storydialoge_Kapitel_1_2_Hauptstrang.txt?raw=true) · [Nebenhandlungen als Textdatei](Storydialoge_Kapitel_1_2_Nebenhandlungen.txt?raw=true)
