@@ -1,0 +1,32 @@
+[
+  {
+    "file": "01_Szenenauswahl.png",
+    "rom_sha256": "4d3084c986d3cad88c369fdc4c2bb0eff7876c8fea98d61f2d681ddaa45b8303",
+    "source": "/workspace/bean-rider/screens-debug-release-adult-start-clip-on/the_legend_of_zelda-000.png",
+    "unedited_emulator_capture": true
+  },
+  {
+    "file": "02_Inventar_Editor.png",
+    "rom_sha256": "4d3084c986d3cad88c369fdc4c2bb0eff7876c8fea98d61f2d681ddaa45b8303",
+    "source": "/workspace/bean-rider/screens-debug-release-adult-start-clip-on/the_legend_of_zelda-003.png",
+    "unedited_emulator_capture": true
+  },
+  {
+    "file": "03_Orange_Hellblau_Icons.png",
+    "rom_sha256": "4d3084c986d3cad88c369fdc4c2bb0eff7876c8fea98d61f2d681ddaa45b8303",
+    "source": "/workspace/bean-rider/screens-debug-release-adult-start-clip-on/the_legend_of_zelda-004.png",
+    "unedited_emulator_capture": true
+  },
+  {
+    "file": "04_Wassertempel_Debug.png",
+    "rom_sha256": "4d3084c986d3cad88c369fdc4c2bb0eff7876c8fea98d61f2d681ddaa45b8303",
+    "source": "/workspace/bean-rider/screens-debug-release-adult-start-clip-on/the_legend_of_zelda-007.png",
+    "unedited_emulator_capture": true
+  },
+  {
+    "file": "05_Schattengewand_Spielstand.png",
+    "rom_sha256": "4d3084c986d3cad88c369fdc4c2bb0eff7876c8fea98d61f2d681ddaa45b8303",
+    "source": "/workspace/bean-rider/screens-debug-release-verified-sram-load-clip-on/the_legend_of_zelda-000.png",
+    "unedited_emulator_capture": true
+  }
+]

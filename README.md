@@ -1,3 +1,9 @@
+# Debugversion und passende Gewandicons
+
+[Debug-Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG.bps?raw=true) · [Normaler Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Gewandicons.bps?raw=true) · [Bedienung](Debug_Bedienung.md) · [Bilder](Debug_Beispielbilder/) · [Quellen](Merzen_Debug_Gewandicons_Quellen_Patch.zip?raw=true)
+
+Alle bisherigen Inhalte einschließlich Schattengewand. Orange/hellblaue Gewandicons in beiden Fassungen. Debug: L+R halten und Z drücken; im offenen Pausemenü L für den Inventar-Editor. Je einen Patch auf Vanilla PAL 1.0 anwenden. Separate Testspielstandkopie verwenden. Gezielte 4-MiB-Proben bestanden, kein vollständiger Spieldurchlauf.
+
 # Schattengewand im Brunnen
 
 [Gesamtpatch](Mr_Burns_Mr_Bean_DE_PAL10_Schattengewand.bps?raw=true) · [Bilder](Schattengewand_Beispielbilder/) · [Fundtext](Schattengewand_Fundtext.md) · [Quellen](Merzen_Schattengewand_Quellen_Patch.zip?raw=true)
