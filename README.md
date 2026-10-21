@@ -1,3 +1,9 @@
+# Navi: Eisenstangen V14
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Navi_Knast_V14.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Navi_Knast_V14.bps?raw=true) · [Änderung/Prüfung](Navi_Knast_V14_Aenderungen.md) · [Quellen](Merzen_Navi_Knast_V14_Quellen_Patch.zip?raw=true)
+
+0202: „Ja, dicke Eisenstangen blockieren die Tür. Das erinnert mich an meine Zeit im Knast.“ Alle bisherigen Änderungen enthalten; jeweils auf unveränderte PAL 1.0 anwenden.
+
 # Texttempo und Triple-T-Debugfehler V13
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Texttempo_Wald_V13.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Texttempo_Wald_V13.bps?raw=true) · [Änderungen und Prüfung](Texttempo_Wald_V13_Aenderungen.md) · [Quellen](Merzen_Texttempo_Wald_V13_Quellen_Patch.zip?raw=true)
