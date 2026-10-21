@@ -1,3 +1,11 @@
+# Pingu, Crazy Frog und Terri V25
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Pingu_Frog_Terri_V25.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Pingu_Frog_Terri_V25.bps?raw=true) · [Änderungen](Pingu_Frog_Terri_V25_Aenderungen.md) · [Quellen](Merzen_Pingu_Frog_Terri_V25_Quellen_Patch.zip?raw=true)
+
+Terri ohne Helm ersetzt den Basarhändler. Pingu in der Eishöhle und Crazy Frog am Froschplatz. Kleine Bewegungen, mit 4 MiB RAM geprüft; Basarkauf in beiden Zeitlinien getestet. Alle bisherigen Änderungen enthalten.
+
+![Terri ohne Helm](Terri_V25_Kind.png)
+
 # Triangle Guy V24
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Triangle_V24.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Triangle_V24.bps?raw=true) · [Video mit Ton](Triangle_Guy_V24_Gesicht_Arme_mit_Ton.mp4?raw=true) · [Änderungen](Triangle_Guy_V24_Aenderungen.md) · [Quellen](Merzen_Triangle_V24_Quellen_Patch.zip?raw=true)
