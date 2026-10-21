@@ -1,3 +1,9 @@
+# Ortsnamen V16
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Ortsnamen_V16.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Ortsnamen_V16.bps?raw=true) · [Änderung/Prüfung](Ortsnamen_V16_Aenderungen.md) · [Quellen](Merzen_Ortsnamen_V16_Quellen_Patch.zip?raw=true)
+
+Deutsche Ortsnamen: Friedrichs Schloß (Einblendung und Karte), Mr. Beans Haus (neue native Hauseinblendung, Kind und Erwachsener mit 4 MiB geprüft). Alle bisherigen Änderungen enthalten; jeweils auf unveränderte PAL 1.0 anwenden.
+
 # Barinade: rote Spritzer V15
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Barinade_Rot_V15.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Barinade_Rot_V15.bps?raw=true) · [Änderung/Prüfung](Barinade_Rot_V15_Aenderungen.md) · [Quellen](Merzen_Barinade_Rot_V15_Quellen_Patch.zip?raw=true)

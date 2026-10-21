@@ -1,0 +1,9 @@
+# Ortsnamen – V16
+
+Ganons Schloß heißt in der deutschen Einblendung außen und innen jetzt „Friedrichs Schloß“. Der deutsche Kartenname ist ebenfalls entsprechend umbenannt. Die bisherigen IA8-Größen 144×24 bzw. 80×32 bleiben erhalten; alle anderen Sprachbereiche dieser Dateien sind bytegleich.
+
+Impas Haus hat bisher keinen eigenen Ortsnamen-Titel. Es bekommt jetzt beim normalen Betreten in beiden Zeitlinien „Mr. Beans Haus“. Dafür wird ein eigener IA8-Titel mit den üblichen drei PAL-Sprachplätzen an das Ende der ROM-Dateitabelle angehängt (10.368 Bytes unkomprimiert, andere Sprachplätze transparent). Alle bisherigen DMA-Indizes bleiben erhalten. Der Titel verwendet den bereits vorhandenen Player-Titelpuffer von 12.288 Bytes; keine neuen NPCs, kein zusätzlich allozierter Titelpuffer. Die einzige Szenenänderung ist der Titeldatei-Verweis des Hauses. Keine Änderung an Türen, Questflags, Schauspielern, Dialogen oder Titelzeiten.
+
+Validierung: beide Hauseingänge als Kind/Erwachsener mit echten 4 MiB geprüft; native Titel-Einblendung, Transparenzverlauf und geladene deutsche Pixelbytes stimmen mit der kompilierten Textur überein. Screenshots visuell geprüft. Schloß-Grafiken zusätzlich über exakte Texturbereiche geprüft. Normal/DEBUG: korrekte N64-Prüfsummen, identische übrige Modell-/Text-/Spieldaten; außerhalb der neuen Titeldatei und drei deutschen Grafikbereiche nur die zwei beabsichtigten Haus-Titelverweise und geprüfte Linker-Adressen durch die zusätzliche Dateitabellenzeile. BPS mit RomPatcher.js bytegleich gegen die Builds validiert. Kein vollständiger Durchlauf.
+
+Alle bisherigen Änderungen inklusive V15 enthalten. Normal ODER DEBUG auf unveränderte europäische PAL 1.0 anwenden. Spielstand normal laden und den Ort neu betreten. DEBUG-Menü weiterhin L+R halten und Z drücken.
