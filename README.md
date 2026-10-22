@@ -1,3 +1,19 @@
+# V39: Goronen-Soldaten und korrigierte Credits-Standorte
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Soldaten_V39.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Soldaten_V39.bps?raw=true) · [Änderungen und alle sechs Dialoge](Soldaten_V39_Aenderungen.md) · [Quellen und Patches](Merzen_Soldaten_V39_Quellen_Patch.zip?raw=true)
+
+Sieben bewaffnete Goronen in der Erwachsenen-Zeitlinie: zwei vor Goronia, einer neben der Bombe, zwei am Todesberg-Tor, einer in Kakariko und einer in den Verlorenen Wäldern. Sie bleiben stehen und tragen die neuen Gespräche. Alle bisherigen Änderungen sind enthalten.
+
+Wawario und Wawaluigi stehen in den Credits auf einem vorhandenen Dach, Mauzi direkt auf dem Boden. [MP4 mit Originalmusik](Credits_Mauzi_Wawa_V39.mp4?raw=true).
+
+![Goronen-Soldat in Kakariko](Goronen_Soldaten_Kakariko_V39.png)
+
+![Wawa-Brüder auf dem vorhandenen Dach](Credits_Wawa_V39.png)
+
+Normal und DEBUG in den geänderten Abschnitten mit 4 MiB geprüft. DEBUG: L+R halten → Z → „Credits starten“ → A.
+
+Patch auf die saubere europäische PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # V38: Credits und zusätzliche Feuertempel-Texte
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V38.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V38.bps?raw=true) · [Änderungen und Dialoge](Credits_V38_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V38_Quellen_Patch.zip?raw=true)
