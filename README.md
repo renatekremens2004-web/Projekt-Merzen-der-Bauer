@@ -1,3 +1,15 @@
+# Credits V35: Deku-Händler in der Mitte
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V35.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V35.bps?raw=true) · [Änderungen](Credits_V35_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V35_Quellen_Patch.zip?raw=true)
+
+Der bestehende tanzende Deku-Händler steht jetzt zwischen Pepsiman und der Hühnerfrau, leicht nach hinten versetzt. Alle anderen Positionen und Animationen bleiben unverändert. Alle bisherigen Änderungen enthalten. Einstellung in Normal und DEBUG mit 4 MiB geprüft.
+
+[MP4 mit Originalmusik und Spielgeräuschen](Credits_Deku_Mitte_V35.mp4?raw=true)
+
+![Deku-Händler zwischen Pepsiman und Hühnerfrau](Credits_Deku_Mitte_V35.png)
+
+Patch auf eine saubere PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # Credits V34: Pinguin-Tänze und Pepsiman/Crocker im Gespräch
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V34.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V34.bps?raw=true) · [Änderungen](Credits_V34_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V34_Quellen_Patch.zip?raw=true)
