@@ -1,3 +1,15 @@
+# Credits V29
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V29.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V29.bps?raw=true) · [Änderungen](Credits_V29_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V29_Quellen_Patch.zip?raw=true)
+
+Neue Credits-Gäste samt Tänzen, Wario bei Mido und König Zora, Mystery Inc mit Wagen und Marty/Doc im letzten Hof. Originale Bowlingfrau und die beiden Riesen-Goronen entfernt. Alle früheren Änderungen enthalten. Gezielt mit 4 MiB RAM geprüft.
+
+**MP4 mit Spielton:** [Ranch-Credits](Credits_Gaeste_V29.mp4?raw=true) · [Marty und Doc im letzten Hof](Marty_Doc_Credits_V29.mp4?raw=true)
+
+![Die Pinguine und Pingu](Credits_Pinguine_V29.png)
+
+[Credits Fanboy ChumChum V29](Credits_Fanboy_ChumChum_V29.png) · [Credits Wundererbsen V29](Credits_Wundererbsen_V29.png) · [Credits Mystery Inc V29](Credits_Mystery_Inc_V29.png) · [Credits Taenzer V29](Credits_Taenzer_V29.png) · [Credits Pepsiman V29](Credits_Pepsiman_V29.png) · [Credits Wawario Bros V29](Credits_Wawario_Bros_V29.png) · [Credits Wario V29](Credits_Wario_V29.png) · [Credits Marty Doc V29](Credits_Marty_Doc_V29.png)
+
 # Franky und Handhelds V28
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Franky_Handhelds_V28.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Franky_Handhelds_V28.bps?raw=true) · [Änderungen](Franky_Handhelds_V28_Aenderungen.md) · [Quellen](Merzen_Franky_Handhelds_V28_Quellen_Patch.zip?raw=true)
