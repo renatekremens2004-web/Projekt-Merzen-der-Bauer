@@ -1,3 +1,15 @@
+# Credits V30
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V30.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V30.bps?raw=true) · [Änderungen](Credits_V30_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V30_Quellen_Patch.zip?raw=true)
+
+Lockerere Gruppen im Hintergrund, geerdete Figuren mit Szenenlicht und Schatten, mehr Abstand zwischen Wario und Mido, angepaßte Teppich-Sitzflächen und Marty/Doc neben Link. Kleine Tänze für Fanboy und Crocker. Franky unverändert. Alle früheren Änderungen enthalten. Gezielt mit 4 MiB geprüft.
+
+**MP4 mit Spielton:** [Ranch-Credits](Credits_Gaeste_V30.mp4?raw=true) · [Letzter Hof](Marty_Doc_Credits_V30.mp4?raw=true) · [Fanboy/Crocker-Tanz](Fanboy_Crocker_Tanz_V30.mp4?raw=true)
+
+![Übersicht](Credits_Uebersicht_V30.png)
+
+[Credits Pinguine V30](Credits_Pinguine_V30.png) · [Credits Fanboy ChumChum V30](Credits_Fanboy_ChumChum_V30.png) · [Credits Wundererbsen V30](Credits_Wundererbsen_V30.png) · [Credits Mystery Inc V30](Credits_Mystery_Inc_V30.png) · [Credits Taenzer V30](Credits_Taenzer_V30.png) · [Credits Pepsiman V30](Credits_Pepsiman_V30.png) · [Credits Wawario Bros V30](Credits_Wawario_Bros_V30.png) · [Credits Wario V30](Credits_Wario_V30.png) · [Credits Marty Doc V30](Credits_Marty_Doc_V30.png) · [Credits Mido Rueckansicht V30](Credits_Mido_Rueckansicht_V30.png)
+
 # Credits V29
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V29.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V29.bps?raw=true) · [Änderungen](Credits_V29_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V29_Quellen_Patch.zip?raw=true)
