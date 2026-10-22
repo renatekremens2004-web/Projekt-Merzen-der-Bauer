@@ -1,3 +1,15 @@
+# Credits V36: Abspann aus dem Debug-Menü starten
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V36.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V36.bps?raw=true) · [Änderungen](Credits_V36_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V36_Quellen_Patch.zip?raw=true)
+
+DEBUG: L+R gedrückt halten und Z drücken → ganz oben „Credits starten“ wählen → A. Der Abspann startet mit Originalmusik und läuft über seine normalen Szenenwechsel weiter. Der Deku-Händler hält jetzt eine Pepsi-Dose, die seiner Handanimation folgt. Alle bisherigen Änderungen enthalten. Mit 4 MiB geprüft.
+
+[MP4 mit Originalmusik und Spielgeräuschen](Credits_Deku_Pepsi_V36.mp4?raw=true)
+
+![Deku-Händler mit Pepsi-Dose](Credits_Deku_Pepsi_V36.png)
+
+Patch auf eine saubere PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # Credits V35: Deku-Händler in der Mitte
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V35.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V35.bps?raw=true) · [Änderungen](Credits_V35_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V35_Quellen_Patch.zip?raw=true)
