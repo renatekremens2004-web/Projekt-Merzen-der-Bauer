@@ -1,3 +1,5 @@
+[Gesamter aktueller Dialog: Gerudotal, Wüste und Geistertempel](Storydialoge_Gerudotal_Wueste_Geistertempel.md) · [Textdatei](Storydialoge_Gerudotal_Wueste_Geistertempel.txt?raw=true)
+
 # V39: Goronen-Soldaten und korrigierte Credits-Standorte
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Soldaten_V39.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Soldaten_V39.bps?raw=true) · [Änderungen und alle sechs Dialoge](Soldaten_V39_Aenderungen.md) · [Quellen und Patches](Merzen_Soldaten_V39_Quellen_Patch.zip?raw=true)
