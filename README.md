@@ -1,3 +1,15 @@
+# Credits V37: Goronen räumen die CDU-Bombe weg
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V37.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V37.bps?raw=true) · [Änderungen](Credits_V37_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V37_Quellen_Patch.zip?raw=true)
+
+Vier Goronen tragen mit Soldatenhelmen die CDU-Bombe, ein Einweiser gibt Rangierzeichen und drei Goronen mit gelben Bauhelmen nähern sich im Hintergrund. Nur die erste Todesberg-Kamerafahrt im Abspann. Alle bisherigen Änderungen enthalten. Normal und DEBUG mit 4 MiB geprüft. DEBUG: L+R halten → Z → „Credits starten“ → A.
+
+[MP4 mit Originalmusik und Spielgeräuschen](Credits_Goronen_Bombe_V37.mp4?raw=true)
+
+![Goronen beim Abtransport der CDU-Bombe](Credits_Goronen_Bombe_V37.png)
+
+Patch auf eine saubere PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # Credits V36: Abspann aus dem Debug-Menü starten
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V36.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V36.bps?raw=true) · [Änderungen](Credits_V36_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V36_Quellen_Patch.zip?raw=true)
