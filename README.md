@@ -1,3 +1,23 @@
+# V38: Credits und zusätzliche Feuertempel-Texte
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V38.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V38.bps?raw=true) · [Änderungen und Dialoge](Credits_V38_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V38_Quellen_Patch.zip?raw=true)
+
+Darunia, Wallace und Darunias Sohn haben die zusätzlichen Gesprächstexte; der Inquisitionssatz ist entfernt. Außerdem: überarbeiteter Bombentransport mit vier Bauhelm-Goronen, türkisfarbener Okto, Rutos Rückkehr sowie Wawario, Wawaluigi und Mauzi in den Credits. Alle bisherigen Änderungen sind enthalten.
+
+Normal und DEBUG in den geänderten Abschnitten mit 4 MiB geprüft. DEBUG: L+R halten → Z → „Credits starten“ → A. Die natürliche Credits-Kette und die Rückkehr ins Spiel funktionieren mit Originalmusik.
+
+Videos mit Spielmusik und Spielgeräuschen:
+
+- [Mauzi und die Wawa-Figuren](Credits_Mauzi_Wawa_V38.mp4?raw=true)
+- [Goronen und Bombe](Credits_Goronen_Bombe_V38.mp4?raw=true)
+- [Okto und Ruto](Credits_Okto_Ruto_V38.mp4?raw=true)
+
+![Bombentransport](Credits_Goronen_V38.png)
+
+![Okto](Credits_Okto_V38.png)
+
+Patch auf die saubere europäische PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # Credits V37: Goronen räumen die CDU-Bombe weg
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V37.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V37.bps?raw=true) · [Änderungen](Credits_V37_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V37_Quellen_Patch.zip?raw=true)
