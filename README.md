@@ -1,3 +1,19 @@
+# V40: Panzer, Grenz-Soldaten und originale Credits-Kamera
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Panzer_V40.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Panzer_V40.bps?raw=true) · [Änderungen](Panzer_V40_Aenderungen.md) · [Quellen und Patches](Merzen_Panzer_V40_Quellen_Patch.zip?raw=true)
+
+[Gesamter Dialog: Gerudotal, Wüste und Geistertempel](Storydialoge_Gerudotal_Wueste_Geistertempel.md) · [Textdatei](Storydialoge_Gerudotal_Wueste_Geistertempel.txt?raw=true)
+
+Acht Panzer: drei am erwachsenen Todesberg, je zwei im Gerudotal und davor im Hyrule-Feld, einer allein in der Ferne im Mauzi-Credits-Shot. Dazu sechs neue bewaffnete Goronen mit Deinen Grenz-Dialogen. Armeehelme sitzen tiefer. Alle bisherigen Änderungen sind enthalten.
+
+Die Original-Kamerafahrt ist wiederhergestellt. Wawario steht links und Wawaluigi rechts auf dem vorhandenen Dach; der Zaun bleibt erhalten. [Credits-MP4 mit Originalmusik](Credits_Mauzi_Panzer_Wawa_V40.mp4?raw=true).
+
+![Panzer am Gerudotal](Panzer_Gerudotal_V40.png)
+
+![Mauzi und der entfernte Panzer](Credits_Mauzi_Panzer_V40.png)
+
+Gezielte Tests mit 4 MiB. Patch auf die saubere europäische PAL 1.0 .z64 anwenden. DEBUG: L+R halten und Z drücken.
+
 [Gesamter aktueller Dialog: Gerudotal, Wüste und Geistertempel](Storydialoge_Gerudotal_Wueste_Geistertempel.md) · [Textdatei](Storydialoge_Gerudotal_Wueste_Geistertempel.txt?raw=true)
 
 # V39: Goronen-Soldaten und korrigierte Credits-Standorte

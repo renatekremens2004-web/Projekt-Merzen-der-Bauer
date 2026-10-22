@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Gerudotal, Wüste und Geistertempel
 
-Stand: 23. Oktober 2026. Direkt aus dem aktuell eingebauten deutschen Nachrichtentext exportiert. Die Kamerakorrektur verändert keine Dialoge. Die neuen Panzer-Soldaten aus Deiner jüngsten Nachricht stehen am Ende separat als noch im Einbau.
+Stand: 23. Oktober 2026. Direkt aus dem aktuell eingebauten deutschen Nachrichtentext exportiert. Die Kamerakorrektur verändert keine Dialoge. Die sechs neuen Grenz-Soldaten-Texte sind ebenfalls enthalten (7206–720B).
 
 Text-IDs, Seiten und Auswahlantworten entsprechen den Spieltexten. [Spielername] bleibt dynamisch. Bedingte Antworten, Wiederholungen und alternative Zustände werden nicht automatisch alle nacheinander gesprochen. Zeilenumbrüche innerhalb einer Seite sind nur für die Lesbarkeit zusammengezogen.
 
@@ -1991,6 +1991,52 @@ Ich verkaufe... Krabbelminen!
 
 Das Zeichen, welches Euch zum Geistertempel führt, ist die Flagge zur Linken außerhalb des Ladens. Schaut mal wieder vorbei!
 
+## 19. Neue Grenz-Soldaten bei den Panzern
+
+### 7206
+
+**Seite 1**
+
+Diese Gerudo-Kriegerinnen haben die Brücke gekappt. Was soll sowas?? Ach, Moment mal, wir sind ja die Invasoren... Dann ist's vielleicht doch
+
+**Seite 2**
+
+gar nicht mal so unberechtigt.
+
+### 7207
+
+**Seite 1**
+
+Merz hat uns den Auftrag gegeben, an der Grenze zum Gerudotal eine Militärübung durchzuführen. Ich wußte nicht, daß wir den Auftrag zum
+
+**Seite 2**
+
+Angriff bekommen würden.
+
+### 7208
+
+**Seite 1**
+
+Ich will wieder zum Todesberg zurück und mies Steine fressen!
+
+### 7209
+
+**Seite 1**
+
+Wir haben klare Anordnungen, auf die ich ganz klar keinen Bock hab.
+
+### 720A
+
+**Seite 1**
+
+Bis zur nächsten Woche haben wir das Ding hier erobert!
+
+### 720B
+
+**Seite 1**
+
+Ich hasse Rock Music. Sie geht mir auf den Goronen-Sack!
+
 ## 18. Späterer Rückbezug – Waluigi beim Geistersiegel und Navis dritte Handschuhe
 
 ### 70E4
@@ -2012,18 +2058,4 @@ Navi: Yo, ich faß es nicht! Was hab ich gesagt? Ich hab noch gesagt, hoffentlic
 **Seite 3**
 
 Und jetzt liegt das hier einfach! Ey, ich hab es vorhergesagt. Merk Dir den Moment bitte, ich war meiner Zeit voraus!
-
-## Neue Grenz-Soldaten – beauftragt, noch im Einbau
-
-Diese Gerudo Kriegerinnen haben die Brücke gekappt. Was soll sowas?? Ach Moment Mal, wir sind ja die Invasoren...dann ist's vielleicht doch gar nicht mal so unberechtigt.
-
-Merz hat uns den Auftrag gegeben an der Grenze zum Gerudotal eine Militärübung durchzuführen. Ich wusste nicht, das wir den Auftrag zum Angriff bekommen würden.
-
-Ich will wieder zum Todesberg zurück und mies Steine fressen!
-
-Wir haben klare Anordnungen auf die ich ganz klar keinen Bock hab.
-
-Bis zur nächsten Woche haben wir das Ding hier erobert!
-
-Ich hasse Rock Music. Sie geht mir auf den Goronen-Sack!
 

@@ -1,6 +1,6 @@
 {
-  "source_sha256": "acf075dbce895473198fc1e487c2c119a372f701a0eef69d2432915184355d40",
-  "total_messages": 160,
+  "source_sha256": "31a3517837c849df34e9f3ba329cde1a318e3c70bfb08e5a4c0169b8aac6e8b8",
+  "total_messages": 166,
   "messages": [
     {
       "id": "0156",
@@ -1968,6 +1968,74 @@
       "project_sources": []
     },
     {
+      "id": "7206",
+      "section": "19. Neue Grenz-Soldaten bei den Panzern",
+      "pages": [
+        "Diese Gerudo-Kriegerinnen haben die\nBrücke gekappt. Was soll sowas??\nAch, Moment mal, wir sind ja die\nInvasoren... Dann ist's vielleicht doch",
+        "gar nicht mal so unberechtigt."
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "7207",
+      "section": "19. Neue Grenz-Soldaten bei den Panzern",
+      "pages": [
+        "Merz hat uns den Auftrag gegeben,\nan der Grenze zum Gerudotal eine\nMilitärübung durchzuführen. Ich wußte\nnicht, daß wir den Auftrag zum",
+        "Angriff bekommen würden."
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "7208",
+      "section": "19. Neue Grenz-Soldaten bei den Panzern",
+      "pages": [
+        "Ich will wieder zum Todesberg zurück\nund mies Steine fressen!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "7209",
+      "section": "19. Neue Grenz-Soldaten bei den Panzern",
+      "pages": [
+        "Wir haben klare Anordnungen, auf die\nich ganz klar keinen Bock hab."
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "720A",
+      "section": "19. Neue Grenz-Soldaten bei den Panzern",
+      "pages": [
+        "Bis zur nächsten Woche haben wir\ndas Ding hier erobert!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "720B",
+      "section": "19. Neue Grenz-Soldaten bei den Panzern",
+      "pages": [
+        "Ich hasse Rock Music. Sie geht mir\nauf den Goronen-Sack!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
       "id": "70E4",
       "section": "18. Späterer Rückbezug – Waluigi beim Geistersiegel und Navis dritte Handschuhe",
       "pages": [
@@ -1996,5 +2064,23 @@
       ]
     }
   ],
-  "cutscene_coverage": []
+  "cutscene_coverage": [
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot11/gDesertColossusRequiemOfSpiritCs.csdata.inc.c",
+      "ids": [
+        "600C",
+        "0076"
+      ]
+    },
+    {
+      "source": "src/overlays/actors/ovl_En_Nb/z_en_nb_cutscene_data.inc.c",
+      "ids": [
+        "6035",
+        "6039",
+        "603A",
+        "003F",
+        "6036"
+      ]
+    }
+  ]
 }
