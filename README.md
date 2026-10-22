@@ -1,3 +1,17 @@
+# V41: Wawa-Brüder am mittleren Festungsausgang
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V41.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V41.bps?raw=true) · [Quellen und Patches](Merzen_Credits_V41_Quellen_Patch.zip?raw=true) · [Änderungen](Credits_V41_Aenderungen.md)
+
+Wawario links direkt vor dem tatsächlichen mittleren Durchgang, Wawaluigi rechts daneben, beide einander zugewandt. Die Original-Kamerafahrt bleibt unverändert. In Mauzis Einstellung stehen jetzt vier entfernte, verlassene Panzer.
+
+[MP4 mit Originalmusik](Credits_Wawa_Durchgang_Panzer_V41.mp4?raw=true)
+
+![Wawa-Brüder direkt am Durchgang](Credits_Wawa_Durchgang_V41.png)
+
+![Mauzi und vier entfernte Panzer](Credits_Mauzi_Panzer_V41.png)
+
+Normal und DEBUG mit 4 MiB geprüft. Auf eine saubere europäische PAL-1.0-ROM anwenden; alle bisherigen Änderungen sind enthalten. DEBUG: L+R halten und Z drücken.
+
 # V40: Panzer, Grenz-Soldaten und originale Credits-Kamera
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Panzer_V40.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Panzer_V40.bps?raw=true) · [Änderungen](Panzer_V40_Aenderungen.md) · [Quellen und Patches](Merzen_Panzer_V40_Quellen_Patch.zip?raw=true)
