@@ -1,3 +1,17 @@
+# Credits V33: Pingu-Tanz, Tresen-Terri und große Gesten
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V33.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V33.bps?raw=true) · [Änderungen](Credits_V33_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V33_Quellen_Patch.zip?raw=true)
+
+Pingu sichtbar rechts hinter Mario mit schnellen, großen Flossenbewegungen. Terri schaut über die Kiste, seine Beine bleiben verdeckt. Crocker steht links von Pepsiman und hält eine Pepsi; Shaggy/Fred gestikulieren deutlich stärker. Alle bisherigen Änderungen enthalten; Normal und DEBUG mit 4 MiB geprüft.
+
+**MP4 mit originaler Credits-Musik und Spielgeräuschen:** [Komplette Ranch-Feier](Credits_Gaeste_V33.mp4?raw=true) · [Kurzer Zusammenschnitt der Änderungen](Credits_Feinschliff_V33.mp4?raw=true)
+
+![Terri hinter der Kiste](Credits_Terri_V33.png)
+
+[Credits Pingu V33](Credits_Pingu_V33.png) · [Credits Terri V33](Credits_Terri_V33.png) · [Credits Mystery Inc V33](Credits_Mystery_Inc_V33.png) · [Credits Taenzer V33](Credits_Taenzer_V33.png) · [Credits Crocker Pepsi V33](Credits_Crocker_Pepsi_V33.png) · [Credits Pepsi Dosen V33](Credits_Pepsi_Dosen_V33.png)
+
+Die Musik stammt direkt aus der Emulation. Für den Testeinstieg wurde der übernommene Musikstatus zurückgesetzt; Musikdaten und Audiologik im Spiel wurden nicht geändert. Beide Patches auf eine saubere PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # Credits V32: Verteilung, Gesten und Originalmusik
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V32.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V32.bps?raw=true) · [Änderungen](Credits_V32_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V32_Quellen_Patch.zip?raw=true)
