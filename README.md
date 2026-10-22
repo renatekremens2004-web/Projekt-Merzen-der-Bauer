@@ -1,3 +1,17 @@
+# Credits V32: Verteilung, Gesten und Originalmusik
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V32.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V32.bps?raw=true) · [Änderungen](Credits_V32_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V32_Quellen_Patch.zip?raw=true)
+
+Crocker frei sichtbar, Terri hinter der Kiste mit bewegten Armen, nähere Kamerafahrt der Viererreihe, Gesprächsgesten für Shaggy/Fred und mehr Abstand der Pinguine zu den Zoras. Alle bisherigen Änderungen enthalten; Normal und DEBUG mit 4 MiB geprüft.
+
+**MP4 mit originaler Credits-Musik und Spielgeräuschen:** [Komplette Ranch-Feier](Credits_Gaeste_V32.mp4?raw=true) · [Kurzer Zusammenschnitt der Änderungen](Credits_Feinschliff_V32.mp4?raw=true)
+
+![Terri hinter der Kiste](Credits_Terri_V32.png)
+
+[Credits Pinguine V32](Credits_Pinguine_V32.png) · [Credits Terri V32](Credits_Terri_V32.png) · [Credits Mystery Inc V32](Credits_Mystery_Inc_V32.png) · [Credits Taenzer V32](Credits_Taenzer_V32.png) · [Credits Crocker Deku Pepsi V32](Credits_Crocker_Deku_Pepsi_V32.png) · [Credits Pepsi Dosen V32](Credits_Pepsi_Dosen_V32.png)
+
+Die Musik stammt direkt aus der Emulation. Für den Testeinstieg wurde der übernommene Musikstatus zurückgesetzt; Musikdaten und Audiologik im Spiel wurden nicht geändert. Beide Patches auf eine saubere PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # Credits und zweiter Erbsenhändler V31
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V31.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V31.bps?raw=true) · [Änderungen](Credits_V31_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V31_Quellen_Patch.zip?raw=true)
