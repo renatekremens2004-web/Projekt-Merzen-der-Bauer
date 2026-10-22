@@ -1,3 +1,15 @@
+# Credits und zweiter Erbsenhändler V31
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V31.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V31.bps?raw=true) · [Änderungen](Credits_V31_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V31_Quellen_Patch.zip?raw=true)
+
+Volle Tanzstärke für Fanboy und Crocker, Fanboy/Chum Chum getauscht, schnellere Wawa-Arme, nähere Vierer-Tanzreihe, sechs Pepsi-Dosen und ein tanzender Deku-Händler. Neuer zweiter Erbsenhändler mit Chips-Dialog am Zora-Fluß, nur als Kind. Echter Wario und die Teppich-Anpassung unverändert. Alle früheren Änderungen enthalten; gezielt mit 4 MiB geprüft.
+
+**MP4 mit Spielton:** [Kurzes Tanzupdate](Credits_Tanzupdate_V31.mp4?raw=true) · [Komplette Ranch-Feier](Credits_Gaeste_V31.mp4?raw=true)
+
+![Der andere Erbsenhändler](Erbsenhaendler_Chips_V31.png)
+
+[Credits Fanboy ChumChum V31](Credits_Fanboy_ChumChum_V31.png) · [Credits Taenzer V31](Credits_Taenzer_V31.png) · [Credits Crocker Deku Pepsi V31](Credits_Crocker_Deku_Pepsi_V31.png) · [Credits Pepsi Dosen V31](Credits_Pepsi_Dosen_V31.png) · [Credits Wawario Bros V31](Credits_Wawario_Bros_V31.png) · [Anderer Erbsenhaendler V31](Anderer_Erbsenhaendler_V31.png) · [Erbsenhaendler Chips V31](Erbsenhaendler_Chips_V31.png)
+
 # Credits V30
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V30.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V30.bps?raw=true) · [Änderungen](Credits_V30_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V30_Quellen_Patch.zip?raw=true)
