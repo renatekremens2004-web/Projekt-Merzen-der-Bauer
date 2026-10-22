@@ -1,3 +1,17 @@
+# Credits V34: Pinguin-Tänze und Pepsiman/Crocker im Gespräch
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V34.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V34.bps?raw=true) · [Änderungen](Credits_V34_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V34_Quellen_Patch.zip?raw=true)
+
+Pepsiman und Crocker schauen einander an und gestikulieren wie in einem Gespräch. Die vier Madagascar-Pinguine tanzen mit großen, schnellen Flossenbewegungen. Terris Arme sind entspannt abgesenkt; Beine und Unterkörper bleiben hinter der Kiste verdeckt. Der bestätigte Pingu-Auftritt und Shaggy/Fred bleiben unverändert. Alle bisherigen Änderungen enthalten; Normal und DEBUG mit 4 MiB geprüft.
+
+**MP4 mit originaler Credits-Musik und Spielgeräuschen:** [Komplette Ranch-Feier](Credits_Gaeste_V34.mp4?raw=true) · [Kurzer Zusammenschnitt der Änderungen](Credits_Feinschliff_V34.mp4?raw=true)
+
+![Terri hinter der Kiste](Credits_Terri_V34.png)
+
+[Credits Pinguine V34](Credits_Pinguine_V34.png) · [Credits Pinguine Goronen V34](Credits_Pinguine_Goronen_V34.png) · [Credits Terri V34](Credits_Terri_V34.png) · [Credits Crocker Pepsi V34](Credits_Crocker_Pepsi_V34.png)
+
+Die Musik stammt direkt aus der Emulation. Für den Testeinstieg wurde der übernommene Musikstatus zurückgesetzt; Musikdaten und Audiologik im Spiel wurden nicht geändert. Beide Patches auf eine saubere PAL 1.0 .z64 anwenden, nicht auf eine ältere gepatchte Version.
+
 # Credits V33: Pingu-Tanz, Tresen-Terri und große Gesten
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V33.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V33.bps?raw=true) · [Änderungen](Credits_V33_Aenderungen.md) · [Quellen und Patches](Merzen_Credits_V33_Quellen_Patch.zip?raw=true)
