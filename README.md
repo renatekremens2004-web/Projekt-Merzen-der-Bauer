@@ -1,3 +1,11 @@
+# Brunnen-Ergänzung V27
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Brunnen_V27.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Brunnen_V27.bps?raw=true) · [Änderungen](Brunnen_V27_Aenderungen.md) · [Quellen](Merzen_Brunnen_V27_Quellen_Patch.zip?raw=true)
+
+Kleine statische Anordnung der hochgeladenen Modelle auf vorhandener roter Bodenfläche im Brunnen, mit Navis Kommentar. Pinguine und Dynamit sind in den Einsturz-Fluchtszenen nicht enthalten. Alle bisherigen Änderungen enthalten. Gezielt mit 4 MiB RAM geprüft.
+
+![Brunnen und Navi](Brunnen_V27_Navi.png)
+
 # Pinguine und Modellkorrekturen V26
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Pinguine_Fixes_V26.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Pinguine_Fixes_V26.bps?raw=true) · [Änderungen](Pinguine_Fixes_V26_Aenderungen.md) · [Quellen](Merzen_Pinguine_Fixes_V26_Quellen_Patch.zip?raw=true)
