@@ -1,3 +1,15 @@
+# Franky und Handhelds V28
+
+[Normal](Mr_Burns_Mr_Bean_DE_PAL10_Franky_Handhelds_V28.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Franky_Handhelds_V28.bps?raw=true) · [Änderungen](Franky_Handhelds_V28_Aenderungen.md) · [Quellen](Merzen_Franky_Handhelds_V28_Quellen_Patch.zip?raw=true)
+
+Franky die Heugabel auf der Farm, im Schloß, kaputt in der Endarena und geklebt in der Farmfeier der Credits. Navi-Fundstück im Krater; Game Boy Color und Advance im Kokiri-Tunnel, je nach Links Alter. Alle früheren Änderungen enthalten. Gezielt mit 4 MiB RAM geprüft.
+
+[Franky-Credits als MP4](Franky_Credits_V28.mp4?raw=true) · [Barinades Todessequenz als MP4](Barinade_Todessequenz_V28.mp4?raw=true)
+
+![Franky in den Credits](Franky_Credits_V28.png)
+
+[Franky Farm Kind V28](Franky_Farm_Kind_V28.png) · [Franky Farm Erwachsen V28](Franky_Farm_Erwachsen_V28.png) · [Franky Schloss V28](Franky_Schloss_V28.png) · [Franky Kaputt V28](Franky_Kaputt_V28.png) · [Triple T Credits V28](Triple_T_Credits_V28.png) · [Triple T Abspann V28](Triple_T_Abspann_V28.png) · [Krater V28](Krater_V28.png) · [Game Boy Color V28](Game_Boy_Color_V28.png) · [Game Boy Advance V28](Game_Boy_Advance_V28.png)
+
 # Brunnen-Ergänzung V27
 
 [Normal](Mr_Burns_Mr_Bean_DE_PAL10_Brunnen_V27.bps?raw=true) · [DEBUG](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Brunnen_V27.bps?raw=true) · [Änderungen](Brunnen_V27_Aenderungen.md) · [Quellen](Merzen_Brunnen_V27_Quellen_Patch.zip?raw=true)
