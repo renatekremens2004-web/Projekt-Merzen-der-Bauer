@@ -1,0 +1,2163 @@
+{
+  "source_sha256": "27ce8b0bdcbe075abeea1da941cacd6acb39286e1e7ad65278d18757dca0d274",
+  "scope": "Nach Wassertempel bis Abschluß Schattentempel",
+  "total_messages": 153,
+  "cutscene_coverage": [
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot01/gKakarikoVillageNocturnePart1Cs.csdata.inc.c",
+      "ids": [
+        "501B"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot01/gKakarikoVillageNocturnePart2Cs.csdata.inc.c",
+      "ids": [
+        "5030",
+        "501C",
+        "5031",
+        "0077",
+        "501D"
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "id": "0154",
+      "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
+      "pages": [
+        "Okay, supi! Langsam gehen uns die\nOrte aus. Also laß mal wieder zurück\nnach Kakariko gehen und die Mühle\nvon dem einen Typen versauen!"
+      ],
+      "controls": [],
+      "notes": "Navis Story-Hinweis nach dem Wasseramulett, vor Kakarikos Folgeereignis.",
+      "locations": [],
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ]
+    },
+    {
+      "id": "501B",
+      "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
+      "pages": [
+        "Zurück, [Spielername]!"
+      ],
+      "controls": [],
+      "notes": "Sheiks kurzer Warnruf zu Beginn des brennenden Kakariko-Ereignisses.",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5030",
+      "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
+      "pages": [
+        "Okay, ich sehe, Du hast noch genug\nHerzen. Na perfekt. Solltest aber\nvielleicht mal mehr Herzteile sammeln."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "501C",
+      "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
+      "pages": [
+        "[Spielername], es gab da einst\neinen Dämon, den jemand im Brunnen\neingesperrt hat. Das war Mr. Bean!\nNur er kommt auf sowas Verrücktes.",
+        "Das absolute Genie, der Typ.",
+        "Na ja, jetzt ist die Kraft des Dämons\ngewachsen. Irgendwie wegen Friedrich\nMerz. Der ist, glaube ich, selbst ein\nDämon. Seine Frisur sieht zumindest",
+        "dämonisch beschissen aus.",
+        "Und das Siegel ist jetzt halt\ngebrochen, ne? Und ja, ist jetzt halt\nMist, ne?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0155",
+      "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
+      "pages": [
+        "Okay, das komische Ding kam\neindeutig aus dem Brunnen. Glaubst\nDu, das wird jetzt der nächste\nDungeon sein? Einfach so? Der",
+        "Brunnen von Kakariko? Müssen wir\ndann das Brunnenlied lernen?"
+      ],
+      "controls": [],
+      "notes": "Bedingter Navi-Story-Hinweis. Nicht jede hier aufgeführte Navi-ID wird automatisch aufgerufen.",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "5031",
+      "section": "2. Sheik und Nocturne des Schattens",
+      "pages": [
+        "[Spielername], leider ist Mr. Bean\nnicht mehr hier. Damals hat er Zelda\nbei der Flucht aus dem Schloß gut\nbeschützt. Davon hast Du ja sogar",
+        "geträumt.",
+        "Dann verlor er gegen Merz. Die haben\nkrass gekämpft, aber Merz spielte\nunfair. Muß man einfach sagen.",
+        "Heute kein großer Reim. Ich wußte\nnichts vom Schattentempel! Das Blut,\ndie Schädel... Als hätte man da Leute\ngefoltert.",
+        "Schon beim Brunnen denkt man: War\ndieser Dämon ein Serienmörder?\nSpannende Theorie. Aber der Tempel\nist ja auch nicht besser.",
+        "Und das war kein einzelner irrer\nTäter, sondern Hyrule selbst. Das ist\njetzt ein bißchen unglücklich.",
+        "Versetzen wir das ganz weit in die\nVergangenheit. Nicht bloß sieben\nJahre! Machen wir erst mal einen\nhohen Bogen drum.",
+        "Das werden wir bei Zeit mal\naufarbeiten. Der Zugang liegt hinter\ndem Friedhof. Mr. Bean ist der Weise\ndes Schattens.",
+        "Besiege den Dämon. Dann lerne jetzt\ndie Nocturne des Schattens, unseren\nneuen Teleport-Song."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0077",
+      "section": "2. Sheik und Nocturne des Schattens",
+      "pages": [
+        "Du hast die\nNocturne des Schattens\nerlernt!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "501D",
+      "section": "2. Sheik und Nocturne des Schattens",
+      "pages": [
+        "[Spielername], Du weißt, was zu\ntun ist. Du kannst auch in den\nGeistertempel gehen, falls Du da\nnicht schon warst. Ich würde erst",
+        "den Schattentempel machen. Der\nDämon kam ja gerade ganz frisch aus\ndem Brunnen, ne?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0157",
+      "section": "2. Sheik und Nocturne des Schattens",
+      "pages": [
+        "Alles klar, ich wollte schon immer\nmal einen Song haben, mit dem wir\nzum ekligsten und gefährlichsten Ort\nHyrules zurückreisen können."
+      ],
+      "controls": [],
+      "notes": "Bedingter Navi-Hinweis nach Erlernen der Nocturne.",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "5034",
+      "section": "3. Windmühle als Erwachsener – Hymne des Sturms",
+      "pages": [
+        "Auch nach sieben Jahren bin ich\nimmer noch sowas von wütend. Ich\nstehe jeden Tag mit einem wütenden\nGefühl auf und ziehe mir meine",
+        "wütenden Schuhe an.",
+        "Der hat meine ganze Mühle\ngeschrottet. Das ist unfaßbar.",
+        "Sag mal, wißt ihr eigentlich, wie\nteuer dieser ganze Schuppen hier\ngewesen ist?"
+      ],
+      "controls": [],
+      "notes": "Erwachsener Windmühlenmann vor dem Vorspielen auf der Okarina.",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "5035",
+      "section": "3. Windmühle als Erwachsener – Hymne des Sturms",
+      "pages": [
+        "Ey, ich werde wahnsinnig. Das ist\ndoch jetzt... Sag mir bitte nicht, daß\ndas eine Okarina ist.",
+        "Sag mir nicht, daß Du der Wichser\nvon damals gewesen bist, sonst\nwerde ich Dir so in die Fresse hauen.",
+        "Irgendjemand hat damals diese\nabsolut bescheuerte Regenmusik\ngespielt. Warum gibt es sowas\nüberhaupt? Warum erlauben die",
+        "Götter das?",
+        "Ich erkläre Dir jetzt das Lied, einfach\nnur damit Du weißt, daß Du es auf\nkeinen Fall spielen sollst. Jetzt ist es\nsowieso zu spät.",
+        "Gott sei Dank hast Du keine\nZeitmaschine oder so."
+      ],
+      "controls": [],
+      "notes": "Okarina-Gespräch als Erwachsener; danach wird die Hymne der Stürme beigebracht.",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "00D6",
+      "section": "3. Windmühle als Erwachsener – Hymne des Sturms",
+      "pages": [
+        "Du hast die\nHymne des Sturms\nerlernt!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "508E",
+      "section": "3. Windmühle als Erwachsener – Hymne des Sturms",
+      "pages": [
+        "Oh nein, das war ein Fehler!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "5032",
+      "section": "4. Zurück als Kind – Windmühle und Entleeren des Brunnens",
+      "pages": [
+        "Ich bin so stinkig, mein Blut kocht,\nich könnte explodieren! Mir geht der\nHut hoch!",
+        "Ein Kind, das eins zu eins aussieht\nwie Du, wird eines Tages diese ganze\nMühle mit seiner bekloppten\nRegenmusik zerstören!",
+        "Ich hoffe, das wirst nicht Du sein!\nIch übe diese Beschwerde vorsorglich\nseit Wochen."
+      ],
+      "controls": [],
+      "notes": "Kindervariante des Windmühlenmannes vor dem Regenlied.",
+      "locations": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "5033",
+      "section": "4. Zurück als Kind – Windmühle und Entleeren des Brunnens",
+      "pages": [
+        "Was zur Hölle geht hier vor sich? Du\nhast meine Mühle zerstört! Du hast\nalles kaputtgemacht! Diese Mühle hat\nmit meinem Einkommen zu tun. Wenn",
+        "ich nicht genug Kram mühle, lande ich\nauf der Straße!"
+      ],
+      "controls": [],
+      "notes": "Reaktion auf die ruinierte Windmühle in der Kindheit.",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "71BA",
+      "section": "5. Brunnen – Shaggy, Velma, Daphne, Scooby und Fred",
+      "pages": [
+        "ZOINKS! Hier ist echt ne Menge Blut.\nIch hatte gehofft, das ist KETCHUP!",
+        "Da vergeht einem echt der Appetit...\nWobei, was rede ich denn DA!",
+        "Ein leckeres Sandwich wäre jetzt\ndoch genau das Richtige. Hmm!"
+      ],
+      "controls": [],
+      "notes": "Shaggy; freiwilliges Gespräch im Brunnen.",
+      "locations": [],
+      "project_sources": [
+        "mystery_inc_de.json"
+      ]
+    },
+    {
+      "id": "71BB",
+      "section": "5. Brunnen – Shaggy, Velma, Daphne, Scooby und Fred",
+      "pages": [
+        "JINKIES! Der Gestank hier unten ist\nunbeschreiblich ekelig. Es riecht nach\nSchwefel und Eisen.",
+        "Ob es wirklich so gut war, daß wir\nuns aufteilen? Ich hoffe, die anderen\nsind vorsichtig..."
+      ],
+      "controls": [],
+      "notes": "Velma; eigener Platz im Brunnen.",
+      "locations": [],
+      "project_sources": [
+        "mystery_inc_de.json"
+      ]
+    },
+    {
+      "id": "71BC",
+      "section": "5. Brunnen – Shaggy, Velma, Daphne, Scooby und Fred",
+      "pages": [
+        "JEEPERS! Hier unten sollte echt mal\ngeputzt werden. Und das ist definitiv\nkein Platz für Kinder wie Dich!",
+        "Wo ist überhaupt Fred? Wobei,\nVelma dürfte mich natürlich auch\ngerne begleiten...",
+        "Mit ihr würde ich mich hier gleich\nviel wohler fühlen. Und das liegt nicht\nnur an ihrer Taschenlampe."
+      ],
+      "controls": [],
+      "notes": "Daphne; eigener Platz im Brunnen.",
+      "locations": [],
+      "project_sources": [
+        "mystery_inc_de.json"
+      ]
+    },
+    {
+      "id": "71BD",
+      "section": "5. Brunnen – Shaggy, Velma, Daphne, Scooby und Fred",
+      "pages": [
+        "Ruh-roh! Rer Brunnen ist riel zu\ngruselig! Wo ist Raggy?",
+        "Für einen Scooby-Snack würde ich ja\nbleiben... Zwei? Rein, lieber drei!",
+        "Scooby-Dooby-Doo! Aber jetzt bitte\nraus hier!"
+      ],
+      "controls": [],
+      "notes": "Scooby-Doo; eigener Platz im Brunnen.",
+      "locations": [],
+      "project_sources": [
+        "mystery_inc_de.json"
+      ]
+    },
+    {
+      "id": "71BE",
+      "section": "5. Brunnen – Shaggy, Velma, Daphne, Scooby und Fred",
+      "pages": [
+        "FUCK! Hier unten gibt es echt eine\nMenge Fallen, und ich Idiot habe\nnatürlich mein Notizbuch vergessen!",
+        "Wie schade. Blöder, blöder Fred! Was\nbin ich nur für ein Hornochse!",
+        "Eine Falle MIT einer Falle zu fangen,\nwäre so schön gewesen. Aber ohne\nNotizbuch? Das wäre unprofessionell."
+      ],
+      "controls": [],
+      "notes": "Fred; eigener Platz im Brunnen.",
+      "locations": [],
+      "project_sources": [
+        "mystery_inc_de.json"
+      ]
+    },
+    {
+      "id": "608B",
+      "section": "6. Brunnen – Schwangerschaftstest, Organe und Starwalker",
+      "pages": [
+        "Oof, hier liegt ein\nSchwangerschaftstest.\nMein Beileid..."
+      ],
+      "controls": [],
+      "notes": "Navi beim Anvisieren des Schwangerschaftstests.",
+      "locations": [],
+      "project_sources": [
+        "fundstuecke_de.json"
+      ]
+    },
+    {
+      "id": "71E4",
+      "section": "6. Brunnen – Schwangerschaftstest, Organe und Starwalker",
+      "pages": [
+        "Ohhh...nooooo....Lass uns bitte nicht\nzu viel Zeit hier unten verbringen,\nja?"
+      ],
+      "controls": [],
+      "notes": "Navi beim Anvisieren der Organe auf dem roten Boden.",
+      "locations": [],
+      "project_sources": [
+        "well_props_de.json"
+      ]
+    },
+    {
+      "id": "721F",
+      "section": "6. Brunnen – Schwangerschaftstest, Organe und Starwalker",
+      "pages": [
+        "Those meddling kids and their dog are\npissing me off.\nI'm the original Starwalker"
+      ],
+      "controls": [],
+      "notes": "Original Starwalker im Brunnen; Pause vor seinem Namen.",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "0126",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Ich höre in diesem Raum geisterhafte\nStimmen flüstern.",
+        "Mir doch scheißegal, was die zu\nsagen haben. Ich ignoriere die einfach."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Brunnen – Raum 0"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0128",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Die Geister in diesem Raum sind\nschon wieder am Flüstern.",
+        "Sie flüstern mir zu.",
+        "Okay, die sollen mal aufhören, mich\nzu belästigen, die Geister."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 19"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0129",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Da steht: \"Alles Gute von oben.\" Das\nist doch safe wieder ironisch gemeint."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Brunnen – Raum 0"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "012A",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Bei dieser Mauer steht irgendwas\nüber Tiefe. Ob das mit dem Giant\nSquid zu tun hat?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Brunnen – Raum 0"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "012B",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Wäre es jetzt nicht witzig, das hier\nalles unter Wasser zu stellen?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Brunnen – Raum 0"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0181",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Jetzt redet auch noch diese\nbescheuerte Mauer mit mir.",
+        "Wieso will alles in diesem Dungeon\nmit mir reden? Was soll das?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 6"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0184",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Yo, siehst Du da vorne die Tür? Laß\nda mal gucken, ob wir da hinkommen\nkönnen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 21"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0191",
+      "section": "7. Brunnen und Schattentempel – örtliche Navi-Untersuchungen",
+      "pages": [
+        "Ich präsentiere: die nervigsten\nGegner in diesem ganzen Abenteuer."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Brunnen – Raum 0",
+        "Schattentempel – Raum 9"
+      ],
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ]
+    },
+    {
+      "id": "0039",
+      "section": "8. Brunnen – Auge der Wahrheit und Schattengewand",
+      "pages": [
+        "Das Auge der Wahrheit!\nPlaziere es auf [C] und sieh\nmit [C] hindurch! Du wirst\nviele Geheimnisse lüften!",
+        "Setzt Du es ein,\nkostet es magische Energie.\nMit [C] kannst Du es auch\nwieder deaktivieren."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_LENS_OF_TRUTH)",
+        "ITEM_ICON(ITEM_LENS_OF_TRUTH)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "71DC",
+      "section": "8. Brunnen – Auge der Wahrheit und Schattengewand",
+      "pages": [
+        "Du hast das Schattengewand\ngefunden!",
+        "Es ersetzt Deine bisherige Kleidung\nund wird sofort angelegt. Das\nGewand paßt Dir als Kind und als\nErwachsener.",
+        "Solange Du das Schattengewand\nträgst, nimmst Du nur noch ein\nViertel des gewöhnlichen Schadens.",
+        "Sonnen-, Feuer- und Wassergewand\nhalbieren den Schaden. Das\nSchattengewand schützt Dich noch\nstärker."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_TUNIC_KOKIRI)"
+      ],
+      "notes": "Fundtext des Schattengewands. Der tatsächliche Buildtext wird unverändert abgeschrieben, einschließlich noch vorhandener Bezeichnungen.",
+      "locations": [],
+      "project_sources": [
+        "shadow_tunic_de.json"
+      ]
+    },
+    {
+      "id": "0208",
+      "section": "9. Schattentempel – Wände, Statue und Warnungen",
+      "pages": [
+        "Der Schattentempel. Hier ruhen\nHyrules blutige Zeugnisse von großer\nGier und blindem Haß. Es ist gar\nnicht mal so lange her."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 0"
+      ],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0209",
+      "section": "9. Schattentempel – Wände, Statue und Warnungen",
+      "pages": [
+        "In der Dunkelheit verborgen...\nDas bloße Auge listig täuschend...\nBleibt der rechte Weg verhüllt..."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 0"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "020A",
+      "section": "9. Schattentempel – Wände, Statue und Warnungen",
+      "pages": [
+        "Jenem mit dem Auge der Wahrheit\nwird sich manches offenbaren, was\nnoch von Dunkelheit umgeben..."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 0"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "0224",
+      "section": "9. Schattentempel – Wände, Statue und Warnungen",
+      "pages": [
+        "Drehe meinen Schnabel zum\nSchädel der Wahrheit.",
+        "Andernfalls stürzt Du in\nunendliche Dunkelheit!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 2"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "022B",
+      "section": "9. Schattentempel – Wände, Statue und Warnungen",
+      "pages": [
+        "Hier steht die Inschrift\naus dem Wappen\nder Königsfamilie von Hyrule."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Brunnen – Raum 0"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "023C",
+      "section": "9. Schattentempel – Wände, Statue und Warnungen",
+      "pages": [
+        "Die Schatten werden sich nur dem\noffenbaren, der die Augen der\nWahrheit besitzt. Es heißt, man\nkönne sie in Kakariko finden..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [
+        "Schattentempel – Raum 2"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "71B8",
+      "section": "10. Schattentempel – Kenny und Gleitstiefel",
+      "pages": [
+        "Ich verstehe den Typen nicht, der\nnuschelt zu sehr."
+      ],
+      "controls": [],
+      "notes": "Navi über den lebenden Kenny vor Erhalt der Gleitstiefel; Kenny ist hier ein anvisierbares Modell.",
+      "locations": [],
+      "project_sources": [
+        "kenny_de.json"
+      ]
+    },
+    {
+      "id": "0054",
+      "section": "10. Schattentempel – Kenny und Gleitstiefel",
+      "pages": [
+        "Die Gleitstiefel!\nMit diesen seltsamen Schuhen\nschwebst Du über den Boden.",
+        "Du kannst damit für\nkurze Zeit sogar Abgründe\nüberqueren. Habe Mut und\nvertraue den Stiefeln!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOOTS_HOVER)",
+        "ITEM_ICON(ITEM_BOOTS_HOVER)"
+      ],
+      "notes": "Fundtext der Gleitstiefel; Steuerkreuz oben wechselt im aktuellen Hack die Stiefel.",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "71B9",
+      "section": "10. Schattentempel – Kenny und Gleitstiefel",
+      "pages": [
+        "Ihr habt Kenny getötet, ihr Schweine!"
+      ],
+      "controls": [],
+      "notes": "Navi über den toten Kenny im späteren Tempelabschnitt nach Erhalt der Gleitstiefel.",
+      "locations": [],
+      "project_sources": [
+        "kenny_de.json"
+      ]
+    },
+    {
+      "id": "6089",
+      "section": "11. Schattentempel – Crocker, Skelett auf dem Schiff und Starwalker",
+      "pages": [
+        "Blut auf dem Boden? Totenschädel in\nden Wänden?",
+        "Seltsame Wände, durch die man\nhindurchgehen kann? Das kann nur\neins bedeuten!",
+        "Das ist das Werk von HELFENDEN\nELFEN!!",
+        "Navi: Ich bin eine Fee, Du anämischer\nNerd!"
+      ],
+      "controls": [],
+      "notes": "Crockers Gespräch enthält Navis Antwort als ausdrücklich benannte weitere Seite derselben Nachricht.",
+      "locations": [],
+      "project_sources": [
+        "superhelden_de.json"
+      ]
+    },
+    {
+      "id": "7211",
+      "section": "11. Schattentempel – Crocker, Skelett auf dem Schiff und Starwalker",
+      "pages": [
+        "RATTLE ME BONES!! WELCOME\nABOARD MATEY!"
+      ],
+      "controls": [],
+      "notes": "Freundliches Skelett auf der Geisterfähre.",
+      "locations": [],
+      "project_sources": [
+        "characters_v43_de.json"
+      ]
+    },
+    {
+      "id": "721C",
+      "section": "11. Schattentempel – Crocker, Skelett auf dem Schiff und Starwalker",
+      "pages": [
+        "Those skulls are pissing me off.\nI'm the original Starwalker"
+      ],
+      "controls": [],
+      "notes": "Original Starwalker im Schattentempel; Pause vor seinem Namen.",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5071",
+      "section": "11. Schattentempel – Crocker, Skelett auf dem Schiff und Starwalker",
+      "pages": [
+        "[Spielername]!\nDas Schiff sinkt!\nSpring ab!\nRette Dich auf festen Boden!"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "notes": "Navi-Warnung beim Untergang der Geisterfähre.",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "0624",
+      "section": "12. Bongo Bongo – Navis Zielerfassung",
+      "pages": [
+        "Roter Tod. Setzt sich selbst in Brand\nund rennt schreiend herum. Du bist\nwirklich ein saudummes Drecksvieh."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "5022",
+      "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
+      "pages": [
+        "[Spielername]! You did it! I was\njust coming to help.",
+        "A Sage of Shadow? Me? I thought\nthis was the shady waiting room."
+      ],
+      "controls": [],
+      "notes": "Mr. Bean als Schattenweiser. Seine deutschen Sprachslots enthalten bewußt englische Sätze.",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5025",
+      "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Merz says I died fighting him? How\nvery flattering.",
+        "I got Zelda out on horseback. Then\nthere was a low branch.",
+        "It caught my head. I fell off. Broke\nmy neck.",
+        "Very inconvenient. Zelda got away,\nthough. That was rather the point.",
+        "The Shadow Temple? Lovely place.\nVery peaceful.",
+        "Rather a lot of sharp decorations. I\nrecommend the back entrance."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "502B",
+      "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Zelda is safe. And my neck no longer\nhurts. One advantage, I suppose."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "502C",
+      "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
+      "pages": [
+        "You'll see Zelda soon.\nShe explains things rather better.",
+        "Six Sages. One Merz.\nI like those odds."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5026",
+      "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Please look after Zelda. I'll stay off\nhorses for a bit.",
+        "Take my shadow power. Apparently I\nhave some."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "0041",
+      "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Das Amulett des Schattens!\nMr. Bean ist einer der\nWeisen. Er überträgt Dir\nseine Kraft!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_MEDALLION_SHADOW)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5023",
+      "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Find Zelda.\nTell her I helped."
+      ],
+      "controls": [
+        "FADE(50)"
+      ],
+      "notes": "Zeitgesteuerter Abschied; nur kurze Einblendung.",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "0156",
+      "section": "14. Unmittelbarer Übergang zum nächsten Kapitel",
+      "pages": [
+        "Aber warum heißt das Ding\nGeistertempel und nicht\nWüstentempel? Müßte der\nSchattentempel nicht eher",
+        "Geistertempel heißen? Was soll\nSchatten in diesem Zusammenhang\nüberhaupt bedeuten?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0158",
+      "section": "14. Unmittelbarer Übergang zum nächsten Kapitel",
+      "pages": [
+        "Na dann pack die Sonnencreme aus\nund nimm Dein Handtuch mit, es geht\nab IN DIE WÜÜÜÜÜÜSTE!"
+      ],
+      "controls": [],
+      "notes": "Ausblick auf die Wüste nach diesem Kapitel; als Übergang enthalten.",
+      "locations": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "71C5",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Ich bin Mr. Mackey, mhhkay? Und ich\nbin NICHT Friedrich Merz!",
+        "Nur weil jemand einen großen Kopf\nund wenig Haare hat, ist er doch\nnicht gleich dieser Kerl, mhhkay!",
+        "Gestern hat mich einer nach\nSteuersenkungen gefragt. Ich bin\nSchulberater, mhhkay!",
+        "Dieses ständige Verwechseln ist nicht\nokay. Also wirklich nicht okay,\nmhhkay."
+      ],
+      "controls": [],
+      "notes": "Mr. Mackey in einem normalen Kakariko-Haus, nicht im Spinnenhaus.",
+      "locations": [],
+      "project_sources": [
+        "desert_guests_de.json"
+      ]
+    },
+    {
+      "id": "5085",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Die Krabbelminen-Frau hat Zigaretten\ndirekt neben den Krabbelminen\ngeraucht.",
+        "Der ganze Laden ist dadurch komplett\nexplodiert. Dabei ist sie gestorben."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "water_comic_sahur_de.json"
+      ]
+    },
+    {
+      "id": "5086",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Ist Dir schon mal aufgefallen, daß der\nDrache im Feuertempel irgendwie echt\nattraktiv ist?",
+        "Was? Nein?! Ähh... Mir auch nicht!\nWer denkt denn so was?",
+        "Mega komisch einfach. Ich hab\nüberhaupt keinen bestimmten Drachen\ngemeint.",
+        "Volvagia heißt der übrigens. Also hab\nich gehört. Zufällig."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "feuertempel_wallace_de.json"
+      ]
+    },
+    {
+      "id": "505C",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Hast Du diese seltsamen Kinder\ngetroffen? Sie nennen sich Fanboy\nund Chum Chum.",
+        "Halten sich für so 'ne Art\nSuperhelden. Pah! Was Menschen\nnicht alles tun, um sich von der\nArbeit zu drücken!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "507D",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Glaubst Du, Goronen stehen auf Rock\nand Ball Torture?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "5088",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Hab letztens so ein Horrorkid-Ding\ngetroffen.",
+        "Niedliches Kerlchen.",
+        "Tut keiner Fliege was zuleide."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "5089",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Jetzt ist es schon sieben Jahre her,\ndaß Waluigi von der Schule geflogen\nist...",
+        "...und er hat immer noch nischts aus\nseinem Leben gemacht. Was ein\nLoser, meine Liebe!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "508A",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Waluigi? Dieser seltsame lila Typ?",
+        "Was ein Loser. Aus dem wird doch\neh nichts mehr, Liebling!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "507B",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Scheiße, ich hab' meinen Lego\nNaboo-Starfighter im Schattentempel\nliegen lassen!",
+        "Und die Bauanleitung ist natürlich\nauch noch drin!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "xwing_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "507C",
+      "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
+      "pages": [
+        "Scheiße, ich hab' meinen Lego\nNaboo-Starfighter im Schattentempel\nliegen lassen!",
+        "Und die Bauanleitung ist natürlich\nauch noch drin!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "xwing_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "505B",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "He! Du kommst einfach in ein\nfremdes Haus? Was werden Deine\nEltern dazu sagen?",
+        "Na, egal...",
+        "Das ist ohnehin nicht mein Haus. Hier\nwohnt der große Mr. Bean. Ein Mann\nvon höchstem Ansehen!",
+        "Er ging zum Friedhof, um eine\nwiderliche Kreatur zu bezwingen. Auf\nBean ist eben Verlaß.",
+        "Seit Friedrich Merz hier sein Unwesen\ntreibt, wimmelt es von solchen\nScheußlichkeiten!",
+        "Mr. Bean hat schon oft für Frieden im\nDorf gesorgt. Sein Mut ist über jeden\nZweifel erhaben.",
+        "Nun gut.",
+        "Er ist noch nicht zurück. Sicher hat\ner alles wohlüberlegt. Bean überläßt\nnichts dem Zufall."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "505F",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Mr. Bean ist fort. Wenn jemand die\nLage im Griff hat, dann er. Trotzdem\nmache ich mir Sorgen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5079",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Hier lebte Mr. Bean. Er hat das Haus\ngroßzügig dem Dorf geöffnet. Ein\nvorbildlicher Mann!",
+        "Auch Du darfst hinein. Bean vertraut\nseinen Mitmenschen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "507A",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Dieses Dorf gehörte einst den\nShiekah, aber jetzt kann jeder\nhier leben."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "507E",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Das Feuer hätte uns fast\nvernichtet! Aber gemeinsam haben\nwir es gelöscht! Gute Arbeit,\ndenkst Du nicht auch?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "505E",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Fühle Dich ganz wie zu Hause.\nDas Essen ist allerdings\nnoch nicht fertig!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "505D",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Willkommen in Kakariko! Bist Du zum\nersten Mal hier?",
+        "Mr. Bean ließ das Dorf für einfache\nLeute wie uns erbauen. Ein fähiger,\ngroßherziger Mann!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5063",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Es ist [Uhrzeit] Uhr! Zeit, Dir etwas\nüber Kakariko zu erzählen.",
+        "Mr. Bean, Zeldas verläßlicher\nBeschützer, ließ dieses Dorf für\neinfache Leute wie uns erbauen.",
+        "Noch sind wir wenige. Doch mit\nseinem klugen Rat wird hier bald das\nLeben blühen!",
+        "Für den Aufstieg brauchst Du eine\nkönigliche Erlaubnis. Das sollte ein\nMann wie Bean wissen."
+      ],
+      "controls": [
+        "TIME"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5064",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Es ist jetzt genau [Uhrzeit] Uhr."
+      ],
+      "controls": [
+        "TIME"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5065",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Es ist jetzt [Uhrzeit] Uhr.\nAch, übrigens: Weißt Du, was im\nSchloß passiert ist?"
+      ],
+      "controls": [
+        "TIME"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5068",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Ein komischer Typ lebt in der \nWindmühle. Warst Du schon bei\nihm, großer Held?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5069",
+      "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
+      "pages": [
+        "Meine Eltern erklären mir ständig, daß\nich später Verantwortung übernehmen\nmuß. Die Erwachsenen haben Merz\neingeladen. Ich habe Fragen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "5029",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Ich sage Dir: Die jungen\nLeute sind zu nichts mehr \nzu gebrauchen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "502A",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Schau Dir die Kleine da drüben an.\nSie kümmert sich aufopferungsvoll\num ihre Hühner, und das, obwohl sie \ngegen Federn allergisch ist.",
+        "Was für ein Mädchen! Ich würde\nihr gern helfen, ich fühle mich zur\nZeit wie ein Wohltäter! Geht's Dir\nnicht auch so?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5055",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Hey! Schön, Dich wiederzusehen!\nIch gebe Dir dieses\nErinnerungsstück."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5056",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Mit [C-Up] schaust Du Dich um. Sehr\nnützlich, falls Du kontrollieren\nmöchtest, ob der TODESBERG noch\nda ist."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "5057",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Ich hab nen sau guten Kollegen\nnamens Okto. Er ist ein Oktorok.",
+        "Na, egal...",
+        "Vielleicht begegnest Du ihm ja mal.\nDas ist ein stabiler Kollege, man\nkann's nicht anders sagen!",
+        "Na, egal..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "superhelden_de.json"
+      ]
+    },
+    {
+      "id": "5058",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Falls Du Okto triffst: Grüß ihn von\nmir!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "superhelden_de.json"
+      ]
+    },
+    {
+      "id": "5059",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Macht es Dir Spaß, fremde Leute\nzu so später Stunde noch zu\nbelästigen? Du hast wohl gar\nkeine Erziehung genossen.",
+        "Na, egal..."
+      ],
+      "controls": [
+        "TEXTID(0x505A)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "505A",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Die Frau kümmert sich um die\nHühner, reagiert aber allergisch\nauf Federn.",
+        "Na, egal..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5060",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Mario und Luigi sind beides\ngroßartige Männer. Dann gibt es\nnoch den gierigen Wario. Pfu!",
+        "Und dieser Waluigi wird es nie zu\netwas bringen. Manchen ist es wohl\nvorherbestimmt, ewig nutzlos zu sein.",
+        "Und von Wawario und Wawaluigi\nwill ich gar nicht erst anfangen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "5061",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Mario und Luigi sind beides\ngroßartige Männer. Dann gibt es\nnoch den gierigen Wario. Pfu!",
+        "Und dieser Waluigi wird es nie zu\netwas bringen. Manchen ist es wohl\nvorherbestimmt, ewig nutzlos zu sein.",
+        "Und von Wawario und Wawaluigi\nwill ich gar nicht erst anfangen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "5062",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Mario und Luigi sind beides\ngroßartige Männer. Dann gibt es\nnoch den gierigen Wario. Pfu!",
+        "Und dieser Waluigi wird es nie zu\netwas bringen. Manchen ist es wohl\nvorherbestimmt, ewig nutzlos zu sein.",
+        "Und von Wawario und Wawaluigi\nwill ich gar nicht erst anfangen!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "507F",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Ah, wie findest Du denn meinen\nBart? Ist das nicht ein toller\nSchnurrbart?",
+        "Dafür benutze ich das edelste\nBartwachs, das man in diesem Land\nkriegen kann. Das muß auch mal\ngesagt werden."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "5080",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Du schaust schon wieder auf meinen\nSchnurrbart. Versteh ich.",
+        "Das edelste Bartwachs im ganzen\nLand. Billiges Zeug kommt mir da\nnicht rein!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "5081",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Wie findest Du meinen Schnurrbart?\nEdelstes Bartwachs! Dafür ist auch\nin schweren Zeiten Geld da."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "5082",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Mein Schnurrbart steht wenigstens\nnoch. Das Wachs hält, auch wenn\ndraußen alles zusammenbricht."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "5083",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Ich habe ja nichts gegen Goronen.\nAber müssen die wirklich nackt\nrumlaufen?",
+        "Mein Nachbar sagt, das sei ihre\nKultur. Meine Unterhose ist übrigens\nauch kulturell gewachsen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "5084",
+      "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
+      "pages": [
+        "Der Gorone hat mir erklärt, das sei\nkeine Nacktheit, sondern geologische\nFreiheit. Jetzt denke ich seit Stunden\ndarüber nach."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "503E",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Ich habe Kiki gezüchtet. Von diesem\nHuhn bekomme ich keine Allergie.",
+        "Es paßt in die Hosentasche. Das war\nbei meinen Schweinen anders. Söder\nbrauchte offenbar keine Tasche.",
+        "Kiki weckt selbst die größten\nSchlafmützen. Es gackert mit\nerstaunlicher Überzeugung.",
+        "Ganz glücklich wirkt es trotzdem\nnicht.",
+        "Du scheinst gut mit Hühnern\nauszukommen. Nimm dieses Ei mit.",
+        "Wenn Kiki geschlüpft ist, bring es\nirgendwann zurück. Ich möchte sehen,\nob es sich wohlfühlt."
+      ],
+      "controls": [
+        "TEXTID(0x503F)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "503F",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Was hältst Du davon? \nWillst Du es ausprobieren?\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5040",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Oh, wie schade... Haben die Hühner\nimmer nach Dir gehackt, als Du\nnoch kleiner warst?"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5042",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Bitte sorge gut für Kiki!\nOkay?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5043",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Oh, Kiki sieht ja sehr gesund und\nfröhlich aus. Es muß eine arge\nSchlafmütze geweckt haben!",
+        "Das hast Du gut gemacht!\nIch werde Dir ein sehr seltenes\nHühnchen mitgeben, wenn Du willst.",
+        "Ich nenne es Henni, es hat einmal\nmeinem Bruder gehört. Die blauen \nFedern sehen sehr schön aus,\nnicht wahr? Es ist sooooo süß!",
+        "Seit mein Bruder verschwunden ist,\ngackert Henni gar nicht mehr!"
+      ],
+      "controls": [
+        "TEXTID(0x5044)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5044",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Möchtest Du Henni behalten?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5045",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Also magst Du Kiki doch lieber.\nOkay, dann behalte sie noch für\neine Weile!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5047",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Mein Bruder muß sehr einsam\ngewesen sein..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5015",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Zzz... Malon macht das prima...",
+        "Luigi kümmert sich... nur noch ein\nPilz... Zzz..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "farm_mario_luigi_de.json"
+      ]
+    },
+    {
+      "id": "5016",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Luigi leitet jetzt die Farm. Er nennt\nes unsere große Urlaubsvertretung.",
+        "Ich darf mich hier ausruhen. Malon\nhilft weiter auf der Farm. Luigi\nerklärt ihr jeden Morgen, wie toll ihre\nSchicht wird.",
+        "Ein Urlaub ohne Rückreisetermin!\nMamma mia, da hätte ich vorher\nbesser nach dem Reiseplan gefragt."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "farm_mario_luigi_de.json"
+      ]
+    },
+    {
+      "id": "5017",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Epona ist bei Dir und Luigi ist\nglücklich? Großartig! Dann kann\nMario wieder nach Hause. Let's-a go!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "farm_mario_luigi_de.json"
+      ]
+    },
+    {
+      "id": "508B",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Der Bärtige da ist Mario von der\nFarm. Luigi hat ihm einen Urlaub\norganisiert. Sehr großzügig. Ohne\nfestes Ende."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "farm_mario_luigi_de.json"
+      ]
+    },
+    {
+      "id": "508C",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Er übt hier seine Super-Schlaftechnik.\nAn der Motivation scheitert es nicht:\nLuigi schickt ihm jeden Morgen ein\nfröhliches Hallo."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "farm_mario_luigi_de.json"
+      ]
+    },
+    {
+      "id": "508D",
+      "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
+      "pages": [
+        "Mario ist wieder auf der Farm. Luigi\nhat sich riesig gefreut!",
+        "Mein kleiner Richard wedelt\nwenigstens nur mit dem Schwanz.\nLuigi bedankt sich gleich bei jedem\neinzelnen Muskel."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "farm_mario_luigi_de.json"
+      ]
+    },
+    {
+      "id": "5046",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Eine alte Vettel betreibt den\nHexenladen hinter diesem Shop.\nNimm die Tür links neben der\nTheke, wenn Du hinein willst!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5048",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Hihihi! Ich bin die Schleimhexe.",
+        "Ich produziere feinsten Hexenschleim.\nWillst Du was davon haben, dann\nmußt Du auch zahlen.",
+        "Für meine besten Sachen brauche ich\ndiese seltsamen Gewächse aus den\nVerlorenen Wäldern. Hast Du was\ndabei?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "5049",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Schnüffel...",
+        "Dieser Duft! Ein seltener Pilz aus\nden Verlorenen Wäldern!",
+        "Den brauche ich für meinen\nHexenschleim. Jetzt stell Dich nicht\nso an!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "504A",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Der Taugenichts ist also in die\nVerlorenen Wälder gegangen. Und Du\nbringst seinen Pilz. Na schön."
+      ],
+      "controls": [
+        "TEXTID(0x504B)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "504B",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Her mit dem Pilz! Für den\nHexenschleim!\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "504C",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Ach, komm! Nur ein bißchen Pilz für\nden Hexenschleim. Du brauchst den\ndoch nicht zum Angucken!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "504D",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Hier. Mein stärkster Hexenschleim.\nAlso Medizin. Offiziell ist das\nMedizin.",
+        "Bring ihn dem Dummkopf in den\nVerlorenen Wäldern. Ob es ihm noch\nhilft? Hihihi!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "504F",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Gegen Dummheit hilft leider auch\nmein feinster Hexenschleim nicht. Ich\narbeite dran. Hihihi!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "500C",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Hihihi! Feinster Hexenschleim! Willst\nDu was davon haben, mußt Du auch\nzahlen.",
+        "Blaues Elixier: 100 Rubine.\n\nKaufen!\nNicht kaufen!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "500D",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Dann gibt es heute keinen\nHexenschleim für Dich. Komm wieder,\nwenn Du zahlst. Hihihi!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "500E",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Zu wenig Rubine! Von Luft und Liebe\nkann ich keinen Hexenschleim kochen.\nHihihi!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "006D",
+      "section": "E. Kakarikos Läden und optionale Tauschquest",
+      "pages": [
+        "Tu mir den Gefallen: Komm mir nicht\nmit dem Scheißauge der Wahrheit\nhier rein. Das geht komplett schief.",
+        "Links oder rechts? Finde den\nSchlüssel. Ein Spiel: 10 Rubine.\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "npc_stimmen_de.json"
+      ]
+    },
+    {
+      "id": "0060",
+      "section": "F. Gemeinsame Schatz- und Dungeon-Meldungen",
+      "pages": [
+        "Ein kleiner Schlüssel!\nEr öffnet eine verschlossene\nTür. Du kannst ihn nur in\ndiesem Labyrinth einsetzen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_SMALL_KEY)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "0066",
+      "section": "F. Gemeinsame Schatz- und Dungeon-Meldungen",
+      "pages": [
+        "Die Labyrinth-Karte!\nDrücke START, um sie im\nKarten-Bildschirm anzusehen!",
+        "Blaue Räume hast Du bereits\naufgesucht.\nDer blinkende Raum zeigt\nDeine derzeitige Position.",
+        "Bewege [Control-Pad], um ein\nStockwerk auszuwählen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "0067",
+      "section": "F. Gemeinsame Schatz- und Dungeon-Meldungen",
+      "pages": [
+        "Der Kompaß!\nJetzt siehst Du auf Deiner\nKarte alle Schatztruhen\ndieses Labyrinths!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_COMPASS)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "00C7",
+      "section": "F. Gemeinsame Schatz- und Dungeon-Meldungen",
+      "pages": [
+        "Der Master-Schlüssel!\nJetzt kannst Du endlich jenen\nRaum betreten, in dem der\nEndgegner lauert."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_BOSS_KEY)"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "0604",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Du achtbeiniger Vollidiot! Dreh Dich\nruhig um und zeig uns Deinen\nSchwachpunkt. Ja, genau so. Meine\nFresse."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0605",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Die Riesen-Skulltula zeigt uns\nfreiwillig ihren weichen Bauch. So ein\ngroßes Vieh und so unfaßbar dumm."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0607",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Dekuranha. Mach die Fresse zu,\nDu Scheißunkraut. Ich reiß Dich samt\nWurzel aus diesem Drecksloch."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0608",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Der große Dekuranha hält den Kopf\nextra weit hoch. Ja, danke, Du\nTrottel. Da kommen wir prima dran."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0611",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Feuerflatterer. Brennt schon und\nfliegt uns trotzdem noch in die\nFresse. Halt doch einfach mal still!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0612",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Flederbeißer. Du hast die ganze\nHöhle zum Fliegen. Warum muß es\nausgerechnet mein Gesicht sein, Du\nWichser?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "061B",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Stalfos-Ritter. Der hat nicht mal\nmehr Fleisch an den Knochen und\nspielt trotzdem den harten Kerl."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "061C",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Eine blaue Knochenfratze. Kannst Du\nDein beschissenes Maul auch\nschließen, oder fehlen Dir dafür die\nMuskeln?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "061D",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Eine bleiche Knochenfratze. Kaum ist\ndas Feuer aus, kriegst Du aufs Maul.\nFlieg ruhig noch näher, Du Trottel."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "061E",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Eine grüne Knochenfratze. Noch so\nein brennender Schädel. Wie viele von\ndiesen Arschlöchern gibt's hier bitte?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "061F",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Eine Skullwandula. Die wartet, bis wir\nan der Wand hängen, und springt uns\nan. Du feige kleine Drecksspinne."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0620",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Eine goldene Skulltula. Ich höre Dein\nGekratze seit fünf Minuten. Halt\nendlich die Fresse da oben!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0629",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Bongo Bongo. Der trommelt hier mit\nseinen Riesenpranken auf UNSEREM\nFußboden. Hör auf damit, Du\nArschloch!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "062A",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Zombie. Hör auf, so zu stöhnen!\nUnd nimm die Finger von uns, Du\nwiderlicher Grabscher!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "062D",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Wickel-Zombie. Riecht bestimmt\nschon durch die ganzen Bandagen.\nBleib bloß weg, Du gammeliges\nSchwein."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "062E",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Diese Hände halten uns fest, damit\nihr häßlicher Kumpel uns ansabbern\nkann. Laß los, Du verdammter\nGrabscher!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "062F",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Hirnsauger. Der hat diesen ganzen\nScheiß mit den Händen geplant? So\neine widerliche Drecksau."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0630",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Deckengrapscher. Hör auf, über\nmeinem Kopf zu hängen! Komm\nrunter, dann brech' ich Dir jeden\nFinger einzeln."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0631",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Bodengrapscher. Jetzt teilt sich\ndas Arschloch auch noch auf. Drei\nkleine Wichser sind keine\nVerbesserung."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0637",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Raubschleim. Kotz den Schild\nwieder aus, Du schleimiger Wichser!\nDer war verdammt noch mal teuer!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0639",
+      "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
+      "pages": [
+        "Ein Strahlzyklop. Starrt uns die ganze\nZeit an. Glotz woanders hin, Du\neinäugiger Drecksack!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "015F",
+      "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
+      "pages": [
+        "[Spielername], mir gefällt das hier\nimmer weniger. Ich hoffe, daß wir\ndem Ursprung dieses ganzen Mists\nnäherkommen."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": [],
+      "project_sources": [
+        "kokiri_de.json"
+      ]
+    },
+    {
+      "id": "00E0",
+      "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
+      "pages": [
+        "Willst Du mit Salia sprechen?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "00E1",
+      "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
+      "pages": [
+        "Willst Du dann mit mir sprechen? \n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "016C",
+      "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
+      "pages": [
+        "Sind alle sechs Weisen vereint,\nkönnen sie Friedrich Merz verbannen.",
+        "Für das Siegel brauchen sie noch den\nSiebten Weisen.",
+        "Das ist jemand, den Du kennst,\n[Spielername]. Mehr weiß ich auch\nnicht.",
+        "Du mußt zwischen Vergangenheit und\nZukunft reisen, um die anderen\nWeisen zu erwecken.",
+        "Ich bleibe hier erreichbar. Für die\ngroßen Sitzungen haben sie ja jetzt\ndie Krabbelminen-Frau."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Salia per Okarina vor dem Schattenamulett.",
+      "locations": [],
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ]
+    },
+    {
+      "id": "016D",
+      "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
+      "pages": [
+        "Die sechs Weisen geben Dir ihre\nKraft. Ich drücke Dir von hier aus die\nDaumen.",
+        "Das Schicksal Hyrules liegt jetzt bei\nDir. Und zum Teil bei einer\nüberarbeiteten Bowling-Angestellten."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Salia per Okarina nach dem Schattenamulett, abhängig von den übrigen Amuletten.",
+      "locations": [],
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ]
+    },
+    {
+      "id": "70E3",
+      "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
+      "pages": [
+        "Das Schatten-Siegel ist gebrochen!\nBitte rette die Prinzessin!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "notes": "Späteres Finale im Schloß, kein zusätzlicher Text unmittelbar nach Bongo Bongo.",
+      "locations": [],
+      "project_sources": []
+    },
+    {
+      "id": "5024",
+      "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
+      "pages": [
+        "[Spielername], der Auserwählte!\nEndlich!",
+        "Alle Sechs Weisen sind erweckt!\nEs ist soweit: Der entscheidende\nKampf gegen den Großmeister des\nBösen soll nun beginnen!",
+        "Zuvor jedoch sollst Du jene\ntreffen, die auf Dich wartet...",
+        "Sie harrt Deiner in der\nZitadelle der Zeit..."
+      ],
+      "controls": [],
+      "notes": "Bedingter Hinweis nach allen erforderlichen Tempeln; nicht zwingend direkt nach dem Schattentempel.",
+      "locations": [],
+      "project_sources": []
+    }
+  ]
+}
