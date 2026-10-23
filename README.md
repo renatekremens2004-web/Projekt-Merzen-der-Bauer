@@ -1,3 +1,13 @@
+# DEBUG V45: Standard, Sonnengewand und Schattengewand
+
+[Neuer DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Gewandwahl_V45.bps?raw=true) · [Anleitung](DEBUG_Gewandwahl_V45_Anleitung.md) · [Quellen und Patches](Merzen_DEBUG_Gewandwahl_V45_Quellen_Patch.zip?raw=true) · [Normale V44, unverändert](Mr_Burns_Mr_Bean_DE_PAL10_Sonnengewand_V44.bps?raw=true)
+
+**C-rechts:** Standard (grün) → Sonnengewand (gelb) → Schattengewand (schwarz). **C-links:** Alle Items, unabhängig von der Gewandwahl. Anschließend mit **A** den Ort laden. Öffnen wie bisher: **L+R halten und Z drücken**.
+
+![Drei Gewandstufen im DEBUG-Ortsmenü](DEBUG_Gewandwahl_Standard_V45.png)
+
+Alle drei Stufen bei Kind und Erwachsen mit 4 MiB geprüft, einschließlich voller Ausrüstung und Rückkehr aus den Credits. Die normale V44 und alle bisherigen Spieländerungen bleiben erhalten. Den Patch auf die saubere europäische PAL 1.0 anwenden.
+
 # V44: Sonnengewand, stärkeres Schattengewand und DEBUG-Optionen
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Sonnengewand_V44.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Alle_Items_Schattengewand_V44.bps?raw=true) · [Bedienung und Tests](DEBUG_Alle_Items_Schattengewand_V44_Anleitung.md) · [Quellen und Patches](Merzen_DEBUG_Alle_Items_Schattengewand_V44_Quellen_Patch.zip?raw=true)
