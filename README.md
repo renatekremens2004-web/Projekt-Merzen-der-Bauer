@@ -1,3 +1,17 @@
+# V53: Trio zusammen und Credits überarbeitet
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V53.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V53.bps?raw=true) · [Quellen und Patches](Merzen_Credits_V53_Quellen_Patch.zip?raw=true) · [Anleitung](Credits_V53_Anleitung.md)
+
+[Starwalker-Bilder](Starwalker_V53_Bilder.md) · [Trio und Credits-Bilder](Credits_V53_Bilder.md) · [Alle Bilder als ZIP](Bilder_Starwalker_und_Credits_V53.zip?raw=true) · [Aktuelle Dialogliste nach Feuer- bis Ende Wassertempel](Dialogliste_nach_Feuertempel_bis_Wassertempel_V52.md)
+
+Kris, Susie und Ralsei stehen enger zusammen. Die vier Madagascar-Pinguine haben getrennte, geschlossene Flügelteile, damit ihre Hüften nicht mehr mitgezogen werden. Pingu bleibt unverändert. Moseby steht auf der Insel im Hylia-See; Starwalker erscheint im letzten Schwenk der Feier vor dem Todesberg. Alle bisherigen Inhalte sind enthalten.
+
+Geprüft mit 4 MiB: Trio-Gespräche und Erwachsenen-Abwesenheit, ganze Ranch-Feierfolge, normale Ranch in beiden Zeitlinien, neue Credits-Auftritte, DEBUG-Gespräch und vier Starwalker-Ansichten. Vorhandene Dialoge und Kamerafahrten bleiben erhalten. Die Dialogliste enthält 120 Text-IDs. Ihr Stand V52 gilt auch für V53, das keine Texte verändert. Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden.
+
+![Trio zusammen](Deltarune_Trio_Zusammen_V53.png)
+
+![Starwalker vor dem Schnitt zum Todesberg](Credits_Starwalker_V53.png)
+
 # V52: Kris, Susie, Ralsei und Original Starwalker
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Deltarune_V52.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Deltarune_V52.bps?raw=true) · [Quellen und beide Patches](Merzen_Deltarune_V52_Quellen_Patch.zip?raw=true) · [Anleitung](Deltarune_V52_Anleitung.md)
