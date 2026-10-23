@@ -1,3 +1,15 @@
+# V48: Licht-Amulett, Lichtgewand und Glotzaugenfrosch
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Drei_Geschenke_V48.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Drei_Geschenke_V48.bps?raw=true) · [Quellen und beide Patches](Merzen_Drei_Geschenke_V48_Quellen_Patch.zip?raw=true) · [Anleitung](Drei_Geschenke_V48_Anleitung.md)
+
+[MP4 mit Spielmusik: alle drei Übergaben und Navis Frosch-Satz](Habeck_Drei_Geschenke_V48.mp4?raw=true)
+
+Habeck verteilt nach dem ersten Master-Schwert-Ziehen drei Geschenke. Link bleibt in der Halle grün und trägt das Lichtgewand erst nach der Rückkehr in die Zitadelle. Navi sagt dort: **„Och nee, jetzt ist der Frosch einfach weggehüpft“**. Der Frosch bleibt ein Gegenstand für die Animation; Dein Tauschgegenstand-Slot und Timer werden dafür nicht verändert. **Merz und König Harkinian sind in der Fensterszene zehn Prozent kleiner**, ohne geänderte Kamerafahrt oder Positionen.
+
+Normal und DEBUG sind kumulativ. Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden. Die erste Master-Schwert-Sequenz mit allen Übergaben und Rückkehr sowie die Fensterszene wurden mit 4 MiB geprüft.
+
+![Kleinere Figuren in der ursprünglichen Fensterszene](Fensterszene_Kleinere_Figuren_V48.png)
+
 # V47: Lichtgewand mit eigener zweiter Übergabe
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Lichtgewand_V47.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Lichtgewand_V47.bps?raw=true) · [Quellen und beide Patches](Merzen_Lichtgewand_V47_Quellen_Patch.zip?raw=true) · [Anleitung](Lichtgewand_V47_Anleitung.md)
