@@ -1,3 +1,9 @@
+## Vorbereitet: Hunting-Rifle-Soldat für später
+
+[Vorlagen-Paket](Goronen_Hunting_Rifle_Vorlage.zip?raw=true) · [Vorschau im Spiel](Gorone_Hunting_Rifle_Vorschau.png?raw=true)
+
+Eine zusätzliche Soldaten-Goronen-Variante mit der Silent-Hill-Hunting-Rifle ist fertig angepaßt und mit 4 MiB im Emulator geprüft. 128 Dreiecke, an die bestehende Handhaltung gebunden. Noch keine neue Platzierung oder Dialoge. Die untenstehenden V56-Patches bleiben unverändert.
+
 # V56: Mr. Beans Mini und neue Schrotflinten-Goronen
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Mini_Soldaten_V56.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Mini_Soldaten_V56.bps?raw=true) · [Quellen und Patches](Merzen_Mini_Soldaten_V56_Quellen_Patch.zip?raw=true) · [Anleitung](Mini_Soldaten_V56_Anleitung.md)
