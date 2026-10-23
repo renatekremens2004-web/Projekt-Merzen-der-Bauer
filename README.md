@@ -1,3 +1,19 @@
+# V54: Train Chase, Starwalker und unveränderte Pinguin-Plätze
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Flucht_V54.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Flucht_V54.bps?raw=true) · [Quellen und Patches](Merzen_Flucht_V54_Quellen_Patch.zip?raw=true) · [Anleitung](Flucht_V54_Anleitung.md)
+
+[**MP4 mit echter Spielmusik: Train Chase bei der Flucht**](Flucht_Train_Chase_V54.mp4?raw=true) · [Starwalker-Bilder](Starwalker_V54_Bilder.md)
+
+Die hochgeladene Train-Chase-MIDI spielt jetzt bei der Flucht mit Zelda als native N64-Orchesterfassung, mit Bläsern, Streichern und Schlagwerk. Die vollständige Passage wiederholt sich. Sie verwendet die vorhandenen Instrumente und das bisherige Audiobudget. Starwalker passt zur Umgebungsbeleuchtung und steht in seinem Credits-Shot weiter hinten. Die Pinguine stehen unverändert an ihren bisherigen Plätzen; auch ihre Animationen und die Credits-Kamera bleiben erhalten. Die Pinguin-Bilder von V53 waren lediglich vergrößerte Kontrollansichten. Alle bisherigen Inhalte sind enthalten.
+
+Mit 4 MiB geprüft: kompletter Musikdurchlauf und Wiederholung, native Außen-/Innen-Transition mit weiterlaufender Musik, Flucht-Zelda, DEBUG-Musikstart, vier beleuchtete Starwalker-Orte und Credits-Schwenk bis zum Todesberg. Andere Musik, Samples, Dialoge und Cutscene-Skripte wurden binär verglichen. Die MP4 zeigt eine kurze automatisch gesteuerte Hörprobe mit tatsächlicher Spielmusik und Soundeffekten.
+
+Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden, nicht auf einen älteren Patchstand.
+
+![Zelda bei der Flucht](Flucht_Zelda_Train_Chase_V54.png)
+
+![Starwalker weiter im Hintergrund](Credits_Starwalker_Hintergrund_V54.png)
+
 # V53: Trio zusammen und Credits überarbeitet
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V53.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V53.bps?raw=true) · [Quellen und Patches](Merzen_Credits_V53_Quellen_Patch.zip?raw=true) · [Anleitung](Credits_V53_Anleitung.md)
