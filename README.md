@@ -1,3 +1,17 @@
+# V52: Kris, Susie, Ralsei und Original Starwalker
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Deltarune_V52.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Deltarune_V52.bps?raw=true) · [Quellen und beide Patches](Merzen_Deltarune_V52_Quellen_Patch.zip?raw=true) · [Anleitung](Deltarune_V52_Anleitung.md)
+
+Das kleine Deltarune-Trio erscheint als Kind in einem späteren Raum von Dodongos Höhle. Ralsei fragt nach einem Dunklen Brunnen. Original Starwalker ist in elf Dungeons ansprechbar, mit den gewünschten Sprüchen und einer Pause vor seinem Namen. Kakariko erhält zwei seitlich geparkte Panzer. Die Figuren haben leichte eigene Bewegungen. Alle vorherigen Inhalte sind enthalten.
+
+Die neuen Gespräche wurden mit 4 MiB geprüft, ebenso die Abwesenheit des Trios als Erwachsener. Vorhandene Texte, Modellbanken und Credits-Cutscenes bleiben erhalten. Beide Patches sind kumulativ: genau einen auf eine saubere europäische PAL-1.0-ROM anwenden.
+
+![Deltarune-Trio](Deltarune_Trio_V52.png)
+
+![Original Starwalker](Starwalker_V52.png)
+
+![Zwei geparkte Panzer](Kakariko_Zwei_Panzer_V52.png)
+
 # V49: König und Merz gegenüber auf dem blauen Teppich
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Fensterszene_V49.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Fensterszene_V49.bps?raw=true) · [Quellen und beide Patches](Merzen_Fensterszene_V49_Quellen_Patch.zip?raw=true) · [Anleitung](Fensterszene_V49_Anleitung.md)
