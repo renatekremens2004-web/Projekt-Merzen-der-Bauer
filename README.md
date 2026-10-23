@@ -1,3 +1,17 @@
+# V42: Panzer mit Kollision und friedliche Wald-Dekus
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Panzer_Dekus_V42.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Panzer_Dekus_V42.bps?raw=true) · [Quellen und Patches](Merzen_Panzer_Dekus_V42_Quellen_Patch.zip?raw=true) · [Änderungen und Texte](Panzer_Dekus_V42_Aenderungen.md)
+
+Panzer am Todesberg stehen am Rand und haben einfache Rumpfkollision. Drei zusätzliche Panzer stehen im erwachsenen Kakariko. In Wawarios Zelle wartet ein unbewaffneter Gorone. In den erwachsenen Verlorenen Wäldern stehen der grüne Panzer und drei friedliche Dekus mit Deinen Texten. Alle bisherigen Änderungen sind enthalten.
+
+![Waldgruppe – freie Testkamera, unveränderte Figurenpositionen](Panzer_Dekus_Wald_Testkamera_V42.png)
+
+![Begehbarer Todesberg-Pfad](Panzer_Todesberg_Weg_V42.png)
+
+![Unbewaffneter Gorone in Wawarios Zelle](Gorone_Wawario_Dialog_V42.png)
+
+Gezielte 4-MiB-Tests bestanden; kein vollständiger Spieldurchlauf. Patches auf die saubere europäische PAL 1.0 anwenden. DEBUG: L+R halten und Z drücken.
+
 # V41: Wawa-Brüder am mittleren Festungsausgang
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Credits_V41.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Credits_V41.bps?raw=true) · [Quellen und Patches](Merzen_Credits_V41_Quellen_Patch.zip?raw=true) · [Änderungen](Credits_V41_Aenderungen.md)
