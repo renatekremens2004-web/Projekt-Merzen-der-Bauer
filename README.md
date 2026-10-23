@@ -1,3 +1,15 @@
+# V49: König und Merz gegenüber auf dem blauen Teppich
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Fensterszene_V49.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Fensterszene_V49.bps?raw=true) · [Quellen und beide Patches](Merzen_Fensterszene_V49_Quellen_Patch.zip?raw=true) · [Anleitung](Fensterszene_V49_Anleitung.md)
+
+König Harkinian und Merz sind auf der Mittellinie des blauen Teppichs einander gegenüber ausgerichtet. Merz geht weiterhin auf den König zu und kniet nieder. Ihre kleineren Größen aus V48 bleiben erhalten. Kamera, Dialog und Zeitablauf bleiben unverändert. Alle bisherigen Inhalte sind enthalten.
+
+Die Fensterszene wurde mit der ursprünglichen weiten und nahen Kamera sowie 4 MiB Speicher geprüft. Beide Patches sind kumulativ: genau einen auf eine saubere europäische PAL-1.0-ROM anwenden.
+
+![Fensterszene: beide Figuren auf dem Teppich](Fensterszene_Teppich_V49.png)
+
+![Nahaufnahme mit ursprünglicher Kamera](Fensterszene_Teppich_Nah_V49.png)
+
 # V48: Licht-Amulett, Lichtgewand und Glotzaugenfrosch
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Drei_Geschenke_V48.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Drei_Geschenke_V48.bps?raw=true) · [Quellen und beide Patches](Merzen_Drei_Geschenke_V48_Quellen_Patch.zip?raw=true) · [Anleitung](Drei_Geschenke_V48_Anleitung.md)
