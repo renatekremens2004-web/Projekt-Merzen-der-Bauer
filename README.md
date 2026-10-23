@@ -1,3 +1,17 @@
+# V44: Sonnengewand, stärkeres Schattengewand und DEBUG-Optionen
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Sonnengewand_V44.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Alle_Items_Schattengewand_V44.bps?raw=true) · [Bedienung und Tests](DEBUG_Alle_Items_Schattengewand_V44_Anleitung.md) · [Quellen und Patches](Merzen_DEBUG_Alle_Items_Schattengewand_V44_Quellen_Patch.zip?raw=true)
+
+Habeck gibt beim ersten Erwachen zusätzlich das Sonnengewand. Sonnengewand, oranges Wallace-Gewand und hellblaues Zora-Gewand halbieren den Schaden. Das spätere schwarze Schattengewand bleibt mit einem Viertel Schaden am stärksten. Beide Link-Formen, passende Symbole und Gewandnamen sind enthalten.
+
+DEBUG-Ortsmenü: **C-links: Alle Items**, **C-rechts: Schattengewand AN/AUS**, anschließend mit **A** den Ort laden. Öffnen mit **L+R halten und Z drücken**. Alle bisherigen Änderungen aus V43 sind enthalten. Beide Patches auf die saubere europäische PAL 1.0 anwenden.
+
+![Sonnengewand im Ausrüstungsmenü](Sonnengewand_Ausruestung_V44.png)
+
+![Neue Optionen im Debug-Ortsmenü](DEBUG_Ortsmenue_Alle_Items_Schattengewand_V44.png)
+
+Vollständige erste Master-Schwert-/Habeck-Sequenz, sechs DEBUG-Ladedurchläufe, beide Gewandnamen und Symbole im Pausenmenü sowie Credits-Start und Rückkehr mit 4 MiB geprüft. Dazu 6.912 Prüfungen der Schadensfunktion. Keine neuen Figuren oder veränderten Credits-Kameras.
+
 # V43: Harkinian, Moseby, Skelett und Kampfänderungen
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Harkinian_Moseby_Skelett_V43.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Harkinian_Moseby_Skelett_V43.bps?raw=true) · [Quellen und Patches](Merzen_Harkinian_Moseby_Skelett_V43_Quellen_Patch.zip?raw=true) · [Änderungen und neue Texte](Harkinian_Moseby_Skelett_V43_Aenderungen.md)
