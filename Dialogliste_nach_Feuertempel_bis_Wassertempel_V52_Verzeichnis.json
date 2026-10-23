@@ -1,0 +1,1872 @@
+{
+  "source_sha256": "34c09caa61ec80d0cf52eac2ba3a8044b8f831447595a792af1e428c9d21e40d",
+  "rom_reference_sha256": "86380426578b59fc491955347871e5e22330fb0e00a592b71f949c7c6877ef74",
+  "scope": "Feuertempel-Nachspiel bis Wassertempel-Abschluß und unmittelbare Reaktionen",
+  "cutscene_coverage": [
+    {
+      "source": "extracted/pal-1.0/assets/scenes/dungeons/ice_doukutu/gIceCavernSerenadeCs.csdata.inc.c",
+      "ids": [
+        "4036",
+        "4039",
+        "4037",
+        "4038",
+        "0075",
+        "106D"
+      ]
+    },
+    {
+      "source": "src/overlays/actors/ovl_En_Ru2/sage_medallion_cameras.inc.c",
+      "ids": [
+        "4041",
+        "4046",
+        "4049",
+        "4047",
+        "404A",
+        "003D",
+        "4042"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot06/gLakeHyliaRestoredCs.csdata.inc.c",
+      "ids": [
+        "4057",
+        "4043",
+        "4059"
+      ]
+    }
+  ],
+  "total_messages": 120,
+  "main_messages": 51,
+  "optional_messages": 69,
+  "messages": [
+    {
+      "id": "3041",
+      "section": "1. Nach dem Feuertempel – Goronia und Navis nächstes Ziel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
+      "pages": [
+        "Du hast es geschafft,\n[Spielername]! Der Drache wurde\nbesiegt. Mein Vater ist auch zurück.\nAber wo ist Wallace?"
+      ],
+      "controls": [
+        "TEXTID(0x3042)"
+      ],
+      "notes": "Unmittelbare Rückmeldung von Darunias Sohn nach dem Feueramulett; als Überlappung mit dem abgeschlossenen Kapitel enthalten. V22: Vater zurück, aber wo ist Wallace?",
+      "locations": []
+    },
+    {
+      "id": "3042",
+      "section": "1. Nach dem Feuertempel – Goronia und Navis nächstes Ziel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wallace_neu_v22_de.json"
+      ],
+      "pages": [
+        "Wenn ich groß bin, möchte ich\ngenauso werden wie die großen\nMänner in meinem Leben, von denen\nich gelernt habe.",
+        "Mein Vater, das mutige Oberhaupt\nder Goronen. Du, [Spielername],\nder mutige Junge, der uns zweimal\nden steinigen Arsch gerettet hat. Und",
+        "Wallace, ein Forscher, der sein Herz\nimmer am rechten Fleck hatte."
+      ],
+      "controls": [],
+      "notes": "Fortsetzung/Wiederholung nach dem Feueramulett. V22: Vorbilder Vater, Spieler und Wallace.",
+      "locations": []
+    },
+    {
+      "id": "0152",
+      "section": "1. Nach dem Feuertempel – Goronia und Navis nächstes Ziel",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "So, alles klar. Schätze, als Nächstes\nmüssen wir dann zu den Zoras.",
+        "Da wird bestimmt alles in bester\nOrdnung sein. Ich wüßte nicht, warum\ndort irgendein Problem lauern sollte.",
+        "Oder irgendeine Gefahr. Wir gehen da\nhin und kriegen dieses Amulett\nwahrscheinlich einfach direkt\ngeschenkt.",
+        "Ich glaube nicht, daß das in\nirgendeiner Form schiefgeht."
+      ],
+      "controls": [],
+      "notes": "Natürlicher Navi-Story-Hinweis nach dem Feueramulett, solange die Eisenstiefel fehlen. Kein garantiert automatisch nach dem Endboß laufender Text.",
+      "locations": []
+    },
+    {
+      "id": "209F",
+      "section": "2. Zoras Reich in der Zukunft – die wiedergetroffene Zora",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Hey, wir kennen uns doch! Damals\nam Hylia-See habe ich mich gefragt,\nob ich vielleicht selbst eine Zora-Frau\nbin.",
+        "Inzwischen weiß ich: Ja, bin ich.\nDanke, daß Du mir die Augen\ngeöffnet hast, [Spielername]!",
+        "Ich fühle mich endlich wohl mit mir.\nSchön, Dich wiederzusehen!"
+      ],
+      "controls": [],
+      "notes": "Erwachsene Zora am Hylia-See-/Geschlechts-Gag aus der Vergangenheit wiedergetroffen; deutscher Zusatz-NPC in Zoras Reich. Die übrigen ursprünglichen Bewohner sind weiterhin eingefroren.",
+      "locations": []
+    },
+    {
+      "id": "0180",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Diese silbernen Rubine sind zwar\nvöllig wertlos und nur Schrott,",
+        "aber für's Rätsel müssen wir'se wohl\neinsammeln. Mach schon!"
+      ],
+      "controls": [],
+      "notes": "Örtlicher Silberrubin-Hinweis; kein zusätzlicher allgemeiner Story-Ruf.",
+      "locations": [
+        "Eishöhle, Raum 3"
+      ]
+    },
+    {
+      "id": "0189",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Damit können wir den Zora-König\nauftauen... Oder wir lassen es\neinfach. Der wird eh auftauen, wenn\nwir den Wassertempel geschafft",
+        "haben. Hehe.",
+        "Ich nehme alles zurück. Das war nur\nfür den Gag. Wir müssen halt\nwirklich den Fischkönig auftauen."
+      ],
+      "controls": [],
+      "notes": "Örtliche Reaktion auf blaues Feuer. Enthält ausdrücklich Navis Widerruf: König Zora muß tatsächlich aufgetaut werden; das geschieht nicht automatisch nach dem Tempel.",
+      "locations": [
+        "Eishöhle, Raum 9"
+      ]
+    },
+    {
+      "id": "005D",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Blaues Feuer eingefangen!\nEs ist eine kalte Flamme.\nBenutze sie mit\n[C-Left], [C-Down] oder [C-Right]."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOTTLE_BLUE_FIRE)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "403D",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "ben_ice_de.json"
+      ],
+      "pages": [
+        "Eisige Grüße! Fanboy und Chum Chum\nsind im Einsatz! Wir sammeln Eis für\nunsere Freezy-Slushies!",
+        "Andere Helden retten die Welt. Wir\nretten die Welt UND bringen ein\nkühles Getränk mit!",
+        "Chum Chum sucht schon mal weiter.\nBeim nächsten Schluck denken wir\nnatürlich auch an Dich!"
+      ],
+      "controls": [],
+      "notes": "Fanboy in der Eishöhle.",
+      "locations": []
+    },
+    {
+      "id": "4040",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "ben_ice_de.json"
+      ],
+      "pages": [
+        "Oh Mann, ich krieg hier echt\nHirnfrost. Und ich hab noch nicht mal\neinen Freezy-Slushie getrunken!",
+        "Ich glaub, ich brauch eine Pause. Ich\nfühl mich so müde...",
+        "Vielleicht leg ich mich einfach einmal\nkurz hin. Nur ganz kurz..."
+      ],
+      "controls": [],
+      "notes": "Chum Chum an einer anderen Stelle der Eishöhle; das rote Eis muß zuerst mit blauem Feuer aufgetaut werden.",
+      "locations": []
+    },
+    {
+      "id": "706B",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "ben_ice_de.json"
+      ],
+      "pages": [
+        "Der Großteil von dem Eis hier ist\nübrigens aus transparentem Plastik.",
+        "Wir wollten nur noch mehr Leute vom\nSchlittschuhlaufen abhalten. Jetzt hab\nich leider vergessen, welches Eis echt\nist."
+      ],
+      "controls": [],
+      "notes": "Zusätzlicher Zora in Raum 11 der Eishöhle.",
+      "locations": []
+    },
+    {
+      "id": "71DE",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "pingu_de.json"
+      ],
+      "pages": [
+        "NOOT NOOT!\nDie Proletarier haben nichts zu\nverlieren als ihre Ketten.",
+        "Sie haben eine Welt zu gewinnen!"
+      ],
+      "controls": [],
+      "notes": "Pingu in der Eishöhle; freiwilliges NPC-Gespräch.",
+      "locations": []
+    },
+    {
+      "id": "7220",
+      "section": "3. Eishöhle – Navi, Fanboy, Chum Chum und Plastik-Eis",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "build_starwalker_v51.py"
+      ],
+      "pages": [
+        "This ice is pissing me off.\nI'm the original Starwalker"
+      ],
+      "controls": [],
+      "notes": "Original Starwalker in der Eishöhle, Raum 8. Pause vor seinem Namen.",
+      "locations": []
+    },
+    {
+      "id": "0053",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Die Eisenstiefel!\nZu schwer, um zu rennen.\nZu schwer, um zu schwimmen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_BOOTS_IRON)"
+      ],
+      "notes": "Erhalt der Eisenstiefel. Steuerkreuz unten wechselt im aktuellen Hack bereits zu/von den Eisenstiefeln; das ist keine zusätzliche Dialogseite.",
+      "locations": []
+    },
+    {
+      "id": "4036",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Alles ist voller Eis. Und ich bin\nbeeindruckt von Deinem Fleiß,\n[Spielername]."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4039",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Der Zora-König hat sich von Friedrich\nMerz ins Bockshorn jagen lassen.",
+        "Vom Todesberg klebt an Dir noch ein\nbißchen Erz.",
+        "Die meisten Zoras sind eingefroren.\nThaddäus ist zum Wassertempel\naufgebrochen, um den Abfluß zu\nreparieren."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4037",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Nun höre gut zu und lerne die\nSerenade des Wassers. Laß mich nur\neben meine Harfe rausholen.",
+        "Warte. Einen Moment. Wo ist sie\ndenn?",
+        "Das ist so eine flexible Harfe. Die\nkann ich zusammenfalten und in meine\nArschtasche stecken. Mega praktisch."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4038",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Und sowieso: Seit ich ein Typ bin,\nhabe ich mal vernünftige\nHosentaschen. Äh... Vergiß den\nletzten Teil.",
+        "Die Hose ist allgemein sau eng, oder?\nFindest Du das nice?",
+        "Na gut. Hier kommt die Serenade des\nWassers."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0075",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Du hast die\nSerenade des Wassers\nerlernt!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "088C",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Hier kannst Du nicht warpen!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "notes": "Reine Okarina-Hintergrundanzeige der Serenade. Kein gesprochener Satz; leerer Wortlaut beabsichtigt.",
+      "locations": []
+    },
+    {
+      "id": "106D",
+      "section": "4. Eishöhle – Eisenstiefel, Sheik und Serenade des Wassers",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "wald_auftakt_de.json"
+      ],
+      "pages": [
+        "[Spielername]... Deine alte Freundin\nwartet. Und ich meine nicht mich."
+      ],
+      "controls": [],
+      "notes": "Gemeinsamer Sheik-Abschlußsatz nach Menuett, Bolero UND Serenade. Kein eigener Wasser-Abschied; deshalb steht hier derselbe gespeicherte Freundin-Satz.",
+      "locations": []
+    },
+    {
+      "id": "4012",
+      "section": "5. König Zora auftauen und Zora-Rüstung erhalten",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Oh, ich bin wieder aufgetaut! Die\nSache mit den Klimaanlagen ging wohl\netwas schief.",
+        "Friedrich Merz hat mich an der Nase\nherumgeführt. An meiner Zora-Nase!\nMeiner Fischnase!",
+        "Und meine Tochter ist schon länger\nweg. Aber sie taucht bestimmt bald\nwieder auf. Jede Minute kann es\nsoweit sein.",
+        "Was? Ich war WIE LANGE im Eis?!\nNee, nee. So schlimm ist das alles\ndoch nicht. Ähh...",
+        "Hier, nehmt diese Zora-Rüstung als\nDank fürs Auftauen. Damit könnt Ihr\nunter Wasser atmen. Die funktioniert\nwenigstens."
+      ],
+      "controls": [],
+      "notes": "Erstes Gespräch nach dem Auftauen ohne bereits vorhandene Zora-Rüstung; native Übergabe folgt.",
+      "locations": []
+    },
+    {
+      "id": "401F",
+      "section": "5. König Zora auftauen und Zora-Rüstung erhalten",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Oh, ich bin wieder aufgetaut! Das\nmit den Klimaanlagen ging wohl ganz\nschön schief.",
+        "Merz hat mich an meiner Zora-Nase\nherumgeführt. Meiner Fischnase!\nDabei wirkte der Mann so\nvertrauenswürdig.",
+        "Meine Tochter ist auch schon länger\nweg. Aber bestimmt taucht sie gleich\nwieder auf. Nur noch ein paar\nMinuten.",
+        "Was? Ich war WIE LANGE im Eis?!\nNee, nee, so schlimm ist das alles\ndoch nicht. Ähh...",
+        "Als Dank wollte ich Euch eine\nZora-Rüstung geben. Ihr habt schon\neine? Dann seid Ihr ja besser\nvorbereitet als ich."
+      ],
+      "controls": [
+        "TEXTID(0x4013)"
+      ],
+      "notes": "Alternative beim Auftauen, falls die Zora-Rüstung bereits vorhanden ist.",
+      "locations": []
+    },
+    {
+      "id": "4013",
+      "section": "5. König Zora auftauen und Zora-Rüstung erhalten",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Thaddäus ist zum Wassertempel\naufgebrochen, um den Abfluß zu\nreparieren. Endlich kümmert sich\njemand darum.",
+        "Meine Tochter kommt sicher auch\nbald zurück. Daß ich sie seit Jahren\nnicht gesehen habe, ist bestimmt ein\ngutes Zeichen."
+      ],
+      "controls": [],
+      "notes": "Gespeicherte ältere König-Zora-Zeile. Die aktuelle deutsche Wiederholungslogik verwendet vor dem Wasseramulett 4045 und danach 4044; nicht als zusätzliches normales Gespräch auffassen.",
+      "locations": []
+    },
+    {
+      "id": "0051",
+      "section": "5. König Zora auftauen und Zora-Rüstung erhalten",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Die Zora-Rüstung!\nDiese Unterwasser-Rüstung\npaßt nur Erwachsenen. Du\nkannst unter Wasser atmen!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_TUNIC_ZORA)"
+      ],
+      "notes": "Fundtext der hellblauen Zora-Rüstung; keine Änderung der vorhandenen Unterwasserfunktion.",
+      "locations": []
+    },
+    {
+      "id": "4045",
+      "section": "5. König Zora auftauen und Zora-Rüstung erhalten",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Thaddäus ist zum Wassertempel\naufgebrochen, um den Abfluß zu\nreparieren. Ein Künstler UND ein\nKlempner!",
+        "Diese Klimaanlagen waren jedenfalls\nkeine gute Investition. Merz hat mich\nan meiner Fischnase herumgeführt.",
+        "Und Ruto ist immer noch weg. Aber\nsie kommt bestimmt bald. Jede\nMinute. Ich kenne doch meine Tochter."
+      ],
+      "controls": [],
+      "notes": "Deutscher normaler Gesprächszustand nach dem Auftauen und vor dem Wasseramulett.",
+      "locations": []
+    },
+    {
+      "id": "0153",
+      "section": "6. Mit Eisenstiefeln zum Wassertempel – Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ],
+      "pages": [
+        "Eisenstiefel. Endlich Schuhe, mit denen\nman absichtlich untergeht. Im See\nwerden wir sie wohl brauchen."
+      ],
+      "controls": [],
+      "notes": "Natürlicher Oberwelt-Hinweis mit Eisenstiefeln und ohne Wasseramulett. 0152 wird dadurch abgelöst.",
+      "locations": []
+    },
+    {
+      "id": "403E",
+      "section": "7. Thaddäus im Wassertempel – erste Begegnung",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ],
+      "pages": [
+        "Algengrütze. Ausgerechnet Du. Der\nnervige Taucher von damals.",
+        "Ja, ich bin's. Thaddäus Quentin\nTentakel. Begabter Künstler. Völlig\nverkannt.",
+        "In Hyrule gilt schon eine singende\nVogelscheuche als Hochkultur.",
+        "Prinzessin Ruto ist nie wieder\naufgetaucht. Verständlich.",
+        "Zoras Reich: nur Langweiler und\nKunstbanausen. Auf dem Thron sitzt\nder gierigste.",
+        "Friedrich Merz hat dem König\nKlimaanlagen versprochen. Jetzt haben\nwir eine Eiszeit.",
+        "Bemerkenswert gründliche Kühlung.",
+        "Viele Zoras sind eingefroren.\nSchlimmer noch: meine Klarinette.",
+        "Meine Klarinette, [Spielername]!\nBegreifst Du diese Katastrophe?",
+        "Ich will den Hylia-See und unser Reich\nwieder in Ordnung bringen.",
+        "Dem Monster in diesem Tempel trete\nich jetzt persönlich in den Arsch!",
+        "Ein feuchtes Etwas ruiniert mir nicht\nmeine musikalische Laufbahn.",
+        "Hier gibt es drei Stellen, an denen Du\nden Wasserstand verändern kannst.",
+        "Folg mir, wenn Du helfen willst.\nAnsonsten laß mich in Ruhe."
+      ],
+      "controls": [],
+      "notes": "Thaddäus ersetzt ausschließlich die erwachsene Ruto. Einleitung im Wassertempel, nicht das frühere Tauchspiel.",
+      "locations": []
+    },
+    {
+      "id": "209C",
+      "section": "8. Wassertempel – Okto, Pepsiman, Pepsi-Müll, Fanboy und Chum Chum",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "friendly_octorok_de.json"
+      ],
+      "pages": [
+        "Joooo! Ich bin es, Okto, der\nOktorok! Was geht ab, Amigo??",
+        "Hey, uno momento... Ich kenn Dich\ndoch, Muchacho!",
+        "Du bist der Typ, dem ich mal im\nInneren eines Fischmauls begegnet\nbin!",
+        "Ekelige Angelegenheit, haha! Das\nwaren noch Zeiten.",
+        "Na ja, ist ja auch egal. Wie schön,\nDich wiederzusehen!",
+        "Hiermit ernenne ich Dich zum\nEhren-Oktorok, mein Amigo!\nBienvenido!"
+      ],
+      "controls": [],
+      "notes": "Okto am Eingang des Wassertempels; normale freiwillige Ansprache.",
+      "locations": []
+    },
+    {
+      "id": "3072",
+      "section": "8. Wassertempel – Okto, Pepsiman, Pepsi-Müll, Fanboy und Chum Chum",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "pepsi_de.json"
+      ],
+      "pages": [
+        "PEPSIMAAAAAAAAAAAN! Tralala,\nich bin es, der coole\nKohlensäure-Held. Coolensäure.",
+        "Ich kam hierher, um neues Wasser zu\ntanken, das ich mit meinen göttlichen\nFähigkeiten in Pepsi verwandeln kann.",
+        "Da bin ich so nem Tentakel-Typen\nbegegnet, der meinte, er HASSE\nPepsi! Könnt Ihr Euch das vorstellen?",
+        "Ich meine, ich checke ja, wenn man\nCoca-Cola haßt, aber PEPSI?! Nicht\nmit PEPSI MAAAANN!"
+      ],
+      "controls": [],
+      "notes": "Pepsiman im Wassertempel; freiwilliges NPC-Gespräch.",
+      "locations": []
+    },
+    {
+      "id": "3073",
+      "section": "8. Wassertempel – Okto, Pepsiman, Pepsi-Müll, Fanboy und Chum Chum",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "pepsi_de.json"
+      ],
+      "pages": [
+        "Dieser Pepsi-Schwachmat hat seinen\nganzen Scheiß hier überall hingemüllt."
+      ],
+      "controls": [],
+      "notes": "Navi beim Anvisieren der Pepsi-Dosen. Mehrere Dosen können denselben Satz verwenden; keine neue Story-Stufe je Dose.",
+      "locations": []
+    },
+    {
+      "id": "7068",
+      "section": "8. Wassertempel – Okto, Pepsiman, Pepsi-Müll, Fanboy und Chum Chum",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "water_comic_sahur_de.json"
+      ],
+      "pages": [
+        "Hey, hey, hey! Chum Chum und ich\nsind jetzt auch hier! Helden kennen\nkeine nassen Socken!",
+        "Ich hab Chum Chum einen Comic\ngegen die Langeweile mitgegeben.\nMeinen LIEBLINGSCOMIC!",
+        "Den feier ich richtig! Für meinen\nbesten Kumpel gibt's nur das Beste!\nDer paßt bestimmt gut darauf auf."
+      ],
+      "controls": [],
+      "notes": "Fanboy im Wassertempel; eigener Raum und Gesprächsort.",
+      "locations": []
+    },
+    {
+      "id": "7069",
+      "section": "8. Wassertempel – Okto, Pepsiman, Pepsi-Müll, Fanboy und Chum Chum",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "water_comic_sahur_de.json"
+      ],
+      "pages": [
+        "Fanboy hat mir seinen Lieblingscomic\ngegen die Langeweile mitgegeben!",
+        "Der ist mir im Wasser abgesoffen.",
+        "Jetzt kleben alle Seiten zusammen.\nPraktisch! So ist man viel schneller\nmit dem Lesen fertig!"
+      ],
+      "controls": [],
+      "notes": "Chum Chum im Wassertempel; eigener Raum und Gesprächsort.",
+      "locations": []
+    },
+    {
+      "id": "721B",
+      "section": "8. Wassertempel – Okto, Pepsiman, Pepsi-Müll, Fanboy und Chum Chum",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "build_starwalker_v51.py"
+      ],
+      "pages": [
+        "This water is pissing me off.\nI'm the original Starwalker"
+      ],
+      "controls": [],
+      "notes": "Original Starwalker im Wassertempel, Raum 16. Pause vor seinem Namen.",
+      "locations": []
+    },
+    {
+      "id": "0105",
+      "section": "9. Wassertempel – örtliche Navi-Hinweise und Enterhaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ],
+      "pages": [
+        "Hey, da ist mal wieder einer von\ndiesen Minecraft-Blöcken."
+      ],
+      "controls": [],
+      "notes": "Gemeinsam verwendeter Zeitblock-Hinweis, auch aus den früheren Tempeln bekannt.",
+      "locations": [
+        "Wassertempel, Raum 7"
+      ]
+    },
+    {
+      "id": "01AB",
+      "section": "9. Wassertempel – örtliche Navi-Hinweise und Enterhaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "[Spielername]! Was ist denn das\njetzt für ein bekloppter Raum?\nWarum ist er auf der Karte wie ne\nWasserschlange geformt? Boah, der",
+        "Boß wird bestimmt richtig, richtig\ncool!!"
+      ],
+      "controls": [],
+      "notes": "Zwei örtliche Auslöser in demselben Strudelgang; derselbe Text, kein zusätzliches freies Gespräch.",
+      "locations": [
+        "Wassertempel, Raum 21"
+      ]
+    },
+    {
+      "id": "004F",
+      "section": "9. Wassertempel – örtliche Navi-Hinweise und Enterhaken",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Der Enterhaken!\nDies ist ein viel besserer\nFanghaken - er reicht\ndoppelt so weit!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_LONGSHOT)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "403F",
+      "section": "10. Morpha – Navis Warnung, Zielerfassung und flacher Thaddäus",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "[Spielername]! Vorsicht!\nDas hier sieht nicht aus wie\ngewöhnliches Wasser...\nIrgendetwas lauert hier!"
+      ],
+      "controls": [],
+      "notes": "Native Navi-Warnung in Morphas Einleitung. Expliziter Aufruf aus Boss_Mo; nicht Thaddäus und kein frei angeforderter Raumhinweis.",
+      "locations": []
+    },
+    {
+      "id": "0625",
+      "section": "10. Morpha – Navis Warnung, Zielerfassung und flacher Thaddäus",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Morpha. Ein kleiner Klumpen im\nWasser, der uns für seine Scheißarme\nständig durch die Luft schmeißen\nmuß."
+      ],
+      "controls": [],
+      "notes": "Morpha beim Anvisieren mit Navi.",
+      "locations": []
+    },
+    {
+      "id": "608C",
+      "section": "10. Morpha – Navis Warnung, Zielerfassung und flacher Thaddäus",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "fundstuecke_de.json"
+      ],
+      "pages": [
+        "Scheiße Mann, der Typ ist tot!!"
+      ],
+      "controls": [],
+      "notes": "Navi beim Anvisieren des flachen Thaddäus im Morpha-Raum; statisches Objekt. Kein zweiter lebender Weiser.",
+      "locations": []
+    },
+    {
+      "id": "4041",
+      "section": "11. Halle der Weisen – Thaddäus und Wasseramulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ],
+      "pages": [
+        "Nun, [Spielername]. Mein\nAufenthalt im Wassertempel ist\netwas anders verlaufen als\nvorgesehen.",
+        "Wenigstens habe ich jetzt alle Zeit\nder Welt, meiner Kunst nachzugehen\nund der Musik zu frönen.",
+        "Und keine Kundschaft. Ich beginne, die\nVorzüge dieses Ortes zu erkennen."
+      ],
+      "controls": [],
+      "notes": "Thaddäus als Weise des Wassers nach Morpha.",
+      "locations": []
+    },
+    {
+      "id": "4046",
+      "section": "11. Halle der Weisen – Thaddäus und Wasseramulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ],
+      "pages": [
+        "Du hast gut gekämpft. Für einen\ntraurigen Clown.",
+        "Auch ein blindes Huhn findet einmal\nein Korn. Deines war offenbar\nbewaffnet."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4049",
+      "section": "11. Halle der Weisen – Thaddäus und Wasseramulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ],
+      "pages": [
+        "Ich bin jetzt der Weise des Wassers.\nNoch ein anspruchsvoller Posten, für\nden mich niemand angemessen\nbezahlt.",
+        "Du suchst Prinzessin Zelda? Ich weiß\nnicht, wo sie steckt.",
+        "Daß sie überhaupt entkommen konnte,\nhaben wir Mr. Bean zu verdanken.",
+        "Das sollte bei all dem Gerede über\nDeinen Heldenmut einmal festgehalten\nwerden."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4047",
+      "section": "11. Halle der Weisen – Thaddäus und Wasseramulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ],
+      "pages": [
+        "Zelda ist am Leben. Ihr Kleidungsstil\nvermittelt gelegentlich einen anderen\nEindruck.",
+        "So viel Stoff und trotzdem keinerlei\nAusdruck. Tragisch."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "404A",
+      "section": "11. Halle der Weisen – Thaddäus und Wasseramulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ],
+      "pages": [
+        "Ich überreiche Dir nun eines meiner\ngrößten Kunstwerke: das\nWasseramulett.",
+        "Nimm es und trage es mit Würde.\nVielleicht färbt etwas von meinem\nTalent auf Dich ab.",
+        "Ich verspreche selbstverständlich\nnichts."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "003D",
+      "section": "11. Halle der Weisen – Thaddäus und Wasseramulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ],
+      "pages": [
+        "Das Wasseramulett!\nThaddäus, der Weise des\nWassers, gibt Dir seine\nKraft!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_MEDALLION_WATER)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4042",
+      "section": "11. Halle der Weisen – Thaddäus und Wasseramulett",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ],
+      "pages": [
+        "Ach, wenn Du König Zora triffst: Sag\nihm, daß ich ihn hasse. Danke."
+      ],
+      "controls": [
+        "FADE(90)"
+      ],
+      "notes": "Kurzer zeitgesteuerter Abschied in der Halle der Weisen.",
+      "locations": []
+    },
+    {
+      "id": "4057",
+      "section": "12. Hylia-See nach dem Sieg – Sheiks Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [],
+      "pages": [
+        "Das Wasser steigt, und das Böse\nverläßt den See...\n[Spielername], Du hast\nes geschafft!"
+      ],
+      "controls": [],
+      "notes": "Sheik nach der Rückkehr an den wiederhergestellten Hylia-See.",
+      "locations": []
+    },
+    {
+      "id": "4043",
+      "section": "12. Hylia-See nach dem Sieg – Sheiks Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ],
+      "pages": [
+        "Thaddäus ist nun der Weise des\nWassers?",
+        "Dann wird er sicher bald eine\nangemessene Bezahlung verlangen.",
+        "Auch für die Zoras müssen wir\nHyrule den Frieden wiederbringen!"
+      ],
+      "controls": [],
+      "notes": "Sheik spricht über Thaddäus nach der Rückkehr an den See.",
+      "locations": []
+    },
+    {
+      "id": "4059",
+      "section": "12. Hylia-See nach dem Sieg – Sheiks Abschied",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ],
+      "pages": [
+        "Schau, [Spielername]...",
+        "Du und Thaddäus, ihr habt gemeinsam\ndas bösartige Monster besiegt!",
+        "Der See füllt sich mit reinem\nWasser, und alles ist wie zuvor."
+      ],
+      "controls": [],
+      "notes": "Letzter längerer Sheik-Text dieser See-Cutscene.",
+      "locations": []
+    },
+    {
+      "id": "4044",
+      "section": "13. Nach dem Wassertempel – König Zora und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Und bald wird das Zora-Königreich\nwieder auftauen, nun, da Ihr den\nFluch gebrochen habt!",
+        "Jede Minute geht es los. Ich höre es\nschon auftauen. Nicht mehr lang!",
+        "Gleich ist hier wieder alles voller\nfließendem, angenehmem Wasser. Äh...\nNicht mehr lange...",
+        "Und meine Tochter kommt bestimmt\nauch gleich. Wir haben schließlich\njetzt beide lange genug gewartet."
+      ],
+      "controls": [],
+      "notes": "Deutscher König-Zora-Zustand nach dem Wasseramulett. Reich bleibt wie im Original eingefroren.",
+      "locations": []
+    },
+    {
+      "id": "0154",
+      "section": "13. Nach dem Wassertempel – König Zora und Navi",
+      "kind": "Hauptgeschichte",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Okay, supi! Langsam gehen uns die\nOrte aus. Also laß mal wieder zurück\nnach Kakariko gehen und die Mühle\nvon dem einen Typen versauen!"
+      ],
+      "controls": [],
+      "notes": "Nächster natürlicher Story-Hinweis mit Wasseramulett, solange das Kakariko-Folgeereignis noch fehlt. Beginn des nächsten Kapitels, nur als Übergang aufgenommen.",
+      "locations": []
+    },
+    {
+      "id": "021F",
+      "section": "A. Feuerpfeile nach dem wiederhergestellten Hylia-See",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zoras_erwachsen_de.json"
+      ],
+      "pages": [
+        "Schieß einfach nen Pfeil in die Sonne,\nwenn sie aufgeht, und fertig ist die\nLaube!"
+      ],
+      "controls": [],
+      "notes": "Inschrift zum Sonnen-/Feuerpfeil-Rätsel am wiederhergestellten See.",
+      "locations": []
+    },
+    {
+      "id": "0070",
+      "section": "A. Feuerpfeile nach dem wiederhergestellten Hylia-See",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Die Feuer-Pfeile!\nPlaziere sie auf [C], um sie\nabzuschießen! Triffst Du,\nwird Dein Ziel entflammen!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_ARROW_FIRE)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0199",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "wald_nachschlag_de.json"
+      ],
+      "pages": [
+        "Wenn Du da runter tauchst, so\nwundere Dich nicht: Der Hai da unten\nist aus Pappe.",
+        "Das ist ganz besondere Special-Pappe,\ndie sich im Wasser nicht auflöst.",
+        "Hab die da als Experiment."
+      ],
+      "controls": [],
+      "notes": "Normaler erwachsener Forscher-Text, solange keine Tausch- oder Tauchbelohnungsvariante Vorrang hat.",
+      "locations": []
+    },
+    {
+      "id": "406D",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nbist nur 1 Meter tief getaucht. Das\nwürde ich nicht \"Tauchen\" nennen..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "406E",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nbist nur 2 Meter tief getaucht. Das\nwürde ich nicht \"Tauchen\" nennen..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "406F",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nbist nur 3 Meter tief getaucht. Das\nwürde ich nicht \"Tauchen\" nennen..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4070",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nbist nur 4 Meter tief getaucht. Das\nwürde ich nicht \"Tauchen\" nennen..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4071",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nbist jetzt 5 Meter tief getaucht. Das\nist noch nicht tief genug..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4072",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nbist jetzt 6 Meter tief getaucht. Du\nsolltest tiefer tauchen können!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4073",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nbist jetzt 7 Meter tief getaucht. Du\nsolltest tiefer tauchen können!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4074",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast es vielleicht nicht bemerkt,\naber ich habe Dich beobachtet. Du\nhast den Grund des Sees erreicht!\nSuper! Hier ist etwas für Dich!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4075",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du scheinst der beste Taucher \nHyrules zu sein! Warum tauchst\nDu nicht mal auf den \nGrund des Hylia-Sees?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "7210",
+      "section": "B. Labor am Hylia-See – erwachsener Forscher und Tauchbelohnungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "characters_v43_de.json",
+        "build_characters_v43.py"
+      ],
+      "pages": [
+        "Gestatten, Marion Moseby. Ich arbeite\nin einem berühmten Fünf-Sterne-Hotel.\nVielleicht ist es selbst jemandem wie\nIhnen ein Begriff. Wenn ich endlich ein",
+        "paar Minuten frei habe, spaziere ich\nam Hylia-See, um den Kopf\nfreizubekommen. Mein Beruf wäre\ndurchaus angenehm, wären da nicht",
+        "diese beiden Zwillinge, die mich Tag\nfür Tag in den Wahnsinn treiben. Hier\nherrscht wenigstens Ruhe. Und ich\nmuß niemandem zum hundertsten Mal",
+        "erklären, daß man in einer Lobby\nnicht rennt!"
+      ],
+      "controls": [],
+      "notes": "Marion Moseby am Hylia-See, nur als Erwachsener; freiwilliges NPC-Gespräch.",
+      "locations": []
+    },
+    {
+      "id": "4014",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Ooh...\nDas ist eine... Nun... Hmmm...\nHmmm... Augentropfen...",
+        "Nun, wir haben in jedem Fall die\nerforderlichen Zutaten dafür.",
+        "Bringt diese Zutaten zum\nLabor am See. Dort werden die\nAugentropfen für Euch zubereitet.",
+        "Doch eilt, denn die Zutaten\nmüssen frisch sein..."
+      ],
+      "controls": [
+        "TEXTID(0x4015)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4015",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Werdet Ihr es schaffen,\nbevor sie verderben?\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4016",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Ihr glaubt, nicht schnell genug zu\nsein? Nun, auf dem Rücken eines\nflinken Pferdes könnt Ihr die\nWegstrecke schneller zurücklegen..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "000D",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast für das Rezept\neinen Glotzfrosch erhalten!\nSchnell! Bringe ihn zum Hylia-\nSee, bevor ihm warm wird!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_EYEBALL_FROG)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4019",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Oh, wow!",
+        "Ich habe keinen Glotzfrosch \nmehr gesehen, seit Zoras Reich\nvom Eis überzogen wurde!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4000",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Diese Augen schmecken göttlich!\nEndlich kann ich mal wieder\ngebratene Augäpfel in Sahnesoße\nessen! Mmmmh...!",
+        "Großartig! Richte König Zora\nmeinen Dank aus!\nBitte? Was willst Du?"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4001",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du willst, daß ich Augentropfen \nfür Biggoron herstelle? Oh, wie\naußerordentlich schade! Das\nhättest Du gleich sagen sollen!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4030",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Bitte sehr.",
+        "Diese Medizin ist nicht lange\nhaltbar!",
+        "Eile so schnell wie möglich zu\nden Goronen. Du bist ja noch jung\nund hast flinke Beine!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "000E",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Du hast für den Glotzfrosch\ndie Augentropfen erhalten!\nBringe sie zu Biggoron, bevor\nsie die Wirkung verlieren!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_EYE_DROPS)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4032",
+      "section": "C. Optionale Tauschquest – König Zora und Augentropfen",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Wenn Du wieder mal vorbeikommst,\nbring mir doch ein Souvenir mit!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4076",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Ich bin Balzac, die Vogelscheuche.\nIch wünschte, ich könnte reisen,\num herzergreifende Lieder zu\nhören. Aber ich stecke hier fest..."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4077",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Eine wunderschöne Melodie!\nSie geht richtig ans Herz!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "4079",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Es ist lange her, aber würdest Du\nmir nochmal das schöne Lied von\ndamals vorspielen?"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "40A1",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Ich bin Byron, das musikalische\nVogelscheuchen-Genie! Wenn ich\nein Lied einmal gehört habe, \nvergesse ich es nie mehr, Süßer!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "40A2",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Spiel das Lied, damit Du Balzac\nrufen kannst!\nWenn er in der Nähe ist, dann\nhilft er Dir, Süßer!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "40A3",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Hey! Bist Du nicht der Typ aus\ndem Kokiri-Wald?\nMann, bist Du gewachsen!",
+        "Okay, das ist Dein Lied...",
+        "Was?",
+        "Ich hab eben ein Elefantenhirn!\nDu hast eher ein Hirn wie ein Sieb,\nmein Guter! Nimm Deine Okarina\nund flöte das Lied, Süßer!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "40A6",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Wenn Du so einen Unsinn flötest,\ngewinnst Du keinen Blumentopf,\nSüßer!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "40A7",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "OH YEAHHH!!\nDas ist es! Das geht ab!\nMir haut's den Vogel raus!",
+        "Ich hab das nie vergessen!\nIch hab ja kein Stroh im Hirn!\nIch glaube, Du hast Dir eine\nBelohnung verdient, Süßer!",
+        "Ich hab eine prima Idee!",
+        "Mein Bruder Balzac reist in ganz\nHyrule herum. Wenn Du ihn rufen\nwillst, dann spiele dieses Lied!",
+        "Wenn er in der Nähe ist und es\nhört, dann wird er Dir helfen!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "40A8",
+      "section": "D. Vogelscheuchen am Hylia-See – Erwachsenen-Zustände",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Hey, die Okarina!\nSpiel ein Lied damit,\nSüßer!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "71C7",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Dr. Heinz Doofenshmirtz. Dieser Teich\nist einer der wenigen Orte, an denen\nnoch etwas lebt.",
+        "Merz versprach Wohlstand. Geblieben\nsind beschädigte Lebensräume und\nMenschen, die ihre gesamte Kraft",
+        "dafür aufbringen, irgendwie\ndurchzukommen.",
+        "Für die Besitzenden gibt es\nEntlastung. Für alle anderen die\nAufforderung, länger zu arbeiten und\nweniger zu verlangen.",
+        "Wer schon alles hat, kann leicht\nbehaupten, Not sei eine Frage der\npersönlichen Anstrengung.",
+        "Du kannst hier für 20 Rubine angeln.\nMöchtest Du?\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 407B. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71C8",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Ohne Rumble Pak spürst Du nicht,\nwenn ein Fisch anbeißt.",
+        "Beobachte die Leine. Du kannst das\nAngelspiel auch ohne diese\nRückmeldung benutzen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 407C. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71C9",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Ein Rumble Pak ist angeschlossen. Du\nspürst damit, wenn ein Fisch anbeißt."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 407D. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71CA",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Du hast keine 20 Rubine. Ohne diesen\nBetrag kann ich Dir die Ausrüstung\nnicht geben."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 407E. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71CB",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Geh an den Teichrand. Mit [Z] suchst\nDu nach Fischen. Mit [B] wirfst Du die\nLeine aus, mit [A] stoppst Du sie.",
+        "Bewege den Köder mit dem\nAnalogstick oder mit [B]. Überstürze\nes nicht.",
+        "Mit [A] holst Du die Leine ein.\nZusammen mit [R] geht es schneller.",
+        "Beißt ein Fisch an, drücke [A] und\nziehe den Analogstick nach unten.\nAnschließend holst Du die Leine mit\n[A] ein.",
+        "Bring Deinen Fang zum Wiegen an die\nTheke. Erst dann wird er als Rekord\nfestgehalten.",
+        "Dein Rekord aus der Kindheit bleibt\nerhalten. Ein späterer Fang verändert\ndagegen nicht die Vergangenheit.",
+        "Alles verstanden?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 407F. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71CC",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Du darfst angeln, solange Du\nmöchtest.",
+        "Der bisher größte Fang wog [Fischgröße]\nPfund.",
+        "Bei ausgeworfener Leine kannst Du\nmit [Z] die Blickrichtung ändern.",
+        "Ich wünsche Dir einen erfolgreichen\nFang."
+      ],
+      "controls": [
+        "FISH_INFO",
+        "EVENT"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 4080. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71CD",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Was benötigst Du?\nFisch wiegen!\nEin wenig reden...\nAufhören!"
+      ],
+      "controls": [
+        "THREE_CHOICE"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 4084. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71CE",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Ein guter Fang braucht Zeit. Du\nkannst es erneut versuchen, wenn Du\nmöchtest."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 4085. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71CF",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Ein neuer Rekord.",
+        "[Fischgröße] Pfund. Das Ergebnis ist\nfestgehalten. Hier ist Dein Preis."
+      ],
+      "controls": [
+        "FISH_INFO",
+        "EVENT"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 4086. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D0",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Laß meine Mütze los."
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 4087. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D1",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Du angelst schon sehr lange.",
+        "Wenn Du eine Pause brauchst, gib die\nAngel an der Theke zurück.",
+        "Du bist nicht verpflichtet, Dich bis\nzur Erschöpfung zu beschäftigen.\nAuch wenn man Dir das inzwischen\nüberall erzählt."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 4088. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D2",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "[Fischgröße] Pfund. Das reicht nicht für einen\nneuen Rekord. Im Teich gibt es\ngrößere Fische."
+      ],
+      "controls": [
+        "FISH_INFO",
+        "EVENT"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 408B. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D3",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Du hast keinen Fisch dabei, den ich\nwiegen könnte."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 408C. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D4",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Du suchst einen besseren Köder. Ich\nverstehe den Wunsch nach einem\nWerkzeug, das das Problem für Dich\nlöst.",
+        "Aber dieser Teich ersetzt keine\nintakten Flüsse. Du kannst den\nletzten Fisch sorgfältig fangen und\ntrotzdem alles verlieren."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 408D. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D5",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Bewege den Köder langsam und\nbeobachte die Fische. Wer wahllos an\nder Leine reißt, macht den Schaden\nnur größer."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 408E. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D6",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Ich habe den Angelinator gebaut, um\nFische hierherzubringen.",
+        "Inzwischen rette ich damit, was Merz\nvon ihren Lebensräumen übrigläßt. Ich\nhabe nicht vor, mich daran zu\ngewöhnen."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 408F. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D7",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Das Wasser ist trüb.",
+        "Auch hier kommt an, was außerhalb\ndieses Teiches geschieht.",
+        "Die Fische können trotzdem anbeißen.\nBleib aufmerksam.",
+        "Du erkennst einen Biß an der Leine\nund der Bewegung des Köders.",
+        "Wir müssen uns mit der Wirklichkeit\nbefassen, auch wenn man sie nicht\nklar sehen kann."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 4096. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D8",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Die Angel ist Leihmaterial. Du kannst\nsie nicht mitnehmen.",
+        "Wenn Du aufhören möchtest, komm\nan die Theke zurück und gib sie ab."
+      ],
+      "controls": [],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 409E. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "71D9",
+      "section": "E. Angelteich – erwachsener Doofenshmirtz, sämtliche eigenen Ersetzungen",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "[Fischgröße] Pfund. Ein neuer Rekord.",
+        "Du hast den fremden Köder benutzt.\nNach den Regeln bekommst Du dafür\nkeinen Preis."
+      ],
+      "controls": [
+        "FISH_INFO",
+        "EVENT"
+      ],
+      "notes": "Erwachsene Doofenshmirtz-Ersetzung der nativen Angelteich-ID 40B0. Nur der jeweils zutreffende Mini-Spielzustand wird gezeigt.",
+      "locations": []
+    },
+    {
+      "id": "4092",
+      "section": "F. Angelteich – gemeinsam verwendete, bedingte Mini-Spieltexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Komm ruhig wieder. In sieben Jahren\nhabe ich hier bestimmt alles im Griff.\nWas soll denn groß passieren?"
+      ],
+      "controls": [],
+      "notes": "Gemeinsam verwendeter Angelteich-Text ohne eigene Erwachsenen-Ersetzung; nur bei passendem Mini-Spielzustand. Keine zusätzlich automatisch angehängte Rede.",
+      "locations": []
+    },
+    {
+      "id": "409A",
+      "section": "F. Angelteich – gemeinsam verwendete, bedingte Mini-Spieltexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Ein Fund!",
+        "Du hast einen anderen Köder\ngefunden. Der gehört nicht zur\nnormalen Ausrüstung.",
+        "Was möchtest Du damit tun?\n\nDamit angeln!\nWegwerfen!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "Gemeinsam verwendeter Angelteich-Text ohne eigene Erwachsenen-Ersetzung; nur bei passendem Mini-Spielzustand. Keine zusätzlich automatisch angehängte Rede.",
+      "locations": []
+    },
+    {
+      "id": "409C",
+      "section": "F. Angelteich – gemeinsam verwendete, bedingte Mini-Spieltexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Solche Fische sind selten geworden.\nIch lasse ihn wieder frei. Nicht alles\ngehört in einen Versuchstank."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Gemeinsam verwendeter Angelteich-Text ohne eigene Erwachsenen-Ersetzung; nur bei passendem Mini-Spielzustand. Keine zusätzlich automatisch angehängte Rede.",
+      "locations": []
+    },
+    {
+      "id": "40AF",
+      "section": "F. Angelteich – gemeinsam verwendete, bedingte Mini-Spieltexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Das ist also Dein neuer Köder?",
+        "Er gehört nicht zur normalen\nAusrüstung. Benutzen kannst Du ihn,\neinen regulären Preis bekommst Du\ndamit aber nicht."
+      ],
+      "controls": [],
+      "notes": "Gemeinsam verwendeter Angelteich-Text ohne eigene Erwachsenen-Ersetzung; nur bei passendem Mini-Spielzustand. Keine zusätzlich automatisch angehängte Rede.",
+      "locations": []
+    },
+    {
+      "id": "40B2",
+      "section": "F. Angelteich – gemeinsam verwendete, bedingte Mini-Spieltexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "doof_guests_de.json"
+      ],
+      "pages": [
+        "Die Mütze ist wieder da. Danke.\nBelassen wir es dabei."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Gemeinsam verwendeter Angelteich-Text ohne eigene Erwachsenen-Ersetzung; nur bei passendem Mini-Spielzustand. Keine zusätzlich automatisch angehängte Rede.",
+      "locations": []
+    },
+    {
+      "id": "0060",
+      "section": "G. Gemeinsame Dungeon-Fundtexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Ein kleiner Schlüssel!\nEr öffnet eine verschlossene\nTür. Du kannst ihn nur in\ndiesem Labyrinth einsetzen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_SMALL_KEY)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0066",
+      "section": "G. Gemeinsame Dungeon-Fundtexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Die Labyrinth-Karte!\nDrücke START, um sie im\nKarten-Bildschirm anzusehen!",
+        "Blaue Räume hast Du bereits\naufgesucht.\nDer blinkende Raum zeigt\nDeine derzeitige Position.",
+        "Bewege [Control-Pad], um ein\nStockwerk auszuwählen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)",
+        "ITEM_ICON(ITEM_DUNGEON_MAP)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0067",
+      "section": "G. Gemeinsame Dungeon-Fundtexte",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Der Kompaß!\nJetzt siehst Du auf Deiner\nKarte alle Schatztruhen\ndieses Labyrinths!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_COMPASS)"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00E0",
+      "section": "H. Salias Lied – Kontakt in diesem Fortschrittsabschnitt",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Willst Du mit Salia sprechen?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "00E1",
+      "section": "H. Salias Lied – Kontakt in diesem Fortschrittsabschnitt",
+      "kind": "Nebenhandlung",
+      "project_sources": [],
+      "pages": [
+        "Willst Du dann mit mir sprechen? \n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "016B",
+      "section": "H. Salias Lied – Kontakt in diesem Fortschrittsabschnitt",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Jaa, keine Sorge, [Spielername],\nmir geht's prächtig.",
+        "Ich bin auf ne coole Reise gegangen,",
+        "weil Hyrule mir zu konservativ wurde."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Salia per Okarina als Erwachsene/r vor dem Wasseramulett; derselbe Reise-Satz wie nach dem Waldtempel.",
+      "locations": []
+    },
+    {
+      "id": "016C",
+      "section": "H. Salias Lied – Kontakt in diesem Fortschrittsabschnitt",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ],
+      "pages": [
+        "Sind alle sechs Weisen vereint,\nkönnen sie Friedrich Merz verbannen.",
+        "Für das Siegel brauchen sie noch den\nSiebten Weisen.",
+        "Das ist jemand, den Du kennst,\n[Spielername]. Mehr weiß ich auch\nnicht.",
+        "Du mußt zwischen Vergangenheit und\nZukunft reisen, um die anderen\nWeisen zu erwecken.",
+        "Ich bleibe hier erreichbar. Für die\ngroßen Sitzungen haben sie ja jetzt\ndie Krabbelminen-Frau."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "notes": "Folgezustand von Salias Lied nach dem Wasseramulett bei noch fehlenden späteren Amuletten. Kein Gespräch der Waldweisen.",
+      "locations": []
+    },
+    {
+      "id": "0626",
+      "section": "I. Navi-Zielerfassung – Schatten-Link und weitere wichtige Dungeon-Gegner",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Der schwarze [Spielername]. Guck\nDir den an. Hat Dein Gesicht geklaut\nund führt sich direkt wie ein\nArschloch auf."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0627",
+      "section": "I. Navi-Zielerfassung – Schatten-Link und weitere wichtige Dungeon-Gegner",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Mach die Fresse noch einmal auf! Ich\nbrech' diese Scheißmuschel in der\nMitte durch, ich schwör's Dir!"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "063B",
+      "section": "I. Navi-Zielerfassung – Schatten-Link und weitere wichtige Dungeon-Gegner",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Ein Eisatmer. Hör auf, uns mit Deinem\nkalten Scheißatem anzupusten! Du\ngehst mir richtig auf den Sack."
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0657",
+      "section": "I. Navi-Zielerfassung – Schatten-Link und weitere wichtige Dungeon-Gegner",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "navi_gegner_de.json"
+      ],
+      "pages": [
+        "Ein weißer Wolfsheimer. Derselbe\nScheiß mit den Pfoten. Ja, Du kannst\nblocken. Willst Du jetzt einen Keks?"
+      ],
+      "controls": [],
+      "notes": "",
+      "locations": []
+    },
+    {
+      "id": "0120",
+      "section": "J. Bedingte alte Navi-Hinweise und gespeicherter König-Zora-Zusatztext",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "zeituebergang_de.json"
+      ],
+      "pages": [
+        "Warte mal, mir fällt das jetzt erst\nauf, aber warum war König Zora so\nmega langsam?",
+        "Gott, ich hoffe, der Typ ist in dieser\nneuen Zukunft tot!"
+      ],
+      "controls": [],
+      "notes": "Einmaliger früher Erwachsenen-Hinweis nur dann, wenn noch nicht abgerufen. Kein neuer Zora-Kommentar dieses Kapitels.",
+      "locations": []
+    },
+    {
+      "id": "015F",
+      "section": "J. Bedingte alte Navi-Hinweise und gespeicherter König-Zora-Zusatztext",
+      "kind": "Nebenhandlung",
+      "project_sources": [
+        "kokiri_de.json"
+      ],
+      "pages": [
+        "[Spielername], mir gefällt das hier\nimmer weniger. Ich hoffe, daß wir\ndem Ursprung dieses ganzen Mists\nnäherkommen."
+      ],
+      "controls": [],
+      "notes": "Allgemeiner Dungeon-Grundwert; daraus folgt kein regelmäßiger zusätzlicher Ruf nach jedem Rätsel.",
+      "locations": []
+    }
+  ]
+}
