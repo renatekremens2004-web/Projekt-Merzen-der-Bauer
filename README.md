@@ -1,3 +1,17 @@
+# V56: Mr. Beans Mini und neue Schrotflinten-Goronen
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Mini_Soldaten_V56.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Mini_Soldaten_V56.bps?raw=true) · [Quellen und Patches](Merzen_Mini_Soldaten_V56_Quellen_Patch.zip?raw=true) · [Anleitung](Mini_Soldaten_V56_Anleitung.md)
+
+Der Mini steht als Kind am Rand des Wegs zum Schloß. Navi: „Mr Beans Auto. Er fährt damit jeden Morgen zur Arbeit.“ Zwei neue Soldaten im erwachsenen Todesbergkrater tragen Schrotflinten. Die Joe-Geschichte und „Joe Mama!“ sind zwei getrennte Gespräche. Vorhandene Soldaten behalten ihre Gewehre.
+
+Mit 4 MiB geprüft: beide Soldaten, erste/zweite Ansprache, Mini samt Navi-Kommentar bei Tag und Nacht, Abwesenheit in der falschen Altersstufe, Normal-/DEBUG-Edition und ein bestehender Gewehrsoldat. Alle bisherigen Texte, Musik und Credits-Kameras bleiben erhalten. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden, nicht auf V55 oder eine andere bereits gepatchte ROM.
+
+![Mr. Beans Mini mit Navi-Kommentar](Mr_Beans_Mini_V56.png)
+
+![Neue Schrotflinten-Variante im Krater](Schrotflinten_Gorone_V56.png)
+
 # V55: Wallace-Musik, Chor und lautere Schlossflucht
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Musik_V55.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Musik_V55.bps?raw=true) · [Quellen und Patches](Merzen_Musik_V55_Quellen_Patch.zip?raw=true) · [Anleitung](Musik_V55_Anleitung.md)
