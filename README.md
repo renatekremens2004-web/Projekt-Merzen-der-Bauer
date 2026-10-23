@@ -1,8 +1,24 @@
-## Vorbereitet: Hunting-Rifle-Soldat für später
+# V57: Neue Goronen-Soldaten mit Hunting Rifle und Flammenwerfer
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Spezial_Soldaten_V57.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Spezial_Soldaten_V57.bps?raw=true) · [Quellen und Patches](Merzen_Spezial_Soldaten_V57_Quellen_Patch.zip?raw=true) · [Anleitung](Spezial_Soldaten_V57_Anleitung.md)
+
+Der Hunting-Rifle-Gorone steht im erwachsenen Darunia-Raum. Der Flammenwerfer-Soldat steht auf der Hyrule-Feld-Seite vor dem Gerudotal, mit angepaßter Gasmaske und aufrechten gelben Rückentanks. Beide sagen die gewünschten Texte. Nur erwachsene Zeitlinie; bisherige Soldaten bleiben erhalten.
+
+Mit 4 MiB geprüft: Gespräche, Tag/Nacht, Kinder-Ausschluß, Erreichbarkeit mit normaler Steuerung, vollständig geladener Raumwechsel aus Darunias Büro sowie beide DEBUG-Auftritte. Die neue Modellbank wird nur an den beiden Standorten geladen. Alle alten Modellbanken, Musik, Texte und Credits-Kameras wurden verglichen. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden. Alle bisherigen Änderungen sind enthalten.
+
+![Hunting-Rifle-Gorone in Darunias Raum](Hunting_Rifle_Darunia_V57.png)
+
+![Flammenwerfer-Soldat mit Gasmaske](Flammenwerfer_Gorone_V57.png)
+
+![Rückentanks](Flammenwerfer_Ruecken_V57.png)
+
+## Archiv: Hunting-Rifle-Vorlage vor V57
 
 [Vorlagen-Paket](Goronen_Hunting_Rifle_Vorlage.zip?raw=true) · [Vorschau im Spiel](Gorone_Hunting_Rifle_Vorschau.png?raw=true)
 
-Eine zusätzliche Soldaten-Goronen-Variante mit der Silent-Hill-Hunting-Rifle ist fertig angepaßt und mit 4 MiB im Emulator geprüft. 128 Dreiecke, an die bestehende Handhaltung gebunden. Noch keine neue Platzierung oder Dialoge. Die untenstehenden V56-Patches bleiben unverändert.
+Eine zusätzliche Soldaten-Goronen-Variante mit der Silent-Hill-Hunting-Rifle ist fertig angepaßt und mit 4 MiB im Emulator geprüft. 128 Dreiecke, an die bestehende Handhaltung gebunden. Dieses frühere Vorlagenpaket enthält nur das Asset. V57 integriert die Variante nun in Darunias Raum; die V56-Patches bleiben als älterer Stand verfügbar.
 
 # V56: Mr. Beans Mini und neue Schrotflinten-Goronen
 
