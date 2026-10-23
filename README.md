@@ -1,3 +1,19 @@
+# V55: Wallace-Musik, Chor und lautere Schlossflucht
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Musik_V55.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Musik_V55.bps?raw=true) · [Quellen und Patches](Merzen_Musik_V55_Quellen_Patch.zip?raw=true) · [Anleitung](Musik_V55_Anleitung.md)
+
+[**MP4: Building The Rocket bei Wallace in der Halle der Weisen**](Wallace_Halle_Musik_V55.mp4?raw=true)
+
+[**MP4: lautere Fluchtmusik mit Chor und weniger Einsturzkrach**](Flucht_Chor_Lauter_V55.mp4?raw=true)
+
+Die neue MIDI spielt ausschließlich bei Wallaces Feuer-Amulett-Auftritt. Andere Weise behalten ihre Musik. Die Schlossflucht hat einen dreistimmigen Chor, einen höheren Musikpegel und gezielt leisere Einsturzgeräusche. Beide Musikstücke laufen in durchgehenden Schleifen ohne Neustart der Kanäle und des Halls. Alle bisherigen Inhalte bleiben erhalten.
+
+Mit 4 MiB geprüft: komplette Musikschleifen samt Übergang und über sechs Sekunden danach, Flucht-Zelda über Außen-/Innen-Wechsel, Wallaces komplette Weisen-Szene einschließlich Amulett-Fanfare und Rückkehr, beide DEBUG-Musikstarts sowie Abgrenzung gegenüber anderen Weisen, Lichtgewand- und Finalszene. Andere Musik, Modelle, Dialoge und Kamerafahrten wurden verglichen; bestehende Audio-Stimmen- und Speicherbudgets bleiben gleich. Die Videos enthalten echte Spielmusik und Soundeffekte aus dem Emulator.
+
+Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden, nicht auf V54 oder einen anderen bereits gepatchten Stand.
+
+![Wallace in der Halle der Weisen](Wallace_Halle_Musik_V55.png)
+
 # V54: Train Chase, Starwalker und unveränderte Pinguin-Plätze
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Flucht_V54.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Flucht_V54.bps?raw=true) · [Quellen und Patches](Merzen_Flucht_V54_Quellen_Patch.zip?raw=true) · [Anleitung](Flucht_V54_Anleitung.md)

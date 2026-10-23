@@ -1,0 +1,19 @@
+# V55: Wallace-Musik und lautere Schlossflucht mit Chor
+
+„Building The Rocket“ aus der hochgeladenen Julian-Nott-MIDI spielt jetzt während Wallaces Auftritt als Feuerweiser in der Halle der Weisen. Seine Begegnungen in Dodongos Höhle, im Feuertempel und in den Credits verwenden weiterhin ihre bisherige Musik. Die anderen Weisen behalten die ursprüngliche Hallenmusik. Die Amulett-Fanfare, die Kamerafahrt und die Rückkehr zum Todesberg bleiben erhalten.
+
+Das neue Stück läuft mit dem Tempo der MIDI. Das Intro spielt einmal; anschließend wiederholt sich der Hauptteil. Der Schluss in E-Dur führt dabei zurück zum Anfang des Hauptteils in a-Moll. Der erste Durchlauf dauert ungefähr 72 Sekunden, die anschließende Schleife ungefähr 67 Sekunden.
+
+Bei der Schlossflucht mit Zelda ist Train Chase jetzt lauter und hat einen dreistimmigen Chor. Dafür werden die vorhandenen Chorsamples aus der Zitadelle der Zeit verwendet. Der Sequenzpegel steigt von 65 auf 82. Das Dauergrummeln und die Trümmergeräusche werden während dieser Musik auf 32 Prozent ihres bisherigen Lautstärkefaktors zurückgenommen. Stimmen, Schritte und Bediengeräusche bleiben erhalten. Bei anderer Musik gilt wieder die ursprüngliche Effektlautstärke.
+
+Beide Stücke verwenden laufende Schleifen innerhalb ihrer Musikstimmen. Die Kanäle und der Hall werden am Übergang nicht gestoppt und neu gestartet. Bei Train Chase wurde der Schluss an den Beginn in f-Moll angepasst und mit dem Chor verbunden. Native Aufnahmen enthalten jeweils über sechs Sekunden nach dem Schleifenübergang; im einsekündigen Kontrollfenster um die Grenze gibt es keine stillen 10-ms-Blöcke.
+
+Die Musik verwendet vorhandene Samples. Für die Chor-Orchestrierung gibt es eine kleine separate Instrumentendefinition mit 2.192 Byte. Die Zahl der Audiostimmen und die bestehenden Speicherpuffer wurden nicht erhöht. Train Chase verwendet weiterhin höchstens 16 gleichzeitig geschriebene Musikstimmen. Alle Charaktermodelle, Platzierungen, bisherigen Dialoge und Kamerafahrten bleiben erhalten, einschließlich des beleuchteten Starwalkers und der Pinguine.
+
+**Hörproben:** Die beiden MP4s enthalten echte Musik und Spielgeräusche aus dem N64-Emulator, keine extern darübergelegte MIDI-Wiedergabe. Für die kurze Flucht-Hörprobe werden die Controller-Eingaben automatisch gesteuert; bei Wallace bleibt das erste Gespräch für die Hörprobe offen.
+
+**Geprüft:** Normale und DEBUG-Ausgabe gebaut und Prüfsummen kontrolliert; beide BPS-Patches mit einem zweiten Patcher zurückangewendet und bytegenau verglichen. Native Tests mit 4 MiB: beide vollständigen Musikschleifen samt Übergang und nachfolgendem Abschnitt, tatsächlicher Chor, Flucht mit Zelda über den Außen-/Innen-Wechsel, Wallace bis zur Amulett-Fanfare und Rückkehr, DEBUG-Musikstart beider Stücke sowie Musikabgrenzung gegenüber den übrigen Weisen, Lichtgewand-Szene und Finalszene. Alle anderen Musiksequenzen und die ursprünglichen Instrumenten-/Sampledaten wurden binär verglichen. Das ist kein vollständiger Durchspieltest der gesamten Schlossflucht.
+
+**Patchen:** Genau einen BPS-Patch auf eine saubere europäische PAL-1.0-ROM anwenden, nicht auf eine bereits gepatchte Version. Basis-MD5: `e040de91a74b61e3201db0e2323f768a`. Alle bisherigen Inhalte sind enthalten. Für den neuen Stand die ROM neu starten und einen normalen Spielstand laden; einen alten Emulator-Zustand nicht als Test der neuen Version verwenden.
+
+**Quellen:** Nach V54 `python3 tools/build_wallace_music_v55.py /pfad/zur/oot-decomp` ausführen und normal bauen. DEBUG bleibt ein optionaler letzter Schritt. Die MIDI, die beiden fertigen Musiksequenzen und die kompakte Instrumentendefinition liegen unter `audio/wallace-music-v55`. Der normale Build benötigt keine erneute MIDI-Konvertierung. Die Konvertierungs- und Prüfskripte liegen ebenfalls im Quellenpaket.
