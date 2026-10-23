@@ -1,3 +1,15 @@
+# V47: Lichtgewand mit eigener zweiter Übergabe
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Lichtgewand_V47.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Lichtgewand_V47.bps?raw=true) · [Quellen und beide Patches](Merzen_Lichtgewand_V47_Quellen_Patch.zip?raw=true) · [Anleitung](Lichtgewand_V47_Anleitung.md)
+
+[MP4 mit Spielmusik: beide Übergaben](Lichtgewand_Zweite_Uebergabe_V47.mp4?raw=true)
+
+Zuerst erhält Link das Licht-Amulett. Dann sagt Habeck: **„Ach ja, das ist noch nicht alles. SPIELT DIE ANIMATION NOCH MAL AB!“** Danach wiederholt sich die Erhalt-Animation samt Fanfare, diesmal mit dem gelben 3D-Lichtgewand. Es wird automatisch angelegt. Der Name ist auch im Ausrüstungs- und DEBUG-Menü geändert. Alle bisherigen Inhalte und ursprünglichen Credits-Kameras bleiben erhalten.
+
+Die vollständige erste Master-Schwert-/Habeck-Sequenz, die Reihenfolge beider Geschenke, der Erhalt-Text, das Ausrüstungsmenü und die DEBUG-Gewandwahl wurden mit 4 MiB geprüft. Einen der kumulativen Patches auf eine saubere europäische PAL 1.0 anwenden.
+
+![Lichtgewand_Uebergabe_V47.png](Lichtgewand_Uebergabe_V47.png)
+
 # V46: freie Wege und Geister-Boris
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Panzer_Boris_V46.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Panzer_Boris_V46.bps?raw=true) · [Quellen und beide Patches](Merzen_Panzer_Boris_V46_Quellen_Patch.zip?raw=true) · [Anleitung](V46_Anleitung.md)
