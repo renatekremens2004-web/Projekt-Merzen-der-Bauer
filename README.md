@@ -1,3 +1,15 @@
+# V58: Deine neuen Wassertexte
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Wasser_Dialoge_V58.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Wasser_Dialoge_V58.bps?raw=true) · [Quellen und Patches](Merzen_Wasser_Dialoge_V58_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Wasser_Dialoge_V58_Anleitung.md)
+
+[Überarbeiteter Wasserabschnitt](Dialogliste_nach_Feuertempel_bis_Wassertempel_V58.md) · [Danach: sämtliche Texte bis Ende Schattentempel](Dialogliste_nach_Wassertempel_bis_Schattentempel_Aktuell.md)
+
+König Zora, Thaddäus, Navi, Morpha, Forscher und Vogelscheuchen sprechen die neu diktierten Texte. Sheiks neuer Hinweis gilt nur in der Eishöhle; der Waldtext bleibt erhalten. Alle bisherigen Änderungen einschließlich V57 sind enthalten.
+
+Beide Patches wurden unabhängig auf die saubere PAL-1.0-Basis angewendet und bytegenau geprüft. Native Gespräche mit 4 MiB: Thaddäus mit anschließendem Davonschwimmen, König Zoras bereits vorhandene Rüstung, Labor-Tauchstufen vier und sieben sowie Sheiks Serenade und neuer Abschluß. Modelle, Räume, Musik und Credits wurden mit V57 verglichen. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden. Die Kapiteltexte stehen wie bisher mit IDs und Seiten als formatierte GitHub-Listen bereit.
+
 # V57: Neue Goronen-Soldaten mit Hunting Rifle und Flammenwerfer
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Spezial_Soldaten_V57.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Spezial_Soldaten_V57.bps?raw=true) · [Quellen und Patches](Merzen_Spezial_Soldaten_V57_Quellen_Patch.zip?raw=true) · [Anleitung](Spezial_Soldaten_V57_Anleitung.md)
