@@ -1,3 +1,19 @@
+# V43: Harkinian, Moseby, Skelett und Kampfänderungen
+
+[Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Harkinian_Moseby_Skelett_V43.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Harkinian_Moseby_Skelett_V43.bps?raw=true) · [Quellen und Patches](Merzen_Harkinian_Moseby_Skelett_V43_Quellen_Patch.zip?raw=true) · [Änderungen und neue Texte](Harkinian_Moseby_Skelett_V43_Aenderungen.md)
+
+Harkinian gestikuliert in der originalen Fensterszene gegenüber Merz. Moseby steht am erwachsenen Hylia-See. Ein friedliches Skelett fährt auf der Geisterfähre mit. Triangle Guy hält bei der Verwandlung die Hände vor den Mund, der Boss heißt Merz und Franky liegt sichtbar näher an Link. Kokiri-Schwert-Schaden verdoppelt, Deckenhände entfernt, kleine Jabu-Quallen mit Schwert und Schleuder tötbar ohne elektrischen Gegenschlag. Alle bisherigen Änderungen sind enthalten.
+
+![Harkinian in der regulären Fensterszene](Harkinian_Fensterszene_V43.png)
+
+![Skelett auf der Geisterfähre – freie Testkamera](Skelett_Faehre_Testkamera_V43.png)
+
+![Triangle Guys Schreckpose – freie Testkamera](Triangle_Guy_Schreckpose_Testkamera_V43.png)
+
+![Merz als Bossname](Merz_Bossname_V43.png)
+
+14 gezielte 4-MiB-Tests bestanden, einschließlich falscher und richtiger Sonnen, neuer Gespräche, Fähre, Verwandlung, Franky, Schwertschaden, Quallen, Credits und DEBUG-Menü. Kein vollständiger Spieldurchlauf. Patches auf die saubere europäische PAL 1.0 anwenden. DEBUG: L+R halten und Z drücken.
+
 # V42: Panzer mit Kollision und friedliche Wald-Dekus
 
 [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Panzer_Dekus_V42.bps?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Panzer_Dekus_V42.bps?raw=true) · [Quellen und Patches](Merzen_Panzer_Dekus_V42_Quellen_Patch.zip?raw=true) · [Änderungen und Texte](Panzer_Dekus_V42_Aenderungen.md)
