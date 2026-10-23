@@ -1,3 +1,21 @@
+# V46: freie Wege und Geister-Boris
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Panzer_Boris_V46.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Panzer_Boris_V46.bps?raw=true) · [Quellen und beide Patches](Merzen_Panzer_Boris_V46_Quellen_Patch.zip?raw=true) · [Anleitung](V46_Anleitung.md)
+
+[MP4: Sonnengewand mit Spielmusik](Sonnengewand_Erhalt_V46.mp4?raw=true) · [MP4: Boris in den Kakariko-Credits](Boris_Kakariko_Credits_V46.mp4?raw=true)
+
+Die Panzer behalten ihre Kollision und stehen jetzt neben den Wegen. Kakarikos Panzer sind auf die Eingangsgrünfläche versetzt; der Wald-Soldat schaut in den Raum. Boris schwebt durch die ursprüngliche Kakariko-Credits-Kamerafahrt. Bisherige Dialoge, Modelle und Credits-Kameras bleiben erhalten. Beide Teile der Bongo-Bongo-/Sheik-Szene wurden mit 4 MiB bis zur Rückkehr ins Dorf geprüft.
+
+DEBUG: **L+R halten und Z**, **C-links** alle Items, **C-rechts** Standard → Sonne → Schatten. **A** lädt den Ort. Einen der kumulativen Patches auf saubere europäische PAL 1.0 anwenden.
+
+Die folgenden Emulatorbilder zeigen die Stellplätze aus Testkameras; die Spielkameras wurden nicht geändert.
+
+![Kakariko](Kakariko_Panzer_V46.png)
+
+![Todesberg](Todesberg_Panzer_V46.png)
+
+![Wald-Soldat](Wald_Soldat_V46.png)
+
 # DEBUG V45: Standard, Sonnengewand und Schattengewand
 
 [Neuer DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Gewandwahl_V45.bps?raw=true) · [Anleitung](DEBUG_Gewandwahl_V45_Anleitung.md) · [Quellen und Patches](Merzen_DEBUG_Gewandwahl_V45_Quellen_Patch.zip?raw=true) · [Normale V44, unverändert](Mr_Burns_Mr_Bean_DE_PAL10_Sonnengewand_V44.bps?raw=true)
