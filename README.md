@@ -1,3 +1,17 @@
+# V62: Drei Goronen mit eigenen Sounds und genauerem Zielen
+
+[MP4 mit echtem Spielton](Kakariko_Sounds_V62.mp4?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kakariko_Sounds_V62.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kakariko_Sounds_V62.bps?raw=true) · [Quellen und Patches](Merzen_Kakariko_Sounds_V62_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kakariko_Sounds_V62_Anleitung.md)
+
+Alle drei Goronen richten ihre Gewehre auf die sichtbare Schattenbahn aus, auch nach unten zum Brunnen. Jeder verwendet eine eigene hochgeladene Aufnahme: Gorone 1, 2 und 3. Die Clips spielen im nativen Soundsystem und können ausklingen, bevor sie erneut beginnen. Das Video enthält echten Spielton.
+
+Normal und DEBUG mit 4 MiB bis zum erlernten Lied und zurück ins steuerbare Dorf geprüft. Alle drei Aufnahmen im Spielton nachgewiesen. Die bisherigen Texte, Kamerafahrten und Musikstücke bleiben erhalten. Alle V61-Inhalte sind enthalten; kein vollständiger neuer Spieldurchlauf.
+
+Genau einen V62-Patch auf eine saubere europäische PAL-1.0-ROM anwenden.
+
+![Zielen zum Brunnen](Kakariko_Treppe_V62.png)
+
+![Dem Schatten zur Eingangsfläche folgen](Kakariko_Eingang_V62.png)
+
 # V61: Dramatischer Verteidigungsversuch in Kakariko
 
 [Neue MP4 mit Spielton](Kakariko_Inszenierung_V61.mp4?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kakariko_Inszenierung_V61.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kakariko_Inszenierung_V61.bps?raw=true) · [Quellen und Patches](Merzen_Kakariko_Inszenierung_V61_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kakariko_Inszenierung_V61_Anleitung.md)
