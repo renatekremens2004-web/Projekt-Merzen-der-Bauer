@@ -1,3 +1,13 @@
+# V67: Lila Dateimenü und kürzerer Kokiri-Hals
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Lila_Menue_V67.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Lila_Menue_V67.bps?raw=true) · [Quellen](Merzen_Lila_Menue_V67_Quellen_Patch.zip?raw=true) · [Prüfungen](Lila_Menue_V67_Anleitung.md)
+
+Fenster, Datei-Schaltflächen und Auswahlmarkierung sind jetzt lila. Der Kopf des neuen blonden Kokiri sitzt etwa drei Spieleinheiten tiefer. Normal und DEBUG mit 4 MiB bis zur Spielstand-Auswahl geprüft, Kopfposition und Gespräch im Spiel kontrolliert. Alle V66-Inhalte enthalten. Auf eine saubere PAL-1.0-ROM patchen und die ROM neu starten.
+
+![Lila Dateimenü](Lila_Dateimenue_V67.png)
+
+![Kürzerer Kokiri-Hals](Kokiri_Hals_V67.png)
+
 # V66: Zwei frühe Figuren, schneller laufen und leichtere Wachen
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Fruehe_Figuren_V66.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Fruehe_Figuren_V66.bps?raw=true) · [Quellen und Patches](Merzen_Fruehe_Figuren_V66_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Fruehe_Figuren_V66_Anleitung.md)
