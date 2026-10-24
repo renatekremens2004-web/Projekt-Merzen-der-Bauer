@@ -1,3 +1,21 @@
+# V66: Zwei frühe Figuren, schneller laufen und leichtere Wachen
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Fruehe_Figuren_V66.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Fruehe_Figuren_V66.bps?raw=true) · [Quellen und Patches](Merzen_Fruehe_Figuren_V66_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Fruehe_Figuren_V66_Anleitung.md)
+
+Der frühe Gorone aus Objekt 00CF steht als Kind am Todesberg und sagt Deinen Satz. Im Kokiri-Wald erscheint als Kind ein neuer Kokiri mit dem blonden Kopf und der mintfarbenen Mütze aus Objekt 0052. Nach seinem ersten Gespräch zaubert er und schaltet schnelleres Laufen frei. Weitere Gespräche verwenden Deinen zweiten Text.
+
+Steuerkreuz links wechselt zwischen normalem und 1,5-fachem Lauftempo am Boden. Fähigkeit und Modus werden gespeichert; nach der Verleihung beginnt der Modus ausgeschaltet. Oben und unten bleiben für die Stiefel frei. Der Deku-Schild kostet 20 Rubine. Die Schloßgarten-Wachen und Gerudo-Patrouillen haben weniger Sichtweite.
+
+Mit 4 MiB geprüft: beide Figuren, Zauber und Umschalten in Normal/DEBUG, erneutes Laden des Fortschritts, erwachsene Form und Stiefel-Kürzel, tatsächlicher Ladenpreis sowie die bisherige vollständige Kakariko-Verteidigungssequenz. Die kompilierten Wachen-Funktionen haben ihre Grenzwerttests bestanden. Alle bisherigen Änderungen sind enthalten. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen V66-Patch auf eine saubere europäische PAL-1.0-ROM anwenden und die ROM neu starten. Reguläre Spielstände verwenden.
+
+![Früher Gorone am Todesberg](Frueher_Gorone_V66.png)
+
+![Früher Kokiri im Gespräch](Frueher_Kokiri_V66.png)
+
+![Zauber und Freischaltung](Kokiri_Zauber_V66.png)
+
 # V64: Gaster im Schattentempel und Sound bei jedem Goronen-Schuss
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Gaster_V64.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Gaster_V64.bps?raw=true) · [Quellen und Patches](Merzen_Gaster_V64_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Gaster_V64_Anleitung.md)
