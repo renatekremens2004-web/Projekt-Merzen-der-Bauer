@@ -1,3 +1,9 @@
+# V68: Ladekorrekturen für Figuren und Objekte
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Speicherfix_V68.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Speicherfix_V68.bps?raw=true) · [Quellen](Merzen_Speicherfix_V68_Quellen_Patch.zip?raw=true) · [Prüfungen](Speicherfix_V68_Anleitung.md)
+
+Wario, Mystery Machine, die Schloßfiguren, Starwalker/N64 in Jabu-Jabu und die Grenzposten werden wieder geladen. Darunias Feuertempel-Räume erhalten das passende Modellpaket ohne Speicherüberlauf. In Kakariko bleibt ein Panzer. Enthält alle bisherigen Änderungen und die neue Beta-Goronen-Soldatenversion. Saubere PAL-1.0-ROM verwenden und neu starten.
+
 # V67: Lila Dateimenü und kürzerer Kokiri-Hals
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Lila_Menue_V67.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Lila_Menue_V67.bps?raw=true) · [Quellen](Merzen_Lila_Menue_V67_Quellen_Patch.zip?raw=true) · [Prüfungen](Lila_Menue_V67_Anleitung.md)
