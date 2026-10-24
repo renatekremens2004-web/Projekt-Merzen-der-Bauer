@@ -1,3 +1,19 @@
+# V61: Dramatischer Verteidigungsversuch in Kakariko
+
+[Neue MP4 mit Spielton](Kakariko_Inszenierung_V61.mp4?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kakariko_Inszenierung_V61.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kakariko_Inszenierung_V61.bps?raw=true) · [Quellen und Patches](Merzen_Kakariko_Inszenierung_V61_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kakariko_Inszenierung_V61_Anleitung.md)
+
+Die Goronen bleiben zunächst unsichtbar. Erst nach Sheiks Sturz rennen sie von hinten ins Bild und zur Treppe. Dort legen sie ihre Gewehre mit beiden Händen an und feuern dem Schatten nach. Anschließend verfolgen sie ihn zur Eingangsfläche und schießen in der Einstellung mit dem Baum weiter. Die ursprünglichen Kameras und die gesamte anschließende Sheik-Sequenz bleiben erhalten.
+
+Die Waffen verwenden 23 neue, vorberechnete Armhaltungen. Schußrichtung und Startpunkt kommen aus der tatsächlich gezeichneten Laufachse. Mündungsblitze und Rückstoß unterstützen die Salven; native Laufbewegungen und schwere Schritte den Einlauf. Die MP4 zeigt 36 Sekunden im ursprünglichen PAL-Tempo mit Spielton.
+
+Normale und DEBUG-Ausgabe mit 4 MiB bis zum erlernten Lied und der Rückkehr ins steuerbare Dorf geprüft. Mündung und Flugrichtung zusätzlich aus echten Emulator-Daten nachgerechnet. Die bisherigen Texte, Musik, Modellbanken, Räume und Szenen einschließlich Credits wurden verglichen. Alle V60-Inhalte sind enthalten; die alte Verteidigungs-Choreografie ist ersetzt. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen V61-Patch auf eine saubere europäische PAL-1.0-ROM anwenden.
+
+![Stellungen auf der Treppe](Kakariko_Treppe_V61.png)
+
+![Verfolgung zur Eingangsfläche](Kakariko_Eingang_V61.png)
+
 # V60: Soldaten-Goronen gegen den Schatten in Kakariko
 
 [Video mit Spielton](Kakariko_Verteidigung_V60.mp4?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kakariko_Verteidigung_V60.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kakariko_Verteidigung_V60.bps?raw=true) · [Quellen und Patches](Merzen_Kakariko_Verteidigung_V60_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kakariko_Verteidigung_V60_Anleitung.md)
