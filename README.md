@@ -1,3 +1,15 @@
+# V59: Brunnen, Schattentempel und Kakariko nach Deinem Diktat
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Schatten_Dialoge_V59.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Schatten_Dialoge_V59.bps?raw=true) · [Quellen und Patches](Merzen_Schatten_Dialoge_V59_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Schatten_Dialoge_V59_Anleitung.md)
+
+[Aktualisierte Brunnen-/Schattentempeltexte](Dialogliste_nach_Wassertempel_bis_Schattentempel_Aktuell.md) · [Anschließend: vollständiges Wüsten-/Geistertempel-Kapitel](Dialogliste_nach_Schattentempel_bis_Geistertempel_Aktuell.md)
+
+42 neue bzw. überarbeitete Textzustände: Sheik, Windmühle, Itemtexte, Bongo Bongo, Mr. Bean auf Englisch, Mr. Mackey, Kakarikos Bewohner, Hühnerfrau, Mario und sein Date, Schleimhexe und Salia. Die fehlerhafte Bongo-Zuordnung in der vorigen Abschrift ist korrigiert: 0629 ist Bongo Bongo; 0624 bleibt der Rote Tod. Alle bisherigen Änderungen aus V58 bleiben enthalten.
+
+Mit 4 MiB geprüft: Mr. Beans vollständige Weisen-Sequenz mit Amulett und Rückkehr sowie Gleitstiefel-Erhalt mit allen drei Textseiten und anschließendem Umschalten per Steuerkreuz oben. Beide BPS-Patches wurden unabhängig auf die saubere PAL-1.0-Basis angewendet. Die vorhandenen Modelle, Räume, Szenen, Actor-Overlays, Musik und ausführbaren Hauptprogramm-Instruktionen wurden mit V58 verglichen. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen Patch auf eine saubere europäische PAL-1.0-ROM anwenden. Die Kapitelabschriften stehen wie bisher mit IDs und Seiten als formatierte GitHub-Listen bereit.
+
 # V58: Deine neuen Wassertexte
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Wasser_Dialoge_V58.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Wasser_Dialoge_V58.bps?raw=true) · [Quellen und Patches](Merzen_Wasser_Dialoge_V58_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Wasser_Dialoge_V58_Anleitung.md)

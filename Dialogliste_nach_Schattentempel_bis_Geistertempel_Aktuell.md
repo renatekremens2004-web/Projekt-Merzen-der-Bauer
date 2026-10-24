@@ -1,6 +1,6 @@
 # Aktuelle Dialoge: Gerudotal, Wüste und Geistertempel
 
-Aktueller eingebauter Stand nach V58. Direkt aus dem deutschen Spieltext ausgelesen: vom Schattentempel-Nachspiel über Gerudotal, Festung und Wüste bis Waluigi in der Halle der Weisen. Die neuen Grenz-Soldaten, der Flammenwerfer-Gorone, der Mitgefangene und Starwalker sind mit enthalten. Dieser Export ändert keine Spieltexte.
+Aktueller eingebauter Stand V59. Direkt aus dem deutschen Spieltext ausgelesen: vom Schattentempel-Nachspiel über Gerudotal, Festung und Wüste bis Waluigi in der Halle der Weisen. Die neuen Grenz-Soldaten, der Flammenwerfer-Gorone, der Mitgefangene und Starwalker sind mit enthalten. Dieser Export ändert keine Spieltexte.
 
 Text-IDs, Seiten und Auswahlantworten entsprechen den Spieltexten. [Spielername] bleibt dynamisch. Bedingte Antworten, Wiederholungen und alternative Zustände werden nicht automatisch alle nacheinander gesprochen. Zeilenumbrüche innerhalb einer Seite sind nur für die Lesbarkeit zusammengezogen.
 
@@ -2395,7 +2395,63 @@ Späterer Titanhandschuh-Fundtext im Schloß samt Navis Rückverweis.
 
 > Und jetzt liegt das hier einfach! Ey, ich hab es vorhergesagt. Merk Dir den Moment bitte, ich war meiner Zeit voraus!
 
+## 20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied
+
+### 5024
+
+Projekttext.
+
+Bedingter Hinweis nach allen erforderlichen Tempeln. Bei der üblichen Reihenfolge ist dies das Ende des Geistertempel-Kapitels; andere Reihenfolgen können ihn früher oder später auslösen.
+
+**Seite 1**
+
+> Perfekt, die ganzen Weisen sind jetzt bereit. Damit können wir den Großmeister des Bösen fertig machen. Gehe zur Zitadelle der Zeit, da
+
+**Seite 2**
+
+> wartet Sheik auf Dich.
+
+### 00E0
+
+Noch vorhandener Originaltext ohne eigenen Projektersatz.
+
+**Seite 1**
+
+> Willst Du mit Salia sprechen?
+>
+> Ja!
+> Nein!
+
+_Die Antwortauswahl steht in ihrer tatsächlichen Reihenfolge auf der zugehörigen Seite._
+
+### 00E1
+
+Noch vorhandener Originaltext ohne eigenen Projektersatz.
+
+**Seite 1**
+
+> Willst Du dann mit mir sprechen? 
+>
+> Ja!
+> Nein!
+
+_Die Antwortauswahl steht in ihrer tatsächlichen Reihenfolge auf der zugehörigen Seite._
+
+### 016D
+
+Projekttext.
+
+Salia per Okarina nach dem Schattenamulett, abhängig von den übrigen Amuletten. Kein zusätzlicher automatischer Dialog nach dem Endboß.
+
+**Seite 1**
+
+> Die sechs Weisen geben Dir ihre Kraft. Ich drücke Dir von hier aus die Daumen.
+
+**Seite 2**
+
+> Das Schicksal Hyrules liegt jetzt bei Dir. Und zum Teil bei einer überarbeiteten Bowling-Angestellten.
+
 ---
 
-169 verschiedene Nachrichten. Optionales, Varianten und spätere Rückbezüge sind entsprechend beschriftet.
+173 verschiedene Nachrichten. Optionales, Varianten und spätere Rückbezüge sind entsprechend beschriftet.
 

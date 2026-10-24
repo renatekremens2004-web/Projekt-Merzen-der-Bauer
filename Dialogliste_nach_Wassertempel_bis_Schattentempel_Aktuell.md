@@ -1,6 +1,6 @@
 # Aktueller Dialog: nach Wassertempel bis Ende Schattentempel
 
-Aus dem aktuellen deutschen Quellstand ausgelesen. Keine neuen Formulierungen für dieses Kapitel: Hier steht der tatsächlich eingebaute Wortlaut. Die gerade beauftragten Änderungen am Wasserabschnitt ändern diese Abschrift nicht.
+Stand V59, nach den neuen Dialogänderungen für Brunnen, Schattentempel und Kakariko. Hier steht der tatsächlich eingebaute Wortlaut mit den aktuellen Seitenumbrüchen.
 
 Hauptteil: Kakarikos Ereignis, Windmühle, Brunnen, Schattentempel und Mr. Bean in der Halle der Weisen. Danach folgen optionale Ortsgespräche, Händler, Zielerfassungen und bedingte Rückbezüge. Diese Texte sind keine einzige lange Unterhaltung; je nach Fortschritt, Zeitlinie und Ansprache werden unterschiedliche IDs verwendet.
 
@@ -24,12 +24,12 @@ Navis Story-Hinweis nach dem Wasseramulett, vor Kakarikos Folgeereignis.
 
 ### 501B
 
-Noch vorhandener Originaltext.
+Projekttext.
 Sheiks kurzer Warnruf zu Beginn des brennenden Kakariko-Ereignisses.
 
 **Seite 1**
 
-> Zurück, [Spielername]!
+> Bleib zurück, [Spielername]!
 
 ### 5030
 
@@ -38,7 +38,7 @@ Projekttext.
 **Seite 1**
 
 > Okay, ich sehe, Du hast noch genug
-> Herzen. Na perfekt. Solltest aber
+> Herzen. Ja, perfekt. Du solltest aber
 > vielleicht mal mehr Herzteile sammeln.
 
 ### 501C
@@ -47,31 +47,31 @@ Projekttext.
 
 **Seite 1**
 
-> [Spielername], es gab da einst
-> einen Dämon, den jemand im Brunnen
-> eingesperrt hat. Das war Mr. Bean!
-> Nur er kommt auf sowas Verrücktes.
+> Es gab da einen Dämon, weißt Du,
+> der im Brunnen eingesperrt wurde.
+> Von Mr. Bean. Schließlich war Mr.
+> Bean ein absolutes Genie, der Typ,
 
 **Seite 2**
 
-> Das absolute Genie, der Typ.
+> und wollte dieses Dorf schützen. Und
+> zwar richtig beschützen. Nicht auf
+> diese Art, wie es die
+> Goronen-Soldaten tun.
 
 **Seite 3**
 
-> Na ja, jetzt ist die Kraft des Dämons
-> gewachsen. Irgendwie wegen Friedrich
-> Merz. Der ist, glaube ich, selbst ein
-> Dämon. Seine Frisur sieht zumindest
+> Nee, jedenfalls ist die Kraft dieses
+> Dämons jetzt gewachsen. Das liegt
+> daran, daß Friedrich Merz zu viel
+> böse Energie nach Hyrule gebracht
 
 **Seite 4**
 
-> dämonisch beschissen aus.
-
-**Seite 5**
-
-> Und das Siegel ist jetzt halt
-> gebrochen, ne? Und ja, ist jetzt halt
-> Mist, ne?
+> hat. Das Siegel konnte dieser bösen
+> Magie und Energie nicht mehr
+> standhalten. Und jetzt haben wir den
+> Salat.
 
 ### 0155
 
@@ -101,11 +101,11 @@ Projekttext.
 > [Spielername], leider ist Mr. Bean
 > nicht mehr hier. Damals hat er Zelda
 > bei der Flucht aus dem Schloß gut
-> beschützt. Davon hast Du ja sogar
+> beschützt.
 
 **Seite 2**
 
-> geträumt.
+> Davon hast Du ja sogar geträumt.
 
 **Seite 3**
 
@@ -301,9 +301,8 @@ Kindervariante des Windmühlenmannes vor dem Regenlied.
 
 **Seite 3**
 
-> Ich hoffe, das wirst nicht Du sein!
-> Ich übe diese Beschwerde vorsorglich
-> seit Wochen.
+> Diese Vision ist mir in einem Traum
+> erschienen.
 
 ### 5033
 
@@ -315,12 +314,12 @@ Reaktion auf die ruinierte Windmühle in der Kindheit.
 > Was zur Hölle geht hier vor sich? Du
 > hast meine Mühle zerstört! Du hast
 > alles kaputtgemacht! Diese Mühle hat
-> mit meinem Einkommen zu tun. Wenn
+> mit meinem Einkommen zu tun.
 
 **Seite 2**
 
-> ich nicht genug Kram mühle, lande ich
-> auf der Straße!
+> Wenn ich nicht genug Kram mühle,
+> lande ich auf der Straße!
 
 ## 5. Brunnen – Shaggy, Velma, Daphne, Scooby und Fred
 
@@ -568,7 +567,7 @@ Auslöser: Brunnen – Raum 0, Schattentempel – Raum 9.
 
 ### 0039
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
@@ -583,6 +582,17 @@ Noch vorhandener Originaltext.
 > kostet es magische Energie.
 > Mit [C] kannst Du es auch
 > wieder deaktivieren.
+
+**Seite 3**
+
+> Viele von diesen Geheimnissen sind
+> einfach nur Böden, die eigentlich gar
+> nicht da sind.
+
+**Seite 4**
+
+> Du fällst dann durch und mußt den
+> ganzen Weg wieder zurücklatschen.
 
 ### 71DC
 
@@ -667,26 +677,35 @@ Auslöser: Schattentempel – Raum 2.
 
 ### 022B
 
-Noch vorhandener Originaltext.
+Projekttext.
 Auslöser: Brunnen – Raum 0.
 
 **Seite 1**
 
-> Hier steht die Inschrift
-> aus dem Wappen
-> der Königsfamilie von Hyrule.
+> Oh wow, das Wappen der
+> Königsfamilie von Hyrule. Was haben
+> die mit diesem komischen Ort
+
+**Seite 2**
+
+> veranstaltet? Was sollte sowas
+> denn?
 
 ### 023C
 
-Noch vorhandener Originaltext.
+Projekttext.
 Auslöser: Schattentempel – Raum 2.
 
 **Seite 1**
 
-> Die Schatten werden sich nur dem
-> offenbaren, der die Augen der
-> Wahrheit besitzt. Es heißt, man
-> könne sie in Kakariko finden...
+> Na ja, jedenfalls steht da: Die
+> Schatten werden sich nur dem
+> offenbaren... Ja, bla bla bla, Auge der
+
+**Seite 2**
+
+> Wahrheit, das haben wir ja schon
+> geklärt.
 
 ## 10. Schattentempel – Kenny und Gleitstiefel
 
@@ -702,21 +721,25 @@ Navi über den lebenden Kenny vor Erhalt der Gleitstiefel; Kenny ist hier ein an
 
 ### 0054
 
-Noch vorhandener Originaltext.
+Projekttext.
 Fundtext der Gleitstiefel; Steuerkreuz oben wechselt im aktuellen Hack die Stiefel.
 
 **Seite 1**
 
-> Die Gleitstiefel!
-> Mit diesen seltsamen Schuhen
-> schwebst Du über den Boden.
+> Die Gleitstiefel! Mit diesen
+> schicken Schuhen schwebst
+> Du über den Boden.
 
 **Seite 2**
 
-> Du kannst damit für
-> kurze Zeit sogar Abgründe
-> überqueren. Habe Mut und
-> vertraue den Stiefeln!
+> Du kannst sie mit
+> Steuerkreuz oben equippen.
+
+**Seite 3**
+
+> Sie sind so, als würdest Du die
+> ganze Zeit auf Eis laufen. Also sind
+> die nur zum Fliegen gut.
 
 ### 71B9
 
@@ -777,28 +800,40 @@ Original Starwalker im Schattentempel; Pause vor seinem Namen.
 
 ### 5071
 
-Noch vorhandener Originaltext.
+Projekttext.
 Navi-Warnung beim Untergang der Geisterfähre.
 Zeitgesteuerte Einblendung bzw. Textpause im Spiel.
 
 **Seite 1**
 
-> [Spielername]!
-> Das Schiff sinkt!
-> Spring ab!
-> Rette Dich auf festen Boden!
+> Schnell, bring Dich in Sicherheit und
+> rette den Rattle-Me-Bones-Typen.
+> Nein!
 
 ## 12. Bongo Bongo – Navis Zielerfassung
 
-### 0624
+### 0629
 
 Projekttext.
+Bongo Bongos tatsächliche Navi-Zielerfassung. In der vorigen Liste irrtümlich als 0624 bezeichnet; 0624 gehört zum Roten Tod.
 
 **Seite 1**
 
-> Roter Tod. Setzt sich selbst in Brand
-> und rennt schreiend herum. Du bist
-> wirklich ein saudummes Drecksvieh.
+> Warum ist hier so eine riesige
+> Trommel? Hat der Dämon die
+> erschaffen? Und wenn der Dämon
+> dann besiegt wird, was passiert mit
+
+**Seite 2**
+
+> der Trommel? Denn wenn die bleibt,
+> bedeutet das ja, daß der Dämon
+> Dinge einfach so erschaffen kann.
+> Kann er jetzt auch irgendwie, keine
+
+**Seite 3**
+
+> Ahnung, ein Telefon erschaffen?
 
 ## 13. Halle der Weisen – Mr. Bean und Schattenamulett
 
@@ -809,13 +844,8 @@ Mr. Bean als Schattenweiser. Seine deutschen Sprachslots enthalten bewußt engli
 
 **Seite 1**
 
-> [Spielername]! You did it! I was
-> just coming to help.
-
-**Seite 2**
-
-> A Sage of Shadow? Me? I thought
-> this was the shady waiting room.
+> Ah, welcome. I'm Mr. Bean. I'm the
+> Sage of Shadow now.
 
 ### 5025
 
@@ -823,33 +853,15 @@ Projekttext.
 
 **Seite 1**
 
-> Merz says I died fighting him? How
-> very flattering.
+> I wanted to save the princess. Then
+> there was a branch. It caught my
+> head, I fell off the horse and broke
+> my neck. But Zelda is fine.
 
 **Seite 2**
 
-> I got Zelda out on horseback. Then
-> there was a low branch.
-
-**Seite 3**
-
-> It caught my head. I fell off. Broke
-> my neck.
-
-**Seite 4**
-
-> Very inconvenient. Zelda got away,
-> though. That was rather the point.
-
-**Seite 5**
-
-> The Shadow Temple? Lovely place.
-> Very peaceful.
-
-**Seite 6**
-
-> Rather a lot of sharp decorations. I
-> recommend the back entrance.
+> The Shadow Temple could do with
+> some vacuuming. Disgusting zombies.
 
 ### 502B
 
@@ -857,8 +869,7 @@ Projekttext.
 
 **Seite 1**
 
-> Zelda is safe. And my neck no longer
-> hurts. One advantage, I suppose.
+> My car is still parked by the castle.
 
 ### 502C
 
@@ -866,13 +877,7 @@ Projekttext.
 
 **Seite 1**
 
-> You'll see Zelda soon.
-> She explains things rather better.
-
-**Seite 2**
-
-> Six Sages. One Merz.
-> I like those odds.
+> Merz isn't a nice man. I hate him.
 
 ### 5026
 
@@ -880,13 +885,8 @@ Projekttext.
 
 **Seite 1**
 
-> Please look after Zelda. I'll stay off
-> horses for a bit.
-
-**Seite 2**
-
-> Take my shadow power. Apparently I
-> have some.
+> I'm a ghost now. Take my Shadow
+> Temple plate. It's purple.
 
 ### 0041
 
@@ -907,8 +907,8 @@ Zeitgesteuerte Einblendung bzw. Textpause im Spiel.
 
 **Seite 1**
 
-> Find Zelda.
-> Tell her I helped.
+> Do visit me again. Maybe I can give
+> you another medallion.
 
 ## 14. Unmittelbarer Übergang zum nächsten Kapitel
 
@@ -950,25 +950,27 @@ Mr. Mackey in einem normalen Kakariko-Haus, nicht im Spinnenhaus.
 **Seite 1**
 
 > Ich bin Mr. Mackey, mhhkay? Und ich
-> bin NICHT Friedrich Merz!
+> bin nicht Friedrich Merz. Ich möchte
+> das noch mal wiederholen. Nur weil
+> jemand einen großen Kopf und wenig
 
 **Seite 2**
 
-> Nur weil jemand einen großen Kopf
-> und wenig Haare hat, ist er doch
-> nicht gleich dieser Kerl, mhhkay!
+> Haare hat, ist er doch nicht gleich
+> dieser Kerl, mhhkay?
 
 **Seite 3**
 
-> Gestern hat mich einer nach
-> Steuersenkungen gefragt. Ich bin
-> Schulberater, mhhkay!
+> Das ist nicht sehr nett, mich mit
+> diesem Mann zu vergleichen, mhhkay?
+> Das kann ganz schön verletzen, wenn
+> einem sowas an den Kopf geworfen
 
 **Seite 4**
 
-> Dieses ständige Verwechseln ist nicht
-> okay. Also wirklich nicht okay,
-> mhhkay.
+> wird, mhhkay? Also paß bitte auf,
+> was Du zu anderen Leuten sagst,
+> mhhkay?
 
 ### 5085
 
@@ -1190,34 +1192,38 @@ Projekttext.
 
 ### 507A
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
 > Dieses Dorf gehörte einst den
-> Shiekah, aber jetzt kann jeder
-> hier leben.
+> Shiekah und jetzt haben die Goronen
+> es übernommen.
 
 ### 507E
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
-> Das Feuer hätte uns fast
-> vernichtet! Aber gemeinsam haben
-> wir es gelöscht! Gute Arbeit,
-> denkst Du nicht auch?
+> Also prinzipiell stehe ich ja auf
+> Männer... und auch Frauen in
+> Uniformen. Aber ein Gorone...
 
 ### 505E
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
-> Fühle Dich ganz wie zu Hause.
-> Das Essen ist allerdings
-> noch nicht fertig!
+> Markus Söder hat einen Herzinfarkt
+> bekommen, als er Bratwurst gegessen
+> hat. Er ist jetzt kanonisch tot. Das
+> ist jetzt ein Fakt. Das ist jetzt in
+
+**Seite 2**
+
+> dieser Story bestätigt.
 
 ### 505D
 
@@ -1245,21 +1251,34 @@ Projekttext.
 
 **Seite 2**
 
-> Mr. Bean, Zeldas verläßlicher
-> Beschützer, ließ dieses Dorf für
-> einfache Leute wie uns erbauen.
+> Kakariko ist eine berühmte Stadt.
+> Wobei, eine Stadt ist es ja nicht,
+> sondern eher ein Dorf.
 
 **Seite 3**
 
-> Noch sind wir wenige. Doch mit
-> seinem klugen Rat wird hier bald das
-> Leben blühen!
+> Was haben wir so? Wir haben den
+> berühmtesten Renner Hyrules, der
+> jetzt tot ist. Wir haben eine Mühle,
+> die viel zu schnell ausrastet.
 
 **Seite 4**
 
-> Für den Aufstieg brauchst Du eine
-> königliche Erlaubnis. Das sollte ein
-> Mann wie Bean wissen.
+> Wir haben... Was haben wir denn hier
+> noch? Na, sag schon. Dieses
+> Spinnenhaus mit so seltsamen
+> Spinnenmutanten!
+
+**Seite 5**
+
+> Aber komm, jeder ist hier
+> willkommen, ganz egal, wie viele Beine
+> er hat. Und ja, auch Du bist hier
+> willkommen. Das ist Kakariko, meine
+
+**Seite 6**
+
+> Damen und Herren.
 
 ### 5064
 
@@ -1295,40 +1314,48 @@ Projekttext.
 
 **Seite 1**
 
-> Meine Eltern erklären mir ständig, daß
-> ich später Verantwortung übernehmen
-> muß. Die Erwachsenen haben Merz
-> eingeladen. Ich habe Fragen.
+> Meine Eltern haben Friedrich Merz
+> gewählt. Ich habe jetzt keine Eltern
+> mehr. Das ist nicht metaphorisch
+> gemeint. Meine Eltern sind vor ein
+
+**Seite 2**
+
+> paar Monaten gestorben und das
+> macht mich sehr traurig, weil ich
+> meine Eltern ja natürlich sehr
+> gemocht habe und jetzt vermisse ich
+
+**Seite 3**
+
+> die ja auch. Ich bin Vollwaise.
 
 ## C. Kakariko – weitere erreichbare Ortsgespräche und Varianten
 
 ### 5029
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
-> Ich sage Dir: Die jungen
-> Leute sind zu nichts mehr 
-> zu gebrauchen!
+> Diese jungen Leute, die wollen
+> heutzutage alles umsonst haben.
 
 ### 502A
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
-> Schau Dir die Kleine da drüben an.
-> Sie kümmert sich aufopferungsvoll
-> um ihre Hühner, und das, obwohl sie 
-> gegen Federn allergisch ist.
+> Ich habe hier neulich so eine riesige
+> Eule gesehen. Wobei neulich auch
+> schon ganz schön lange her ist, muß
+> man sagen. Aber die war so
 
 **Seite 2**
 
-> Was für ein Mädchen! Ich würde
-> ihr gern helfen, ich fühle mich zur
-> Zeit wie ein Wohltäter! Geht's Dir
-> nicht auch so?
+> dermaßen riesig. Also die wog locker
+> fünf Tonnen.
 
 ### 5055
 
@@ -1385,33 +1412,24 @@ Projekttext.
 
 ### 5059
 
-Noch vorhandener Originaltext.
+Projekttext.
 Direkte Fortsetzung: 505A.
 
 **Seite 1**
 
-> Macht es Dir Spaß, fremde Leute
-> zu so später Stunde noch zu
-> belästigen? Du hast wohl gar
-> keine Erziehung genossen.
-
-**Seite 2**
-
-> Na, egal...
+> Es ist ganz schön spät. Ich habe das
+> Gefühl, daß hier drin irgendwie die
+> Zeit nicht weitergeht.
 
 ### 505A
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
-> Die Frau kümmert sich um die
-> Hühner, reagiert aber allergisch
-> auf Federn.
-
-**Seite 2**
-
-> Na, egal...
+> Diese Frau da vorne macht ein
+> Vermögen, weil Friedrich Merz so
+> viele Eier kauft.
 
 ### 5060
 
@@ -1541,8 +1559,7 @@ Projekttext.
 **Seite 2**
 
 > Mein Nachbar sagt, das sei ihre
-> Kultur. Meine Unterhose ist übrigens
-> auch kulturell gewachsen.
+> Kultur.
 
 ### 5084
 
@@ -1550,10 +1567,10 @@ Projekttext.
 
 **Seite 1**
 
-> Der Gorone hat mir erklärt, das sei
-> keine Nacktheit, sondern geologische
-> Freiheit. Jetzt denke ich seit Stunden
-> darüber nach.
+> Jetzt, wo die Goronen-Soldaten Helme
+> tragen, sind sie dann noch hundert
+> Prozent nackt? Waren sie überhaupt
+> vorher nackt? Definitionssache.
 
 ## D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest
 
@@ -1564,36 +1581,17 @@ Direkte Fortsetzung: 503F.
 
 **Seite 1**
 
-> Ich habe Kiki gezüchtet. Von diesem
-> Huhn bekomme ich keine Allergie.
+> Friedrich Merz kauft all meine Eier
+> auf. Ich weiß nicht genau, was er
+> damit vorhat. Aber hier ist ein Ei,
+> das Du bitte in Sicherheit bringst.
 
 **Seite 2**
 
-> Es paßt in die Hosentasche. Das war
-> bei meinen Schweinen anders. Söder
-> brauchte offenbar keine Tasche.
-
-**Seite 3**
-
-> Kiki weckt selbst die größten
-> Schlafmützen. Es gackert mit
-> erstaunlicher Überzeugung.
-
-**Seite 4**
-
-> Ganz glücklich wirkt es trotzdem
-> nicht.
-
-**Seite 5**
-
-> Du scheinst gut mit Hühnern
-> auszukommen. Nimm dieses Ei mit.
-
-**Seite 6**
-
-> Wenn Kiki geschlüpft ist, bring es
-> irgendwann zurück. Ich möchte sehen,
-> ob es sich wohlfühlt.
+> Das ist befruchtet. Das bedeutet, da
+> wird ein Huhn draus schlüpfen. Das
+> sollst Du halt einfach mitnehmen und
+> retten. Danke.
 
 ### 503F
 
@@ -1629,32 +1627,27 @@ Noch vorhandener Originaltext.
 
 ### 5043
 
-Noch vorhandener Originaltext.
+Projekttext.
 Direkte Fortsetzung: 5044.
 
 **Seite 1**
 
-> Oh, Kiki sieht ja sehr gesund und
-> fröhlich aus. Es muß eine arge
-> Schlafmütze geweckt haben!
+> Hey, dem Huhn geht es ja wirklich
+> richtig gut. Wenn das Huhn sprechen
+> könnte, dann würde es sagen: Hey
+> Leute, seht mich an. Ich bin ein Huhn.
 
 **Seite 2**
 
-> Das hast Du gut gemacht!
-> Ich werde Dir ein sehr seltenes
-> Hühnchen mitgeben, wenn Du willst.
+> Ich bin putzmunter. Das ist richtig
+> gut.
 
 **Seite 3**
 
-> Ich nenne es Henni, es hat einmal
-> meinem Bruder gehört. Die blauen 
-> Federn sehen sehr schön aus,
-> nicht wahr? Es ist sooooo süß!
-
-**Seite 4**
-
-> Seit mein Bruder verschwunden ist,
-> gackert Henni gar nicht mehr!
+> Ich habe jetzt ein anderes Huhn, das
+> ich Dir geben kann. Das habe ich aus
+> einer Jeansfabrik gerettet. Deswegen
+> ist es blau.
 
 ### 5044
 
@@ -1707,21 +1700,16 @@ Projekttext.
 
 **Seite 1**
 
-> Luigi leitet jetzt die Farm. Er nennt
-> es unsere große Urlaubsvertretung.
+> It's-a me, Mario! Mein Bruder Luigi
+> ist aktuell auf der Farm sehr, sehr
+> schwer beschäftigt. Ich bin hier
+> gerade in Kakariko, weil ich diese
 
 **Seite 2**
 
-> Ich darf mich hier ausruhen. Malon
-> hilft weiter auf der Farm. Luigi
-> erklärt ihr jeden Morgen, wie toll ihre
-> Schicht wird.
-
-**Seite 3**
-
-> Ein Urlaub ohne Rückreisetermin!
-> Mamma mia, da hätte ich vorher
-> besser nach dem Reiseplan gefragt.
+> eine Frau da gedatet habe. Das
+> könnte jetzt Malons Stiefmutter
+> werden. Let's-a go!
 
 ### 5017
 
@@ -1729,9 +1717,15 @@ Projekttext.
 
 **Seite 1**
 
-> Epona ist bei Dir und Luigi ist
-> glücklich? Großartig! Dann kann
-> Mario wieder nach Hause. Let's-a go!
+> So, ich muß dann auch mal wieder los
+> und mal mächtig anpacken auf der
+> Farm. So einen Heuballen kann man
+> jetzt nicht einfach so bewegen. Da
+
+**Seite 2**
+
+> braucht man schon ein paar weitere
+> Hände. Let's-a go!
 
 ### 508B
 
@@ -1739,10 +1733,14 @@ Projekttext.
 
 **Seite 1**
 
-> Der Bärtige da ist Mario von der
-> Farm. Luigi hat ihm einen Urlaub
-> organisiert. Sehr großzügig. Ohne
-> festes Ende.
+> Ja, das ist Mario. Das ist mein Date.
+> Ich habe ihn jetzt schon länger
+> gedatet. Wenn ich ihn küsse, dann
+> spüre ich seinen Bart in meinem
+
+**Seite 2**
+
+> Gesicht. Das ist sehr beruhigend.
 
 ### 508C
 
@@ -1750,10 +1748,10 @@ Projekttext.
 
 **Seite 1**
 
-> Er übt hier seine Super-Schlaftechnik.
-> An der Motivation scheitert es nicht:
-> Luigi schickt ihm jeden Morgen ein
-> fröhliches Hallo.
+> Wenn Mario schläft, dann schlägt sein
+> Herz und leuchtet golden durch seine
+> Brust. Das ist sehr beruhigend auf
+> jeden Fall.
 
 ### 508D
 
@@ -1762,27 +1760,28 @@ Projekttext.
 **Seite 1**
 
 > Mario ist wieder auf der Farm. Luigi
-> hat sich riesig gefreut!
+> hat sich riesig gefreut. Diese Brüder
+> haben eine Verbindung. Ich weiß gar
+> nicht, wo ich anfangen sollte, zu
 
 **Seite 2**
 
-> Mein kleiner Richard wedelt
-> wenigstens nur mit dem Schwanz.
-> Luigi bedankt sich gleich bei jedem
-> einzelnen Muskel.
+> erzählen, was für eine starke
+> Verbindung diese beiden Brüder haben.
+> Das ist herzerwärmend.
 
 ## E. Kakarikos Läden und optionale Tauschquest
 
 ### 5046
 
-Noch vorhandener Originaltext.
+Projekttext.
 
 **Seite 1**
 
-> Eine alte Vettel betreibt den
-> Hexenladen hinter diesem Shop.
-> Nimm die Tür links neben der
-> Theke, wenn Du hinein willst!
+> Ey, wenn Du die Schleimhexe suchst,
+> die ist hinter diesem Shop. Nimm die
+> Tür links neben der Theke, wenn Du
+> hinein willst.
 
 ### 5048
 
@@ -1854,9 +1853,9 @@ Projekttext.
 
 **Seite 1**
 
-> Ach, komm! Nur ein bißchen Pilz für
-> den Hexenschleim. Du brauchst den
-> doch nicht zum Angucken!
+> Ey, erfüll einer alten Schleimhexe
+> bitte einen schleimigen Gefallen und
+> gib mir den Pilz.
 
 ### 504D
 
@@ -2124,16 +2123,15 @@ Projekttext.
 > Gekratze seit fünf Minuten. Halt
 > endlich die Fresse da oben!
 
-### 0629
+### 0624
 
 Projekttext.
 
 **Seite 1**
 
-> Bongo Bongo. Der trommelt hier mit
-> seinen Riesenpranken auf UNSEREM
-> Fußboden. Hör auf damit, Du
-> Arschloch!
+> Roter Tod. Setzt sich selbst in Brand
+> und rennt schreiend herum. Du bist
+> wirklich ein saudummes Drecksvieh.
 
 ### 062A
 
@@ -2265,31 +2263,30 @@ Salia per Okarina vor dem Schattenamulett.
 
 **Seite 1**
 
-> Sind alle sechs Weisen vereint,
-> können sie Friedrich Merz verbannen.
+> Na Du, wie geht's voran? Ich sehe,
+> Du brauchst jetzt noch einen siebten
+> Weisen. Ja, super. Dann hast Du ja
+> bald alle zusammen. Du mußt
 
 **Seite 2**
 
-> Für das Siegel brauchen sie noch den
-> Siebten Weisen.
+> zwischen Vergangenheit und Zukunft
+> reisen, um die anderen Weisen zu
+> wecken.
 
 **Seite 3**
 
-> Das ist jemand, den Du kennst,
-> [Spielername]. Mehr weiß ich auch
-> nicht.
+> Ich bleib hier erreichbar und trinke
+> jetzt weiter meinen Cocktail. Das ist
+> ein Sex on the Beach,
+> beziehungsweise in dem Falle ein
 
 **Seite 4**
 
-> Du mußt zwischen Vergangenheit und
-> Zukunft reisen, um die anderen
-> Weisen zu erwecken.
-
-**Seite 5**
-
-> Ich bleibe hier erreichbar. Für die
-> großen Sitzungen haben sie ja jetzt
-> die Krabbelminen-Frau.
+> Virgin on the Beach, weil ich ja
+> biologisch noch ein Kind bin und
+> deswegen sollte ich keinen Alkohol
+> trinken.
 
 ### 016D
 
@@ -2310,41 +2307,29 @@ Salia per Okarina nach dem Schattenamulett, abhängig von den übrigen Amuletten
 
 ### 70E3
 
-Noch vorhandener Originaltext.
+Projekttext.
 Späteres Finale im Schloß, kein zusätzlicher Text unmittelbar nach Bongo Bongo.
 Zeitgesteuerte Einblendung bzw. Textpause im Spiel.
 
 **Seite 1**
 
-> Das Schatten-Siegel ist gebrochen!
-> Bitte rette die Prinzessin!
+> Time to crush Merz's balls!
 
 ### 5024
 
-Noch vorhandener Originaltext.
+Projekttext.
 Bedingter Hinweis nach allen erforderlichen Tempeln; nicht zwingend direkt nach dem Schattentempel.
 
 **Seite 1**
 
-> [Spielername], der Auserwählte!
-> Endlich!
+> Perfekt, die ganzen Weisen sind jetzt
+> bereit. Damit können wir den
+> Großmeister des Bösen fertig machen.
+> Gehe zur Zitadelle der Zeit, da
 
 **Seite 2**
 
-> Alle Sechs Weisen sind erweckt!
-> Es ist soweit: Der entscheidende
-> Kampf gegen den Großmeister des
-> Bösen soll nun beginnen!
-
-**Seite 3**
-
-> Zuvor jedoch sollst Du jene
-> treffen, die auf Dich wartet...
-
-**Seite 4**
-
-> Sie harrt Deiner in der
-> Zitadelle der Zeit...
+> wartet Sheik auf Dich.
 
 ---
 

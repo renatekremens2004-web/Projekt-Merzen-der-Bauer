@@ -1,6 +1,6 @@
 {
-  "source_sha256": "724bee7a437cab9b2a2f2ae0f2f2c75488bfa1c8ca4159f5a43b37d78880ea6f",
-  "total_messages": 169,
+  "source_sha256": "101647188e3030b47b627c249cc677efc385c5c351d634d24c0a15722bcf0ab5",
+  "total_messages": 173,
   "messages": [
     {
       "id": "0156",
@@ -2092,6 +2092,54 @@
       ],
       "project_sources": [
         "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "5024",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Perfekt, die ganzen Weisen sind jetzt\nbereit. Damit können wir den\nGroßmeister des Bösen fertig machen.\nGehe zur Zitadelle der Zeit, da",
+        "wartet Sheik auf Dich."
+      ],
+      "controls": [],
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
+    },
+    {
+      "id": "00E0",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Willst Du mit Salia sprechen?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "00E1",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Willst Du dann mit mir sprechen? \n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "016D",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Die sechs Weisen geben Dir ihre\nKraft. Ich drücke Dir von hier aus die\nDaumen.",
+        "Das Schicksal Hyrules liegt jetzt bei\nDir. Und zum Teil bei einer\nüberarbeiteten Bowling-Angestellten."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "bowling_waldweise_de.json"
       ]
     }
   ],

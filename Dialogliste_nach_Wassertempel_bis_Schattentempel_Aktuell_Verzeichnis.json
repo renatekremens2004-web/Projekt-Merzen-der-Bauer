@@ -1,5 +1,5 @@
 {
-  "source_sha256": "27ce8b0bdcbe075abeea1da941cacd6acb39286e1e7ad65278d18757dca0d274",
+  "source_sha256": "101647188e3030b47b627c249cc677efc385c5c351d634d24c0a15722bcf0ab5",
   "scope": "Nach Wassertempel bis Abschluß Schattentempel",
   "total_messages": 153,
   "cutscene_coverage": [
@@ -38,18 +38,20 @@
       "id": "501B",
       "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
       "pages": [
-        "Zurück, [Spielername]!"
+        "Bleib zurück, [Spielername]!"
       ],
       "controls": [],
       "notes": "Sheiks kurzer Warnruf zu Beginn des brennenden Kakariko-Ereignisses.",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "5030",
       "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
       "pages": [
-        "Okay, ich sehe, Du hast noch genug\nHerzen. Na perfekt. Solltest aber\nvielleicht mal mehr Herzteile sammeln."
+        "Okay, ich sehe, Du hast noch genug\nHerzen. Ja, perfekt. Du solltest aber\nvielleicht mal mehr Herzteile sammeln."
       ],
       "controls": [],
       "notes": "",
@@ -62,11 +64,10 @@
       "id": "501C",
       "section": "1. Nach dem Wassertempel – Navi und Kakarikos brennender Brunnen",
       "pages": [
-        "[Spielername], es gab da einst\neinen Dämon, den jemand im Brunnen\neingesperrt hat. Das war Mr. Bean!\nNur er kommt auf sowas Verrücktes.",
-        "Das absolute Genie, der Typ.",
-        "Na ja, jetzt ist die Kraft des Dämons\ngewachsen. Irgendwie wegen Friedrich\nMerz. Der ist, glaube ich, selbst ein\nDämon. Seine Frisur sieht zumindest",
-        "dämonisch beschissen aus.",
-        "Und das Siegel ist jetzt halt\ngebrochen, ne? Und ja, ist jetzt halt\nMist, ne?"
+        "Es gab da einen Dämon, weißt Du,\nder im Brunnen eingesperrt wurde.\nVon Mr. Bean. Schließlich war Mr.\nBean ein absolutes Genie, der Typ,",
+        "und wollte dieses Dorf schützen. Und\nzwar richtig beschützen. Nicht auf\ndiese Art, wie es die\nGoronen-Soldaten tun.",
+        "Nee, jedenfalls ist die Kraft dieses\nDämons jetzt gewachsen. Das liegt\ndaran, daß Friedrich Merz zu viel\nböse Energie nach Hyrule gebracht",
+        "hat. Das Siegel konnte dieser bösen\nMagie und Energie nicht mehr\nstandhalten. Und jetzt haben wir den\nSalat."
       ],
       "controls": [],
       "notes": "",
@@ -93,8 +94,8 @@
       "id": "5031",
       "section": "2. Sheik und Nocturne des Schattens",
       "pages": [
-        "[Spielername], leider ist Mr. Bean\nnicht mehr hier. Damals hat er Zelda\nbei der Flucht aus dem Schloß gut\nbeschützt. Davon hast Du ja sogar",
-        "geträumt.",
+        "[Spielername], leider ist Mr. Bean\nnicht mehr hier. Damals hat er Zelda\nbei der Flucht aus dem Schloß gut\nbeschützt.",
+        "Davon hast Du ja sogar geträumt.",
         "Dann verlor er gegen Merz. Die haben\nkrass gekämpft, aber Merz spielte\nunfair. Muß man einfach sagen.",
         "Heute kein großer Reim. Ich wußte\nnichts vom Schattentempel! Das Blut,\ndie Schädel... Als hätte man da Leute\ngefoltert.",
         "Schon beim Brunnen denkt man: War\ndieser Dämon ein Serienmörder?\nSpannende Theorie. Aber der Tempel\nist ja auch nicht besser.",
@@ -212,7 +213,7 @@
       "pages": [
         "Ich bin so stinkig, mein Blut kocht,\nich könnte explodieren! Mir geht der\nHut hoch!",
         "Ein Kind, das eins zu eins aussieht\nwie Du, wird eines Tages diese ganze\nMühle mit seiner bekloppten\nRegenmusik zerstören!",
-        "Ich hoffe, das wirst nicht Du sein!\nIch übe diese Beschwerde vorsorglich\nseit Wochen."
+        "Diese Vision ist mir in einem Traum\nerschienen."
       ],
       "controls": [],
       "notes": "Kindervariante des Windmühlenmannes vor dem Regenlied.",
@@ -225,8 +226,8 @@
       "id": "5033",
       "section": "4. Zurück als Kind – Windmühle und Entleeren des Brunnens",
       "pages": [
-        "Was zur Hölle geht hier vor sich? Du\nhast meine Mühle zerstört! Du hast\nalles kaputtgemacht! Diese Mühle hat\nmit meinem Einkommen zu tun. Wenn",
-        "ich nicht genug Kram mühle, lande ich\nauf der Straße!"
+        "Was zur Hölle geht hier vor sich? Du\nhast meine Mühle zerstört! Du hast\nalles kaputtgemacht! Diese Mühle hat\nmit meinem Einkommen zu tun.",
+        "Wenn ich nicht genug Kram mühle,\nlande ich auf der Straße!"
       ],
       "controls": [],
       "notes": "Reaktion auf die ruinierte Windmühle in der Kindheit.",
@@ -476,7 +477,9 @@
       "section": "8. Brunnen – Auge der Wahrheit und Schattengewand",
       "pages": [
         "Das Auge der Wahrheit!\nPlaziere es auf [C] und sieh\nmit [C] hindurch! Du wirst\nviele Geheimnisse lüften!",
-        "Setzt Du es ein,\nkostet es magische Energie.\nMit [C] kannst Du es auch\nwieder deaktivieren."
+        "Setzt Du es ein,\nkostet es magische Energie.\nMit [C] kannst Du es auch\nwieder deaktivieren.",
+        "Viele von diesen Geheimnissen sind\neinfach nur Böden, die eigentlich gar\nnicht da sind.",
+        "Du fällst dann durch und mußt den\nganzen Weg wieder zurücklatschen."
       ],
       "controls": [
         "ITEM_ICON(ITEM_LENS_OF_TRUTH)",
@@ -484,7 +487,9 @@
       ],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "71DC",
@@ -571,27 +576,33 @@
       "id": "022B",
       "section": "9. Schattentempel – Wände, Statue und Warnungen",
       "pages": [
-        "Hier steht die Inschrift\naus dem Wappen\nder Königsfamilie von Hyrule."
+        "Oh wow, das Wappen der\nKönigsfamilie von Hyrule. Was haben\ndie mit diesem komischen Ort",
+        "veranstaltet? Was sollte sowas\ndenn?"
       ],
       "controls": [],
       "notes": "",
       "locations": [
         "Brunnen – Raum 0"
       ],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "023C",
       "section": "9. Schattentempel – Wände, Statue und Warnungen",
       "pages": [
-        "Die Schatten werden sich nur dem\noffenbaren, der die Augen der\nWahrheit besitzt. Es heißt, man\nkönne sie in Kakariko finden..."
+        "Na ja, jedenfalls steht da: Die\nSchatten werden sich nur dem\noffenbaren... Ja, bla bla bla, Auge der",
+        "Wahrheit, das haben wir ja schon\ngeklärt."
       ],
       "controls": [],
       "notes": "",
       "locations": [
         "Schattentempel – Raum 2"
       ],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "71B8",
@@ -610,8 +621,9 @@
       "id": "0054",
       "section": "10. Schattentempel – Kenny und Gleitstiefel",
       "pages": [
-        "Die Gleitstiefel!\nMit diesen seltsamen Schuhen\nschwebst Du über den Boden.",
-        "Du kannst damit für\nkurze Zeit sogar Abgründe\nüberqueren. Habe Mut und\nvertraue den Stiefeln!"
+        "Die Gleitstiefel! Mit diesen\nschicken Schuhen schwebst\nDu über den Boden.",
+        "Du kannst sie mit\nSteuerkreuz oben equippen.",
+        "Sie sind so, als würdest Du die\nganze Zeit auf Eis laufen. Also sind\ndie nur zum Fliegen gut."
       ],
       "controls": [
         "ITEM_ICON(ITEM_BOOTS_HOVER)",
@@ -619,7 +631,9 @@
       ],
       "notes": "Fundtext der Gleitstiefel; Steuerkreuz oben wechselt im aktuellen Hack die Stiefel.",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "71B9",
@@ -678,23 +692,27 @@
       "id": "5071",
       "section": "11. Schattentempel – Crocker, Skelett auf dem Schiff und Starwalker",
       "pages": [
-        "[Spielername]!\nDas Schiff sinkt!\nSpring ab!\nRette Dich auf festen Boden!"
+        "Schnell, bring Dich in Sicherheit und\nrette den Rattle-Me-Bones-Typen.\nNein!"
       ],
       "controls": [
         "FADE(60)"
       ],
       "notes": "Navi-Warnung beim Untergang der Geisterfähre.",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
-      "id": "0624",
+      "id": "0629",
       "section": "12. Bongo Bongo – Navis Zielerfassung",
       "pages": [
-        "Roter Tod. Setzt sich selbst in Brand\nund rennt schreiend herum. Du bist\nwirklich ein saudummes Drecksvieh."
+        "Warum ist hier so eine riesige\nTrommel? Hat der Dämon die\nerschaffen? Und wenn der Dämon\ndann besiegt wird, was passiert mit",
+        "der Trommel? Denn wenn die bleibt,\nbedeutet das ja, daß der Dämon\nDinge einfach so erschaffen kann.\nKann er jetzt auch irgendwie, keine",
+        "Ahnung, ein Telefon erschaffen?"
       ],
       "controls": [],
-      "notes": "",
+      "notes": "Bongo Bongos tatsächliche Navi-Zielerfassung. In der vorigen Liste irrtümlich als 0624 bezeichnet; 0624 gehört zum Roten Tod.",
       "locations": [],
       "project_sources": [
         "navi_gegner_de.json"
@@ -704,8 +722,7 @@
       "id": "5022",
       "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
       "pages": [
-        "[Spielername]! You did it! I was\njust coming to help.",
-        "A Sage of Shadow? Me? I thought\nthis was the shady waiting room."
+        "Ah, welcome. I'm Mr. Bean. I'm the\nSage of Shadow now."
       ],
       "controls": [],
       "notes": "Mr. Bean als Schattenweiser. Seine deutschen Sprachslots enthalten bewußt englische Sätze.",
@@ -718,12 +735,8 @@
       "id": "5025",
       "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
       "pages": [
-        "Merz says I died fighting him? How\nvery flattering.",
-        "I got Zelda out on horseback. Then\nthere was a low branch.",
-        "It caught my head. I fell off. Broke\nmy neck.",
-        "Very inconvenient. Zelda got away,\nthough. That was rather the point.",
-        "The Shadow Temple? Lovely place.\nVery peaceful.",
-        "Rather a lot of sharp decorations. I\nrecommend the back entrance."
+        "I wanted to save the princess. Then\nthere was a branch. It caught my\nhead, I fell off the horse and broke\nmy neck. But Zelda is fine.",
+        "The Shadow Temple could do with\nsome vacuuming. Disgusting zombies."
       ],
       "controls": [],
       "notes": "",
@@ -736,7 +749,7 @@
       "id": "502B",
       "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
       "pages": [
-        "Zelda is safe. And my neck no longer\nhurts. One advantage, I suppose."
+        "My car is still parked by the castle."
       ],
       "controls": [],
       "notes": "",
@@ -749,8 +762,7 @@
       "id": "502C",
       "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
       "pages": [
-        "You'll see Zelda soon.\nShe explains things rather better.",
-        "Six Sages. One Merz.\nI like those odds."
+        "Merz isn't a nice man. I hate him."
       ],
       "controls": [],
       "notes": "",
@@ -763,8 +775,7 @@
       "id": "5026",
       "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
       "pages": [
-        "Please look after Zelda. I'll stay off\nhorses for a bit.",
-        "Take my shadow power. Apparently I\nhave some."
+        "I'm a ghost now. Take my Shadow\nTemple plate. It's purple."
       ],
       "controls": [],
       "notes": "",
@@ -792,7 +803,7 @@
       "id": "5023",
       "section": "13. Halle der Weisen – Mr. Bean und Schattenamulett",
       "pages": [
-        "Find Zelda.\nTell her I helped."
+        "Do visit me again. Maybe I can give\nyou another medallion."
       ],
       "controls": [
         "FADE(50)"
@@ -834,10 +845,10 @@
       "id": "71C5",
       "section": "A. Kakariko – zusätzliche Figuren und Gespräche in der Zukunft",
       "pages": [
-        "Ich bin Mr. Mackey, mhhkay? Und ich\nbin NICHT Friedrich Merz!",
-        "Nur weil jemand einen großen Kopf\nund wenig Haare hat, ist er doch\nnicht gleich dieser Kerl, mhhkay!",
-        "Gestern hat mich einer nach\nSteuersenkungen gefragt. Ich bin\nSchulberater, mhhkay!",
-        "Dieses ständige Verwechseln ist nicht\nokay. Also wirklich nicht okay,\nmhhkay."
+        "Ich bin Mr. Mackey, mhhkay? Und ich\nbin nicht Friedrich Merz. Ich möchte\ndas noch mal wiederholen. Nur weil\njemand einen großen Kopf und wenig",
+        "Haare hat, ist er doch nicht gleich\ndieser Kerl, mhhkay?",
+        "Das ist nicht sehr nett, mich mit\ndiesem Mann zu vergleichen, mhhkay?\nDas kann ganz schön verletzen, wenn\neinem sowas an den Kopf geworfen",
+        "wird, mhhkay? Also paß bitte auf,\nwas Du zu anderen Leuten sagst,\nmhhkay?"
       ],
       "controls": [],
       "notes": "Mr. Mackey in einem normalen Kakariko-Haus, nicht im Spinnenhaus.",
@@ -1025,34 +1036,41 @@
       "id": "507A",
       "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
       "pages": [
-        "Dieses Dorf gehörte einst den\nShiekah, aber jetzt kann jeder\nhier leben."
+        "Dieses Dorf gehörte einst den\nShiekah und jetzt haben die Goronen\nes übernommen."
       ],
       "controls": [],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "507E",
       "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
       "pages": [
-        "Das Feuer hätte uns fast\nvernichtet! Aber gemeinsam haben\nwir es gelöscht! Gute Arbeit,\ndenkst Du nicht auch?"
+        "Also prinzipiell stehe ich ja auf\nMänner... und auch Frauen in\nUniformen. Aber ein Gorone..."
       ],
       "controls": [],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "505E",
       "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
       "pages": [
-        "Fühle Dich ganz wie zu Hause.\nDas Essen ist allerdings\nnoch nicht fertig!"
+        "Markus Söder hat einen Herzinfarkt\nbekommen, als er Bratwurst gegessen\nhat. Er ist jetzt kanonisch tot. Das\nist jetzt ein Fakt. Das ist jetzt in",
+        "dieser Story bestätigt."
       ],
       "controls": [],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "505D",
@@ -1073,9 +1091,11 @@
       "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
       "pages": [
         "Es ist [Uhrzeit] Uhr! Zeit, Dir etwas\nüber Kakariko zu erzählen.",
-        "Mr. Bean, Zeldas verläßlicher\nBeschützer, ließ dieses Dorf für\neinfache Leute wie uns erbauen.",
-        "Noch sind wir wenige. Doch mit\nseinem klugen Rat wird hier bald das\nLeben blühen!",
-        "Für den Aufstieg brauchst Du eine\nkönigliche Erlaubnis. Das sollte ein\nMann wie Bean wissen."
+        "Kakariko ist eine berühmte Stadt.\nWobei, eine Stadt ist es ja nicht,\nsondern eher ein Dorf.",
+        "Was haben wir so? Wir haben den\nberühmtesten Renner Hyrules, der\njetzt tot ist. Wir haben eine Mühle,\ndie viel zu schnell ausrastet.",
+        "Wir haben... Was haben wir denn hier\nnoch? Na, sag schon. Dieses\nSpinnenhaus mit so seltsamen\nSpinnenmutanten!",
+        "Aber komm, jeder ist hier\nwillkommen, ganz egal, wie viele Beine\ner hat. Und ja, auch Du bist hier\nwillkommen. Das ist Kakariko, meine",
+        "Damen und Herren."
       ],
       "controls": [
         "TIME"
@@ -1127,7 +1147,9 @@
       "id": "5069",
       "section": "B. Kakariko – Mr. Beans Haus und Reaktionen auf die Ereignisse",
       "pages": [
-        "Meine Eltern erklären mir ständig, daß\nich später Verantwortung übernehmen\nmuß. Die Erwachsenen haben Merz\neingeladen. Ich habe Fragen."
+        "Meine Eltern haben Friedrich Merz\ngewählt. Ich habe jetzt keine Eltern\nmehr. Das ist nicht metaphorisch\ngemeint. Meine Eltern sind vor ein",
+        "paar Monaten gestorben und das\nmacht mich sehr traurig, weil ich\nmeine Eltern ja natürlich sehr\ngemocht habe und jetzt vermisse ich",
+        "die ja auch. Ich bin Vollwaise."
       ],
       "controls": [],
       "notes": "",
@@ -1140,24 +1162,28 @@
       "id": "5029",
       "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
       "pages": [
-        "Ich sage Dir: Die jungen\nLeute sind zu nichts mehr \nzu gebrauchen!"
+        "Diese jungen Leute, die wollen\nheutzutage alles umsonst haben."
       ],
       "controls": [],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "502A",
       "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
       "pages": [
-        "Schau Dir die Kleine da drüben an.\nSie kümmert sich aufopferungsvoll\num ihre Hühner, und das, obwohl sie \ngegen Federn allergisch ist.",
-        "Was für ein Mädchen! Ich würde\nihr gern helfen, ich fühle mich zur\nZeit wie ein Wohltäter! Geht's Dir\nnicht auch so?"
+        "Ich habe hier neulich so eine riesige\nEule gesehen. Wobei neulich auch\nschon ganz schön lange her ist, muß\nman sagen. Aber die war so",
+        "dermaßen riesig. Also die wog locker\nfünf Tonnen."
       ],
       "controls": [],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "5055",
@@ -1216,27 +1242,29 @@
       "id": "5059",
       "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
       "pages": [
-        "Macht es Dir Spaß, fremde Leute\nzu so später Stunde noch zu\nbelästigen? Du hast wohl gar\nkeine Erziehung genossen.",
-        "Na, egal..."
+        "Es ist ganz schön spät. Ich habe das\nGefühl, daß hier drin irgendwie die\nZeit nicht weitergeht."
       ],
       "controls": [
         "TEXTID(0x505A)"
       ],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "505A",
       "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
       "pages": [
-        "Die Frau kümmert sich um die\nHühner, reagiert aber allergisch\nauf Federn.",
-        "Na, egal..."
+        "Diese Frau da vorne macht ein\nVermögen, weil Friedrich Merz so\nviele Eier kauft."
       ],
       "controls": [],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "5060",
@@ -1342,7 +1370,7 @@
       "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
       "pages": [
         "Ich habe ja nichts gegen Goronen.\nAber müssen die wirklich nackt\nrumlaufen?",
-        "Mein Nachbar sagt, das sei ihre\nKultur. Meine Unterhose ist übrigens\nauch kulturell gewachsen."
+        "Mein Nachbar sagt, das sei ihre\nKultur."
       ],
       "controls": [],
       "notes": "",
@@ -1355,7 +1383,7 @@
       "id": "5084",
       "section": "C. Kakariko – weitere erreichbare Ortsgespräche und Varianten",
       "pages": [
-        "Der Gorone hat mir erklärt, das sei\nkeine Nacktheit, sondern geologische\nFreiheit. Jetzt denke ich seit Stunden\ndarüber nach."
+        "Jetzt, wo die Goronen-Soldaten Helme\ntragen, sind sie dann noch hundert\nProzent nackt? Waren sie überhaupt\nvorher nackt? Definitionssache."
       ],
       "controls": [],
       "notes": "",
@@ -1368,12 +1396,8 @@
       "id": "503E",
       "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
       "pages": [
-        "Ich habe Kiki gezüchtet. Von diesem\nHuhn bekomme ich keine Allergie.",
-        "Es paßt in die Hosentasche. Das war\nbei meinen Schweinen anders. Söder\nbrauchte offenbar keine Tasche.",
-        "Kiki weckt selbst die größten\nSchlafmützen. Es gackert mit\nerstaunlicher Überzeugung.",
-        "Ganz glücklich wirkt es trotzdem\nnicht.",
-        "Du scheinst gut mit Hühnern\nauszukommen. Nimm dieses Ei mit.",
-        "Wenn Kiki geschlüpft ist, bring es\nirgendwann zurück. Ich möchte sehen,\nob es sich wohlfühlt."
+        "Friedrich Merz kauft all meine Eier\nauf. Ich weiß nicht genau, was er\ndamit vorhat. Aber hier ist ein Ei,\ndas Du bitte in Sicherheit bringst.",
+        "Das ist befruchtet. Das bedeutet, da\nwird ein Huhn draus schlüpfen. Das\nsollst Du halt einfach mitnehmen und\nretten. Danke."
       ],
       "controls": [
         "TEXTID(0x503F)"
@@ -1425,17 +1449,18 @@
       "id": "5043",
       "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
       "pages": [
-        "Oh, Kiki sieht ja sehr gesund und\nfröhlich aus. Es muß eine arge\nSchlafmütze geweckt haben!",
-        "Das hast Du gut gemacht!\nIch werde Dir ein sehr seltenes\nHühnchen mitgeben, wenn Du willst.",
-        "Ich nenne es Henni, es hat einmal\nmeinem Bruder gehört. Die blauen \nFedern sehen sehr schön aus,\nnicht wahr? Es ist sooooo süß!",
-        "Seit mein Bruder verschwunden ist,\ngackert Henni gar nicht mehr!"
+        "Hey, dem Huhn geht es ja wirklich\nrichtig gut. Wenn das Huhn sprechen\nkönnte, dann würde es sagen: Hey\nLeute, seht mich an. Ich bin ein Huhn.",
+        "Ich bin putzmunter. Das ist richtig\ngut.",
+        "Ich habe jetzt ein anderes Huhn, das\nich Dir geben kann. Das habe ich aus\neiner Jeansfabrik gerettet. Deswegen\nist es blau."
       ],
       "controls": [
         "TEXTID(0x5044)"
       ],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "5044",
@@ -1492,9 +1517,8 @@
       "id": "5016",
       "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
       "pages": [
-        "Luigi leitet jetzt die Farm. Er nennt\nes unsere große Urlaubsvertretung.",
-        "Ich darf mich hier ausruhen. Malon\nhilft weiter auf der Farm. Luigi\nerklärt ihr jeden Morgen, wie toll ihre\nSchicht wird.",
-        "Ein Urlaub ohne Rückreisetermin!\nMamma mia, da hätte ich vorher\nbesser nach dem Reiseplan gefragt."
+        "It's-a me, Mario! Mein Bruder Luigi\nist aktuell auf der Farm sehr, sehr\nschwer beschäftigt. Ich bin hier\ngerade in Kakariko, weil ich diese",
+        "eine Frau da gedatet habe. Das\nkönnte jetzt Malons Stiefmutter\nwerden. Let's-a go!"
       ],
       "controls": [],
       "notes": "",
@@ -1507,7 +1531,8 @@
       "id": "5017",
       "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
       "pages": [
-        "Epona ist bei Dir und Luigi ist\nglücklich? Großartig! Dann kann\nMario wieder nach Hause. Let's-a go!"
+        "So, ich muß dann auch mal wieder los\nund mal mächtig anpacken auf der\nFarm. So einen Heuballen kann man\njetzt nicht einfach so bewegen. Da",
+        "braucht man schon ein paar weitere\nHände. Let's-a go!"
       ],
       "controls": [],
       "notes": "",
@@ -1520,7 +1545,8 @@
       "id": "508B",
       "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
       "pages": [
-        "Der Bärtige da ist Mario von der\nFarm. Luigi hat ihm einen Urlaub\norganisiert. Sehr großzügig. Ohne\nfestes Ende."
+        "Ja, das ist Mario. Das ist mein Date.\nIch habe ihn jetzt schon länger\ngedatet. Wenn ich ihn küsse, dann\nspüre ich seinen Bart in meinem",
+        "Gesicht. Das ist sehr beruhigend."
       ],
       "controls": [],
       "notes": "",
@@ -1533,7 +1559,7 @@
       "id": "508C",
       "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
       "pages": [
-        "Er übt hier seine Super-Schlaftechnik.\nAn der Motivation scheitert es nicht:\nLuigi schickt ihm jeden Morgen ein\nfröhliches Hallo."
+        "Wenn Mario schläft, dann schlägt sein\nHerz und leuchtet golden durch seine\nBrust. Das ist sehr beruhigend auf\njeden Fall."
       ],
       "controls": [],
       "notes": "",
@@ -1546,8 +1572,8 @@
       "id": "508D",
       "section": "D. Hühnerfrau, Mario und Beginn der optionalen Tauschquest",
       "pages": [
-        "Mario ist wieder auf der Farm. Luigi\nhat sich riesig gefreut!",
-        "Mein kleiner Richard wedelt\nwenigstens nur mit dem Schwanz.\nLuigi bedankt sich gleich bei jedem\neinzelnen Muskel."
+        "Mario ist wieder auf der Farm. Luigi\nhat sich riesig gefreut. Diese Brüder\nhaben eine Verbindung. Ich weiß gar\nnicht, wo ich anfangen sollte, zu",
+        "erzählen, was für eine starke\nVerbindung diese beiden Brüder haben.\nDas ist herzerwärmend."
       ],
       "controls": [],
       "notes": "",
@@ -1560,14 +1586,16 @@
       "id": "5046",
       "section": "E. Kakarikos Läden und optionale Tauschquest",
       "pages": [
-        "Eine alte Vettel betreibt den\nHexenladen hinter diesem Shop.\nNimm die Tür links neben der\nTheke, wenn Du hinein willst!"
+        "Ey, wenn Du die Schleimhexe suchst,\ndie ist hinter diesem Shop. Nimm die\nTür links neben der Theke, wenn Du\nhinein willst."
       ],
       "controls": [
         "EVENT"
       ],
       "notes": "",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "5048",
@@ -1633,7 +1661,7 @@
       "id": "504C",
       "section": "E. Kakarikos Läden und optionale Tauschquest",
       "pages": [
-        "Ach, komm! Nur ein bißchen Pilz für\nden Hexenschleim. Du brauchst den\ndoch nicht zum Angucken!"
+        "Ey, erfüll einer alten Schleimhexe\nbitte einen schleimigen Gefallen und\ngib mir den Pilz."
       ],
       "controls": [],
       "notes": "",
@@ -1942,10 +1970,10 @@
       ]
     },
     {
-      "id": "0629",
+      "id": "0624",
       "section": "G. Navi – Gegnerbeschreibungen im Brunnen und Schattentempel",
       "pages": [
-        "Bongo Bongo. Der trommelt hier mit\nseinen Riesenpranken auf UNSEREM\nFußboden. Hör auf damit, Du\nArschloch!"
+        "Roter Tod. Setzt sich selbst in Brand\nund rennt schreiend herum. Du bist\nwirklich ein saudummes Drecksvieh."
       ],
       "controls": [],
       "notes": "",
@@ -2101,11 +2129,10 @@
       "id": "016C",
       "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
       "pages": [
-        "Sind alle sechs Weisen vereint,\nkönnen sie Friedrich Merz verbannen.",
-        "Für das Siegel brauchen sie noch den\nSiebten Weisen.",
-        "Das ist jemand, den Du kennst,\n[Spielername]. Mehr weiß ich auch\nnicht.",
-        "Du mußt zwischen Vergangenheit und\nZukunft reisen, um die anderen\nWeisen zu erwecken.",
-        "Ich bleibe hier erreichbar. Für die\ngroßen Sitzungen haben sie ja jetzt\ndie Krabbelminen-Frau."
+        "Na Du, wie geht's voran? Ich sehe,\nDu brauchst jetzt noch einen siebten\nWeisen. Ja, super. Dann hast Du ja\nbald alle zusammen. Du mußt",
+        "zwischen Vergangenheit und Zukunft\nreisen, um die anderen Weisen zu\nwecken.",
+        "Ich bleib hier erreichbar und trinke\njetzt weiter meinen Cocktail. Das ist\nein Sex on the Beach,\nbeziehungsweise in dem Falle ein",
+        "Virgin on the Beach, weil ich ja\nbiologisch noch ein Kind bin und\ndeswegen sollte ich keinen Alkohol\ntrinken."
       ],
       "controls": [
         "EVENT"
@@ -2136,28 +2163,30 @@
       "id": "70E3",
       "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
       "pages": [
-        "Das Schatten-Siegel ist gebrochen!\nBitte rette die Prinzessin!"
+        "Time to crush Merz's balls!"
       ],
       "controls": [
         "FADE(40)"
       ],
       "notes": "Späteres Finale im Schloß, kein zusätzlicher Text unmittelbar nach Bongo Bongo.",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     },
     {
       "id": "5024",
       "section": "H. Weitere bedingte Hinweise, Salias Lied und spätere Rückbezüge",
       "pages": [
-        "[Spielername], der Auserwählte!\nEndlich!",
-        "Alle Sechs Weisen sind erweckt!\nEs ist soweit: Der entscheidende\nKampf gegen den Großmeister des\nBösen soll nun beginnen!",
-        "Zuvor jedoch sollst Du jene\ntreffen, die auf Dich wartet...",
-        "Sie harrt Deiner in der\nZitadelle der Zeit..."
+        "Perfekt, die ganzen Weisen sind jetzt\nbereit. Damit können wir den\nGroßmeister des Bösen fertig machen.\nGehe zur Zitadelle der Zeit, da",
+        "wartet Sheik auf Dich."
       ],
       "controls": [],
       "notes": "Bedingter Hinweis nach allen erforderlichen Tempeln; nicht zwingend direkt nach dem Schattentempel.",
       "locations": [],
-      "project_sources": []
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
     }
   ]
 }
