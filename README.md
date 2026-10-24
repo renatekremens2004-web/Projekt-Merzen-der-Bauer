@@ -1,3 +1,15 @@
+# V64: Gaster im Schattentempel und Sound bei jedem Goronen-Schuss
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Gaster_V64.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Gaster_V64.bps?raw=true) · [Quellen und Patches](Merzen_Gaster_V64_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Gaster_V64_Anleitung.md)
+
+[MP4: jeder Goronen-Schuss mit Sound](Kakariko_Schuesse_V63.mp4?raw=true)
+
+Gaster erscheint zufällig an vier geprüften Standorten im Schattentempel und verschwindet bei Annäherung. Statisch, stumm, ohne Kollision oder Rätsel-Einfluß. 108 Dreiecke; keine zusätzlichen Objektbank-Slots. Alle vier Stellen sowie DEBUG mit 4 MiB geprüft. Die Goronen lösen jetzt bei jedem tatsächlichen Schuß ihre eigene Aufnahme aus: 23 Schüsse, 23 Soundstarts. Bei schnellen Salven beginnt der jeweilige Clip erneut. Alle bisherigen Änderungen sind enthalten. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen V64-Patch auf eine saubere europäische PAL-1.0-ROM anwenden. Das Spielstandmenü ist weiterhin unverändert.
+
+![Gaster im Schattentempel](Gaster_Schattentempel_V64.png)
+
 # V62: Drei Goronen mit eigenen Sounds und genauerem Zielen
 
 [MP4 mit echtem Spielton](Kakariko_Sounds_V62.mp4?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kakariko_Sounds_V62.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kakariko_Sounds_V62.bps?raw=true) · [Quellen und Patches](Merzen_Kakariko_Sounds_V62_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kakariko_Sounds_V62_Anleitung.md)
