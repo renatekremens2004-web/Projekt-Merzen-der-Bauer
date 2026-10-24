@@ -1,3 +1,15 @@
+# V60: Soldaten-Goronen gegen den Schatten in Kakariko
+
+[Video mit Spielton](Kakariko_Verteidigung_V60.mp4?raw=true) · [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kakariko_Verteidigung_V60.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kakariko_Verteidigung_V60.bps?raw=true) · [Quellen und Patches](Merzen_Kakariko_Verteidigung_V60_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kakariko_Verteidigung_V60_Anleitung.md)
+
+Drei Soldaten mit Helmen und Gewehren verfolgen den Schatten und feuern versetzte Salven mit Rückstoß. Die Schüsse sind reine visuelle Effekte aus der Arwing-Grafik. Die ursprüngliche Kamerafahrt bleibt erhalten. Alle V59-Inhalte bleiben enthalten.
+
+Normale und DEBUG-Ausgabe auf 4 MiB geprüft: vollständige Sequenz, Sheiks Gespräch, Nocturne nachgespielt und Rückkehr in das steuerbare Dorf. Kein Schaden durch die visuellen Schüsse. Bisherige Texte, Musik, Modelle, Räume und Credits wurden mit V59 verglichen; notwendige Linker-Adressverschiebungen sind berücksichtigt. Kein vollständiger neuer Spieldurchlauf.
+
+Genau einen V60-Patch auf eine saubere europäische PAL-1.0-ROM anwenden. Die MP4 zeigt 41,4 Sekunden aus der tatsächlichen Szene mit Spielton.
+
+![Goronen am Brunnen](Kakariko_Verteidigung_V60.png)
+
 # Vogel-Demonstration – kein neuer Spielpatch
 
 [MP4 herunterladen](Vogel_Demonstration.mp4?raw=true)
