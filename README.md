@@ -1,3 +1,11 @@
+# Vogel-Demonstration – kein neuer Spielpatch
+
+[MP4 herunterladen](Vogel_Demonstration.mp4?raw=true)
+
+14 Sekunden aus dem Emulator: Original-Actor 0072 mit Objekt 0077 im Kokiri-Wald, zuerst im Umfeld und anschließend in Nahaufnahme. Originalgröße und originale Flügelanimation. Der ungenutzte Originalcode flattert und dreht den Vogel; eine Flugbahn ist noch nicht ergänzt. Aufnahme mit 4 MiB. Die veröffentlichte V59 und ihre Produktionsquellen sind unverändert.
+
+![Originalvogel](Vogel_Demonstration.png)
+
 # V59: Brunnen, Schattentempel und Kakariko nach Deinem Diktat
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Schatten_Dialoge_V59.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Schatten_Dialoge_V59.bps?raw=true) · [Quellen und Patches](Merzen_Schatten_Dialoge_V59_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Schatten_Dialoge_V59_Anleitung.md)
