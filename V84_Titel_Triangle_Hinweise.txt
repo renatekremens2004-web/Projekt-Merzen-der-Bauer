@@ -1,0 +1,21 @@
+V84 — Titelmusik, Schloss-Einsturz und Triangle Guy
+
+Kumulativer BPS-Patch auf Basis des bisherigen Spielstands V79; enthält alle dort vorhandenen Änderungen. Auf eine SAUBERE Ocarina-of-Time-PAL-1.0-ROM anwenden, nicht auf eine bereits gepatchte Datei. Basis-MD5:e040de91a74b61e3201db0e2323f768a. Normale und DEBUG-Fassung haben denselben Spielinhalt; DEBUG enthält weiterhin die bisherigen Testfunktionen.
+
+MUSIK
+Die zuvor leisen Holzbläser-Gegenstimmen wurden angehoben. Orgel während Malons Gesang rund2dB lauter, weitere leisere Streicher-/Chor-/Gegenstimmen ab dem späteren Gesangsteil etwa1dB präsenter. Klavier, Malon und die bereits gut hörbaren Stimmen wurden nicht abgesenkt. Die Registerkorrekturen aus V82 bleiben erhalten. Das Stück blendet von5:00 bis5:15 langsam vollständig aus und beginnt im Titelbildschirm neu. Titelkameras und Demo-Szenen bleiben bestehen; Musik läuft über deren Wechsel hinweg weiter. Beim Wechsel ins Dateimenü wird sie normal beendet.
+
+Beim tatsächlichen vollständigen Schloss-Einsturz beginnt dieselbe Fassung bei0:25.25 mit1.25s Einblendung. Sie läuft über den internen Szenenwechsel bis zum Ende der nachfolgenden Szene weiter. Erst wenn Link wieder steuerbar wird, wird sie ohne Ausblende gestoppt. Die bisherige Wallace-Fluchtmusik beim Folgen von Zelda im einstürzenden Turm bleibt erhalten.
+
+Die Orchesterfassung wird aus der nativen OoT-Aufnahme als zwei Stereo-ADPCM-Stimmen aus der ROM gestreamt. Es werden keine21MB in den RAM geladen. Ursprünglicher Audioheap0x38000 und die jeweiligen originalen Stimmenbudgets bleiben bestehen. Das erweiterte Aufnahme-Orchester mit36Stimmen wird nicht global ins Spiel übernommen. Die erzeugte ROM ist64MiB groß; getestet weiterhin mit4MiB Arbeitsspeicher. Die zusätzliche ADPCM-Codierung hat im gemessenen linken Kanal39.67dB Signal-Rausch-Abstand.
+
+TRIANGLE GUY
+Während der bisherigen Einsturz-Aufnahmen unsichtbar einschließlich Schatten. Nach Zeldas Dialog und dem bisherigen Schluss der Kamerafahrt folgt ein eigener Kamera-Schnitt. Triangle Guy steht sichtbar auf dem Boden innerhalb der späteren Feuerarena, in der Nähe von Link und Zelda. Text: »Hey, gute Arbeit, Leute! Ich hätte es nicht besser hinbekommen. Darf ich vorstellen: Ich bin das Triforce des Mutes!« Erst danach werden Kamera und Steuerung freigegeben. Sein anschließendes freiwilliges Gespräch behält den bisherigen Ankunftsgag, Spielername und Merz-/Triforce-Text, ohne erneute Vorstellung. Seine Gesten und Schockpose bei der Verwandlung bleiben erhalten. Es gibt keinen neuen Actor, Object-Slot, Collider oder dauerhaften Spielstand-Flag. Falls der optionale Actor nicht vorhanden sein sollte, wird die native Szene trotzdem sauber freigegeben.
+
+PRÜFUNG
+Native Engine mit4MiB: Titelmusik über mehrere ursprüngliche Demo-Szenen, echte Sample-Schleife bei315.002s, Stereoausrichtung, Wechsel ins Dateimenü. Vollständiger tatsächlicher Schloss-Einsturz bis Kamera-Schnitt, neuer Dialog, abrupter Musikstopp bei Steuerungsfreigabe, freiwilliger Folgedialog und originale Verwandlung bis zum kampfbereiten Ganon. Normal und DEBUG werden separat geprüft; Details in den Logs. Objekt-/Actor-Budgetwächter ohne Ablehnung. Das ist kein behaupteter vollständiger Spieldurchlauf.
+
+QUELLEN-UPDATE
+Das Quellen-Archiv wird auf die zuvor veröffentlichten V79-Quellen angewendet. Enthalten sind die geänderten Produktionsdateien und die vier fertig codierten nativen Musik-Assets. Nach dem Entpacken ausführen:
+python3 apply_sources_v84.py /PFAD/ZUR/oot-burns-pal
+Danach mit der bisherigen Toolchain regulär PAL1.0 bauen. Zum Wechsel Normal/DEBUG den bisherigen tools/build_debug_version.py verwenden. Die AIFC-Dateien liegen als Quell-Assets vor und werden durch die ergänzte Makefile-Regel auch nach make clean wieder kopiert. Die Musikquelle sowie Misch-/Aufnahmeskripte liegen zur Dokumentation ebenfalls bei; die vom Nutzer bereitgestellte Complete-MIDI und Basis-ROM sind nicht enthalten.

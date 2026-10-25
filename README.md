@@ -1,3 +1,19 @@
+## V84 — Titelmusik und neuer Triangle-Guy-Auftritt
+
+Komm, süßer Tod mit präsenteren Begleitstimmen und langsamer Ausblende bis5:15. Im Titelbildschirm als Stereo-Stream mit nativem315-Sekunden-Loop. Beim vollständigen Schloss-Einsturz Einstieg bei0:25 und harter Stopp mit Rückgabe der Steuerung. Triangle Guy erscheint in einem neuen Kamera-Schnitt, stellt sich dort einmal vor und bleibt anschließend ansprechbar. Ursprünglicher Audioheap und4MiB-RAM-Betrieb bleiben erhalten.
+
+- [Normaler kumulativer BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Titel_Triangle_V84.bps)
+- [DEBUG-BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Titel_Triangle_V84.bps)
+- [MP4: vollständiger Einsturz und Triangle Guys Auftritt](Schlosseinsturz_Triangle_Guy_V84.mp4)
+- [MP4: Titelmusik und tatsächlicher Loop](Titelscreen_Musik_Loop_V84.mp4)
+- [Hörprobe mit Ausblende bis5:15](Komm_Suesser_Tod_Malon_5m15_V84.mp3)
+- [Hinweise](V84_Titel_Triangle_Hinweise.txt)
+- [Quellen-Update auf V79](Merzen_Titel_Triangle_V84_Quellen_Update.zip)
+
+BPS jeweils auf die saubere PAL1.0-Basis anwenden.
+
+---
+
 ## Komm, süßer Tod — korrigierte hohe Register V82
 
 Die Orgel-/Streicherstimme vor Malons Einsatz und die Violinenläufe um5:16 bleiben erhalten. Echte höhere Sample-Register verhindern, daß die native Wiedergabegrenze hohe Noten auf falsche Tonhöhen begrenzt. Alle Melodien und der Mix aus V81 bleiben erhalten. Fünf Instrumentbereiche wurden über das ganze Stück geprüft; die neu codierten Register zusätzlich auf Stimmung kontrolliert.
