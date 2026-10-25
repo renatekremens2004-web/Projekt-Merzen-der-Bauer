@@ -1,0 +1,1 @@
+V89: bisher lila Dateiauswahl, Dateiflächen, Namenseingabe, Optionen und PAL-Sprachauswahl orange eingefärbt (RGB255,145,35). Kumulativ einschließlich V88. Keine Änderungen an Spielständen, Spiellogik oder Logo. Auf saubere OoT PAL1.0-ROM anwenden. Normal/DEBUG enthalten denselben Spielinhalt. Menü nativ mit4MiB geprüft; BPS unabhängig angewendet und bytegenau verglichen.
