@@ -1,0 +1,1153 @@
+{
+  "source_sha256": "9f873afd0af1ac1601e5d0a6fce53325512f8431f69b13a86465bf4c312d413e",
+  "total_messages": 91,
+  "messages": [
+    {
+      "id": "5024",
+      "section": "0. Rückkehr nach dem letzten Tempel – bedingte Hinweise",
+      "pages": [
+        "Perfekt, die ganzen Weisen sind jetzt\nbereit. Damit können wir den\nGroßmeister des Bösen fertig machen.\nGehe zur Zitadelle der Zeit, da",
+        "wartet Sheik auf Dich."
+      ],
+      "controls": [],
+      "note": "Bedingter Abschluss-Hinweis nach den erforderlichen Tempeln; kann abhängig von der Reihenfolge anders liegen.",
+      "locations": []
+    },
+    {
+      "id": "015C",
+      "section": "0. Rückkehr nach dem letzten Tempel – bedingte Hinweise",
+      "pages": [
+        "Zelda ist in Ganons Schloß. Merz hat\ngenug Schaden angerichtet. Ich finde,\njetzt ist Schluß mit seinen großen\nPlänen."
+      ],
+      "controls": [],
+      "note": "Navis später Story-Hinweis auf Zelda im Schloss.",
+      "locations": []
+    },
+    {
+      "id": "705A",
+      "section": "1. Zitadelle der Zeit – Sheiks Begrüßung",
+      "pages": [
+        "Ich habe auf Dich gewartet,\n[Spielername]."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705B",
+      "section": "1. Zitadelle der Zeit – Sheiks Begrüßung",
+      "pages": [
+        "[Spielername], der Auserwählte...",
+        "Du hast unzählige Gefahren \nüberwunden und die sechs\nWeisen erweckt.",
+        "Nun wartet Deine größte Aufgabe:\nEin letztes Zusammentreffen mit\nGanondorf, dem Großmeister\ndes Bösen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707C",
+      "section": "1. Zitadelle der Zeit – Sheiks Begrüßung",
+      "pages": [
+        "Bevor Du aufbrichst, solltest\nDu meinen Worten lauschen...",
+        "So höre denn die Legende, \ndie sich die Shiekah über das \nTriforce erzählten..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705C",
+      "section": "2. Rückblick – die Legende des Triforce",
+      "pages": [
+        "Suchst Du das Triforce,\nso höre gut zu...",
+        "Es befindet sich im Heiligen Reich.\nDies ist ein Ort, der auf die\nWünsche Deines Herzens reagiert...",
+        "Ein schwarzes Herz macht es zum\nHort des Übels. Ein reines Herz\naber verwandelt es in ein Paradies!",
+        "Das Triforce... Symbol der Macht...\nbirgt das Gleichgewicht dreier\nKräfte: Weisheit, Mut und Kraft!",
+        "Sind diese Kräfte ausgeglichen\nim Herzen des Triforce-Trägers, hat\ner die Macht, gerecht zu herrschen.",
+        "Doch ist das Herz nicht im\nGleichgewicht, so spaltet sich das\nTriforce in seine drei Fragmente!",
+        "Nur ein Fragment bleibt ihm: Jenes\nnämlich, das zu der Kraft gehört, an\ndie er selbst am meisten glaubt.",
+        "Will er nun alle Macht\nerhalten, muß er die anderen\nFragmente des Triforce finden!",
+        "Noch zwei vom Schicksal Erwählte\ntragen je ein Triforce-Element als\nSymbol auf ihrem Handrücken!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "BOX_BREAK_DELAYED(70)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(80)",
+        "BOX_BREAK_DELAYED(80)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(80)",
+        "FADE(90)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705D",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Sieben Jahre zuvor drang\nGanondorf in das Heilige Reich\nein, dessen Zugang Du in der\nZitadelle der Zeit geöffnet hast.",
+        "Als seine Hände das Triforce\nberührten, wurde die Legende wahr!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707D",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Als das Triforce in drei Teile\nzerbrach, gelang es Ganondorf \nlediglich, das Triforce-Fragment\nder Kraft zu erringen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707E",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Durch die Macht des Triforce-Teils\nwurden seine teuflischen Kräfte \nverstärkt. Doch sein Drang, Böses \nzu tun, ist noch nicht befriedigt..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707F",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Daher sucht er nun die, die \nauserwählt wurden, Träger der \nanderen Triforce-Elemente zu \nsein..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705E",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Der Auserwählte mit dem Symbol \ndes Mutes bist...\nDu, [Spielername]!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705F",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Das Symbol der Weisheit...",
+        "...trägt der siebte Weise,\ndessen Bestimmung es ist, zum\nMeister aller zu werden..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7060",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Ich bin es - Zelda,\nPrinzessin von Hyrule."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7061",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Verzeih, daß ich Dich stets in\ndieser Verkleidung aufgesucht habe.\nDoch es war nötig, da ich mich\nvor Ganondorf verstecken mußte."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7080",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Heute vor genau sieben Jahren\nsuchte Ganondorf mit seiner Horde \nwilder Kriegerinnen Hyrule heim..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7062",
+      "section": "4. Rückblick – Zelda und Mr. Beans Flucht",
+      "pages": [
+        "Ich sah Dich, als Mr. Bean mich aus\ndem Schloß rettete. So besonnen und\nmutig ist nur er."
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707B",
+      "section": "4. Rückblick – Zelda und Mr. Beans Flucht",
+      "pages": [
+        "Ich fühlte, daß Du derjenige bist,\nder die Okarina haben soll...\nIch wußte, daß es unsere beste\nund einzige Chance war..."
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7063",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Solange Du die Okarina in Deinen\nHänden hältst, so dachte ich, wäre\nes Ganondorf nicht möglich, das\nHeilige Reich zu betreten. Aber...",
+        "...etwas, das ich nie erwartet\nhätte, ist geschehen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7081",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Als Du das Tor zur Zeit betreten \nhast, bannte Dich das Schwert \nsieben Jahre im Heiligen Reich..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7082",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Dein Geist ruhte im Vakuum der\nZeit... Das Triforce fiel in Ganondorfs\nblutige Hände, die Unheil über \ndas Heilige Reich brachten...",
+        "Ganondorf verlor mehr und mehr\nsein menschliches Antlitz. Er\nwurde zum Großmeister des Bösen,\ndem Boten des Todes...",
+        "In all den Jahren gelang es mir, \nmich als Shiekah zu tarnen und \nso meinem Schicksal zu entgehen...\nIch wartete sieben Jahre..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7083",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Doch nun endlich bist Du \nzurückgekehrt! Die Herrschaft des \nTerrors soll jetzt ihr Ende finden!\nDie Tage des Bösen sind gezählt!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7084",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Die sechs Weisen werden neue \nSiegel schaffen und Ganondorf \nfür immer in die Tiefen der Hölle\nverbannen...",
+        "Ist dies vollbracht, werde ich das \nTor zum Heiligen Reich auf ewig \nschließen!",
+        "Auf diese Weise wird Ganondorf \nund mit ihm alles Böse für alle \nZeit aus Hyrule verschwinden.",
+        "[Spielername]...\nUm dieses Vorhaben mit Erfolg zu \nkrönen, mußt Du mich schützen, \nbis der Plan vollbracht ist.",
+        "Nimm nun die Waffe an Dich, die\ndie Kraft des Bösen mitten ins\nschwarze Herz trifft...",
+        "Die heiligen Pfeile des Lichts!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "0072",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Die Licht-Pfeile!\nPlaziere sie auf [C], um sie \nzu verschießen - das Licht\ndes Guten zerstört Böses!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_ARROW_LIGHT)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7064",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Dieses Beben...\nWas geschieht hier?\nDas darf nicht sein!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7065",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Prinzessin Zelda... Endlich\nhabe ich Dich!",
+        "Ich bin beeindruckt, daß es Dir\ngelungen ist, mir sieben Jahre lang\nzu entkommen!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7085",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Endlich gibst Du Dich zu erkennen...\nIch wußte, daß ich nur dem Jungen\nzu folgen brauchte, um Dich zu\nfinden..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7086",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Mein einziger Fehler war, die\nKräfte des Jungen zu \nunterschätzen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7087",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Nein... Es war nicht seine\nKraft, die ich unterschätzte.\nEs waren die Kräfte des Triforce-\nSymbols für Mut!",
+        "Doch mit dem Element, das er \nbesitzt, und dem Triforce der \nWeisheit, das in Deinen Händen \nruht, schließt sich der Kreis...",
+        "Mit allen drei Elementen werde \nich zum Herrscher dieser Welt!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7066",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Nie wirst Du Zelda retten!\nWagst Du es, mein Schloß zu\nbetreten, vernichte ich auch Dich!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7067",
+      "section": "6. Vor Friedrichs Schloss – die Brücke der Weisen",
+      "pages": [
+        "[Spielername]... Hörst Du mich?\nHier spricht Robert Habeck. Aus der\nHalle. Weiterhin keine Eule.",
+        "Die sechs Weisen bündeln ihre Kraft\nzu einer Brücke vor Merz' Schloß.\nEine gemeinsame Kraftanstrengung.",
+        "Der Teufelsturm wird von sechs\nSiegeln des Bösen blockiert. Die\nmüssen einzeln gebrochen werden.",
+        "Brich die Siegel, dringe in den Turm\nein und rette Prinzessin Zelda. Dafür\nreicht unsere gemeinsame Energie."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "71DB",
+      "section": "7. Zusätzliche Figuren im Schloss – Mr. Monopoly und Franky",
+      "pages": [
+        "Mr. Monopoly. Erfreut! Du willst\nFriedrich Merz aufhalten? Nur zu, ich\nhabe keine persönliche Bindung an\ndiesen Mann.",
+        "Aber verurteile nicht gleich das\nganze System. Aussicht auf Gewinn\nbringt Menschen dazu, Risiken",
+        "einzugehen, zu investieren und Dinge\naufzubauen.",
+        "Wettbewerb, Eigentum,\nUnternehmergeist! Ohne den Wunsch,\nmehr zu besitzen, stünde hier",
+        "vielleicht noch immer bloß ein zugiger\nSteinklotz.",
+        "Gut, das ist hier noch immer ein\nzugiger Steinklotz. Aber er hat einen\nEigentümer und einen beträchtlichen\nMarktwert.",
+        "Du kannst Friedrich Merz besiegen.\nDoch die menschliche Gier, die\nMenschen wie ihn vorantreibt, wirst",
+        "Du niemals mit einem Schwert aus\nder Welt schaffen.",
+        "Solange einer mehr haben möchte als\nder nächste, wird jemand daraus ein\nGeschäft machen. Der Herrscher\nwechselt, die Miete bleibt.",
+        "Und falls Du das hier gewinnst: Auf\nso ein Schloß passen erstaunlich viele\nHotels. Denk darüber nach."
+      ],
+      "controls": [],
+      "note": "Mr. Monopoly: freiwilliges Gespräch im Schloss.",
+      "locations": []
+    },
+    {
+      "id": "71E7",
+      "section": "7. Zusätzliche Figuren im Schloss – Mr. Monopoly und Franky",
+      "pages": [
+        "Howdy, Fremder, schön, Dich\nwiederzusehen! Franky die Heugabel\nist hier, um diesem Friedrich Merz\nhöchstpersönlich in den Hintern zu",
+        "pieksen!",
+        "Er hat sich mit der falschen Heugabel\nangelegt, no sir! Heute wird hier mal\nordentlich ausgemistet!"
+      ],
+      "controls": [],
+      "note": "Franky die Heugabel im Schloss, noch unbeschädigt.",
+      "locations": []
+    },
+    {
+      "id": "71E0",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "Ich hasse Deutsche. Vor allem, wenn\nsie langweilig sind und Anzug tragen.",
+        "Diesem Friedrich Merz werden wir\nordentlich einheizen. Sein ach so\npompöses Schloß kommt runter!",
+        "Wir lösen das auf die klassische Art:\nmit ein paar praktisch plazierten\nStangen Dynamit.",
+        "Und jetzt wegtreten, Soldat. Du\nstehst mitten in unserer Operation!"
+      ],
+      "controls": [],
+      "note": "Skipper.",
+      "locations": []
+    },
+    {
+      "id": "71E1",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "Seid gegrüßt! Nach meinen\nBerechnungen ergeben zwölf Wumms\nhoch drei, geteilt durch die tragende\nTapete...",
+        "...exakt 9000 Kartenhaus-Einheiten.\nRechnen wir noch Ricos Begeisterung\ndazu, bleibt hier kein Stein auf dem\nanderen!",
+        "Ein Hoch auf die Wissenschaft!"
+      ],
+      "controls": [],
+      "note": "Kowalski.",
+      "locations": []
+    },
+    {
+      "id": "71E2",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "Oh Junge, Skipper hat uns angeleitet,\nSprengsätze in dieser Burg zu\nverteilen.",
+        "Ihr solltet euch lieber schnell aus\ndem Staub machen. Nicht, daß euch\nnoch etwas zustößt!",
+        "Ich halte das hier nur ganz vorsichtig\nfest. Die Zündschnur fasse ich lieber\ngar nicht erst an."
+      ],
+      "controls": [],
+      "note": "Private.",
+      "locations": []
+    },
+    {
+      "id": "71E3",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "DYNAMIT! DYNAMIT! KABLAAAM!!!",
+        "KA-BOOOM! HEHEHE! BOOOM!"
+      ],
+      "controls": [],
+      "note": "Rico.",
+      "locations": []
+    },
+    {
+      "id": "721E",
+      "section": "9. Original Starwalker im Schloss",
+      "pages": [
+        "Friedrich Merz is pissing me off.\nI'm the original Starwalker"
+      ],
+      "controls": [],
+      "note": "Optionaler Original-Starwalker-Auftritt. Pause vor seinem Namen bleibt als Steuerung dokumentiert.",
+      "locations": []
+    },
+    {
+      "id": "005C",
+      "section": "10. Titanhandschuhe – Fundtext und Navis Rückverweis",
+      "pages": [
+        "Die Titanhandschuhe! Du\nfühlst noch größere Kraft in\nden Armen! Du packst\nschwerste Dinge mit [A]!",
+        "Navi: Yo, ich faß es nicht! Was hab\nich gesagt? Ich hab noch gesagt,\nhoffentlich gibt es ein drittes Paar,\ndas noch stärker ist!",
+        "Und jetzt liegt das hier einfach! Ey,\nich hab es vorhergesagt. Merk Dir\nden Moment bitte, ich war meiner\nZeit voraus!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_STRENGTH_GOLD_GAUNTLETS)"
+      ],
+      "note": "Fundtext mit Navis Stolz auf das vorhergesagte dritte Paar Handschuhe.",
+      "locations": []
+    },
+    {
+      "id": "70E0",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Wald-Siegel ist gebrochen!\nBeeil Dich, [Spielername]!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E1",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Feuer-Siegel ist gebrochen!\nBeeil Dich, Bruder!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E2",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Wasser-Siegel ist gebrochen!\nMach hinne! Ich habe auch noch\nandere Interessen."
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E3",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Time to crush Merz's balls!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E4",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Geister-Siegel ist gebrochen!\nWua, wua, wua, WAAAH! Waluigi\nglaubt an Dich!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E5",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Licht-Siegel ist gebrochen!\nSchnell jetzt!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70C8",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Die Fragmente des Triforce...\nIch spüre... Ihre Macht scheint\nsich wieder zu vereinigen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70C9",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Die fehlenden zwei Fragmente!\nIch warte seit\nsieben Jahren darauf!",
+        "Ich bin wirklich überrascht! Ich\nhätte nicht erwartet, daß gerade\nihr zwei sie tragen würdet!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CA",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Endlich! Endlich! Die drei\nFragmente sind wieder\nvereint!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CB",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Diese Symbole der Macht sind\nnichts für euch zwei! Ihr seid\ndafür nicht geschaffen!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CC",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Ich allein bin der rechtmäßige\nTräger des Triforce! Übergebt mir\ndie Fragmente!\nIch befehle es!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CD",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "[Spielername]!\nIch kann Dir nicht helfen!\nDie Aura des Bösen ist\nzu mächtig!",
+        "Tut mir leid, [Spielername]!"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_NA_HELLO_2)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CE",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "Ich, der Großmeister des Bösen... \nGeschlagen von einem Kind?!\nDas... darf... nicht... sein..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CF",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "[Spielername]...!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D0",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "Ganondorf... bemitleidenswerte\nKreatur...",
+        "Da ihm der Sinn für\nGerechtigkeit fehlte, konnte er die\nMacht der Götter nicht nutzen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D1",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "[Spielername], hör zu!\nDer Turm stürzt in sich zusammen!",
+        "Das ist Ganondorfs letzte, böse\nTat! Die Trümmer sollen uns\nzerschmettern! Schnell! Wir\nmüssen fliehen!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D2",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "Schnell! Folge mir!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7059",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "Nimm das Master-Schwert!\nVernichte Ganon mit Deiner\nheiligen Waffe!"
+      ],
+      "controls": [],
+      "note": "Zeldas wiederholbarer Hilferuf während der Flucht; kein zusätzliches Gespräch vor ihrer Enthüllung.",
+      "locations": []
+    },
+    {
+      "id": "71AC",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "Hab Dank, [Spielername].\nSchnell! Laß uns fliehen!"
+      ],
+      "controls": [],
+      "note": "Zeldas Dank nach ihrer Befreiung während der Flucht.",
+      "locations": []
+    },
+    {
+      "id": "70D3",
+      "section": "16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung",
+      "pages": [
+        "Es ist vorüber... Alles..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D4",
+      "section": "16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung",
+      "pages": [
+        "[Spielername]... \nTut mir leid, daß ich Dir im Kampf\nnicht helfen konnte."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "723C",
+      "section": "16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung",
+      "pages": [
+        "Hey, gute Arbeit, Leute! Ich hätte es\nnicht besser hinbekommen. Darf ich\nvorstellen: Ich bin das Triforce des\nMutes!"
+      ],
+      "controls": [],
+      "note": "Neu eingefügter Schnitt zu Triangle Guy nach dem Einsturz, bevor Link wieder frei steuerbar ist.",
+      "locations": []
+    },
+    {
+      "id": "608A",
+      "section": "17. In der Arena – Triangle Guy und der kaputte Franky",
+      "pages": [
+        "Hey Leute, sorry, daß es so lange\ngedauert hat, ich kam so schnell ich\nkonnte, aber hier bin ich!",
+        "Ich bin da für dich,\n[Spielername]!",
+        "Laß uns Friedrich Merz verbannen,\nder auch irgendwie an ein Stück des\nTriforces gekommen ist!",
+        "Hat er sich wohl gekauft!\nAber ich bin nicht käuflich!"
+      ],
+      "controls": [],
+      "note": "Späteres freiwilliges Ansprechen von Triangle Guy; seine Vorstellung steht bereits in 723C.",
+      "locations": []
+    },
+    {
+      "id": "71E8",
+      "section": "17. In der Arena – Triangle Guy und der kaputte Franky",
+      "pages": [
+        "Fremder... Ich bin's, Franky die\nHeugabel. Ich wollte Hyrule retten...\ndoch mein Plan ist wohl ein Schuß in\nden Ofen gewesen.",
+        "Sieh mich an. Ich bin ganz kaputt.\nLaß mich hier liegen, meine Zeit ist\ngekommen. Ich danke Dir."
+      ],
+      "controls": [],
+      "note": "Kaputter Franky am Rand der finalen Arena.",
+      "locations": []
+    },
+    {
+      "id": "70D5",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Was ist das für ein Geräusch?"
+      ],
+      "controls": [],
+      "note": "Zelda auf das Geräusch vor dem letzten Kampf ansprechen.",
+      "locations": []
+    },
+    {
+      "id": "70D6",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Diesmal hat er keine Macht mehr\nüber mich!\nWir kämpfen gemeinsam!"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_NA_HELLO_2)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D7",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "[Spielername]!\nDas Master-Schwert!\nEs ist hier! \nSchnell!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D8",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Ich versuche, Ganon mit meiner\nKraft zu bannen!\nNimm Du das Schwert und\nversetze ihm den Todesstoß!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D9",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Oh, ihr Sechs Weisen...\nEs ist soweit!\nSendet Eure Kraft!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "706C",
+      "section": "19. Die Weisen öffnen das Siegel",
+      "pages": [
+        "Ihr Erschaffer Hyrules!",
+        "Öffnet das versiegelte Portal und\nschickt diese Kreatur des Bösen\nin den Abgrund der Hölle!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "FADE(90)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DA",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "DUUUU... widerlicher..."
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DB",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "ICH VERFLUCHE DICH... ZELDA!\nICH VERFLUCHE EUCH... IHR WEISEN!"
+      ],
+      "controls": [
+        "FADE(50)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DC",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "ICH...\nVERFLUCHE...\nDICH... [Spielername]!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DD",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "Arrgh! Eines Tages werde ich\ndieses Siegel brechen...",
+        "Dann werde ich eure\nNachfahren auslöschen!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(80)",
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DE",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "Solange das Fragment der Kraft\nin meiner Hand ist..."
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "706F",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Danke, [Spielername]...",
+        "Dank Deiner Hilfe ist es gelungen,\nden Großmeister des Bösen in das\nReich der Hölle zu verbannen!",
+        "Nun wird wieder Frieden herrschen\nin unserer Welt... Hoffentlich für \nalle Zeit."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7091",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Ich bin schuld an all dem Unheil, \ndas über Hyrule kam...",
+        "Ich war zu jung... Ich konnte noch\nnicht wissen, welche Fährnisse\nsich mir auftun würden...",
+        "Ich habe Dich in all das \nhineingezogen...",
+        "Nun ist es an der Zeit, meinen\nFehler wiedergutzumachen...",
+        "Leg nun das Master-Schwert aus \nDeinen Händen und schließe so\ndas Zeitportal..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7092",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Die Verbindung zwischen den\nZeiten sei für immer gelöst..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7093",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "[Spielername],\ngib mir die Okarina...",
+        "Als eine der Weisen habe ich die \nGabe, Dich in Deine Zeit \nzurückbringen zu können."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7094",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Nun herrscht wieder Friede\nin Hyrule...",
+        "Und nun ist es für uns an der\nZeit, Abschied zu nehmen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7095",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Gehe nun, [Spielername].\nHole die verlorenen sieben Jahre\nnach!",
+        "Gehe nach Hause... \nDorthin, wo Dein Platz ist...\nAls der, als der Du aufwuchst..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7070",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Danke!\n[Spielername]...",
+        "Lebe wohl..."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "FADE(60)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "063D",
+      "section": "Anhang A. Navi-Zielerfassung bei beiden Endgegnern",
+      "pages": [
+        "Friedrich Merz. Guck Dir die paar\nHaare an. Dafür morgens noch zum\nKamm greifen. Wie peinlich ist das\ndenn?"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "063E",
+      "section": "Anhang A. Navi-Zielerfassung bei beiden Endgegnern",
+      "pages": [
+        "Ganon. Hat verloren und verwandelt\nsich jetzt in ein Riesenschwein. Was\nbist Du für ein schlechter Verlierer?"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00D9",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Hallo mein süßer [Spielername]!\nIch bin die Fee des Mutes!",
+        "Ich verstärke Deine Abwehrkraft\ngegenüber feindlichen Attacken!",
+        "Sei bereit!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00E5",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Deine Abwehrkraft wurde verstärkt!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00E9",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Deine Abwehrkraft wurde\nverstärkt! Gegnerische Angriffe\nfügen Dir ab jetzt nur noch\nhalb soviel Schaden zu!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00EF",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Bist Du vom Kampf erschöpft,\nbesuche mich einfach wieder."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00DB",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "[Spielername], Du siehst ja schon\nwieder komplett dreckig aus. Keine\nSorge, ich kann meine Magie\nbenutzen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00DA",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Paß auf, Du hast nur ein Leben.\nSchmeiß das bitte nicht weg."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "706D",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "[Spielername]!\nZerstöre ihn mit Deiner heiligen\nWaffe - mit dem Master-Schwert!"
+      ],
+      "controls": [],
+      "note": "Gespeicherter Originaltext. Kein aktiver Textaufruf in den geprüften Schluss-Cutscenes und Endboss-Actors gefunden.",
+      "locations": []
+    },
+    {
+      "id": "706E",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "Oh, heiliges Portal, entriegelt von\nden Weisen... Schließe Dich für\nimmer und schütze unsere Welt vor\ndieser üblen Kreatur des Bösen!"
+      ],
+      "controls": [],
+      "note": "Gespeicherter Originaltext. Kein aktiver Textaufruf in den geprüften Schluss-Cutscenes und Endboss-Actors gefunden.",
+      "locations": []
+    },
+    {
+      "id": "70DF",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "Du... wer bist Du?"
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "Gespeicherte Begrüßungsvariante. Kein aktiver Textaufruf für die letzte Hofszene gefunden.",
+      "locations": []
+    }
+  ],
+  "coverage": {
+    "extracted/pal-1.0/assets/scenes/indoors/tokinoma/gTempleOfTimeSheikRevealsStartCs.csdata.inc.c": [
+      "705A",
+      "705B",
+      "707C"
+    ],
+    "extracted/pal-1.0/assets/scenes/misc/hiral_demo/gCutsceneMapTriforceSheikahLegendCs.csdata.inc.c": [
+      "705C"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/tokinoma/gTempleOfTimeSheikRevealsCs.csdata.inc.c": [
+      "705D",
+      "707D",
+      "707E",
+      "707F",
+      "705E",
+      "705F",
+      "7060",
+      "7061",
+      "7080"
+    ],
+    "extracted/pal-1.0/assets/scenes/overworld/spot00/gHyruleFieldZeldaFlashbackCs.csdata.inc.c": [
+      "7062",
+      "707B"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/tokinoma/gTempleOfTimeLightArrowsAndZeldaCapturedCs.csdata.inc.c": [
+      "7063",
+      "7081",
+      "7082",
+      "7083",
+      "7084",
+      "0072",
+      "7064",
+      "7065",
+      "7085",
+      "7086",
+      "7087",
+      "7066"
+    ],
+    "extracted/pal-1.0/assets/scenes/overworld/ganon_tou/gRainbowBridgeCs.csdata.inc.c": [
+      "7067"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gForestTrialSageCs.csdata.inc.c": [
+      "70E0"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gFireTrialSageCs.csdata.inc.c": [
+      "70E1"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gWaterTrialSageCs.csdata.inc.c": [
+      "70E2"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gShadowTrialSageCs.csdata.inc.c": [
+      "70E3"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gSpiritTrialSageCs.csdata.inc.c": [
+      "70E4"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gLightTrialSageCs.csdata.inc.c": [
+      "70E5"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/kenjyanoma/gChamberOfSagesSealOpeningCs.csdata.inc.c": [
+      "706C"
+    ],
+    "extracted/pal-1.0/assets/scenes/misc/hiral_demo/gCutsceneMapGanondorfDefeatedCs.csdata.inc.c": [
+      "70DA",
+      "70DB",
+      "70DC",
+      "70DD",
+      "70DE"
+    ],
+    "extracted/pal-1.0/assets/scenes/overworld/spot00/gHyruleFieldBeforeCreditsCs.csdata.inc.c": [
+      "706F",
+      "7091",
+      "7092",
+      "7093",
+      "7094",
+      "7095",
+      "7070"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/daiyousei_izumi/gGreatFairyDoubleDefenseCs.csdata.inc.c": [
+      "00D9",
+      "00E5",
+      "00E9",
+      "00EF"
+    ],
+    "src/overlays/actors/ovl_Boss_Ganon/z_boss_ganon.c": [
+      "70C8",
+      "70C9",
+      "70CA",
+      "70CB",
+      "70CC",
+      "70CD",
+      "70CE",
+      "70CF",
+      "70D0",
+      "70D1",
+      "70D2"
+    ],
+    "src/overlays/actors/ovl_Boss_Ganon2/z_boss_ganon2.c": [
+      "70D3",
+      "70D4",
+      "723C",
+      "70D6",
+      "70D7",
+      "70D8",
+      "70D9"
+    ]
+  }
+}
