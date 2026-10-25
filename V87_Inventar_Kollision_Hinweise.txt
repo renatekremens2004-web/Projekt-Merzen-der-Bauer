@@ -10,4 +10,6 @@ Dodongos Höhle und Brunnen behalten zusätzlichen Actor-Speicher für die Raumw
 
 Prüfungen: normale und DEBUG-Ausgabe mit 4 MiB. Je drei Inventar-Durchgänge mit tatsächlichem Ausrüsten auf C-rechts, danach überprüfte Bodenhöhe; Kind/Erwachsener in Dodongos Höhle und Brunnen sowie erwachsenes Hyrule-Feld, einschließlich französischer Menütexte. Dazu Raumwechsel mit Pieps, beiden Echsen, Statuen/blauem Schalter und wiederholte Brunnenbesuche mit Velma, Organen und Silberrubinen. Beide BPS wurden unabhängig mit RomPatcher.js angewendet und mit der gebauten ROM verglichen. Das ist kein vollständiger Durchlauf des gesamten Spiels.
 
+Silberrubin-Rätsel zusätzlich ohne ReDeads geprüft: fünf Rubine lösen weiterhin den ursprünglichen Schalter aus und öffnen das Gitter. Dead Hand, Sargraum-Gibdo und Fackeln bleiben erhalten. Die überflüssige Wallmaster-Navi-Warnung 0191 und ihre gewöhnlichen Auslöser wurden entfernt; andere Figuren mit ähnlichen Parametern bleiben erhalten.
+
 Die Musik und alle übrigen V86-Inhalte bleiben erhalten. Quellenpaket: python3 apply_sources_v87.py /PFAD/ZUR/oot-burns-pal, danach PAL 1.0 mit der vorhandenen Toolchain bauen.
