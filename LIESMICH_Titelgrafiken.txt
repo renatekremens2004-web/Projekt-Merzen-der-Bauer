@@ -1,0 +1,17 @@
+Titelgrafiken aus Ocarina of Time PAL 1.0
+
+Die PNG-Dateien in PNG_Originale sind die unveränderten, aus den N64-Texturen konvertierten Arbeitsdateien. Alle16 wurden bytegenau gegen ihre aktuell kompilierten N64-Texturdaten geprüft. Im ROM selbst sind keine PNG-Dateien gespeichert. Dort liegen die Pixel in N64-Formaten im Asset-Objekt object_mag; Objekt-/ROM-Kompression ist davon getrennt.
+
+Die vier Hauptbestandteile:
+- gTitleZeldaShieldLogoTex.rgba32.png:160x160, RGBA32,102400Bytes. ZELDA-Schriftzug, Schild, Schwert und Transparenz.
+- gTitleTheLegendOfTextTex.i8.png:72x8, I8,576Bytes. Graustufenmaske; Farbe/Schatten werden beim Zeichnen gesetzt.
+- gTitleOcarinaOfTimeTMTextTex.i8.png:96x8, I8,768Bytes. Ebenfalls separate Graustufenmaske.
+- gTitleCopyright1998Tex.ia8.png:128x16, IA8,2048Bytes. ©1998 Nintendo ist eine Textur mit Helligkeit und Transparenz, kein normal gesetzter Schrifttext. IA8 bedeutet4Bit Helligkeit plus4Bit Alpha pro Pixel.
+
+RGBA32 enthält8Bit je Rot, Grün, Blau und Alpha. I8 enthält8Bit Helligkeit je Pixel; im Spiel steuert diese auch die Transparenz. I4 ist eine16stufige Helligkeitsmaske.
+
+Das animierte Leuchten besteht aus neun64x64-I4-Masken und einer scrollenden32x32-I8-Effekttextur. Die Farben und Transparenzen werden im Titel-Actor En_Mag gesteuert. Die große RGBA-Grafik wird für den4KiB-Texturspeicher der N64-GPU in Streifen geladen. PRESS START wird separat aus Schriftzeichen gezeichnet.
+
+Titelgrafiken_Uebersicht.png zeigt die einzelnen Bestandteile vergrößert. Titel_Statische_Layer_Vorschau.png setzt die Original-Layer an ihren im Code angegebenen Positionen zusammen; Schriftfarben sind eine statische Annäherung, das animierte Leuchten fehlt. Kein Emulator-Screenshot.
+
+Die PNG-Dateien dürfen als Bearbeitungsvorlage dienen; fürs Spiel werden sie wieder in das jeweilige N64-Format umgewandelt. Dieser Export verändert das Spiel nicht.
