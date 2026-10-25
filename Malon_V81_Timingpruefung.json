@@ -1,0 +1,25 @@
+{
+  "v80": {
+    "notes": 23187,
+    "late_attacks": 714,
+    "max_drift_ticks": 190,
+    "max_drift_beats": 3.9583333333333335,
+    "first": {
+      "section": "Violas and cellos, full score + early harmonic pads",
+      "voice": 0,
+      "source_beat": 274.0,
+      "drift_beats": 3.9583333333333335
+    }
+  },
+  "v81": {
+    "notes": 22014,
+    "late_attacks": 0,
+    "max_drift_ticks": 0,
+    "max_drift_beats": 0.0,
+    "first": null
+  },
+  "emitted_sequence_notes_checked": 22014,
+  "emitted_sequence_errors": [],
+  "max_gate_rounding_ticks": 1,
+  "non_source_harmonies": []
+}

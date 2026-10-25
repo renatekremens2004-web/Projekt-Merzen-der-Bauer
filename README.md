@@ -1,3 +1,16 @@
+## Komm, süßer Tod — korrigierte Hörprobe V81
+
+Diese Fassung ersetzt die fehlerhafte Orchestrierung von V80: verspätete Cello-Stimmen sind synchronisiert, versehentlich als Pauken abgespielte Beckenschläge korrigiert und Malon ist im Mix wieder vorne. Zusätzliche Instrumente spielen ausschließlich die geschriebenen MIDI-Stimmen. Alle22.014 Sequenznoten wurden unabhängig auf Anfang und Tonhöhe geprüft.
+
+- [Vollständige korrigierte Hörprobe V81](Komm_Suesser_Tod_Malon_Orchester_V81.mp3)
+- [Reparierter Orchesterabschnitt,80Sekunden](Komm_Suesser_Tod_Korrigierter_Abschnitt_V81.mp3)
+- [Fehleranalyse](Malon_V81_Fehleranalyse.txt)
+- [Quellen und Prüfprotokolle](Komm_Suesser_Tod_Malon_V81_Quellen.zip)
+
+Separate Hörprobe; der bisherige Spielpatch bleibt unverändert.
+
+---
+
 ## Komm, süßer Tod — vollständiges Malon-Orchester V80
 
 Das vollständige Stück mit später Orchesterentwicklung und Schlussritardando, kräftigen Streichern, Blech- und Holzbläsern, mehreren Chorstimmen, Orgel, Harfe, Klavier und Schlagwerk. Native OoT-Aufnahme mit originalem Malon-Sample. Eine separate Hörprobe mit erweitertem Aufnahme-Stimmenbudget; die normalen Spielpatches behalten ihre bisherigen Audio-Speichereinstellungen.

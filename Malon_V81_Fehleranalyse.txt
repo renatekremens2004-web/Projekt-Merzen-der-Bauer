@@ -1,0 +1,21 @@
+Komm, süßer Tod — korrigiertes Malon-Orchester V81 (separate Hörprobe)
+
+FEHLERURSACHEN V80
+1. Die frühe ergänzte Begleitung und die später beginnenden originalen Cello-Stimmen wurden ohne Abschneiden ihrer überlappenden Grenze aneinandergehängt. Die native monophone Stimme kann keine gleichzeitig beginnende zweite Note spielen und verschob dadurch 714 Attacken um bis zu190 Sequenz-Ticks (3,958 Schläge; etwa3,125s). Der erste Fehler war bei Beat274, ca3:36. Diese Töne trafen auf die nächsten Akkorde. Der Sequenzschreiber brach bei überlappenden Stimmen bisher nicht ab.
+2. Die General-MIDI-Beckenzuordnung verwendete den nativen Schlagwerk-Index34. Dieser ist in OoT-Font3 kein Becken, sondern eine gestimmte Pauke (Sample371). 544 vermeintliche Beckenschläge erzeugten so einen zusätzlichen tiefen Ton. Becken verwenden jetzt das metallische Rauschsample370.
+3. Pauschal über zwei Schläge gesammelte Klaviertöne wurden zu zusätzlichen gehaltenen Akkorden zusammengefasst. Das konnte Durchgangstöne und aufeinanderfolgende Harmonien vermischen. Diese Berechnung wurde entfernt: zusätzliche Instrumente verdoppeln nun ausschließlich tatsächlich geschriebene Stimmen innerhalb ihrer ursprünglichen Zeitgrenzen (oder genau eine Oktave versetzt).
+4. Chor, Streicher und Blech standen zu weit vor Malon. Die hohe Oktavdoppelung der Streicher verschärfte den Klang zusätzlich.
+
+KORREKTUREN UND PRÜFUNG
+Malons eigentliche Melodie bleibt deutlich vorne. Ihre zweite Stimme ist leiser; die zusätzliche Chor-Malon-Doppelung beginnt erst nach Ende der ursprünglichen Solomelodie. Chor, Streicher, Blech, Orgel und Harfe sind zurückgenommen. Die überhöhte zusätzliche Oktavlage ist durch die geschriebene Solovioline ersetzt. 16 Instrumentsektionen bleiben erhalten. Keine erfundenen Begleitakkorde.
+
+Der unabhängige Planprüfer interpretiert auch die komprimierten Sequenzunterprogramme: alle22014 Noten haben exakt den vorgesehenen Anfang und die vorgesehene Tonhöhe. Null verspätete Noten, null neue Harmonien außerhalb der geschriebenen Originalnoten. Gate-Rundung höchstens ein nativer Tick. arrange.py bricht bei überlappenden Stimmen oder einem verspäteten Schreibcursor jetzt ab.
+
+Die Hörprobe wurde vollständig mit der nativen OoT-Audioengine und dem originalen wortlosen Malon-Sample aufgenommen. Alle Instrumente stammen aus OoT. Malon singt keine Liedtexte. Nur Gesamtlautheitsnormalisierung und Schlussblende wurden danach auf die Aufnahme angewendet.
+
+PRIVATE AUFNAHME, KEIN NEUER SPIELPATCH
+Wie V80:36 native Stimmen, Audioheap0x58000, Sequenzcache0xE000,4MiB-RAM-Testszene. Diese erweiterte Aufnahmekonfiguration ist keinem Ort im normalen Spiel zugewiesen. Alle vorgefundenen Produktionsquellen UND kompilierten Audiokonfigurationen wurden danach wiederhergestellt. SpielpatchV79 bleibt gültig. Ein durchgelaufener Musiktest ersetzt keine Prüfung eines späteren Spieleinsatzes in allen Szenen.
+
+Dateien: recording.json enthält Aufnahmemesswerte; timing-audit.json den unabhängigen Vergleich V80/V81; arrangement.json Instrumentzuordnung; seq_98.seq und Soundfont_38.xml die tatsächlich aufgenommenen Daten. Die Original-MIDI wird nicht mitgeliefert.
+
+Reproduktion: Python mit mido; python3 arrange.py /PFAD/ZUR/Complete.mid /PFAD/ZUR/oot-burns-pal
