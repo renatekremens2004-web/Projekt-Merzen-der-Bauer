@@ -1,3 +1,9 @@
+# Neue Hörprobe: „Komm, süßer Tod“ mit Malons Stimme
+
+[MP3 anhören / herunterladen](Komm_Suesser_Tod_Malon_Hoerprobe_V72.mp3?raw=true) · [Details und Prüfungen](Malon_Hoerprobe_V72.md) · [Musikquellen](Komm_Suesser_Tod_Malon_V72_Quellen.zip?raw=true)
+
+2:35 Minuten aus der ausführlicheren MIDI, mit Malons wortlos gesungener Hauptmelodie, Klavier, Streichern und Chor. Direkt aus dem nativen OoT-Soundsystem mit 4 MiB RAM aufgenommen. Separate Hörprobe; noch keiner Spielszene zugeordnet. Die Patches behalten ihre bisherige Musik.
+
 # V72: Beta-Gorone mittig auf dem Teppich
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Beta_Credits_V72.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Beta_Credits_V72.bps?raw=true) · [Bild und Prüfungen](Beta_Credits_V72_Anleitung.md) · [Quellenergänzung](Beta_Credits_V72_Quellen_Update.zip?raw=true)
