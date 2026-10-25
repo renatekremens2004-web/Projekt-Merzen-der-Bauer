@@ -1,3 +1,9 @@
+# Neue Mischung V74: Klavier und Begleitung
+
+[MP3 anhören](Komm_Suesser_Tod_Malon_Hoerprobe_V74.mp3?raw=true) · [Änderungen und Quellen](Malon_Mischung_V74.md)
+
+Mehr Streicher, Chor, akustische Gitarre und Orgel; Malon wieder etwas deutlicher. Separate Hörprobe; Spielpatch weiterhin V72.
+
 # Neue Mischung V73: Klavier und Begleitung
 
 [MP3 anhören](Komm_Suesser_Tod_Malon_Hoerprobe_V73.mp3?raw=true) · [Änderungen und Quellen](Malon_Mischung_V73.md)
