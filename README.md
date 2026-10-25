@@ -1,3 +1,13 @@
+## Komm, süßer Tod — vollständiges Malon-Orchester V80
+
+Das vollständige Stück mit später Orchesterentwicklung und Schlussritardando, kräftigen Streichern, Blech- und Holzbläsern, mehreren Chorstimmen, Orgel, Harfe, Klavier und Schlagwerk. Native OoT-Aufnahme mit originalem Malon-Sample. Eine separate Hörprobe mit erweitertem Aufnahme-Stimmenbudget; die normalen Spielpatches behalten ihre bisherigen Audio-Speichereinstellungen.
+
+- [Orchester-Höhepunkt, 80 Sekunden](Komm_Suesser_Tod_Orchester_Hoehepunkt_V80.mp3)
+- [Vollständige Fassung, ca. 7:50](Komm_Suesser_Tod_Malon_Orchester_V80.mp3)
+- [Quellen der Hörprobe](Komm_Suesser_Tod_Orchester_V80_Quellen.zip)
+
+---
+
 ## Pieps V79 — neuer kumulativer Spielpatch
 
 Pieps in Dodongos Höhle mit Käfig, Hilferuf, Rettungsgespräch, gespeichertem Fortschritt und Einflug beim König-Dodongo-Kampf samt eigener Musik. Nach dem Sieg bleibt Pieps ansprechbar und erzählt von seinem Treffer ins Auge. Seine Musik hat jetzt eine klare Harfen-/Flötenmelodie und mehr Präsenz. Jimmy Neutron bleibt entfernt. Native Tests mit 4 MiB einschließlich Herz, Portal, Raumabschluss, Steuerung und vollständigem Nachgespräch sowie erneutem Betreten des besiegten Bossraums. Die Malon-Musik bleibt eine separate Hörprobe.

@@ -1,0 +1,449 @@
+{
+  "source": "Komm,_süsser_Tod_-_Evangelion_(Complete).mid",
+  "source_tracks": [
+    {
+      "track": 0,
+      "name": "Voice",
+      "notes": 378
+    },
+    {
+      "track": 1,
+      "name": "Voice 2",
+      "notes": 43
+    },
+    {
+      "track": 2,
+      "name": "Frauen",
+      "notes": 392
+    },
+    {
+      "track": 3,
+      "name": "MÃ¤nner",
+      "notes": 198
+    },
+    {
+      "track": 4,
+      "name": "Piano",
+      "notes": 2844
+    },
+    {
+      "track": 5,
+      "name": "Piano",
+      "notes": 566
+    },
+    {
+      "track": 6,
+      "name": "Pipe Organ",
+      "notes": 451
+    },
+    {
+      "track": 7,
+      "name": "Guitar",
+      "notes": 6299
+    },
+    {
+      "track": 8,
+      "name": "Guitar",
+      "notes": 0
+    },
+    {
+      "track": 9,
+      "name": "Elektrische Gitarre",
+      "notes": 160
+    },
+    {
+      "track": 10,
+      "name": "Electric Bass",
+      "notes": 781
+    },
+    {
+      "track": 11,
+      "name": "Schlagzeug",
+      "notes": 2284
+    },
+    {
+      "track": 12,
+      "name": "GroÃes Schlagzeug",
+      "notes": 2272
+    },
+    {
+      "track": 13,
+      "name": "Tambourine",
+      "notes": 1807
+    },
+    {
+      "track": 14,
+      "name": "Hand Clap",
+      "notes": 363
+    },
+    {
+      "track": 15,
+      "name": "Violin",
+      "notes": 315
+    },
+    {
+      "track": 16,
+      "name": "Violins 1",
+      "notes": 1308
+    },
+    {
+      "track": 17,
+      "name": "Violins 2",
+      "notes": 1541
+    },
+    {
+      "track": 18,
+      "name": "Violas",
+      "notes": 1428
+    },
+    {
+      "track": 19,
+      "name": "Violoncellos",
+      "notes": 1556
+    },
+    {
+      "track": 20,
+      "name": "Contrabasses",
+      "notes": 1444
+    }
+  ],
+  "full_score": true,
+  "source_end_beats": 582.0,
+  "native_seconds": 467.28087044534414,
+  "tempos": {
+    "0": 76,
+    "96": 76,
+    "27456": 60,
+    "27504": 52,
+    "27528": 48,
+    "27552": 40,
+    "27744": 32
+  },
+  "native_note_budget": 32,
+  "preview_note_pool": 36,
+  "overlap_cuts": 47,
+  "motifs": 80,
+  "instruments": [
+    {
+      "program": 0,
+      "native_font": 13,
+      "native_program": 0,
+      "name": "MALON"
+    },
+    {
+      "program": 1,
+      "native_font": 5,
+      "native_program": 0,
+      "name": "PIANO"
+    },
+    {
+      "program": 2,
+      "native_font": 3,
+      "native_program": 10,
+      "name": "VIOLINS"
+    },
+    {
+      "program": 3,
+      "native_font": 13,
+      "native_program": 2,
+      "name": "ACOUSTIC_GUITAR"
+    },
+    {
+      "program": 4,
+      "native_font": 3,
+      "native_program": 11,
+      "name": "CELLOS"
+    },
+    {
+      "program": 5,
+      "native_font": 3,
+      "native_program": 14,
+      "name": "CHOIR"
+    },
+    {
+      "program": 6,
+      "native_font": 9,
+      "native_program": 6,
+      "name": "ORGAN"
+    },
+    {
+      "program": 7,
+      "native_font": 3,
+      "native_program": 5,
+      "name": "FLUTE"
+    },
+    {
+      "program": 8,
+      "native_font": 3,
+      "native_program": 3,
+      "name": "HORNS"
+    },
+    {
+      "program": 9,
+      "native_font": 3,
+      "native_program": 0,
+      "name": "HARP"
+    },
+    {
+      "program": 10,
+      "native_font": 3,
+      "native_program": 8,
+      "name": "OBOE"
+    },
+    {
+      "program": 11,
+      "native_font": 3,
+      "native_program": 1,
+      "name": "TRUMPET"
+    },
+    {
+      "program": 12,
+      "native_font": 3,
+      "native_program": 2,
+      "name": "TROMBONE"
+    },
+    {
+      "program": 13,
+      "native_font": 3,
+      "native_program": 12,
+      "name": "PIZZICATO"
+    },
+    {
+      "program": 14,
+      "native_font": 3,
+      "native_program": 7,
+      "name": "BASSOON"
+    },
+    {
+      "program": 15,
+      "native_font": 13,
+      "native_program": 3,
+      "name": "GUITAR_HIGH"
+    }
+  ],
+  "channels": [
+    {
+      "name": "Malon solo + harmony + choral doubling",
+      "voice_programs": [
+        0,
+        0,
+        0
+      ],
+      "pan": 64,
+      "volume": 110,
+      "priority": 15,
+      "reverb": 24,
+      "layers": 3,
+      "notes": 604
+    },
+    {
+      "name": "Grand piano, both hands",
+      "voice_programs": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "pan": 44,
+      "volume": 102,
+      "priority": 11,
+      "reverb": 24,
+      "layers": 4,
+      "notes": 3384
+    },
+    {
+      "name": "Violins I and II, full score + early harmonic pads",
+      "voice_programs": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "pan": 25,
+      "volume": 118,
+      "priority": 12,
+      "reverb": 24,
+      "layers": 4,
+      "notes": 3016
+    },
+    {
+      "name": "Violas and cellos, full score + early harmonic pads",
+      "voice_programs": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "pan": 99,
+      "volume": 111,
+      "priority": 12,
+      "reverb": 24,
+      "layers": 4,
+      "notes": 3208
+    },
+    {
+      "name": "Double basses + plucked bass",
+      "voice_programs": [
+        4,
+        3
+      ],
+      "pan": 64,
+      "volume": 100,
+      "priority": 13,
+      "reverb": 24,
+      "layers": 2,
+      "notes": 1672
+    },
+    {
+      "name": "Horns + trumpet + trombone harmony",
+      "voice_programs": [
+        8,
+        11,
+        12
+      ],
+      "pan": 78,
+      "volume": 108,
+      "priority": 11,
+      "reverb": 24,
+      "layers": 3,
+      "notes": 581
+    },
+    {
+      "name": "Flute, oboe and bassoon counterlines",
+      "voice_programs": [
+        7,
+        10,
+        14
+      ],
+      "pan": 34,
+      "volume": 83,
+      "priority": 10,
+      "reverb": 24,
+      "layers": 3,
+      "notes": 1121
+    },
+    {
+      "name": "Female choir, three written voices",
+      "voice_programs": [
+        5,
+        5,
+        5
+      ],
+      "pan": 79,
+      "volume": 105,
+      "priority": 11,
+      "reverb": 24,
+      "layers": 3,
+      "notes": 392
+    },
+    {
+      "name": "Male choir, two written voices",
+      "voice_programs": [
+        5,
+        5
+      ],
+      "pan": 49,
+      "volume": 108,
+      "priority": 11,
+      "reverb": 24,
+      "layers": 2,
+      "notes": 198
+    },
+    {
+      "name": "Pipe organ, full chords",
+      "voice_programs": [
+        6,
+        6,
+        6
+      ],
+      "pan": 66,
+      "volume": 81,
+      "priority": 8,
+      "reverb": 24,
+      "layers": 3,
+      "notes": 448
+    },
+    {
+      "name": "Harp, doubled piano figures",
+      "voice_programs": [
+        9,
+        9
+      ],
+      "pan": 100,
+      "volume": 76,
+      "priority": 8,
+      "reverb": 24,
+      "layers": 2,
+      "notes": 1915
+    },
+    {
+      "name": "Acoustic guitars",
+      "voice_programs": [
+        3,
+        3
+      ],
+      "pan": 95,
+      "volume": 69,
+      "priority": 7,
+      "reverb": 24,
+      "layers": 2,
+      "notes": 1212
+    },
+    {
+      "name": "Guitar counterline from original electric guitar part",
+      "voice_programs": [
+        15
+      ],
+      "pan": 27,
+      "volume": 82,
+      "priority": 9,
+      "reverb": 24,
+      "layers": 1,
+      "notes": 159
+    },
+    {
+      "name": "Drum kit, clear snare and cymbals",
+      "voice_programs": [
+        127,
+        127,
+        127
+      ],
+      "pan": 64,
+      "volume": 86,
+      "priority": 10,
+      "reverb": 24,
+      "layers": 3,
+      "notes": 2257
+    },
+    {
+      "name": "Low orchestral drum accents",
+      "voice_programs": [
+        127,
+        127
+      ],
+      "pan": 53,
+      "volume": 70,
+      "priority": 9,
+      "reverb": 24,
+      "layers": 2,
+      "notes": 14
+    },
+    {
+      "name": "Pizzicato strings and upper octave string reinforcement",
+      "voice_programs": [
+        13,
+        13,
+        2
+      ],
+      "pan": 44,
+      "volume": 83,
+      "priority": 9,
+      "reverb": 24,
+      "layers": 3,
+      "notes": 3006
+    }
+  ],
+  "source_sha256": "6b1c91362de74a8719965bc4c09d08727bdcf271fd95abea2587e29b88b8310d",
+  "preview_only": true,
+  "production_game_uses_stock_audio_spec": true
+}

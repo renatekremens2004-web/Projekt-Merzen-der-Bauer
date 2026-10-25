@@ -1,0 +1,18 @@
+{
+  "rate": 31995,
+  "seconds": 469.6688857634005,
+  "first_sample": 574384,
+  "last_sample": 15601440,
+  "malon_instrument_frames": 7811,
+  "peak": 25178,
+  "rms": 3580.1379252246775,
+  "clipped_fraction": 0.0,
+  "native_sequence_bytes": 52560,
+  "native_font_bytes": 5808,
+  "native_ram_bytes": 4194304,
+  "peak_native_notes": 35,
+  "native_note_pool": 36,
+  "private_preview_audio_heap_bytes": 360448,
+  "mp3_bytes": 11273163,
+  "mp3_sha256": "bdce2aed444afa8cf20673a53adcaa0e03f65e572fa549035de83ee8459c52ae"
+}
