@@ -1,3 +1,7 @@
+# Malon-Mischung V76: stärkere tiefe Stimmen und Streicher
+
+[MP3 anhören](Komm_Suesser_Tod_Malon_Hoerprobe_V76.mp3?raw=true) · [Änderungen und Quellen](Malon_Mischung_V76.md)
+
 # Neue Mischung V75: Klavier und Begleitung
 
 [MP3 anhören](Komm_Suesser_Tod_Malon_Hoerprobe_V75.mp3?raw=true) · [Änderungen und Quellen](Malon_Mischung_V75.md)

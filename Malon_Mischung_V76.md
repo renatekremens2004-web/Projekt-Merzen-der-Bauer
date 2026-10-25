@@ -1,0 +1,3 @@
+# Malon-Mischung V76
+Knapp vier Minuten, mit stärkerer tiefer Instrumentierung und deutlicheren Streichern. Bass76, tiefe Streicher80, Violinen90, Solostreicher78, hohe Streicher61. Flöte und Hörner sind ebenfalls etwas deutlicher; Malon bleibt bei102. Die Streicher- und Chorakkorde erhalten zusätzliche Töne aus der MIDI-Vorlage.
+Native OoT-Aufnahme mit4MiB RAM, unveränderten Audio-Caches, wortlosem Malon-Gesang und ohne übersteuerte PCM-Samples. Separate Hörprobe, keine dauerhafte Musikzuordnung im Spiel. Melodie, Harmonie und Tempo folgen weiterhin der hochgeladenen MIDI; die native Besetzung ist eine Orchestrierung der Vorlage.
