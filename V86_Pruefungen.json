@@ -1,0 +1,56 @@
+{
+  "native_ram_bytes": 4194304,
+  "normal_cases": [
+    "well-final",
+    "ddan-final",
+    "pieps",
+    "menu",
+    "title-loop",
+    "collapse"
+  ],
+  "normal_combined_ddan": true,
+  "audio": {
+    "peak": 31182,
+    "clipped_samples": 0,
+    "decoded_snr_db": 36.55869388992188,
+    "seconds": 315.0,
+    "final_frame": [
+      0,
+      0
+    ],
+    "codec_padding_frames": 7,
+    "intro_51s_identical_to_loud_v86": true
+  },
+  "model_room_lists": 610,
+  "supported_object_bank_overflows": 0,
+  "model_slot_overflows": 0,
+  "private_stress_hooks_in_release": false,
+  "full_start_to_finish_playthrough": false,
+  "debug_cases": [
+    "well-final",
+    "walk-cage",
+    "menu"
+  ],
+  "patch_verification": {
+    "normal": {
+      "mode": "normal",
+      "file": "Mr_Burns_Mr_Bean_DE_PAL10_Raumfix_Musik_V86.bps",
+      "rom_sha256": "6250e79921306c58ebf215af2e7d02ad73d5c8b66e722e9644ffd1fe9edc10a6",
+      "patch_sha256": "4be774dc5d03c156e41c3550e68d7baa74cd7fb09edf43b55f5f1cc475202e42",
+      "source_md5": "e040de91a74b61e3201db0e2323f768a",
+      "byte_identical_after_independent_apply": true,
+      "patch_bytes": 26669470,
+      "rom_bytes": 58720256
+    },
+    "debug": {
+      "mode": "debug",
+      "file": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Raumfix_Musik_V86.bps",
+      "rom_sha256": "b6a671bb8f94d7861e228cc3a6752c2ea5ee5d4d62cace148c6fc21cd6bd6e81",
+      "patch_sha256": "007bf01de386ed05b805b210594f05bb4efafb10d5d90ae2fa527f20a0fefd1f",
+      "source_md5": "e040de91a74b61e3201db0e2323f768a",
+      "byte_identical_after_independent_apply": true,
+      "patch_bytes": 26671844,
+      "rom_bytes": 58720256
+    }
+  }
+}
