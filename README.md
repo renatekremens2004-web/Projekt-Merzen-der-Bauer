@@ -1,3 +1,9 @@
+# V72: Beta-Gorone mittig auf dem Teppich
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Beta_Credits_V72.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Beta_Credits_V72.bps?raw=true) · [Bild und Prüfungen](Beta_Credits_V72_Anleitung.md) · [Quellenergänzung](Beta_Credits_V72_Quellen_Update.zip?raw=true)
+
+Der gewöhnliche Beta-Gorone steht in den Credits mittig vor Darunias Statue auf dem Teppich. Originale Kameras, unveränderter Speicherbedarf. Normal und DEBUG mit 4 MiB geprüft. Alle bisherigen Inhalte enthalten; saubere PAL-1.0-Basis verwenden. Musik bleibt unverändert; MIDI-Hörprobe separat.
+
 # V71: Kokiri, Medaillon und Beta-Gorone
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Sonichu_Medaillon_V71.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Sonichu_Medaillon_V71.bps?raw=true) · [Anleitung](Kokiri_Medaillon_Beta_V71_Anleitung.md) · [Quellenergänzung](Kokiri_Medaillon_Beta_V71_Quellen_Update.zip?raw=true)
