@@ -1,3 +1,15 @@
+## Pieps V79 — neuer kumulativer Spielpatch
+
+Pieps in Dodongos Höhle mit Käfig, Hilferuf, Rettungsgespräch, gespeichertem Fortschritt und Einflug beim König-Dodongo-Kampf samt eigener Musik. Nach dem Sieg bleibt Pieps ansprechbar und erzählt von seinem Treffer ins Auge. Seine Musik hat jetzt eine klare Harfen-/Flötenmelodie und mehr Präsenz. Jimmy Neutron bleibt entfernt. Native Tests mit 4 MiB einschließlich Herz, Portal, Raumabschluss, Steuerung und vollständigem Nachgespräch sowie erneutem Betreten des besiegten Bossraums. Die Malon-Musik bleibt eine separate Hörprobe.
+
+- [Normaler BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Pieps_V79.bps)
+- [DEBUG-BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Pieps_V79.bps)
+- [Hinweise](Pieps_V79_Hinweise.txt)
+- [Quellen-Update auf V77](Merzen_Pieps_V79_Quellen_Update.zip)
+- [Boss-Eingriff mit Spielton](Pieps_boss-assisted_V79.mp4)
+
+---
+
 ## Pieps V77 — neuer kumulativer Spielpatch
 
 Pieps in Dodongos Höhle mit Käfig, Hilferuf, Rettungsgespräch, gespeichertem Fortschritt und Einflug beim König-Dodongo-Kampf samt eigener Musik. Jimmy Neutron entfernt. Native Tests mit 4 MiB einschließlich Herz, Portal, Raumabschluss und Steuerung nach dem Boss. Die Malon-Musik bleibt eine separate Hörprobe.

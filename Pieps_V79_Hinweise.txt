@@ -1,0 +1,15 @@
+Pieps V79 — kumulativer Patch für Ocarina of Time PAL 1.0 Deutsch
+
+Die BPS-Datei auf eine saubere PAL-1.0-ROM anwenden, NICHT auf eine bereits gepatchte ROM. MD5 der Basis: e040de91a74b61e3201db0e2323f768a. Enthält alle bisherigen Änderungen bis V72 plus Pieps und die Entfernung von Jimmy Neutron. V79 ergänzt den ansprechbaren Pieps nach dem Boss, seinen neuen Siegesdialog und die deutlich klarer instrumentierte Pieps-Musik.
+
+Pieps: erster Lizalfos-Raum in Dodongos Höhle als Kind. Hilferuf und Kameranahaufnahme; nach den beiden Lizalfos ansprechen. Nach dem Gespräch verschwinden Vogel und Käfig beim Raumwechsel. Die Rettung wird im Spielstand gespeichert (freies infTable-Bit 0x1CA). Nur mit dieser Rettung hilft Pieps gegen König Dodongo, nachdem dieser eine echte Bombe verschluckt hat. Einflug durch die obere Öffnung, Treffer, Übergabe an die originale Todesszene. Herz, Ausgang und Fortschritt bleiben nativ. Nach der Todesszene bleibt Pieps als friedlicher Gesprächspartner auf dem vorderen Außenring der Arena. Sein Text 723B enthält den Versprecher »ins Auge gepiepst... äh, gepikst!«. Er bleibt auch bei erneutem Eintritt in den besiegten Bossraum ansprechbar, sofern er zuvor gerettet wurde. Pieps' eigene MIDI-Musik läuft nach dem Lizalfos-Kampf bei seiner Anwesenheit und beim Boss-Einflug bis zum Verlassen des Bossraums. Die Pieps-Melodie wird jetzt von Harfe und Flöte getragen; Gegenmelodie und Bass sind klarer gewichtet, Begleit-Echos leiser, Sequenzpegel von75 auf114 erhöht. Stock-Audioheap und Stock-Stimmenbudget des Spiels bleiben erhalten. Die separate große Malon-Orchester-Hörprobe V80 ist keiner Spielszene zugewiesen.
+
+Normale und DEBUG-Ausgabe haben denselben Spielinhalt. Vorhandene ältere Spielstände können weiterverwendet werden; für einen bereits erledigten Dodongo-Boss ist die neue Szene nicht rückwirkend sichtbar. Vor dem Test einen separaten Spielstand sichern.
+
+Prüfung: native Engine, 4 MiB; Einstieg/Kamera, tatsächliche Lizalfos-Todesabläufe bis Freischaltung, vollständiges Rettungsgespräch und Speicherflag, erneuter Raumeintritt, echte Bombe und assistierter Boss-Tod bis Herz/Portal/Raumabschluss/Steuerung, ungeretteter Vanilla-Boss, bereits erledigter Boss sowie Jimmy-freie Farm bei Tag und Nacht. Testaufnahmen benutzen automatisierte Eingaben und kontrollierte Kampfsituationen; kein vollständiger neuer Spieldurchlauf.
+
+Quellen-UPDATE auf die veröffentlichte V77-Quellenbasis: diese Dateien darüber kopieren und danach aus dem Projektordner mit aktiviertem Toolchain-Environment ausführen:
+python3 tools/remove_jimmy_v75.py /PFAD/ZUM/oot-burns-pal
+python3 tools/build_pieps_v75.py /PFAD/ZUM/oot-burns-pal
+python3 tools/build_pieps_music_v75.py /PFAD/ZUM/oot-burns-pal
+Dann regulären PAL-1.0-Build und bei Bedarf den bestehenden Debug-Builder verwenden. Helper-Dateinamen tragen den internen Arbeitsstand v75; das ausgelieferte Paket heißt V79.
