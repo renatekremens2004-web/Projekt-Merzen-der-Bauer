@@ -1,0 +1,81 @@
+{
+  "version": 85,
+  "source_manifest": {
+    "src/code/z_actor.c": {
+      "before": "d30bcf6e74881402b68a95f70e07364b995715e01f92e9efc87ea7e8c203c036",
+      "after": "8c5544e2fcd09db007a10ff8b619a4303cb8b5f9341207461fa0a0ea80d175f7"
+    },
+    "src/code/z_parameter.c": {
+      "before": "6ddad7ac50189431709efdc88226bb8efb204d1d933846ae5cab822207e5b722",
+      "after": "06bcafae757b805e1a1733ef8c8230c169715001e5d14f132e58435fe6c4a8f6"
+    },
+    "src/overlays/actors/ovl_Bg_Spot15_Rrbox/z_bg_spot15_rrbox.c": {
+      "before": "08d126a00e7a6178c31616bf0c753fe188f1ecb2ade8e5e3a44240359d71bd60",
+      "after": "a9bb81ae442b6fd3d979310fd3318e03b45d8166e9e87cc4b74fe64ce173370f"
+    },
+    "src/overlays/actors/ovl_Obj_Oshihiki/z_obj_oshihiki.c": {
+      "before": "5e0940ea9005866b365388e44885ab2140b21762594652e3114de7be20373ffc",
+      "after": "f060b83d2defddde731e1853892fdc76280417413ac61b0815239fdcc94e5baf"
+    },
+    "src/overlays/actors/ovl_player_actor/z_player.c": {
+      "before": "8df8c47e149bdcf9167bc0f0885469efa7b3d44a2548915d444dd746986bc9b1",
+      "after": "882dd4d57b17e4306f9610d432655c68e232fef568f2a9c23b1fbb3789fecee7"
+    }
+  },
+  "normal_patch": {
+    "mode": "normal",
+    "file": "Mr_Burns_Mr_Bean_DE_PAL10_Musik_Boost_Pieps_V85.bps",
+    "rom_sha256": "3e61b12451e5dd442e5df14d038d58e9cbd49a281ef4ca5e0c90668970c07087",
+    "patch_sha256": "67b3292d09d495589f0760e74b6ceca60be82c7086df309ae256e31dde4210ab",
+    "source_md5": "e040de91a74b61e3201db0e2323f768a",
+    "byte_identical_after_independent_apply": true,
+    "patch_bytes": 26583247,
+    "rom_bytes": 58720256
+  },
+  "debug_patch": {
+    "mode": "debug",
+    "file": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Musik_Boost_Pieps_V85.bps",
+    "rom_sha256": "92ec7bf51bc05908e9729e9b116243a41b1b868c7fb505687182aa732b8079e0",
+    "patch_sha256": "76eb2febf45af0bd9b719ea4637d4ecdfcf6593805884a365d5520f9d0c7d746",
+    "source_md5": "e040de91a74b61e3201db0e2323f768a",
+    "byte_identical_after_independent_apply": true,
+    "patch_bytes": 26615158,
+    "rom_bytes": 58720256
+  },
+  "normal_native_tests": {
+    "normal-land.log": true,
+    "normal-water.log": true,
+    "normal-sword.log": true,
+    "normal-block-fast.log": true,
+    "normal-block-pull-normal.log": true,
+    "normal-block-pull-fast.log": true,
+    "normal-cage-visual.log": true,
+    "normal-cage-rescue.log": true,
+    "normal-boss-plain.log": true,
+    "normal-boss-assisted.log": true,
+    "normal-walk-cage.log": true,
+    "normal-crate-fast.log": true
+  },
+  "debug_native_tests": {
+    "debug-water.log": true,
+    "debug-sword.log": true,
+    "debug-block-fast.log": true,
+    "debug-crate-fast.log": true,
+    "debug-walk-cage.log": true
+  },
+  "audio": {
+    "peak": 30782,
+    "clipped_samples": 0,
+    "decoded_snr_db": 38.39652903639429,
+    "seconds": 315.0,
+    "final_frame": [
+      0,
+      0
+    ],
+    "gain": 1.6,
+    "foreground_levels_unchanged": true
+  },
+  "ram_bytes": 4194304,
+  "production_default": "normal",
+  "source_archive_production_hashes_verified": true
+}
