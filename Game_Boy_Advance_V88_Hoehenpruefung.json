@@ -1,0 +1,19 @@
+{
+  "rom_sha256": "b46db28cf656dfa129c4676dee7c64a51da83bc196506977277c544349cc82c8",
+  "version": "V88 normal",
+  "native_ram_bytes": 4194304,
+  "actor_position": [
+    2185,
+    -1,
+    -300
+  ],
+  "scale": 0.01,
+  "shape_y_offset": 0,
+  "model_min_world_y": -0.75,
+  "model_max_world_y": 0.77,
+  "collision_floor_y": -1,
+  "render_floor_y": -1,
+  "model_lowest_point_above_floor": 0.25,
+  "production_files_changed": false,
+  "raised_third_screenshot_is_diagnostic_only": true
+}
