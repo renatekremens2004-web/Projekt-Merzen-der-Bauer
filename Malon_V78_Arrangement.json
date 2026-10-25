@@ -1,0 +1,639 @@
+{
+  "source": "Komm,_süsser_Tod_-_Evangelion_(Complete).mid",
+  "sha256": "6b1c91362de74a8719965bc4c09d08727bdcf271fd95abea2587e29b88b8310d",
+  "source_seconds": 463.5338112520833,
+  "excerpt_source_beats": [
+    64,
+    360
+  ],
+  "native_seconds": 235.26315789473685,
+  "native_end_tick": 14304,
+  "malon_sample": "SAMPLE_0_118 / Soundfont_13 instrument 0",
+  "controller_repairs": [
+    {
+      "byte_offset": 150342,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 152161,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 152725,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 153302,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154191,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154195,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154198,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154201,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154204,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154207,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154210,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154213,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154216,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154219,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154222,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154225,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154228,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154231,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154234,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154237,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154240,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154243,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154246,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154249,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154252,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154255,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154258,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154261,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154264,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154267,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154270,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154273,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154276,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154279,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154282,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154285,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154288,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154291,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154294,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154297,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154300,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154303,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154306,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154309,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154312,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154315,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154318,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154321,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154324,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154327,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154330,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154333,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154336,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 154339,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    },
+    {
+      "byte_offset": 158406,
+      "status": "0xeb",
+      "error": "data byte must be in range 0..127"
+    }
+  ],
+  "peak_written_polyphony": 22,
+  "channels": [
+    {
+      "name": "Malon — lead melody",
+      "program": 0,
+      "pan": 64,
+      "volume": 102,
+      "priority": 15,
+      "reverb": 26,
+      "trimmed": 0,
+      "voice_programs": [
+        0
+      ],
+      "layers": 1,
+      "notes": 378
+    },
+    {
+      "name": "Malon — quiet harmony",
+      "program": 0,
+      "pan": 73,
+      "volume": 53,
+      "priority": 11,
+      "reverb": 28,
+      "trimmed": 0,
+      "voice_programs": [
+        0
+      ],
+      "layers": 1,
+      "notes": 28
+    },
+    {
+      "name": "Grand piano — upper",
+      "program": 1,
+      "pan": 45,
+      "volume": 94,
+      "priority": 10,
+      "reverb": 23,
+      "trimmed": 1,
+      "voice_programs": [
+        1,
+        1
+      ],
+      "layers": 2,
+      "notes": 904
+    },
+    {
+      "name": "Grand piano — left hand",
+      "program": 1,
+      "pan": 72,
+      "volume": 94,
+      "priority": 9,
+      "reverb": 23,
+      "trimmed": 6,
+      "voice_programs": [
+        1
+      ],
+      "layers": 1,
+      "notes": 313
+    },
+    {
+      "name": "Violins",
+      "program": 2,
+      "pan": 30,
+      "volume": 90,
+      "priority": 7,
+      "reverb": 30,
+      "trimmed": 0,
+      "voice_programs": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "layers": 4,
+      "notes": 56
+    },
+    {
+      "name": "Violas and cellos",
+      "program": 4,
+      "pan": 94,
+      "volume": 80,
+      "priority": 7,
+      "reverb": 30,
+      "trimmed": 64,
+      "voice_programs": [
+        4,
+        4
+      ],
+      "layers": 2,
+      "notes": 68
+    },
+    {
+      "name": "Upper choir + bowed string doubling",
+      "program": 5,
+      "pan": 84,
+      "volume": 63,
+      "priority": 6,
+      "reverb": 32,
+      "trimmed": 0,
+      "voice_programs": [
+        5,
+        5,
+        5,
+        2
+      ],
+      "layers": 4,
+      "notes": 395
+    },
+    {
+      "name": "Lower choir + bowed string doubling",
+      "program": 5,
+      "pan": 40,
+      "volume": 57,
+      "priority": 6,
+      "reverb": 32,
+      "trimmed": 0,
+      "voice_programs": [
+        5,
+        5,
+        4
+      ],
+      "layers": 3,
+      "notes": 201
+    },
+    {
+      "name": "Organ",
+      "program": 6,
+      "pan": 75,
+      "volume": 40,
+      "priority": 6,
+      "reverb": 28,
+      "trimmed": 21,
+      "voice_programs": [
+        6
+      ],
+      "layers": 1,
+      "notes": 152
+    },
+    {
+      "name": "Acoustic guitar",
+      "program": 3,
+      "pan": 94,
+      "volume": 52,
+      "priority": 6,
+      "reverb": 16,
+      "trimmed": 189,
+      "voice_programs": [
+        3
+      ],
+      "layers": 1,
+      "notes": 541
+    },
+    {
+      "name": "Warm bowed bass",
+      "program": 4,
+      "pan": 64,
+      "volume": 76,
+      "priority": 9,
+      "reverb": 20,
+      "trimmed": 3,
+      "voice_programs": [
+        4
+      ],
+      "layers": 1,
+      "notes": 389
+    },
+    {
+      "name": "Flute melody",
+      "program": 7,
+      "pan": 38,
+      "volume": 43,
+      "priority": 6,
+      "reverb": 26,
+      "trimmed": 0,
+      "voice_programs": [
+        7
+      ],
+      "layers": 1,
+      "notes": 378
+    },
+    {
+      "name": "Warm horns",
+      "program": 8,
+      "pan": 78,
+      "volume": 48,
+      "priority": 7,
+      "reverb": 28,
+      "trimmed": 3,
+      "voice_programs": [
+        8,
+        8
+      ],
+      "layers": 2,
+      "notes": 215
+    },
+    {
+      "name": "Drums",
+      "program": 127,
+      "pan": 64,
+      "volume": 35,
+      "priority": 7,
+      "reverb": 6,
+      "trimmed": 0,
+      "voice_programs": [
+        127,
+        127
+      ],
+      "layers": 2,
+      "notes": 1085
+    },
+    {
+      "name": "Harp — piano arpeggio doubling",
+      "program": 9,
+      "pan": 103,
+      "volume": 59,
+      "priority": 8,
+      "reverb": 29,
+      "trimmed": 3,
+      "voice_programs": [
+        9,
+        9
+      ],
+      "layers": 2,
+      "notes": 904
+    },
+    {
+      "name": "Oboe — vocal harmony",
+      "program": 10,
+      "pan": 26,
+      "volume": 65,
+      "priority": 9,
+      "reverb": 29,
+      "trimmed": 1,
+      "voice_programs": [
+        10
+      ],
+      "layers": 1,
+      "notes": 149
+    }
+  ],
+  "tempos": {
+    "0": 76
+  },
+  "source_tracks": [
+    {
+      "track": 0,
+      "name": "Voice",
+      "notes": 378
+    },
+    {
+      "track": 1,
+      "name": "Voice 2",
+      "notes": 43
+    },
+    {
+      "track": 2,
+      "name": "Frauen",
+      "notes": 392
+    },
+    {
+      "track": 3,
+      "name": "MÃ¤nner",
+      "notes": 198
+    },
+    {
+      "track": 4,
+      "name": "Piano",
+      "notes": 2844
+    },
+    {
+      "track": 5,
+      "name": "Piano",
+      "notes": 566
+    },
+    {
+      "track": 6,
+      "name": "Pipe Organ",
+      "notes": 451
+    },
+    {
+      "track": 7,
+      "name": "Guitar",
+      "notes": 6299
+    },
+    {
+      "track": 8,
+      "name": "Guitar",
+      "notes": 0
+    },
+    {
+      "track": 9,
+      "name": "Elektrische Gitarre",
+      "notes": 160
+    },
+    {
+      "track": 10,
+      "name": "Electric Bass",
+      "notes": 781
+    },
+    {
+      "track": 11,
+      "name": "Schlagzeug",
+      "notes": 2284
+    },
+    {
+      "track": 12,
+      "name": "GroÃes Schlagzeug",
+      "notes": 2272
+    },
+    {
+      "track": 13,
+      "name": "Tambourine",
+      "notes": 1807
+    },
+    {
+      "track": 14,
+      "name": "Hand Clap",
+      "notes": 363
+    },
+    {
+      "track": 15,
+      "name": "Violin",
+      "notes": 315
+    },
+    {
+      "track": 16,
+      "name": "Violins 1",
+      "notes": 1308
+    },
+    {
+      "track": 17,
+      "name": "Violins 2",
+      "notes": 1541
+    },
+    {
+      "track": 18,
+      "name": "Violas",
+      "notes": 1428
+    },
+    {
+      "track": 19,
+      "name": "Violoncellos",
+      "notes": 1556
+    },
+    {
+      "track": 20,
+      "name": "Contrabasses",
+      "notes": 1444
+    }
+  ]
+}
