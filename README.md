@@ -1,3 +1,16 @@
+## V87 — Inventarmenü und Kollision korrigiert
+
+V86 ließ dem Inventarmenü in Dodongos Höhle und im Brunnen zu wenig Arbeitsfläche. Das verursachte Speicherüberschreibungen und fehlende Bodenkollision nach dem Menüschließen. Die Mindestgröße berücksichtigt nun auch das vollständige Menü samt Sprachtexturen und Reserve. Die Raumlade-Korrekturen und alle bisherigen Inhalte bleiben enthalten. Wiederholtes Ausrüsten/Menüschließen und Raumwechsel mit 4 MiB geprüft. Zusätzlich zwei ReDeads im Brunnen-Keller sowie zwei Beamos und vier Fledermäuse in Dodongos Höhle entfernt.
+
+- [DEBUG-BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Inventar_Kollision_V87.bps)
+- [Normaler BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Inventar_Kollision_V87.bps)
+- [Hinweise](V87_Inventar_Kollision_Hinweise.txt)
+- [Quellen-Update](Merzen_Inventar_Kollision_V87_Quellen_Update.zip)
+
+Kumulativ einschließlich V86. Jeweils auf eine saubere PAL-1.0-ROM anwenden. Kein vollständiger Spieldurchlauf als getestet behauptet.
+
+---
+
 ## V86 — Zuverlässigeres Raumnachladen und neuer Malon-Mix
 
 Speicherengpass beim überlappenden Laden von Rätselobjekten in Dodongos Höhle und im Brunnen behoben. Pieps bleibt bei kurzzeitigem Raumtausch vorgemerkt. Musik neu ausbalanciert: erste 51 Sekunden erhalten, Begleitung danach zurückgenommen, Chor nur leicht leiser, einzelner Einwurf um 1:22 deutlich gedämpft. Kumulativ einschließlich V85; weiterhin 4 MiB.

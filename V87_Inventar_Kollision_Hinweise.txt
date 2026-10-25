@@ -1,0 +1,13 @@
+V87 — Inventarmenü und Kollision
+
+Kumulativer BPS-Patch einschließlich V86. Auf eine saubere OoT PAL 1.0-ROM anwenden (MD5 e040de91a74b61e3201db0e2323f768a), nicht auf die bereits gepatchte ROM. Normal und DEBUG enthalten denselben Spielinhalt; Spielstände bleiben verwendbar.
+
+Der Fehler aus V86 wurde mit der nativen Engine reproduziert: Nach dem Öffnen des Inventars überschritt dessen Arbeitsfläche in Dodongos Höhle den reservierten Object-Bereich um 27.616 Bytes. Nach dem Schließen fiel Link von Y=0 auf Y=-2473,5. Die vorherige Berechnung berücksichtigte die normalen Modelle, aber nicht die temporär im selben Bereich geladenen Inventar-Icons, das Link-Vorschaumodell und dessen Coverage-Puffer.
+
+Die Reservierung berücksichtigt nun beide Verwendungen: größte Raum-Modellliste samt Keep-/Link-Modellen und den vollständigen Arbeitsbereich des Inventars. Menübedarf wird aus den tatsächlichen Segmentgrößen, Link-Modellgröße, Joint-Tabelle, Namenstexturen, Vorschau-Framebuffer und Coverage berechnet. Die größte PAL-Sprachfassung, Alignment und 8 KiB Zusatzreserve sind eingerechnet. Das kurzzeitig komplett geladene gameplay_keep wird ebenfalls berücksichtigt. Die gleiche Mindestgröße schützt die ältere Speicherverkleinerung im erwachsenen Hyrule-Feld.
+
+Dodongos Höhle und Brunnen behalten zusätzlichen Actor-Speicher für die Raumwechsel. Die Tests prüfen deshalb sowohl mehrfaches Ausrüsten/Schließen des Inventars als auch die weiterhin vollständigen Rätselobjekte und Figuren. Keine Änderungen am Spielstandformat. Zusätzliche Reserve: zwei ReDeads im Brunnen-Keller, zwei der drei Beamos im Hauptraum und vier Fledermäuse im Haupt-/Eingangskorridor von Dodongos Höhle entfernt. Der Gibdo im Sargraum bleibt erhalten. Die beiden Echsen und die Gegner in Kampfräumen bleiben erhalten.
+
+Prüfungen: normale und DEBUG-Ausgabe mit 4 MiB. Je drei Inventar-Durchgänge mit tatsächlichem Ausrüsten auf C-rechts, danach überprüfte Bodenhöhe; Kind/Erwachsener in Dodongos Höhle und Brunnen sowie erwachsenes Hyrule-Feld, einschließlich französischer Menütexte. Dazu Raumwechsel mit Pieps, beiden Echsen, Statuen/blauem Schalter und wiederholte Brunnenbesuche mit Velma, Organen und Silberrubinen. Beide BPS wurden unabhängig mit RomPatcher.js angewendet und mit der gebauten ROM verglichen. Das ist kein vollständiger Durchlauf des gesamten Spiels.
+
+Die Musik und alle übrigen V86-Inhalte bleiben erhalten. Quellenpaket: python3 apply_sources_v87.py /PFAD/ZUR/oot-burns-pal, danach PAL 1.0 mit der vorhandenen Toolchain bauen.
