@@ -1,3 +1,11 @@
+# V71: Kokiri, Medaillon und Beta-Gorone
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Sonichu_Medaillon_V71.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Sonichu_Medaillon_V71.bps?raw=true) · [Anleitung](Kokiri_Medaillon_Beta_V71_Anleitung.md) · [Quellenergänzung](Kokiri_Medaillon_Beta_V71_Quellen_Update.zip?raw=true)
+
+Nach dem Waldtempel steht der mintfarbene Kokiri draußen vor dem Waldeingang und erzählt Deinen neuen Text. In den Wald-Credits bleibt er ruhig; auf der Feier tanzt er an einem sichtbaren Platz. Das Medaillon ist erkennbar, die Beta-Pistole sitzt am Griff und der normale Beta-Gorone steht ohne Ausrüstung im Darunia-Creditsraum. Normal und DEBUG mit 4 MiB geprüft. Alle bisherigen Inhalte enthalten; saubere PAL-1.0-Basis verwenden. MIDI-Hörprobe separat.
+
+[Kokiri auf der Steppe](Kokiri_Steppe_V71.png) · [Kokiri bei der Feier](Kokiri_Feier_V71.png) · [Medaillon](Sonichu_Medaillon_Ingame_V71.png) · [Beta-Gorone in den Credits](Beta_Gorone_Credits_V71.png) · [Pistole](Beta_Gorone_Pistole_V71.png)
+
 # V70: gelber Poe und Medaillon im Königsgrab
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kokiri_Poe_Medaillon_V70.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kokiri_Poe_Medaillon_V70.bps?raw=true) · [Quellen](Merzen_Kokiri_Poe_Medaillon_V70_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kokiri_Poe_Medaillon_V70_Anleitung.md) · [Medaillon](Sonichu_Medaillon_V70.png) · [Poe](Gelber_Poe_V70.png) · [Kokiri-Tanz mit Musik](Kokiri_Tanz_Credits_V70.mp4?raw=true)
