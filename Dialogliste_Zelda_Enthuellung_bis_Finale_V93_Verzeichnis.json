@@ -1,6 +1,6 @@
 {
   "source_sha256": "9f873afd0af1ac1601e5d0a6fce53325512f8431f69b13a86465bf4c312d413e",
-  "total_messages": 91,
+  "total_messages": 95,
   "messages": [
     {
       "id": "5024",
@@ -638,13 +638,33 @@
       "locations": []
     },
     {
-      "id": "7059",
+      "id": "71A8",
       "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
       "pages": [
-        "Nimm das Master-Schwert!\nVernichte Ganon mit Deiner\nheiligen Waffe!"
+        "Beeil Dich, [Spielername]!\nDer Teufelsturm kann jede \nSekunde einstürzen!"
       ],
       "controls": [],
-      "note": "Zeldas wiederholbarer Hilferuf während der Flucht; kein zusätzliches Gespräch vor ihrer Enthüllung.",
+      "note": "Zelda während der Flucht im Inneren des Turms ansprechen.",
+      "locations": []
+    },
+    {
+      "id": "71A9",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "Achtung! Von überall her stürzen \nTrümmer herab!"
+      ],
+      "controls": [],
+      "note": "Zelda während der Flucht außen am Turm ansprechen.",
+      "locations": []
+    },
+    {
+      "id": "71AB",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "[Spielername]!\nDer Ausgang ist hier drüben!"
+      ],
+      "controls": [],
+      "note": "Weitere ortsabhängige Flucht-Ansprache: Hinweis auf den Ausgang.",
       "locations": []
     },
     {
@@ -763,6 +783,16 @@
         "FADE(30)"
       ],
       "note": "",
+      "locations": []
+    },
+    {
+      "id": "7059",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Nimm das Master-Schwert!\nVernichte Ganon mit Deiner\nheiligen Waffe!"
+      ],
+      "controls": [],
+      "note": "Zelda im letzten Kampf ansprechen: Hinweis auf das Master-Schwert bei entsprechendem Kampfzustand. Kein Flucht-Dialog.",
       "locations": []
     },
     {
@@ -1041,6 +1071,16 @@
       ],
       "note": "Gespeicherte Begrüßungsvariante. Kein aktiver Textaufruf für die letzte Hofszene gefunden.",
       "locations": []
+    },
+    {
+      "id": "71AA",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "[Spielername]!\nHilf mir!"
+      ],
+      "controls": [],
+      "note": "Gespeicherter Hilferuf; kein aktiver Textaufruf in den geprüften Flucht-Actors gefunden.",
+      "locations": []
     }
   ],
   "coverage": {
@@ -1148,6 +1188,15 @@
       "70D7",
       "70D8",
       "70D9"
+    ],
+    "src/overlays/actors/ovl_En_Zl3/z_en_zl3.c": [
+      "70D5",
+      "7059",
+      "7059",
+      "71A8",
+      "71A9",
+      "71AB",
+      "71AC"
     ]
   }
 }

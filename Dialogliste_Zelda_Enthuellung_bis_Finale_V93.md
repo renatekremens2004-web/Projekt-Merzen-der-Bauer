@@ -755,15 +755,35 @@ Aktuell eingebauter Text.
 
 ## 15. Flucht mit Zelda – Ansprechen und Rettungsreaktion
 
-### 7059
+### 71A8
 
 Aktuell eingebauter Text.
 
-Zeldas wiederholbarer Hilferuf während der Flucht; kein zusätzliches Gespräch vor ihrer Enthüllung.
+Zelda während der Flucht im Inneren des Turms ansprechen.
 
 **Seite 1**
 
-> Nimm das Master-Schwert! Vernichte Ganon mit Deiner heiligen Waffe!
+> Beeil Dich, [Spielername]! Der Teufelsturm kann jede  Sekunde einstürzen!
+
+### 71A9
+
+Aktuell eingebauter Text.
+
+Zelda während der Flucht außen am Turm ansprechen.
+
+**Seite 1**
+
+> Achtung! Von überall her stürzen  Trümmer herab!
+
+### 71AB
+
+Aktuell eingebauter Text.
+
+Weitere ortsabhängige Flucht-Ansprache: Hinweis auf den Ausgang.
+
+**Seite 1**
+
+> [Spielername]! Der Ausgang ist hier drüben!
 
 ### 71AC
 
@@ -886,6 +906,16 @@ Zeit-/Geschwindigkeitssteuerung: FADE(30).
 **Seite 1**
 
 > Oh, ihr Sechs Weisen... Es ist soweit! Sendet Eure Kraft!
+
+### 7059
+
+Aktuell eingebauter Text.
+
+Zelda im letzten Kampf ansprechen: Hinweis auf das Master-Schwert bei entsprechendem Kampfzustand. Kein Flucht-Dialog.
+
+**Seite 1**
+
+> Nimm das Master-Schwert! Vernichte Ganon mit Deiner heiligen Waffe!
 
 ## 19. Die Weisen öffnen das Siegel
 
@@ -1169,6 +1199,16 @@ Zeit-/Geschwindigkeitssteuerung: FADE(80).
 
 > Du... wer bist Du?
 
+### 71AA
+
+Aktuell eingebauter Text.
+
+Gespeicherter Hilferuf; kein aktiver Textaufruf in den geprüften Flucht-Actors gefunden.
+
+**Seite 1**
+
+> [Spielername]! Hilf mir!
+
 ## 22. Credits und letzter Besuch bei Zelda
 
 Die regulären Abspann-Einblendungen werden aus einer eigenen Staff-Textbank geladen. Die Namen des Entwicklerteams sind keine NPC-Dialoge. Die hinzugefügten Figuren in der Feier, Franky mit Klebeband und Marty/Doc im abschließenden Hof haben dort keinen zusätzlichen Gesprächsdialog.
@@ -1177,5 +1217,5 @@ Die regulären Abspann-Einblendungen werden aus einer eigenen Staff-Textbank gel
 
 ---
 
-91 verschiedene Nachrichten. Hauptgeschichte, freiwillige Begegnungen und gespeicherte Schlussvarianten sind getrennt gekennzeichnet.
+95 verschiedene Nachrichten. Hauptgeschichte, freiwillige Begegnungen und gespeicherte Schlussvarianten sind getrennt gekennzeichnet.
 
