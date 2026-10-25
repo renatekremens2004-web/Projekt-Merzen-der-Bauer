@@ -1,0 +1,23 @@
+Komm, süßer Tod — Registerkorrektur V82, separate Hörprobe
+
+Der Nutzer beschrieb einzelne falsche hohe Töne vor Malons erstem Einsatz und die schnelle auf-/absteigende Stimme um5:16. Die bisherige Prüfung hatte die korrekten MIDI-Notennummern und Zeitpunkte geprüft, aber nicht die tatsächlich erreichbare Wiedergabetonhöhe der Instrumente. Audio_NoteSetResamplingRate in src/audio/internal/playback.c begrenzt die Sample-Abspielrate auf3.99996. Beim Überschreiten erzeugt die Engine einen tieferen Ton als die angeforderte Note. Alle weiteren Töne oberhalb dieser Grenze landen auf derselben Tonhöhe. Das erzeugt falsche Harmonien und verstümmelte Läufe trotz korrekter MIDI-Werte.
+
+BEFUNDE V81
+In der Einführung überschritten einzelne hohe Orgel- und Streichertöne die Grenze, außerdem einige hohe Horndoppelungen. Die schnelle Linie um5:16 sind die geschriebenen hohen Violinen. Beispielsweise werden um5:17.37 ein D7/MIDI94 und um5:17.50 ein Cis7/MIDI93 im bisherigen Streicherregister beide auf ungefähr MIDI92 begrenzt. Bei diesen Stellen waren die codierten Noten korrekt und der in V81 reparierte Zeitplan ebenfalls korrekt. Der zusätzliche Fehler lag in den Tonumfängen der Samples. Im vollständigen Stück betrifft die statische Prüfung522 Noten einschließlich geringfügiger Grenzüberschreitungen nahe dem maximalen Abspielfaktor: Streicher356,Horn45,Flöte6,Fagott106,Orgel9.
+
+KORREKTUR
+Fünf echte höhere Sample-Register wurden aus den ursprünglichen OoT-Wellenformen erstellt. Anti-Aliasing-Tiefpass vor Dezimation, neue Grundton-Metadaten und angepasste Schleifenpositionen. Orgel, Streicher, Flöte und Fagott erhalten je ein um eine Oktave höher aufgenommenes Register, Horn ein um zwei Oktaven höheres. Die Instrumente werden passend auf diese Register verteilt. Dadurch bleiben dieselben vorgesehenen Noten und Klangfarben erhalten, ohne die Wiedergabegrenze zu überschreiten. Eine bloße Änderung der Grundton-Metadaten würde den Fehler nicht beheben: Die Wellenform muß tatsächlich transponiert werden.
+
+Keine Melodien gelöscht, keine Noten umgeschrieben und keine Kanallautstärken geändert. Malons Mix aus V81 bleibt erhalten. Die Registerumsetzung wurde nach nativer VADPCM-Codierung und Rückdecodierung auf Stimmung geprüft; zusätzliche Abweichung gegenüber dem Original jeweils unter0.05Cent. Das erhält auch den natürlichen Eigenklang der ursprünglichen Samples.
+
+PRÜFUNG
+Alle22014 Sequenznoten weiterhin mit korrektem Anfang/Tonhöhe; keine zeitlich überlappenden monophonen Stimmen. Alle Instrumente mit ihrer Sample-Auswahl und tatsächlichen Abspielrate im gesamten Stück geprüft: keine Begrenzung mehr. arrange.py bricht bei einer künftigen Überschreitung nun ab. Durchlauf mit der nativen OoT-Audioengine,4MiB-RAM, originalem Malon-Sample und abschließendem Ritardando. Die beiden kurzen Ausschnitte stammen aus derselben vollständigen Aufnahme.
+
+Dies ist weiterhin ausschließlich eine Hörprobe. Der Spielpatch V79 wird nicht ersetzt. Erweiterte Aufnahme-Konfiguration wie bisher:36Stimmen,Audioheap0x58000,Sequenzcache0xE000. Quellen UND kompilierte Produktions-Audiodaten einschließlich Samplebank wurden nach Laden der privaten Aufnahme-ROM wiederhergestellt. Keine veränderte ROM wird verteilt.
+
+REPRODUKTION
+Python mit numpy,mido. Originale extrahierte OoT-WAVs und die vom Nutzer bereitgestellte Complete-MIDI erforderlich; diese Dateien sind nicht im Archiv enthalten.
+python3 arrange.py /PFAD/ZUR/Complete.mid /PFAD/ZUR/oot-burns-pal
+Die enthaltene custom-sample-info.json liefert die Grundtöne für die statische Bereichsprüfung. setup_preview.py sichert den Produktionsstand, generiert mit build_high_registers.py die fünf Register und kompiliert die isolierte Aufnahmekonfiguration. render_preview.py erstellt eine native Aufnahme. restore_production.py stellt den Produktionsstand wieder her. Die Skripte enthalten die tatsächlich genutzten Workspace-Pfade und sind vor Nutzung in einer anderen Umgebung anzupassen. Native N64-Sampledaten werden nur lokal aus den vorhandenen Originaldaten regeneriert.
+
+register-audit-v81.json zeigt die bisherigen Fehler; register-audit-v82.json die korrigierten Bereiche; sample-pitch-check.json die Stimmungsmessung; timing-audit.json die unabhängige Sequenzprüfung; recording.json die Aufnahmemesswerte.

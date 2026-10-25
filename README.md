@@ -1,3 +1,17 @@
+## Komm, süßer Tod — korrigierte hohe Register V82
+
+Die Orgel-/Streicherstimme vor Malons Einsatz und die Violinenläufe um5:16 bleiben erhalten. Echte höhere Sample-Register verhindern, daß die native Wiedergabegrenze hohe Noten auf falsche Tonhöhen begrenzt. Alle Melodien und der Mix aus V81 bleiben erhalten. Fünf Instrumentbereiche wurden über das ganze Stück geprüft; die neu codierten Register zusätzlich auf Stimmung kontrolliert.
+
+- [Vollständige Hörprobe V82](Komm_Suesser_Tod_Malon_Orchester_V82.mp3)
+- [Hohe Stimme in der Einführung,0:20–1:02](Komm_Suesser_Tod_Hohe_Stimme_Intro_V82.mp3)
+- [Streicher um5:16,5:05–5:36](Komm_Suesser_Tod_Streicher_5m16_V82.mp3)
+- [Fehleranalyse und Registerkorrektur](Malon_V82_Registerkorrektur.txt)
+- [Quellen und Prüfprotokolle](Komm_Suesser_Tod_Malon_V82_Quellen.zip)
+
+Separate Hörprobe; Spielpatch V79 bleibt unverändert.
+
+---
+
 ## Komm, süßer Tod — korrigierte Hörprobe V81
 
 Diese Fassung ersetzt die fehlerhafte Orchestrierung von V80: verspätete Cello-Stimmen sind synchronisiert, versehentlich als Pauken abgespielte Beckenschläge korrigiert und Malon ist im Mix wieder vorne. Zusätzliche Instrumente spielen ausschließlich die geschriebenen MIDI-Stimmen. Alle22.014 Sequenznoten wurden unabhängig auf Anfang und Tonhöhe geprüft.
