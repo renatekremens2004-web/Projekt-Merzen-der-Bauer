@@ -1,0 +1,312 @@
+{
+  "native_ram_bytes": 4194304,
+  "normal_cases": {
+    "cases": [
+      "fire-5",
+      "fire-18",
+      "fire-19",
+      "shadow-0",
+      "shadow-2",
+      "shadow-8",
+      "handheld-child",
+      "handheld-adultbefore",
+      "handheld-adultafter",
+      "pieps-cage-child",
+      "pieps-cage-adult",
+      "pieps-boss-child",
+      "pieps-boss-adult",
+      "pieps-cleared-adult"
+    ],
+    "rom_sha256": "b46db28cf656dfa129c4676dee7c64a51da83bc196506977277c544349cc82c8"
+  },
+  "debug_cases": {
+    "cases": [
+      "fire-5",
+      "fire-18",
+      "fire-19",
+      "shadow-0",
+      "shadow-2",
+      "shadow-8",
+      "handheld-child",
+      "handheld-adultbefore",
+      "handheld-adultafter",
+      "pieps-cage-child",
+      "pieps-cage-adult",
+      "pieps-boss-child",
+      "pieps-boss-adult",
+      "pieps-cleared-adult"
+    ],
+    "rom_sha256": "5fd40cc482d2a53fd1bff056ab0100501295c509094f86fbb1fca3ef41994dca"
+  },
+  "changes": [
+    {
+      "scene": "HIDAN",
+      "room": 5,
+      "actor": "ACTOR_EN_GOROIWA",
+      "count": 1,
+      "before_count": 23,
+      "after_count": 22,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_GOROIWA,\n        {   1559,   2800,   -828 }, // pos\n        {  0x0000,  0x3F4A,  0x0000 }, // rot\n         0x0F04, // params\n    }, // 1\n"
+      ]
+    },
+    {
+      "scene": "HIDAN",
+      "room": 18,
+      "actor": "ACTOR_EN_RR",
+      "count": 1,
+      "before_count": 7,
+      "after_count": 6,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_RR,\n        {    241,     20,  -1495 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n        -0x001 /* 0xFFFF */, // params\n    }, // 0\n"
+      ]
+    },
+    {
+      "scene": "HIDAN",
+      "room": 19,
+      "actor": "ACTOR_EN_RR",
+      "count": 1,
+      "before_count": 10,
+      "after_count": 9,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_RR,\n        {    879,    260,  -1828 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n        -0x001 /* 0xFFFF */, // params\n    }, // 0\n"
+      ]
+    },
+    {
+      "scene": "HAKAdan",
+      "room": 8,
+      "actor": "ACTOR_EN_ST",
+      "count": 1,
+      "before_count": 6,
+      "after_count": 5,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_ST,\n        {   4591,   -380,     59 }, // pos\n        {  0x0000, -0x3F4A,  0x0000 }, // rot\n         0x0001, // params\n    }, // 0\n"
+      ]
+    },
+    {
+      "scene": "HAKAdan",
+      "room": 0,
+      "actor": "ACTOR_EN_WONDER_TALK2",
+      "count": 8,
+      "before_count": 20,
+      "after_count": 12,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {   -792,    -38,     85 }, // pos\n        {  0x0000, -0x8000,  0x0001 }, // rot\n         0x4225, // params\n    }, // 7\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {  -1074,    -38,   -188 }, // pos\n        {  0x0000,  0x4000,  0x0001 }, // rot\n         0x4226, // params\n    }, // 8\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {  -1612,    -38,    -67 }, // pos\n        {  0x0000,  0x0000,  0x0001 }, // rot\n         0x4267, // params\n    }, // 9\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {  -1273,    -38,   -185 }, // pos\n        {  0x0000,  0x4000,  0x0001 }, // rot\n         0x4268, // params\n    }, // 10\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {  -1553,    -38,   -462 }, // pos\n        {  0x0000,  0x0000,  0x0001 }, // rot\n         0x42A9, // params\n    }, // 11\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {  -1827,    -38,   -190 }, // pos\n        {  0x0000,  0x4000,  0x0001 }, // rot\n         0x422A, // params\n    }, // 12\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {   -794,    -38,   -465 }, // pos\n        {  0x0000,  0x0000,  0x0001 }, // rot\n         0x422B, // params\n    }, // 13\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {   -514,    -38,   -185 }, // pos\n        {  0x0000, -0x4000,  0x0001 }, // rot\n         0x42AC, // params\n    }, // 14\n"
+      ]
+    },
+    {
+      "scene": "HAKAdan",
+      "room": 2,
+      "actor": "ACTOR_EN_WONDER_TALK2",
+      "count": 2,
+      "before_count": 18,
+      "after_count": 16,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {    738,    -38,     54 }, // pos\n        {  0x0000,  0x0000,  0x0001 }, // rot\n         0x493C, // params\n    }, // 3\n",
+        "    {\n        ACTOR_EN_WONDER_TALK2,\n        {    304,     -2,    294 }, // pos\n        {  0x0000, -0x4000,  0x0015 }, // rot\n         0x4F3D, // params\n    }, // 4\n"
+      ]
+    }
+  ],
+  "dependency_audit": {
+    "rooms": [
+      {
+        "room": 5,
+        "scene": "HIDAN",
+        "remaining_entries_identical": true
+      },
+      {
+        "room": 18,
+        "scene": "HIDAN",
+        "remaining_entries_identical": true
+      },
+      {
+        "room": 19,
+        "scene": "HIDAN",
+        "remaining_entries_identical": true
+      },
+      {
+        "room": 8,
+        "scene": "HAKAdan",
+        "remaining_entries_identical": true
+      },
+      {
+        "room": 0,
+        "scene": "HAKAdan",
+        "remaining_entries_identical": true
+      },
+      {
+        "room": 2,
+        "scene": "HAKAdan",
+        "remaining_entries_identical": true
+      }
+    ],
+    "boulder_paths_renumbered": false,
+    "fire_tile_enemy_counts": {
+      "18": 5,
+      "19": 8
+    },
+    "fire_like_likes_remaining": 0,
+    "shadow_big_skulltulas_room8_remaining": 3,
+    "shadow_guillotines_room8_retained": 2,
+    "shadow_auto_text_triggers_removed": 10,
+    "hint_flags": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      60,
+      61
+    ],
+    "hint_flags_are_temporary": true,
+    "truth_spinner_switch": 27,
+    "other_actor_lists_edited": true,
+    "global_gameplay_code_changed": true,
+    "kokiri": {
+      "hostile_scrubs_removed": 3,
+      "child_plants_removed": 2,
+      "adult_plants_removed": 3,
+      "hostile_scrubs_remain": 0,
+      "enemy_flag_writes": false,
+      "friendly_merchants_changed": false,
+      "child_main_forest_list_changed": false,
+      "handheld_position": [
+        2185,
+        -1,
+        -300
+      ],
+      "remaining_entries_identical_except_handheld_position": true
+    },
+    "global_change_scope": "Only skip child-story Pieps actor before loading when Link is adult; cancel pending child-story entry if adult",
+    "pieps_age": {
+      "files": [
+        "src/code/z_actor.c",
+        "src/overlays/actors/ovl_En_Bird/pieps_actor_v75.inc.c",
+        "src/overlays/actors/ovl_Boss_Dodongo/pieps_boss_v75.inc.c"
+      ],
+      "child_only": true,
+      "adult_cage_skipped_before_overlay_load": true,
+      "adult_boss_assistance_disabled": true,
+      "adult_post_boss_bird_disabled": true,
+      "child_flags_unchanged": true
+    }
+  },
+  "kokiri_removals": [
+    {
+      "file": "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_0_03000048_AltHeaders_030006B0_Cmds_03000700_ActorEntryList.inc.c",
+      "actor": "ACTOR_EN_DEKUNUTS",
+      "removed_count": 3,
+      "before_count": 37,
+      "after_count": 34,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_DEKUNUTS,\n        {   -619,      1,   -200 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n        -0x100 /* 0xFF00 */, // params\n    }, // 4\n",
+        "    {\n        ACTOR_EN_DEKUNUTS,\n        {     62,      1,    258 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n        -0x100 /* 0xFF00 */, // params\n    }, // 5\n",
+        "    {\n        ACTOR_EN_DEKUNUTS,\n        {    370,    320,   -832 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n        -0x100 /* 0xFF00 */, // params\n    }, // 6\n"
+      ]
+    },
+    {
+      "file": "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_0_03000048_AltHeaders_030006B0_Cmds_03000700_ActorEntryList.inc.c",
+      "actor": "ACTOR_EN_DEKUBABA",
+      "removed_count": 1,
+      "before_count": 34,
+      "after_count": 33,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_DEKUBABA,\n        {   1427,      0,     94 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n         0x0001, // params\n    }, // 10\n"
+      ]
+    },
+    {
+      "file": "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_1_03000088_ActorEntryList.inc.c",
+      "actor": "ACTOR_EN_KAREBABA",
+      "removed_count": 2,
+      "before_count": 10,
+      "after_count": 8,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_KAREBABA,\n        {   2109,     -1,   -317 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n         0x0001, // params\n    }, // 1\n",
+        "    {\n        ACTOR_EN_KAREBABA,\n        {   2237,     -1,   -291 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n         0x0001, // params\n    }, // 2\n"
+      ]
+    },
+    {
+      "file": "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_1_03000048_AltHeaders_03000160_Cmds_030001A8_ActorEntryList.inc.c",
+      "actor": "ACTOR_EN_DEKUBABA",
+      "removed_count": 2,
+      "before_count": 11,
+      "after_count": 9,
+      "removed_entries": [
+        "    {\n        ACTOR_EN_DEKUBABA,\n        {   2351,     -1,   -489 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n         0x0001, // params\n    }, // 2\n",
+        "    {\n        ACTOR_EN_DEKUBABA,\n        {   2748,     -1,   -707 }, // pos\n        {  0x0000,  0x0000,  0x0000 }, // rot\n         0x0001, // params\n    }, // 3\n"
+      ]
+    }
+  ],
+  "pieps_age": {
+    "files": [
+      "src/code/z_actor.c",
+      "src/overlays/actors/ovl_En_Bird/pieps_actor_v75.inc.c",
+      "src/overlays/actors/ovl_Boss_Dodongo/pieps_boss_v75.inc.c"
+    ],
+    "child_only": true,
+    "adult_cage_skipped_before_overlay_load": true,
+    "adult_boss_assistance_disabled": true,
+    "adult_post_boss_bird_disabled": true,
+    "child_flags_unchanged": true
+  },
+  "handheld_placement": {
+    "files": [
+      "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_1_03000048_AltHeaders_03000160_Cmds_030001A8_ActorEntryList.inc.c",
+      "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_1_03000048_AltHeaders_03000250_Cmds_0300029C_ActorEntryList.inc.c",
+      "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_1_03000048_AltHeaders_030002F0_Cmds_03000338_ActorEntryList.inc.c",
+      "extracted/pal-1.0/assets/scenes/overworld/spot04/spot04_room_1_03000088_ActorEntryList.inc.c"
+    ],
+    "before": [
+      1800,
+      0,
+      130
+    ],
+    "after": [
+      2185,
+      -1,
+      -300
+    ],
+    "transition": [
+      2160,
+      -1,
+      -148
+    ],
+    "plants_removed": true,
+    "floor_source": "Native scene collision floor in narrow passage, z=-300 on room1 side of boundary=-148"
+  },
+  "full_start_to_finish_playthrough": false,
+  "gameplay_code_changes": true,
+  "gameplay_code_change_scope": "Pieps age guards only",
+  "patch_verification": {
+    "normal": {
+      "mode": "normal",
+      "file": "Mr_Burns_Mr_Bean_DE_PAL10_Tempel_Puffer_V88.bps",
+      "rom_sha256": "b46db28cf656dfa129c4676dee7c64a51da83bc196506977277c544349cc82c8",
+      "patch_sha256": "8688bf50847693b53671044f96aca900bfb747dbd4582348a6527a850a9c57ff",
+      "source_md5": "e040de91a74b61e3201db0e2323f768a",
+      "byte_identical_after_independent_apply": true,
+      "patch_bytes": 26658436,
+      "rom_bytes": 58720256
+    },
+    "debug": {
+      "mode": "debug",
+      "file": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Tempel_Puffer_V88.bps",
+      "rom_sha256": "5fd40cc482d2a53fd1bff056ab0100501295c509094f86fbb1fca3ef41994dca",
+      "patch_sha256": "dd707e9cddd6a88c6a8cb0a6aa242e1ff8e35b3aba6a4c2b07e30128a4d91bbd",
+      "source_md5": "e040de91a74b61e3201db0e2323f768a",
+      "byte_identical_after_independent_apply": true,
+      "patch_bytes": 26678459,
+      "rom_bytes": 58720256
+    }
+  }
+}
