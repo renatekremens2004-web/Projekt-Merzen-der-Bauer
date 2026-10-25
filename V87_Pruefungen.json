@@ -1,0 +1,124 @@
+{
+  "native_ram_bytes": 4194304,
+  "normal_cases": [
+    "child-dd",
+    "child-well",
+    "adult-dd",
+    "adult-well",
+    "child-well-fra",
+    "adult-field",
+    "adult-field-fra"
+  ],
+  "regression_normal": [
+    "DD0->1 menu roundtrip, blue switch, door->3, Pieps and both Lizalfos",
+    "Well0->1->0->1 Velma/organs/silver rupees"
+  ],
+  "baseline_overflow_bytes": 27616,
+  "baseline_y_after_close": -2473.5,
+  "full_start_to_finish_playthrough": false,
+  "private_stress_hooks_in_release": false,
+  "enemy_reduction": [
+    {
+      "file": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_0_03000060_ActorEntryList.inc.c",
+      "removed": {
+        "ACTOR_EN_FIREFLY": 2,
+        "ACTOR_EN_VM": 2
+      },
+      "before": 30,
+      "after": 26
+    },
+    {
+      "file": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_1_03000060_ActorEntryList.inc.c",
+      "removed": {
+        "ACTOR_EN_FIREFLY": 2
+      },
+      "before": 20,
+      "after": 18
+    },
+    {
+      "file": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdanCH/HAKAdanCH_room_1_03000054_ActorEntryList.inc.c",
+      "removed": {
+        "ACTOR_EN_RD": 2
+      },
+      "before": 58,
+      "after": 56
+    }
+  ],
+  "well_dependency_audit": {
+    "removed_redeads": [
+      {
+        "room": 1,
+        "params": "0x7F02",
+        "death_switch": "temporary63"
+      },
+      {
+        "room": 1,
+        "params": "0x7F02",
+        "death_switch": "temporary63"
+      }
+    ],
+    "silver_tracker": {
+      "room": 1,
+      "params": "0x015F",
+      "count": 5,
+      "switch": "persistent31"
+    },
+    "exit_gate": {
+      "params": "0x01DF",
+      "type": "front switch/back clear",
+      "switch": "persistent31"
+    },
+    "native_result": {
+      "silver_rupees": 5,
+      "native_switch": 31,
+      "gate_unbarred": true,
+      "no_redeads": true
+    },
+    "dead_hand_room4_unchanged": true,
+    "coffin_room2_gibdo_and_torches_unchanged": true
+  },
+  "wallmaster_hint_removed": true,
+  "handheld_normal": {
+    "real_room_entry": true,
+    "child_gameboy_color": true
+  },
+  "debug_cases": [
+    "child-dd",
+    "child-well",
+    "adult-dd",
+    "adult-well",
+    "child-well-fra",
+    "adult-field",
+    "adult-field-fra"
+  ],
+  "regression_debug": [
+    "DD0->1 menu roundtrip, blue switch, door->3, Pieps and both Lizalfos",
+    "Well0->1->0->1 Velma/organs/silver rupees"
+  ],
+  "handheld_debug": {
+    "real_room_entry": true,
+    "child_gameboy_color": true
+  },
+  "patch_verification": {
+    "normal": {
+      "mode": "normal",
+      "file": "Mr_Burns_Mr_Bean_DE_PAL10_Inventar_Kollision_V87.bps",
+      "rom_sha256": "3d7ccfb4571dc11f386d8580904ea4c34b7b69e9df918c89bcb46fafadca399c",
+      "patch_sha256": "86dc3f84e2e39b39f02750dd3c033cc8cfd36208c7152aec0b2471ec76d259c9",
+      "source_md5": "e040de91a74b61e3201db0e2323f768a",
+      "byte_identical_after_independent_apply": true,
+      "patch_bytes": 26706753,
+      "rom_bytes": 58720256
+    },
+    "debug": {
+      "mode": "debug",
+      "file": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Inventar_Kollision_V87.bps",
+      "rom_sha256": "7a5e3b17bd0947f5a48da3c33aa70365d9b1f5780b0cb4b6d9a0638ce12cf483",
+      "patch_sha256": "4186cc99e1424d2ba5997c510869cd14ddd117821b05a61444cfaec4025b1a76",
+      "source_md5": "e040de91a74b61e3201db0e2323f768a",
+      "byte_identical_after_independent_apply": true,
+      "patch_bytes": 26695414,
+      "rom_bytes": 58720256
+    }
+  }
+}
