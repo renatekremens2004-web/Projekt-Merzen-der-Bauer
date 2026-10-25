@@ -1,3 +1,17 @@
+## V85 — Begleitstimmen, Speed-Boost, Unterwasserschwert und Pieps
+
+Leise Musikstimmen erneut angehoben, Vordergrund und Malon beibehalten. D-Links beschleunigt jetzt Eisenstiefel sowie das Schieben und Ziehen von Blöcken und Milchkisten. Schwertbenutzung unter Wasser am Boden und beim Schwimmen. Pieps' echter Ladefehler am Türübergang wurde reproduziert und behoben. Weiterhin4MiB, keine Änderungen am Spielstandformat.
+
+- [Normaler kumulativer BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Musik_Boost_Pieps_V85.bps)
+- [DEBUG-BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Musik_Boost_Pieps_V85.bps)
+- [Neue Musik-Hörprobe](Komm_Suesser_Tod_Malon_5m15_V85.mp3)
+- [Hinweise und Prüfungen](V85_Musik_Boost_Pieps_Hinweise.txt)
+- [Quellen-Update](Merzen_Musik_Boost_Pieps_V85_Quellen_Update.zip)
+
+BPS jeweils auf die saubere PAL1.0-Basis anwenden.
+
+---
+
 ## V84 — Titelmusik und neuer Triangle-Guy-Auftritt
 
 Komm, süßer Tod mit präsenteren Begleitstimmen und langsamer Ausblende bis5:15. Im Titelbildschirm als Stereo-Stream mit nativem315-Sekunden-Loop. Beim vollständigen Schloss-Einsturz Einstieg bei0:25 und harter Stopp mit Rückgabe der Steuerung. Triangle Guy erscheint in einem neuen Kamera-Schnitt, stellt sich dort einmal vor und bleibt anschließend ansprechbar. Ursprünglicher Audioheap und4MiB-RAM-Betrieb bleiben erhalten.

@@ -1,0 +1,22 @@
+V85 — Begleitstimmen, Speed-Boost, Unterwasserschwert und Pieps
+
+Kumulativer BPS-Patch mit allen bisherigen Inhalten einschließlich V84. Jeweils auf eine SAUBERE OoT-PAL-1.0-ROM anwenden. Basis-MD5 e040de91a74b61e3201db0e2323f768a. Nicht über eine bereits gepatchte ROM patchen. Spielstände können weiterverwendet werden. Normale und DEBUG-Ausgabe haben denselben Spielinhalt.
+
+MUSIK
+Die leisen Holzbläser, Harfe und Gitarren-Gegenstimmen sind nochmals ungefähr 2dB präsenter. Die Orgel während Malons Gesang wurde zusätzlich rund 1.9dB angehoben; im späteren Abschnitt sind die begleitenden Streicher und Chöre ebenfalls deutlicher. Klavier, Malon, Bass, Schlagzeug und bereits laute Stimmen wurden nicht abgesenkt. Keine neuen Noten, Transpositionen oder harmonischen Änderungen. Native Aufnahme erneut erstellt, kein Clipping; Peak 30782/32767 bei unverändertem Gesamtgain1.6. 5:00–5:15 Ausblende, Titel-Loop, Einsturz-Einstieg25.25s und harter Stopp bei Kontrollrückgabe bleiben bestehen. Weiterhin zwei native ADPCM-Streaming-Stimmen, Original-Audioheap0x38000; privates36-Stimmen-Aufnahmesetup wird nicht ins Spiel übernommen.
+
+STEUERUNG
+Der bestehende beim Kokiri freigeschaltete D-Links-Schalter beschleunigt jetzt auch das Gehen mit Eisenstiefeln, an Land und am Unterwasserboden. Maximalgeschwindigkeit jeweils1.5x; Ausschalten stellt die ursprünglichen Werte wieder her. Gewöhnliche Schiebeblöcke und hölzerne Milchkisten bewegen sich beim Schieben/Ziehen ebenfalls schneller. Die ursprüngliche20-Einheiten-Schrittweite, Wand-/Bodenprüfungen, Rätselschalter und Kollisionslogik bleiben erhalten. Rutschende Eisblöcke und andere gesonderte Mechanismen werden nicht global beschleunigt.
+
+Schwerter können unter Wasser gezogen und eingesetzt werden, sowohl mit Eisenstiefeln am Boden als auch beim Schwimmen. Native Schwertanimationen und Trefferflächen werden verwendet; beim schwimmenden Schlag bleibt der normale Auftrieb aktiv, danach wird wieder geschwommen. Wassergefahren, Sauerstoff und die Beschränkungen anderer Gegenstände bleiben bestehen.
+
+PIEPS
+Der reguläre Türübergang in den unteren ersten Echsenraum wurde als gesonderter Test ergänzt. Während alter und neuer Raum gleichzeitig geladen waren, konnte Pieps'32kB-Overlay nicht reserviert werden. Ein direkter Start im Raum hatte diesen Fehler verdeckt. Der Käfigauftritt wird jetzt erst nach dem Freigeben des vorherigen Raums geladen. Es wird kein zusätzlicher Actor und kein Object-Slot benötigt; nur eine16-Byte-Kopie des wartenden Actor-Eintrags mit einem flüchtigen Raum-Marker. Bei Raum-/Szenenwechsel wird der Auftrag verworfen. Keine neuen Spielstandflags. Durch dieselbe Tür wurden beide Echsen, Käfig und Hilfe-Kamerafahrt mit4MiB und ohne abgelehnte Actor-/Object-Ladevorgänge geprüft. Der Boss-Eingriff setzt weiterhin das abgeschlossene Befreiungsgespräch voraus; direktes Debug-Warpen zum Boss rettet Pieps nicht automatisch.
+
+PRÜFUNG
+Native Engine mit4MiB, keine Expansion-Pak-Pflicht. Eisenstiefel normal/Boost/normal: an Land3/4.5/3, unter Wasser5.389/8.083/5.389. Schieben und Ziehen: Originalblockspitze2, Boostspitze3, weiterhin exakte20-Einheiten-Schritte. Unterwasserschwert am Boden und beim Schwimmen mit aktiven Trefferflächen, anschließend normale Bewegung. Pieps' Türübergang, Befreiung sowie Boss-Varianten mit/ohne Rettung geprüft. Normal und DEBUG separat gebaut; beide BPS unabhängig mit RomPatcher.js angewendet und bytegleich mit der gebauten ROM verglichen. Das ersetzt keinen vollständigen Spieldurchlauf.
+
+QUELLEN
+Das Quellen-Update enthält die kumulativen geänderten Produktionsdateien aus V84 und V85 sowie die vier bereits codierten Musik-Assets. Auf die bisherigen V79-Quellen anwendbar. Nach Entpacken:
+python3 apply_sources_v85.py /PFAD/ZUR/oot-burns-pal
+Danach mit der vorhandenen Toolchain PAL1.0 bauen. Normale/DEBUG-Ausgabe weiterhin über tools/build_debug_version.py. Keine Basis-ROM enthalten.
