@@ -1,3 +1,9 @@
+# V70: gelber Poe und Medaillon im Königsgrab
+
+[DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Kokiri_Poe_Medaillon_V70.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Kokiri_Poe_Medaillon_V70.bps?raw=true) · [Quellen](Merzen_Kokiri_Poe_Medaillon_V70_Quellen_Patch.zip?raw=true) · [Anleitung und Prüfungen](Kokiri_Poe_Medaillon_V70_Anleitung.md) · [Medaillon](Sonichu_Medaillon_V70.png) · [Poe](Gelber_Poe_V70.png) · [Kokiri-Tanz mit Musik](Kokiri_Tanz_Credits_V70.mp4?raw=true)
+
+Kumulativ inklusive V68: neue Kokiri-Auftritte in Zukunft und Credits, kleinere Beta-Goronen-Pistole mit mehr Abstand zur Wand und einem regulären Soldaten weniger. Triple T wurde geprüft und bleibt unverändert. Der zusätzliche gelbe Poe greift nicht in das Aufzugrätsel ein; das kleine Medaillon erhält Navis Warnung. Mit 4 MiB RAM geprüft.
+
 # V68: Ladekorrekturen für Figuren und Objekte
 
 [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Speicherfix_V68.bps?raw=true) · [Normaler Patch](Mr_Burns_Mr_Bean_DE_PAL10_Speicherfix_V68.bps?raw=true) · [Quellen](Merzen_Speicherfix_V68_Quellen_Patch.zip?raw=true) · [Prüfungen](Speicherfix_V68_Anleitung.md)
