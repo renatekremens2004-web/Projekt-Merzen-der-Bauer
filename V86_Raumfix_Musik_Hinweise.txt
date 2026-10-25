@@ -1,0 +1,11 @@
+V86 — Raumnachladen und ausgeglichener Malon-Mix
+
+Kumulativer Patch einschließlich aller V85-Inhalte. Auf eine saubere OoT PAL1.0-ROM anwenden, MD5 e040de91a74b61e3201db0e2323f768a. Normal und DEBUG enthalten denselben Spielinhalt. Bestehende Spielstände bleiben verwendbar. Keine ROM enthalten.
+
+Musik: Erste 51 Sekunden der zuletzt lauteren Hörprobe erhalten. Danach Begleitung zwischen V85 und lauter V86-Fassung; Chor nur 0,6 dB abgesenkt. Einzelner hoher Gegenstimmen-Ton bei 82,895–85,263 Sekunden gezielt deutlich leiser. Keine neuen Noten oder Tonhöhenänderungen. Die16nativen OoT-Instrumentenspuren wurden mit gemeinsamer Zeitbasis zusammengemischt. Titel beginnt regulär, Einsturz ab 25,25 Sekunden mit Einblendung. Ab 5:00 Ausblende bis 5:15, danach Loop. Original-Audioheap, zwei ADPCM-Stimmen für das fertige Stück.
+
+Raumnachladen: Während alte und neue Raum-Actors gleichzeitig existieren, konnte der Actor-Heap in Dodongos Höhle und im Brunnen erschöpft werden. Das erklärt fehlende Originalrätselobjekte ebenso wie fehlende neue Figuren. Ein Object-Speicherbereich blieb dabei unnötig groß reserviert. Für genau diese beiden Dungeons wird nun die größte vorhandene Raum-Modellliste plus native Keep-/Link-Modelle und mindestens 32 KiB Reserve berechnet. Ungenutzter Rest bleibt dem Actor-Heap. Tatsächliche Object-ROM-Größen werden zur Laufzeit verwendet; ein Generator hält die Listen bei Quellenänderungen aktuell. Modellkapazität anderer Gebiete sowie Credits-/Sonderaufbauten bleiben unverändert.
+
+Pieps: Ein vorgemerkter Auftritt bleibt beim kurzen Wechsel von aktuellem/vorherigem Raum erhalten. Er wird erst verworfen, wenn sein Raum vollständig verlassen ist. Keine neuen Spielstandflags und keine pauschalen Wiederbelebungen abgeschlossener Rätsel. Debug-Warpen zum Boss ersetzt weiterhin nicht Pieps' Rettungsgespräch.
+
+Prüfungen und konkrete Ergebnisse stehen in V86_Pruefungen.json im Quellenpaket. Native 4-MiB-Tests, wiederholte reale Raumwechsel, Originalrätselschalter, Pieps-Intro/Befreiung/Bossvarianten, Titel und Einsturz sowie unabhängiges Anwenden beider BPS. Die Modelllistenprüfung deckt 610 Raumlisten mit beiden Link-Formen ab; sie ist keine vollständige Spielablaufprüfung. Ein kompletter Durchlauf von Anfang bis Ende wurde hier nicht durchgeführt.

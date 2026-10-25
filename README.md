@@ -1,3 +1,17 @@
+## V86 — Zuverlässigeres Raumnachladen und neuer Malon-Mix
+
+Speicherengpass beim überlappenden Laden von Rätselobjekten in Dodongos Höhle und im Brunnen behoben. Pieps bleibt bei kurzzeitigem Raumtausch vorgemerkt. Musik neu ausbalanciert: erste 51 Sekunden erhalten, Begleitung danach zurückgenommen, Chor nur leicht leiser, einzelner Einwurf um 1:22 deutlich gedämpft. Kumulativ einschließlich V85; weiterhin 4 MiB.
+
+- [Normaler BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Raumfix_Musik_V86.bps)
+- [DEBUG-BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Raumfix_Musik_V86.bps)
+- [Hörprobe des ausgeglichenen Mixes](Komm_Suesser_Tod_Malon_Balanciert_V86b.mp3)
+- [Hinweise und Grenzen der Prüfung](V86_Raumfix_Musik_Hinweise.txt)
+- [Quellen-Update](Merzen_Raumfix_Musik_V86_Quellen_Update.zip)
+
+BPS jeweils auf eine saubere PAL1.0-ROM anwenden. Kein vollständiger Durchlauf von Anfang bis Ende als getestet behauptet.
+
+---
+
 ## V85 — Begleitstimmen, Speed-Boost, Unterwasserschwert und Pieps
 
 Leise Musikstimmen erneut angehoben, Vordergrund und Malon beibehalten. D-Links beschleunigt jetzt Eisenstiefel sowie das Schieben und Ziehen von Blöcken und Milchkisten. Schwertbenutzung unter Wasser am Boden und beim Schwimmen. Pieps' echter Ladefehler am Türübergang wurde reproduziert und behoben. Weiterhin4MiB, keine Änderungen am Spielstandformat.
