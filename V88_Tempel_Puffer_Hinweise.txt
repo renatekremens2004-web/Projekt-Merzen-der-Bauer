@@ -1,0 +1,30 @@
+V88 — Tempel entlastet, Kokiri-Gegner reduziert und Handhelds im Tunnel
+
+Kumulativer BPS-Patch einschließlich V87. Auf eine saubere OoT PAL 1.0-ROM anwenden (MD5 e040de91a74b61e3201db0e2323f768a). Nicht über eine bereits gepatchte ROM patchen. Normal und DEBUG enthalten denselben Spielinhalt; reguläre Spielstände bleiben kompatibel.
+
+FEUERTEMPEL
+Ein rollender Fels im großen Felslabyrinth (Raum 5, Route 4) entfernt; fünf Felsen bleiben dort erhalten. Die anderen Pfadnummern und die Pfaddaten bleiben unverändert. Beide Raubschleime entfernt (Räume 18/19). Die dortigen Bodenplatten-Gegner bleiben erhalten und lösen ihre Kampfabläufe weiterhin selbst aus. Native Tests ohne Raubschleime: alle fünf bzw. acht Platten greifen an und verschwinden, die Raumfreigabe wird gesetzt; die Gittertüren in Raum 18 sind anschließend offen. Die Ausgänge in Raum 19 sind normale Türen.
+
+SCHATTENTEMPEL
+Eine der vier großen Skulltulas im Abschnitt mit den Fallbeilen entfernt (Raum 8). Drei große Skulltulas und beide Fallbeile bleiben erhalten. Goldene Skulltulas werden nicht verändert.
+
+Zehn unsichtbare Auslöser automatischer Wandtexte entfernt: acht in Raum 0 (Texte 0208/0209/020A: blutige Geschichte, Dunkelheit, Auge der Wahrheit), zwei in Raum 2 (0224/023C: Vogelstatue/Auge der Wahrheit). Es gibt dadurch keine leeren Ersatzdialoge. Diese Auslöser schreiben nur temporäre Hinweisflags 37–44/60–61; die Vogelstatue und ihr Ausgang verwenden den separaten Schalter 27. Wände, acht Vogelrätsel-Actors und das manuell lesbare Schild bleiben erhalten. Im nativen Test bleiben die automatischen Textboxen aus, während die Statue weiterhin rotiert.
+
+KOKIRI-WALD
+Nur als Erwachsener: alle drei feindlichen Nüsse spuckenden Deku-Gegner aus der normalen Wald-Actor-Liste entfernt. Freundliche Händler, Kind-Variante und andere Gebiete bleiben unverändert. Zusätzlich zwei verwelkte Pflanzen im Tunnel als Kind und drei fleischfressende Pflanzen als Erwachsener entfernt (eine im Wald, zwei vor dem Deku-Baum). Übrige Pflanzen bleiben erhalten. Diese entfernten Gegner setzen keine individuellen Rätsel-/Questflags.
+
+GAME BOY COLOR / ADVANCE
+Beide liegen weiterhin altersabhängig im Gang zum Deku-Baum. Der vorherige Ort lag jedoch auf der Waldseite der Raumgrenze, obwohl das Modell zur Deku-Baum-Seite gehört. Beide auf einen Bodenpunkt im Gang hinter dieser Grenze versetzt. Kein zusätzlicher Actor, kein zusätzliches Modell und keine größere Speicherreservierung. Überprüft über den Raumwechsel mit gewöhnlicher Spielkamera, Inventar-Rückkehr und wiederholtem Betreten, nicht nur durch direktes Laden mit frei gesetzter Kamera.
+
+PIEPS NUR ALS KIND
+Der Käfig war bereits auf Kind-Link beschränkt. Ergänzt sind die Altersprüfungen für Pieps' Eingreifen beim König-Dodongo-Kampf und seinen freundlichen Auftritt nach dem Kampf bzw. bei Wiederbesuch. Ein gesetzter Rettungsstatus bringt ihn als Erwachsenen nicht zurück. Die Actor-Liste überspringt den Käfig-Actor als Erwachsenen außerdem schon vor dem Laden seines Overlays. Sein Rettungsflag bleibt erhalten, die Kinder-Story wird nicht zurückgesetzt.
+
+SPEICHER
+Kompilierte Instanzen: Karebaba 640 Bytes, Dekubaba 1032 Bytes, Deku-Spucker 772 Bytes. Damit als Kind 1280 Bytes weniger Instanzdaten. Im erwachsenen Wald 2316 + 1032 Bytes, im angrenzenden Raum weitere 2064 Bytes weniger; beim gleichzeitigen Laden beider Räume also 5412 Bytes Instanzdaten. Zusätzlich bleibt das 6976 Bytes große Deku-Spucker-Overlay ungeladen. Zusammen etwa 12 KiB beim Raumübergang, zuzüglich entfallender Heap-Verwaltung/Geschosse; die gemeinsam genutzten Pflanzenmodelle bleiben geladen. Dies ist eine Berechnung aus den kompilierten Größen, kein Versprechen, beliebige weitere Figuren laden zu können.
+
+Geändert sind konkrete Actor-Listen und ihre zugehörigen Array-Längen sowie vier Handheld-Positionen. Alle übrigen Einträge bleiben unverändert und in derselben Reihenfolge. Die einzige globale Codeänderung ist der gezielte Altersfilter für Pieps beim Laden der Actor-Liste. Keine Änderungen an Schaltern, Speicherreservierungen, Musik oder Spielstandformat. V87-Inventarkorrektur bleibt enthalten.
+
+PRÜFUNG
+Normale und DEBUG-Ausgabe mit nativen 4 MiB: geänderte sechs Räume geladen, Gegnerzahlen/erhaltene Rätselobjekte geprüft; verbleibende Felsen bewegen sich; beide Bodenplatten-Kämpfe enden ohne Raubschleime; automatischen Textstellen genähert; Vogelstatue gedreht; in Felsraum, Spinnenraum und beiden Texträumen Inventar geöffnet/geschlossen. Kokiri-Wald zusätzlich als Kind sowie als Erwachsener vor/nach dem Waldtempel: echte Raumübergänge, korrekte Game-Boy-Variante, verbleibende Pflanzen, keine feindlichen Deku-Spucker, Inventar-Rückkehr und erneutes Betreten geprüft. Pieps: Käfig als Kind vorhanden und als Erwachsener ohne Overlay-Laden abwesend; Boss-Explosionsphase mit gesetztem Rettungsflag kontrolliert in beiden Altersstufen getestet; freundlicher Vogel im erwachsenen, bereits geleerten Bossraum abwesend, Herzcontainer und Warp erhalten. Die Explosionsphase wurde für diese Altersprüfung gezielt als Testzustand gestartet, nicht als vollständiger Bosskampf gespielt. Actor-/Object-/Grafikpufferkontrollen bleiben innerhalb ihrer Grenzen. Beide BPS unabhängig mit RomPatcher.js angewendet und bytegleich mit der gebauten ROM verglichen. Kein vollständiger Spieldurchlauf durchgeführt.
+
+Quellen: python3 apply_sources_v88.py /PFAD/ZUR/oot-burns-pal, danach PAL1.0 mit vorhandener Toolchain bauen. Normale Spielstände weiterverwenden; nach ROM-Wechsel vollständig neu starten und keinen alten Emulator-Savestate übernehmen.

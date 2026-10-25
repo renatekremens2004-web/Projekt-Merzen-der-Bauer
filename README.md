@@ -1,3 +1,17 @@
+## V88 — Tempel entlastet, Kokiri-Gegner reduziert und Handhelds versetzt
+
+Feuertempel: ein Rollfels im Felslabyrinth und beide Raubschleime entfernt. Schattentempel: eine große Skulltula und zehn Auslöser automatischer Wandtexte entfernt. Pfade, übrige Gegner, Fallbeile und Rätselmechaniken bleiben erhalten. Bodenplatten-Kämpfe/Raumfreigaben, Vogelstatue, frühere Textstellen und Inventar-Rückkehr in Normal/DEBUG mit 4 MiB geprüft. Kokiri-Wald: alle drei feindlichen adulten Deku-Spucker und fünf Pflanzen altersabhängig entfernt. GBC/GBA auf die geladene Seite des Tunnels versetzt; Vorwärtsweg mit normaler Kamera, Inventar-Rückkehr und erneutes Betreten als Kind und Erwachsener geprüft. Pieps erscheint ausschließlich als Kind. Kumulativ einschließlich V87.
+
+- [DEBUG-BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Tempel_Puffer_V88.bps)
+- [Normaler BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Tempel_Puffer_V88.bps)
+- [Dialoge: Schattentempel-Abschluß bis Geistertempel](Dialogliste_Schattentempelabschluss_bis_Geistertempel_V88.md)
+- [Hinweise und Prüfumfang](V88_Tempel_Puffer_Hinweise.txt)
+- [Quellen-Update](Merzen_Tempel_Puffer_V88_Quellen_Update.zip)
+
+Auf saubere PAL-1.0-ROM anwenden. Nach ROM-Wechsel regulären Spielstand statt altem Emulator-Savestate laden. Kein vollständiger Spieldurchlauf als getestet behauptet.
+
+---
+
 ## V87 — Inventarmenü und Kollision korrigiert
 
 V86 ließ dem Inventarmenü in Dodongos Höhle und im Brunnen zu wenig Arbeitsfläche. Das verursachte Speicherüberschreibungen und fehlende Bodenkollision nach dem Menüschließen. Die Mindestgröße berücksichtigt nun auch das vollständige Menü samt Sprachtexturen und Reserve. Die Raumlade-Korrekturen und alle bisherigen Inhalte bleiben enthalten. Wiederholtes Ausrüsten/Menüschließen und Raumwechsel mit 4 MiB geprüft. Zusätzlich zwei ReDeads im Brunnen-Keller sowie zwei Beamos und vier Fledermäuse in Dodongos Höhle entfernt.
