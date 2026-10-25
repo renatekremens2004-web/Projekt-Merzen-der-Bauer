@@ -1,3 +1,16 @@
+## Pieps V77 — neuer kumulativer Spielpatch
+
+Pieps in Dodongos Höhle mit Käfig, Hilferuf, Rettungsgespräch, gespeichertem Fortschritt und Einflug beim König-Dodongo-Kampf samt eigener Musik. Jimmy Neutron entfernt. Native Tests mit 4 MiB einschließlich Herz, Portal, Raumabschluss und Steuerung nach dem Boss. Die Malon-Musik bleibt eine separate Hörprobe.
+
+- [Normaler BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Pieps_V77.bps)
+- [DEBUG-BPS-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Pieps_V77.bps)
+- [Hinweise](Pieps_V77_Hinweise.txt)
+- [Quellen-Update auf V72](Merzen_Pieps_V77_Quellen_Update.zip)
+- [Rettung mit Spielton](Pieps_cage-rescue_V77.mp4)
+- [Boss-Eingriff mit Spielton](Pieps_boss-assisted_V77.mp4)
+
+---
+
 # Malon-Mischung V76: stärkere tiefe Stimmen und Streicher
 
 [MP3 anhören](Komm_Suesser_Tod_Malon_Hoerprobe_V76.mp3?raw=true) · [Änderungen und Quellen](Malon_Mischung_V76.md)

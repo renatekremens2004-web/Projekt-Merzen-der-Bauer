@@ -1,0 +1,15 @@
+Pieps V77 — kumulativer Patch für Ocarina of Time PAL 1.0 Deutsch
+
+Die BPS-Datei auf eine saubere PAL-1.0-ROM anwenden, NICHT auf eine bereits gepatchte ROM. MD5 der Basis: e040de91a74b61e3201db0e2323f768a. Enthält alle bisherigen Änderungen bis V72 plus Pieps und die Entfernung von Jimmy Neutron.
+
+Pieps: erster Lizalfos-Raum in Dodongos Höhle als Kind. Hilferuf und Kameranahaufnahme; nach den beiden Lizalfos ansprechen. Nach dem Gespräch verschwinden Vogel und Käfig beim Raumwechsel. Die Rettung wird im Spielstand gespeichert (freies infTable-Bit 0x1CA). Nur mit dieser Rettung hilft Pieps gegen König Dodongo, nachdem dieser eine echte Bombe verschluckt hat. Einflug durch die obere Öffnung, Treffer, Übergabe an die originale Todesszene. Herz, Ausgang und Fortschritt bleiben nativ. Pieps' eigene MIDI-Musik läuft nach dem Lizalfos-Kampf bei seiner Anwesenheit und beim Boss-Einflug bis zum Verlassen des Bossraums. Keine Zuweisung der Malon-Hörprobe zu einer Spielszene.
+
+Normale und DEBUG-Ausgabe haben denselben Spielinhalt. Vorhandene ältere Spielstände können weiterverwendet werden; für einen bereits erledigten Dodongo-Boss ist die neue Szene nicht rückwirkend sichtbar. Vor dem Test einen separaten Spielstand sichern.
+
+Prüfung: native Engine, 4 MiB; Einstieg/Kamera, tatsächliche Lizalfos-Todesabläufe bis Freischaltung, vollständiges Rettungsgespräch und Speicherflag, erneuter Raumeintritt, echte Bombe und assistierter Boss-Tod bis Herz/Portal/Raumabschluss/Steuerung, ungeretteter Vanilla-Boss, bereits erledigter Boss sowie Jimmy-freie Farm bei Tag und Nacht. Testaufnahmen benutzen automatisierte Eingaben und kontrollierte Kampfsituationen; kein vollständiger neuer Spieldurchlauf.
+
+Quellen-UPDATE auf die veröffentlichte V72-Quellenbasis (V70-Vollpaket + V71- und V72-Updates): diese Dateien darüber kopieren und danach aus dem Projektordner mit aktiviertem Toolchain-Environment ausführen:
+python3 tools/remove_jimmy_v75.py /PFAD/ZUM/oot-burns-pal
+python3 tools/build_pieps_v75.py /PFAD/ZUM/oot-burns-pal
+python3 tools/build_pieps_music_v75.py /PFAD/ZUM/oot-burns-pal
+Dann regulären PAL-1.0-Build und bei Bedarf den bestehenden Debug-Builder verwenden. Helper-Dateinamen tragen den internen Arbeitsstand v75; das ausgelieferte Paket heißt V77.
