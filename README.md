@@ -1,3 +1,9 @@
+# Neue Mischung V73: Klavier und Begleitung
+
+[MP3 anhören](Komm_Suesser_Tod_Malon_Hoerprobe_V73.mp3?raw=true) · [Änderungen und Quellen](Malon_Mischung_V73.md)
+
+Malon leiser, anderer Klavierklang, wärmere Begleitung. Separate Hörprobe; Spielpatch weiterhin V72.
+
 # Neue Hörprobe: „Komm, süßer Tod“ mit Malons Stimme
 
 [MP3 anhören / herunterladen](Komm_Suesser_Tod_Malon_Hoerprobe_V72.mp3?raw=true) · [Details und Prüfungen](Malon_Hoerprobe_V72.md) · [Musikquellen](Komm_Suesser_Tod_Malon_V72_Quellen.zip?raw=true)
