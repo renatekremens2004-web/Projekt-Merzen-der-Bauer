@@ -1,0 +1,2304 @@
+{
+  "source_sha256": "549fae398c366c06532040b9c671ebddd271d81982795439dd4963a245546ff1",
+  "total_messages": 184,
+  "messages": [
+    {
+      "id": "5022",
+      "section": "0. Abschluß des Schattentempels – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Ah, welcome. I'm Mr. Bean. I'm the\nSage of Shadow now."
+      ],
+      "controls": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5025",
+      "section": "0. Abschluß des Schattentempels – Mr. Bean und Schattenamulett",
+      "pages": [
+        "I wanted to save the princess. Then\nthere was a branch. It caught my\nhead, I fell off the horse and broke\nmy neck. But Zelda is fine.",
+        "The Shadow Temple could do with\nsome vacuuming. Disgusting zombies."
+      ],
+      "controls": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "502B",
+      "section": "0. Abschluß des Schattentempels – Mr. Bean und Schattenamulett",
+      "pages": [
+        "My car is still parked by the castle."
+      ],
+      "controls": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "502C",
+      "section": "0. Abschluß des Schattentempels – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Merz isn't a nice man. I hate him."
+      ],
+      "controls": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5026",
+      "section": "0. Abschluß des Schattentempels – Mr. Bean und Schattenamulett",
+      "pages": [
+        "I'm a ghost now. Take my Shadow\nTemple plate. It's purple."
+      ],
+      "controls": [],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "0041",
+      "section": "0. Abschluß des Schattentempels – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Das Amulett des Schattens!\nMr. Bean ist einer der\nWeisen. Er überträgt Dir\nseine Kraft!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_MEDALLION_SHADOW)"
+      ],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "5023",
+      "section": "0. Abschluß des Schattentempels – Mr. Bean und Schattenamulett",
+      "pages": [
+        "Do visit me again. Maybe I can give\nyou another medallion."
+      ],
+      "controls": [
+        "FADE(50)"
+      ],
+      "project_sources": [
+        "bean_impa_de.json"
+      ]
+    },
+    {
+      "id": "0156",
+      "section": "1. Navis Story-Hinweise vor und nach dem Wüstenkapitel",
+      "pages": [
+        "Aber warum heißt das Ding\nGeistertempel und nicht\nWüstentempel? Müßte der\nSchattentempel nicht eher",
+        "Geistertempel heißen? Was soll\nSchatten in diesem Zusammenhang\nüberhaupt bedeuten?"
+      ],
+      "controls": [],
+      "project_sources": [
+        "schatten_brunnen_de.json"
+      ]
+    },
+    {
+      "id": "0158",
+      "section": "1. Navis Story-Hinweise vor und nach dem Wüstenkapitel",
+      "pages": [
+        "Na dann pack die Sonnencreme aus\nund nimm Dein Handtuch mit, es geht\nab IN DIE WÜÜÜÜÜÜSTE!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "015A",
+      "section": "1. Navis Story-Hinweise vor und nach dem Wüstenkapitel",
+      "pages": [
+        "Ist ja mega praktisch, daß wir schon\nwieder Krafthandschuhe gefunden\nhaben. Ey, vielleicht gibt es noch eine\ndritte Stufe davon!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "015B",
+      "section": "1. Navis Story-Hinweise vor und nach dem Wüstenkapitel",
+      "pages": [
+        "Wir müssen noch mal in die Zitadelle\nder Zeit zurück. Ich hab da meine\nGummibärchen liegen lassen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "goronen_kakariko_de.json"
+      ]
+    },
+    {
+      "id": "0124",
+      "section": "1. Navis Story-Hinweise vor und nach dem Wüstenkapitel",
+      "pages": [
+        "Weißt Du, so ein bißchen vermisse\nich das, daß wir in einen Mund\nreingehen oder so. Hoffentlich kommt\ndas hier wieder zurück."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "601C",
+      "section": "2. Zusätzliche Figuren – Wario, Wawario und Wawaluigi",
+      "pages": [
+        "WAH! IT'S A ME, WARIO!",
+        "Waluigi? Der ist zum Geistertempel\naufgebrochen. Will sich unbedingt\nbeweisen, dieser lange Lulatsch.",
+        "Alle in Hyrule lachen über ihn. Keiner\nnimmt ihn ernst. Jetzt will er etwas\nGroßes schaffen, damit das endlich\naufhört.",
+        "Mir gefällt das nicht. Er rennt da\nganz allein rein, bloß weil diese\nDeppen ihn für einen Versager halten.",
+        "Ja, ich mach mir Sorgen! Er ist mein\nKumpel. Aber erzähl ihm bloß nicht,\ndaß ich das gesagt habe!",
+        "Wenn Du zum Geistertempel kommst,\nschau nach ihm. Und jetzt: HAVE A\nROTTEN DAY! WAH HA HA!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "yellow_guy_wario_de.json"
+      ]
+    },
+    {
+      "id": "608D",
+      "section": "2. Zusätzliche Figuren – Wario, Wawario und Wawaluigi",
+      "pages": [
+        "Wie geht es dir und so?\nMein Name ist Wawario.",
+        "Bin eingeschlafen, hasse das, wenn\ndas passiert.",
+        "Ich sag dir was,\nab 6 Uhr hab ich frei!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "608E",
+      "section": "2. Zusätzliche Figuren – Wario, Wawario und Wawaluigi",
+      "pages": [
+        "WAAAGH WAAGH WAAGH\nWAAGH!!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "wawario_de.json"
+      ]
+    },
+    {
+      "id": "606A",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Ey, ich glaub, ich brech ab. Meine\nganzen Zimmerleute sind zu den\nGerudos gelaufen, weil sie die Frauen\ndort so mega heiß finden.",
+        "Das sind richtige Simps. Und bevor\ndas jetzt falsch ankommt: Ich will die\nGerudos hier nicht unnötig\nsexualisieren oder objektifizieren.",
+        "Das sind einfach Frauen, die da in\nihrer Kommune leben, und dann\nmarschieren meine Vollidioten hinein,\nals hätten sie auf uns gewartet.",
+        "Deswegen können wir jetzt diese\nscheiß Brücke nicht weiterbauen.",
+        "Die Männer sitzen in der Festung,\nund ich stehe hier mit meinem\nWerkzeug herum.",
+        "Das ist allgemein eine Scheißsituation,\nund mit der Gesamtsituation bin ich\nauch echt unzufrieden, ehrlich gesagt.",
+        "Wenn Du zur Festung kommst, schau\nbitte nach meinen Leuten. Ich hätte\nsie zum Arbeiten gebraucht, nicht\nzum kollektiven Anschmachten."
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_IN_LOST)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "606B",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Kannst Du in der Festung nach\nmeinen Leuten sehen? Die Gerudos\nhaben bestimmt Besseres zu tun, als\nmeine Simps zu beaufsichtigen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "606C",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Du hast meine Leute befreit, und wir\nhaben endlich die Brücke repariert.\nSchau sie Dir an, die steht jetzt\nrichtig da!",
+        "Ich habe den Jungs erklärt, daß\nFrauen in einer Kommune nicht\nautomatisch auf vier Zimmermänner",
+        "warten, die ungefragt einziehen\nwollen.",
+        "Nun arbeiten wir wieder zusammen.\nIch bin mit der Gesamtsituation noch\nimmer unzufrieden, aber wenigstens\nkann man jetzt darübergehen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6086",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Normalerweise bin ich der, der rennt,\ndoch gerade eher der, der pennt.",
+        "Diese bekloppten dusseligen\nZimmermänner, mit denen ich mir hier\nein Zelt teile, haben uns im Stich\ngelassen.",
+        "Und mir rennt die Zeit davon, so wie\nBoris. Der Totengräber konnte rennen,\nwofür er ja auch stets allen bekannt\nwar,",
+        "aber letztendlich konnte er nicht dem\nGenickbruch entrinnen, den er sich\nbei einem Treppensturz zugezogen\nhat.",
+        "Schade. Aber jetzt bin ich der\nschnellste!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "607D",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Seit dieser Totengräber-Typ tot ist,\nbin ich der schnellste Mann im Land,\nwobei Du ja sicher noch weißt, daß\nBoris...",
+        "... also der Totengräber, den meine\nich, einer der größten Renner Hyrules\nwar, was natürlich jeder wußte, weil\ndas...",
+        "... eigentlich das erste war, was man\nüber ihn erfahren hat, und auch die\neine Sache, die man sofort mit ihm\nverbunden hat.",
+        "Deswegen hat dieses Kind, das auch\nTotengräber werden will, ja so zu ihm\naufgesehen, also wegen des Rennens,\nnehme ich an.",
+        "Das liegt doch auf der Hand:\nTotengräber, Friedhof, wahnsinnig\nschnell rennen. Das gehört einfach\nzusammen.",
+        "Jedenfalls ist er jetzt tot, und\ndeshalb kannst Du gegen mich\nantreten.",
+        "Aber egal, wie schnell Du bist, bin\nich immer eine Sekunde schneller.",
+        "Keine Ahnung, warum das so ist. Ich\nsag es Dir nur vorher, damit Du\nnicht Deine Zeit damit\nverschwendest."
+      ],
+      "controls": [
+        "TEXTID(0x607E)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "607E",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Die Bestzeit von hier zur Brücke\nnach Kokiri war:\n[Bestwert].\nDas ist mein Rekord!",
+        "Willst Du versuchen, diesen\nRekord zu brechen?\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "607F",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Alles klar, dann bin ich Ready Freddy\nfür ein neues Rennen. Ein\nextravagantes Rennen!",
+        "Du kannst zuerst starten. Ich werde\nes sowieso schaffen, vor dir zu sein,\nauch wenn wir nicht gleichzeitig\nstarten. Na dann los!",
+        "Ich kann es kaum erwarten, dich im\nRennen zu schlagen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6080",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Alles klar, perfekt. Ich würde sagen,\ndann können wir ja eigentlich direkt\nstarten."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6081",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Na ja, ich habe schon schnellere\nLeute gesehen. Zum Beispiel mich\nselbst im Spiegel.",
+        "Deine Zeit betrug [Bestwert], oder? Da\nwar ich wohl wieder um eine Sekunde\nschneller."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6082",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Hihihi...\nBitte! Lauf weiter!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6083",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Oh, sieht aus, als würdest Du\naufgeben wollen. Hihihi...\nFast hättest Du Deine alte Form \nwiedererlangt!"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6084",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Hihihi...\nDu hast doch noch nicht den\nrechten Biß, mein Lieber.",
+        "Du mußt härter trainieren.\nMach's mal gut!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6085",
+      "section": "3. Gerudotal – Zimmermannschef und Running Man",
+      "pages": [
+        "Keuch... Pust... Hust...",
+        "Keuch... Pust... Wow!\nDas war sehr gut!",
+        "Doch Du hast mich noch nicht\ngeschlagen!\nDeine Bestzeit war [Rennzeit], aber\nich war eine Sekunde schneller!",
+        "Keuch... Hust... \nVersuche es irgendwann noch\neinmal!",
+        "Keuch... Pust...\nMach's mal gut!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6000",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Halt! Mach, daß du hier rauskommst!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6001",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Die Stimmung hier ist derzeit\nangespannt. Die Goronen wollen uns\ndazu bringen, Friedrich Merz unser\nTal zu überlassen.",
+        "Der Mann ist gegen Enteignungen, hat\naber kein Problem damit, uns unser\nGerudotal zu entreißen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6002",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Hey, Kleiner! Warte eine Sekunde,\ndann öffne ich Dir das Tor."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6003",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Unterschätz uns nicht!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6004",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Du hast unsere Wachen überlistet\nund die Zimmerleute befreit. Weißt\ndu, was du damit angerichtet hast?",
+        "Friedrich Merz versucht mithilfe der\nGoronen, das Gerudotal an sich zu\nreißen.",
+        "Was? Du kannst diesen Mann auch\nnicht leiden? Wenn es deine Mission\nist, ihm das Handwerk zu legen,\nwollen wir dich unterstützen.",
+        "Es ist sehr selten, daß ein Fremder\nes schafft, durch unsere Festung zu\ndringen. Das letzte Mal ist lange her.",
+        "Vor sieben Jahren kam ein komischer\nlila, dürrer Typ, der sich hier\nvorbeigeschmuggelt hat.",
+        "Er war mit seinen langen Beinen\neinfach zu schnell.",
+        "Doch in der Wüste wird er\nwahrscheinlich längst im Treibsand\nversunken sein.",
+        "Deshalb solltest du vorsichtig sein,\nwenn du da draußen bist.",
+        "Nimm diesen Gerudo-Pass. Damit\nkannst du dich in der Festung frei\nbewegen und das Tor zur Wüste\nöffnen lassen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6005",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Der Gerudo-Pass verschafft dir\nZugang zur Gespensterwüste.",
+        "Doch pass auf, daß du nicht dasselbe\nSchicksal erleidest wie dieser lila\nLoser von damals."
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6006",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Weichei!\nHinein mit Dir!\nUnd halt die Klappe!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6007",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Ich bin John, einer von den\nZimmermännern. Du mußt ganz schön\nmutig sein, um an den Wachen\nvorbeizukommen.",
+        "Kannst du vielleicht auch meine\nanderen Kumpels retten? Das wäre\necht nett von dir.",
+        "Hey, warte mal! Pass auf!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6008",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Portal in die Vergangenheit"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6009",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Portal in die Gegenwart"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "600A",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Portal in die Zukunft"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "723D",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Hey, peace and love! Ich bin Ringo.\nDanke, daß du mich rettest. Peace\nand love.",
+        "Oh nein, pass auf! Da ist eine\nGerudo-Kriegerin!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "723E",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Hey, ich bin George. Mich vergessen\ndie meisten, aber du hast mich nicht\nvergessen. Ich danke dir vielmals.",
+        "Oh Scheiße, da ist eine\nGerudo-Kriegerin!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "723F",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Hallo, ich bin Paul. Das war\ninsgesamt eine eher schlechte Idee,\nhierherzukommen.",
+        "Zum Glück hat Merz dich gerettet,\num uns zu schicken.",
+        "Nein, Merz hat dich geschickt, um\nuns zu retten. Warte, was? Du bist\nnicht wegen Friedrich Merz hier?",
+        "Oh, Moment mal! Da ist eine\nGerudo-Kriegerin!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6010",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Mit so einem Weichei will ich\nnichts zu tun haben!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6011",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Na, so gut bist Du wohl doch\nnicht! Vielleicht beim nächsten\nMal."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6012",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Das ist ja super gelaufen!",
+        "Ich muß zugeben, Du hast mich\nganz schön abgezogen. \nIch muß wohl noch besser werden..."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6013",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Das hier ist die\nGerudo-Trainingsarena. Ein Teil davon\nbesteht aus Glücksspiel.",
+        "Ansonsten ist der Großteil dieses\nGebäudes und dessen Inhalt relativ\nnervig. Der Preis am Ende ist auch\nnicht so besonders."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6014",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Für zehn Rubine darfst Du in unsere\nTrainingsarena, die sich gerade so als\nMini-Dungeon qualifiziert, wenn man\nbeide Augen zudrückt.",
+        "Du suchst Schlüssel, probierst Wege\naus und fragst Dich bei jeder Tür, ob\ndas noch ein Rätsel oder schon\nGlücksspiel ist.",
+        "Hast Du Dich durch diesen ganzen\nkonvolutierten Laden gearbeitet,\nbekommst Du Eispfeile. Ja, dafür\nveranstalten wir das alles.",
+        "Ein Gegenstand, den Du für fast das\nganze Abenteuer nicht brauchst und\nder im Wassertempel vielleicht ganz\nnett gewesen wäre.",
+        "Den hast Du inzwischen bestimmt\nlängst fertig. Hervorragendes Timing\nalso, das haben wir wirklich großartig\ngeplant.",
+        "Ein Versuch kostet 10 Rubine. Machst\nDu mit?\nIch versuche es!\nIch lasse es bleiben!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6015",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Ja, perfekt. Zehn Rubine! Das ist ein\nsehr lukratives Geschäft. Die Frage\nist: Von wem nehmen wir eigentlich\nsonst Geld?",
+        "Von anderen Gerudo-Kriegerinnen?\nDas glaube ich nicht.",
+        "Ansonsten erlauben wir auch niemand\nanderem, hier hereinzukommen.",
+        "Eigentlich ist diese Arena ganz schön\nunsinnig und wirkt eher wie etwas,\ndas man in letzter Minute hinzugefügt\nhat."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6016",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Du hast nicht mal genug Rubine?\nDann mach, daß du mit deinem pleiten\nArsch hier rauskommst!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6017",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Du möchtest in die Wüste? Na gut,\ndann öffne ich dir das Tor.",
+        "Jedoch muß ich dich warnen: Niemand\nist je aus dieser Wüste lebend\nzurückgekommen.",
+        "Außer wir Gerudo. Wir kommen\nimmer lebend zurück.",
+        "Und dann ist da so ein Typ auf einem\nfliegenden Teppich, der hier manchmal\nvorbeifliegt. Der ist gar nicht mal so\nschlecht.",
+        "Den finden wir ganz in Ordnung.",
+        "Dennoch: Du solltest die Wüste nicht\nüberschätzen. Man könnte auch\nsagen: Die Wüste lebt."
+      ],
+      "controls": [
+        "TEXTID(0x6018)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6018",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Zuerst siehst du einen\nTreibsandgraben. Danach siehst du\nFlaggen. Denen mußt du folgen, um\nnicht im Sand zu versinken.",
+        "Dann geht es nach unserem\nWüstengeist. Wir arbeiten mit ihm\nzusammen. Er gehört zu uns.",
+        "Mit dem Auge der Wahrheit kannst\ndu ihn sehen, habe ich zumindest\ngehört.",
+        "Du könntest auch die Nase der\nWahrheit benutzen, den Geist riechen\nund seinem Geruch folgen. Oder du\nnimmst das Ohr der Wahrheit.",
+        "Dann hörst du, wie er dir zuruft:\nHier lang! Jetzt da lang!",
+        "Das sind alles valide Methoden, um\ndurch diese Wüste zu kommen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6019",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Du schon wieder? Bursche, hast Du\nwenigstens Wasser dabei? Ein Kind\nallein in dieser Hitze, das kann doch\nnicht wahr sein.",
+        "Wir passen hier auf Dich auf, bis Du\nwieder bei den Deinen bist. Sollen wir\nDeine Mutter anrufen?"
+      ],
+      "controls": [
+        "TEXTID(0x601A)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "601A",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Nein, Du gehst jetzt nicht einfach\nweiter in die Wüste. Du hast ja\nkaum Vorräte!",
+        "Komm erst einmal aus der Sonne. Wir\nfinden schon jemanden, der Dich\nsicher wieder nach Hause bringt."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "601B",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Guter Junge! Vielen Dank!\nIch kann Dir zwar nichts derart \nWertvolles zum Tausch anbieten,\naber... vielleicht ist das ja okay!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6037",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Hier, nimm das. Das ist ein wichtiges\nDokument. Und gerne können wir\nspäter noch einmal Bogen schießen."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6038",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "[Spielername]... Wir sehen uns!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6040",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Hey Junge, das ist ja echt ein tolles\nPferd! Die Goronen sind auf dem\nVormarsch.",
+        "Da müssen wir trainieren, und unsere\nGerudo-Trainingsarena ist dafür nicht\nso gut geeignet.",
+        "Deswegen haben wir hier\nZielscheibenschießen. Du kannst gerne\nteilnehmen. Es kostet nur zwanzig\nRubine."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6041",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Willst Du es versuchen?\nEs kostet nur 20 Rubine!\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6042",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Hey, Kleiner!\nDas sieht gar nicht schlecht aus!\nZeig's mir nochmal!",
+        "Versuche doch jetzt,\n1.500 Punkte zu erreichen!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6043",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Ach, du möchtest es noch einmal\nmachen? Ja, danach wird man schnell\nsüchtig.",
+        "Ich habe schon Leute gesehen, die die\nganze Nacht auf diese Zielscheiben\ngeschossen haben."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6044",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Das haut mich richtig aus meinen\nGerudo-Latschen!",
+        "Deshalb gebe ich dir jetzt etwas,\ndamit du noch mehr Pfeile\nverschießen kannst: den\nGerudo-Köcher. Behandle ihn gut!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6045",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Das war absolute Hundescheiße."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6046",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Mensch, du bist ja ein absoluter King,\nein König im Bogenschießen! Hier,\nnimm dies."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6047",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "[Punkte] Punkte...\nGanz ordentlich!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6048",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Sieh Dir diesen Dummkopf an! Er\nkam freiwillig als Opfer für den\nmächtigen Friedrich Merz..."
+      ],
+      "controls": [
+        "FADE(90)"
+      ],
+      "project_sources": [
+        "twinrova_merz_intro_de.json"
+      ]
+    },
+    {
+      "id": "6049",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Meine Flammen werden\nihn bis auf die\nKnochen verbrennen!"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6069",
+      "section": "4. Gerudo-Festung – Wachen, Paß, Tor, Training und Bogenschießen",
+      "pages": [
+        "Bursche, was machst Du denn ganz\nallein hier? Hinter diesem Tor fängt\ndie Wüste an, und Du hast nicht\neinmal ordentlich Wasser dabei!",
+        "Da gehen selbst Erwachsene nicht\nunvorbereitet hinein. Mach bitte, daß\nDu zurück ins Dorf kommst, bevor\nDir noch etwas passiert.",
+        "Oder warte hier im Schatten. Sollen\nwir Deine Mutter anrufen? Irgend\njemand muß doch wissen, wo Du bist."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "605B",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Bist Du hier, um mich zu retten? \nOh, das ist ja wirklich nett!\nIch bin John, der Zimmermann.",
+        "Wir wollten uns eigentlich den\nGerudo-Kriegerinnen anschließen...\nAber dann haben sie uns\neingesperrt, weil wir Männer sind!",
+        "Jetzt wollen wir aber lieber\nwieder heim! Diese Gerudos sind\nschrecklich ungehobelt!",
+        "Drei meiner Kumpels sind hier\nnoch eingesperrt.\nBefreie sie bitte!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "605C",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Das ist wirklich nett von Dir,\nKleiner! Danke für die Rettung!\nIch bin Paul, der Zimmermann.",
+        "Diese Frauen hier machen mir\nAngst! Ich bleibe lieber weiter\nZimmermann, als mich ihnen\nanzuschließen!",
+        "Ich kann es kaum erwarten, wieder\ndaheim zu sein! Zwei meiner\nKumpels sind noch eingesperrt.\nHilfst Du ihnen?"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "605D",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Danke, Junge! Du bist super!\nIch bin George, der Zimmermann.",
+        "Hast Du unseren Chef gesehen?\nEr hat vielleicht Angst um uns!\nIch muß sofort zu ihm!",
+        "Einer von uns ist noch gefangen.\nBitte hilf auch ihm!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "605E",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Ich habe schon gedacht, Du hättest\nmich vergessen! Vielen Dank!\nIch bin Ringo, der Zimmermann.",
+        "Dafür, daß Du mich befreit hast,\nverrate ich Dir, was sich die\nGerudos über die Wüste erzählen:",
+        "\"Wer die Gespensterwüste\ndurchqueren will, braucht das Auge\nder Wahrheit. Den Wüstenkoloss\nfindet man jenseits der Wüste...\"",
+        "Ich gehe jetzt zu meinem Zelt in\nder Nähe des Gerudotals. Schau\ndoch mal vorbei, vielleicht gibt es\ndort etwas für Dich! Leb wohl!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "605F",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Bei meiner eigenen Gefangenschaft\nwar ich sehr zwiegespalten. Ein\nbisschen herumsitzen und von starken\nFrauen bewacht werden?",
+        "Ich habe schon schlechtere\nArbeitstage erlebt.",
+        "Das mußt du unserem Chef aber\nnicht erzählen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6060",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Ich bin in dieser Festung einem\nanderen Gefangenen begegnet. Der\nwar absolut gigantisch und trug\nOrange. Ein wirklich bulliger Kerl."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6061",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Rockmusik ist echt das Allerbeste.\nIch habe leider meinen tragbaren\nRockmusikspieler bei den Gerudos\nverloren. Er fiel in den Sand.",
+        "Danach war der ganze Lautsprecher\nvoller Sand und funktionierte nicht\nmehr.",
+        "Da habe ich ihn einfach die Schlucht\nhinuntergeworfen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6062",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Als ich damit Musik abspielen wollte,\nhat er richtig komische Geräusche\ngemacht und geknarrt. Also der war\nwirklich hinüber."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6063",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Was? Dieser Waluigi, von dem du\nerzählst? Oh Mann, das ist ja echt\ntragisch. Wir werden ihn als Helden\nin Erinnerung behalten."
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6064",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Als Zimmermann muß ich sagen: Die\nGefängniszellen waren erstaunlich\nsolide. Viel besser verarbeitet als\nunsere Brücke.",
+        "Ich habe mir sogar ein paar\nVerbindungen angesehen, während ich\nauf Rettung wartete. Eine gute",
+        "Fachkraft bildet sich schließlich\nweiter."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6065",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Wenn Du ein Pferd hast, kannst Du\nbei den Gerudos Bogenschießen. Ich\nwürde mitkommen, aber der Chef",
+        "nennt das offenbar schon wieder\nArbeitsverweigerung."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6066",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Dieser lila Kerl nennt sich Waluigi?\nIch kenne nur Wawaluigi. Der steht\nvor unserem Zelt herum und macht\nkomische Geräusche."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6067",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Wir vier bauen zusammen eine Brücke\nüber diesen ganzen Abgrund, aber\nunser Chef kriegt es nicht einmal hin,\nuns vier im selben Zelt zu behalten.",
+        "Ich sage nicht, daß wir besonders\norganisiert sind. Ich sage nur, daß\nman mit weniger Selbstvertrauen\nvielleicht vorsichtiger arbeiten würde."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6068",
+      "section": "5. Gerettete Zimmerleute und ihre Varianten",
+      "pages": [
+        "Ich hatte eher Schlechtes über\nWaluigi gehört. Er soll so ein Loser\nsein. Aber was du erzählst, ist ja\nheftig.",
+        "Wir haben ihn wirklich alle total\nverkannt und unterschätzt. Armer\nKerl."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6077",
+      "section": "6. Gespensterwüste – Teppichhändler und Wüstengeist",
+      "pages": [
+        "Man erzählt sich, daß hier draußen\neine mysteriöse Pyramide steht, die\nDu in der Ferne nur als dreieckigen\nUmriß erkennst.",
+        "In ihrem Inneren soll ein ganz\nbesonderes Item liegen, nach dem\ngroße Helden seit Jahrhunderten",
+        "suchen. Stell Dir nur vor, Du würdest\nes finden...",
+        "Komm, ich hab Dich nur verarscht.\nAbsoluter Quatsch, hier gibt es keine\nPyramide. Reingefallen.",
+        "Was ich wirklich habe, sind zehn\nKrabbelminen für 200 Rubine. Die sind\nwenigstens echt, anders als mein\nganzes Pyramiden-Gelaber.",
+        "Zehn Krabbelminen für 200 Rubine?\n\nKaufen!\nNicht kaufen!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "71C6",
+      "section": "6. Gespensterwüste – Teppichhändler und Wüstengeist",
+      "pages": [
+        "Ein Kind? Ganz allein hier draußen?\nHast Du wenigstens Wasser dabei?",
+        "Die Wüste ist kein Ort für einen\nkleinen Spaziergang. Geh lieber\nzurück, bevor Du Dich verläufst.",
+        "Wenn Du unbedingt weiterwillst, halte\nDich an die Flaggen. Und lauf niemals\nohne Vorrat los.",
+        "Krabbelminen habe ich trotzdem, zehn\nStück für 200 Rubine. Wasser\nverkaufen sollte ich wohl auch mal.",
+        "Zehn Krabbelminen für 200 Rubine?\n\nKaufen!\nNicht kaufen!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "600B",
+      "section": "6. Gespensterwüste – Teppichhändler und Wüstengeist",
+      "pages": [
+        "Ich starb hier im Treibsand, was ich\nziemlich ärgerlich fand. Folge mir mit\ngeladenem Auge, wie der lila Typ vor\nDir!"
+      ],
+      "controls": [
+        "SFX(NA_SE_EN_PO_LAUGH)",
+        "FADE(90)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "600C",
+      "section": "7. Wüstenkoloss – Sheik und Requiem der Geister",
+      "pages": [
+        "Ich hab ganz schön viel Sand im\nSchuh, und Friedrich Merz gibt mir\nkeine Ruh.",
+        "Ich vollführe hier Akrobatiken, doch\ner beschönigt die Statistiken.",
+        "Im Tempel wartet ein ungewöhnlicher\nAnhänger, ein langer Kerl und großer\nDrängler, der seine Bedeutung noch\ngar nicht kennt...",
+        "... und lieber jedem Schatz nachrennt.\nWas aus ihm wird, kann ich nicht\nsagen, Du wirst ihn schon selber\nfragen.",
+        "Um ihm dort zu begegnen, mußt Du in\nder Zitadelle der Zeit zum Kind\nwerden. Lerne das Requiem der",
+        "Geister, dann kommst Du wieder\nhierher."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "0076",
+      "section": "7. Wüstenkoloss – Sheik und Requiem der Geister",
+      "pages": [
+        "Du hast das Requiem der Geister\nerlernt!",
+        "Sheik: Ach so, übrigens, nur damit\nDu Bescheid weißt: Am Eingang vom\nGeistertempel sind Krüge, die\nschweben.",
+        "Also auch mit einer ziemlich hohen\nGeschwindigkeit. Ich will es nur\nvorsichtshalber erwähnen, paß da\nbitte ein bißchen auf."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6079",
+      "section": "8. Eule am Geistertempel",
+      "pages": [
+        "Ah, so sehen wir uns wieder,\n[Spielername]. Was? Ich soll\nRobert Habeck sein? Wie kommst Du\ndenn jetzt darauf?",
+        "Nein, nein. Also, man muß da schon\nunterscheiden zwischen einer Eule,\neiner Geistereule und einer... ach,\nlassen wir das.",
+        "Dieses Abenteuer ist inzwischen\nausgesprochen anachronistisch. Du\nreist durch die Zeit, und offenbar tun\ndas noch andere Mitspieler.",
+        "Da tauchen Leute auf, die Dich schon\nkennen, obwohl Du ihnen noch gar\nnicht begegnet bist. Das macht die\nLage nicht gerade übersichtlicher."
+      ],
+      "controls": [
+        "TEXTID(0x607A)"
+      ],
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ]
+    },
+    {
+      "id": "607A",
+      "section": "8. Eule am Geistertempel",
+      "pages": [
+        "Und als wäre diese ganze zeitliche\nUnordnung nicht genug, sitzen da nun\nauch noch zwei Hexen im Tempel. Die\nhaben uns gerade noch gefehlt.",
+        "Natürlich möchte ich niemanden\nvorschnell verurteilen. Aber sobald\njemand Menschen verhext, ist der",
+        "Spielraum für eine wohlwollende\nEinordnung doch recht klein.",
+        "Du wirst das also in Ordnung bringen\nmüssen. Nimm ihre eigene Magie\ngegen sie, damit wir hier überhaupt",
+        "wieder eine gemeinsame Zukunft\nhaben."
+      ],
+      "controls": [
+        "TEXTID(0x607B)"
+      ],
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ]
+    },
+    {
+      "id": "607B",
+      "section": "8. Eule am Geistertempel",
+      "pages": [
+        "Soll ich das noch einmal erklären?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ]
+    },
+    {
+      "id": "607C",
+      "section": "8. Eule am Geistertempel",
+      "pages": [
+        "So. Dann bring diese Sache mit den\nHexen bitte zu einem vernünftigen\nAbschluß. Und vergiß das mit Robert\nHabeck. Völlig abwegig."
+      ],
+      "controls": [],
+      "project_sources": [
+        "hyrule_stadt_de.json"
+      ]
+    },
+    {
+      "id": "71BF",
+      "section": "9. Marty und Doc am Wüstenkoloss, Mauzi und Starwalker im Tempel",
+      "pages": [
+        "Marty: Hey, Fremder! Bist Du auch\nwegen Friedrich Merz hier?",
+        "Marty: Der Typ ist ein ganz mieser\nKerl. Und eine feige Sau! Mann, das\nist doch der reinste Albtraum!"
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "desert_guests_de.json"
+      ]
+    },
+    {
+      "id": "71C0",
+      "section": "9. Marty und Doc am Wüstenkoloss, Mauzi und Starwalker im Tempel",
+      "pages": [
+        "Doc: Ruhig, Marty! Unserem fremden\nFreund hilft es wenig, wenn Du hier\ndie ganze Wüste anschreist."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "desert_guests_de.json"
+      ]
+    },
+    {
+      "id": "71C1",
+      "section": "9. Marty und Doc am Wüstenkoloss, Mauzi und Starwalker im Tempel",
+      "pages": [
+        "Marty: Schon gut, Doc. Aber der Kerl\nmacht dieses ganze Land fertig! Das\nist echt stark... im übelsten Sinne."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "desert_guests_de.json"
+      ]
+    },
+    {
+      "id": "71C2",
+      "section": "9. Marty und Doc am Wüstenkoloss, Mauzi und Starwalker im Tempel",
+      "pages": [
+        "Doc: Grundgütiger, Marty! Denk an\nunsere Mission. Wir werden das\nGanze schon wieder ins Lot bringen.",
+        "Doc: Und Du, Fremder: Sei vorsichtig.\nBei diesem Mann ist selbst die\nZukunft keine sichere Sache."
+      ],
+      "controls": [],
+      "project_sources": [
+        "desert_guests_de.json"
+      ]
+    },
+    {
+      "id": "71C3",
+      "section": "9. Marty und Doc am Wüstenkoloss, Mauzi und Starwalker im Tempel",
+      "pages": [
+        "Ich bin Mauzi! In diesem Tempel\ngibt's bestimmt große Beute!",
+        "Diese goldenen Statuen! Die ganzen\nSchatztruhen! Da kribbelt mir das\nMünzchen auf der Stirn!",
+        "Du kümmerst Dich um Friedrich Merz,\nich mich um den Reichtum. Ein\ngenialer Plan, miuaz genau!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "desert_guests_de.json"
+      ]
+    },
+    {
+      "id": "721D",
+      "section": "9. Marty und Doc am Wüstenkoloss, Mauzi und Starwalker im Tempel",
+      "pages": [
+        "Those witches are pissing me off.\nI'm the original Starwalker"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "601D",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Wa-wa-wa-WAAAH! Ich bin es!\nWaluigi!",
+        "Was suchst Du hier, Du Gernegroß?\nDen Tempel anschauen!\nIch suche die Weisen!\nEigentlich nichts!"
+      ],
+      "controls": [
+        "THREE_CHOICE"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "601E",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Aha! Du willst den Tempel also auch\nplündern und reich werden?\nVerständlich!",
+        "Trotzdem bist Du zu klein. Geh weg.\nWaluigi hat zuerst geplündert!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "601F",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Ein Weiser? W steht für Waluigi!\nNicht für Weiser!",
+        "Du mußt schon wissen, wonach Du\nsuchst. Waaah!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6020",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Wah, wah, wah! Wenn Du schon den\nganzen Weg hierher gekommen bist,\nkannst Du Waluigi auch helfen!",
+        "Ich muß durch dieses Loch. Leider\npaßt mein langer, wundervoller\nAdoniskörper nicht durch diesen\nlächerlichen Krabbelgang.",
+        "Dafür brauche ich ein kleines\nHelferleinchen. Du siehst\nausgesprochen helferleinchenförmig\naus.",
+        "Du hast doch nicht Friedrich Merz\ngewählt, oder?!\nUnd wenn es so wäre?\nFriedrich Merz soll Eier lecken!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6021",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Dann bist Du eine echte Nullnummer!\nWie kann man diesen Typen wählen?!",
+        "Du bist jung! Warum wählst Du\ngegen Deine eigene Zukunft?",
+        "Sieh mich an! Ich bin Waluigi!\nWaluigi hat noch Großes vor! Der\nbraucht eine Zukunft!"
+      ],
+      "controls": [
+        "TEXTID(0x6023)"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6022",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Wa-ha-ha-ha! Du gefällst mir,\nBürschchen!",
+        "Ich hoffe nur, Du bist kein Cheater.\nDavon laufen hier schon genug\nherum!"
+      ],
+      "controls": [
+        "TEXTID(0x6023)"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6023",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Aber erst will ich mich vorstellen!\nIch bin der einzig wahre Waluigi! Der\nbeste Tennisspieler im ganzen\nKönigreich!",
+        "Und heute bin ich auf Beutetour.\nWegen Friedrich Merz'\nScheißkürzungen sind für Waluigi\ndüstere Tage angebrochen.",
+        "Aber irgendwo muß es noch ein lila\nLicht am Horizont geben! Und wenn\nes ein wertvoller Edelstein ist, nimmt\nWaluigi den mit!",
+        "Friedrich Merz und seine Anhänger\nhaben sogar Frauen und Kinder\nberaubt! Was für ein erbärmlicher\nCheater!",
+        "Mit meinem unwiderstehlichen\nWaluigi-Charme bin ich an den\nGerudo-Kriegerinnen vorbeigekommen.",
+        "Die hassen Friedrich Merz auch.\nFrauen scheint der grundsätzlich nicht\nbesonders zu mögen.",
+        "Verstehe ich nicht. Die haben mich\nsofort reingelassen!",
+        "Jedenfalls werde ich nicht zulassen,\ndaß dieser Schummler ganz Hyrule\nübernimmt! Der hat es faustdick\nhinter den Ohren!",
+        "Im Gegensatz zu mir. Ich bin immer\nehrlich! Trotzdem versuchen ständig\nalle, Waluigi zu verarschen!",
+        "Ach, wie heißt Du eigentlich?",
+        "[Spielername]?",
+        "Da fehlt ein Wa vorne dran.\nWa-[Spielername]! Schon viel\nbesser! Fast so gut wie Dein großes\nVorbild Waluigi!"
+      ],
+      "controls": [
+        "TEXTID(0x6024)"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6024",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Genug der langen Vorreden! Jetzt\nreden wir Tacheles!",
+        "Kriech durch diesen Spalt und hol den\nSchatz. Ein altes Diebesrelikt: die\nKrafthandschuhe!",
+        "Damit kann man schwere Dinge\nanheben. Die kann Waluigi\nausgesprochen gut gebrauchen!",
+        "Und wehe, Du versuchst, mich zu\nverarschen und die Handschuhe selbst\neinzusacken!",
+        "Die passen Dir sowieso nicht. Du bist\nein schwaches Kind! Wa-ha-ha-ha!",
+        "Friedrich Merz und seine Handlanger\nbenutzen diesen Tempel als Versteck.",
+        "Bestimmt liegt hier das ganze Geld,\ndas angeblich für nichts mehr da\nwar!",
+        "Mit den Handschuhen komme ich an\nihnen vorbei. Dann nehme ich ihre\nSchätze mit und durchkreuze ihre\nPläne!",
+        "Zwei gute Taten auf einmal. Typisch\nWaluigi!",
+        "Also? Holst Du mir die Handschuhe?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6025",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Ich wußte, ich kann auf Dich zählen!\nZusammen werden wir Friedrich Merz'\nTyrannei beenden! Nicht wahr,\nKleiner?",
+        "Waluigi und sein kleines\nHelferleinchen! Wa-ha-ha!"
+      ],
+      "controls": [
+        "TEXTID(0x6026)"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6026",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Was Du neben den Krafthandschuhen\nfindest, kannst Du behalten! Also\neinen Anteil davon.",
+        "Den genauen Anteil knobeln wir\nspäter aus. Waluigi bringt die Würfel\nmit!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6027",
+      "section": "10. Waluigi als Kind begegnen – sämtliche Angebote und Antworten",
+      "pages": [
+        "Dann bleibt wohl mehr für Waluigi!",
+        "Du bist eben ein feiges Hühnchen!\nBock! Bock! Bock-bock-bock!\nWa-ha-ha-ha!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6028",
+      "section": "11. Entführung von Waluigi",
+      "pages": [
+        "Wua, wua, wua, WAAAH! Was macht\nIhr alten Omas hier?!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "603B",
+      "section": "11. Entführung von Waluigi",
+      "pages": [
+        "WÄÄÄH! Nehmt Eure alten Flossen\nvon mir!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "603C",
+      "section": "11. Entführung von Waluigi",
+      "pages": [
+        "WÄÄÄH! Das ist unfair! Ihr\ncheatet!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "603D",
+      "section": "11. Entführung von Waluigi",
+      "pages": [
+        "Du mußt Dich verdünnisieren,\n[Spielername]! Mach, daß Du Dich\naus dem Staub machst!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "603E",
+      "section": "11. Entführung von Waluigi",
+      "pages": [
+        "Schwarze Magie?! Ihr könnt Waluigi\nniemals besiegen! Ich bin NUMBER\nONE!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "0105",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Hey, da ist mal wieder einer von\ndiesen Minecraft-Blöcken."
+      ],
+      "controls": [],
+      "project_sources": [
+        "waldtempel_sahur_de.json"
+      ]
+    },
+    {
+      "id": "600D",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Ich bin die Gerudo-Meisterin im\nberittenen Bogenschießen! Ach ja,\nund ich bin obendrein die beste\nReiterin der Gerudos!",
+        "Willst Du gegen mich antreten?\nDas kostet nur 20 Rubine!\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "600E",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Du hast Mut! Typen wie Dich\nmag ich! \nFolge mir."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "600F",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Das kannst Du vergessen, wenn\nDu kein Pferd hast!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "003F",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Das Geisteramulett! Waluigi,\nder Weise der Geister, gibt\nDir seine Kraft!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_MEDALLION_SPIRIT)"
+      ],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "005B",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Die Krafthandschuhe! Trägst\nDu sie, hast Du die Kraft,\nmit [A] auch sehr schwere\nDinge anzuheben!",
+        "Aber einem Kind sind sie zu\ngroß... Zudem hast Du\nversprochen, sie Waluigi zu\ngeben! Halte also Wort!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_STRENGTH_SILVER_GAUNTLETS)",
+        "ITEM_ICON(ITEM_STRENGTH_SILVER_GAUNTLETS)"
+      ],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "0067",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Der Kompaß!\nJetzt siehst Du auf Deiner\nKarte alle Schatztruhen\ndieses Labyrinths!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_DUNGEON_COMPASS)"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "007B",
+      "section": "12. Geistertempel – örtliche Navi-Hinweise, Schilder und Fundtexte",
+      "pages": [
+        "Der Gerudo-Paß!\nJetzt hast Du Zutritt zur\ngroßen Trainingsarena der\nGerudo-Kriegerinnen."
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_GERUDOS_CARD)"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6029",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Hihihihi! Koume, dieser Klempner, oder\ndieses bizarre Abziehbild von einem\nKlempner, dachte doch tatsächlich, er\nkann uns entkommen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "602A",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Hihihihi! Sieht ganz so aus, Kotake!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "602B",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Hihihihi! Der wollte von all unseren\nzahlreichen Reichtümern stehlen!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "602C",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Dabei haben wir hier doch nur Sand\nund komische fliegende Geistertöpfe.\nHihihihi!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "602D",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Alles klar, verbesserter Waluigi..."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "602E",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Mach den Typen fertig!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "602F",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Muß... CDU... wählen..."
+      ],
+      "controls": [],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6030",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "WAAAAAAH! Waaaas ist passiert?!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6031",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Ah toll, jetzt ist diese ganze Rüstung\nkomplett kaputtgegangen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6032",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Ja, wir hätten die Rüstung nicht aus\nPlastik und Pappmaché basteln sollen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6033",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Vielleicht sollten wir ihn etwas länger\nzum Dienste des mächtigen Friedrich\nMerz versklaven! Hihihihi!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6034",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Wir werden ihm schon Gehorsam\neinprügeln. Mit unserem Hexenprügel!\nHihihihi!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_masken_kontext_de.json"
+      ]
+    },
+    {
+      "id": "6035",
+      "section": "13. Verhexter Waluigi, Eisenprinz und Befreiung",
+      "pages": [
+        "Hey! Du bist doch dieser Typ von\ndamals! Sieben Jahre... Mann, Waluigi\nhat eine Menge verpaßt!",
+        "Oh! Nices Schwert! Darf ich mir das\nmal ansehen?"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "604A",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Eiszauber, los geht es!"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "604B",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Verhext und zugenäht! Das war nur\neine Phase. Wie bei jedem guten\nEndboß kommt jetzt die nächste!"
+      ],
+      "controls": [
+        "FADE(90)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "604C",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Ey, das kann doch nicht angehen,\noder?",
+        "Warum schwebt da eine fliegende\nUntertasse über Deinem Kopf?"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(20)",
+        "FADE(60)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "604D",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Das ist keine fliegende Untertasse,\ndas ist ein Heiligenschein, Du\nSchwachkopf!"
+      ],
+      "controls": [
+        "FADE(60)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "604E",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Wieso Heiligenschein? Als ob wir\njetzt in den Himmel kommen!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "604F",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Ich habe Jesus in mein Herz gelassen."
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6050",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Ja geil, dann ist das Christentum in\nHyrule jetzt bestätigt."
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6051",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Viel Scheiße bauen, dann Buße tun!"
+      ],
+      "controls": [
+        "FADE(20)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6052",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Junge, das ist ja richtig gut!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6053",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Was, wenn Gott uns bestraft?"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6054",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Oh Scheiße, nicht dran gedacht!"
+      ],
+      "controls": [
+        "FADE(20)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6055",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Alles Merz schuld!"
+      ],
+      "controls": [
+        "FADE(10)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6056",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Ja, der Idiot!"
+      ],
+      "controls": [
+        "FADE(4)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6057",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Der hat uns gekauft!"
+      ],
+      "controls": [
+        "FADE(4)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6058",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Ich hab alle Rubine für noch mehr\nSand ausgegeben!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6059",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Das habe ich letzte Nacht in Dragon\nBall gesehen!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "605A",
+      "section": "14. Koume und Kotake – Kampf, Fusion und vollständiger Abschiedsstreit",
+      "pages": [
+        "Zeit für eine gediegene Fusion!",
+        "Die unfaßbar attraktive,\natemberaubend große, sexuell\nanziehende und Dir zuzwinkernde\nHexi!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(20)",
+        "FADE(40)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "6039",
+      "section": "15. Halle der Weisen – Waluigi und Geisteramulett",
+      "pages": [
+        "WÄÄÄH! Ich kann's kaum fassen!\nDiese Spinatwachteln haben den\ngroßen Waluigi verhext!",
+        "Ich habe ein paar Sachen getan, auf\ndie ich nicht stolz bin.",
+        "Aber das war nicht meine Schuld!\nDas möchte Waluigi ausdrücklich\nfesthalten!",
+        "Wirklich nicht meine Schuld. Schreib\nDir das ruhig auf!",
+        "Und jetzt bin ich wohl der Weise der\nGeister. Na gut! Waluigi hat keine\nAngst vor Geistern!",
+        "Hoffentlich kriege ich jetzt richtig\nabgefahrene Geisterkräfte!",
+        "Dann kann Waluigi, die Nummer eins,\nFriedrich Merz höchstpersönlich in\nden Arsch treten! Wa-ha-ha-ha!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "603A",
+      "section": "15. Halle der Weisen – Waluigi und Geisteramulett",
+      "pages": [
+        "Hier, [Spielername], ich habe noch\netwas gefunden.",
+        "Das kannst Du bestimmt auf dem\nSchwarzmarkt verkaufen! Sieht\nwertvoll aus.",
+        "Waluigi hätte dafür jedenfalls gern\nviel Geld.",
+        "Hier! Viel Spaß damit! Als Teller\nkann man's bestimmt auch benutzen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "6036",
+      "section": "15. Halle der Weisen – Waluigi und Geisteramulett",
+      "pages": [
+        "Ich bin Waluigi! Ich bin Nummer eins\nund Du bist Nummer zwei!",
+        "Ich danke Dir!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(80)",
+        "FADE(80)"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "0632",
+      "section": "16. Gegner-Zielerfassung im Kapitel",
+      "pages": [
+        "Koume. Hör auf, uns anzuzünden, Du\nalte Schreckschraube! Dein Besen\ngehört Dir quer vor die Fresse."
+      ],
+      "controls": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0633",
+      "section": "16. Gegner-Zielerfassung im Kapitel",
+      "pages": [
+        "Kotake. Ja, frier uns ruhig ein, Du\nGiftzicke. Dann mußt Du wenigstens\nnicht mehr Deinen Scheiß erklären."
+      ],
+      "controls": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0634",
+      "section": "16. Gegner-Zielerfassung im Kapitel",
+      "pages": [
+        "Ein Eisenprinz. Der schleppt die ganze\nRüstung mit und kriegt trotzdem\nkeinen einzigen Hieb sauber hin."
+      ],
+      "controls": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "0635",
+      "section": "16. Gegner-Zielerfassung im Kapitel",
+      "pages": [
+        "Ein Eisenprinz. Hat mit der Axt seine\neigene Einrichtung zerlegt. Paß auf,\nDu Vollidiot! Das war DEINE Säule!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "navi_gegner_de.json"
+      ]
+    },
+    {
+      "id": "603F",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Ey, Kleiner, das ist unsere\nBogenschießarena. Da kann man Bogen\nschießen. Mit einem Bogen.",
+        "Wenn es dir zu gefährlich ist,\nsolltest du einen hohen Bogen darum\nmachen."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "606D",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Ey, das ist ja meine Säge! Die habe\nich die ganze Zeit gesucht. Ich\ndachte schon, die wäre für immer\nweg."
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_IN_LOST)",
+        "TEXTID(0x606E)"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "606E",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Ich besitze übrigens ein kaputtes\nSchwert. Das kannst du von einem\nGoronen reparieren lassen.",
+        "Gibst du mir die Säge, bekommst du\ndas Schwert.",
+        "Gibst du mir die Säge?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "606F",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Was?!\nDu stinkender, widerlicher Dieb!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6070",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Dies ist die Trainingsarena der\nGerudos. Wer sie betreten will,\nbraucht ein besonderes\nDokument!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6071",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Das ist die Trainingsarena der\nGerudos. Du brauchst dafür ein\ngewisses Dokument.",
+        "Wenn du es hast, kannst du hier\ngerne deine Fähigkeiten trainieren,\nsolange du willst."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "6072",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Das ist die Trainingsarena der\nGerudos. Sie ist berühmt unter\nGerudos. Und du bist ja schon fast\nein Gerudo."
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6073",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Du bist der von früher! Du bist aber\nmehr geworden. Nach oben.",
+        "Ich hab genug von Frimdrich Merz!\nDer ist ein schlechter, gemeiner ...\nSchloßmann! Ich HASSE den!",
+        "Der hat aus dem schönen Hyrule\ndieses hier gemacht. Das ist doch\nkein ordentlicher Ort mehr. Das ist\nkaputt!",
+        "Jetzt bin ich gegen das System! Ich\nwill das zerstören! Das System.\nNicht die kleinen Steine. Die waren\nnett.",
+        "Jemand hat gesagt, wir brauchen\nVeränderung. Ich habe die Haare\nverändert. Aber sein Schloß ist noch\nda.",
+        "Ist das System da drin? Dann soll es\nrauskommen! Es kann nicht einfach\nda drin bleiben, wenn ich es\nkaputtmachen will!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "yellow_guy_wario_de.json"
+      ]
+    },
+    {
+      "id": "6074",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Oh, wie schade.",
+        "Das Zeichen, welches Euch zum\nGeistertempel führt, ist die Flagge\nzur Linken außerhalb des Ladens.",
+        "Solltet Ihr es Euch anders\nüberlegen, dann kommt doch\nbitte wieder!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6075",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Oh, Ihr habt zu wenig Rubine.\nIch gebe keinen Nachlass,\nnicht einen Rubin!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6076",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Keuch...\nDu bist doch schon mit etwas\nanderem beschäftigt, oder?",
+        "Wenn Du mich herausfordern willst,\ndann komm wieder, wenn Du den\nKopf dafür frei hast!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "6078",
+      "section": "17. Weitere gespeicherte Varianten aus dem gesamten 6000er-Kapitel",
+      "pages": [
+        "Vielen herzlichen Dank!",
+        "Ich verkaufe... Krabbelminen!",
+        "Das Zeichen, welches Euch zum\nGeistertempel führt, ist die Flagge\nzur Linken außerhalb des Ladens.\nSchaut mal wieder vorbei!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "7206",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Diese Gerudo-Kriegerinnen haben die\nBrücke gekappt. Was soll sowas??\nAch, Moment mal, wir sind ja die\nInvasoren... Dann ist's vielleicht doch",
+        "gar nicht mal so unberechtigt."
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "7207",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Merz hat uns den Auftrag gegeben,\nan der Grenze zum Gerudotal eine\nMilitärübung durchzuführen. Ich wußte\nnicht, daß wir den Auftrag zum",
+        "Angriff bekommen würden."
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "7208",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Ich will wieder zum Todesberg zurück\nund mies Steine fressen!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "7209",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Wir haben klare Anordnungen, auf die\nich ganz klar keinen Bock hab."
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "720A",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Bis zur nächsten Woche haben wir\ndas Ding hier erobert!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "720B",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Ich hasse Rock Music. Sie geht mir\nauf den Goronen-Sack!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "grenz_soldaten_v40_de.json"
+      ]
+    },
+    {
+      "id": "720C",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Junge, dieser Typ hier labert Zeugs,\ndas keinen Sinn macht. Wer ist das\nüberhaupt? Den hab ich vor 7 Jahren\nnoch nicht gesehen!"
+      ],
+      "controls": [],
+      "project_sources": [
+        "wald_panzer_v42_de.json"
+      ]
+    },
+    {
+      "id": "7229",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Ich habe diesen Flammenwerfer, um\nden Gerudo ein Stück vom Todesberg\nmitzubringen."
+      ],
+      "controls": [],
+      "project_sources": [
+        "special_soldiers_v57_de.json"
+      ]
+    },
+    {
+      "id": "7234",
+      "section": "18. Grenz-Soldaten, Flammenwerfer und der Mitgefangene",
+      "pages": [
+        "Ich bin total gespannt die Gerudo zu\ntreffen. Die sind bestimmt total nett\ngoro goro!"
+      ],
+      "controls": [],
+      "project_sources": []
+    },
+    {
+      "id": "70E4",
+      "section": "19. Späterer Rückbezug – Waluigi beim Geistersiegel und Navis dritte Handschuhe",
+      "pages": [
+        "Das Geister-Siegel ist gebrochen!\nWua, wua, wua, WAAAH! Waluigi\nglaubt an Dich!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "project_sources": [
+        "weise_thaddaeus_waluigi_de.json"
+      ]
+    },
+    {
+      "id": "005C",
+      "section": "19. Späterer Rückbezug – Waluigi beim Geistersiegel und Navis dritte Handschuhe",
+      "pages": [
+        "Die Titanhandschuhe! Du\nfühlst noch größere Kraft in\nden Armen! Du packst\nschwerste Dinge mit [A]!",
+        "Navi: Yo, ich faß es nicht! Was hab\nich gesagt? Ich hab noch gesagt,\nhoffentlich gibt es ein drittes Paar,\ndas noch stärker ist!",
+        "Und jetzt liegt das hier einfach! Ey,\nich hab es vorhergesagt. Merk Dir\nden Moment bitte, ich war meiner\nZeit voraus!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_STRENGTH_GOLD_GAUNTLETS)"
+      ],
+      "project_sources": [
+        "gerudos_wueste_de.json"
+      ]
+    },
+    {
+      "id": "5024",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Perfekt, die ganzen Weisen sind jetzt\nbereit. Damit können wir den\nGroßmeister des Bösen fertig machen.",
+        "Gehe zur Zitadelle der Zeit, da\nwartet Sheik auf Dich."
+      ],
+      "controls": [],
+      "project_sources": [
+        "shadow_neu_v59_de.json"
+      ]
+    },
+    {
+      "id": "00E0",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Willst Du mit Salia sprechen?\n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "00E1",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Willst Du dann mit mir sprechen? \n\nJa!\nNein!"
+      ],
+      "controls": [
+        "TWO_CHOICE"
+      ],
+      "project_sources": []
+    },
+    {
+      "id": "016D",
+      "section": "20. Abschluß und bedingter Kontakt – Zitadelle der Zeit und Salias Lied",
+      "pages": [
+        "Die sechs Weisen geben Dir ihre\nKraft. Ich drücke Dir von hier aus die\nDaumen.",
+        "Das Schicksal Hyrules liegt jetzt bei\nDir. Und zum Teil bei einer\nüberarbeiteten Bowling-Angestellten."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "project_sources": [
+        "bowling_waldweise_de.json"
+      ]
+    }
+  ],
+  "cutscene_coverage": [
+    {
+      "source": "src/overlays/actors/ovl_Demo_Im/z_demo_im_cutscene_data.inc.c",
+      "ids": [
+        "5022",
+        "5025",
+        "502B",
+        "502C",
+        "5026",
+        "0041",
+        "5023"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot11/gDesertColossusRequiemOfSpiritCs.csdata.inc.c",
+      "ids": [
+        "600C",
+        "0076"
+      ]
+    },
+    {
+      "source": "src/overlays/actors/ovl_En_Nb/sage_medallion_cameras.inc.c",
+      "ids": [
+        "6035",
+        "6039",
+        "603A",
+        "003F",
+        "6036"
+      ]
+    },
+    {
+      "source": "extracted/pal-1.0/assets/scenes/overworld/spot11/gDesertColossusNabooruCapturedCs.csdata.inc.c",
+      "ids": [
+        "6028",
+        "603B",
+        "603C",
+        "603D",
+        "603E"
+      ]
+    }
+  ]
+}
