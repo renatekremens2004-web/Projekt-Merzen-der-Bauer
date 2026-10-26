@@ -1,0 +1,834 @@
+[
+  {
+    "section": "01. Wachen – Hyrule-Stadt, Stadteingang und Wachstube",
+    "id": "7002",
+    "pages": [
+      "Der Mond sieht ganz normal aus wie\nimmer. In drei Tagen wird hier\nwahrscheinlich alles beim alten sein.\nZum Glück!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "01. Wachen – Hyrule-Stadt, Stadteingang und Wachstube",
+    "id": "7003",
+    "pages": [
+      "Ich beschütze Hyrule und das...",
+      "Nachts."
+    ],
+    "controls": []
+  },
+  {
+    "section": "01. Wachen – Hyrule-Stadt, Stadteingang und Wachstube",
+    "id": "7004",
+    "pages": [
+      "Wenn etwas kaputtgeht, finde ich das\nimmer mega witzig. Wirklich immer.",
+      "Krug fällt runter? Lustig. Stuhl bricht\nzusammen? Meisterwerk.",
+      "Das ist mein gesamter Humor. Es\ngibt keine zweite Ebene. Ich bin\nvollkommen zufrieden.",
+      "[A] hebt den Krug. Nochmal [A] wirft\nihn. Und dann kommt die Pointe: Der\nKrug ist kaputt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "01. Wachen – Hyrule-Stadt, Stadteingang und Wachstube",
+    "id": "709A",
+    "pages": [
+      "Nachts ist es hier still. Leider geht\ndabei viel zu wenig kaputt.",
+      "Die Kollegen sagen, mein Humor sei\neindimensional. Ich sage: KRRRACH!",
+      "Siehst Du? Schon wieder lustig.\nGroßartiges Gespräch."
+    ],
+    "controls": []
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7029",
+    "pages": [
+      "Also Du sagst, Du willst \nPrinzessin Zelda sehen, wie?",
+      "Du hast bestimmt im Ort von ihr\ngehört und willst sie jetzt\nunbedingt kennenlernen... Nun...",
+      "Geh heim! Verschwinde!\nEinem wie Dir würde die Prinzessin\nniemals Audienz gewähren!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7071",
+    "pages": [
+      "Möchtest Du unbedingt durch\ndieses Tor gehen? Nun, dann\nverlange ich eine Gegenleistung...\nSagen wir..."
+    ],
+    "controls": [
+      "TEXTID(0x7072)"
+    ]
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7072",
+    "pages": [
+      "Gib mir 10 Rubine!\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7097",
+    "pages": [
+      "Das scheint für ein Kind\nein zu hoher Preis zu sein."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7096",
+    "pages": [
+      "Tss... tss..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7098",
+    "pages": [
+      "Nun gut, ich lasse Dich passieren!\nSchnell!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7099",
+    "pages": [
+      "ERZÄHL DAS BLOSS \nNIEMANDEM!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "02. Wache am Tor zum Schloss – Abweisen, Bestechung und Durchlassen",
+    "id": "7006",
+    "pages": [
+      "Der Mond sieht ganz normal aus wie\nimmer. In drei Tagen wird hier\nwahrscheinlich alles beim alten sein.\nZum Glück!",
+      "Im Schloß herrscht gerade Unruhe.\nDeshalb darf niemand hinein. Auch bei\nvöllig normalem Mond."
+    ],
+    "controls": []
+  },
+  {
+    "section": "03. Schlosswachen – Erwischtwerden im Schlossgelände und Garten",
+    "id": "702D",
+    "pages": [
+      "Hey, Kleiner! Halt!\nStehenbleiben! Im Namen des Königs!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "702E",
+    "pages": [
+      "Oh, nanu?"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "702F",
+    "pages": [
+      "Wer bist Du? Wie hast Du es\ngeschafft, an den Wachen\nvorbeizukommen? Das braucht\nmeistens mehrere Versuche."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "70F9",
+    "pages": [
+      "Oh? Was ist das?",
+      "Das ist..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "70FA",
+    "pages": [
+      "Eine Fee?!",
+      "Dann... Dann kommst Du...\nKommst Du aus dem Wald?"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "70FB",
+    "pages": [
+      "Du... Du hast nicht auch\nzufällig... den Heiligen Stein des \nWaldes, oder? Ich meine diesen\nfunkelnden, grünen Stein..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "7030",
+    "pages": [
+      "Nun, hast Du ihn dabei? \n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "7032",
+    "pages": [
+      "Wie ich mir dachte!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Zelda als Kind – Erstes Erschrecken, Fee und Waldstein",
+    "id": "7031",
+    "pages": [
+      "Ich hatte einen Albtraum, und Du\nkamst darin vor."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "70FC",
+    "pages": [
+      "Ich hatte einen Traum...\nDarin überzogen dunkle Wolken\nunser Land Hyrule...",
+      "Doch plötzlich... durchschnitt ein\nStrahl hellen Lichts diese Wolken...\nEr kam aus dem Wald, und ganz\nHyrule erstrahlte in seinem Glanz!",
+      "Das Licht verwandelte sich in\neinen Jungen, der einen glitzernden,\ngrünen Stein in den Händen hielt.\nIhn begleitete eine Fee..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "70FD",
+    "pages": [
+      "Ich weiß, es war eine\nProphezeiung, daß jemand aus den\nTiefen des Waldes kommen würde...",
+      "Ich dachte, Du wärst es..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "70FE",
+    "pages": [
+      "Oh! Tut mir leid!",
+      "Ich habe mich ein bißchen\nmitreißen lassen von meiner\nGeschichte und mich gar nicht\nstandesgemäß vorgestellt!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "70FF",
+    "pages": [
+      "Ich bin Zelda, Prinzessin von Hyrule."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "2073",
+    "pages": [
+      "Wie lautet Dein Name?"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "2074",
+    "pages": [
+      "Ich fühle etwas...",
+      "[Spielername]...",
+      "Seltsam... Er kommt mir so... \nvertraut vor."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "2075",
+    "pages": [
+      "So sei es, [Spielername]...",
+      "Ich werde Dich nun in das\nGeheimnis des Heiligen Reiches\neinweihen, das seit Generationen\nvon meiner Familie gehütet wird."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "7033",
+    "pages": [
+      "Du wirst das doch\nnicht weitererzählen?\nOkay!\nDoch!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "05. Zelda – Traum, Prophezeiung und Vorstellung",
+    "id": "7034",
+    "pages": [
+      "Also das hätte ich von Dir\nnicht gedacht!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "06. Zelda – Triforce, Heiliges Reich und Zeitportal",
+    "id": "7035",
+    "pages": [
+      "Dies ist die Legende..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "06. Zelda – Triforce, Heiliges Reich und Zeitportal",
+    "id": "7036",
+    "pages": [
+      "Das Triforce vereinte die Kraft\nder drei Göttinnen. Sie verbargen\nes an einem Ort in Hyrule.",
+      "Das Triforce ist eine\nWunscherfüllmaschine. Wer es hat,\nkann sich alles wünschen!",
+      "Ein rechtschaffenes Herz würde\nHyrule in goldene Zeiten voller\nReichtum und Frieden führen...",
+      "Würden Wünsche eines Menschen\nmit niederer Gesinnung erfüllt,\nso verschlänge das Böse die Welt!",
+      "Daher errichteten die Weisen die\nZitadelle der Zeit, um das Triforce\nvor bösen Mächten zu bewahren."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(80)",
+      "BOX_BREAK_DELAYED(80)",
+      "BOX_BREAK_DELAYED(60)",
+      "BOX_BREAK_DELAYED(80)",
+      "FADE(90)"
+    ]
+  },
+  {
+    "section": "06. Zelda – Triforce, Heiliges Reich und Zeitportal",
+    "id": "7037",
+    "pages": [
+      "Die Zitadelle der Zeit ist\nin unserer Welt der Zugang zum\nHeiligen Reich.",
+      "Doch dieser Zugang ist versiegelt\ndurch eine steinerne Mauer, die\nman Zeitportal nennt.",
+      "Es heißt, man brauche die drei\nHeiligen Steine, um den Zugang\nzu öffnen.",
+      "Und noch etwas... Nämlich ein\nuraltes Relikt, das im Besitz der\nKönigsfamilie von Hyrule ist..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "06. Zelda – Triforce, Heiliges Reich und Zeitportal",
+    "id": "2076",
+    "pages": [
+      "Die Okarina der Zeit!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "06. Zelda – Triforce, Heiliges Reich und Zeitportal",
+    "id": "2077",
+    "pages": [
+      "Hast Du die Geschichte, die ich\nDir anvertraute, verstanden?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "06. Zelda – Triforce, Heiliges Reich und Zeitportal",
+    "id": "7005",
+    "pages": [
+      "Großartig!",
+      "Das habe ich ganz vergessen..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "06. Zelda – Triforce, Heiliges Reich und Zeitportal",
+    "id": "7038",
+    "pages": [
+      "Ist das Dein Ernst? Jetzt muß ich\ndie ganze Geschichte nochmal\nwiederholen."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "2078",
+    "pages": [
+      "Ich habe gerade durch dieses Fenster\ngeschaut.",
+      "Die dunklen Wolken aus meinem\nTraum scheinen diesen Mann zu\nmeinen...",
+      "Möchtest Du ihn Dir ansehen?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "700B",
+    "pages": [
+      "Bitte! Wenn Du Dich nicht beeilst,\nwird er fort sein!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "7039",
+    "pages": [
+      "Was machst Du da?",
+      "Das war viel zu offensichtlich.",
+      "Toll, jetzt hat er uns gesehen. Große\nKlasse."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "2079",
+    "pages": [
+      "Dieser Mann ist das pure Böse, und\ncharmant ist er auch nicht. Doch\nmein Vater ist alt, und deswegen\nfällt er auf ihn rein.",
+      "Vater meint, ein Mann mit\nWirtschaftserfahrung werde uns\nschon helfen.",
+      "Merz redet gegen die Viertagewoche.\nFür erschöpfte Menschen hat er vor\nallem noch mehr Arbeit übrig.",
+      "Das ist keine Zukunft, die ich mir für\nHyrule wünsche. Und hinter seinen\nVersprechen steckt noch etwas\nSchlimmeres."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "207A",
+    "pages": [
+      "Merz will das Triforce des Heiligen\nReiches.",
+      "Steuersenkungen für Firmen genügen\nihm offenbar nicht. Er will, daß\nniemand seiner Macht Grenzen setzt.",
+      "Mit dem Triforce könnte er ganz\nHyrule unterwerfen. Dann bliebe vom\nversprochenen Wohlstand nur sein\neigener."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "207B",
+    "pages": [
+      "[Spielername], wir müssen Merz\naufhalten! Niemand sonst glaubt mir,\nwie gefährlich sein Plan ist."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "703A",
+    "pages": [
+      "Bitte!\n\nJa!\nIch glaube kein Wort!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "7073",
+    "pages": [
+      "Bitte glaube mir...\nMeine Prophezeiungen waren\nniemals falsch!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "07. Zelda – Blick durchs Fenster auf Friedrich Merz und den König",
+    "id": "703B",
+    "pages": [
+      "Ich danke Dir!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "08. Zelda – Auftrag und Brief",
+    "id": "7123",
+    "pages": [
+      "Ich... Ich habe Angst...\nGroße Angst, daß dieser Mann \nHyrule den Untergang bringt.",
+      "Er besitzt übermenschliche Kräfte!",
+      "Doch nun, da Du hier bist, wird \nalles gut..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "08. Zelda – Auftrag und Brief",
+    "id": "207C",
+    "pages": [
+      "Merz darf das Triforce nicht\nbekommen!",
+      "Ich beschütze die Okarina der Zeit.\nOhne sie kann er das Zeitportal nicht\nöffnen.",
+      "Bitte finde die beiden übrigen Heiligen\nSteine. Zusammen sind die drei Steine\nder Schlüssel.",
+      "Dann können wir das Triforce vor ihm\nerreichen und seine Herrschaft\nverhindern!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "08. Zelda – Auftrag und Brief",
+    "id": "207D",
+    "pages": [
+      "Eines noch...\nNimm diesen Brief an Dich.\nIch bin sicher, Du wirst ihn \nbrauchen können..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "08. Zelda – Auftrag und Brief",
+    "id": "0069",
+    "pages": [
+      "Das ist Zeldas Brief!\nEr trägt Prinzessin Zeldas\nUnterschrift!",
+      "Im Gegenstands-Menü kannst\nDu ihn auf [C-Left], [C-Down] oder [C-Right]\nplazieren. Benutze [C], um ihn\njemandem zu zeigen."
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_ZELDAS_LETTER)",
+      "ITEM_ICON(ITEM_ZELDAS_LETTER)"
+    ]
+  },
+  {
+    "section": "09. Zelda – Erneutes Ansprechen im Schlossgarten",
+    "id": "703C",
+    "pages": [
+      "Mein Vertrauter Mr. Bean führt Dich\nhinaus. Du kannst ihm völlig\nvertrauen. Sprich mit ihm."
+    ],
+    "controls": []
+  },
+  {
+    "section": "09. Zelda – Erneutes Ansprechen im Schlossgarten",
+    "id": "703D",
+    "pages": [
+      "Der Heilige Stein...\nDu hast ihn gefunden!",
+      "Wesen, deren Volk einen Heiligen\nStein besitzt, vertrauen sich nur\ndem an, der eine Melodie aus dem\nErbe unserer Familie kennt.",
+      "Doch das wußtest Du bereits,\nnicht wahr?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "10. Wache am Schlossfenster – Reaktion auf Ärger im Garten",
+    "id": "708F",
+    "pages": [
+      "Hey, Du! Mach keinen Ärger!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "11. Später als Kind – Verwundete Wache nach Zeldas Flucht",
+    "id": "7007",
+    "pages": [
+      "Du... aus dem Wald... hör mir zu. Das\nist unfaßbar peinlich.",
+      "Merz ist hinter Zelda und Mr. Bean\nher. Ich wollte ihn verfolgen.",
+      "Dann bin ich gestolpert. Einfach so.\nÜber meine eigenen Füße.",
+      "Mit dem Schädel zuerst auf den\nAsphalt. Ich habe es richtig krachen\ngehört.",
+      "Schreib bitte... ich sei im Dienst\ngefallen. Das klingt... würdevoller..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "11. Später als Kind – Verwundete Wache nach Zeldas Flucht",
+    "id": "7008",
+    "pages": [
+      "Er rührt sich nicht mehr... Scheiße."
+    ],
+    "controls": []
+  },
+  {
+    "section": "12. Später als Kind – Zeldas telepathische Nachricht",
+    "id": "2005",
+    "pages": [
+      "[Spielername], hörst Du mich? Ich\nbenutze meine Telepathie-Superkräfte."
+    ],
+    "controls": [
+      "FADE(60)"
+    ]
+  },
+  {
+    "section": "12. Später als Kind – Zeldas telepathische Nachricht",
+    "id": "2008",
+    "pages": [
+      "[Spielername], hör zu. Mr. Bean\nweiß, was er tut.",
+      "Ich vertraue ihm voll und ganz.",
+      "Er wird mich retten. Du mußt jetzt\nschleunigst zur Zitadelle der Zeit.",
+      "Nimm die Okarina und lerne diese\nMelodie..."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(60)",
+      "BOX_BREAK_DELAYED(60)",
+      "BOX_BREAK_DELAYED(60)",
+      "FADE(60)"
+    ]
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Zelda als Kind",
+    "id": "710A",
+    "pages": [
+      "Ich dachte, Füchse hätten mehr Beine.\nIch muß unbedingt wieder ein Buch\nlesen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Zelda als Kind",
+    "id": "7114",
+    "pages": [
+      "Mario findet, das ist etwas gruselig.\nAber Du brauchst deshalb nicht\ndraußen zu warten! Komm rein!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Zelda als Kind",
+    "id": "712E",
+    "pages": [
+      "Ein Geist mit einer gemieteten\nMaske. Selbst im Jenseits kommt\nman aus diesen Verträgen nicht raus."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Zelda als Kind",
+    "id": "713A",
+    "pages": [
+      "Die Ohren sind größer als meine\nWohnung. Das ist keine Übertreibung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "7105",
+    "pages": [
+      "Luigi findet, Du hast ein sehr\nfreundliches Fuchsgesicht! Einen\nschönen Tag wünsche ich Dir!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "7111",
+    "pages": [
+      "Warum ist der Schädel außen? Ich\ndachte immer, der gehört nach innen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "7128",
+    "pages": [
+      "Du bist durchsichtig? Nein? Dann\nhaben wir das Problem schon\ngefunden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "7135",
+    "pages": [
+      "Mit so langen Ohren hörst Du\nbestimmt, wenn jemand über Dich\nlästert. Also jetzt gerade zum\nBeispiel."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "7141",
+    "pages": [
+      "Die hat doch höchstens einen Rubin\ngekostet. Nimm diesen Pappschrott\nvom Gesicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "7156",
+    "pages": [
+      "Damit darfst Du trotzdem nicht in\nmeinen Brunnen. Ich weiß nicht,\nwarum ich das überhaupt sagen muß."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "0110",
+    "pages": [
+      "Du hast hier genauso Deinen Platz\nwie alle anderen. Niemand hat Dich\ndeswegen anzupöbeln."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Wache am Schlosstor",
+    "id": "716A",
+    "pages": [
+      "Wenn Du damit Gedanken lesen\nkannst, geh bitte kurz raus. Ich\nmöchte mich in Ruhe über meinen\nChef ärgern."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "7106",
+    "pages": [
+      "Hast Du die Ohren selbst gebastelt?\nAh. Gemietet. Das war also die teure\nLösung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "7112",
+    "pages": [
+      "Damit gewinnt man bestimmt keinen\nSchönheitswettbewerb. Also hier\nvielleicht schon. Die Konkurrenz ist\nüberschaubar."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "712A",
+    "pages": [
+      "Waluigi hat keine Angst vor\nGeistern! Außer sie cheaten und\nkommen einfach durch Wände!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "7136",
+    "pages": [
+      "Mario findet die Ohren prima! Paß\nnur auf die niedrigen Türen auf. Mama\nmia!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "7142",
+    "pages": [
+      "Du kannst die Maske wieder\nabnehmen. Du mußt kein Gorone sein,\num mit uns abzuhängen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "7157",
+    "pages": [
+      "Ein Zora? Ich frage mich immer noch,\nob es auch Zora-Frauen gibt.\nVielleicht sollte ich einfach mal eine\nfragen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "0111",
+    "pages": [
+      "Du darfst so leben, wie es sich für\nDich richtig anfühlt. Ich wünsche Dir\nalles Gute dabei."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 1",
+    "id": "716B",
+    "pages": [
+      "Wissen ist Macht. Leider akzeptiert\nder Basar weiterhin nur Rubine."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "7107",
+    "pages": [
+      "Mit der Maske würde ich mich nicht\nzum Hühnerstall stellen. Die Hühner\nplanen schon etwas."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "7113",
+    "pages": [
+      "Waaah! Ein Schädel! Waluigi hat sich\nnicht erschreckt! Waluigi hat nur\nsehr laut eingeatmet!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "712B",
+    "pages": [
+      "Ein Geist! Ich dachte, Du hättest\nbloß schlecht geschlafen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "7137",
+    "pages": [
+      "Luigi freut sich, daß Du etwas\ngefunden hast, das Dir gefällt! Viel\nSpaß mit den Ohren!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "7143",
+    "pages": [
+      "Wenn Du jetzt auch noch einen Stein\nfrißt, mache ich mir Sorgen. Deine\nZähne sind dafür nicht ausgelegt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "7159",
+    "pages": [
+      "Bei den Zoras klingt die Musik\nangeblich kurz völlig bekloppt, wenn\nman die Höhle verläßt. Ist das\nAbsicht?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "0112",
+    "pages": [
+      "Wenn Dich jemand deshalb schlecht\nbehandelt, ist das nicht Deine Schuld.\nDu verdienst Respekt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang – Maskenreaktionen: Stadtwachen – Reaktionsgruppe 2",
+    "id": "716C",
+    "pages": [
+      "Dann weißt Du ja, daß ich eigentlich\ngerade arbeiten müßte. Wir behalten\ndas unter uns."
+    ],
+    "controls": []
+  }
+]
