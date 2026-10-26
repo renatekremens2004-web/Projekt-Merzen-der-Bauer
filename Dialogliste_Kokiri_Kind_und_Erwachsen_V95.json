@@ -1,0 +1,2362 @@
+[
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "102F",
+    "pages": [
+      "Halt! Seit wann marschierst Du hier\neinfach durch?",
+      "Ich bewache den Weg zum\nDeku-Baum. Einer muß hier schließlich\nwichtig sein."
+    ],
+    "controls": [
+      "TEXTID(0x10D0)"
+    ],
+    "continuations": [
+      "10D0"
+    ]
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "10D0",
+    "pages": [
+      "Eine Fee? Bei DIR? Und der\nDeku-Baum will Dich sprechen?"
+    ],
+    "controls": [
+      "TEXTID(0x10D1)"
+    ],
+    "continuations": [
+      "10D1"
+    ]
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "10D1",
+    "pages": [
+      "Das kann doch nicht sein!",
+      "Er hätte MICH rufen sollen. Ich bin\nschließlich der große Mido!",
+      "Na schön. Zeig erst mal Deine\nAusrüstung.",
+      "Ohne Schwert und Schild lasse ich\nDich nicht durch.",
+      "Ein Auftrag ersetzt keine Ausrüstung.",
+      "Daß ich selbst keine trage, hat\norganisatorische Gründe."
+    ],
+    "controls": [
+      "TEXTID(0x1030)"
+    ],
+    "continuations": [
+      "1030"
+    ]
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "1030",
+    "pages": [
+      "Rüste Dich mit dem Kokiri-Schwert\nund dem Deku-Schild aus.",
+      "Vorher geht es hier nicht weiter. Ich\nhabe gesprochen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "1033",
+    "pages": [
+      "Sind Kokiri-Schwert und Deku-Schild\nwirklich ausgerüstet? Vorher bleibe\nich hier stehen."
+    ],
+    "controls": [
+      "TEXTID(0x10D2)"
+    ],
+    "continuations": [
+      "10D2"
+    ]
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "10D2",
+    "pages": [
+      "Moment mal, Du hast DEN einen\nDeku-Schild im Laden gekauft? Den\neinzigen Schild im ganzen Wald?",
+      "Wie wurde der hier überhaupt\nhergeliefert? Wie kommt so ein\nSchild ausgerechnet in den\nKokiri-Wald?",
+      "Und das Kokiri-Schwert hast Du auch\nnoch! Das war doch extra in diesem\nLabyrinth versteckt, in dieser einen\nKiste.",
+      "Das kannst Du Dir doch nicht einfach\nnehmen! Da steht doch nicht Dein\nName drauf.",
+      "Na ja, ist ja auch egal. Ich kann da\njetzt auch nichts mehr machen."
+    ],
+    "controls": [
+      "TEXTID(0x10D3)"
+    ],
+    "continuations": [
+      "10D3"
+    ]
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "10D3",
+    "pages": [
+      "Nur damit das klar ist: Ein Schwert\nmacht aus Dir noch lange keinen\nMido."
+    ],
+    "controls": [
+      "TEXTID(0x1034)"
+    ],
+    "continuations": [
+      "1034"
+    ]
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "1034",
+    "pages": [
+      "Du darfst passieren. Aber wichtig\nbist Du deshalb noch nicht.",
+      "Erst Salia, jetzt der Deku-Baum...\nWarum trauen alle ausgerechnet Dir\netwas zu?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "1045",
+    "pages": [
+      "Du, sag mal, [Spielername]... Riecht\nes hier irgendwie nach Kompost?",
+      "Alter, was zur Hölle?! Was? Du\nhast den Deku-Baum getötet?!",
+      "What the fuck?! Als ob der\nDeku-Baum jetzt einfach hinüber ist!",
+      "Du hast den scheiß Deku-Baum\nkomplett geschrottet! Das kann doch\necht nicht wahr sein!",
+      "Ich brech zusammen. Das ist der\nschlimmste Tag in der Geschichte der\nKokiri!",
+      "Keine Ahnung, wie alt diese\nGeschichte überhaupt ist.",
+      "Wir sehen alle so aus, als wären wir\nerst sieben Jahre alt.",
+      "So, das kann doch nicht wahr sein.\nDu begegnest ein einziges Mal dem\nDeku-Baum, und danach ist das ganze\nDing komplett versaut."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "1046",
+    "pages": [
+      "Ohne den Deku-Baum... Was wird\njetzt aus uns? Ich wollte doch bloß,\ndaß alles so bleibt."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Mido",
+    "speaker": "Mido",
+    "id": "1028",
+    "pages": [
+      "Du suchst Salia? Sie ist in den\nVerlorenen Wäldern.",
+      "Wenn Du Dich verläufst, mach nicht\nmich dafür verantwortlich.",
+      "Und nun laß mich in Ruhe."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1001",
+    "pages": [
+      "He, [Spielername]! Du hast jetzt\nauch eine Fee? Das ist ja\nfeentastisch!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1002",
+    "pages": [
+      "Und der Deku-Baum will persönlich\nmit Dir quasseln? Das ist eine große\nEhre, [Spielername].",
+      "Er spricht nur sehr selten mit\njemandem. Die meisten Kokiri erleben\nso etwas ihr ganzes Leben lang nicht."
+    ],
+    "controls": [
+      "TEXTID(0x100F)"
+    ],
+    "continuations": [
+      "100F"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "100F",
+    "pages": [
+      "Das hat er mir gestern selbst\nerzählt, als wir zusammen ein bißchen\ngeplaudert haben.",
+      "Wir saßen den ganzen Nachmittag da.\nEr wollte unbedingt wissen, wie es\nDir geht, [Spielername]."
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_RT_LAUGH_0)",
+      "TEXTID(0x1010)"
+    ],
+    "continuations": [
+      "1010"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1010",
+    "pages": [
+      "Jedenfalls solltest Du ihn nicht\nwarten lassen. Wenn er Dich eigens\nruft, muß es wirklich wichtig sein.",
+      "Und wenn Mido wieder einen auf\nMacker macht, dann tritt ihm einfach\nin seine Mido-Balls."
+    ],
+    "controls": [
+      "TEXTID(0x1003)"
+    ],
+    "continuations": [
+      "1003"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1003",
+    "pages": [
+      "Du kannst mir später gerne mehr\nüber Deine Audienz beim Deku-Baum\nerzählen. Ich freue mich schon, den\nTag mit Dir zu verbringen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1031",
+    "pages": [
+      "Mido ist ein aufgeblasener Windbeutel.\nIch hasse den Typen."
+    ],
+    "controls": [
+      "TEXTID(0x10C8)"
+    ],
+    "continuations": [
+      "10C8"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10C8",
+    "pages": [
+      "Mido führt sich auf, als hätte er den\nWald persönlich gepflanzt.",
+      "Aber Schwert und Schild sind\ntrotzdem eine vernünftige Idee."
+    ],
+    "controls": [
+      "TEXTID(0x10C9)"
+    ],
+    "continuations": [
+      "10C9"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10C9",
+    "pages": [
+      "Im Wald ist etwas faul.",
+      "Such Dir besser eine Waffe, bevor Du\nder Sache nachgehst."
+    ],
+    "controls": [
+      "TEXTID(0x1032)"
+    ],
+    "continuations": [
+      "1032"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1032",
+    "pages": [
+      "Das Kokiri-Schwert liegt verborgen\nbeim Trainingslager. Den Deku-Schild\nbekommst Du im Laden."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1047",
+    "pages": [
+      "Da bist Du ja, [Spielername]."
+    ],
+    "controls": [
+      "TEXTID(0x1048)"
+    ],
+    "continuations": [
+      "1048"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1048",
+    "pages": [
+      "Egal, wohin Dein Weg führt: Du\nbleibst mein Freund. Mido muß damit\nleben."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1011",
+    "pages": [
+      "Du gehst wirklich fort?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1094",
+    "pages": [
+      "Ich habe geahnt, daß dieser Tag eines\nTages kommen wird, [Spielername].\nJeder hat mal vor, das Dorf zu\nverlassen.",
+      "Nur wir Kokiri sterben, wenn wir\ndiesen Wald verlassen. Also ich bin\nauch gerade dabei, die ganzen Sachen\nganz schön herauszufordern, daß ich",
+      "auf dieser Brücke stehe.",
+      "Wir sind ja jetzt ziemlich nah am\nAusgang in Richtung Hyrule-Feld."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1012",
+    "pages": [
+      "Ich werde Dich vermissen. Versprich\nmir, daß der Wald für Dich ein\nZuhause bleibt."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1013",
+    "pages": [
+      "Aber hier ist Deine Okarina. Ich habe\nsie aus dem Holz des Deku-Baums\ngeschnitzt, deswegen ist die magisch.",
+      "Die hat einiges drauf. Sie kann\ntheoretisch das Wetter manipulieren,\nwenn man nur den richtigen Song\nhätte."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "1014",
+    "pages": [
+      "Paß gut auf meine Okarina auf. Du\nwirst keine bessere finden. Das ist\nein Geschenk.",
+      "Also bitte schmeiß sie nicht auf\neinmal weg, nur weil Du eine bessere\nfindest."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10A8",
+    "pages": [
+      "Und so sehen wir uns wieder,\n[Spielername]! Das hier ist einer\nmeiner Lieblingsorte.",
+      "Ich meine, gut, ich kenne ja auch\nnicht so viele Orte, weil ich den\nWald noch nicht verlassen habe.",
+      "Ich habe ein magisches Lied. Damit\nkann man Menschen zum Tanzen\nbringen, welche die Blutgruppe AB\nnegativ haben.",
+      "Keine Ahnung, warum es\nausgerechnet die sein müssen, aber\nbei denen funktioniert es."
+    ],
+    "controls": [
+      "TEXTID(0x10A9)"
+    ],
+    "continuations": [
+      "10A9"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10A9",
+    "pages": [
+      "Machst Du mir die Freude und \nspielst mit mir?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10AA",
+    "pages": [
+      "Versuch, die Melodie, die ich\nspiele, nachzuspielen...\nBist Du bereit?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10AB",
+    "pages": [
+      "Was?!\nDu enttäuschst mich!\nKomm schon, spiel mir nach!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10AC",
+    "pages": [
+      "Wie wunderschön!",
+      "Du darfst dieses Lied nie \nvergessen. Versprich es!"
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_RT_LAUGH_0)",
+      "TEXTID(0x10AD)"
+    ],
+    "continuations": [
+      "10AD"
+    ]
+  },
+  {
+    "section": "Kind – Salia",
+    "speaker": "Salia",
+    "id": "10AD",
+    "pages": [
+      "Willst Du meine Stimme hören, so \nspiele Salias Lied. Du kannst \nDich jederzeit mit mir \nunterhalten..."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Fado",
+    "id": "10D7",
+    "pages": [
+      "Du hast einen wichtigen Auftrag?\nDann nimm Dir einen Augenblick.\nAuch Helden dürfen sich umsehen."
+    ],
+    "controls": [
+      "TEXTID(0x10D8)"
+    ],
+    "continuations": [
+      "10D8"
+    ]
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Fado",
+    "id": "10D8",
+    "pages": [
+      "Mit [C-Up] und [Control-Pad] kannst Du Dich\numschauen. Die Aussicht verlangt\nkeinen Eintritt."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Fado",
+    "id": "10D9",
+    "pages": [
+      "Der Deku-Baum hat mir neulich einen\necht guten Witz erzählt. Ich hoffe, er\nerzählt mir heute einen genauso\nlustigen Witz."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Fado",
+    "id": "10DA",
+    "pages": [
+      "Geh gut ausgerüstet in die\nVerlorenen Wälder. Die Bäume dort\nsind schlechte Wegweiser."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 0",
+    "id": "1004",
+    "pages": [
+      "Mit [A] hebst Du Dinge auf. Zum\nBeispiel diese Steine.",
+      "Mido hat das Wegräumen angeordnet.\nDie Anordnung war sein ganzer\nBeitrag."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 0",
+    "id": "1042",
+    "pages": [
+      "Mido ist völlig außer sich. Diesmal\nweiß ich sogar nicht, weshalb."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 0",
+    "id": "1025",
+    "pages": [
+      "Eine Feen-Schleuder! Damit kannst Du\nmehr als nur beeindruckend aussehen.",
+      "Halte [C] zum Zielen. Läßt Du los,\nschießt Du einen Deku-Kern.",
+      "Mit [Z] kannst Du beim Bewegen\nzielen und schießen. Das Gras ist\nkein Übungsgegner."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 1",
+    "id": "1005",
+    "pages": [
+      "Eine Fee! Na also, [Spielername].",
+      "Was gibt es?",
+      "Der Deku-Baum ruft Dich persönlich?",
+      "Normalerweise läßt er uns einfach\nwachsen.",
+      "Er beschützt uns und den Wald.\nWenn er ruft, würde ich hingehen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 1",
+    "id": "1006",
+    "pages": [
+      "Ob der Deku-Baum auch Mido\nerschaffen hat? Jeder macht mal\nFehler."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 1",
+    "id": "1043",
+    "pages": [
+      "Du willst wirklich fort?",
+      "Zum Schloß? Da muß Dein Ausflug\ngrößer sein als meiner zum Laden."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 1",
+    "id": "1023",
+    "pages": [
+      "Salia wartet in den Verlorenen\nWäldern auf Dich. Am üblichen Ort."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 2",
+    "id": "1007",
+    "pages": [
+      "Zeit fürs Training. Das Schwert allein\nerledigt Deine Arbeit nicht.",
+      "Halte [Z], gehe seitwärts und drücke\n[A]: So springst Du zur Seite.",
+      "Halte [Z], gehe rückwärts und drücke\n[A]: Das gibt einen Rückwärtssalto.",
+      "Mit [Z] und [A] ohne gezogene Waffe\nrollst Du. Dabei bist Du kurz\ngeschützt.",
+      "Mit gezogenem Schwert, [Z] und [A]\nmachst Du eine Sprungattacke.",
+      "An diesem Stein kannst Du die\nZielerfassung mit [Z] üben. Er\nbeschwert sich nicht."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 2",
+    "id": "1022",
+    "pages": [
+      "Wenn Du landest, drücke [Control-Pad] nach\nvorn. Abrollen dämpft den Sturz.",
+      "Bei zu großer Höhe hilft das nicht.\nDer Boden macht keine Ausnahmen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 3",
+    "id": "1008",
+    "pages": [
+      "Halt! Als Kokiri darfst Du den Wald\nnicht verlassen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 3",
+    "id": "1009",
+    "pages": [
+      "Draußen sollen Kokiri sterben. Das\nsagt man hier. Ich habe wenig Lust,\ndie Ausnahme zu suchen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 3",
+    "id": "1044",
+    "pages": [
+      "Es heißt, Kokiri sterben, wenn sie den\nWald verlassen.",
+      "Ich hoffe, Du weißt, was Du tust.\nEine Fee ist schließlich kein Reiseplan."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 3",
+    "id": "1021",
+    "pages": [
+      "Du bist wieder da? Und ich hatte mir\ngerade einen Abschiedsspruch\nüberlegt."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 4",
+    "id": "100A",
+    "pages": [
+      "Oh Mann, oh Junge! Ich liebe es, ein\nKokiri zu sein.",
+      "Dieser Wald ist so entspannt. Mein\nLeben... entspannter geht es ja gar\nnicht.",
+      "Ich entspanne hier den ganzen Tag\nund hab 'ne richtig coole Hütte.",
+      "Der Deku-Baum ist quicklebendig. Der\nmacht locker noch hundert Jahre\ndurch.",
+      "Nichts kann diesen Tag ruinieren."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 4",
+    "id": "100B",
+    "pages": [
+      "Hilfst Du mir? Salia ist doch auch\nDeine Freundin.",
+      "Was Du im Gras findest, kannst Du\nbehalten. Mido braucht davon nichts\nzu erfahren."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 4",
+    "id": "1097",
+    "pages": [
+      "Einen Rückwärtssalto kannst Du mit\n[Z], rückwärts und [A] machen. Das\nsieht sogar bei mir gut aus."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 5",
+    "id": "100C",
+    "pages": [
+      "Gut! Deine Fee hilft Dir bei der\nZielerfassung.",
+      "Nun kannst Du auch auf Entfernung\nmit Leuten sprechen.",
+      "Das ist praktisch. Besonders, wenn\njemand wie Mido näherkommt."
+    ],
+    "controls": [
+      "TEXTID(0x100D)"
+    ],
+    "continuations": [
+      "100D"
+    ]
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 5",
+    "id": "100D",
+    "pages": [
+      "Fliegt Deine Fee zu etwas, schaust\nDu mit [Z] genau dorthin.",
+      "Halte [Z] und drücke [A], um weiter\nentfernte Leute anzusprechen.",
+      "Ohne Ziel richtest Du mit [Z] die\nSicht geradeaus. Probier es aus."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 5",
+    "id": "10B0",
+    "pages": [
+      "Vielleicht weiß Mido, wo Salia ist.",
+      "Dann können wir ja nochmal Mido auf\nden Sack gehen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 6",
+    "id": "100E",
+    "pages": [
+      "Du hast jetzt eine Fee? Dann können\nwir endlich trainieren.",
+      "Die Fee kann beraten. Ausweichen\nmußt Du immer noch selbst."
+    ],
+    "controls": [
+      "TEXTID(0x1019)"
+    ],
+    "continuations": [
+      "1019"
+    ]
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 6",
+    "id": "1019",
+    "pages": [
+      "Im Kokiri-Trainingslager lernt man\nmehr als in Midos Ansprachen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 6",
+    "id": "10B5",
+    "pages": [
+      "Salia hat Dich gesucht. Habt Ihr Euch\nendlich gefunden?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 7 – Auswahl",
+    "id": "1035",
+    "pages": [
+      "Welche Symbole soll ich erklären?\n\nDie gelben Symbole\nDas blaue Symbol"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 7 – Auswahl",
+    "id": "1036",
+    "pages": [
+      "Die drei gelben Symbole zeigen Deine\nGegenstände auf den [C]-Knöpfen.",
+      "Im Gegenstands-Menü legst Du sie\nauf [C-Left], [C-Down] oder [C-Right].",
+      "Danach benutzt Du sie mit dem\ngewählten Knopf. Mido würde dafür\neine Urkunde verlangen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 7 – Auswahl",
+    "id": "1037",
+    "pages": [
+      "Das blaue Symbol gehört zum\nAktions-Knopf [A].",
+      "Es zeigt, was Du gerade mit [A] tun\nkannst. Zum Beispiel reden oder\nklettern.",
+      "Die Aktion hängt davon ab, wo Du\nstehst. Der Knopf denkt mit. Das\nschadet uns nicht."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 8 – Auswahl",
+    "id": "1038",
+    "pages": [
+      "Ich kenne mich mit Karten und\nGegenständen aus. Jemand muß es ja.",
+      "Was möchtest Du wissen?\nKarte\nGegenstände\nZurück"
+    ],
+    "controls": [
+      "THREE_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 8 – Auswahl",
+    "id": "1039",
+    "pages": [
+      "Die kleine Karte ist unten rechts auf\ndem Bildschirm.",
+      "Der gelbe Pfeil zeigt Deine Position\nund Blickrichtung.",
+      "Der rote Pfeil zeigt den Eingang.\nVerirren mußt Du Dich also aus\neigener Kraft.",
+      "Mit [L] blendest Du die kleine Karte\nein und aus.",
+      "Mit START öffnest Du die Menüs.\nDort findest Du auch die große Karte.",
+      "Sie zeigt Hyrule oder das Labyrinth,\nin dem Du gerade bist."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 8 – Auswahl",
+    "id": "103A",
+    "pages": [
+      "Es gibt Ausrüstung, [C]-Gegenstände\nund Missions-Gegenstände.",
+      "Schwert und Schild sind Ausrüstung.\nWähle sie im Menü und bestätige mit\n[A].",
+      "Andere Dinge legst Du auf [C-Left], [C-Down]\noder [C-Right] und benutzt sie damit.",
+      "Missions-Gegenstände werden\ngesammelt. Du brauchst sie nicht auf\neinen Knopf zu legen.",
+      "Mit START siehst Du Deine\nAusrüstung und Dein Inventar.",
+      "Mit [Z] oder [R] wechselst Du\nzwischen den Menü-Seiten.",
+      "Mit Cursor und [A] wählst Du\nAusrüstung, mit einem [C]-Knopf die\npassenden Gegenstände.",
+      "So. Das war viel. Bei Mido wäre es\ndoppelt so lang und halb so hilfreich."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 8 – Auswahl",
+    "id": "103B",
+    "pages": [
+      "Speichern geht so: START öffnet die\nMenüs. Dann drückst Du [B] zum\nSichern. Mach es lieber."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 9",
+    "id": "103C",
+    "pages": [
+      "Meine Schwester hat ihre Rubine in\nden Kokiri-Laden getragen.",
+      "In eine größere Börse passen mehr\nRubine. Davon haben wir hier alle\nunsere Vorstellungen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 9",
+    "id": "104B",
+    "pages": [
+      "[Spielername], gehst Du wirklich\nfort? Paß draußen auf Dich auf."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 10",
+    "id": "103D",
+    "pages": [
+      "Nüsse und Stäbe findest Du auch im\nWald. Den Deku-Schild mußt Du\nkaufen.",
+      "Wie Du den Schild benutzt? Gut, daß\nDu fragst, bevor Du Dich dahinter\nversteckst.",
+      "Drücke START und gehe ins\nAusrüstungs-Menü.",
+      "Wähle den Schild mit dem Cursor und\nbestätige mit [A]. Erst dann ist er\nausgerüstet.",
+      "Mit [R] hältst Du ihn vor Dich. Mit [Control-Pad]\nveränderst Du seinen Winkel."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 10",
+    "id": "104C",
+    "pages": [
+      "Wenn Dein Schild kaputtgeht, komm\nwieder. Im Laden gibt es Ersatz.\nAuch ein Held braucht einen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 11 – Auswahl",
+    "id": "103E",
+    "pages": [
+      "Soll ich Dir [C-Up] erklären?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 11 – Auswahl",
+    "id": "103F",
+    "pages": [
+      "Mit [C-Up] wechselst Du die\nKameraperspektive.",
+      "Draußen schaust Du aus Deinen\nAugen, drinnen meist von oben.",
+      "Steht dort Navi, hörst Du mit [C-Up] ihre\nHinweise. Ob sie nett sind, ist eine\nandere Frage."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – übrige Kokiri",
+    "speaker": "Kokiri 11 – Auswahl",
+    "id": "1040",
+    "pages": [
+      "Dann finde es selbst heraus. Mein\nUnterricht ist freiwillig."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – minzgrüner Kokiri",
+    "speaker": "Minzgrüner Kokiri",
+    "id": "7231",
+    "pages": [
+      "Hey [Spielername], na was geht\nso? Der Deku-Baum will mit dir\nquatschen? Right on Link! Warte, laß\nmich dir eine Funktion einbauen, die",
+      "dich schneller macht!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – minzgrüner Kokiri",
+    "speaker": "Minzgrüner Kokiri",
+    "id": "7232",
+    "pages": [
+      "Ey Kollege, das hab ich doch gerne\ngemacht. Der Deku-Baum hat mir das\nneulich beigebracht, voll verschärft\noder?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Kind – minzgrüner Kokiri",
+    "speaker": "Minzgrüner Kokiri",
+    "id": "7233",
+    "pages": [
+      "Du kannst jetzt schneller rennen!\nSteuerkreuz links: schnell. Noch\neinmal links: normal."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "1060",
+    "pages": [
+      "Sieben Jahre, [Spielername]. Und\nweißt Du was? Ich finde Dich immer\nnoch scheiße. Manche Dinge bleiben."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "1061",
+    "pages": [
+      "Falls Du es vergessen hast,\n[Spielername]: Ich finde Dich\nimmer noch scheiße. Auch sieben\nJahre später.",
+      "Mit König Zora bin ich schon\nverabredet: Wenn Friedrich Merz\nbesiegt ist, gehen wir zusammen auf\neine mögliche Siegesfeier.",
+      "Du rettest Hyrule, ich gehe feiern.\nJeder leistet seinen Beitrag."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "1067",
+    "pages": [
+      "Oh Mann, ich faß es nicht! Wolltest\nDu mich gerade ernsthaft mit der\nBlutmagie kontrollieren? Nein? Oh.\nDann habe ich Dich falsch",
+      "eingeschätzt, tut mir leid. Okay, bitte\nbefreie diesen Wald, okay?"
+    ],
+    "controls": [
+      "TEXTID(0x106F)"
+    ],
+    "continuations": [
+      "106F"
+    ]
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "106F",
+    "pages": [
+      "Nun gut...\nIch vertraue Dir."
+    ],
+    "controls": [
+      "TEXTID(0x1068)"
+    ],
+    "continuations": [
+      "1068"
+    ]
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "1068",
+    "pages": [
+      "Und Du warst echt in einem Wal? In\neinem Wal drin? Das ist ja verrückt!\nAber dann scheinst Du ja auf einem\nguten Weg zu sein. Ich habe Dich",
+      "unterschätzt.",
+      "Wenn Friedrich Merz besiegt ist, bin\nich mit König Zora für die Siegesfeier\nverabredet. Nur damit Du Bescheid\nweißt."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "1070",
+    "pages": [
+      "Oh wow, Du hast es wirklich\ngeschafft, [Spielername]! Ehrlich\ngesagt glaube ich nicht, daß der\nDeku-Baum damals wegen Dir",
+      "gestorben ist.",
+      "Du bist zwar arrogant, und ich kann\nDich nicht leiden, aber Salia hatte\nimmer großes Vertrauen in Dich."
+    ],
+    "controls": [
+      "TEXTID(0x1071)"
+    ],
+    "continuations": [
+      "1071"
+    ]
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "1071",
+    "pages": [
+      "Du kannst gehen. Ich werde\ngemeinsam mit Tripple T diesen Wald\nbeschützen."
+    ],
+    "controls": [
+      "TEXTID(0x10D6)"
+    ],
+    "continuations": [
+      "10D6"
+    ]
+  },
+  {
+    "section": "Erwachsen – Mido",
+    "speaker": "Mido",
+    "id": "10D6",
+    "pages": [
+      "Ich sehe vielleicht aus wie ein Kind,\naber ich werde mich von Tung Tung\nTung Sahur ausbilden lassen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Fado – Tauschgeschäft im Wald",
+    "id": "10B7",
+    "pages": [
+      "Keine Sorge, ich habe dem Typen\ngezeigt, wie man hier aus dem Wald\nrauskommt. Also dem wird's schon\ngut gehen. Oder warte, ich glaube,",
+      "ich habe ihm... Oh nein. Ich habe ihm\ndie falsche Richtung gesagt. Ach,\nwird schon passen."
+    ],
+    "controls": [
+      "TEXTID(0x10B8)"
+    ],
+    "continuations": [
+      "10B8"
+    ]
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Fado – Tauschgeschäft im Wald",
+    "id": "10B8",
+    "pages": [
+      "Die Medizin besteht aus \nWaldpilzen! Gib sie mir! \nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Fado – Tauschgeschäft im Wald",
+    "id": "10B9",
+    "pages": [
+      "Wenn Du dem Typen begegnest, dann\nwarne ihn vor dem Waldmonster."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Fado – Tauschgeschäft im Wald",
+    "id": "10BA",
+    "pages": [
+      "Schilde haben wir. Schwerter nicht.\nFür Streit bitte an Mido wenden."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Fado – Tauschgeschäft im Wald",
+    "id": "10DF",
+    "pages": [
+      "Keine Sorge, ich habe dem Typen\ngezeigt, wie man hier aus dem Wald\nrauskommt. Also dem wird's schon\ngut gehen. Oder warte, ich glaube,",
+      "ich habe ihm... Oh nein. Ich habe ihm\ndie falsche Richtung gesagt. Ach,\nwird schon passen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 0",
+    "id": "1055",
+    "pages": [
+      "Ich bin vielleicht ein Kokiri, aber doch\nkein Idiot??",
+      "Das eine hat mit dem anderen\nüberhaupt nichts zu tun."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 0",
+    "id": "1056",
+    "pages": [
+      "Ich bin immer noch ein Kokiri. Und\nimmer noch kein Idiot. Nur damit wir\ndas geklärt haben."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 0",
+    "id": "1072",
+    "pages": [
+      "Ich bin vielleicht ein Kokiri, aber doch\nkein Idiot??"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 1",
+    "id": "105A",
+    "pages": [
+      "Hey, soll ich Dir das Menuett des\nWaldes beibringen?",
+      "Nee, haha, ich verarsch Dich nur.\nHaha! Laß Dich von mir nicht auf den\nArm nehmen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 1",
+    "id": "1073",
+    "pages": [
+      "Hey, soll ich Dir das Menuett des\nWaldes beibringen?",
+      "Nee, haha, ich verarsch Dich nur. Laß\nDich von mir nicht auf den Arm\nnehmen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 2",
+    "id": "105D",
+    "pages": [
+      "Der Deku-Baum läßt Grüße ausrichten.",
+      "Und jetzt verpiss Dich, Fremder!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 2",
+    "id": "105E",
+    "pages": [
+      "Der Deku-Baum läßt Grüße ausrichten.\nUnd jetzt verpiss Dich, Fremder!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 2",
+    "id": "1074",
+    "pages": [
+      "Der Deku-Baum läßt Grüße ausrichten.\nUnd jetzt verpiss Dich, Fremder!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 3",
+    "id": "105B",
+    "pages": [
+      "Es gab mal so nen Typen, der hier\nwohnte. Der hieß [Spielername].",
+      "Mann, bin ich froh, daß der nie\ngecheckt hat, daß ich ihm noch 50\nRubine schulde."
+    ],
+    "controls": [
+      "TEXTID(0x105C)"
+    ],
+    "continuations": [
+      "105C"
+    ]
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 3",
+    "id": "105C",
+    "pages": [
+      "Falls Du [Spielername] siehst: Du\nhast mich nie getroffen. Und ich\nhatte nie 50 Rubine."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 3",
+    "id": "1075",
+    "pages": [
+      "Es gab mal so nen Typen namens\n[Spielername]. Dem schulde ich\nnoch 50 Rubine.",
+      "Mann, bin ich froh, daß der das nie\ngecheckt hat."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 4",
+    "id": "105F",
+    "pages": [
+      "Was zur Hölle ist vor sieben Jahren\nmit dem Deku-Baum passiert?",
+      "Sieben Jahre! Ich hab immer noch\ndran zu knabbern. Als ob der jetzt\neinfach tot ist.",
+      "Und zwar seit sieben Jahren übrigens.\nIch war auf hundert weitere\neingestellt.",
+      "Ich hatte eine coole Hütte. Einen\nentspannten Tag. Wie konnte das so\neskalieren?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 4",
+    "id": "1076",
+    "pages": [
+      "Der Wald erholt sich. Schön. Der alte\nDeku-Baum ist trotzdem seit sieben\nJahren tot.",
+      "Ich komm darauf noch nicht klar.\nHundert Jahre hab ich gesagt.\nHUNDERT."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 5 – Ladenbereich",
+    "id": "1057",
+    "pages": [
+      "Der ganze Wald ist zwar total\nverkommen und voller Monster, aber\nwenigstens kommen die importierten\nPfeile noch an. Werden jetzt im",
+      "Laden verkauft."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 6",
+    "id": "1058",
+    "pages": [
+      "Ein Mann, der sich Philipp Amthor\nnannte, kam hierher.",
+      "Der wollte mit uns spielen. Ihh, Alter,\nwas will denn dieser Opa hier??",
+      "Ich dachte erst, der sucht\n[Spielername]. Aber nein. Der\nwollte ernsthaft mit uns spielen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 6",
+    "id": "1059",
+    "pages": [
+      "Philipp Amthor. Der wollte mit uns\nspielen. Ich faß es immer noch nicht."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 6",
+    "id": "1077",
+    "pages": [
+      "Der Wald ist wieder ruhig. Hoffentlich\nkommt dieser Opa Amthor jetzt nicht\nwieder her und will mit uns spielen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 7",
+    "id": "104E",
+    "pages": [
+      "Ich bin Fan von Rockmusik. Richtig\nsau gute Musik."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 7",
+    "id": "1079",
+    "pages": [
+      "Ich bin Fan von Rockmusik. Richtig\nsau gute Musik."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 8",
+    "id": "104F",
+    "pages": [
+      "Ich habe den Mann, der sich Philipp\nnennt, oft beobachtet. Ich stelle fest,\ner ist ein Loser. Und Charisma hat er\nauch nicht."
+    ],
+    "controls": [
+      "TEXTID(0x1050)"
+    ],
+    "continuations": [
+      "1050"
+    ]
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 8",
+    "id": "1050",
+    "pages": [
+      "Falls Du ihn suchst: Die Villa von\ndiesem Philipp Amthor findest Du an\nder Heiligen Lichtung, tief in den\nVerlorenen Wäldern."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 8",
+    "id": "107A",
+    "pages": [
+      "Seit es im Wald wieder\nsicher ist, glaube ich,\ndaß [Spielername] zurückkehren \nwird!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 9",
+    "id": "1051",
+    "pages": [
+      "Erinnerst Du Dich noch an den Lego\nLeucht-Geist?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 9",
+    "id": "107B",
+    "pages": [
+      "Erinnerst Du Dich noch an den Lego\nLeucht-Geist?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 10",
+    "id": "1052",
+    "pages": [
+      "Yeah, der Deku-Schild ist wohl zu\nklein für Sie geworden. Das liegt\ndaran, daß Sie so riesige\nMonsterhände haben. Also, aus meiner",
+      "Perspektive sind das Monsterhände.\nIch bin mein ganzes Leben lang ein\nKind gewesen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 10",
+    "id": "107C",
+    "pages": [
+      "Sicher wird [Spielername] eines \nTages zurückkommen..."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 11",
+    "id": "1053",
+    "pages": [
+      "Oh, Sie fragen nach Salia? Die finden\nSie in den Verlorenen Wäldern."
+    ],
+    "controls": [
+      "TEXTID(0x1054)"
+    ],
+    "continuations": [
+      "1054"
+    ]
+  },
+  {
+    "section": "Erwachsen – übrige Kokiri",
+    "speaker": "Kokiri 11",
+    "id": "1054",
+    "pages": [
+      "Jetzt ist nicht nur Salia\nverschwunden, sondern auch noch\nMido. Was ist, wenn der Kokiri, der\nim Laden arbeitet, als nächstes",
+      "verschwindet? Wo soll ich denn\nsonst meine Pfeile kaufen?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – minzgrüner Kokiri",
+    "speaker": "Minzgrüner Kokiri",
+    "id": "7235",
+    "pages": [
+      "Hey was läuft [Spielername] wie\ngeht's wie steht's, dich erkenn ich\ndoch sofort wieder. Was soll der\nneue Aufzug? Ey, hat aber was.",
+      "Right on Link!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Erwachsen – minzgrüner Kokiri",
+    "speaker": "Minzgrüner Kokiri",
+    "id": "7238",
+    "pages": [
+      "[Spielername] jo was geht? Du\nwunderst dich bestimmt mich hier zu\nsehen hab ich recht oder hab ich\nrecht? Ich habe an einer neuen Magie",
+      "gearbeitet. Meine Experimente haben\nsich bezahlt gemacht. Die Kokiri\nwerden bald alle in der Lage sein\ndiesen Wald zu verlassen ohne in der",
+      "Außenwelt zu sterben. Das ist\nrevolutionär man, jaaa haha, right on!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Beide Zeitebenen – Kokiri-Laden",
+    "speaker": "Ladenbesitzer",
+    "id": "009E",
+    "pages": [
+      "Willkommen! Aussuchen darfst Du\nkostenlos."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Beide Zeitebenen – Kokiri-Laden",
+    "speaker": "Ladenbesitzer",
+    "id": "10BA",
+    "pages": [
+      "Schilde haben wir. Schwerter nicht.\nFür Streit bitte an Mido wenden."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Fuchs-/Pikachu-Maske",
+    "id": "7104",
+    "pages": [
+      "Mario kennt Füchse! Die trinken\nkeine Milch. Sehr schlechte\nKundschaft. Mama mia!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Schädel-Maske",
+    "id": "710E",
+    "pages": [
+      "Ist das Pappe? Du hast Geld bezahlt,\num wie ein kaputter Karton\nauszusehen?"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Geister-Maske",
+    "id": "7127",
+    "pages": [
+      "Ich glaube nicht an Geister. Außer an\ndie auf dem Friedhof. Die kann man\nja sehen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Hasenohren",
+    "id": "7134",
+    "pages": [
+      "Glaubst Du, ich höre wegen meines\ngroßen Hutes besser? Eben."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Goronen-Maske",
+    "id": "714D",
+    "pages": [
+      "Die Goronen sollen ihre Straßen\nselbst essen können. Das hat mir\nderselbe Typ erzählt, der Angst vor\nPilzen hat."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Zora-Maske",
+    "id": "7151",
+    "pages": [
+      "Coole Maske! Moment mal. Du warst\nWO drin? In einem Wal? Was zum\nFick? Erzähl doch so was zuerst!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Gerudo-Maske",
+    "id": "011E",
+    "pages": [
+      "Wenn Du merkst, daß Du lieber als\nMädchen leben möchtest, ist das\nvollkommen in Ordnung. Du bleibst\nmeine Freundin."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Salia",
+    "speaker": "Maske des Wissens",
+    "id": "7166",
+    "pages": [
+      "Wenn die Maske wirklich alles weiß,\nfrag sie, wo meine Rubine sind. Ich\nhabe sie ganz sicher nicht selbst\nausgegeben."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Fuchs-/Pikachu-Maske",
+    "id": "7105",
+    "pages": [
+      "Luigi findet, Du hast ein sehr\nfreundliches Fuchsgesicht! Einen\nschönen Tag wünsche ich Dir!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Schädel-Maske",
+    "id": "710F",
+    "pages": [
+      "Die Spinnen im Haus haben auch ein\nSchädelproblem. Deins kannst Du\nwenigstens absetzen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Geister-Maske",
+    "id": "7128",
+    "pages": [
+      "Du bist durchsichtig? Nein? Dann\nhaben wir das Problem schon\ngefunden."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Hasenohren",
+    "id": "7135",
+    "pages": [
+      "Mit so langen Ohren hörst Du\nbestimmt, wenn jemand über Dich\nlästert. Also jetzt gerade zum\nBeispiel."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Goronen-Maske",
+    "id": "714E",
+    "pages": [
+      "Wir ernähren uns von Steinen. Das\nheißt nicht, daß wir jeden Dreck\nfressen. Das muß ich offenbar jeden\nTag erklären."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Zora-Maske",
+    "id": "7152",
+    "pages": [
+      "Ich finde erwachsene Zoras übrigens\nziemlich heiß. Das hat nichts mit Dir\nzu tun. Du bist ein Kind. Ich rede\neinfach zu viel."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Gerudo-Maske",
+    "id": "014F",
+    "pages": [
+      "Du darfst selbst entscheiden, wer Du\nbist. Da hat Dir niemand reinzureden!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Mido",
+    "speaker": "Maske des Wissens",
+    "id": "7167",
+    "pages": [
+      "Du weißt jetzt alles? Dann erklär\nmir bitte, warum ich noch hier\narbeite."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Fuchs-/Pikachu-Maske",
+    "id": "7106",
+    "pages": [
+      "Hast Du die Ohren selbst gebastelt?\nAh. Gemietet. Das war also die teure\nLösung."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Schädel-Maske",
+    "id": "7110",
+    "pages": [
+      "Wenn Du damit zum Friedhof gehst,\nmußt Du vermutlich keinen Eintritt\nzahlen. Wobei: Der kostet gar keinen\nEintritt."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Geister-Maske",
+    "id": "712A",
+    "pages": [
+      "Waluigi hat keine Angst vor\nGeistern! Außer sie cheaten und\nkommen einfach durch Wände!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Hasenohren",
+    "id": "7136",
+    "pages": [
+      "Mario findet die Ohren prima! Paß\nnur auf die niedrigen Türen auf. Mama\nmia!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Goronen-Maske",
+    "id": "713C",
+    "pages": [
+      "Goronen baden im Matsch, oder? Hat\nmir jemand erzählt, der allerdings\nnoch nie einen Goronen gesehen hat."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Zora-Maske",
+    "id": "7153",
+    "pages": [
+      "Gut, daß ich Dich treffe! Kannst Du\nunten im See mal nach meinen\nAutobatterien schauen? Ich will\nwissen, ob das mit den Zitteraalen",
+      "funktioniert."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Gerudo-Maske",
+    "id": "0159",
+    "pages": [
+      "Du mußt nicht heute schon auf alles\neine Antwort haben. Du kannst Dich\nin Deinem eigenen Tempo\nkennenlernen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Fado",
+    "speaker": "Maske des Wissens",
+    "id": "7168",
+    "pages": [
+      "Frag die Maske, ob die Zitteraale im\nSee schon genug Strom haben. Ich bin\nmit den Autobatterien langsam durch."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Fuchs-/Pikachu-Maske",
+    "id": "7107",
+    "pages": [
+      "Mit der Maske würde ich mich nicht\nzum Hühnerstall stellen. Die Hühner\nplanen schon etwas."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Schädel-Maske",
+    "id": "7111",
+    "pages": [
+      "Warum ist der Schädel außen? Ich\ndachte immer, der gehört nach innen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Geister-Maske",
+    "id": "712B",
+    "pages": [
+      "Ein Geist! Ich dachte, Du hättest\nbloß schlecht geschlafen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Hasenohren",
+    "id": "7137",
+    "pages": [
+      "Luigi freut sich, daß Du etwas\ngefunden hast, das Dir gefällt! Viel\nSpaß mit den Ohren!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Goronen-Maske",
+    "id": "713D",
+    "pages": [
+      "Mein Vater war ein Gorone. Ich find's\nnicht besonders geil, wenn Du mit\ndem Ding herumläufst und Dich über\nihn lustig machst."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Zora-Maske",
+    "id": "7154",
+    "pages": [
+      "Wenn Du jetzt ins Wasser gehst und\ndurch die Maske keine Luft mehr\nkriegst, darfst Du Dich nicht\nwundern. Das sind aufgemalte Kiemen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Gerudo-Maske",
+    "id": "015D",
+    "pages": [
+      "Du gehörst zu uns. Daran ändert sich\nnichts, wenn Du anders leben\nmöchtest als bisher."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 1 (Typen 0, 2, 3, 4, 7, 8, 11)",
+    "speaker": "Maske des Wissens",
+    "id": "716A",
+    "pages": [
+      "Wenn Du damit Gedanken lesen\nkannst, geh bitte kurz raus. Ich\nmöchte mich in Ruhe über meinen\nChef ärgern."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Fuchs-/Pikachu-Maske",
+    "id": "7108",
+    "pages": [
+      "Wir haben hier weder einen Fuchsbau\nnoch einen zweiten Wald. Du mußt\nmit dem Kokiri-Wald auskommen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Schädel-Maske",
+    "id": "7112",
+    "pages": [
+      "Damit gewinnt man bestimmt keinen\nSchönheitswettbewerb. Also hier\nvielleicht schon. Die Konkurrenz ist\nüberschaubar."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Geister-Maske",
+    "id": "712C",
+    "pages": [
+      "Wenn Du tot wärst, könnte ich Dir\nwenigstens nichts mehr verkaufen.\nDas wäre für uns beide schade."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Hasenohren",
+    "id": "7138",
+    "pages": [
+      "Mit den Ohren wäre der Deku-Baum\nbestimmt noch lange nicht das\nlängste Ding im Wald gewesen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Goronen-Maske",
+    "id": "713E",
+    "pages": [
+      "Sind Goronen eigentlich immer nackt?\nOder sieht ihre Kleidung auch aus\nwie Stein? Ich komme da nicht\nweiter."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Zora-Maske",
+    "id": "7155",
+    "pages": [
+      "Die Zoras haben einen König, der\nbeim Aufstehen länger braucht als ich\nfür einen Umzug."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Gerudo-Maske",
+    "id": "015E",
+    "pages": [
+      "Ich freue mich, wenn Du Dich als Du\nselbst wohlfühlst. Du bist hier\nwillkommen."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Maskenreaktionen – Kokiri-Gruppe 2 (Typen 1, 5, 6, 9, 10)",
+    "speaker": "Maske des Wissens",
+    "id": "716B",
+    "pages": [
+      "Wissen ist Macht. Leider akzeptiert\nder Basar weiterhin nur Rubine."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Besondere Maskenreaktion – Kokiri 3",
+    "speaker": "Gedankenlesen",
+    "id": "7163",
+    "pages": [
+      "Kannst Du damit Gedanken lesen?\nDann weißt Du ja jetzt, daß ich Dir\nnoch fünfzig Rubine schulde. Scheiße."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0160",
+    "pages": [
+      "Ich unterhalte mich gern auf\ntelepathische Weise mit Dir.\nDoch jetzt würde ich Dich lieber\npersönlich sprechen!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0161",
+    "pages": [
+      "Dieser Wald ist mit vielen Orten\nverbunden. Wenn Du mein Lied\nirgendwo hörst, muß es von dort\neinen Weg hierher geben!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0162",
+    "pages": [
+      "Ja, es gibt in Hyrule sehr wenig\nLeute mit dieser Blutgruppe. Wer\nhätte gedacht, daß gerade Darunia die\nhat?",
+      "Haben Goronen überhaupt Blut? Hast\nDu jemals einen Goronen bluten\nsehen, [Spielername]? Ich schon."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0163",
+    "pages": [
+      "Okay, jetzt fehlt ja nur noch ein\nStein. Das ist schon mal echt ganz\ngut, also super.",
+      "Nur blöderweise mußt Du jetzt diesen\nnervigen Zora-König kennenlernen.\nAlso, ja. Sagen wir mal so."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0164",
+    "pages": [
+      "Jetzt kommt der Heilige Stein des\nFeuers. Das hat mir der Deku-Baum\nletzte Woche erzählt."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0165",
+    "pages": [
+      "[Spielername], kann ja sein, daß\ndas nur meine allgemeine Anxiety ist,\naber ich habe das Gefühl, dieser Mr.\nBean ist irgendwie in Gefahr."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0166",
+    "pages": [
+      "Hey, [Spielername], die klingt jetzt\naber wirklich viel besser als die\nOkarina der Salia. Das ist ja jetzt\nhier wirklich echte Qualität."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0167",
+    "pages": [
+      "Suchst Du nach einem Tempel?\nEin seltsamer Vogel erzählte\nmir einst...",
+      "\"Augen, deren Blick die Dunkelheit\ndurchdringt, sehen weit mehr.\"\nKannst Du Dir vorstellen, was er\ndamit wohl gemeint hat?"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0168",
+    "pages": [
+      "Wo bist Du, [Spielername]?\nSuchst Du einen Tempel?\nIch hörte einst einen\nseltsamen Vogel sagen...",
+      "\"Geh, junger Held. Besuche die\nWüstengöttin mit Deiner Okarina.\"\nKannst Du Dir vorstellen, was er\ndamit wohl gemeint hat?"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Kind",
+    "speaker": "Salia",
+    "id": "0169",
+    "pages": [
+      "Hast Du schon alle\nTempel besucht?"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Erwachsener",
+    "speaker": "Salia",
+    "id": "016A",
+    "pages": [
+      "[Spielername], im Waldtempel ist\nBöses im Busch.",
+      "Der Waldtempel gehört einem reichen\nFatzke namens Philipp Amthor.",
+      "Ich gehe dort hin, um herauszufinden,\nwas hier fischig ist.",
+      "Wir sehen uns bestimmt wieder. Zu\n100 Prozent! Ich wüßte nicht, warum\ndas nicht passieren sollte."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Erwachsener",
+    "speaker": "Salia",
+    "id": "016B",
+    "pages": [
+      "Jaa, keine Sorge, [Spielername],\nmir geht's prächtig.",
+      "Ich bin auf ne coole Reise gegangen,",
+      "weil Hyrule mir zu konservativ wurde."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Erwachsener",
+    "speaker": "Salia",
+    "id": "016C",
+    "pages": [
+      "Na Du, wie geht's voran? Ich sehe,\nDu brauchst jetzt noch einen siebten\nWeisen. Ja, super. Dann hast Du ja\nbald alle zusammen. Du mußt",
+      "zwischen Vergangenheit und Zukunft\nreisen, um die anderen Weisen zu\nwecken.",
+      "Ich bleib hier erreichbar und trinke\njetzt weiter meinen Cocktail. Das ist\nein Sex on the Beach,\nbeziehungsweise in dem Falle ein",
+      "Virgin on the Beach, weil ich ja\nbiologisch noch ein Kind bin und\ndeswegen sollte ich keinen Alkohol\ntrinken."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Salias Lied – Fernkontakt als Erwachsener",
+    "speaker": "Salia",
+    "id": "016D",
+    "pages": [
+      "Die sechs Weisen geben Dir ihre\nKraft. Ich drücke Dir von hier aus die\nDaumen.",
+      "Das Schicksal Hyrules liegt jetzt bei\nDir. Und zum Teil bei einer\nüberarbeiteten Bowling-Angestellten."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Laden und Kaufabwicklung",
+    "id": "0083",
+    "pages": [
+      "Mit [Control-Pad] wählst Du die Ware aus.\n\nMit dem Verkäufer sprechen\nZurück"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Laden und Kaufabwicklung",
+    "id": "0084",
+    "pages": [
+      "Vielen Dank! Auf weitere Abenteuer\nmit unbeschädigter Kundschaft."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Laden und Kaufabwicklung",
+    "id": "0085",
+    "pages": [
+      "Deine Rubine reichen nicht aus!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Laden und Kaufabwicklung",
+    "id": "0086",
+    "pages": [
+      "Das kannst Du jetzt nicht kaufen."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Schild",
+    "id": "009F",
+    "pages": [
+      "Deku-Schild: 20 Rubine. Mit [R] wehrst\nDu Angriffe ab. Vorsicht: Feuer\nverbrennt ihn!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Schild",
+    "id": "0089",
+    "pages": [
+      "Deku-Schild: 20 Rubine.\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Nüsse (5)",
+    "id": "00B2",
+    "pages": [
+      "Deku-Nüsse: 5 Stück, 15 Rubine.\nBetäuben Gegner. Du kannst nur\nkaufen, was noch hineinpaßt."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Nüsse (5)",
+    "id": "007F",
+    "pages": [
+      "Deku-Nüsse: 5 Stück, 15 Rubine.\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Nüsse (10)",
+    "id": "00A2",
+    "pages": [
+      "Deku-Nüsse  10 Stück  30 Rubine\nBetäube Deine Gegner damit! Du\nkannst nur soviele kaufen, wie Du\nzur Zeit tragen kannst."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Nüsse (10)",
+    "id": "0087",
+    "pages": [
+      "Deku-Nüsse   10 Stück  30 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Stab",
+    "id": "00A1",
+    "pages": [
+      "Deku-Stab  1 Stück  10 Rubine\nEin langer, starker Ast des\nDeku-Baumes. Verwende ihn als\nWaffe, bis er zerbricht!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Stab",
+    "id": "0088",
+    "pages": [
+      "Deku-Stab  1 Stück   10 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Kerne (30)",
+    "id": "00DF",
+    "pages": [
+      "Deku-Kerne  30 Stück  30 Rubine\nDu brauchst erst eine Schleuder,\num sie kaufen und als Munition\ndafür einsetzen zu können."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Deku-Kerne (30)",
+    "id": "00DE",
+    "pages": [
+      "Deku-Kerne  30 Stück  30 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Pfeile (10)",
+    "id": "00A0",
+    "pages": [
+      "Pfeile   10 Stück   20 Rubine\nDu brauchst einen Bogen, um sie\nabzuschießen. Du kannst sie nicht\nkaufen, wenn Du noch keinen hast."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Pfeile (10)",
+    "id": "008A",
+    "pages": [
+      "Pfeile   10 Stück   20 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Pfeile (30)",
+    "id": "00C1",
+    "pages": [
+      "Pfeile   30 Stück   60 Rubine\nDu brauchst einen Bogen, um sie\nabzuschießen. Du kannst sie nicht\nkaufen, wenn Du noch keinen hast."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Pfeile (30)",
+    "id": "009B",
+    "pages": [
+      "Pfeile   30 Stück   60 Rubine\n\nKaufen\nNicht kaufen"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Herz",
+    "id": "00AC",
+    "pages": [
+      "Herz   10 Rubine\nDamit füllst Du ein Herz\nDeiner Energieleiste auf."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Waren und Kauftexte des Kokiri-Ladens",
+    "speaker": "Herz",
+    "id": "0095",
+    "pages": [
+      "Herz   10 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Triple T im Kokiri-Wald (erwachsen)",
+    "speaker": "Tung Tung Tung Sahur",
+    "id": "1062",
+    "pages": [
+      "Jo jo jo jo jo, ich bin es! Tripple T\nist am Start.",
+      "Meine Güte, ich hab echt lang\ngewartet. Aber endlich ist\nDeku-Baum-Zeit.",
+      "Ich bin der neue Deku-Baum. Das ist\nmein neuer Job, mein neues Ding.",
+      "Tung Tung Tung Sahur ist aller Zeit\nbereit und stets von Sorgen befreit.",
+      "Hahaha! Jetzt kippen wir den\nFun-Schalter des Spaßmodus mal auf\n0 und werden ernst."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Triple T im Kokiri-Wald (erwachsen)",
+    "speaker": "Tung Tung Tung Sahur",
+    "id": "1063",
+    "pages": [
+      "Friedrich Merz hat den Wald nicht\neinfach vergessen. Er hat die Tempel\nabsichtlich verkommen lassen.",
+      "Erst alles kaputtsparen und dann\nsagen, die Bewohner hätten sich nicht\ngenug angestrengt.",
+      "Die Kokiri altern nicht. Du schon.\nDeine alten Freunde erkennen Dich\ndeshalb kaum wieder."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Triple T im Kokiri-Wald (erwachsen)",
+    "speaker": "Tung Tung Tung Sahur",
+    "id": "1064",
+    "pages": [
+      "Jetzt wird's kurz persönlich: Du bist\nkein Kokiri. Du bist ein Hylianer!",
+      "Der alte Deku-Baum hat Dich als Kind\naufgenommen. Daher bist Du mit den\nKokiri aufgewachsen.",
+      "Und nun brauchen wir Dich, um\ngrausame Pläne zu verhindern."
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Triple T im Kokiri-Wald (erwachsen)",
+    "speaker": "Tung Tung Tung Sahur",
+    "id": "1065",
+    "pages": [
+      "Friedrich Merz ging zu den Goronen,\nangeblich für den Kohleabbau.",
+      "Doch er hatte etwas viel, viel\nSchlimmeres im Sinn.",
+      "Dort wurde auch Uranerz für eine\nMassenvernichtungswaffe abgebaut.",
+      "Geh zu den Goronen und befreie den\nForscher!",
+      "Er wird gezwungen, an diesem Projekt\nzu arbeiten."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(90)",
+      "BOX_BREAK_DELAYED(90)",
+      "BOX_BREAK_DELAYED(90)",
+      "BOX_BREAK_DELAYED(90)",
+      "FADE(90)"
+    ],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Triple T im Kokiri-Wald (erwachsen)",
+    "speaker": "Tung Tung Tung Sahur",
+    "id": "1066",
+    "pages": [
+      "Begib Dich nun zum Todesberg,\n[Spielername]. Dort im Feuertempel\nwird der Projektleiter von Projekt\nAtom-Donnerblume festgehalten.",
+      "Friedrich Merz darf niemals so weit\nkommen!",
+      "Und keine Sorge, Tripple T paßt hier\nauf.",
+      "Tung Tung Tung Tung Tung Tung Tung\nTung Tung Tung Sahur!"
+    ],
+    "controls": [],
+    "continuations": []
+  },
+  {
+    "section": "Anhang – Triple T im Kokiri-Wald (erwachsen)",
+    "speaker": "Tung Tung Tung Sahur",
+    "id": "1078",
+    "pages": [
+      "Hey, hey, Kollege, ich bin's, Tripple T!\nWie geht's voran? Hast Du schon das\nmit der Bombe gelöst?"
+    ],
+    "controls": [],
+    "continuations": []
+  }
+]
