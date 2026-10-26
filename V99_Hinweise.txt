@@ -1,0 +1,10 @@
+V99 – Freigegebene Kokiri- und Hyrule-Stadt-Dialoge finalisiert.
+Kumulativer BPS-Patch gegen eine saubere Ocarina of Time PAL 1.0 ROM. Normal und DEBUG jeweils separat auf die saubere Basis anwenden, nicht auf V98.
+
+84 deutsche Texte aktualisiert; die zuletzt diktierten Kokiri-/Stadtbatches sind jetzt im Patch enthalten. Vorherige Änderungen einschließlich der Waluigi-Stimme aus V98 bleiben enthalten. Keine neuen Figuren/Objekte oder zusätzlichen Objektbankplätze.
+Tutorial-Auswahlen wie freigegeben aus dem normalen deutschen Gesprächsablauf genommen; technische Textslots bleiben erhalten. Zugehörige EnKo-, EnOssan- und EnHy-Dialogauswahl mitgebaut. Kokiri-Ladenbegrüßung nur im Kokiri-Laden; andere deutsche Händler nutzen die passende eigene Begrüßung. Nichtdeutsche Texte unverändert. Spielereignisse und Belohnungssteuerung erhalten.
+Layout: maximal vier Zeilen bei 210 Pixel Breite, Spielervariable berücksichtigt; gezielte Seitenumbrüche statt globaler Neuformatierung.
+7058: Nur der vollständige Satz „Wir haben aktuell noch geschlossen.“ übernommen. Der abgebrochene Nachsatz „Ich war noch nicht …“ wurde nicht erfunden. 10C9 (Salia) bleibt bis zum neuen Diktat unverändert.
+Kakariko-Dialogliste ist ein Export des aktuellen Standes, kein zusätzlicher neu erfundener Dialogbatch.
+
+Prüfung: Quellen-/Steuerzeichenvergleich, erneutes Anwenden der Quellhelfer ohne Änderungen, beide PAL-Builds; native Interaktionstests im Haus der allwissenden Brüder, Kokiri-Laden, Markt und Basar bei 4 MiB. Speicher-/Grafikgrenzen an diesen Testorten geprüft. BPS zusätzlich mit einem unabhängigen Patcher angewendet und bytegleich verglichen. Dies ist kein vollständiger Spieldurchlauf.
