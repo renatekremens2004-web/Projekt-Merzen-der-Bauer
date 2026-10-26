@@ -1,0 +1,287 @@
+[
+  {
+    "section": "Boris als Kind – Grabgrusel-Tour",
+    "id": "5018",
+    "pages": [
+      "Guten Abend. Boris, Totengräber.\nMeine Arbeit beschäftigt sich mit der\nEndlichkeit in ihrer materiellen\nAusprägung.",
+      "Der Tod ist kein Zustand, den wir\nerleben. Er beendet vielmehr die\nBedingungen unserer Erfahrung.",
+      "Trotzdem strukturieren wir unser\nLeben durch seine Möglichkeit. Eine\nbemerkenswerte ontologische\nZumutung.",
+      "Ach ja, ich hab da so einen\nEnterhaken. Den kannst Du nach\nmeinem Tod haben. Ich schreibe Dich\neinfach ins Testament rein.",
+      "Bis dahin biete ich die Grausige\nGrabgrusel-Tour an. Zehn Rubine fürs\nGraben. Auch ein Existentialist muß\nseine Miete zahlen."
+    ],
+    "controls": [
+      "TEXTID(0x5019)"
+    ]
+  },
+  {
+    "section": "Boris als Kind – Grabgrusel-Tour",
+    "id": "5019",
+    "pages": [
+      "Willst Du, daß ich hier grabe?\n10 Rubine für ein Loch.\nJa!\nLaß mal bleiben!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Boris als Kind – Grabgrusel-Tour",
+    "id": "501A",
+    "pages": [
+      "Nein, hier ist nichts!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Boris als Kind – Grabgrusel-Tour",
+    "id": "0084",
+    "pages": [
+      "Vielen Dank! Auf weitere Abenteuer\nmit unbeschädigter Kundschaft."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Boris als Kind – Grabgrusel-Tour",
+    "id": "0085",
+    "pages": [
+      "Deine Rubine reichen nicht aus!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Der Junge – Gespräche und Maskenhandel",
+    "id": "2022",
+    "pages": [
+      "Ich liebe Friedhöfe. Die Ruhe, die\nGräber, diese konsequent zu Ende\ngedachte Nachbarschaft.",
+      "Manchmal wünsche ich mir, ich wäre\nselbst tot. Dann dürfte ich endlich\nhier wohnen.",
+      "Boris sagt, ich soll erst mal meine\nHausaufgaben machen. Er nimmt meine\nZukunftspläne überhaupt nicht ernst."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Der Junge – Gespräche und Maskenhandel",
+    "id": "2023",
+    "pages": [
+      "Oh Graus! Es ist Boris, der \nTotengräber!",
+      "Nanu...?",
+      "Oh, es ist nur eine Maske! Wow, \nich bin ganz schön \nerschrocken!",
+      "Gibst Du mir die Maske?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Der Junge – Gespräche und Maskenhandel",
+    "id": "2024",
+    "pages": [
+      "Ich habe auch Geld, ich kann\nsie bezahlen!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Der Junge – Gespräche und Maskenhandel",
+    "id": "2026",
+    "pages": [
+      "Mit dieser Maske sehe ich fast \nwie Boris aus! Cool! \nHier ist das Geld!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Der Junge – Gespräche und Maskenhandel",
+    "id": "2027",
+    "pages": [
+      "Du hast die Maske, die Dich\n30 Rubine gekostet hat, zum \ngleichen Preis weiterverkauft!",
+      "Geh nun zurück zum \nMaskenhändler und zahl ihm seine\n30 Rubine zurück. Dabei kannst \nDu eine neue Maske leihen."
+    ],
+    "controls": [
+      "SFX(NA_SE_SY_TRE_BOX_APPEAR)"
+    ]
+  },
+  {
+    "section": "Der Junge – Gespräche und Maskenhandel",
+    "id": "2028",
+    "pages": [
+      "Ich fange jetzt zu graben an! \nGenau wie Boris!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Geister-Boris als Erwachsener – Wettrennen",
+    "id": "5041",
+    "pages": [
+      "Ah, ein Besucher. Sieben Jahre\nverändern ein Leben. Einst ging ich\nunter den Lebenden. Nun bin ich tot.",
+      "Die Zeit nimmt uns alles.\nGewohnheiten. Zukunftspläne.\nIrgendwann den eigenen Körper.",
+      "Ich bin vorgestern beim Verlassen der\nWindmühle die Treppe runtergestürzt.\nFür einen alten Mann wie mich war\ndas das Todesurteil.",
+      "Wettrennen waren stets der Kern\nmeiner Persönlichkeit. Boris, der\ngrößte Renner Hyrules!",
+      "Das habe ich ständig erzählt. Jeder\nwußte es. Auch dieser Junge auf dem\nFriedhof hat es immer gesagt.",
+      "Falls Du Dich nicht erinnerst: Es war\nwirklich ein fester Teil meines\nCharakters. Schon immer.",
+      "Uga Paluga! Meine alte Catchphrase.\nErinnerst Du Dich? Das habe ich\nfrüher immer gesagt.",
+      "Renn noch einmal gegen mich! Dann\nbekommst Du meinen Enterhaken.\nSteht so im Testament.",
+      "Den brauchst Du für den Waldtempel.\nOhne den kommst Du da nicht rein.\nSo. Jetzt rennen wir."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Geister-Boris als Erwachsener – Wettrennen",
+    "id": "502D",
+    "pages": [
+      "Noch einmal wollte ich auf irdischer\nWelt wandeln, um gegen Dich, meinen\nguten Freund, im Rennen anzutreten.",
+      "Du hast gewonnen. Nimm nun Deinen\nPreis. Er soll Dir gute Dienste auf\nDeinem Abenteuer erweisen.",
+      "Und wenn Du wiederkommst, dann\nrenn gerne wieder gegen Deinen\ngroßen Rennsport-Boris-Kollegen an.\nUga Paluga, sage ich da!",
+      "Auf dem Rückweg geht es zur\nWindmühle. Paß an der Treppe auf.\nIch spreche aus Erfahrung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Geister-Boris als Erwachsener – Wettrennen",
+    "id": "502E",
+    "pages": [
+      "Wieder da? Hat der Enterhaken\ngeholfen? Und natürlich: Lust auf\nRennsport? Mein uraltes\nMarkenzeichen!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Geister-Boris als Erwachsener – Wettrennen",
+    "id": "502F",
+    "pages": [
+      "Die Zeit beträgt\n[Rennzeit]!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Die Komponistengeister – Gebrüder Brahmstein",
+    "id": "500F",
+    "pages": [
+      "AARGH!\nDU HAST MICH BEZWUNGEN!\nUnglaublich!",
+      "Wie?\nDu bist doch nicht einer von\nGanondorfs Schergen, oder?",
+      "Als Gespenst muß ich mich so\nkomisch benehmen. Tut mir leid.",
+      "Alsdann, ich glaube, ich stelle\nmich mal vor!\nÄhem..."
+    ],
+    "controls": [
+      "TEXTID(0x5010)"
+    ]
+  },
+  {
+    "section": "Die Komponistengeister – Gebrüder Brahmstein",
+    "id": "5010",
+    "pages": [
+      "Ich bin einer der geisterhaften\nKomponisten-Brüder von Kakariko.",
+      "Wie alle Hylianer, so dienten auch\nwir dem König dieses Landes.",
+      "Wir, die Gebrüder Brahmstein,\nwaren beauftragt, die mystische\nMacht der königlichen Familie zu\nuntersuchen.",
+      "Wir haben bis jetzt die Macht des\nTriforce nicht erklären können.",
+      "Aber unsere \"Studien zur Macht\nüber die Zeit mittels Tönen\neiner Okarina\" haben wir\nfast abgeschlossen!",
+      "Um ehrlich zu sein...",
+      "Wir haben unsere Studien dazu\nbereits beendet!",
+      "Wir wären berühmt geworden, wenn\ndieser widerliche Ganondorf nicht\nversucht hätte, die Aufzeichnungen \nzu stehlen.",
+      "Wir konnten es nicht zulassen, daß\ner die Früchte unserer Arbeit an\nsich reißt!",
+      "Daher haben wir unser Leben\nriskiert, um diese Geheimnisse zu\nbewahren."
+    ],
+    "controls": [
+      "TEXTID(0x5011)"
+    ]
+  },
+  {
+    "section": "Die Komponistengeister – Gebrüder Brahmstein",
+    "id": "5011",
+    "pages": [
+      "Möchtest Du unsere Geschichte\nnoch einmal hören?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Die Komponistengeister – Gebrüder Brahmstein",
+    "id": "5012",
+    "pages": [
+      "AARGH!\nICH BIN WIEDER BESIEGT!\nWas? Du schon wieder?",
+      "Wenn ich Dich so ansehe, muß ich\nan Prinzessin Zelda denken.",
+      "Da Du offenbar mit der\nKönigsfamilie in Kontakt stehst,\nkann ich Dir ein wenig mehr über\nuns erzählen.",
+      "Damals nannten uns die Leute\nüberall \"Die tadellosen Tonsetzer\",\nda wir viele Meisterwerke\nkomponiert haben.",
+      "Aber wir waren nicht nur\nKomponisten!",
+      "Wir hatten auch einen Auftrag!\nWir sollten die geheimnisvollen\nKräfte der hylianischen \nKönigsfamilie untersuchen.",
+      "Unsere Namen wären in die\nGeschichte Hyrules eingegangen,\nwenn wir unsere Studien beendet\nhätten.",
+      "Wir haben diese Studien natürlich\nstets streng geheim gehalten!"
+    ],
+    "controls": [
+      "TEXTID(0x5014)"
+    ]
+  },
+  {
+    "section": "Die Komponistengeister – Gebrüder Brahmstein",
+    "id": "5013",
+    "pages": [
+      "AARGH!\nICH BIN SCHON WIEDER TOT!\nWas? Du schon wieder?",
+      "Wenn ich Dich so anschaue, muß\nich an Prinzessin Zelda denken...",
+      "Wenn Du mit der Königsfamilie\nnäher bekannt bist, kann ich Dir\nja etwas mehr über uns erzählen."
+    ],
+    "controls": [
+      "TEXTID(0x5014)"
+    ]
+  },
+  {
+    "section": "Die Komponistengeister – Gebrüder Brahmstein",
+    "id": "5014",
+    "pages": [
+      "Mein Bruder und ich studierten\nverschiedene Melodien: Eine, den\nMond zu beschwören, und eine\nandere, die Sonne herbeizurufen!",
+      "Da Du von einem Angehörigen des\nKönigshauses geschickt wurdest,\nwill ich Dir von den Ergebnissen\nunserer Untersuchungen berichten.",
+      "Sie stehen geschrieben auf dem\nköniglichen Grabstein.",
+      "Zeige auf musikalische Weise, daß\nDu in königlichem Auftrag\nunterwegs bist, wenn Du auf dem\nTriforce vor dem Grab stehst."
+    ],
+    "controls": [
+      "TEXTID(0x5011)"
+    ]
+  },
+  {
+    "section": "Die Komponistengeister – Gebrüder Brahmstein",
+    "id": "5000",
+    "pages": [
+      "AARGH!\nDu hast mich bezwungen!\nWie? Ach, Du bist es.",
+      "Hast Du mal die Hymne der Sonne\ngespielt?",
+      "Ich habe Dir ja schon \nerzählt, daß Du damit die Nacht \nzum Tag und den Tag zur Nacht\nmachst - wann immer Du willst.",
+      "Wenn alles um Dich herum dunkel\nist, kannst Du damit wieder Licht\nin die Welt bringen. Probier's!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Gewöhnlicher Geist – Einfangen und Flaschen",
+    "id": "5005",
+    "pages": [
+      "Du hast einen Geist vernichtet!",
+      "Willst Du ihn in einer\nFlasche aufbewahren?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Gewöhnlicher Geist – Einfangen und Flaschen",
+    "id": "5006",
+    "pages": [
+      "Du willst ihn aufbewahren, besitzt\naber keine leere Flasche."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Gewöhnlicher Geist – Einfangen und Flaschen",
+    "id": "5007",
+    "pages": [
+      "Für den Augenblick läßt Du\nihn gehen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Gewöhnlicher Geist – Einfangen und Flaschen",
+    "id": "5008",
+    "pages": [
+      "Du hast ein Irrlicht gefangen!"
+    ],
+    "controls": []
+  }
+]
