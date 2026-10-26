@@ -1,0 +1,407 @@
+[
+  {
+    "area": "Hyrule-Steppe – erste Begegnung nach Verlassen des Kokiri-Waldes",
+    "id": "2064",
+    "pages": [
+      "Sei willkommen!\nBist Du bereit, [Spielername]?",
+      "Es scheint, daß nun die Zeit \ngekommen ist, da Dein Abenteuer \nbeginnen soll.",
+      "Das, was hinter Dir liegt, war\nein Spaziergang im Vergleich zu\ndem, was Dich erwartet... Doch sei\ntapfer und verliere nie den Mut!"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x2065)"
+    ]
+  },
+  {
+    "area": "Hyrule-Steppe – erste Begegnung nach Verlassen des Kokiri-Waldes",
+    "id": "2065",
+    "pages": [
+      "Folgst Du diesem Weg, so \ngelangst Du zum Schloß von Hyrule.\nDort sei es Dir bestimmt, die \nPrinzessin zu treffen...",
+      "Weichst Du ab von Deinen Pfaden, \nund wandelst auf unbekannten \nWegen, so nutze Deine Karte.",
+      "Die Orte, die Du bereits erforscht\nhast, mögen wie von Geisterhand\nin Deine Karte gezeichnet werden.",
+      "Drücke START, um ins Menü zu \ngelangen, und [Z] oder [R], um den \nKarten-Bildschirm einsehen zu \nkönnen.",
+      "Auf dem Karten-Bildschirm findest\nDu außerdem einen Hinweis, welchen\nOrt Du als nächsten aufsuchen \nsolltest."
+    ],
+    "controls": [
+      "TEXTID(0x2066)"
+    ]
+  },
+  {
+    "area": "Hyrule-Steppe – erste Begegnung nach Verlassen des Kokiri-Waldes",
+    "id": "2066",
+    "pages": [
+      "Hast Du alles verstanden?\n\n\nNein!\nJa!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Hyrule-Steppe – erste Begegnung nach Verlassen des Kokiri-Waldes",
+    "id": "2067",
+    "pages": [
+      "So sei es! Setze Deinen Weg nun \nfort! Wir sehen uns wieder..."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Schloss Hyrule",
+    "id": "2068",
+    "pages": [
+      "[Spielername]! Hier entlang!",
+      "Die Prinzessin befindet sich \nim Schloß! Doch hüte Dich vor den \nWachen. Sie dürfen Dich nicht\nsehen..."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Schloss Hyrule",
+    "id": "2069",
+    "pages": [
+      "Wisse, hier auf diesem Grund, \nnimmt die Zeit ihren gewohnten \nLauf...",
+      "Besuchst Du jedoch eine Stadt \noder die Ranch, steht die Zeit still.",
+      "Wenn Du möchtest, daß die \nTageszeit sich ändert, mußt Du die \nStadt verlassen und zu späterer \nStunde wiederkehren...",
+      "Geh nun und hüte Dich vor den \nWachen..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Schloss Hyrule",
+    "id": "206A",
+    "pages": [
+      "Muß ich meine Worte wiederholen?\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Schloss Hyrule",
+    "id": "206B",
+    "pages": [
+      "Du scheinst die Gabe der\nWeisheit zu besitzen...\nViel Glück..."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Weg nach Kakariko",
+    "id": "206C",
+    "pages": [
+      "Sei willkommen, [Spielername]! \nHalte ein, mein Freund!",
+      "Du befindest Dich vor den Toren \nKakarikos. Hast Du die Prinzessin \nbereits besucht? Wenn nicht, so \nrate ich Dir, sie aufzusuchen."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Weg nach Kakariko",
+    "id": "206D",
+    "pages": [
+      "Sei gegrüßt, [Spielername]! \nSchau hierher!",
+      "Du befindest Dich vor den Toren \nKakarikos. Die Treppen führen\nDich in die Stadt!"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Weg nach Kakariko",
+    "id": "206A",
+    "pages": [
+      "Muß ich meine Worte wiederholen?\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Weg nach Kakariko",
+    "id": "206E",
+    "pages": [
+      "[Spielername]! Nur Du hast die\nMacht, den Lauf des Schicksals zu\nändern!"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Verlorene Wälder – vor Salias Lied",
+    "id": "10C0",
+    "pages": [
+      "Willkommen!\nIch habe Dich erwartet!",
+      "Schön, Dich wiederzusehen, \n[Spielername]. Hör mir gut zu!"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x10C1)"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – vor Salias Lied",
+    "id": "10C1",
+    "pages": [
+      "Hier in den Verlorenen Wäldern \nwirst Du die Heilige Lichtung \nfinden.",
+      "Dies ist ein Ort, den bisher nur\nwenige Leute betreten haben.",
+      "Still... Ich höre etwas...\nIch höre eine fremde Melodie!",
+      "Kannst Du sie auch hören?"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – vor Salias Lied",
+    "id": "10C2",
+    "pages": [
+      "Muß ich mich noch einmal \nwiederholen?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – vor Salias Lied",
+    "id": "10C3",
+    "pages": [
+      "Beweise Dein Geschick und finde\nden Weg durch den Wald...",
+      "Verlasse Dich auf Dein Gehör\nund Du wirst schon bald Dein\nZiel erreichen!"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Verlorene Wälder – nach Salias Lied",
+    "id": "10C4",
+    "pages": [
+      "[Spielername]...!",
+      "Hat Salia Dir ihr Lied \nbeigebracht?",
+      "Das Lied scheint geheimnisvolle\nKräfte zu haben.",
+      "Ich hörte, daß an anderen \nOrten ebenfalls die Möglichkeit\nbesteht, Lieder zu lernen. Zum \nBeispiel in Hyrule..."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x10C5)"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – nach Salias Lied",
+    "id": "10C5",
+    "pages": [
+      "Plazierst Du die Okarina auf [C]\nund wählst sie aus, werden\nNotenlinien erscheinen.",
+      "Ich empfehle Dir, hier eines der\nLieder zu spielen, die Du erlernt \nhast.",
+      "Du kannst natürlich auch ohne\nNotenlinien spielen. Auch das \nmacht Spaß!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – nach Salias Lied",
+    "id": "10C6",
+    "pages": [
+      "Muß ich alles nochmal sagen?\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – nach Salias Lied",
+    "id": "10C7",
+    "pages": [
+      "Alle Lieder, die Du lernst, \nwerden Dir im Status-Menü \nangezeigt. Lerne sie, denn Du \nwirst sie häufig brauchen."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Todesberggipfel – Fee und Rückflug",
+    "id": "3062",
+    "pages": [
+      "Du hast Dich bisher gut \ngeschlagen, [Spielername]. \nDies ist der Gipfel des \nTodesberges!",
+      "Man sagt, die Wolken, die den \nGipfel umgeben, spiegeln den\nZustand des Berges wider. Sind\nsie weiß, herrscht Friede.",
+      "Dein Aufstieg zum Gipfel hat\nmir bewiesen, wie tapfer Du bist!\nDiese Tapferkeit soll nun erneut\ngeprüft werden...",
+      "Eine mächtige Fee lebt \nhier oben. Sie ist die\nMutter aller Feen! Suche sie auf,\nund sie wird Dich belohnen...",
+      "Ich werde hier auf Dich warten.\nWillst Du zurück zum Fuß des\nBerges, so werde ich Dir helfen.\nGeh nun!"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Todesberggipfel – Fee und Rückflug",
+    "id": "3063",
+    "pages": [
+      "Du siehst erwachsener aus,\nseit Du die Fee besucht hast...",
+      "Doch noch wirkst Du nicht wie \nder prophezeite Retter Hyrules!\nHierfür fehlt Dir noch einiges!",
+      "Wenn Du zum Fuß des Berges \nzurück möchtest, kann ich Dich \nmitnehmen. Komm her und halte \nDich an meinen Krallen fest!"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Zora-Fluss",
+    "id": "4002",
+    "pages": [
+      "[Spielername]!\nHier entlang!",
+      "Ich frage mich, was Salia\ngerade macht. Warum gehst Du\nnicht mal wieder zu ihr?"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Zora-Fluss",
+    "id": "4017",
+    "pages": [
+      "Sei gegrüßt!",
+      "[Spielername], es sieht aus, als\nwürdest Du Dich langsam an Dein\nAbenteuerleben gewöhnen!",
+      "Ich glaube, Prinzessin Zelda wartet\ndarauf, daß Du sie wieder besuchst.",
+      "Du besitzt doch schon den\nGoronen-Opal, oder nicht?"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Zora-Fluss",
+    "id": "4031",
+    "pages": [
+      "Hallo! Es sieht aus, als wärest Du\nerfahrener und kräftiger geworden,\n[Spielername]!",
+      "Direkt vor Dir liegt Zoras Reich.\nDie Zoras dienen der königlichen\nFamilie von Hyrule und bewachen\ndieses Gewässer.",
+      "Das Tor zu ihrem Reich öffnet\nsich nur einem Abgesandten der \nköniglichen Familie.",
+      "Spiele vor dem Portal ein\nSchlaflied aus der Überlieferung\nder königlichen Familie!"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Hylia-See – Erkundungsgespräch",
+    "id": "2071",
+    "pages": [
+      "Vor Dir liegt der Hylia-See.\nSein Wasser ist rein und klar...",
+      "Die Zoras, die im Osten des Landes\nleben, sind die Hüter des Tempels,\nder sich auf dem Grund des Sees\nbefindet...",
+      "Willst Du Dir den Ort auf Deiner\nKarte betrachten, so drücke \nSTART und begib Dich mit [Z] \noder [R] zum Karten-Bildschirm.",
+      "Alle Orte, an denen Du schon \neinmal warst, werden Dir auf der\nKarte angezeigt..."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Hylia-See – Erkundungsgespräch",
+    "id": "206A",
+    "pages": [
+      "Muß ich meine Worte wiederholen?\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Hylia-See – Erkundungsgespräch",
+    "id": "2072",
+    "pages": [
+      "Geh nun!"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Hylia-See – Flug zum Schloss",
+    "id": "4003",
+    "pages": [
+      "Was machst Du denn? Du hast\nja ganz schön lange gebraucht...",
+      "Vielleicht solltest Du ab und zu\nauf die Karte schauen.",
+      "[Spielername], das hier ist ein \nruhiger See mit kristallklarem,\nkühlem Wasser.",
+      "Auf seinem Grund befindet sich\nder Zugang zum Wassertempel.\nDie Zoras wachen über ihn.",
+      "Die Zoras sind Angehörige von\nZoras Reich im Nordosten Hyrules.\nSie sind stolze Amphibienwesen und\nseit Urzeiten der Königsfamilie treu.",
+      "Ich hörte, nur einem Angehörigen\nder königlichen Familie würde der\nZutritt zu Zoras Reich gestattet!",
+      "Ich bin übrigens gerade auf dem\nWeg zum Schloß. Wenn Du mit mir\nkommen möchtest, halte Dich an\nmeinen Krallen fest!"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Hylia-See – Flug zum Schloss",
+    "id": "4004",
+    "pages": [
+      "Ich bin übrigens gerade auf dem\nWeg zum Schloß. Wenn Du mit mir\nkommen möchtest, halte Dich an\nmeinen Krallen fest!"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Gerudotal",
+    "id": "206F",
+    "pages": [
+      "[Spielername]! Ich habe Dich \nerwartet! Wohin werden Dich Deine\nSchritte als nächstes lenken?",
+      "Begibst Du Dich gen Süden, so \nkannst Du dort die ruhigen \nWasser des Hylia-Sees erkunden.",
+      "Im Westen hingegen liegt das \nGerudotal. Auf der anderen Seite\ndieses Tales befindet sich die \nGerudo-Festung.",
+      "Welchen Weg Du auch immer wählst,\ndie Macht des Triforce möge Dich\nbegleiten!"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Gerudotal",
+    "id": "206A",
+    "pages": [
+      "Muß ich meine Worte wiederholen?\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Gerudotal",
+    "id": "2070",
+    "pages": [
+      "Was auch immer das Schicksal Dir \nbescheren mag, laß Dich niemals \nentmutigen..."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Wüstenkoloss / Geistertempel",
+    "id": "6079",
+    "pages": [
+      "Hey, was ist, [Spielername]?\nÜberrascht, mich zu sehen?",
+      "Lange Jahre in der Zukunft\nbedeuten anscheinend gar\nnichts. Hier sind nur wenige\nSekunden vergangen!",
+      "Sogar ich hatte gedacht, daß\nReisen durch die Zeit eine reine\nLegende seien.",
+      "[Spielername], Du hast viel\nErfahrung gesammelt!"
+    ],
+    "controls": [
+      "TEXTID(0x607A)"
+    ]
+  },
+  {
+    "area": "Wüstenkoloss / Geistertempel",
+    "id": "607A",
+    "pages": [
+      "Das Schicksal Hyrules liegt von\nnun an in Deinen Händen.",
+      "Vielleicht ist meine Zeit jetzt\nvorüber. Hier ist ein letzter Rat:",
+      "In diesem Tempel hausen zwei alte\nHexen. Um sie zu vernichten,\nschlage sie mit ihren eigenen\nmagischen Waffen!"
+    ],
+    "controls": [
+      "TEXTID(0x607B)"
+    ]
+  },
+  {
+    "area": "Wüstenkoloss / Geistertempel",
+    "id": "607B",
+    "pages": [
+      "Möchtest Du das, was ich gesagt\nhabe, noch einmal hören?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Wüstenkoloss / Geistertempel",
+    "id": "607C",
+    "pages": [
+      "Ich werde Dich\nweiterhin beobachten...\nViel Glück!"
+    ],
+    "controls": []
+  }
+]
