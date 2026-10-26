@@ -1,0 +1,3177 @@
+[
+  {
+    "section": "Straßen und Wohnhäuser – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "709B",
+    "pages": [
+      "Richard zahlt keine Steuern, wohnt\nmietfrei und schläft den ganzen Tag.\nFriedrich Merz nennt ihn\nLeistungsträger."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "709C",
+    "pages": [
+      "Mein Hund Richard frißt besser als\nich. Ich hab gestern sein Futter\nprobiert. Scheiße, der hat recht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "709D",
+    "pages": [
+      "Mein kleiner weißer Hund Richard ist\nweg! Such ihn bitte und bring ihn\nher. Dem Depp fällt nicht mal sein\nName ein."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "709E",
+    "pages": [
+      "Das ist nicht Richard! Ich wollte\nmeinen Hund zurück, keine zufällige\nFellwurst aus der Fußgängerzone!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "709F",
+    "pages": [
+      "Richard! Endlich wieder da!",
+      "Danke! Hier ist Deine Belohnung.\nRichard bekommt erst mal\nHausarrest. Das besprechen wir mit\nseinem Anwalt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "70A0",
+    "pages": [
+      "Nachts streunen überall Hunde herum.\nRichard ist wieder sicher. Ich hab die\nTür zugemacht. Verrücktes Konzept."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7016",
+    "pages": [
+      "Man sieht mich nur von weiter weg,\nansonsten würde auffallen, daß mein\nGesicht nur grottenschlecht aufgemalt\nwurde."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7017",
+    "pages": [
+      "Mehr Nähe verträgt meine Textur\nnicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7045",
+    "pages": [
+      "Man sieht mich nur von weiter weg,\nansonsten würde auffallen, daß mein\nGesicht nur grottenschlecht aufgemalt\nwurde."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "701A",
+    "pages": [
+      "Früher war der Burggraben im\nSommer kühl. Jetzt kann man darin\nfast Suppe kochen.",
+      "Klimawandel in Hyrule, sage ich Dir!\nSogar mein Bart sucht Schatten."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "701B",
+    "pages": [
+      "Dieser Bart ist mein ganzer Stolz!",
+      "Bei der Hitze würde ich ihn am\nliebsten abnehmen. Geht leider nicht.",
+      "Merz sagt, wir sollen mehr arbeiten.\nMein Schweiß leistet schon\nÜberstunden.",
+      "Du suchst Mario von der Lon\nLon-Farm?",
+      "Ja, den habe ich gesehen..."
+    ],
+    "controls": [
+      "TEXTID(0x701C)"
+    ]
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "701C",
+    "pages": [
+      "Mein Vater Mario ist mit Milchkisten\nzum Schloß gegangen. Er hat eine\nrote Kappe, einen großen Schnurrbart\nund eine blaue Latzhose.",
+      "Also, es kann auch gut sein, daß er\nseine Kappe mal wieder verloren hat.\nDas ist eigentlich sein\nErkennungsmerkmal, aber manchmal",
+      "hat er sie halt nicht auf.",
+      "Da darf man sich jetzt nicht viel bei\ndenken. Das passiert halt manchmal,\nne? Er ist trotzdem Mario."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "7047",
+    "pages": [
+      "Das war Friedrich Merz auf dem\nschwarzen Pferd. Kein Zweifel.",
+      "Hyrule umkrempeln, aber an diesen\ndrei Haaren festhalten. Warum? Mach\ndoch einfach auf null!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Glatzköpfiger Mann / Wunderer",
+    "id": "7001",
+    "pages": [
+      "Ich freu mich schon, in sieben Jahren\nhier wieder aufzutauchen und im\nschönen Hyrule abzuhängen. Das wird\nein Fest!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Glatzköpfiger Mann / Wunderer",
+    "id": "70EB",
+    "pages": [
+      "Na, wie gefällt Dir das Abenteuer bis\njetzt? Ich bin gespannt, wie es\nweitergeht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Mann mit schwarzem Hemd",
+    "id": "7023",
+    "pages": [
+      "Mr. Bean war mein Rettungssanitäter,\nals ich 'ne Überdosis hatte.",
+      "Jetzt beschützt er Zelda. Ich würde\nsagen, die hat den richtigen Mann\nerwischt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Mann mit schwarzem Hemd",
+    "id": "7024",
+    "pages": [
+      "Mr. Bean war mein Rettungssanitäter,\nals ich 'ne Überdosis hatte."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Mann mit schwarzem Hemd",
+    "id": "704B",
+    "pages": [
+      "Mr. Bean war mein Rettungssanitäter,\nals ich 'ne Überdosis hatte.",
+      "Mr. Bean ist der absolut ehrenvollste\nEhrenmann unter den Ehrenmännern."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Bettler",
+    "id": "700C",
+    "pages": [
+      "Ich kaufe Flascheninhalte. Keine\nFlaschen. Das muß ich hier ständig\ndazusagen.",
+      "Zeig mir mit [C], was Du hast. Fisch,\nKäfer oder blaues Feuer. Ich bin da\ngeschäftlich recht offen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Alte Frau",
+    "id": "7021",
+    "pages": [
+      "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können.",
+      "Die schwimmen da den ganzen Tag\nelektrisch rum. Irgendwo muß der\nStrom ja herkommen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Alte Frau",
+    "id": "7022",
+    "pages": [
+      "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Alte Frau",
+    "id": "704A",
+    "pages": [
+      "Ich schmeiß Autobatterien in den\nHylia-See, damit die Zitteraale genug\nStrom nachladen können."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Alter Mann",
+    "id": "7027",
+    "pages": [
+      "Friedrich Merz verspricht Wohlstand.\nVor allem denen, die schon welchen\nhaben.",
+      "Er war Aufsichtsratschef bei\nBlackRock in Deutschland. Ich war\nbeim Bäcker. Auch teuer.",
+      "Wenn Reichtum nach unten tropfen\nsoll, muß oben wohl jemand den Hahn\nzugedreht haben.",
+      "Immerhin beschützt Mr. Bean unsere\nPrinzessin. Der löst Probleme, ohne\nerst den Milchpreis zu erklären.",
+      "Man sieht ihn oft beim Schloß..."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Alter Mann",
+    "id": "7028",
+    "pages": [
+      "Mr. Bean lebt im Schloß. Er gilt als\nZeldas fähigster Beschützer. Ein Mann\nmit Weitblick!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Alter Mann",
+    "id": "704D",
+    "pages": [
+      "Zelda ist in den besten Händen. Mr.\nBean hat sie aus dem Schloß\ngerettet.",
+      "Dieser Mann ist ein Volksheld! Der\nläßt sie niemals im Stich. Darauf\nkannst Du Dich verlassen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Junge Frau mit braunem Haar",
+    "id": "701D",
+    "pages": [
+      "In Zoras Reich soll ein seltsamer\nTentakelmann aufgetaucht sein. Sein\nName sei Thaddäus.",
+      "Niemand weiß, woher er kommt. Man\nhört nur manchmal eine furchtbare\nKlarinette unter dem Wasserfall."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Junge Frau mit braunem Haar",
+    "id": "701E",
+    "pages": [
+      "Thaddäus, der Tentakelmann... Er soll\njeden anstarren, der fröhlich ist."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Junge Frau mit braunem Haar",
+    "id": "7048",
+    "pages": [
+      "Zelda flieht, Merz dreht durch und\nalle haben Angst.",
+      "Und trotzdem frage ich mich: Was\nsoll diese Frisur? So wenig Haar\nkann doch keinen solchen Aufwand\nrechtfertigen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Schnurrbartträger mit rotem Hemd",
+    "id": "701F",
+    "pages": [
+      "Ich kenne Mido aus dem Wald.\nRichtiger Wichser, der Typ. Bin\nsaufroh, daß Kokiri den Wald nicht\nverlassen können!",
+      "Ich schwör! Einmal hat er mir\nerklärt, wie man richtig steht. Ich\nstand einfach nur da."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Schnurrbartträger mit rotem Hemd",
+    "id": "7020",
+    "pages": [
+      "Mido würde sogar vor einer offenen\nTür stehen und verlangen, daß Du\nerst die richtige Hose findest."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Schnurrbartträger mit rotem Hemd",
+    "id": "7049",
+    "pages": [
+      "Er nennt uns weinerlich, während auf\nseinem Kopf noch drei Haare um ihren\nArbeitsplatz kämpfen.",
+      "Null Millimeter, Friedrich! Trau Dich!\nDas wäre endlich mal eine klare\nEntscheidung!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Schnurrbartträger mit blauem Hemd",
+    "id": "7018",
+    "pages": [
+      "Ich habe einen sauguten Kumpel, der\nliebt es zu trommeln. Wir nennen ihn\nalle liebevoll Bongo Bongo.",
+      "Er ist nach Kakariko gezogen, um\ndort mit seiner Musik durchzustarten.",
+      "Seitdem haben wir nichts mehr von\nihm gehört. Nicht mal ein einziges\nSolo.",
+      "Vielleicht übt er im Keller. Gute\nSchlagzeuger brauchen schließlich\neinen eigenen Raum."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Schnurrbartträger mit blauem Hemd",
+    "id": "7019",
+    "pages": [
+      "Bongo Bongo in Kakariko. Falls Du ihn\nsiehst, sag ihm, daß seine alte Band\nauf ihn wartet.",
+      "Und falls er wieder behauptet, er\nkönne ohne Kopf besser den Takt\nhalten: Glaub ihm kein Wort."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Schnurrbartträger mit blauem Hemd",
+    "id": "7046",
+    "pages": [
+      "Dieser Friedrich Merz hat mich fast\nkomplett mit seinem Pferd umgeritten.\nIst der Typ wahnsinnig? Der soll sich\nmal eine Vollglatze schneiden. Was",
+      "soll die Scheiße?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Schnurrbartträger mit blauem Hemd",
+    "id": "7044",
+    "pages": [
+      "Also, ich habe neulich in Lord\nJabu-Jabu gechillt, und ich fand es\nschade,",
+      "daß man dort nichts kaufen konnte,\nwas ja gerade im Inneren eines\nriesigen Fisches",
+      "mega praktisch gewesen wäre, weil\nich bereit gewesen wäre, meine\nsämtlichen Rubine",
+      "dort auszugeben, wenn da nur zufällig\nein Händler gewesen wäre, aber den\nhabe ich",
+      "natürlich nicht gesehen, weshalb ich\njetzt immer noch nicht weiß, wohin\nmit dem Geld,",
+      "weshalb ich jetzt einfach irgendeine\ndieser Masken für tausend Jahre\nmieten will,",
+      "und ich hoffe wirklich, daß das\nMaskengeschäft die nächsten Jahre\ndort stehen bleibt,",
+      "weil sich sonst ja die ganze\nlangfristige Mietplanung im nachhinein\nals ziemlich",
+      "unpraktisch herausstellen würde, und\ngerade bei so einer Maske muß man\nvorausdenken."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Junge Frau mit orangefarbenem Haar",
+    "id": "7014",
+    "pages": [
+      "Oh Junge, ich muß unbedingt so eine\nMaske mieten! Ich kann es kaum\nerwarten! JAAAAAA!!!!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Junge Frau mit orangefarbenem Haar",
+    "id": "70A4",
+    "pages": [
+      "Malon ist zum Schloß gegangen. Ich\ngehe zum Maskenladen. Endlich hat\nmein Leben einen Sinn!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Weiterer Schnurrbartträger",
+    "id": "7015",
+    "pages": [
+      "Ist Dir aufgefallen, daß diese\nkomischen Augen-Uhren-Ansagesteine\nsich anfühlen, als wären sie aus\nGummi?",
+      "Ich habe draufgehauen. Der Stein hat\ngezittert. Dann hat er mir die Uhrzeit\ngesagt. Ich brauche Urlaub."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Weiterer Schnurrbartträger",
+    "id": "7044",
+    "pages": [
+      "Also, ich habe neulich in Lord\nJabu-Jabu gechillt, und ich fand es\nschade,",
+      "daß man dort nichts kaufen konnte,\nwas ja gerade im Inneren eines\nriesigen Fisches",
+      "mega praktisch gewesen wäre, weil\nich bereit gewesen wäre, meine\nsämtlichen Rubine",
+      "dort auszugeben, wenn da nur zufällig\nein Händler gewesen wäre, aber den\nhabe ich",
+      "natürlich nicht gesehen, weshalb ich\njetzt immer noch nicht weiß, wohin\nmit dem Geld,",
+      "weshalb ich jetzt einfach irgendeine\ndieser Masken für tausend Jahre\nmieten will,",
+      "und ich hoffe wirklich, daß das\nMaskengeschäft die nächsten Jahre\ndort stehen bleibt,",
+      "weil sich sonst ja die ganze\nlangfristige Mietplanung im nachhinein\nals ziemlich",
+      "unpraktisch herausstellen würde, und\ngerade bei so einer Maske muß man\nvorausdenken."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Weiterer Schnurrbartträger",
+    "id": "7046",
+    "pages": [
+      "Dieser Friedrich Merz hat mich fast\nkomplett mit seinem Pferd umgeritten.\nIst der Typ wahnsinnig? Der soll sich\nmal eine Vollglatze schneiden. Was",
+      "soll die Scheiße?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Bewohner im violetten Hemd",
+    "id": "7055",
+    "pages": [
+      "In meinem Haus steht eine Truhe, die\nsich nur öffnet, wenn alle Gäste weg\nsind.",
+      "Deshalb mag ich Dich persönlich\nüberhaupt nicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Weiterer bärtiger Bewohner",
+    "id": "7089",
+    "pages": [
+      "Scheiße, verfickte Kacke! Dieser\nbeschissene Köter hat mir schon\nwieder vor die Tür geschissen!",
+      "Ich wollte EINEN ruhigen Abend, Du\narschgeigender Dreckswichser von\neinem Schicksal!",
+      "Und dann kommt so ein\nZipfelmützenfurz an und wartet auf\neinen weisen Spruch. Hier: Fick die\nScheißwand an!",
+      "So. Jetzt ist gut. Ich wünsche Dir\neinen zauberhaften Aufenthalt in\nHyrule."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Alter Mann in brauner Robe",
+    "id": "708A",
+    "pages": [
+      "In der Nähe des Schlosses ist eine\nversteckte Feenquelle. Da kannst Du\nDich heilen lassen.",
+      "Ich war wegen meiner Bandscheibe\nda. Die Fee hat nur gelacht. Seitdem\ngeh ich krumm UND bin beleidigt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Straßen und Wohnhäuser – Bewohner mit weißem Hemd",
+    "id": "700E",
+    "pages": [
+      "Ich hab die Hymne der Zeit aus\nVersehen rückwärts gespielt.",
+      "Jetzt ist mein Vater jünger als ich.\nRichtig unangenehm beim Elternabend."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "700D",
+    "pages": [
+      "Ich check nicht, was der Maskentyp\nsoll. Warum sollte man eine Maske\nmieten? Für was denn bitte\nüberhaupt??"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "700F",
+    "pages": [
+      "In Kakariko mußt Du einen alten\nFreund besuchen. Einen Freund, der\naus dem Jenseits zurückgekehrt ist."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "7010",
+    "pages": [
+      "Ich sehe, Du verfügst nun über den\nFanghaken. Hast Du ihn Dir signieren\nlassen? Der gehörte mal einem\ngroßartigen Rennmeister."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "7011",
+    "pages": [
+      "Wenn Du Elixiere kaufen willst,\ndann bringe eine leere Flasche mit.\nHast Du verstanden, Junge?"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "7012",
+    "pages": [
+      "Tut mir leid, das ist nur eine\nAttrappe. Wegen der Probleme in\nGoronia haben wir in der letzten\nZeit kein Material mehr bekommen."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "7013",
+    "pages": [
+      "Wenn Du auf den Todesberg willst,\nkaufe besser einen Hylia-Schild.\nDamit schützt Du Dich vor\nherabfallenden Lavabrocken.",
+      "Aber für ein Kind ist der Schild\nvielleicht eine Nummer zu groß..."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "70ED",
+    "pages": [
+      "Zeig mir mit [C] den Inhalt Deiner\nFlasche. Eine leere Flasche ist kein\nInhalt. Darüber verhandle ich nicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "70EF",
+    "pages": [
+      "Nee, das kaufe ich nicht. Sogar ich\nhab Grenzen. Mr. Bean hat mir dafür\nextra einen Zettel geschrieben."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "70F0",
+    "pages": [
+      "Blaues Feuer! 150 Rubine dafür. Wenn\nBean fragt: Das ist Wasser. Sehr\nwütendes Wasser."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "70F1",
+    "pages": [
+      "Ein Fisch! Dafür gibt's 100 Rubine.\nDen trinke ich diesmal nicht.\nVersprochen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Bettler – angebotene Flascheninhalte",
+    "id": "70F2",
+    "pages": [
+      "Ein Käfer! 50 Rubine. Ich brauche\njemanden, der mich nicht dauernd\nverurteilt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Streitende Marktbesucher",
+    "id": "7042",
+    "pages": [
+      "Friedrich Scherz bereitet mir\nFriedrich Schmerz."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Streitende Marktbesucher",
+    "id": "7043",
+    "pages": [
+      "Ich hab mir 'ne Fee in die Hose\ngesteckt. Falls ich sterbe, wird das\nfür alle Beteiligten richtig\nunangenehm."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Streitende Marktbesucher",
+    "id": "703F",
+    "pages": [
+      "Ich hab gehört, irgendein Vollidiot hat\nden Deku-Baum komplett\ngeschrottet??"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Streitende Marktbesucher",
+    "id": "7041",
+    "pages": [
+      "Für 'ne Stadt isses hier ganz schön\nklein. Ich hab geniest und war in der\nSeitengasse."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Streitende Marktbesucher",
+    "id": "703E",
+    "pages": [
+      "Hast Du jemals 'nen Zora außerhalb\nvon Zoras Reich gesehen? Laß mal\nHyrule fluten für mehr Inklusion."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Das tanzende Paar",
+    "id": "7025",
+    "pages": [
+      "Waluigi ist so ein seltsamer lila Typ.",
+      "Kennste den, Liebling?",
+      "Der ist kürzlich von der Schule\ngeflogen, der Depp.",
+      "Aus dem wird doch eh nichts mehr!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Das tanzende Paar",
+    "id": "7026",
+    "pages": [
+      "Dieser Waluigi...",
+      "Der trägt doch immer Lila, oder?",
+      "Ja, den kenn ich!",
+      "Von der Schule geflogen!",
+      "Aus dem wird doch eh nichts mehr,\nSchatz."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Hühner-jonglierende Frau",
+    "id": "7000",
+    "pages": [
+      "Wenn ich dieses Huhn fange, bring ich\nihm Schwimmen bei. Dann hab ich\nendlich 'ne Ente."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Hühner-jonglierende Frau",
+    "id": "70EA",
+    "pages": [
+      "Dieser Merz ist hier durchgeritten!\nDer soll seine drei Haare auf null\nmachen. Mein Huhn hat mehr Frisur!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Hühner-jonglierende Frau",
+    "id": "7118",
+    "pages": [
+      "Oh! Ein Fuchs! Hast Du auch\neine Gans gestohlen?!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Hühner-jonglierende Frau",
+    "id": "7119",
+    "pages": [
+      "Das ist gespenstisch!\nEin Junge in Kakariko hat\nnach einer Maske wie dieser\ngesucht!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Hühner-jonglierende Frau",
+    "id": "711A",
+    "pages": [
+      "Gähn... Hast Du keine andere\nMaske?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Hühner-jonglierende Frau",
+    "id": "711B",
+    "pages": [
+      "Welch eine seltsame Maske!\nDie ist klasse!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Malon/Marlon – Stadt und anschließender Schlossweg",
+    "id": "2041",
+    "pages": [
+      "Bist Du nicht einer von diesen\nKokiri? Hey, warte mal, müßtest Du\nhier draußen nicht gleich einen\nHerzinfarkt bekommen?",
+      "Nein? Oh, war wohl einfach nur ein\nVorurteil. Egal, ich bin Malon. Meinem\nVater Mario gehört die Lon Lon-Farm.",
+      "Er bringt gerade Milch zum Schloß.\nIrgendein Verrückter dort, namens\nFriedrich, hat Brustmilch bestellt.\nWas zur Hölle, Alter!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Malon/Marlon – Stadt und anschließender Schlossweg",
+    "id": "2042",
+    "pages": [
+      "Also, so eine Bestellung ist halt echt\nseltsam, ne? Wir haben ihm jetzt\neinfach ganz normale Milch geliefert.\nVon einer Hyrule-Kuh."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Malon/Marlon – Stadt und anschließender Schlossweg",
+    "id": "2043",
+    "pages": [
+      "Wenn Du gerade sowieso auf dem\nWeg zum Schloß bist, dann schau mal\nbitte, ob Mario da wieder eingepennt\nist.",
+      "Das Problem mit ihm ist, daß er\nteilweise nächtelang durchschläft.\nWenn Du ihn nicht weckst, würde der\nlocker sieben Jahre durchschlafen.",
+      "Ach, eine Sache noch: Jemand beim\nSchloß hat Eier zum Lecken bestellt.\nDeswegen nimm das bei der\nGelegenheit bitte mit.",
+      "Was daraus schlüpft, hilft beim\nWecken. Ein Wecker aus einem\nFragezeichenblock war leider\nausverkauft."
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_Z0_SMILE_0)",
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Malon/Marlon – Stadt und anschließender Schlossweg",
+    "id": "2044",
+    "pages": [
+      "Übrigens, wenn Du mal ganz genau\nhinguckst, trägt Mario das Gesicht\nvon seinem Erzfeind als Anhänger.\nAchte da mal drauf."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Wachen – Stadteingang, Wachstube und Seitengasse",
+    "id": "7002",
+    "pages": [
+      "Der Mond sieht ganz normal aus wie\nimmer. In drei Tagen wird hier\nwahrscheinlich alles beim alten sein.\nZum Glück!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Wachen – Stadteingang, Wachstube und Seitengasse",
+    "id": "7003",
+    "pages": [
+      "Ich beschütze Hyrule. Und zwar bei\nNacht! Tagsüber kann das ja jeder."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Wachen – Stadteingang, Wachstube und Seitengasse",
+    "id": "7004",
+    "pages": [
+      "Wenn etwas kaputtgeht, finde ich das\nimmer mega witzig. Wirklich immer.",
+      "Krug fällt runter? Lustig. Stuhl bricht\nzusammen? Meisterwerk.",
+      "Das ist mein gesamter Humor. Es\ngibt keine zweite Ebene. Ich bin\nvollkommen zufrieden.",
+      "[A] hebt den Krug. Nochmal [A] wirft\nihn. Und dann kommt die Pointe: Der\nKrug ist kaputt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Wachen – Stadteingang, Wachstube und Seitengasse",
+    "id": "709A",
+    "pages": [
+      "Nachts ist es hier still. Leider geht\ndabei viel zu wenig kaputt.",
+      "Tagsüber zerlegt so ein Waldkind die\nKrüge. Ich lache jedes einzelne Mal.",
+      "Die Kollegen sagen, mein Humor sei\neindimensional. Ich sage: KRRRACH!",
+      "Siehst Du? Schon wieder lustig.\nGroßartiges Gespräch."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Wachen – Stadteingang, Wachstube und Seitengasse",
+    "id": "7007",
+    "pages": [
+      "Du... aus dem Wald... hör mir zu. Das\nist unfaßbar peinlich.",
+      "Merz ist hinter Zelda und Mr. Bean\nher. Ich wollte ihn verfolgen.",
+      "Dann bin ich gestolpert. Einfach so.\nÜber meine eigenen Füße.",
+      "Mit dem Schädel zuerst auf den\nAsphalt. Ich habe es richtig krachen\ngehört.",
+      "Kein heldenhafter Zweikampf. Kein\nHinterhalt. Ein beschissener Sturz.",
+      "Zelda hat Dir etwas zugeworfen.\nSuch es im Burggraben. Dann zur\nZitadelle der Zeit.",
+      "Schreib bitte... ich sei im Dienst\ngefallen. Das klingt... würdevoller..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Wachen – Stadteingang, Wachstube und Seitengasse",
+    "id": "7008",
+    "pages": [
+      "Er rührt sich nicht mehr. Sein letzter\nGegner war der Asphalt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Erwachsen – Geisterhändler in der Wachstube",
+    "id": "70F4",
+    "pages": [
+      "Auch nach sieben Jahren hat sich\nmein Humor nicht geändert.",
+      "Ja, ich bin es tatsächlich. Die Wache\naus dem Raum mit den Krügen.",
+      "[Spielername], Du kennst mich\ndoch noch. Ich fand es immer witzig,\nwenn etwas kaputtging.",
+      "Krug fällt runter? Lustig. Stuhl bricht\nzusammen? Meisterwerk. Das war\nmein ganzer Humor.",
+      "Und jetzt ist Hyrule-Stadt ganz schön\nkaputtgegangen.",
+      "Das ist im Nachhinein gar nicht so\nwitzig.",
+      "Ich handle jetzt mit Geistern.\nIrgendwie muß ich ja Geld verdienen.",
+      "Für ein Irrlicht gibt es 10 Rubine. Ein\nNachtschwärmer bringt 50 Rubine und\n100 Punkte.",
+      "Bei 1.000 Punkten bekommst Du eine\nFlasche. Fang die Geister ein und\nbring sie mir."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Erwachsen – Geisterhändler in der Wachstube",
+    "id": "70F5",
+    "pages": [
+      "Hast Du Geister dabei? Irrlicht: 10\nRubine. Nachtschwärmer: 50 Rubine\nund 100 Punkte.",
+      "Dein Konto steht bei [Bestwert] Punkten.\nHier geht wenigstens noch was voran."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Erwachsen – Geisterhändler in der Wachstube",
+    "id": "70F6",
+    "pages": [
+      "Du hast mir etwas gebracht.",
+      "Laß mal sehen.",
+      "Ein Irrlicht.",
+      "Ein kleines Gespenst in einer Flasche.\nFrüher hätte ich die Flasche\nzerdeppert.",
+      "Hier sind Deine 10 Rubine.",
+      "Ich mache Fortschritte. Irgendwie."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Erwachsen – Geisterhändler in der Wachstube",
+    "id": "70F7",
+    "pages": [
+      "Du bringst mir etwas!",
+      "Ein Nachtschwärmer!",
+      "Der ist schon 'ne andere Nummer.",
+      "Dafür bekommst Du 50 Rubine.",
+      "Und 100 Punkte aufs Konto.",
+      "Bei 1.000 Punkten gibt es die Flasche.\nJa, ich halte mich an meine Zusage."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Erwachsen – Geisterhändler in der Wachstube",
+    "id": "70F8",
+    "pages": [
+      "Tatsächlich.",
+      "1.000 Punkte.",
+      "Du hast ganz schön aufgeräumt,\n[Spielername].",
+      "Du wartest noch auf etwas, oder?",
+      "Das war der letzte Nachtschwärmer,\nden ich Dir abnehme. Der Laden ist\nvoll.",
+      "Ja, ich weiß. Die versprochene\nBelohnung.",
+      "Hier ist Deine Flasche. Nicht\nkaputtmachen. Ich kann kaum glauben,\ndaß ich das gerade sage."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Basar – Begrüßung und Besitzer",
+    "id": "0127",
+    "pages": [
+      "Yo, bei mir gibt's beste Qualität.\nNichts davon ist fake."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Basar – Begrüßung und Besitzer",
+    "id": "7241",
+    "pages": [
+      "Willkommen! Aussuchen darfst Du\nkostenlos."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Basar – Begrüßung und Besitzer",
+    "id": "009D",
+    "pages": [
+      "Die Zeiten sind hart, deshalb sind\nwir von Hyrule hierher gezogen.\nIch würde mich freuen, wenn Du\nbei uns Stammkunde wirst!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Magieladen / Tränkeladen",
+    "id": "012C",
+    "pages": [
+      "Heutzutage kann man sich auch nur\nnoch einen hinter die Birne kippen. Bei\ndieser Inflation!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Magieladen / Tränkeladen",
+    "id": "7241",
+    "pages": [
+      "Willkommen! Aussuchen darfst Du\nkostenlos."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Magieladen / Tränkeladen",
+    "id": "504E",
+    "pages": [
+      "Hey, Kleiner! Wenn Du die Medizin\nmitnehmen möchtest, brauchst Du\netwas zum Aufbewahren!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminenladen bei Nacht",
+    "id": "012D",
+    "pages": [
+      "Paß mit den Dingern auf, Alter."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminenladen bei Nacht",
+    "id": "7241",
+    "pages": [
+      "Willkommen! Aussuchen darfst Du\nkostenlos."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminenladen bei Nacht",
+    "id": "7076",
+    "pages": [
+      "Eine neuartige Bombe! Ich kann Dir\nnur eine begrenzte Stückzahl\nanbieten. Ist das Lager leer,\ngibt es keinen Nachschub mehr."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A1",
+    "pages": [
+      "Willkommen beim lustigen\nMaskenhändler! Ich leihe Dir Masken.\nDu verkaufst sie und zahlst mir den\nErlös.",
+      "Ich habe auch eine ganz besondere\nMaske...",
+      "Sie ist ganz besonders... gefährlich.\nNein, die verleihe ich nicht.",
+      "Bald reise ich in ein fernes Land.\nDurch ein Portal im Wald. Ein\nWaldportal sozusagen.",
+      "Aber zuerst verkaufen wir fröhliche\nMasken an fröhliche Menschen.\nVertrau mir..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A2",
+    "pages": [
+      "Wähle eine Maske, indem Du den\n[Control-Pad] nach links oder rechts bewegst.\nMit dem Ladenbesitzer sprechen!\nNichts ausleihen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A3",
+    "pages": [
+      "Lege die geliehene Maske auf [C].\nDrücke [C], um sie zu tragen.",
+      "Sprich damit Leute an. Manche\nreagieren darauf und wollen sie Dir\nabkaufen.",
+      "Für jede Maske findet sich irgendwo\nein Käufer.",
+      "Du willst meine besondere Maske\nsehen? Nein? Ich würde sie Dir\nsowieso nicht zeigen!",
+      "Sie ist viel zu gefährlich. Habe ich\ngefährlich schon erwähnt?"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A4",
+    "pages": [
+      "Malon ist zum Schloß gegangen. Ich\ngehe zum Maskenladen. Endlich hat\nmein Leben einen Sinn!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A5",
+    "pages": [
+      "Du hast sie verkauft?! Fantastisch!\nDann zahl mir nun meine 10 Rubine \nfür die Fuchs-Maske."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A6",
+    "pages": [
+      "Noch kein Käufer? Such weiter. Die\nMajoras Maske ist gefährlich, aber\nnicht entbehrlich...",
+      "Oh Mist! Jetzt habe ich ihren Namen\nverraten. Vergiß, was ich gesagt\nhabe!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A7",
+    "pages": [
+      "Bezahlung erhalten!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A8",
+    "pages": [
+      "Was?!\nDu hast mein Geld verbraten?!",
+      "Wie kannst Du es wagen!",
+      "Du besorgst besser ganz schnell \nmein Geld, oder..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70A9",
+    "pages": [
+      "Hey! Gut gemacht!",
+      "Alle Masken verkauft! Das macht\nmich beinahe so glücklich wie meine\ngeplante Waldportalreise.",
+      "Nein, heute fällt kein Mond herunter.\nWarum schaust Du nach oben?"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70AA",
+    "pages": [
+      "Als Belohnung darfst Du die Maske\ndes Wissens leihen.",
+      "Sie stammt von den Shiekah und hilft\nDir, verborgene Dinge zu erfahren.",
+      "Nicht verwechseln mit meiner anderen\nMaske. Die ist gefährlich. Diese hier\nist nützlich.",
+      "Sprich damit einmal zu einem dieser\nSteine mit dem Auge.",
+      "Sollte Dir jemand drei Tage Frist\ngeben, frag lieber genau nach.",
+      "Vertrau mir. Ich habe keinerlei\nbesorgniserregende Reisepläne.\nHahaha..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70AB",
+    "pages": [
+      "Ich habe Nachschub bekommen! \nVon nun an kannst Du jede \nbeliebige Maske ausleihen...\nVertrau mir..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70AC",
+    "pages": [
+      "Willkommen!\nWelche Maske möchtest Du \nleihen?"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70AD",
+    "pages": [
+      "Bewege den [Control-Pad] nach rechts oder\nlinks, um eine Maske zu wählen.\nFrage nach der Maske des Wissens! \nNichts ausleihen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70AE",
+    "pages": [
+      "Das ist die Maske des Wissens, ein\nErbe der Shiekah.",
+      "Sie läßt Dich Geheimnisse hören.\nProbiere sie bei den Steinen mit dem\nAuge aus.",
+      "Meine ganz besondere Maske dagegen\nbleibt bei mir. Sie ist viel zu\ngefährlich!",
+      "Majoras Maske. Schon wieder gesagt!\nIch muß dringend an meiner\nGeheimhaltung arbeiten.",
+      "Vergiß den Namen. Und das\nWaldportal. Vor allem das Waldportal."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C4",
+    "pages": [
+      "Oh, großartig! Du hast sie\nverkauft! Bitte zahle mir \nfür die Schädel-Maske die\n20 Rubine."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C5",
+    "pages": [
+      "Oh, großartig! Du hast sie\nverkauft! Bitte zahle mir\nfür die Geister-Maske die\n30 Rubine."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C6",
+    "pages": [
+      "Oh, großartig! Du hast sie\nverkauft! Bitte zahle mir\nfür die Hasenohren die\n50 Rubine."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C7",
+    "pages": [
+      "Oh! Du hast die Maske noch\nnicht verkauft? Dann biete sie\neinfach weiterhin an.",
+      "Oder möchtest Du sie gegen eine\nandere Maske tauschen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Schießbude",
+    "id": "012E",
+    "pages": [
+      "Junge, hältst Du mich für 'ne\nSchießbudenfigur? Nee, alles cool. Ich\nwill hier nicht aufmucken.",
+      "Ein Spiel kostet 20 Rubine. Machst\nDu mit?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Schießbude",
+    "id": "002E",
+    "pages": [
+      "OKAY!\nDas hier ist nur was für echte\nKerle! Die berühmteste\nSchießbude des Landes!",
+      "Stell Dich auf die Plattform und\nziele genau! Du hast fünfzehn\nSchüsse und mußt alle zehn\nSteine treffen!",
+      "Schieße mit [B]. \nFertig? Dann los und viel Glück!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Schießbude",
+    "id": "00C8",
+    "pages": [
+      "Verschwinde, Deine\nRubine reichen nicht aus!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Schießbude",
+    "id": "002D",
+    "pages": [
+      "Na gut. Dann eben nicht!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Schießbude",
+    "id": "71AD",
+    "pages": [
+      "Du brauchst offenbar\nnoch etwas Training!",
+      "Übe fleißig und komme wieder!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Schießbude",
+    "id": "71AE",
+    "pages": [
+      "Fast!",
+      "Nun gut...\nDu darfst es noch einmal \nversuchen! Umsonst! \nDiesmal mußt Du es schaffen!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Schießbude",
+    "id": "71AF",
+    "pages": [
+      "Ich bin begeistert!\nKlasse!\nGöttlich!",
+      "Hier, nimm dieses einzigartige\nPräsent an Dich!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "00BF",
+    "pages": [
+      "Uah... Was? Ein Kunde?",
+      "Ich war bis nachts an der Uni Hyrule.\nHeute muß ich hier schon wieder\narbeiten.",
+      "Studieren und Miete zahlen. Schlaf ist\noffenbar ein Wahlfach."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "00C0",
+    "pages": [
+      "Zzz... Hausarbeit... Frühschicht... Zzz..."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "7058",
+    "pages": [
+      "Noch geschlossen! Ich muß erst zur\nVorlesung. Komm später wieder. Mein\nStundenplan heult schon."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "0018",
+    "pages": [
+      "Willkommen beim\nKrabbelminen-Bowling!",
+      "Neben dem Studium muß ich diese\nBahn betreuen. Merz würde das\nvermutlich Eigenverantwortung nennen.",
+      "Was Du gewinnst, verrate ich nach\ndem Bezahlen. Spannung kostet hier\nextra.",
+      "Ein Spiel kostet 30 Rubine. Möchtest\nDu spielen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "0019",
+    "pages": [
+      "OKAY!",
+      "Ziele auf das Loch in der Mitte\nund schicke eine Krabbelmine los!\nDu hast zehn Versuche. Fertig?",
+      "LOS GEHT'S!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "001A",
+    "pages": [
+      "Willst Du nochmal spielen?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "001B",
+    "pages": [
+      "Oh, das hätte ich fast vergessen!\nDas hier kannst Du gewinnen!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "0085",
+    "pages": [
+      "Deine Rubine reichen nicht aus!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Krabbelminen-Bowling",
+    "id": "002D",
+    "pages": [
+      "Na gut. Dann eben nicht!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Truhenlotterie",
+    "id": "006D",
+    "pages": [
+      "Tu mir den Gefallen: Komm mir nicht\nmit dem Scheißauge der Wahrheit\nhier rein. Das geht komplett schief.",
+      "Links oder rechts? Finde den\nSchlüssel. Ein Spiel: 10 Rubine.\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Truhenlotterie",
+    "id": "006E",
+    "pages": [
+      "Klasse! Ein echter Zocker!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Truhenlotterie",
+    "id": "0084",
+    "pages": [
+      "Vielen Dank! Auf weitere Abenteuer\nmit unbeschädigter Kundschaft."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Truhenlotterie",
+    "id": "0085",
+    "pages": [
+      "Deine Rubine reichen nicht aus!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Truhenlotterie",
+    "id": "002D",
+    "pages": [
+      "Na gut. Dann eben nicht!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "Truhenlotterie",
+    "id": "704C",
+    "pages": [
+      "Mit dem Schlüssel kommst Du weiter.\nLINKS ODER RECHTS. Nicht: mal eben\ndurch die Truhe gucken!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Allgemeine Kaufabwicklung",
+    "id": "0083",
+    "pages": [
+      "Mit [Control-Pad] wählst Du die Ware aus.\n\nMit dem Verkäufer sprechen\nZurück"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Allgemeine Kaufabwicklung",
+    "id": "0084",
+    "pages": [
+      "Vielen Dank! Auf weitere Abenteuer\nmit unbeschädigter Kundschaft."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Allgemeine Kaufabwicklung",
+    "id": "0085",
+    "pages": [
+      "Deine Rubine reichen nicht aus!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Allgemeine Kaufabwicklung",
+    "id": "0086",
+    "pages": [
+      "Das kannst Du jetzt nicht kaufen."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00A9",
+    "pages": [
+      "Hylia-Schild   80 Rubine\nEin großer, schwerer Schild der\nhylianischen Ritter. Er hält sogar\nFeuerattacken stand!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "0092",
+    "pages": [
+      "Hylia-Schild   80 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00CB",
+    "pages": [
+      "Bomben   5 Stück   35 Rubine\nBenutze sie mit [C]. Du kannst\nsie nur kaufen, wenn Du eine\nBombentasche besitzt."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00CA",
+    "pages": [
+      "Bomben   5 Stück   35 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00B2",
+    "pages": [
+      "Deku-Nüsse: 5 Stück, 15 Rubine.\nBetäuben Gegner. Du kannst nur\nkaufen, was noch hineinpaßt."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "007F",
+    "pages": [
+      "Deku-Nüsse: 5 Stück, 15 Rubine.\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00AC",
+    "pages": [
+      "Herz   10 Rubine\nDamit füllst Du ein Herz\nDeiner Energieleiste auf."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "0095",
+    "pages": [
+      "Herz   10 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00A0",
+    "pages": [
+      "Pfeile   10 Stück   20 Rubine\nDu brauchst einen Bogen, um sie\nabzuschießen. Du kannst sie nicht\nkaufen, wenn Du noch keinen hast."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "008A",
+    "pages": [
+      "Pfeile   10 Stück   20 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00B0",
+    "pages": [
+      "Pfeile  50 Stück  90 Rubine\nDu brauchst einen Bogen, um sie\nabzuschießen. Du kannst sie nicht\nkaufen, wenn Du noch keinen hast."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "007D",
+    "pages": [
+      "Pfeile  50 Stück  90 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00A1",
+    "pages": [
+      "Deku-Stab  1 Stück  10 Rubine\nEin langer, starker Ast des\nDeku-Baumes. Verwende ihn als\nWaffe, bis er zerbricht!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "0088",
+    "pages": [
+      "Deku-Stab  1 Stück   10 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "00C1",
+    "pages": [
+      "Pfeile   30 Stück   60 Rubine\nDu brauchst einen Bogen, um sie\nabzuschießen. Du kannst sie nicht\nkaufen, wenn Du noch keinen hast."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Basar",
+    "id": "009B",
+    "pages": [
+      "Pfeile   30 Stück   60 Rubine\n\nKaufen\nNicht kaufen"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00A6",
+    "pages": [
+      "Grünes Elixier   30 Rubine\nDamit füllst Du Deine Magieleiste\nvollständig auf. Zur einmaligen\nAnwendung!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "008F",
+    "pages": [
+      "Grünes Elixier   30 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00B9",
+    "pages": [
+      "Blaues Feuer   300 Rubine\nDafür brauchst Du eine leere\nFlasche. Benutze es, um Eis\nzu schmelzen."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00B8",
+    "pages": [
+      "Blaues Feuer    300 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00A5",
+    "pages": [
+      "Rotes Elixier   30 Rubine\nDamit füllst Du Deine Energieleiste\nvollständig auf. Zur einmaligen\nAnwendung!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "008E",
+    "pages": [
+      "Rotes Elixier   30 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00B7",
+    "pages": [
+      "Fee   50 Rubine\nDafür brauchst Du eine leere\nFlasche. Begib Dich nie ohne\nFee in ein Labyrinth!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00B6",
+    "pages": [
+      "Feenflasche    50 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00B2",
+    "pages": [
+      "Deku-Nüsse: 5 Stück, 15 Rubine.\nBetäuben Gegner. Du kannst nur\nkaufen, was noch hineinpaßt."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "007F",
+    "pages": [
+      "Deku-Nüsse: 5 Stück, 15 Rubine.\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00BB",
+    "pages": [
+      "Käfer    50 Rubine\nDafür brauchst Du eine leere\nFlasche. Sieht eigentlich wie\nein gewöhnlicher Käfer aus..."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00BA",
+    "pages": [
+      "Käfer   50 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "506D",
+    "pages": [
+      "Irrlicht   30 Rubine\nDies ist ein Geist in einer Flasche. \nVerkaufe ihn an jemanden, der\nsolch verrückte Dinge mag."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "506E",
+    "pages": [
+      "Irrlicht  30 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "00B3",
+    "pages": [
+      "Fisch   200 Rubine\nFrisch gefangen! Du kannst ihn in\neiner Flasche aufbewahren."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Magieladen",
+    "id": "007E",
+    "pages": [
+      "Fisch   200 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Krabbelminenladen",
+    "id": "00BC",
+    "pages": [
+      "Krabbelmine  10 Stück  100 Rubine\nDas ist eine praktische Zeitbombe,\ndie Du als Distanzwaffe\neinsetzen kannst!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Krabbelminenladen",
+    "id": "008C",
+    "pages": [
+      "Krabbelmine  10 Stück  100 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Krabbelminenladen",
+    "id": "0061",
+    "pages": [
+      "Krabbelmine  20 Stück  180 Rubine\nDas ist eine praktische Zeitbombe,\ndie Du als Distanzwaffe\neinsetzen kannst!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Warenbeschreibungen und Kaufoptionen – Krabbelminenladen",
+    "id": "002A",
+    "pages": [
+      "Krabbelminen 20 Stück 180 Rubine\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "7101",
+    "pages": [
+      "Wenn Söder Dich so sieht, bist Du\nauch noch weg. Der hat meine\nSchweine schon gefressen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "7115",
+    "pages": [
+      "Die Maske erinnert mich an die\nArbeitsbedingungen bei Merz.\nBesonders der leblose\nGesichtsausdruck."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "7124",
+    "pages": [
+      "Wenn Du durch Wände gehen kannst,\nhol bitte meinen Schlüssel. Wenn\nnicht, steh nicht im Weg."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "7131",
+    "pages": [
+      "Damit kommst Du nicht durch meine\nHaustür. Und wehe, Du knickst die\nOhren nicht vorher um."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "713D",
+    "pages": [
+      "Mein Vater war ein Gorone. Ich find's\nnicht besonders geil, wenn Du mit\ndem Ding herumläufst und Dich über\nihn lustig machst."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "7156",
+    "pages": [
+      "Damit darfst Du trotzdem nicht in\nmeinen Brunnen. Ich weiß nicht,\nwarum ich das überhaupt sagen muß."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "019F",
+    "pages": [
+      "Du darfst Dich zeigen, wie Du Dich\nwohlfühlst. Du brauchst Dich dafür\nnicht zu rechtfertigen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Frau mit Hund – Marktplatz und Hundequest bei Nacht",
+    "id": "716E",
+    "pages": [
+      "Mario fragt sich, ob die Maske auch\nweiß, wo sein Mittagessen geblieben\nist. Mama mia!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7102",
+    "pages": [
+      "Der Maskenhändler meinte, die sei\nselten. Ich habe heute schon drei\ndavon gesehen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7117",
+    "pages": [
+      "Die kannst Du bestimmt als Schüssel\nbenutzen. Ich würde nur vorher die\nAugenlöcher abdichten."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7125",
+    "pages": [
+      "Bist Du ein Geist? Dann mußt Du\nkeine Miete zahlen, oder? Das wäre\nja mal eine Perspektive."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7132",
+    "pages": [
+      "Das sind Ohren. Du läufst mit den\nBeinen. Aber vielen Dank fürs\nAngebot."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "713E",
+    "pages": [
+      "Sind Goronen eigentlich immer nackt?\nOder sieht ihre Kleidung auch aus\nwie Stein? Ich komme da nicht\nweiter."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "7157",
+    "pages": [
+      "Ein Zora? Ich frage mich immer noch,\nob es auch Zora-Frauen gibt.\nVielleicht sollte ich einfach mal eine\nfragen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "01A0",
+    "pages": [
+      "Es ist gut, auf Deine eigenen Gefühle\nzu hören. Du mußt Dich nicht\nverstecken."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Stadtbewohnerin (EnHy WOMAN_3)",
+    "id": "716F",
+    "pages": [
+      "Luigi weiß auch ohne die Maske, daß\nDu das schaffen kannst! Ich drücke\nDir die Daumen!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "7103",
+    "pages": [
+      "Ein Fuchs? Du kannst trotzdem nicht\neinfach meine Hühner mitnehmen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "711C",
+    "pages": [
+      "Ist das Dein normaler\nGesichtsausdruck, wenn Du die\nMilchpreise siehst?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "7126",
+    "pages": [
+      "Die Maske ist gruselig. Der\nMietvertrag vom Maskenhändler ist\ngruseliger."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "7133",
+    "pages": [
+      "Bitte halte die Ohren vom Windrad\nfern. Ich habe keine Lust, wieder\netwas erklären zu müssen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "713F",
+    "pages": [
+      "Goronen mögen Rockmusik! Endlich\nein Volk mit Geschmack! Ich spiele\nallerdings seit Jahren dasselbe Lied."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "7151",
+    "pages": [
+      "Coole Maske! Moment mal. Du warst\nWO drin? In einem Wal? Was zum\nFick? Erzähl doch so was zuerst!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "01A1",
+    "pages": [
+      "Du bist willkommen, auch wenn Du\ngerade erst herausfindest, wer Du\nbist. Du darfst Dir Zeit lassen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bärtiger Mann – Gerüchte über Malon und Mario",
+    "id": "7174",
+    "pages": [
+      "Kann die Maske Gedanken lesen?\nDann weißt Du hoffentlich auch, wann\nich mit einer Erklärung fertig bin."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "7104",
+    "pages": [
+      "Mario kennt Füchse! Die trinken\nkeine Milch. Sehr schlechte\nKundschaft. Mama mia!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "711D",
+    "pages": [
+      "Ich sollte mich erschrecken, oder?\nGib mir noch einen Moment. Ich bin\ngerade beschäftigt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "7127",
+    "pages": [
+      "Ich glaube nicht an Geister. Außer an\ndie auf dem Friedhof. Die kann man\nja sehen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "7134",
+    "pages": [
+      "Glaubst Du, ich höre wegen meines\ngroßen Hutes besser? Eben."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "713D",
+    "pages": [
+      "Mein Vater war ein Gorone. Ich find's\nnicht besonders geil, wenn Du mit\ndem Ding herumläufst und Dich über\nihn lustig machst."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "715B",
+    "pages": [
+      "König Zora hat Eis gekauft. Jetzt hat\ner wirklich viel Eis. Das muß man ihm\nlassen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "01A2",
+    "pages": [
+      "Du bist genauso viel wert wie alle\nanderen. Daran ändert Dein\nGeschlecht nichts."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Glatzköpfiger Mann / Wunderer",
+    "id": "7175",
+    "pages": [
+      "Wenn sie alles weiß, frag sie, warum\nwir Masken mieten. Ich verstehe das\nGeschäftsmodell immer noch nicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "7105",
+    "pages": [
+      "Luigi findet, Du hast ein sehr\nfreundliches Fuchsgesicht! Einen\nschönen Tag wünsche ich Dir!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "710C",
+    "pages": [
+      "Das sieht ganz schön scheiße aus."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "7128",
+    "pages": [
+      "Du bist durchsichtig? Nein? Dann\nhaben wir das Problem schon\ngefunden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "7135",
+    "pages": [
+      "Mit so langen Ohren hörst Du\nbestimmt, wenn jemand über Dich\nlästert. Also jetzt gerade zum\nBeispiel."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "7141",
+    "pages": [
+      "Die hat doch höchstens einen Rubin\ngekostet. Nimm diesen Pappschrott\nvom Gesicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "715C",
+    "pages": [
+      "Wenn Dir mit der Maske kalt wird,\nbesuch nicht Zoras Reich. Dort ist\ngerade wenig gewonnen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "01A4",
+    "pages": [
+      "Du darfst selbst sagen, ob Du ein\nMädchen bist. Ich werde Dir zuhören."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Mann mit schwarzem Hemd",
+    "id": "7176",
+    "pages": [
+      "Kannst Du damit durch Wände\nsehen? Dann sag mir bitte, ob die\nKrabbelminenbude heute offen hat."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "7106",
+    "pages": [
+      "Hast Du die Ohren selbst gebastelt?\nAh. Gemietet. Das war also die teure\nLösung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "710C",
+    "pages": [
+      "Das sieht ganz schön scheiße aus."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "712A",
+    "pages": [
+      "Waluigi hat keine Angst vor\nGeistern! Außer sie cheaten und\nkommen einfach durch Wände!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "7136",
+    "pages": [
+      "Mario findet die Ohren prima! Paß\nnur auf die niedrigen Türen auf. Mama\nmia!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "7142",
+    "pages": [
+      "Du kannst die Maske wieder\nabnehmen. Du mußt kein Gorone sein,\num mit uns abzuhängen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "715D",
+    "pages": [
+      "Mario verkauft auch Zoras Milch!\nAber bitte nicht die ganze Flasche im\nWasser ausspülen, bevor Du bezahlt\nhast!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "01A6",
+    "pages": [
+      "Du verdienst Freundlichkeit und\nUnterstützung. Auch an Tagen, an\ndenen Du Dir selbst noch unsicher\nbist."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bettler",
+    "id": "7167",
+    "pages": [
+      "Du weißt jetzt alles? Dann erklär\nmir bitte, warum ich noch hier\narbeite."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "7107",
+    "pages": [
+      "Mit der Maske würde ich mich nicht\nzum Hühnerstall stellen. Die Hühner\nplanen schon etwas."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "710D",
+    "pages": [
+      "Ein Schädel? Frag Boris, ob der\nberuflich Interesse hat."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "712B",
+    "pages": [
+      "Ein Geist! Ich dachte, Du hättest\nbloß schlecht geschlafen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "7137",
+    "pages": [
+      "Luigi freut sich, daß Du etwas\ngefunden hast, das Dir gefällt! Viel\nSpaß mit den Ohren!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "7143",
+    "pages": [
+      "Wenn Du jetzt auch noch einen Stein\nfrißt, mache ich mir Sorgen. Deine\nZähne sind dafür nicht ausgelegt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "7153",
+    "pages": [
+      "Gut, daß ich Dich treffe! Kannst Du\nunten im See mal nach meinen\nAutobatterien schauen? Ich will\nwissen, ob das mit den Zitteraalen",
+      "funktioniert."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "01A8",
+    "pages": [
+      "Du mußt Dein Leben nicht nach\nfremden Erwartungen richten. Ich\nwünsche Dir, daß Du Deinen Weg\nfindest."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alte Frau",
+    "id": "7168",
+    "pages": [
+      "Frag die Maske, ob die Zitteraale im\nSee schon genug Strom haben. Ich bin\nmit den Autobatterien langsam durch."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "7108",
+    "pages": [
+      "Wir haben hier weder einen Fuchsbau\nnoch einen zweiten Wald. Du mußt\nmit dem Kokiri-Wald auskommen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "710E",
+    "pages": [
+      "Ist das Pappe? Du hast Geld bezahlt,\num wie ein kaputter Karton\nauszusehen?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "712C",
+    "pages": [
+      "Wenn Du tot wärst, könnte ich Dir\nwenigstens nichts mehr verkaufen.\nDas wäre für uns beide schade."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "7138",
+    "pages": [
+      "Mit den Ohren wäre der Deku-Baum\nbestimmt noch lange nicht das\nlängste Ding im Wald gewesen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "7144",
+    "pages": [
+      "Ich hab gehört, Goronen schlafen auf\nSteinen. Das mache ich auch. Der\nVermieter nennt es eine Matratze."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "715F",
+    "pages": [
+      "Waluigi hat nichts gegen Zoras! Aber\nwehe, die machen den Tennisplatz\nnaß!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "01AA",
+    "pages": [
+      "Ich freue mich, wenn Du Dich so\nzeigen kannst, wie Du bist. Das soll\nDir niemand schlechtreden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann",
+    "id": "7166",
+    "pages": [
+      "Wenn die Maske wirklich alles weiß,\nfrag sie, wo meine Rubine sind. Ich\nhabe sie ganz sicher nicht selbst\nausgegeben."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "7109",
+    "pages": [
+      "Damit kannst Du Dich bestimmt\nanschleichen. Außer Du redest. Du\nredest gerade."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "710F",
+    "pages": [
+      "Die Spinnen im Haus haben auch ein\nSchädelproblem. Deins kannst Du\nwenigstens absetzen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "712D",
+    "pages": [
+      "Mit der Maske kannst Du Boris\nbestimmt erschrecken. Der wird das\nallerdings als Fortbildung verbuchen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "7139",
+    "pages": [
+      "Wenn die nur halb so teuer waren\nwie sie lang sind, wurdest Du\nordentlich verarscht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "713E",
+    "pages": [
+      "Sind Goronen eigentlich immer nackt?\nOder sieht ihre Kleidung auch aus\nwie Stein? Ich komme da nicht\nweiter."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "7160",
+    "pages": [
+      "Wenn die Maske aus derselben Pappe\nwie mein Hai ist, könnte das im\nWasser sogar funktionieren. Ich\nwürde mich nicht darauf verlassen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "01AC",
+    "pages": [
+      "Wenn Du lieber als Mädchen leben\nmöchtest, ist das vollkommen in\nOrdnung. Du mußt das nicht allein\nherausfinden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit braunem Haar",
+    "id": "7167",
+    "pages": [
+      "Du weißt jetzt alles? Dann erklär\nmir bitte, warum ich noch hier\narbeite."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "710A",
+    "pages": [
+      "Ich dachte, Füchse hätten mehr Beine.\nIch muß unbedingt wieder ein Buch\nlesen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "7110",
+    "pages": [
+      "Wenn Du damit zum Friedhof gehst,\nmußt Du vermutlich keinen Eintritt\nzahlen. Wobei: Der kostet gar keinen\nEintritt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "712E",
+    "pages": [
+      "Ein Geist mit einer gemieteten\nMaske. Selbst im Jenseits kommt\nman aus diesen Verträgen nicht raus."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "713A",
+    "pages": [
+      "Die Ohren sind größer als meine\nWohnung. Das ist keine Übertreibung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "7146",
+    "pages": [
+      "Ich habe für einen Goronen gekocht.\nEr hat den Teller gegessen. Seitdem\nfrage ich vorher nach."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "7152",
+    "pages": [
+      "Ich finde erwachsene Zoras übrigens\nziemlich heiß. Das hat nichts mit Dir\nzu tun. Du bist ein Kind. Ich rede\neinfach zu viel."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "01AD",
+    "pages": [
+      "Sag einfach, wie Du angesprochen\nwerden möchtest. Das werde ich\nrespektieren."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit rotem Hemd",
+    "id": "7168",
+    "pages": [
+      "Frag die Maske, ob die Zitteraale im\nSee schon genug Strom haben. Ich bin\nmit den Autobatterien langsam durch."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "710B",
+    "pages": [
+      "Ist das jetzt Kunst? Ich frage nur,\nweil ich dafür auf keinen Fall Geld\nausgebe."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "7111",
+    "pages": [
+      "Warum ist der Schädel außen? Ich\ndachte immer, der gehört nach innen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "712F",
+    "pages": [
+      "Du kannst die Maske absetzen. Wir\nhaben hier schon genug ungeklärte\nTodesfälle."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "713B",
+    "pages": [
+      "So ein Hase ist bestimmt praktisch\nbei der Arbeit. Ach, die Maske\narbeitet auch nicht. Na gut."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "7147",
+    "pages": [
+      "Goronen essen Steine? Dann muß die\nInflation bei denen doch wenigstens\nweniger schlimm sein. Oder sind\nSteine jetzt auch teuer?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "7162",
+    "pages": [
+      "König Zora wollte seinen Saphir gegen\nKlimaanlagen tauschen. Ich dachte\nerst, das wäre ein Witz. War es\nleider nicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "01AE",
+    "pages": [
+      "Du darfst herausfinden, was sich für\nDich richtig anfühlt. Niemand hat Dich\ndafür zu verurteilen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Schnurrbartträger mit blauem Hemd",
+    "id": "716A",
+    "pages": [
+      "Wenn Du damit Gedanken lesen\nkannst, geh bitte kurz raus. Ich\nmöchte mich in Ruhe über meinen\nChef ärgern."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "7100",
+    "pages": [
+      "Ein Fuchs! Meine Hühner haben Angst\nvor Füchsen. Ich habe Angst vor\nmeinen Hühnern. Schwierige Situation."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "7112",
+    "pages": [
+      "Damit gewinnt man bestimmt keinen\nSchönheitswettbewerb. Also hier\nvielleicht schon. Die Konkurrenz ist\nüberschaubar."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "711F",
+    "pages": [
+      "Du bist aber noch gar nicht tot. Ein\nKostüm ersetzt keine Qualifikation."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "7130",
+    "pages": [
+      "Die machen Dich schneller? Geh mal\nbis zum Brunnen.",
+      "Nee. Genauso lahm."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "7149",
+    "pages": [
+      "Bei uns sind Goronen willkommen. Ich\nmuß bloß noch herausfinden, wieviel\nein Stuhl aushält."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "7151",
+    "pages": [
+      "Coole Maske! Moment mal. Du warst\nWO drin? In einem Wal? Was zum\nFick? Erzähl doch so was zuerst!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "01AF",
+    "pages": [
+      "Du brauchst Dich nicht dafür zu\nschämen, wer Du bist. Ich freue mich,\nwenn Du glücklich wirst."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Junge Frau mit orangefarbenem Haar",
+    "id": "716B",
+    "pages": [
+      "Wissen ist Macht. Leider akzeptiert\nder Basar weiterhin nur Rubine."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "7101",
+    "pages": [
+      "Wenn Söder Dich so sieht, bist Du\nauch noch weg. Der hat meine\nSchweine schon gefressen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "7113",
+    "pages": [
+      "Waaah! Ein Schädel! Waluigi hat sich\nnicht erschreckt! Waluigi hat nur\nsehr laut eingeatmet!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "7124",
+    "pages": [
+      "Wenn Du durch Wände gehen kannst,\nhol bitte meinen Schlüssel. Wenn\nnicht, steh nicht im Weg."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "7131",
+    "pages": [
+      "Damit kommst Du nicht durch meine\nHaustür. Und wehe, Du knickst die\nOhren nicht vorher um."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "714A",
+    "pages": [
+      "Waluigi kennt Goronen! Die rollen\neinfach über den Tennisplatz! Das ist\nCheaten!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "7152",
+    "pages": [
+      "Ich finde erwachsene Zoras übrigens\nziemlich heiß. Das hat nichts mit Dir\nzu tun. Du bist ein Kind. Ich rede\neinfach zu viel."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "01B0",
+    "pages": [
+      "Wenn Du einen anderen Namen tragen\nmöchtest, ist das völlig in Ordnung.\nDu darfst selbst darüber entscheiden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer Schnurrbartträger",
+    "id": "716C",
+    "pages": [
+      "Dann weißt Du ja, daß ich eigentlich\ngerade arbeiten müßte. Wir behalten\ndas unter uns."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "7102",
+    "pages": [
+      "Der Maskenhändler meinte, die sei\nselten. Ich habe heute schon drei\ndavon gesehen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "7114",
+    "pages": [
+      "Mario findet, das ist etwas gruselig.\nAber Du brauchst deshalb nicht\ndraußen zu warten! Komm rein!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "7125",
+    "pages": [
+      "Bist Du ein Geist? Dann mußt Du\nkeine Miete zahlen, oder? Das wäre\nja mal eine Perspektive."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "7132",
+    "pages": [
+      "Das sind Ohren. Du läufst mit den\nBeinen. Aber vielen Dank fürs\nAngebot."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "714B",
+    "pages": [
+      "Mario verkauft Milch auch an\nGoronen! Die Glasflasche bitte\nzurückgeben und möglichst nicht\naufessen!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "7153",
+    "pages": [
+      "Gut, daß ich Dich treffe! Kannst Du\nunten im See mal nach meinen\nAutobatterien schauen? Ich will\nwissen, ob das mit den Zitteraalen",
+      "funktioniert."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "01B1",
+    "pages": [
+      "Du kannst mir erzählen, was Dir\nwichtig ist. Ich nehme Dich ernst."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner im violetten Hemd",
+    "id": "716D",
+    "pages": [
+      "Waluigi braucht keine Maske des\nWissens! Waluigi weiß bereits, daß\nWaluigi Nummer eins ist!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "7103",
+    "pages": [
+      "Ein Fuchs? Du kannst trotzdem nicht\neinfach meine Hühner mitnehmen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "7115",
+    "pages": [
+      "Die Maske erinnert mich an die\nArbeitsbedingungen bei Merz.\nBesonders der leblose\nGesichtsausdruck."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "7126",
+    "pages": [
+      "Die Maske ist gruselig. Der\nMietvertrag vom Maskenhändler ist\ngruseliger."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "7133",
+    "pages": [
+      "Bitte halte die Ohren vom Windrad\nfern. Ich habe keine Lust, wieder\netwas erklären zu müssen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "714C",
+    "pages": [
+      "Luigi begrüßt auch Goronen mit\noffenen Armen! Wir müssen uns beim\nUmarmen nur etwas vorsichtiger\nanstellen!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "7154",
+    "pages": [
+      "Wenn Du jetzt ins Wasser gehst und\ndurch die Maske keine Luft mehr\nkriegst, darfst Du Dich nicht\nwundern. Das sind aufgemalte Kiemen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "032C",
+    "pages": [
+      "Du darfst so leben, daß Du Dich\nselbst wiedererkennst. Du verdienst\nUnterstützung dabei."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Weiterer bärtiger Bewohner",
+    "id": "716E",
+    "pages": [
+      "Mario fragt sich, ob die Maske auch\nweiß, wo sein Mittagessen geblieben\nist. Mama mia!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "7104",
+    "pages": [
+      "Mario kennt Füchse! Die trinken\nkeine Milch. Sehr schlechte\nKundschaft. Mama mia!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "7117",
+    "pages": [
+      "Die kannst Du bestimmt als Schüssel\nbenutzen. Ich würde nur vorher die\nAugenlöcher abdichten."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "7127",
+    "pages": [
+      "Ich glaube nicht an Geister. Außer an\ndie auf dem Friedhof. Die kann man\nja sehen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "7134",
+    "pages": [
+      "Glaubst Du, ich höre wegen meines\ngroßen Hutes besser? Eben."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "714D",
+    "pages": [
+      "Die Goronen sollen ihre Straßen\nselbst essen können. Das hat mir\nderselbe Typ erzählt, der Angst vor\nPilzen hat."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "7155",
+    "pages": [
+      "Die Zoras haben einen König, der\nbeim Aufstehen länger braucht als ich\nfür einen Umzug."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "0421",
+    "pages": [
+      "Für Dich selbst einzustehen kann\nschwer sein. Ich wünsche Dir\nMenschen, die Dir den Rücken\nstärken."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Alter Mann in brauner Robe",
+    "id": "716F",
+    "pages": [
+      "Luigi weiß auch ohne die Maske, daß\nDu das schaffen kannst! Ich drücke\nDir die Daumen!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "7105",
+    "pages": [
+      "Luigi findet, Du hast ein sehr\nfreundliches Fuchsgesicht! Einen\nschönen Tag wünsche ich Dir!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "711C",
+    "pages": [
+      "Ist das Dein normaler\nGesichtsausdruck, wenn Du die\nMilchpreise siehst?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "7128",
+    "pages": [
+      "Du bist durchsichtig? Nein? Dann\nhaben wir das Problem schon\ngefunden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "7135",
+    "pages": [
+      "Mit so langen Ohren hörst Du\nbestimmt, wenn jemand über Dich\nlästert. Also jetzt gerade zum\nBeispiel."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "714E",
+    "pages": [
+      "Wir ernähren uns von Steinen. Das\nheißt nicht, daß wir jeden Dreck\nfressen. Das muß ich offenbar jeden\nTag erklären."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "7156",
+    "pages": [
+      "Damit darfst Du trotzdem nicht in\nmeinen Brunnen. Ich weiß nicht,\nwarum ich das überhaupt sagen muß."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "2093",
+    "pages": [
+      "Du gehörst hierher. Du mußt dafür\nnicht jemand sein, der Du gar nicht\nbist."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – Bewohner mit weißem Hemd",
+    "id": "7174",
+    "pages": [
+      "Kann die Maske Gedanken lesen?\nDann weißt Du hoffentlich auch, wann\nich mit einer Erklärung fertig bin."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "710A",
+    "pages": [
+      "Ich dachte, Füchse hätten mehr Beine.\nIch muß unbedingt wieder ein Buch\nlesen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "710E",
+    "pages": [
+      "Ist das Pappe? Du hast Geld bezahlt,\num wie ein kaputter Karton\nauszusehen?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "712E",
+    "pages": [
+      "Ein Geist mit einer gemieteten\nMaske. Selbst im Jenseits kommt\nman aus diesen Verträgen nicht raus."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "713A",
+    "pages": [
+      "Die Ohren sind größer als meine\nWohnung. Das ist keine Übertreibung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "7140",
+    "pages": [
+      "Ja, Goronen und Rockmusik. Hab ich\nverstanden. Warum erzählt mir das\njeder? Was soll das die ganze Zeit?!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "715D",
+    "pages": [
+      "Mario verkauft auch Zoras Milch!\nAber bitte nicht die ganze Flasche im\nWasser ausspülen, bevor Du bezahlt\nhast!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "2098",
+    "pages": [
+      "Wenn Du als Mädchen leben\nmöchtest, wünsche ich Dir alles\nGute. Du bist genauso willkommen\nwie vorher."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1",
+    "id": "7166",
+    "pages": [
+      "Wenn die Maske wirklich alles weiß,\nfrag sie, wo meine Rubine sind. Ich\nhabe sie ganz sicher nicht selbst\nausgegeben."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "710B",
+    "pages": [
+      "Ist das jetzt Kunst? Ich frage nur,\nweil ich dafür auf keinen Fall Geld\nausgebe."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "710F",
+    "pages": [
+      "Die Spinnen im Haus haben auch ein\nSchädelproblem. Deins kannst Du\nwenigstens absetzen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "712F",
+    "pages": [
+      "Du kannst die Maske absetzen. Wir\nhaben hier schon genug ungeklärte\nTodesfälle."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "713B",
+    "pages": [
+      "So ein Hase ist bestimmt praktisch\nbei der Arbeit. Ach, die Maske\narbeitet auch nicht. Na gut."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "7141",
+    "pages": [
+      "Die hat doch höchstens einen Rubin\ngekostet. Nimm diesen Pappschrott\nvom Gesicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "715E",
+    "pages": [
+      "Luigi findet, auch ein Zora hat einen\nschönen Tag verdient! Paß auf Dich\nauf!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "2099",
+    "pages": [
+      "Du darfst sein, wer Du bist. Du\nbrauchst Dir Deinen Platz unter uns\nnicht erst zu verdienen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_2",
+    "id": "7167",
+    "pages": [
+      "Du weißt jetzt alles? Dann erklär\nmir bitte, warum ich noch hier\narbeite."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "7105",
+    "pages": [
+      "Luigi findet, Du hast ein sehr\nfreundliches Fuchsgesicht! Einen\nschönen Tag wünsche ich Dir!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "7111",
+    "pages": [
+      "Warum ist der Schädel außen? Ich\ndachte immer, der gehört nach innen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "7128",
+    "pages": [
+      "Du bist durchsichtig? Nein? Dann\nhaben wir das Problem schon\ngefunden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "7135",
+    "pages": [
+      "Mit so langen Ohren hörst Du\nbestimmt, wenn jemand über Dich\nlästert. Also jetzt gerade zum\nBeispiel."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "7141",
+    "pages": [
+      "Die hat doch höchstens einen Rubin\ngekostet. Nimm diesen Pappschrott\nvom Gesicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "7156",
+    "pages": [
+      "Damit darfst Du trotzdem nicht in\nmeinen Brunnen. Ich weiß nicht,\nwarum ich das überhaupt sagen muß."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "0110",
+    "pages": [
+      "Du hast hier genauso Deinen Platz\nwie alle anderen. Niemand hat Dich\ndeswegen anzupöbeln."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HYRULIAN_GUARD",
+    "id": "716A",
+    "pages": [
+      "Wenn Du damit Gedanken lesen\nkannst, geh bitte kurz raus. Ich\nmöchte mich in Ruhe über meinen\nChef ärgern."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "7106",
+    "pages": [
+      "Hast Du die Ohren selbst gebastelt?\nAh. Gemietet. Das war also die teure\nLösung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "7112",
+    "pages": [
+      "Damit gewinnt man bestimmt keinen\nSchönheitswettbewerb. Also hier\nvielleicht schon. Die Konkurrenz ist\nüberschaubar."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "712A",
+    "pages": [
+      "Waluigi hat keine Angst vor\nGeistern! Außer sie cheaten und\nkommen einfach durch Wände!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "7136",
+    "pages": [
+      "Mario findet die Ohren prima! Paß\nnur auf die niedrigen Türen auf. Mama\nmia!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "7142",
+    "pages": [
+      "Du kannst die Maske wieder\nabnehmen. Du mußt kein Gorone sein,\num mit uns abzuhängen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "7157",
+    "pages": [
+      "Ein Zora? Ich frage mich immer noch,\nob es auch Zora-Frauen gibt.\nVielleicht sollte ich einfach mal eine\nfragen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "0111",
+    "pages": [
+      "Du darfst so leben, wie es sich für\nDich richtig anfühlt. Ich wünsche Dir\nalles Gute dabei."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_1",
+    "id": "716B",
+    "pages": [
+      "Wissen ist Macht. Leider akzeptiert\nder Basar weiterhin nur Rubine."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "7107",
+    "pages": [
+      "Mit der Maske würde ich mich nicht\nzum Hühnerstall stellen. Die Hühner\nplanen schon etwas."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "7113",
+    "pages": [
+      "Waaah! Ein Schädel! Waluigi hat sich\nnicht erschreckt! Waluigi hat nur\nsehr laut eingeatmet!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "712B",
+    "pages": [
+      "Ein Geist! Ich dachte, Du hättest\nbloß schlecht geschlafen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "7137",
+    "pages": [
+      "Luigi freut sich, daß Du etwas\ngefunden hast, das Dir gefällt! Viel\nSpaß mit den Ohren!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "7143",
+    "pages": [
+      "Wenn Du jetzt auch noch einen Stein\nfrißt, mache ich mir Sorgen. Deine\nZähne sind dafür nicht ausgelegt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "7159",
+    "pages": [
+      "Bei den Zoras klingt die Musik\nangeblich kurz völlig bekloppt, wenn\nman die Höhle verläßt. Ist das\nAbsicht?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "0112",
+    "pages": [
+      "Wenn Dich jemand deshalb schlecht\nbehandelt, ist das nicht Deine Schuld.\nDu verdienst Respekt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – HEISHI4_2",
+    "id": "716C",
+    "pages": [
+      "Dann weißt Du ja, daß ich eigentlich\ngerade arbeiten müßte. Wir behalten\ndas unter uns."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "710B",
+    "pages": [
+      "Ist das jetzt Kunst? Ich frage nur,\nweil ich dafür auf keinen Fall Geld\nausgebe."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "7115",
+    "pages": [
+      "Die Maske erinnert mich an die\nArbeitsbedingungen bei Merz.\nBesonders der leblose\nGesichtsausdruck."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "712F",
+    "pages": [
+      "Du kannst die Maske absetzen. Wir\nhaben hier schon genug ungeklärte\nTodesfälle."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "713B",
+    "pages": [
+      "So ein Hase ist bestimmt praktisch\nbei der Arbeit. Ach, die Maske\narbeitet auch nicht. Na gut."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "7141",
+    "pages": [
+      "Die hat doch höchstens einen Rubin\ngekostet. Nimm diesen Pappschrott\nvom Gesicht."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "7159",
+    "pages": [
+      "Bei den Zoras klingt die Musik\nangeblich kurz völlig bekloppt, wenn\nman die Höhle verläßt. Ist das\nAbsicht?"
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "016F",
+    "pages": [
+      "Wenn Du lieber als Mädchen leben\nmöchtest, unterstütze ich Dich. Auf\nder Farm bist Du immer willkommen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "Anhang: Maskenreaktionen – MALON",
+    "id": "716E",
+    "pages": [
+      "Mario fragt sich, ob die Maske auch\nweiß, wo sein Mittagessen geblieben\nist. Mama mia!"
+    ],
+    "controls": []
+  }
+]
