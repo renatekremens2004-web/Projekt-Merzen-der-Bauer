@@ -1,0 +1,275 @@
+[
+  {
+    "area": "Hyrule-Steppe – erste Begegnung",
+    "id": "2064",
+    "pages": [
+      "Ah, da bist Du ja, [Spielername].",
+      "Ich sitze hier seit dem Morgen auf\ndiesem Ast und habe ehrlich gesagt\nschon nicht mehr damit gerechnet,\ndaß Du da aus dem Tunnel kommst.",
+      "Aber gut, jetzt bist Du ja da, ne.\nAlso ja, ich glaube schon, die Zeit ist\njetzt eigentlich gekommen.",
+      "Was bisher hinter Dir lag, kann man\nals leichten Teil betrachten. Und was\nvor Dir liegt, ist ja schon fast eine\nZumutung.",
+      "Das muß man einfach so sagen."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x2065)"
+    ]
+  },
+  {
+    "area": "Hyrule-Steppe – erste Begegnung",
+    "id": "2065",
+    "pages": [
+      "Dann kannst Du Dich auf den Weg\nmachen zum Schloß Hyrule. Das ist\nnotwendig, um dort Prinzessin Zelda\nzu treffen.",
+      "Und sollte es sein, daß Du mal vom\nWeg abkommst, ja, was ja durchaus\npassieren kann, dann nimm einfach die\nKarte."
+    ],
+    "controls": [
+      "TEXTID(0x2066)"
+    ]
+  },
+  {
+    "area": "Hyrule-Steppe – erste Begegnung",
+    "id": "2066",
+    "pages": [
+      "Hast Du alles verstanden?\n\nNein!\nJa!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Hyrule-Steppe – erste Begegnung",
+    "id": "2067",
+    "pages": [
+      "Ja, das ist schon mal gut. Dann\nsetze ich jetzt meinen Weg fort oder\nDu setzt Deinen Weg fort.",
+      "Wir beide setzen unsere Wege fort\nund sehen uns dann bald wieder."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Schloß Hyrule",
+    "id": "2068",
+    "pages": [
+      "Du hast es also zum Schloß\ngeschafft. Seit unserer letzten\nBegegnung sind vielleicht ein paar\nMinuten gerade mal vergangen.",
+      "Ich bin schon mal vorausgeflogen.\nDort wirst Du auf Friedrich Merz\ntreffen.",
+      "Er ist ja, ich sag's mal vorsichtig, ein\nUnhold und der eigentliche\nGegenspieler in diesem Abenteuer.",
+      "Ich habe ihn schon oft beobachtet\nund neulich beim Überfliegen, da habe\nich auf seine Glatze gekackt.",
+      "Man könnte sagen, dieser Mann ist\nein Witz, aber, und das ist ehrlich\ngesagt das Problem, kein besonders\nguter.",
+      "Und jetzt fahre fort und paß auf die\nWachen auf."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Schloß Hyrule",
+    "id": "206A",
+    "pages": [
+      "Soll ich das anders erklären?\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Schloß Hyrule",
+    "id": "206B",
+    "pages": [
+      "Dann sind wir ja schon mal auf einem\nguten Weg. Wir sehen uns."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Weg nach Kakariko",
+    "id": "206C",
+    "pages": [
+      "Warst Du schon bei der Prinzessin?\nNein? Dann geh da jetzt mal hin.\nOkay."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Weg nach Kakariko",
+    "id": "206D",
+    "pages": [
+      "Sei gegrüßt. Hier sind wir jetzt bei\nKakariko angekommen. Das ist so\neine Art Dorf quasi.",
+      "Ich habe schon mal gehört, daß Leute\nda auch gesagt haben, daß es eine\nStadt ist. Das würde ich so aber\nnicht unterschreiben.",
+      "Und ja, mehr habe ich eigentlich nicht\nhinzuzufügen. Wir sehen uns dann das\nnächste Mal wieder. Bis dann."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – vor Salias Lied",
+    "id": "10C0",
+    "pages": [
+      "Das ist jetzt unsere wievielte\nBegegnung? Ich weiß es nicht. Aber\nes ist schön, Dich wiederzusehen.\nHier sind die Verlorenen Wälder.",
+      "Da findest Du die Heilige Lichtung.\nDas ist ein Ort, den bisher nur\nwenige betreten haben, auch weil man\nihn nicht findet, wenn man ihn sucht.",
+      "Also im Hintergrund, mußt Du Dir\nvorstellen, spielt sozusagen eine\nunsichtbare Geisterband, die Dir den\nWeg weist. Kannst Du sie hören?",
+      "Ja, perfekt."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – vor Salias Lied",
+    "id": "10C2",
+    "pages": [
+      "Soll ich die Orientierungshilfe noch\neinmal einordnen?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "area": "Verlorene Wälder – vor Salias Lied",
+    "id": "10C3",
+    "pages": [
+      "Wir sehen uns dann demnächst\nwieder. Wie viele Dungeons hast Du\njetzt schon geschafft?"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Verlorene Wälder – nach Salias Lied",
+    "id": "10C4",
+    "pages": [
+      "Dieses Lied hat Salia Dir beigebracht.\nEs ist ein mächtiges Lied. Ja, und\nmehr Produktives habe ich da jetzt\nauch nicht dazu zu sagen.",
+      "Bis zum nächsten Mal."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Todesberggipfel – Fee und Rückflug",
+    "id": "3062",
+    "pages": [
+      "Willkommen auf dem Gipfel des\nTodesbergs. Man sagt, die Wolken um\nden Gipfel spiegeln den Zustand des\nBerges wider.",
+      "Sind sie weiß, herrscht Frieden. Ich\nfinde, es ist ein schönes Bild, auch\nwenn es sich nicht ganz überprüfen\nläßt.",
+      "Hier oben lebt außerdem eine Fee.\nAber nicht so eine wie Deine Fee, die\nDich begleitet, oder die Feen, die die\nanderen Kokiri haben.",
+      "Das ist ja nur so ein kleiner\nleuchtender Ball. Hier ist es hingegen\neine halbnackte Frau. Viel Spaß damit.\nBis zum nächsten Mal."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Todesberggipfel – Fee und Rückflug",
+    "id": "3063",
+    "pages": [
+      "Ich weiß, ich weiß. Du möchtest\nwahrscheinlich nicht den ganzen Weg\nwieder runterlatschen.",
+      "Und deswegen kann ich Dich gerne\nmitnehmen zum Fuß des Todesbergs,\nja?"
+    ],
+    "controls": []
+  },
+  {
+    "area": "Zora-Fluß – je nach gelernten Liedern",
+    "id": "4002",
+    "pages": [
+      "Willkommen, [Spielername]. Vor Dir\nfindest Du zwei Erbsenhändler.",
+      "Der eine verkauft Erbsen zu\nüberteuerten Preisen und der andere\nhat keine Erbsen.",
+      "Das ist eine gute Metapher für das,\nwas mit unserem Land passiert, wenn\nFriedrich Merz an die Macht kommt.",
+      "Und deswegen mußt Du jetzt weiter\nzum König Zora, um ihm den\nZora-Saphir oder diesen Zora-Stein\nabzuknöpfen.",
+      "Du kannst mit Deinem Lied, mit\nZeldas Wiegenlied besser gesagt, also\nnicht Dein Lied, sondern ihr Lied im\nGrunde genommen,",
+      "durch den Wasserfall. Wir sehen uns\ndann."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Zora-Fluß – je nach gelernten Liedern",
+    "id": "4017",
+    "pages": [
+      "Willkommen, [Spielername]. Vor Dir\nfindest Du zwei Erbsenhändler.",
+      "Der eine verkauft Erbsen zu\nüberteuerten Preisen und der andere\nhat keine Erbsen.",
+      "Das ist eine gute Metapher für das,\nwas mit unserem Land passiert, wenn\nFriedrich Merz an die Macht kommt.",
+      "Und deswegen mußt Du jetzt weiter\nzum König Zora, um ihm den\nZora-Saphir oder diesen Zora-Stein\nabzuknöpfen.",
+      "Du kannst mit Deinem Lied, mit\nZeldas Wiegenlied besser gesagt, also\nnicht Dein Lied, sondern ihr Lied im\nGrunde genommen,",
+      "durch den Wasserfall. Wir sehen uns\ndann."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Zora-Fluß – je nach gelernten Liedern",
+    "id": "4031",
+    "pages": [
+      "Willkommen, [Spielername]. Vor Dir\nfindest Du zwei Erbsenhändler.",
+      "Der eine verkauft Erbsen zu\nüberteuerten Preisen und der andere\nhat keine Erbsen.",
+      "Das ist eine gute Metapher für das,\nwas mit unserem Land passiert, wenn\nFriedrich Merz an die Macht kommt.",
+      "Und deswegen mußt Du jetzt weiter\nzum König Zora, um ihm den\nZora-Saphir oder diesen Zora-Stein\nabzuknöpfen.",
+      "Du kannst mit Deinem Lied, mit\nZeldas Wiegenlied besser gesagt, also\nnicht Dein Lied, sondern ihr Lied im\nGrunde genommen,",
+      "durch den Wasserfall. Wir sehen uns\ndann."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Hylia-See – Erkundungsgespräch",
+    "id": "2071",
+    "pages": [
+      "Vor Dir liegt der Hylia-See. Mr.\nMoseby geht hier oft spazieren. Ein\ninteressanter Mann. Mach weiter so.\nBis dann."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Hylia-See – Rückflug zum Schloß",
+    "id": "4003",
+    "pages": [
+      "Okay, also Du hast jetzt schon echt\nlange gebraucht. Das ist keine Kritik,\nsondern eher eine Feststellung.",
+      "Du könntest ja mal ab und zu in die\nKarte reinschauen, ja? Also ich bin\njetzt gerade selbst auf dem Weg zum\nSchloß.",
+      "Wenn Du mitkommen willst, kannst\nDu Dich gerne festhalten. Ich\nversuche auch, nicht zu hoch zu\nfliegen.",
+      "Nur an manchen Stellen muß ich\nnatürlich schon höher fliegen, weil ich\nja nicht einfach nur durch Mauern\nhindurchgeistern kann.",
+      "Wobei, na ja, vielleicht kann ich das\nschon, Du aber definitiv nicht. Das\nklären wir später."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Hylia-See – Rückflug zum Schloß",
+    "id": "4004",
+    "pages": [
+      "Ich fliege zum Schloß. Halte Dich an\nmeinen Krallen fest, wenn Du\nmitwillst. Das ist ein Angebot, keine\nVerkehrswende für ganz Hyrule."
+    ],
+    "controls": []
+  },
+  {
+    "area": "Gerudotal",
+    "id": "206F",
+    "pages": [
+      "Wohin werden Dich Deine Schritte als\nNächstes führen? Das ist die Frage\naller Fragen.",
+      "Gehst Du nach Süden, dann kannst\nDu den Hylia-See erkunden.",
+      "Im Westen aber das Gerudotal und\nim Norden, da weiß ich nicht ganz,\nwas da liegt.",
+      "Aber in irgendeiner Richtung ist\nKakariko, aber da warst Du ja schon.\nNa ja. Wir sehen uns dann bis zum\nnächsten Mal.",
+      "Laß Dich nicht entmutigen.\nEntmutigung ist verständlich. Aber Du\nbist der Held. Du hast keine andere\nWahl.",
+      "Das hört sich jetzt nicht so\naufmunternd an. Ich gehe jetzt auch\nerst mal wieder."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "area": "Wüstenkoloss / Geistertempel",
+    "id": "6079",
+    "pages": [
+      "Bist Du überrascht, mich zu sehen?\nLange Jahre in der Zukunft scheinen\nkeine Rolle zu spielen. Hier sind nur\nein paar Sekunden vergangen.",
+      "Selbst ich hätte gedacht, daß\nZeitreisen eine reine Legende sind.\nMan lernt eben nie aus."
+    ],
+    "controls": [
+      "TEXTID(0x607A)"
+    ]
+  },
+  {
+    "area": "Wüstenkoloss / Geistertempel",
+    "id": "607A",
+    "pages": [
+      "Es kann gut sein, daß es jetzt mein\nletzter Rat ist.",
+      "In diesem Tempel sind zwei echt\nunangenehme alte Schachteln, zwei\nalte Hexen, die haben sich hier\nniedergelassen.",
+      "Ich verstehe auch nicht, warum die\nGerudo die jetzt hier nicht\nrausgeworfen haben.",
+      "Diese Hexen, die, also ich weiß nicht,\nich habe jetzt diesmal keine schöne\nMetapher, aber kannst Du die bitte\neinfach umbringen? Danke.",
+      "Na dann, wir sehen uns."
+    ],
+    "controls": []
+  }
+]
