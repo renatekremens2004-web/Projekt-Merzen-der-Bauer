@@ -1,0 +1,1205 @@
+# Aktuelle Dialoge: das große Finale bis zum Ende
+
+Stand: V94, 26. Oktober 2026. Direkt aus dem aktuell vorhandenen deutschen PAL-1.0-Spieltext ausgelesen. Beginn: Rückkehr zur Zitadelle der Zeit und Sheiks Enthüllung. Ende: letzter Kampf, Verbannung, Zeldas Abschied und Schlusssequenz. Dies ist ein Leseexport; Spieltexte und Seitenaufteilung wurden dafür nicht verändert.
+
+Jede vierstellige Nummer ist eine Text-ID. Die vorhandenen Seiten bleiben einzeln sichtbar; Zeilenumbrüche innerhalb einer normalen Textseite sind nur in der Abschrift zusammengezogen. [Spielername] ist dynamisch. Wiederholungen, optionale NPCs und gespeicherte Varianten sind gekennzeichnet und werden nicht alle nacheinander gesprochen. Vorhandene Namen wie Ganondorf und Ganon sind absichtlich wortgetreu übernommen, damit diese Stellen beim Überarbeiten erkennbar bleiben.
+
+Zum Bearbeiten genügt beispielsweise: „705B, Seite 2 neu: …“.
+
+## Inhaltsübersicht
+
+- 0. Rückkehr nach dem letzten Tempel – bedingte Hinweise
+- 1. Zitadelle der Zeit – Sheiks Begrüßung
+- 2. Rückblick – die Legende des Triforce
+- 3. Sheiks Enthüllung als Zelda
+- 4. Rückblick – Zelda und Mr. Beans Flucht
+- 5. Lichtpfeile und Zeldas Entführung
+- 6. Vor Friedrichs Schloss – die Brücke der Weisen
+- 7. Zusätzliche Figuren im Schloss – Mr. Monopoly und Franky
+- 8. Skipper, Kowalski, Private und Rico mit Dynamit
+- 9. Original Starwalker im Schloss
+- 10. Titanhandschuhe – Fundtext und Navis Rückverweis
+- 11. Örtliche Navi-Hinweise und Textauslöser im Schloss
+- 12. Die sechs gebrochenen Siegel – alle Weisen
+- 13. Im Turm – Friedrich Merz und Navi vor dem Kampf
+- 14. Nach dem ersten Kampf – Niederlage und einstürzender Turm
+- 15. Flucht mit Zelda – Ansprechen und Rettungsreaktion
+- 16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung
+- 17. In der Arena – Triangle Guy und der kaputte Franky
+- 18. Das Geräusch, die Verwandlung und der letzte Kampf
+- 19. Die Weisen öffnen das Siegel
+- 20. Friedrich Merz wird verbannt – letzter Fluch
+- 21. Zelda nach dem Sieg – Abschied und Rückreise
+- Anhang A. Navi-Zielerfassung bei beiden Endgegnern
+- Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch
+- Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf
+- 22. Credits und letzter Besuch bei Zelda
+
+## 0. Rückkehr nach dem letzten Tempel – bedingte Hinweise
+
+### 5024
+
+Aktuell eingebauter Text.
+
+Bedingter Abschluss-Hinweis nach den erforderlichen Tempeln; kann abhängig von der Reihenfolge anders liegen.
+
+**Seite 1**
+
+> Perfekt, die ganzen Weisen sind jetzt bereit. Damit können wir den Großmeister des Bösen fertig machen.
+
+**Seite 2**
+
+> Gehe zur Zitadelle der Zeit, da wartet Sheik auf Dich.
+
+### 015C
+
+Aktuell eingebauter Text.
+
+Navis später Story-Hinweis auf Zelda im Schloss.
+
+**Seite 1**
+
+> Zelda ist in Friedrich Merz' Schloß. Ich habe eindeutig die Schnauze voll. Jetzt ist Schluss mit lustig.
+
+## 1. Zitadelle der Zeit – Sheiks Begrüßung
+
+### 705A
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Und da bist du nun, [Spielername].
+
+### 705B
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Du hast so viele Gefahren auf dich genommen.
+
+**Seite 2**
+
+> Du warst in einem riesigen Wal, bist durch Philipp Amthors Villa gegeistert und warst an einem gruseligen Ort in Kakariko, über den wir lieber nicht
+
+**Seite 3**
+
+> sprechen.
+
+**Seite 4**
+
+> Und das alles ist aus deiner Perspektive in einer Woche oder so verlaufen? Doch für mich waren es mehr als sieben Jahre.
+
+### 707C
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Bevor du aufbrichst, solltest du dir noch eine letzte Backstory anhören. Höre die Legende, die sich die Sheikah über das Triforce erzählen.
+
+## 2. Rückblick – die Legende des Triforce
+
+### 705C
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: BOX_BREAK_DELAYED(60), BOX_BREAK_DELAYED(70), BOX_BREAK_DELAYED(90), BOX_BREAK_DELAYED(90), BOX_BREAK_DELAYED(80), BOX_BREAK_DELAYED(80), BOX_BREAK_DELAYED(90), BOX_BREAK_DELAYED(80), FADE(90).
+
+**Seite 1**
+
+> Das Triforce besteht aus drei Elementen. Manche sagen, es gäbe noch ein viertes, aber das ist Quatsch.
+
+**Seite 2**
+
+> Im Heiligen Reich werden Herzenswünsche wahr. Wünschst du dir einen Hamburger, bekommst du den besten Hamburger!
+
+**Seite 3**
+
+> Doch ein dunkles Herz hat dunkle Gelüste. Sein Hamburger wäre auf Kosten aller anderen Hamburger im ganzen Land lecker.
+
+**Seite 4**
+
+> Die wären alle richtig eklig. Nur der Hamburger des Bösen wäre lecker. Das ist das große Problem.
+
+**Seite 5**
+
+> Das Triforce birgt das Gleichgewicht dreier Kräfte: Weisheit, Mut und Kraft.
+
+**Seite 6**
+
+> Sind sie im Herzen des Trägers ausgeglichen, wird er Gutes mit dem Triforce anstellen. Sonst zerbricht es in drei Fragmente.
+
+**Seite 7**
+
+> Nur eines bleibt ihm: Das Fragment der Kraft, an die er selbst am meisten glaubt.
+
+**Seite 8**
+
+> Um das Triforce zu reparieren, braucht er die anderen Fragmente. Beim zweiten Mal klappt es bestimmt.
+
+**Seite 9**
+
+> Die beiden anderen Erwählten tragen ihr Fragment als Symbol auf ihrem Handrücken.
+
+## 3. Sheiks Enthüllung als Zelda
+
+### 705D
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Sieben Jahre zuvor drang Friedrich Merz in das Heilige Reich ein, dessen Zugang du dummerweise in der Zitadelle der Zeit geöffnet hast.
+
+**Seite 2**
+
+> Konnte ja keiner ahnen.
+
+### 707D
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Das Triforce zerbrach in drei Teile und Friedrich Merz erlangte das Triforce-Fragment der Kraft.
+
+### 707E
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Dadurch wurden seine teuflischen Kräfte noch teuflischer. Teuflischer als der Teufel selbst. Er ist jetzt der Teufel selbst.
+
+### 707F
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Die ganze Zeit über befand er sich auf der Suche nach den restlichen beiden Triforce-Elementen.
+
+### 705E
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Und du trägst das Symbol des Mutes, [Spielername].
+
+### 705F
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Ich selbst habe übrigens das der Weisheit.
+
+**Seite 2**
+
+> Denn das gehört zum siebten Weisen, dessen Bestimmung es ist, zum Meister aller anderen Weisen zu werden.
+
+### 7060
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Die ganze Zeit über war ich Zelda, Prinzessin von Hyrule.
+
+### 7061
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Es tut mir leid, daß ich dich an der Nase herumgeführt habe. Aber Friedrich Merz durfte mich nicht finden.
+
+**Seite 2**
+
+> Friedrich Merz respektiert Transpersonen nicht und deswegen bin ich unter dem Radar geblieben.
+
+### 7080
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Heute vor genau sieben Jahren, was echt ein großer Zufall ist, hat Friedrich Merz in Hyrule sein wahres Gesicht gezeigt.
+
+## 4. Rückblick – Zelda und Mr. Beans Flucht
+
+### 7062
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(80).
+
+**Seite 1**
+
+> Mein guter Freund Mr. Bean sorgte immer für mich und unterstützte meinen Vater. Er konnte mich retten.
+
+### 707B
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(80).
+
+**Seite 1**
+
+> Ich fühlte, daß Du derjenige bist, der die Okarina haben soll... Ich wußte, daß es unsere beste und einzige Chance war...
+
+## 5. Lichtpfeile und Zeldas Entführung
+
+### 7063
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Als ich dich sah, wusste ich: Du bist unsere letzte Chance. Also überließ ich dir die Okarina der Zeit.
+
+**Seite 2**
+
+> Dafür hatte ich im Voraus im Weitwurf trainiert.
+
+**Seite 3**
+
+> Solange du die Okarina in deinen Händen hältst, so dachte ich, wäre es Friedrich Merz nicht möglich, das Heilige Reich zu betreten.
+
+**Seite 4**
+
+> Aber etwas, das ich nie erwartet hätte, ist geschehen...
+
+### 7081
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Als du das Tor zur Zeit betreten hast, wurdest du vom Heiligen Schwert in Stasis versetzt.
+
+### 7082
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Du lebtest, oder besser gesagt ruhtest, so lange in einer Pocket Dimension.
+
+**Seite 2**
+
+> Während man deinen Körper auf die Zukunft vorbereitete, lag es an Friedrich Merz, diese ein für alle Mal kaputtzumachen.
+
+**Seite 3**
+
+> Er wurde zum ultimativen Großmeister des Bösen, dem Boten des Todes. In all den Jahren haben wir alle unter ihm gelitten.
+
+**Seite 4**
+
+> Und die Menschen haben ihre Lektion nicht gelernt.
+
+### 7083
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Doch jetzt bist du zurückgekehrt und es wird Zeit, Friedrich Merz für alle Zeiten abzusetzen.
+
+### 7084
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Die sechs Weisen sind vom Schicksal erwählt worden, um Friedrich Merz zurück unter die Fünf-Prozent-Hürde zu verbannen.
+
+**Seite 2**
+
+> Und mit Fünf-Prozent-Hürde meine ich die Tiefen der Hölle.
+
+**Seite 3**
+
+> Dann werde ich das Tor zum Heiligen Reich auf ewig schließen. So wird Friedrich Merz nie wieder zurückkommen.
+
+**Seite 4**
+
+> Doch damit wir das schaffen, werde ich dir diese Waffe übergeben.
+
+**Seite 5**
+
+> Sie soll Friedrich Merz' dunkles Herz erhellen und gleichzeitig mit der Spitze des Pfeils durchstechen.
+
+### 0072
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Die Licht-Pfeile! Plaziere sie auf [C], um sie  zu verschießen - das Licht des Guten zerstört Böses!
+
+### 7064
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Was passiert hier? Ich dachte, in der Zitadelle sind wir sicher!
+
+### 7065
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> So, jetzt ist aber mal Schluss mit lustig! Das war so nicht abgesprochen.
+
+### 7085
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Das, was du hier machst, Zelda, ist brandgefährlich. Das kann ich nicht unterstützen.
+
+### 7086
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Es wird Zeit, dich aus dem Verkehr zu ziehen, damit du in Hyrule keinen weiteren Schaden mehr anrichtest.
+
+### 7087
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Und nun kommt hier so ein Kind hereingelaufen mit dem Triforce des Mutes. Und du trägst das Triforce der Weisheit.
+
+**Seite 2**
+
+> Diese Elemente wurden mir versprochen!
+
+### 7066
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Und jetzt muß ich an dieser Stelle mal ein klares Machtwort sprechen: Du hast in meinem Schloß nichts zu suchen, [Spielername]!
+
+## 6. Vor Friedrichs Schloss – die Brücke der Weisen
+
+### 7067
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> [Spielername]... Hörst Du mich? Hier spricht Robert Habeck. Aus der Halle. Weiterhin keine Eule.
+
+**Seite 2**
+
+> Die sechs Weisen bündeln ihre Kraft zu einer Brücke vor Merz' Schloß. Eine gemeinsame Kraftanstrengung.
+
+**Seite 3**
+
+> Der Teufelsturm wird von sechs Siegeln des Bösen blockiert. Die müssen einzeln gebrochen werden.
+
+**Seite 4**
+
+> Brich die Siegel, dringe in den Turm ein und rette Prinzessin Zelda. Dafür reicht unsere gemeinsame Energie.
+
+## 7. Zusätzliche Figuren im Schloss – Mr. Monopoly und Franky
+
+### 71DB
+
+Aktuell eingebauter Text.
+
+Mr. Monopoly: freiwilliges Gespräch im Schloss.
+
+**Seite 1**
+
+> Mr. Monopoly. Erfreut! Du willst Friedrich Merz aufhalten? Nur zu, ich habe keine persönliche Bindung an diesen Mann.
+
+**Seite 2**
+
+> Aber verurteile nicht gleich das ganze System. Aussicht auf Gewinn bringt Menschen dazu, Risiken
+
+**Seite 3**
+
+> einzugehen, zu investieren und Dinge aufzubauen.
+
+**Seite 4**
+
+> Wettbewerb, Eigentum, Unternehmergeist! Ohne den Wunsch, mehr zu besitzen, stünde hier
+
+**Seite 5**
+
+> vielleicht noch immer bloß ein zugiger Steinklotz.
+
+**Seite 6**
+
+> Gut, das ist hier noch immer ein zugiger Steinklotz. Aber er hat einen Eigentümer und einen beträchtlichen Marktwert.
+
+**Seite 7**
+
+> Du kannst Friedrich Merz besiegen. Doch die menschliche Gier, die Menschen wie ihn vorantreibt, wirst
+
+**Seite 8**
+
+> Du niemals mit einem Schwert aus der Welt schaffen.
+
+**Seite 9**
+
+> Solange einer mehr haben möchte als der nächste, wird jemand daraus ein Geschäft machen. Der Herrscher wechselt, die Miete bleibt.
+
+**Seite 10**
+
+> Und falls Du das hier gewinnst: Auf so ein Schloß passen erstaunlich viele Hotels. Denk darüber nach.
+
+### 71E7
+
+Aktuell eingebauter Text.
+
+Franky die Heugabel im Schloss, noch unbeschädigt.
+
+**Seite 1**
+
+> Howdy, Fremder, schön, Dich wiederzusehen! Franky die Heugabel ist hier, um diesem Friedrich Merz höchstpersönlich in den Hintern zu
+
+**Seite 2**
+
+> pieksen!
+
+**Seite 3**
+
+> Er hat sich mit der falschen Heugabel angelegt, no sir! Heute wird hier mal ordentlich ausgemistet!
+
+## 8. Skipper, Kowalski, Private und Rico mit Dynamit
+
+### 71E0
+
+Aktuell eingebauter Text.
+
+Skipper.
+
+**Seite 1**
+
+> Ich hasse Deutsche. Vor allem, wenn sie langweilig sind und Anzug tragen.
+
+**Seite 2**
+
+> Diesem Friedrich Merz werden wir ordentlich einheizen. Sein ach so pompöses Schloß kommt runter!
+
+**Seite 3**
+
+> Wir lösen das auf die klassische Art: mit ein paar praktisch plazierten Stangen Dynamit.
+
+**Seite 4**
+
+> Und jetzt wegtreten, Soldat. Du stehst mitten in unserer Operation!
+
+### 71E1
+
+Aktuell eingebauter Text.
+
+Kowalski.
+
+**Seite 1**
+
+> Seid gegrüßt! Nach meinen Berechnungen ergeben zwölf Wumms hoch drei, geteilt durch die tragende Tapete...
+
+**Seite 2**
+
+> ...exakt 9000 Kartenhaus-Einheiten. Rechnen wir noch Ricos Begeisterung dazu, bleibt hier kein Stein auf dem anderen!
+
+**Seite 3**
+
+> Ein Hoch auf die Wissenschaft!
+
+### 71E2
+
+Aktuell eingebauter Text.
+
+Private.
+
+**Seite 1**
+
+> Oh Junge, Skipper hat uns angeleitet, Sprengsätze in dieser Burg zu verteilen.
+
+**Seite 2**
+
+> Ihr solltet euch lieber schnell aus dem Staub machen. Nicht, daß euch noch etwas zustößt!
+
+**Seite 3**
+
+> Ich halte das hier nur ganz vorsichtig fest. Die Zündschnur fasse ich lieber gar nicht erst an.
+
+### 71E3
+
+Aktuell eingebauter Text.
+
+Rico.
+
+**Seite 1**
+
+> DYNAMIT! DYNAMIT! KABLAAAM!!!
+
+**Seite 2**
+
+> KA-BOOOM! HEHEHE! BOOOM!
+
+## 9. Original Starwalker im Schloss
+
+### 721E
+
+Aktuell eingebauter Text.
+
+Optionaler Original-Starwalker-Auftritt. Pause vor seinem Namen bleibt als Steuerung dokumentiert.
+
+**Seite 1**
+
+> Friedrich Merz is pissing me off. I'm the original Starwalker
+
+## 10. Titanhandschuhe – Fundtext und Navis Rückverweis
+
+### 005C
+
+Aktuell eingebauter Text.
+
+Fundtext mit Navis Stolz auf das vorhergesagte dritte Paar Handschuhe.
+
+**Seite 1**
+
+> Die Titanhandschuhe! Du fühlst noch größere Kraft in den Armen! Du packst schwerste Dinge mit [A]!
+
+**Seite 2**
+
+> Navi: Yo, ich faß es nicht! Was hab ich gesagt? Ich hab noch gesagt, hoffentlich gibt es ein drittes Paar, das noch stärker ist!
+
+**Seite 3**
+
+> Und jetzt liegt das hier einfach! Ey, ich hab es vorhergesagt. Merk Dir den Moment bitte, ich war meiner Zeit voraus!
+
+## 12. Die sechs gebrochenen Siegel – alle Weisen
+
+### 70E0
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(40).
+
+**Seite 1**
+
+> Das Wald-Siegel ist gebrochen! Beeil Dich, [Spielername]!
+
+### 70E1
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(40).
+
+**Seite 1**
+
+> Das Feuer-Siegel ist gebrochen! Beeil Dich, Bruder!
+
+### 70E2
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(40).
+
+**Seite 1**
+
+> Das Wasser-Siegel ist gebrochen! Mach hinne! Ich habe auch noch andere Interessen.
+
+### 70E3
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(40).
+
+**Seite 1**
+
+> Time to crush Merz's balls!
+
+### 70E4
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(40).
+
+**Seite 1**
+
+> Das Geister-Siegel ist gebrochen! Wua, wua, wua, WAAAH! Waluigi glaubt an Dich!
+
+### 70E5
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(40).
+
+**Seite 1**
+
+> Das Licht-Siegel ist gebrochen! Schnell jetzt!
+
+## 13. Im Turm – Friedrich Merz und Navi vor dem Kampf
+
+### 70C8
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Ihr habt das doch zu akzeptieren. Ich möchte das hier noch einmal ganz deutlich sagen.
+
+### 70C9
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Ich wollte immer nur das Beste für Hyrule und diesen Konflikt deeskalieren.
+
+### 70CA
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Meine Erwartungen sind eigentlich nicht nur erfüllt, sondern übertroffen worden. Jetzt werde ich die Triforce-Fragmente an mich nehmen.
+
+### 70CB
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Damit werden eure linke Rhetorik und der Blödsinn, den ihr hier verzapft, endlich ein Ende haben.
+
+### 70CC
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Das kann doch nicht euer Ernst sein. Ich rate euch dringend davon ab, Spielchen mit mir zu spielen!
+
+### 70CD
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Seine Aura des Bösen ist einfach zu mächtig. Da komme ich nicht ran. Ich wiege doch nur ein paar Milligramm, [Spielername]!
+
+## 14. Nach dem ersten Kampf – Niederlage und einstürzender Turm
+
+### 70CE
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Ich wollte diese Debatte konstruktiv angehen. Doch ihr habt zu Gewalt gegriffen!
+
+### 70CF
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> [Spielername]...!
+
+### 70D0
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Friedrich Merz ist trotz seiner Körpergröße ein trauriger kleiner Mann.
+
+**Seite 2**
+
+> Da ihm der Sinn für Gerechtigkeit fehlte, konnte er die Macht der Götter nicht nutzen.
+
+### 70D1
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Das kann doch nicht wahr sein! Der Turm stürzt in sich zusammen! Das ist Friedrich Merz' letzte böse Tat.
+
+**Seite 2**
+
+> Die Trümmer sollen uns zerschmettern! Schnell, weg hier!
+
+### 70D2
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Schnell! Folge mir!
+
+## 15. Flucht mit Zelda – Ansprechen und Rettungsreaktion
+
+### 71A8
+
+Aktuell eingebauter Text.
+
+Zelda während der Flucht im Inneren des Turms ansprechen.
+
+**Seite 1**
+
+> Beeil Dich, [Spielername]! Der Teufelsturm kann jede  Sekunde einstürzen!
+
+### 71A9
+
+Aktuell eingebauter Text.
+
+Zelda während der Flucht außen am Turm ansprechen.
+
+**Seite 1**
+
+> Achtung! Von überall her stürzen  Trümmer herab!
+
+### 71AB
+
+Aktuell eingebauter Text.
+
+Weitere ortsabhängige Flucht-Ansprache: Hinweis auf den Ausgang.
+
+**Seite 1**
+
+> [Spielername]! Der Ausgang ist hier drüben!
+
+### 71AC
+
+Aktuell eingebauter Text.
+
+Zeldas Dank nach ihrer Befreiung während der Flucht.
+
+**Seite 1**
+
+> Hab Dank, [Spielername]. Schnell! Laß uns fliehen!
+
+## 16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung
+
+### 70D3
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Das war es jetzt.
+
+### 70D4
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Aber wenn er tot war, wie konnte er denn den Turm zum Einsturz bringen?
+
+### 723C
+
+Aktuell eingebauter Text.
+
+Neu eingefügter Schnitt zu Triangle Guy nach dem Einsturz, bevor Link wieder frei steuerbar ist.
+
+**Seite 1**
+
+> Hey, gute Arbeit, Leute! Ich hätte es nicht besser hinbekommen. Darf ich vorstellen: Ich bin das Triforce des Mutes!
+
+## 17. In der Arena – Triangle Guy und der kaputte Franky
+
+### 608A
+
+Aktuell eingebauter Text.
+
+Späteres freiwilliges Ansprechen von Triangle Guy; seine Vorstellung steht bereits in 723C.
+
+**Seite 1**
+
+> Hey Leute, sorry, daß es so lange gedauert hat, ich kam so schnell ich konnte, aber hier bin ich!
+
+**Seite 2**
+
+> Ich bin da für dich, [Spielername]!
+
+**Seite 3**
+
+> Laß uns Friedrich Merz verbannen, der auch irgendwie an ein Stück des Triforces gekommen ist!
+
+**Seite 4**
+
+> Hat er sich wohl gekauft! Aber ich bin nicht käuflich!
+
+### 71E8
+
+Aktuell eingebauter Text.
+
+Kaputter Franky am Rand der finalen Arena.
+
+**Seite 1**
+
+> Fremder... Ich bin's, Franky die Heugabel. Ich wollte Hyrule retten... doch mein Plan ist wohl ein Schuß in den Ofen gewesen.
+
+**Seite 2**
+
+> Sieh mich an. Ich bin ganz kaputt. Laß mich hier liegen, meine Zeit ist gekommen. Ich danke Dir.
+
+## 18. Das Geräusch, die Verwandlung und der letzte Kampf
+
+### 70D5
+
+Aktuell eingebauter Text.
+
+Zelda auf das Geräusch vor dem letzten Kampf ansprechen.
+
+**Seite 1**
+
+> Was ist das für ein Geräusch?
+
+### 70D6
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Lass uns diesem Mann den Arsch aufreißen!
+
+### 70D7
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Das Master-Schwert! Es ist frei!
+
+### 70D8
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Ich werde Merz mit meiner Kraft bannen. Nimm das Schwert und beende es!
+
+### 70D9
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(30).
+
+**Seite 1**
+
+> Ihr sechs Weisen, ich flehe euch an: Sendet eure Kraft!
+
+### 7059
+
+Aktuell eingebauter Text.
+
+Zelda im letzten Kampf ansprechen: Hinweis auf das Master-Schwert bei entsprechendem Kampfzustand. Kein Flucht-Dialog.
+
+**Seite 1**
+
+> Nimm das Master-Schwert! Vernichte Merz mit deiner heiligen Waffe!
+
+## 19. Die Weisen öffnen das Siegel
+
+### 706C
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: BOX_BREAK_DELAYED(60), FADE(90).
+
+**Seite 1**
+
+> Ihr Erschaffer Hyrules!
+
+**Seite 2**
+
+> Öffnet das versiegelte Portal und schickt diese Kreatur des Bösen in den Abgrund der Hölle!
+
+## 20. Friedrich Merz wird verbannt – letzter Fluch
+
+### 70DA
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(30).
+
+**Seite 1**
+
+> Wie kannst du es wagen?!
+
+### 70DB
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(50).
+
+**Seite 1**
+
+> Ich verfluche dich, Zelda! Ich verfluche euch, ihr Weisen!
+
+### 70DC
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(30).
+
+**Seite 1**
+
+> Ich verfluche Mr. Bean!
+
+### 70DD
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: BOX_BREAK_DELAYED(80), FADE(80).
+
+**Seite 1**
+
+> Ihr denkt, ihr habt mich aufgehalten. Doch spätestens bei der nächsten Wahl kommen wir wieder!
+
+**Seite 2**
+
+> Ein Großteil der Presse von Hyrule berichtet zu unseren Gunsten.
+
+### 70DE
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(80).
+
+**Seite 1**
+
+> Ihr könnt den Mann zerstören, doch ihr werdet niemals die Leute los, die ihn gewählt haben!
+
+## 21. Zelda nach dem Sieg – Abschied und Rückreise
+
+### 706F
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Ich danke dir, [Spielername]. Es war ein harter Kampf und er erschien zeitweise hoffnungslos.
+
+**Seite 2**
+
+> Aber wir sind Friedrich Merz' Terrorherrschaft entronnen.
+
+### 7091
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Es muß ganz schön seltsam sein, mit dem Geist eines Kindes im Körper eines Erwachsenen zu stecken.
+
+**Seite 2**
+
+> Dein Gehirn ist zwar mitgewachsen, jedoch konntest du in diesen sieben Jahren keine Erfahrungen machen.
+
+### 7092
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Mit meiner Kraft als Weise habe ich die Gabe, dich in die Vergangenheit zu versetzen, an jeden beliebigen Punkt.
+
+### 7093
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Alles, was du getan hast, wird dann zwar rückgängig gemacht. Und da ich dort ja ein Kind bin, werde ich mich auch gar nicht mehr daran erinnern.
+
+**Seite 2**
+
+> Aber das ist wohl das Laster, das man als Held der Zeit zu tragen hat.
+
+### 7094
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Kehre zurück ins Hyrule vor sieben Jahren und einem Tag. Überzeuge mein junges Ich davon, was Friedrich Merz diesem Land antun wird.
+
+**Seite 2**
+
+> Überzeuge mich mit allen Mitteln! Wir werden Hyrules Zukunft retten.
+
+### 7095
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Doch vorher machen wir noch eine riesige Party, eine riesige Fete, bei der wir alle richtig durchfeiern!
+
+**Seite 2**
+
+> Die wird zwar auch wieder rückgängig gemacht, aber trotzdem: Das wird eine super Feier!
+
+**Seite 3**
+
+> Die müssen wir uns noch gönnen. Aber nach dieser Feier werde ich dich wieder zurück in deine Kindheit befördern.
+
+### 7070
+
+Aktuell eingebauter Text.
+
+Zeit-/Geschwindigkeitssteuerung: BOX_BREAK_DELAYED(40), FADE(60).
+
+**Seite 1**
+
+> Sag meinem Vater, er soll dich zum Ehrenerwachsenen ernennen.
+
+**Seite 2**
+
+> Danke, [Spielername]. Lebe wohl.
+
+## Anhang A. Navi-Zielerfassung bei beiden Endgegnern
+
+### 063D
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Friedrich Merz. Guck Dir die paar Haare an. Dafür morgens noch zum Kamm greifen. Wie peinlich ist das denn?
+
+### 063E
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Das ist Merz. Mir fehlen die Worte.
+
+## Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch
+
+### 00D9
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Hallo mein süßer [Spielername]! Ich bin die Fee des Mutes!
+
+**Seite 2**
+
+> Ich verstärke Deine Abwehrkraft gegenüber feindlichen Attacken!
+
+**Seite 3**
+
+> Sei bereit!
+
+### 00E5
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Deine Abwehrkraft wurde verstärkt!
+
+### 00E9
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Deine Abwehrkraft wurde verstärkt! Gegnerische Angriffe fügen Dir ab jetzt nur noch halb soviel Schaden zu!
+
+### 00EF
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Bist Du vom Kampf erschöpft, besuche mich einfach wieder.
+
+### 00DB
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> [Spielername], Du siehst ja schon wieder komplett dreckig aus. Keine Sorge, ich kann meine Magie benutzen.
+
+### 00DA
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Paß auf, Du hast nur ein Leben. Schmeiß das bitte nicht weg.
+
+## Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf
+
+### 706D
+
+Aktuell eingebauter Text.
+
+Gespeicherter Originaltext. Kein aktiver Textaufruf in den geprüften Schluss-Cutscenes und Endboss-Actors gefunden.
+
+**Seite 1**
+
+> [Spielername]! Zerstöre ihn mit Deiner heiligen Waffe - mit dem Master-Schwert!
+
+### 706E
+
+Aktuell eingebauter Text.
+
+Gespeicherter Originaltext. Kein aktiver Textaufruf in den geprüften Schluss-Cutscenes und Endboss-Actors gefunden.
+
+**Seite 1**
+
+> Oh, heiliges Portal, entriegelt von den Weisen... Schließe Dich für immer und schütze unsere Welt vor dieser üblen Kreatur des Bösen!
+
+### 70DF
+
+Aktuell eingebauter Text.
+
+Gespeicherte Begrüßungsvariante. Kein aktiver Textaufruf für die letzte Hofszene gefunden.
+
+Zeit-/Geschwindigkeitssteuerung: FADE(80).
+
+**Seite 1**
+
+> Du... wer bist Du?
+
+### 71AA
+
+Aktuell eingebauter Text.
+
+Gespeicherter Hilferuf; kein aktiver Textaufruf in den geprüften Flucht-Actors gefunden.
+
+**Seite 1**
+
+> [Spielername]! Hilf mir!
+
+## 22. Credits und letzter Besuch bei Zelda
+
+Die regulären Abspann-Einblendungen werden aus einer eigenen Staff-Textbank geladen. Die Namen des Entwicklerteams sind keine NPC-Dialoge. Die hinzugefügten Figuren in der Feier, Franky mit Klebeband und Marty/Doc im abschließenden Hof haben dort keinen zusätzlichen Gesprächsdialog.
+
+70DF steht im Anhang als gespeicherte Variante; daraus lässt sich kein gesprochenes „Du … wer bist Du?“ in der letzten Hofszene ableiten.
+
+---
+
+95 verschiedene Nachrichten. Hauptgeschichte, freiwillige Begegnungen und gespeicherte Schlussvarianten sind getrennt gekennzeichnet.
+

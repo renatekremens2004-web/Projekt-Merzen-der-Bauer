@@ -1,0 +1,1198 @@
+{
+  "source_sha256": "549fae398c366c06532040b9c671ebddd271d81982795439dd4963a245546ff1",
+  "total_messages": 95,
+  "messages": [
+    {
+      "id": "5024",
+      "section": "0. Rückkehr nach dem letzten Tempel – bedingte Hinweise",
+      "pages": [
+        "Perfekt, die ganzen Weisen sind jetzt\nbereit. Damit können wir den\nGroßmeister des Bösen fertig machen.",
+        "Gehe zur Zitadelle der Zeit, da\nwartet Sheik auf Dich."
+      ],
+      "controls": [],
+      "note": "Bedingter Abschluss-Hinweis nach den erforderlichen Tempeln; kann abhängig von der Reihenfolge anders liegen.",
+      "locations": []
+    },
+    {
+      "id": "015C",
+      "section": "0. Rückkehr nach dem letzten Tempel – bedingte Hinweise",
+      "pages": [
+        "Zelda ist in Friedrich Merz' Schloß.\nIch habe eindeutig die Schnauze voll.\nJetzt ist Schluss mit lustig."
+      ],
+      "controls": [],
+      "note": "Navis später Story-Hinweis auf Zelda im Schloss.",
+      "locations": []
+    },
+    {
+      "id": "705A",
+      "section": "1. Zitadelle der Zeit – Sheiks Begrüßung",
+      "pages": [
+        "Und da bist du nun, [Spielername]."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705B",
+      "section": "1. Zitadelle der Zeit – Sheiks Begrüßung",
+      "pages": [
+        "Du hast so viele Gefahren auf dich\ngenommen.",
+        "Du warst in einem riesigen Wal, bist\ndurch Philipp Amthors Villa gegeistert\nund warst an einem gruseligen Ort in\nKakariko, über den wir lieber nicht",
+        "sprechen.",
+        "Und das alles ist aus deiner\nPerspektive in einer Woche oder so\nverlaufen? Doch für mich waren es\nmehr als sieben Jahre."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707C",
+      "section": "1. Zitadelle der Zeit – Sheiks Begrüßung",
+      "pages": [
+        "Bevor du aufbrichst, solltest du dir\nnoch eine letzte Backstory anhören.\nHöre die Legende, die sich die\nSheikah über das Triforce erzählen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705C",
+      "section": "2. Rückblick – die Legende des Triforce",
+      "pages": [
+        "Das Triforce besteht aus drei\nElementen. Manche sagen, es gäbe\nnoch ein viertes, aber das ist\nQuatsch.",
+        "Im Heiligen Reich werden\nHerzenswünsche wahr. Wünschst du\ndir einen Hamburger, bekommst du\nden besten Hamburger!",
+        "Doch ein dunkles Herz hat dunkle\nGelüste. Sein Hamburger wäre auf\nKosten aller anderen Hamburger im\nganzen Land lecker.",
+        "Die wären alle richtig eklig. Nur der\nHamburger des Bösen wäre lecker.\nDas ist das große Problem.",
+        "Das Triforce birgt das Gleichgewicht\ndreier Kräfte: Weisheit, Mut und\nKraft.",
+        "Sind sie im Herzen des Trägers\nausgeglichen, wird er Gutes mit dem\nTriforce anstellen. Sonst zerbricht es\nin drei Fragmente.",
+        "Nur eines bleibt ihm: Das Fragment\nder Kraft, an die er selbst am\nmeisten glaubt.",
+        "Um das Triforce zu reparieren,\nbraucht er die anderen Fragmente.\nBeim zweiten Mal klappt es bestimmt.",
+        "Die beiden anderen Erwählten tragen\nihr Fragment als Symbol auf ihrem\nHandrücken."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "BOX_BREAK_DELAYED(70)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(80)",
+        "BOX_BREAK_DELAYED(80)",
+        "BOX_BREAK_DELAYED(90)",
+        "BOX_BREAK_DELAYED(80)",
+        "FADE(90)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705D",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Sieben Jahre zuvor drang Friedrich\nMerz in das Heilige Reich ein, dessen\nZugang du dummerweise in der\nZitadelle der Zeit geöffnet hast.",
+        "Konnte ja keiner ahnen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707D",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Das Triforce zerbrach in drei Teile\nund Friedrich Merz erlangte das\nTriforce-Fragment der Kraft."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707E",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Dadurch wurden seine teuflischen\nKräfte noch teuflischer. Teuflischer\nals der Teufel selbst. Er ist jetzt der\nTeufel selbst."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707F",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Die ganze Zeit über befand er sich\nauf der Suche nach den restlichen\nbeiden Triforce-Elementen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705E",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Und du trägst das Symbol des Mutes,\n[Spielername]."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "705F",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Ich selbst habe übrigens das der\nWeisheit.",
+        "Denn das gehört zum siebten Weisen,\ndessen Bestimmung es ist, zum\nMeister aller anderen Weisen zu\nwerden."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7060",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Die ganze Zeit über war ich Zelda,\nPrinzessin von Hyrule."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7061",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Es tut mir leid, daß ich dich an der\nNase herumgeführt habe. Aber\nFriedrich Merz durfte mich nicht\nfinden.",
+        "Friedrich Merz respektiert\nTranspersonen nicht und deswegen bin\nich unter dem Radar geblieben."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7080",
+      "section": "3. Sheiks Enthüllung als Zelda",
+      "pages": [
+        "Heute vor genau sieben Jahren, was\necht ein großer Zufall ist, hat\nFriedrich Merz in Hyrule sein wahres\nGesicht gezeigt."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7062",
+      "section": "4. Rückblick – Zelda und Mr. Beans Flucht",
+      "pages": [
+        "Mein guter Freund Mr. Bean sorgte\nimmer für mich und unterstützte\nmeinen Vater. Er konnte mich retten."
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "707B",
+      "section": "4. Rückblick – Zelda und Mr. Beans Flucht",
+      "pages": [
+        "Ich fühlte, daß Du derjenige bist,\nder die Okarina haben soll...\nIch wußte, daß es unsere beste\nund einzige Chance war..."
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7063",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Als ich dich sah, wusste ich: Du bist\nunsere letzte Chance. Also überließ\nich dir die Okarina der Zeit.",
+        "Dafür hatte ich im Voraus im\nWeitwurf trainiert.",
+        "Solange du die Okarina in deinen\nHänden hältst, so dachte ich, wäre es\nFriedrich Merz nicht möglich, das\nHeilige Reich zu betreten.",
+        "Aber etwas, das ich nie erwartet\nhätte, ist geschehen..."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7081",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Als du das Tor zur Zeit betreten\nhast, wurdest du vom Heiligen\nSchwert in Stasis versetzt."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7082",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Du lebtest, oder besser gesagt\nruhtest, so lange in einer Pocket\nDimension.",
+        "Während man deinen Körper auf die\nZukunft vorbereitete, lag es an\nFriedrich Merz, diese ein für alle Mal\nkaputtzumachen.",
+        "Er wurde zum ultimativen\nGroßmeister des Bösen, dem Boten\ndes Todes. In all den Jahren haben\nwir alle unter ihm gelitten.",
+        "Und die Menschen haben ihre Lektion\nnicht gelernt."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7083",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Doch jetzt bist du zurückgekehrt und\nes wird Zeit, Friedrich Merz für alle\nZeiten abzusetzen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7084",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Die sechs Weisen sind vom Schicksal\nerwählt worden, um Friedrich Merz\nzurück unter die Fünf-Prozent-Hürde\nzu verbannen.",
+        "Und mit Fünf-Prozent-Hürde meine ich\ndie Tiefen der Hölle.",
+        "Dann werde ich das Tor zum Heiligen\nReich auf ewig schließen. So wird\nFriedrich Merz nie wieder\nzurückkommen.",
+        "Doch damit wir das schaffen, werde\nich dir diese Waffe übergeben.",
+        "Sie soll Friedrich Merz' dunkles Herz\nerhellen und gleichzeitig mit der\nSpitze des Pfeils durchstechen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "0072",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Die Licht-Pfeile!\nPlaziere sie auf [C], um sie \nzu verschießen - das Licht\ndes Guten zerstört Böses!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_ARROW_LIGHT)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7064",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Was passiert hier? Ich dachte, in der\nZitadelle sind wir sicher!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7065",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "So, jetzt ist aber mal Schluss mit\nlustig! Das war so nicht\nabgesprochen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7085",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Das, was du hier machst, Zelda, ist\nbrandgefährlich. Das kann ich nicht\nunterstützen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7086",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Es wird Zeit, dich aus dem Verkehr\nzu ziehen, damit du in Hyrule keinen\nweiteren Schaden mehr anrichtest."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7087",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Und nun kommt hier so ein Kind\nhereingelaufen mit dem Triforce des\nMutes. Und du trägst das Triforce\nder Weisheit.",
+        "Diese Elemente wurden mir\nversprochen!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7066",
+      "section": "5. Lichtpfeile und Zeldas Entführung",
+      "pages": [
+        "Und jetzt muß ich an dieser Stelle\nmal ein klares Machtwort sprechen:\nDu hast in meinem Schloß nichts zu\nsuchen, [Spielername]!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7067",
+      "section": "6. Vor Friedrichs Schloss – die Brücke der Weisen",
+      "pages": [
+        "[Spielername]... Hörst Du mich?\nHier spricht Robert Habeck. Aus der\nHalle. Weiterhin keine Eule.",
+        "Die sechs Weisen bündeln ihre Kraft\nzu einer Brücke vor Merz' Schloß.\nEine gemeinsame Kraftanstrengung.",
+        "Der Teufelsturm wird von sechs\nSiegeln des Bösen blockiert. Die\nmüssen einzeln gebrochen werden.",
+        "Brich die Siegel, dringe in den Turm\nein und rette Prinzessin Zelda. Dafür\nreicht unsere gemeinsame Energie."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "71DB",
+      "section": "7. Zusätzliche Figuren im Schloss – Mr. Monopoly und Franky",
+      "pages": [
+        "Mr. Monopoly. Erfreut! Du willst\nFriedrich Merz aufhalten? Nur zu, ich\nhabe keine persönliche Bindung an\ndiesen Mann.",
+        "Aber verurteile nicht gleich das\nganze System. Aussicht auf Gewinn\nbringt Menschen dazu, Risiken",
+        "einzugehen, zu investieren und Dinge\naufzubauen.",
+        "Wettbewerb, Eigentum,\nUnternehmergeist! Ohne den Wunsch,\nmehr zu besitzen, stünde hier",
+        "vielleicht noch immer bloß ein zugiger\nSteinklotz.",
+        "Gut, das ist hier noch immer ein\nzugiger Steinklotz. Aber er hat einen\nEigentümer und einen beträchtlichen\nMarktwert.",
+        "Du kannst Friedrich Merz besiegen.\nDoch die menschliche Gier, die\nMenschen wie ihn vorantreibt, wirst",
+        "Du niemals mit einem Schwert aus\nder Welt schaffen.",
+        "Solange einer mehr haben möchte als\nder nächste, wird jemand daraus ein\nGeschäft machen. Der Herrscher\nwechselt, die Miete bleibt.",
+        "Und falls Du das hier gewinnst: Auf\nso ein Schloß passen erstaunlich viele\nHotels. Denk darüber nach."
+      ],
+      "controls": [],
+      "note": "Mr. Monopoly: freiwilliges Gespräch im Schloss.",
+      "locations": []
+    },
+    {
+      "id": "71E7",
+      "section": "7. Zusätzliche Figuren im Schloss – Mr. Monopoly und Franky",
+      "pages": [
+        "Howdy, Fremder, schön, Dich\nwiederzusehen! Franky die Heugabel\nist hier, um diesem Friedrich Merz\nhöchstpersönlich in den Hintern zu",
+        "pieksen!",
+        "Er hat sich mit der falschen Heugabel\nangelegt, no sir! Heute wird hier mal\nordentlich ausgemistet!"
+      ],
+      "controls": [],
+      "note": "Franky die Heugabel im Schloss, noch unbeschädigt.",
+      "locations": []
+    },
+    {
+      "id": "71E0",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "Ich hasse Deutsche. Vor allem, wenn\nsie langweilig sind und Anzug tragen.",
+        "Diesem Friedrich Merz werden wir\nordentlich einheizen. Sein ach so\npompöses Schloß kommt runter!",
+        "Wir lösen das auf die klassische Art:\nmit ein paar praktisch plazierten\nStangen Dynamit.",
+        "Und jetzt wegtreten, Soldat. Du\nstehst mitten in unserer Operation!"
+      ],
+      "controls": [],
+      "note": "Skipper.",
+      "locations": []
+    },
+    {
+      "id": "71E1",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "Seid gegrüßt! Nach meinen\nBerechnungen ergeben zwölf Wumms\nhoch drei, geteilt durch die tragende\nTapete...",
+        "...exakt 9000 Kartenhaus-Einheiten.\nRechnen wir noch Ricos Begeisterung\ndazu, bleibt hier kein Stein auf dem\nanderen!",
+        "Ein Hoch auf die Wissenschaft!"
+      ],
+      "controls": [],
+      "note": "Kowalski.",
+      "locations": []
+    },
+    {
+      "id": "71E2",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "Oh Junge, Skipper hat uns angeleitet,\nSprengsätze in dieser Burg zu\nverteilen.",
+        "Ihr solltet euch lieber schnell aus\ndem Staub machen. Nicht, daß euch\nnoch etwas zustößt!",
+        "Ich halte das hier nur ganz vorsichtig\nfest. Die Zündschnur fasse ich lieber\ngar nicht erst an."
+      ],
+      "controls": [],
+      "note": "Private.",
+      "locations": []
+    },
+    {
+      "id": "71E3",
+      "section": "8. Skipper, Kowalski, Private und Rico mit Dynamit",
+      "pages": [
+        "DYNAMIT! DYNAMIT! KABLAAAM!!!",
+        "KA-BOOOM! HEHEHE! BOOOM!"
+      ],
+      "controls": [],
+      "note": "Rico.",
+      "locations": []
+    },
+    {
+      "id": "721E",
+      "section": "9. Original Starwalker im Schloss",
+      "pages": [
+        "Friedrich Merz is pissing me off.\nI'm the original Starwalker"
+      ],
+      "controls": [],
+      "note": "Optionaler Original-Starwalker-Auftritt. Pause vor seinem Namen bleibt als Steuerung dokumentiert.",
+      "locations": []
+    },
+    {
+      "id": "005C",
+      "section": "10. Titanhandschuhe – Fundtext und Navis Rückverweis",
+      "pages": [
+        "Die Titanhandschuhe! Du\nfühlst noch größere Kraft in\nden Armen! Du packst\nschwerste Dinge mit [A]!",
+        "Navi: Yo, ich faß es nicht! Was hab\nich gesagt? Ich hab noch gesagt,\nhoffentlich gibt es ein drittes Paar,\ndas noch stärker ist!",
+        "Und jetzt liegt das hier einfach! Ey,\nich hab es vorhergesagt. Merk Dir\nden Moment bitte, ich war meiner\nZeit voraus!"
+      ],
+      "controls": [
+        "ITEM_ICON(ITEM_STRENGTH_GOLD_GAUNTLETS)"
+      ],
+      "note": "Fundtext mit Navis Stolz auf das vorhergesagte dritte Paar Handschuhe.",
+      "locations": []
+    },
+    {
+      "id": "70E0",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Wald-Siegel ist gebrochen!\nBeeil Dich, [Spielername]!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E1",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Feuer-Siegel ist gebrochen!\nBeeil Dich, Bruder!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E2",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Wasser-Siegel ist gebrochen!\nMach hinne! Ich habe auch noch\nandere Interessen."
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E3",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Time to crush Merz's balls!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E4",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Geister-Siegel ist gebrochen!\nWua, wua, wua, WAAAH! Waluigi\nglaubt an Dich!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70E5",
+      "section": "12. Die sechs gebrochenen Siegel – alle Weisen",
+      "pages": [
+        "Das Licht-Siegel ist gebrochen!\nSchnell jetzt!"
+      ],
+      "controls": [
+        "FADE(40)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70C8",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Ihr habt das doch zu akzeptieren. Ich\nmöchte das hier noch einmal ganz\ndeutlich sagen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70C9",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Ich wollte immer nur das Beste für\nHyrule und diesen Konflikt\ndeeskalieren."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CA",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Meine Erwartungen sind eigentlich\nnicht nur erfüllt, sondern übertroffen\nworden. Jetzt werde ich die\nTriforce-Fragmente an mich nehmen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CB",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Damit werden eure linke Rhetorik und\nder Blödsinn, den ihr hier verzapft,\nendlich ein Ende haben."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CC",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Das kann doch nicht euer Ernst sein.\nIch rate euch dringend davon ab,\nSpielchen mit mir zu spielen!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CD",
+      "section": "13. Im Turm – Friedrich Merz und Navi vor dem Kampf",
+      "pages": [
+        "Seine Aura des Bösen ist einfach zu\nmächtig. Da komme ich nicht ran. Ich\nwiege doch nur ein paar Milligramm,\n[Spielername]!"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_NA_HELLO_2)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CE",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "Ich wollte diese Debatte konstruktiv\nangehen. Doch ihr habt zu Gewalt\ngegriffen!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70CF",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "[Spielername]...!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D0",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "Friedrich Merz ist trotz seiner\nKörpergröße ein trauriger kleiner\nMann.",
+        "Da ihm der Sinn für Gerechtigkeit\nfehlte, konnte er die Macht der\nGötter nicht nutzen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D1",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "Das kann doch nicht wahr sein! Der\nTurm stürzt in sich zusammen! Das\nist Friedrich Merz' letzte böse Tat.",
+        "Die Trümmer sollen uns\nzerschmettern! Schnell, weg hier!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D2",
+      "section": "14. Nach dem ersten Kampf – Niederlage und einstürzender Turm",
+      "pages": [
+        "Schnell! Folge mir!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "71A8",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "Beeil Dich, [Spielername]!\nDer Teufelsturm kann jede \nSekunde einstürzen!"
+      ],
+      "controls": [],
+      "note": "Zelda während der Flucht im Inneren des Turms ansprechen.",
+      "locations": []
+    },
+    {
+      "id": "71A9",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "Achtung! Von überall her stürzen \nTrümmer herab!"
+      ],
+      "controls": [],
+      "note": "Zelda während der Flucht außen am Turm ansprechen.",
+      "locations": []
+    },
+    {
+      "id": "71AB",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "[Spielername]!\nDer Ausgang ist hier drüben!"
+      ],
+      "controls": [],
+      "note": "Weitere ortsabhängige Flucht-Ansprache: Hinweis auf den Ausgang.",
+      "locations": []
+    },
+    {
+      "id": "71AC",
+      "section": "15. Flucht mit Zelda – Ansprechen und Rettungsreaktion",
+      "pages": [
+        "Hab Dank, [Spielername].\nSchnell! Laß uns fliehen!"
+      ],
+      "controls": [],
+      "note": "Zeldas Dank nach ihrer Befreiung während der Flucht.",
+      "locations": []
+    },
+    {
+      "id": "70D3",
+      "section": "16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung",
+      "pages": [
+        "Das war es jetzt."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D4",
+      "section": "16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung",
+      "pages": [
+        "Aber wenn er tot war, wie konnte er\ndenn den Turm zum Einsturz bringen?"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "723C",
+      "section": "16. Nach dem Einsturz – Zelda und Triangle Guys Vorstellung",
+      "pages": [
+        "Hey, gute Arbeit, Leute! Ich hätte es\nnicht besser hinbekommen. Darf ich\nvorstellen: Ich bin das Triforce des\nMutes!"
+      ],
+      "controls": [],
+      "note": "Neu eingefügter Schnitt zu Triangle Guy nach dem Einsturz, bevor Link wieder frei steuerbar ist.",
+      "locations": []
+    },
+    {
+      "id": "608A",
+      "section": "17. In der Arena – Triangle Guy und der kaputte Franky",
+      "pages": [
+        "Hey Leute, sorry, daß es so lange\ngedauert hat, ich kam so schnell ich\nkonnte, aber hier bin ich!",
+        "Ich bin da für dich,\n[Spielername]!",
+        "Laß uns Friedrich Merz verbannen,\nder auch irgendwie an ein Stück des\nTriforces gekommen ist!",
+        "Hat er sich wohl gekauft!\nAber ich bin nicht käuflich!"
+      ],
+      "controls": [],
+      "note": "Späteres freiwilliges Ansprechen von Triangle Guy; seine Vorstellung steht bereits in 723C.",
+      "locations": []
+    },
+    {
+      "id": "71E8",
+      "section": "17. In der Arena – Triangle Guy und der kaputte Franky",
+      "pages": [
+        "Fremder... Ich bin's, Franky die\nHeugabel. Ich wollte Hyrule retten...\ndoch mein Plan ist wohl ein Schuß in\nden Ofen gewesen.",
+        "Sieh mich an. Ich bin ganz kaputt.\nLaß mich hier liegen, meine Zeit ist\ngekommen. Ich danke Dir."
+      ],
+      "controls": [],
+      "note": "Kaputter Franky am Rand der finalen Arena.",
+      "locations": []
+    },
+    {
+      "id": "70D5",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Was ist das für ein Geräusch?"
+      ],
+      "controls": [],
+      "note": "Zelda auf das Geräusch vor dem letzten Kampf ansprechen.",
+      "locations": []
+    },
+    {
+      "id": "70D6",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Lass uns diesem Mann den Arsch\naufreißen!"
+      ],
+      "controls": [
+        "SFX(NA_SE_VO_NA_HELLO_2)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D7",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Das Master-Schwert! Es ist frei!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D8",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Ich werde Merz mit meiner Kraft\nbannen. Nimm das Schwert und\nbeende es!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70D9",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Ihr sechs Weisen, ich flehe euch an:\nSendet eure Kraft!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7059",
+      "section": "18. Das Geräusch, die Verwandlung und der letzte Kampf",
+      "pages": [
+        "Nimm das Master-Schwert! Vernichte\nMerz mit deiner heiligen Waffe!"
+      ],
+      "controls": [],
+      "note": "Zelda im letzten Kampf ansprechen: Hinweis auf das Master-Schwert bei entsprechendem Kampfzustand. Kein Flucht-Dialog.",
+      "locations": []
+    },
+    {
+      "id": "706C",
+      "section": "19. Die Weisen öffnen das Siegel",
+      "pages": [
+        "Ihr Erschaffer Hyrules!",
+        "Öffnet das versiegelte Portal und\nschickt diese Kreatur des Bösen\nin den Abgrund der Hölle!"
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(60)",
+        "FADE(90)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DA",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "Wie kannst du es wagen?!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DB",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "Ich verfluche dich, Zelda! Ich\nverfluche euch, ihr Weisen!"
+      ],
+      "controls": [
+        "FADE(50)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DC",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "Ich verfluche Mr. Bean!"
+      ],
+      "controls": [
+        "FADE(30)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DD",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "Ihr denkt, ihr habt mich aufgehalten.\nDoch spätestens bei der nächsten\nWahl kommen wir wieder!",
+        "Ein Großteil der Presse von Hyrule\nberichtet zu unseren Gunsten."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(80)",
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "70DE",
+      "section": "20. Friedrich Merz wird verbannt – letzter Fluch",
+      "pages": [
+        "Ihr könnt den Mann zerstören, doch\nihr werdet niemals die Leute los, die\nihn gewählt haben!"
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "706F",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Ich danke dir, [Spielername]. Es\nwar ein harter Kampf und er erschien\nzeitweise hoffnungslos.",
+        "Aber wir sind Friedrich Merz'\nTerrorherrschaft entronnen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7091",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Es muß ganz schön seltsam sein, mit\ndem Geist eines Kindes im Körper\neines Erwachsenen zu stecken.",
+        "Dein Gehirn ist zwar mitgewachsen,\njedoch konntest du in diesen sieben\nJahren keine Erfahrungen machen."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7092",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Mit meiner Kraft als Weise habe ich\ndie Gabe, dich in die Vergangenheit\nzu versetzen, an jeden beliebigen\nPunkt."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7093",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Alles, was du getan hast, wird dann\nzwar rückgängig gemacht. Und da ich\ndort ja ein Kind bin, werde ich mich\nauch gar nicht mehr daran erinnern.",
+        "Aber das ist wohl das Laster, das\nman als Held der Zeit zu tragen hat."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7094",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Kehre zurück ins Hyrule vor sieben\nJahren und einem Tag. Überzeuge\nmein junges Ich davon, was Friedrich\nMerz diesem Land antun wird.",
+        "Überzeuge mich mit allen Mitteln!\nWir werden Hyrules Zukunft retten."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7095",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Doch vorher machen wir noch eine\nriesige Party, eine riesige Fete, bei\nder wir alle richtig durchfeiern!",
+        "Die wird zwar auch wieder\nrückgängig gemacht, aber trotzdem:\nDas wird eine super Feier!",
+        "Die müssen wir uns noch gönnen.\nAber nach dieser Feier werde ich\ndich wieder zurück in deine Kindheit\nbefördern."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "7070",
+      "section": "21. Zelda nach dem Sieg – Abschied und Rückreise",
+      "pages": [
+        "Sag meinem Vater, er soll dich zum\nEhrenerwachsenen ernennen.",
+        "Danke, [Spielername]. Lebe wohl."
+      ],
+      "controls": [
+        "BOX_BREAK_DELAYED(40)",
+        "FADE(60)"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "063D",
+      "section": "Anhang A. Navi-Zielerfassung bei beiden Endgegnern",
+      "pages": [
+        "Friedrich Merz. Guck Dir die paar\nHaare an. Dafür morgens noch zum\nKamm greifen. Wie peinlich ist das\ndenn?"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "063E",
+      "section": "Anhang A. Navi-Zielerfassung bei beiden Endgegnern",
+      "pages": [
+        "Das ist Merz. Mir fehlen die Worte."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00D9",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Hallo mein süßer [Spielername]!\nIch bin die Fee des Mutes!",
+        "Ich verstärke Deine Abwehrkraft\ngegenüber feindlichen Attacken!",
+        "Sei bereit!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00E5",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Deine Abwehrkraft wurde verstärkt!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00E9",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Deine Abwehrkraft wurde\nverstärkt! Gegnerische Angriffe\nfügen Dir ab jetzt nur noch\nhalb soviel Schaden zu!"
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00EF",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Bist Du vom Kampf erschöpft,\nbesuche mich einfach wieder."
+      ],
+      "controls": [],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00DB",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "[Spielername], Du siehst ja schon\nwieder komplett dreckig aus. Keine\nSorge, ich kann meine Magie\nbenutzen."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "00DA",
+      "section": "Anhang B. Optionale Große Fee beim Schloss – Schutz und Wiederbesuch",
+      "pages": [
+        "Paß auf, Du hast nur ein Leben.\nSchmeiß das bitte nicht weg."
+      ],
+      "controls": [
+        "EVENT"
+      ],
+      "note": "",
+      "locations": []
+    },
+    {
+      "id": "706D",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "[Spielername]!\nZerstöre ihn mit Deiner heiligen\nWaffe - mit dem Master-Schwert!"
+      ],
+      "controls": [],
+      "note": "Gespeicherter Originaltext. Kein aktiver Textaufruf in den geprüften Schluss-Cutscenes und Endboss-Actors gefunden.",
+      "locations": []
+    },
+    {
+      "id": "706E",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "Oh, heiliges Portal, entriegelt von\nden Weisen... Schließe Dich für\nimmer und schütze unsere Welt vor\ndieser üblen Kreatur des Bösen!"
+      ],
+      "controls": [],
+      "note": "Gespeicherter Originaltext. Kein aktiver Textaufruf in den geprüften Schluss-Cutscenes und Endboss-Actors gefunden.",
+      "locations": []
+    },
+    {
+      "id": "70DF",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "Du... wer bist Du?"
+      ],
+      "controls": [
+        "FADE(80)"
+      ],
+      "note": "Gespeicherte Begrüßungsvariante. Kein aktiver Textaufruf für die letzte Hofszene gefunden.",
+      "locations": []
+    },
+    {
+      "id": "71AA",
+      "section": "Anhang C. Gespeicherte Schlussvarianten ohne gefundenen aktiven Textaufruf",
+      "pages": [
+        "[Spielername]!\nHilf mir!"
+      ],
+      "controls": [],
+      "note": "Gespeicherter Hilferuf; kein aktiver Textaufruf in den geprüften Flucht-Actors gefunden.",
+      "locations": []
+    }
+  ],
+  "coverage": {
+    "extracted/pal-1.0/assets/scenes/indoors/tokinoma/gTempleOfTimeSheikRevealsStartCs.csdata.inc.c": [
+      "705A",
+      "705B",
+      "707C"
+    ],
+    "extracted/pal-1.0/assets/scenes/misc/hiral_demo/gCutsceneMapTriforceSheikahLegendCs.csdata.inc.c": [
+      "705C"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/tokinoma/gTempleOfTimeSheikRevealsCs.csdata.inc.c": [
+      "705D",
+      "707D",
+      "707E",
+      "707F",
+      "705E",
+      "705F",
+      "7060",
+      "7061",
+      "7080"
+    ],
+    "extracted/pal-1.0/assets/scenes/overworld/spot00/gHyruleFieldZeldaFlashbackCs.csdata.inc.c": [
+      "7062",
+      "707B"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/tokinoma/gTempleOfTimeLightArrowsAndZeldaCapturedCs.csdata.inc.c": [
+      "7063",
+      "7081",
+      "7082",
+      "7083",
+      "7084",
+      "0072",
+      "7064",
+      "7065",
+      "7085",
+      "7086",
+      "7087",
+      "7066"
+    ],
+    "extracted/pal-1.0/assets/scenes/overworld/ganon_tou/gRainbowBridgeCs.csdata.inc.c": [
+      "7067"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gForestTrialSageCs.csdata.inc.c": [
+      "70E0"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gFireTrialSageCs.csdata.inc.c": [
+      "70E1"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gWaterTrialSageCs.csdata.inc.c": [
+      "70E2"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gShadowTrialSageCs.csdata.inc.c": [
+      "70E3"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gSpiritTrialSageCs.csdata.inc.c": [
+      "70E4"
+    ],
+    "extracted/pal-1.0/assets/scenes/dungeons/ganontika/gLightTrialSageCs.csdata.inc.c": [
+      "70E5"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/kenjyanoma/gChamberOfSagesSealOpeningCs.csdata.inc.c": [
+      "706C"
+    ],
+    "extracted/pal-1.0/assets/scenes/misc/hiral_demo/gCutsceneMapGanondorfDefeatedCs.csdata.inc.c": [
+      "70DA",
+      "70DB",
+      "70DC",
+      "70DD",
+      "70DE"
+    ],
+    "extracted/pal-1.0/assets/scenes/overworld/spot00/gHyruleFieldBeforeCreditsCs.csdata.inc.c": [
+      "706F",
+      "7091",
+      "7092",
+      "7093",
+      "7094",
+      "7095",
+      "7070"
+    ],
+    "extracted/pal-1.0/assets/scenes/indoors/daiyousei_izumi/gGreatFairyDoubleDefenseCs.csdata.inc.c": [
+      "00D9",
+      "00E5",
+      "00E9",
+      "00EF"
+    ],
+    "src/overlays/actors/ovl_Boss_Ganon/z_boss_ganon.c": [
+      "70C8",
+      "70C9",
+      "70CA",
+      "70CB",
+      "70CC",
+      "70CD",
+      "70CE",
+      "70CF",
+      "70D0",
+      "70D1",
+      "70D2"
+    ],
+    "src/overlays/actors/ovl_Boss_Ganon2/z_boss_ganon2.c": [
+      "70D3",
+      "70D4",
+      "723C",
+      "70D6",
+      "70D7",
+      "70D8",
+      "70D9"
+    ],
+    "src/overlays/actors/ovl_En_Zl3/z_en_zl3.c": [
+      "70D5",
+      "7059",
+      "7059",
+      "71A8",
+      "71A9",
+      "71AB",
+      "71AC"
+    ]
+  }
+}
