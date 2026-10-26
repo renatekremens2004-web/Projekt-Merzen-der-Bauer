@@ -3584,6 +3584,78 @@ Aktuell eingebauter Text.
 
 > Kann die Maske Gedanken lesen? Dann weißt Du hoffentlich auch, wann ich mit einer Erklärung fertig bin.
 
+## Anhang: Maskenreaktionen – DANCING_COUPLE
+
+Zuordnung in Reihenfolge: Fuchs-/Pikachu-Maske: 7100, Schädelmaske: 7114, Geistermaske: 711F, Hasenohren: 7130, Goronenmaske: 713C, Zora-Maske: 7155, Gerudo-Maske: 019E, Maske des Wissens: 716D.
+
+### 7100
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Ein Fuchs! Meine Hühner haben Angst vor Füchsen. Ich habe Angst vor meinen Hühnern. Schwierige Situation.
+
+### 7114
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Mario findet, das ist etwas gruselig. Aber Du brauchst deshalb nicht draußen zu warten! Komm rein!
+
+### 711F
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Du bist aber noch gar nicht tot. Ein Kostüm ersetzt keine Qualifikation.
+
+### 7130
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Die machen Dich schneller? Geh mal bis zum Brunnen.
+
+**Seite 2**
+
+> Nee. Genauso lahm.
+
+### 713C
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Goronen baden im Matsch, oder? Hat mir jemand erzählt, der allerdings noch nie einen Goronen gesehen hat.
+
+### 7155
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Die Zoras haben einen König, der beim Aufstehen länger braucht als ich für einen Umzug.
+
+### 019E
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Du verdienst es, Dich wohl und geborgen zu fühlen. Menschen, die Dich mögen, sollen Dich dabei unterstützen.
+
+### 716D
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Waluigi braucht keine Maske des Wissens! Waluigi weiß bereits, daß Waluigi Nummer eins ist!
+
 ## Anhang: Maskenreaktionen – HAGGLING_TOWNSPEOPLE_1
 
 Zuordnung in Reihenfolge: Fuchs-/Pikachu-Maske: 710A, Schädelmaske: 710E, Geistermaske: 712E, Hasenohren: 713A, Goronenmaske: 7140, Zora-Maske: 715D, Gerudo-Maske: 2098, Maske des Wissens: 7166.
