@@ -1,0 +1,7 @@
+V102 – Neuester kumulativer Stand mit Friedhofstexten.
+Normal oder DEBUG jeweils auf eine saubere Ocarina of Time PAL 1.0 ROM anwenden; nicht auf V101.
+
+Neu seit V101: Boris 5018 ohne den Zusatz zur Existentialisten-Miete; 0084 nur „Vielen Dank!“; 2022 neuer Jungen-Text; Komponistengeister 500F/5010, 5012, 5014 und 5000 überarbeitet. Die neue Forschungserklärung ist auf die vorhandene Kette 500F -> 5010 verteilt. Korrektur bei 5012: „Man nannte uns die tadellosen Tonsetzer...“. 5013 bleibt unverändert, weil kein neuer Text genannt wurde. Die Wiederholungsauswahl 5011 und die Graben-Auswahl 5019 bleiben erhalten. Andere Sprachfassungen und nicht genannte deutsche IDs sind unverändert.
+Alle bisherigen Änderungen einschließlich Zelda-/Wachentexte V101, Merz-Musik V100 und früherer Navi-/Kakarikoänderungen sind enthalten.
+
+Prüfung: beide Builds mit 4 MiB RAM. Tagesgespräch des Jungen; Boris beim Abenddienst bis zur Graben-Auswahl; Die Komponisten wurden per Quelltext-, Steuerzeichen- und Layoutvergleich geprüft. Der zusätzliche native Test mit einem künstlich umgeschalteten Poe war nicht erfolgreich und wurde abgebrochen; ein Laufzeittest ihrer Gesprächskette ist nicht abgeschlossen. Objektbank und Actor-/Grafikgrenzen geprüft. Quelltext-, Sprach-, Steuerzeichen- und Layoutvergleich (4 Zeilen / 210 Pixel). BPS unabhängig angewendet und bytegleich verglichen. Kein vollständiger neuer Spieldurchlauf.

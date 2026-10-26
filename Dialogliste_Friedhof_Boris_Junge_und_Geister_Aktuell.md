@@ -28,7 +28,7 @@ Aktuell eingebauter Text.
 
 **Seite 5**
 
-> Bis dahin biete ich die Grausige Grabgrusel-Tour an. Zehn Rubine fürs Graben. Auch ein Existentialist muß seine Miete zahlen.
+> Bis dahin biete ich die Grausige Grabgrusel-Tour an. Zehn Rubine fürs Graben.
 
 Fortsetzung: TEXTID(0x5019).
 
@@ -56,7 +56,7 @@ Aktuell eingebauter Text.
 
 **Seite 1**
 
-> Vielen Dank! Auf weitere Abenteuer mit unbeschädigter Kundschaft.
+> Vielen Dank!
 
 ### 0085
 
@@ -74,15 +74,15 @@ Aktuell eingebauter Text.
 
 **Seite 1**
 
-> Ich liebe Friedhöfe. Die Ruhe, die Gräber, diese konsequent zu Ende gedachte Nachbarschaft.
+> Boah, ich liebe Boris so sehr und die Friedhöfe. Und Boris, der sieht so häßlich aus. Das ist so cool. Der sieht so wie so ein ekliger Typ aus.
 
 **Seite 2**
 
-> Manchmal wünsche ich mir, ich wäre selbst tot. Dann dürfte ich endlich hier wohnen.
+> Hat so 'ne richtige Fratze. Ey, das feier ich total. Und Friedhöfe sind mein ganzes Ding.
 
 **Seite 3**
 
-> Boris sagt, ich soll erst mal meine Hausaufgaben machen. Er nimmt meine Zukunftspläne überhaupt nicht ernst.
+> Ich wünschte, selbst ich wäre tot, so sehr liebe ich Friedhöfe und Totenkultur.
 
 ### 2023
 
@@ -228,19 +228,11 @@ Aktuell eingebauter Text.
 
 **Seite 1**
 
-> AARGH! DU HAST MICH BEZWUNGEN! Unglaublich!
+> Boo! Ich bin der Komponistengeist. Ich bin ein echter Geist. Was sind also die Implikationen für das Leben danach?
 
 **Seite 2**
 
-> Wie? Du bist doch nicht einer von Ganondorfs Schergen, oder?
-
-**Seite 3**
-
-> Als Gespenst muß ich mich so komisch benehmen. Tut mir leid.
-
-**Seite 4**
-
-> Alsdann, ich glaube, ich stelle mich mal vor! Ähem...
+> Denn ich war ja auch mal lebendig.
 
 Fortsetzung: TEXTID(0x5010).
 
@@ -250,43 +242,19 @@ Aktuell eingebauter Text.
 
 **Seite 1**
 
-> Ich bin einer der geisterhaften Komponisten-Brüder von Kakariko.
+> Ja, wir haben dem König gedient, ich und mein Bruder Brahmstein. Wir haben eine Recherche getätigt.
 
 **Seite 2**
 
-> Wie alle Hylianer, so dienten auch wir dem König dieses Landes.
+> Wir waren Forscher und haben an der Okarina der Zeit geforscht oder allgemein an magischen Okarinas.
 
 **Seite 3**
 
-> Wir, die Gebrüder Brahmstein, waren beauftragt, die mystische Macht der königlichen Familie zu untersuchen.
+> Und was für eine wahnsinnig magische Kraft sie haben und was für Wunder und Dinge sie vollbringen können,
 
 **Seite 4**
 
-> Wir haben bis jetzt die Macht des Triforce nicht erklären können.
-
-**Seite 5**
-
-> Aber unsere "Studien zur Macht über die Zeit mittels Tönen einer Okarina" haben wir fast abgeschlossen!
-
-**Seite 6**
-
-> Um ehrlich zu sein...
-
-**Seite 7**
-
-> Wir haben unsere Studien dazu bereits beendet!
-
-**Seite 8**
-
-> Wir wären berühmt geworden, wenn dieser widerliche Ganondorf nicht versucht hätte, die Aufzeichnungen zu stehlen.
-
-**Seite 9**
-
-> Wir konnten es nicht zulassen, daß er die Früchte unserer Arbeit an sich reißt!
-
-**Seite 10**
-
-> Daher haben wir unser Leben riskiert, um diese Geheimnisse zu bewahren.
+> die für das bloße Auge eines rational denkenden Menschen wundersam erscheinen.
 
 Fortsetzung: TEXTID(0x5011).
 
@@ -306,35 +274,23 @@ Aktuell eingebauter Text.
 
 **Seite 1**
 
-> AARGH! ICH BIN WIEDER BESIEGT! Was? Du schon wieder?
+> Okay, okay, ich gebe ja auf. Wenn ich Dich sehe, dann erinnert mich das an die Königsfamilie, mit der Du ja auch wohl im Kontakt stehst.
 
 **Seite 2**
 
-> Wenn ich Dich so ansehe, muß ich an Prinzessin Zelda denken.
+> Man nannte uns die tadellosen Tonsetzer, da wir viele Meisterwerke komponiert haben.
 
 **Seite 3**
 
-> Da Du offenbar mit der Königsfamilie in Kontakt stehst, kann ich Dir ein wenig mehr über uns erzählen.
+> Aber wir waren nicht nur Komponisten, nein, nein, nein. Wir waren viel mehr als das. Viel mehr, als Du Dir jemals vorstellen könntest.
 
 **Seite 4**
 
-> Damals nannten uns die Leute überall "Die tadellosen Tonsetzer", da wir viele Meisterwerke komponiert haben.
+> Ja, unsere Forschungen wären in die Geschichte eingegangen, wenn wir unsere Studien hätten beenden können.
 
 **Seite 5**
 
-> Aber wir waren nicht nur Komponisten!
-
-**Seite 6**
-
-> Wir hatten auch einen Auftrag! Wir sollten die geheimnisvollen Kräfte der hylianischen Königsfamilie untersuchen.
-
-**Seite 7**
-
-> Unsere Namen wären in die Geschichte Hyrules eingegangen, wenn wir unsere Studien beendet hätten.
-
-**Seite 8**
-
-> Wir haben diese Studien natürlich stets streng geheim gehalten!
+> Wir haben diese Studien natürlich stets streng geheim gehalten.
 
 Fortsetzung: TEXTID(0x5014).
 
@@ -362,19 +318,19 @@ Aktuell eingebauter Text.
 
 **Seite 1**
 
-> Mein Bruder und ich studierten verschiedene Melodien: Eine, den Mond zu beschwören, und eine andere, die Sonne herbeizurufen!
+> Mein Bruder und ich, wir haben verschiedene Melodien studiert.
 
 **Seite 2**
 
-> Da Du von einem Angehörigen des Königshauses geschickt wurdest, will ich Dir von den Ergebnissen unserer Untersuchungen berichten.
+> Es gab eine, die den Mond beschwört, und eine andere, die die Sonne herbeiruft. Betritt dieses Grab.
 
 **Seite 3**
 
-> Sie stehen geschrieben auf dem königlichen Grabstein.
+> Keine Sorge, das ist jetzt nicht so gefährlich. Es ist nicht so, daß die ganze Luft irgendwie giftig ist oder so. Nein, das ist eben nicht der Fall.
 
 **Seite 4**
 
-> Zeige auf musikalische Weise, daß Du in königlichem Auftrag unterwegs bist, wenn Du auf dem Triforce vor dem Grab stehst.
+> Dort wirst Du das Lied finden, von dem ich sprach. Das magische Lied.
 
 Fortsetzung: TEXTID(0x5011).
 
@@ -384,19 +340,11 @@ Aktuell eingebauter Text.
 
 **Seite 1**
 
-> AARGH! Du hast mich bezwungen! Wie? Ach, Du bist es.
+> Ach, Du bist es schon wieder! Mein Gott. Du bist ja immer wieder hier. Hast Du die Hymne der Sonne schon mal ausprobiert?
 
 **Seite 2**
 
-> Hast Du mal die Hymne der Sonne gespielt?
-
-**Seite 3**
-
-> Ich habe Dir ja schon erzählt, daß Du damit die Nacht zum Tag und den Tag zur Nacht machst - wann immer Du willst.
-
-**Seite 4**
-
-> Wenn alles um Dich herum dunkel ist, kannst Du damit wieder Licht in die Welt bringen. Probier's!
+> Wenn um Dich herum alles dunkel ist, kannst Du wieder Licht in die Welt bringen. Probier's doch mal aus.
 
 ## Gewöhnlicher Geist – Einfangen und Flaschen
 
