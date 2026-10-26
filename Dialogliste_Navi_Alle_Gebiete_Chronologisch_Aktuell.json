@@ -1,0 +1,3506 @@
+[
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "1095",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Aufweck-Cutscene in Links Haus. Die Einträge stehen in der Reihenfolge der CS_TEXT-Aufrufe.",
+    "pages": [
+      "Hey, [Spielername], aufwachen!\nDas ist ja gruselig. Du kannst ja mit\noffenen Augen schlafen. Ganz schön\neklig.",
+      "Na ja, egal, der Deku-Baum erwartet\nDich. Du hast so eine Art Auftrag."
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_NA_HELLO_3)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "1096",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Aufweck-Cutscene in Links Haus. Die Einträge stehen in der Reihenfolge der CS_TEXT-Aufrufe.",
+    "pages": [
+      "Jetzt mach schon, [Spielername]!\nIch kann den Deku-Baum schlecht um\nAufschub bitten, weil Du noch fünf\nMinuten brauchst.",
+      "Der hat Wurzeln, der rennt uns nicht\nentgegen. Wir müssen schon selbst\nhingehen."
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_NA_HELLO_2)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "1000",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Aufweck-Cutscene in Links Haus. Die Einträge stehen in der Reihenfolge der CS_TEXT-Aufrufe.",
+    "pages": [
+      "Na endlich, [Spielername]. Ich bin\nNavi, Deine Fee. Der Deku-Baum will\nDich dringend sprechen.",
+      "Warum ausgerechnet Du? Keine\nAhnung. Ich kenne Dich seit zwei\nMinuten und mußte Dich schon\ndreimal anschreien."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "1098",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Aufweck-Cutscene in Links Haus. Die Einträge stehen in der Reihenfolge der CS_TEXT-Aufrufe.",
+    "pages": [
+      "[Spielername], wenn Du nicht in\nfünf Sekunden aufstehst, dann werde\nich Dir in den Mund reinfliegen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "0140",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Freiwilliger Storyruf vor dem Besuch beim Deku-Baum.",
+    "pages": [
+      "Der Deku-Baum ruft uns. Wenn der\nmich nur zum Blätterfegen braucht,\nraste ich aus."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "71EA",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Game Boy Color im Tunnel zum Deku-Baum; als Kind anvisieren.",
+    "pages": [
+      "Nanu, da hat jemand seinen Game\nBoy Color rumliegen lassen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "107D",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi meldet sich beim Deku-Baum, bevor er seinen Auftrag erklärt.",
+    "pages": [
+      "Deku-Baum, ich habe ihn. Die Auswahl\nwar offenbar begrenzt."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "0141",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Bedingter Storyruf vor dem Betreten des Baums.",
+    "pages": [
+      "Da hinein. Der Baum hat Dich\neingeladen. Selbst Mido begreift das."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "0609",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Der verwelkte Dekuranha lebt noch?\nIch hätte Dich längst auf den\nKompost geschmissen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "01. Kind – Links Haus und Kokiri-Wald",
+    "id": "0607",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Dekuranha. Mach die Fresse zu,\nDu Scheißunkraut. Ich reiß Dich samt\nWurzel aus diesem Drecksloch."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0134",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Freiwilliger Questhinweis ausschließlich im Deku-Baum.",
+    "pages": [
+      "[Spielername], wir laufen gerade IM\nDeku-Baum herum. In seinem Körper!",
+      "Er redet mit uns, und wir trampeln\ndurch seine Eingeweide. Findest Du\ndas etwa normal?",
+      "Na ja, egal. Paß einfach auf, daß Du\nhier nicht zu viel mit Feuer anstellst.\nWir wollen ja nicht den Deku-Baum\nabfackeln."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0102",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Deku-Baum, Raum/Räume 0.",
+    "pages": [
+      "Ah, eine Ranke an der Wand, die\nbietet Dir so allerhand. Scheiße, jetzt\nhabe ich auch schon angefangen zu\nreimen."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1F02"
+      },
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1F02"
+      },
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1F02"
+      },
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1F02"
+      },
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1F02"
+      },
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1F02"
+      }
+    ]
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0103",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Deku-Baum, Raum/Räume 0.",
+    "pages": [
+      "Also, ich muß Dir doch jetzt nicht\nerzählen, wie man eine Scheißtür\naufmacht, oder? Drück halt einfach\n[A].",
+      "Das blaue Symbol würde Dir schön\nzeigen, was zu tun ist. Komplett\nmetaphorisch gesprochen natürlich.",
+      "Hier ist ja kein blaues Symbol. Hier\nist ja das echte Leben und kein\nVideospiel."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0A03"
+      },
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0A03"
+      }
+    ]
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0104",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Deku-Baum, Raum/Räume 2.",
+    "pages": [
+      "Dieses Rätsel mit der Leiter wirst\nDu nur ein einziges Mal in diesem\nAbenteuer sehen. Danach taucht das\nnie wieder auf."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_2_03000058_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F04"
+      }
+    ]
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0101",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Deku-Baum, Raum/Räume 0.",
+    "pages": [
+      "[Spielername], jetzt C dieses Netz.\nJetzt wirst Du gehetzt. Wenn ich ruf\nJETZT, dann blickst Du mit [C-Up] ab\ndurch das Netz. JETZT!"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_0_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "9301"
+      }
+    ]
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0106",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Deku-Baum, Raum/Räume 10.",
+    "pages": [
+      "Dann müssen wir jetzt nicht lange\nfackeln, okay?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 10,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_10_03000058_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F06"
+      }
+    ]
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0108",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Deku-Baum, Raum/Räume 5.",
+    "pages": [
+      "Puh. Das Symbol auf diesem Block\nfinde ich ein wenig unpassend für\ndiese Umgebung.",
+      "Also versteh mich nicht falsch, das\nist nicht böse gemeint, im Gegenteil!\nIch sage ja nur, ich hätte das jetzt\nhier nicht bei den Kokiris erwartet.",
+      "Den Block kannst Du übrigens hier\nmit dem Zeug da verschieben, ne?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 5,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_5_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0F08"
+      }
+    ]
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "010C",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Deku-Baum, Raum/Räume 5.",
+    "pages": [
+      "Hier kannst Du tauchen, aber das\nbringt Dir nicht viel, denn so tief\nkannst Du jetzt auch nicht tauchen.",
+      "Also weiß auch nicht, warum Du Dich\nüberhaupt anstrengst. Bringt ja eh\nnichts."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 5,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_5_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "510C"
+      },
+      {
+        "room": 5,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ydan/ydan_room_5_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "510C"
+      }
+    ]
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "061F",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine Skullwandula. Die wartet, bis wir\nan der Wand hängen, und springt uns\nan. Du feige kleine Drecksspinne."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0604",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Du achtbeiniger Vollidiot! Dreh Dich\nruhig um und zeig uns Deinen\nSchwachpunkt. Ja, genau so. Meine\nFresse."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0605",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Die Riesen-Skulltula zeigt uns\nfreiwillig ihren weichen Bauch. So ein\ngroßes Vieh und so unfaßbar dumm."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0620",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine goldene Skulltula. Ich höre Dein\nGekratze seit fünf Minuten. Halt\nendlich die Fresse da oben!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "060A",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Laubkerl. Erst Nüsse spucken,\ndann im Loch verkriechen. Komm\nraus, Du feige kleine Drecksau!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0602",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Gohma-Ei. Tritt drauf. Ich will\nnicht noch einem von diesen\nScheißviechern beim Schlüpfen\nzusehen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0603",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Gohma-Baby. Kaum aus dem Ei,\nschon am Rumschreien und Leute\nanspringen. Genau wie seine Mutter."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "0601",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Gohma. Ein einziges riesiges Auge,\nund trotzdem läßt Du Dir genau da\nreinschießen. Du dumme Sau."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "02. Kind – Im Deku-Baum",
+    "id": "102B",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Nach dem Tod des Deku-Baums: Aufbruch zur Prinzessin in Hyrule.",
+    "pages": [
+      "Zum Schloß von Hyrule,\n[Spielername]. Die Prinzessin\nsuchen. Nicht unterwegs jeden Kiesel\nadoptieren."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "03. Kind – Hyrule-Feld, Markt und Schloss Hyrule",
+    "id": "0142",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fortschrittsabhängige Storyhinweise auf Prinzessin, Milchlieferung und Schloss.",
+    "pages": [
+      "Die Prinzessin wartet im Schloß von\nHyrule. Geh los, bevor Du anwächst."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "03. Kind – Hyrule-Feld, Markt und Schloss Hyrule",
+    "id": "0143",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fortschrittsabhängige Storyhinweise auf Prinzessin, Milchlieferung und Schloss.",
+    "pages": [
+      "Mario liefert Milch und macht ein\nNickerchen. Malon hält den Betrieb\nzusammen. Ich finde das erstaunlich\nvertraut."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "03. Kind – Hyrule-Feld, Markt und Schloss Hyrule",
+    "id": "0144",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fortschrittsabhängige Storyhinweise auf Prinzessin, Milchlieferung und Schloss.",
+    "pages": [
+      "Zelda lebt hinter Wachen, Mauern und\neinem Wassergraben. Man könnte\nmeinen, das Schloß wünsche keinen\nBesuch."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "03. Kind – Hyrule-Feld, Markt und Schloss Hyrule",
+    "id": "7227",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Mr. Beans Auto in der Nähe von Schloss Hyrule; nur als Kind.",
+    "pages": [
+      "Mr Beans Auto. Er fährt damit jeden\nMorgen zur Arbeit."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "03. Kind – Hyrule-Feld, Markt und Schloss Hyrule",
+    "id": "0655",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Knochengänger. Die ganze Nacht\nkommen diese Dreckssäcke aus dem\nBoden. Bleibt doch einfach mal liegen!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "03. Kind – Hyrule-Feld, Markt und Schloss Hyrule",
+    "id": "0648",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine riesige Killeranas. Jetzt kommt\ndie Mutter auch noch an. Ja, Deine\nKinder haben zuerst angefangen!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "03. Kind – Hyrule-Feld, Markt und Schloss Hyrule",
+    "id": "0649",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine Killeranas-Larve. So ein kleines\nVieh und macht schon so eine Welle.\nVerpiß Dich wieder in den Sand."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "04. Kind – Kakariko und Friedhof",
+    "id": "7237",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Sonichu-Medaillon am Boden im Grab, in dem die Hymne der Sonne gelernt wird.",
+    "pages": [
+      "Fass es bloß nicht an!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "04. Kind – Kakariko und Friedhof",
+    "id": "10B1",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Untersuchung des schlafenden Mannes; vom EnHs-Tauschquest-Actor aufgerufen.",
+    "pages": [
+      "Hallo?\nEr reagiert nicht!\nEr scheint zu schlafen..."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "04. Kind – Kakariko und Friedhof",
+    "id": "0146",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Storyhinweis: Mr. Bean schickt Link zum Todesberg.",
+    "pages": [
+      "Bean schickt uns zum Todesberg.\nGoronen hüten dort den Feuerstein.\nIch hätte lieber einen Auftrag ohne\nTodesandrohung."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "04. Kind – Kakariko und Friedhof",
+    "id": "0643",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Friedhofs-Irrlicht. Du bist schon\ntot und gehst trotzdem noch Leuten\nauf den Sack. Hast Du nichts zu\ntun?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "04. Kind – Kakariko und Friedhof",
+    "id": "0644",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Irrlicht. Erst groß mit der Lampe\ndrohen und dann unsichtbar werden.\nKomm zurück, Du feiges Schwein."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "04. Kind – Kakariko und Friedhof",
+    "id": "062A",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Zombie. Hör auf, so zu stöhnen!\nUnd nimm die Finger von uns, Du\nwiderlicher Grabscher!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "00E0",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Salia-Lied: Nachfrage, ob Link mit Salia sprechen möchte. Navi stellt die Verbindung her.",
+    "pages": [
+      "Willst Du mit Salia sprechen?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "00E1",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Salia-Lied: stattdessen mit Navi sprechen.",
+    "pages": [
+      "Willst Du dann mit mir sprechen? \n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "00E3",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi fragt, ob erneut mit Salia gesprochen werden soll.",
+    "pages": [
+      "Willst Du nochmal mit ihr reden?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "064C",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Wolfsheimer. Nimm die Pfoten\nrunter! Daß Du Dir die Fresse\nzuhältst, macht Dich nicht\nunverwundbar."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "063F",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Horror-Kid. Spiel noch EINEN Ton,\nDu kleiner Nervsack. Einen einzigen.\nIch schwör's Dir."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "0640",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Horror-Kid ohne Gesicht. Gut.\nDann muß ich Dir wenigstens nicht\nbeim Grinsen zugucken."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "0641",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Horror-Kid mit Totenschädel. Nimm\nden Mist ab. Die Flöte hören wir\ntrotzdem, Du Trottel."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "064D",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein verrückter Laubkerl. Der spuckt\nnoch weiter? Ich hau' Dich aus dem\nBoden, Du kleiner Scheißbusch!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder und Heilige Lichtung",
+    "id": "064E",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein reicher Laubkerl. Erst beschießen\nund dann was verkaufen wollen. Du\nhast doch den Arsch offen!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "06. Kind – Todesberg und Goronia vor Dodongos Höhle",
+    "id": "0145",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Bedingte Storyhinweise zu Darunia und zum Höhleneingang.",
+    "pages": [
+      "Darunia hungert hinter seiner Tür.\nSalia versteht etwas von Musik.\nVielleicht läßt er sich damit\naufheitern."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "06. Kind – Todesberg und Goronia vor Dodongos Höhle",
+    "id": "0147",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Bedingte Storyhinweise zu Darunia und zum Höhleneingang.",
+    "pages": [
+      "Merz hat den Höhleneingang versaut,\nund wir dürfen die Donnerblume\ntragen. Eigenverantwortung riecht\nüberraschend nach Sprengstoff."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "06. Kind – Todesberg und Goronia vor Dodongos Höhle",
+    "id": "0645",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein roter Arachno. Hör auf, vor\nmeinen Füßen rumzuhüpfen! Ich tret'\nDich den Berg runter, Du Drecksvieh."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0114",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Dodongos Höhle, Raum/Räume 2.",
+    "pages": [
+      "Ey, laß uns mal einfach alle\nDonnerblumen gleichzeitig zünden und\ndas ganze Ding in die Luft jagen!"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_2_0300004C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "BF14"
+      }
+    ]
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0115",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Dodongos Höhle, Raum/Räume 0.",
+    "pages": [
+      "Paß auf, hier sind eine Menge\nLavagruben. Aber glücklicherweise\nbrauchst Du jetzt keine besondere\nRüstung, um hier zu überleben."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_0_03000060_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0B15"
+      }
+    ]
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0116",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Dodongos Höhle, Raum/Räume 0.",
+    "pages": [
+      "Es sieht aus, als hätten die Goronen\nso eine Art Aufzug erfunden."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_0_03000060_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0816"
+      }
+    ]
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0119",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Dodongos Höhle, Raum/Räume 9.",
+    "pages": [
+      "In diesen schmalen Gängen weiß\nman nie, was sich hinter der \nnächsten Ecke befindet...",
+      "Drücke [Z], um immer in die\nrichtige Richtung zu schauen.\nPraktisch, nicht wahr?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 9,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_9_03000060_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0E19"
+      },
+      {
+        "room": 9,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_9_03000060_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0E19"
+      },
+      {
+        "room": 9,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ddan/ddan_room_9_03000060_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0E19"
+      }
+    ]
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0612",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Flederbeißer. Du hast die ganze\nHöhle zum Fliegen. Warum muß es\nausgerechnet mein Gesicht sein, Du\nWichser?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0611",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Feuerflatterer. Brennt schon und\nfliegt uns trotzdem noch in die\nFresse. Halt doch einfach mal still!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0639",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Strahlzyklop. Starrt uns die ganze\nZeit an. Glotz woanders hin, Du\neinäugiger Drecksack!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "0613",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Armos-Ritter. Jahrelang dumm\nrumstehen und dann ausrasten, wenn\neiner vorbeikommt. Bleib sitzen, Du\nIdiot."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "060E",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Baby-Dodongo. Rennt hinter uns\nher, fällt um und platzt. Wirklich\nalles an Dir ist bescheuert."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "060D",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Dodongo. Vorne Feuer spucken,\nhinten völlig offen stehen. Dreh Dich\nruhig, Du hirnloses Mistvieh."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "060F",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Echsodorus. Hör auf, ständig\nwegzuhüpfen! Du hast ein Schwert,\nDu feiges Arschloch. Benutz es!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "07. Kind – Dodongos Höhle",
+    "id": "060C",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "King Dodongo. Jetzt reißt er wieder\ndas Maul auf. Friß die Bombe, Du\nverfressener Vollidiot!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "08. Kind – Nach Dodongos Höhle, Todesberggipfel und Weg zu den Zoras",
+    "id": "0135",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Normaler Nachspielhinweis nach dem Goronen-Opal.",
+    "pages": [
+      "Wir waren schon wieder in einem\nMund! Dodongos Höhle lag in einem\nriesigen Gerippe.",
+      "Und kurz vor dem Boß mußten wir\nauch noch durch einen gewaltigen\nDodongo-Schädel.",
+      "So, Goronia wäre damit auch\nabgehakt. Lief doch bis jetzt ganz\ngut, oder? Können wir jetzt\naufhören?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "08. Kind – Nach Dodongos Höhle, Todesberggipfel und Weg zu den Zoras",
+    "id": "0148",
+    "kind": "Navi",
+    "status": "Bedingte Alternativfassung",
+    "context": "Alternative gespeicherte Questzeile; nach Opalerhalt in der normalen deutschen Abfrage durch 0135 ersetzt.",
+    "pages": [
+      "So, Goronia wäre damit auch\nabgehakt. Lief doch bis jetzt ganz\ngut, oder? Können wir jetzt\naufhören?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "08. Kind – Nach Dodongos Höhle, Todesberggipfel und Weg zu den Zoras",
+    "id": "0149",
+    "kind": "Navi",
+    "status": "Bedingte Alternativfassung",
+    "context": "Alternative gespeicherte Questzeile; nach Opalerhalt in der normalen deutschen Abfrage durch 0135 ersetzt.",
+    "pages": [
+      "Salia hat uns mit dieser Blutmagie\necht geholfen. Was sie wohl noch\nalles weiß?",
+      "Laß sie aber nur im zwingenden\nNotfall besuchen. Ich hab keinen Bock,\nda jetzt hinzulatschen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "08. Kind – Nach Dodongos Höhle, Todesberggipfel und Weg zu den Zoras",
+    "id": "71E9",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Optionaler früher Besuch im Todeskrater: verbrannten Körper anvisieren; der Text wird als Erwachsener wiederverwendet.",
+    "pages": [
+      "Hmm. Der hatte wohl keine magische\nAnti-Hitzerüstung... Ärgerlich...\nWirklich ärgerlich..."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "08. Kind – Nach Dodongos Höhle, Todesberggipfel und Weg zu den Zoras",
+    "id": "3040",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Automatische Hitzewarnung bei einem ungeschützten frühen Besuch im Todeskrater. Derselbe Text gilt später erneut.",
+    "pages": [
+      "[Spielername], was machst Du\ndenn? Wenn wir uns hier weiter\naufhalten, werden wir in Flammen\naufgehen!"
+    ],
+    "controls": [
+      "FADE(60)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "09. Kind – Zora-Fluss, Zoras Reich und Hylia-See",
+    "id": "0642",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Oktorok. Der spuckt uns\nernsthaft ins Gesicht. Schluck Deinen\neigenen Dreck, Du widerliches\nArschloch!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "09. Kind – Zora-Fluss, Zoras Reich und Hylia-See",
+    "id": "0646",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein blauer Arachno. Wir sind im\nWASSER. Selbst hier krieg' ich vor\ndiesen hüpfenden Arschlöchern keine\nRuhe."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "09. Kind – Zora-Fluss, Zoras Reich und Hylia-See",
+    "id": "014A",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Storyhinweis bei Rutos Brief in einer Flasche, solange ihr Stein noch fehlt.",
+    "pages": [
+      "Och nee, oder? Die ist jetzt nicht\nernsthaft in diesem scheiß Fisch\ndrin?",
+      "Ich schwör, wenn wir da jetzt\nreinmüssen, dann raste ich aus! Wir\nwaren schon im Baum und durch\neinen riesigen Schädel!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "09. Kind – Zora-Fluss, Zoras Reich und Hylia-See",
+    "id": "0100",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Hylia-See, Raum/Räume 0.",
+    "pages": [
+      "Was ist denn das für ein Mist?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/overworld/spot06/spot06_room_0_0300007C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3B00"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0125",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 3.",
+    "pages": [
+      "Ein Nintendo 64 mit Zelda Ocarina of\nTime... Ich tu mal so, als hätte ich\ndas nicht gesehen."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 3,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_3_0300006C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F25"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "012F",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 2.",
+    "pages": [
+      "Hey, [Spielername], das erinnert\nmich an den Typen, der dieses\nZora-Minispiel leitet. Mit dem\nTauchen, weißt Du noch?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_2_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "182F"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0131",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 7.",
+    "pages": [
+      "Guck mal, [Spielername], das ist\nwieder so ein Tentakel, aber diesmal\nin Rot."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 7,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_7_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1931"
+      },
+      {
+        "room": 7,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_7_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1A31"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0132",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 7.",
+    "pages": [
+      "Ich habe es vielleicht ein bißchen\nvergessen zu erwähnen,\n[Spielername], aber diese Dinger\nsind voller elektrischer Energie."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 7,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_7_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1B32"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0133",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 7.",
+    "pages": [
+      "Mist, es wäre echt praktisch, wenn\nDu jetzt irgendwie schon, keine\nAhnung, sieben Jahre älter wärst\noder so. Für den Schalter bist Du zu",
+      "leicht."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 7,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_7_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "3F33"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0137",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 7.",
+    "pages": [
+      "Okay, dieses Tentakel-Ding ist jetzt\nweg. War das ein Polyp? Oder war\ndas etwas, das zu Jabu-Jabu\ndazugehört?",
+      "Könnten wir hier drin ein bißchen\naufpassen, okay?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 7,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_7_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1037"
+      },
+      {
+        "room": 7,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_7_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1037"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0139",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 5.",
+    "pages": [
+      "Hey, ich glaube, das ist so eine Art\nSchalter. Also ein Teil von seinem\nKörper, der einen Reflex auslöst."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 5,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_5_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "AC39"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "013A",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Jabu-Jabus Bauch, Raum/Räume 6.",
+    "pages": [
+      "Hey, schau mal, was ist denn das?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 6,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/bdan/bdan_room_6_0300006C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F3A"
+      }
+    ]
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0606",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Zangengeiferer. Nimm Deine\nZangen da weg, Du widerlicher\nDrecksack! Keiner will von Dir\nangefaßt werden."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0616",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine Blubberblase. Die hält sich\nernsthaft für ein Hindernis. Du bist\nLUFT. Verpiß Dich."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0617",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine Zappelqualle. Pack Deinen Strom\nweg, Du glibberiges Arschloch. Ich\nwill hier einfach nur vorbei!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0618",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine große Zappelqualle. Ja, Du bist\ngrößer. Du bist aber immer noch\nderselbe beschissene Schleimklumpen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0619",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Elektromanta. Liegt erst feige im\nBoden und springt uns dann ins\nGesicht. Richtig dreckige Nummer."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0615",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Parasiten-Tentakel.\n[Spielername], hau das ab. Ich hab'\nkeinen Bock, daß dieser glitschige\nScheiß mich berührt."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0659",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Grozokto. Dein Arsch ist so groß,\ndaß wir ihn durch den ganzen Raum\nverfolgen müssen. Bleib stehen, Du\nSau!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "10. Kind – Jabu-Jabus Bauch",
+    "id": "0614",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Barinade. Du hängst hier in Jabus\nInnereien und kackst alles mit Strom\nvoll. Widerliches Drecksvieh."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "11. Kind – Nach Jabu-Jabu, Flucht am Schloss und Zitadelle der Zeit",
+    "id": "013F",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fortschrittsabhängiger Story-/Übergangstext. 0165 und 0166 sind im Salia-Funknummernraum gespeichert; ihre technische Zuordnung wird im Anhang erklärt.",
+    "pages": [
+      "[Spielername], ich weiß, wir haben\nhier eine Mission und so. Aber\nglaubst Du ernsthaft, daß Jabu-Jabu\ndas überleben wird?",
+      "All die Gewalt und das\nHerumgespringe in seinem Inneren!\nJunge, hast Du den Endboß gesehen?",
+      "Wir haben in Jabus Herz, oder was\ndas auch immer war, alles komplett\nzerstört. Das Vieh ist dem Tod\ngeweiht.",
+      "Laß uns lieber verschwinden, bevor\njemand fragt, wessen Idee das war."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "11. Kind – Nach Jabu-Jabu, Flucht am Schloss und Zitadelle der Zeit",
+    "id": "014B",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fortschrittsabhängiger Story-/Übergangstext. 0165 und 0166 sind im Salia-Funknummernraum gespeichert; ihre technische Zuordnung wird im Anhang erklärt.",
+    "pages": [
+      "Drei Heilige Steine. Zeldas Plan kann\nweitergehen. Ich hoffe sehr, daß\ndiesmal jemand die möglichen Folgen\nmitbedacht hat."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "11. Kind – Nach Jabu-Jabu, Flucht am Schloss und Zitadelle der Zeit",
+    "id": "014C",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fortschrittsabhängiger Story-/Übergangstext. 0165 und 0166 sind im Salia-Funknummernraum gespeichert; ihre technische Zuordnung wird im Anhang erklärt.",
+    "pages": [
+      "Bean hat Zelda auf dem weißen Pferd\ngerettet. Endlich handelt ein\nErwachsener! Im Wassergraben liegt\nnoch etwas, das sie uns zuwarf."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "11. Kind – Nach Jabu-Jabu, Flucht am Schloss und Zitadelle der Zeit",
+    "id": "014D",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fortschrittsabhängiger Story-/Übergangstext. 0165 und 0166 sind im Salia-Funknummernraum gespeichert; ihre technische Zuordnung wird im Anhang erklärt.",
+    "pages": [
+      "Alles klar, dann schauen wir mal,\nwas wir hier hinter dieser Wand für\nReichtümer haben. Mein Feenkörper\nist bereit."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "11. Kind – Nach Jabu-Jabu, Flucht am Schloss und Zitadelle der Zeit",
+    "id": "70E6",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi untersucht das Master-Schwert; 70E8 ist die kurze weitere Fassung.",
+    "pages": [
+      "[Spielername], ich glaube, mich\ntritt ein Pferd!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "11. Kind – Nach Jabu-Jabu, Flucht am Schloss und Zitadelle der Zeit",
+    "id": "70E7",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi untersucht das Master-Schwert; 70E8 ist die kurze weitere Fassung.",
+    "pages": [
+      "Das Master-Schwert! Eine der\nstärksten Klingen im Land, heißt es."
+    ],
+    "controls": [
+      "FADE(30)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "11. Kind – Nach Jabu-Jabu, Flucht am Schloss und Zitadelle der Zeit",
+    "id": "70E8",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi untersucht das Master-Schwert; 70E8 ist die kurze weitere Fassung.",
+    "pages": [
+      "Das Master-Schwert!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "12. Erwachsen – Erwachen in der Zitadelle und erster Weg nach Kakariko",
+    "id": "7054",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Automatische erste Erwachsenen-Szene in der Zitadelle, einschließlich Frosch-Nachsatz.",
+    "pages": [
+      "Och nee, jetzt ist der Frosch einfach\nweggehüpft",
+      "[Spielername], Yo, als ob wir jetzt\neinfach sieben Jahre lang eingefroren\nwaren. Das kann doch nicht sein!",
+      "Und Dein ganzer Scheiß ist auch\nkomplett kaputt. Deine ganzen Items\nsind ja völlig geschrottet!",
+      "Jetzt müssen wir die anderen Weisen\nfinden. Ich weiß überhaupt nicht, was\nhier abgeht.",
+      "Das ist echt heftig. Total verrückt.\nUiuiuiuiuiui!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "12. Erwachsen – Erwachen in der Zitadelle und erster Weg nach Kakariko",
+    "id": "0120",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Einmaliger freiwilliger Erwachsenentext; hat Vorrang, solange er noch nicht abgerufen wurde.",
+    "pages": [
+      "Warte mal, mir fällt das jetzt erst\nauf, aber warum war König Zora so\nmega langsam?",
+      "Gott, ich hoffe, der Typ ist in dieser\nneuen Zukunft tot!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "12. Erwachsen – Erwachen in der Zitadelle und erster Weg nach Kakariko",
+    "id": "014E",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Storyhinweis, solange der Fanghaken fehlt.",
+    "pages": [
+      "Hey, weißt Du was? Wenn wir Glück\nhaben, ist dieser alte Totengräber\nendlich krepiert.",
+      "Der wollte Dir doch diesen\nEnterhaken überlassen, oder?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "12. Erwachsen – Erwachen in der Zitadelle und erster Weg nach Kakariko",
+    "id": "064F",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Boris' Geist. Ist schon tot und läßt\nein Kind durch sein Scheißgrab\nrennen. Was stimmt denn mit dem\nnicht?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "12. Erwachsen – Erwachen in der Zitadelle und erster Weg nach Kakariko",
+    "id": "0105",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Zeitblock in Boris’ Grab; derselbe Text wird später in mehreren Tempeln wiederverwendet. Ortsauslöser: Boris’ Grab, Raum/Räume 5.",
+    "pages": [
+      "Hey, da ist mal wieder einer von\ndiesen Minecraft-Blöcken."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 5,
+        "source": "extracted/pal-1.0/assets/scenes/indoors/hakasitarelay/hakasitarelay_room_5_03000054_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "0705"
+      }
+    ]
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "71EB",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Game Boy Advance am selben Tunnelplatz wie früher der Game Boy Color; als Erwachsener.",
+    "pages": [
+      "Nanu, da hat jemand seinen Game\nBoy Advance rumliegen lassen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "0150",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Fanghaken vorhanden, Waldamulett fehlt; freiwilliger Storyruf.",
+    "pages": [
+      "Sieben Jahre sind vergangen. Für\nSalia war das keine kleine Pause. Ich\nmache mir Sorgen um sie und den\nWald."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "0107",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Heilige Lichtung, Raum/Räume 0.",
+    "pages": [
+      "Enger Gang. Laß Dir an der Ecke\nnicht schon wieder eine verpassen.",
+      "Mit [Z] richtest Du Dich aus und\nblickst geradeaus in den Gang.",
+      "Halte [Z] und gehe seitwärts um die\nEcke. Denk ausnahmsweise vor\nDeinem Schädel mit."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/overworld/spot05/spot05_room_0_03000048_AltHeaders_03000340_Cmds_03000394_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0E07"
+      }
+    ]
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "0608",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Der große Dekuranha hält den Kopf\nextra weit hoch. Ja, danke, Du\nTrottel. Da kommen wir prima dran."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "0636",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Horror-Kid. Nimm die Flöte aus\ndem Maul. Ich will, daß Du mich\nhörst, wenn ich sage, daß Du nervst."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "064A",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ja, komm nur. Der letzte Vollidiot\ndachte auch, daß wir vor ihm\nstehenbleiben und uns verprügeln\nlassen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "064B",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Der nächste Trottel. Was wollt Ihr\neigentlich alle von uns? Ist hier\nirgendwo ein Nest mit diesen\nArschlöchern?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "13. Erwachsen – Kokiri-Wald, Verlorene Wälder und Heilige Lichtung",
+    "id": "065A",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Nachtschwärmer. Der haut ab,\nsobald wir näherkommen. Wozu\nmachst Du dann vorher so eine große\nFresse auf?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "018C",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 2.",
+    "pages": [
+      "Ey Junge, sag jetzt nicht, daß wir\ndiese Geister durch den ganzen Laden\nhier verfolgen müssen. Ey, bitte nicht."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F8C"
+      },
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F8C"
+      },
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F8C"
+      },
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F8C"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "018D",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 2.",
+    "pages": [
+      "[Spielername], Okay, immerhin\nbrennt jetzt wieder eine von den\nFackeln. Wir arbeiten uns langsam\nvor. Ey, das wird noch lange dauern."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2C8D"
+      },
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2D8D"
+      },
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2E8D"
+      },
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2F8D"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "018F",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 11.",
+    "pages": [
+      "Also, ich weiß ja nicht, ob Du es\nschon gemerkt hast, aber auf dem\nBoden sind Pfeile, ne? Just saying."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 11,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_11_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "088F"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0190",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 19.",
+    "pages": [
+      "Boah, gut, daß ich fliegen kann. Sonst\nhätte ich mich jetzt eingekotzt."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 19,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_19_03000054_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "1890"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0192",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 19.",
+    "pages": [
+      "Boah, hoffentlich ist da Geld drin."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 19,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_19_03000054_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F92"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0194",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 12, 13, 16.",
+    "pages": [
+      "Okay, langsam sehe ich, daß wir das\nRätsel lösen. Die Fackel haben wir\ndoch am Eingang dieses Tempels\ngesehen, oder?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 12,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_12_03000050_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F94"
+      },
+      {
+        "room": 13,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_13_03000050_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F94"
+      },
+      {
+        "room": 16,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_16_03000050_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F94"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0195",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 12, 13, 16.",
+    "pages": [
+      "Nicht lang fackeln."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 12,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_12_03000050_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "0A95"
+      },
+      {
+        "room": 13,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_13_03000050_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "0B95"
+      },
+      {
+        "room": 16,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_16_03000050_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "0C95"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0197",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 14.",
+    "pages": [
+      "Meinst Du, wir können den Schalter\nirgendwie wieder entfrieren? Wenn\nwir da irgendwie... Keine Ahnung. Ich\nweiß auch nicht."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 14,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_14_03000058_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F97"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0198",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 15.",
+    "pages": [
+      "[Spielername], Junge, was ist das\nhier für eine Todesfalle? Die Decke\nfällt herab!"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 15,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_15_03000050_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "4998"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0105",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 2.",
+    "pages": [
+      "Hey, da ist mal wieder einer von\ndiesen Minecraft-Blöcken."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 2,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_2_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F05"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0109",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Waldtempel, Raum/Räume 21.",
+    "pages": [
+      "Junge, was zum Teufel? Dieser\nMaskenhändler meinte doch, die\nMaske wäre mega wichtig und selten.",
+      "Warum liegt das Teil hier einfach so\nrum? Was soll sowas??"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 21,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/Bmori1/Bmori1_room_21_03000054_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F09"
+      }
+    ]
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "061B",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Stalfos-Ritter. Der hat nicht mal\nmehr Fleisch an den Knochen und\nspielt trotzdem den harten Kerl."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "061C",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine blaue Knochenfratze. Kannst Du\nDein beschissenes Maul auch\nschließen, oder fehlen Dir dafür die\nMuskeln?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "061D",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine bleiche Knochenfratze. Kaum ist\ndas Feuer aus, kriegst Du aufs Maul.\nFlieg ruhig noch näher, Du Trottel."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "061E",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine grüne Knochenfratze. Noch so\nein brennender Schädel. Wie viele von\ndiesen Arschlöchern gibt's hier bitte?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0631",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Bodengrapscher. Jetzt teilt sich\ndas Arschloch auch noch auf. Drei\nkleine Wichser sind keine\nVerbesserung."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0651",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Hetti. Hör auf, mit der Lampe nach\nuns zu schlagen! Die kannst Du Dir\nsonstwo hinschieben."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0652",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Netti. Ja, halt die Lampe noch näher.\nDann seh' ich wenigstens, wohin ich\nDir eine reinhauen muß."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0653",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Etti. Die vierte Schwester. Ihr habt\nuns doch gerade erst die anderen\ndrei auf den Hals gehetzt, Ihr\nMiststücke."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "0650",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Betti. Jetzt macht sie drei Kopien\nvon sich. Als wäre EINE von diesen\nblöden Zicken nicht schon zuviel."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "062B",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Philipp Amthor. Ist der 15 oder 55?\nKeine Ahnung. Schieß den Scheißkerl\nvom Pferd, wenn er aus dem Bild\nkommt!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "14. Erwachsen – Waldtempel",
+    "id": "061A",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Philipp Amthor. Ich habe keine\nAhnung, ob der jetzt 15 oder 55 ist.",
+      "Der sieht aus, als müßte er für\nMathe lernen und seinen Rentenantrag\nausfüllen. Schlag ihm seinen Scheiß\nzurück!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "15. Erwachsen – Nach dem Waldtempel, Goronia und Todeskrater",
+    "id": "0151",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Waldamulett vorhanden, Feueramulett fehlt.",
+    "pages": [
+      "Ey, ich werde wahnsinnig. Jetzt hat\nder Scheiß Friedrich Merz auch noch\nden Todesberg versaut!",
+      "Das ist echt schlimm. Mann, da sieht\nman die Welt mit anderen Augen,\nwas?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "15. Erwachsen – Nach dem Waldtempel, Goronia und Todeskrater",
+    "id": "3040",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Automatische Hitzewarnung ohne geeigneten Schutz im Todeskrater oder einem anderen heißen Raum.",
+    "pages": [
+      "[Spielername], was machst Du\ndenn? Wenn wir uns hier weiter\naufhalten, werden wir in Flammen\naufgehen!"
+    ],
+    "controls": [
+      "FADE(60)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "15. Erwachsen – Nach dem Waldtempel, Goronia und Todeskrater",
+    "id": "71DD",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "CDU-Atombombe in Goronia anvisieren, solange sie in der Erwachsenenphase vorhanden ist.",
+    "pages": [
+      "Ich fass es nicht!",
+      "Die Schweine haben mir meine Idee\ngeklaut!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "15. Erwachsen – Nach dem Waldtempel, Goronia und Todeskrater",
+    "id": "71E9",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Verbrannten Körper im Todeskrater anvisieren.",
+    "pages": [
+      "Hmm. Der hatte wohl keine magische\nAnti-Hitzerüstung... Ärgerlich...\nWirklich ärgerlich..."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "0105",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Feuertempel, Raum/Räume 1, 11.",
+    "pages": [
+      "Hey, da ist mal wieder einer von\ndiesen Minecraft-Blöcken."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 11,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HIDAN/HIDAN_room_11_03000058_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F05"
+      },
+      {
+        "room": 1,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HIDAN/HIDAN_room_1_03000054_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F05"
+      }
+    ]
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "01A3",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Feuertempel, Raum/Räume 5.",
+    "pages": [
+      "[Spielername], boah Junge, hörst\nDu diese Musik im Hintergrund? Ich\nweiß jetzt nicht genau, was das hier\nimplizieren soll."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 5,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HIDAN/HIDAN_room_5_03000054_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "BFA3"
+      }
+    ]
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "01A5",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Feuertempel, Raum/Räume 10.",
+    "pages": [
+      "Hey, haben wir hier in der Nähe nicht\nden Alten da getroffen?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 10,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HIDAN/HIDAN_room_10_03000058_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3FA5"
+      }
+    ]
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "01A7",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Feuertempel, Raum/Räume 13.",
+    "pages": [
+      "Oh Junge, nicht schon wieder eine\nvon diesen beschissenen häßlichen\nStatuen.",
+      "Wenn ich Augen hätte, bräuchte ich\njetzt Bleichmittel, um die zu reinigen.",
+      "Ich habe übrigens Augen. Man sieht\nsie nur nicht.",
+      "Ich habe eine ganz interessante\nFeengestalt. Auch wenn Du mich vor\nallem als leuchtenden Ball\nwahrnimmst.",
+      "Aber ich habe so was wie\nFotorezeptoren. Ich sehe schon, was\nhier abgeht, ne?",
+      "Ich bin jetzt nicht blind oder so. Das\nwollte ich nur mal klargestellt haben."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 13,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HIDAN/HIDAN_room_13_03000054_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "BFA7"
+      }
+    ]
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "01A9",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Feuertempel, Raum/Räume 10, 11.",
+    "pages": [
+      "Ja Junge, warum überrascht mich das\nnicht, daß hier auch wieder alles\nkaputtgespart wurde?",
+      "Der Schalter ist ja komplett hinüber.\nToll, Alter."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 10,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HIDAN/HIDAN_room_10_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "13A9"
+      },
+      {
+        "room": 11,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HIDAN/HIDAN_room_11_03000058_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "13A9"
+      }
+    ]
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "0623",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Lavaschleim. Ja, roll Dich\nzusammen. Du bist jetzt ein Stein.\nSoll ich beeindruckt sein, Du Lappen?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "0624",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Roter Tod. Setzt sich selbst in Brand\nund rennt schreiend herum. Du bist\nwirklich ein saudummes Drecksvieh."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "0622",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Flammenderwisch. Nimm ihm das\nFeuer weg, dann rennt das feige\nArschloch plötzlich um sein Leben."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "0621",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Volvagia. Irgendein komischer Typ aus\nKakariko steht auf diesen Drachen.\nWas stimmt mit dem nicht?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "16. Erwachsen – Feuertempel",
+    "id": "0152",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Nach dem Feueramulett, solange die Eisenstiefel fehlen.",
+    "pages": [
+      "So, alles klar. Schätze, als Nächstes\nmüssen wir dann zu den Zoras.",
+      "Da wird bestimmt alles in bester\nOrdnung sein. Ich wüßte nicht, warum\ndort irgendein Problem lauern sollte.",
+      "Oder irgendeine Gefahr. Wir gehen da\nhin und kriegen dieses Amulett\nwahrscheinlich einfach direkt\ngeschenkt.",
+      "Ich glaube nicht, daß das in\nirgendeiner Form schiefgeht."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "17. Erwachsen – Vereistes Zora-Reich und Eishöhle",
+    "id": "0180",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Eishöhle, Raum/Räume 3.",
+    "pages": [
+      "Diese silbernen Rubine sind zwar\nvöllig wertlos und nur Schrott,",
+      "aber für's Rätsel müssen wir'se wohl\neinsammeln. Mach schon!"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 3,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ice_doukutu/ice_doukutu_room_3_03000064_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "0580"
+      }
+    ]
+  },
+  {
+    "section": "17. Erwachsen – Vereistes Zora-Reich und Eishöhle",
+    "id": "0189",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Eishöhle, Raum/Räume 9.",
+    "pages": [
+      "Damit können wir den Zora-König\nauftauen... Oder wir lassen es\neinfach. Der wird eh auftauen, wenn\nwir den Wassertempel geschafft",
+      "haben. Hehe.",
+      "Ich nehme alles zurück. Das war nur\nfür den Gag. Wir müssen halt\nwirklich den Fischkönig auftauen."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 9,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/ice_doukutu/ice_doukutu_room_9_0300006C_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "6889"
+      }
+    ]
+  },
+  {
+    "section": "17. Erwachsen – Vereistes Zora-Reich und Eishöhle",
+    "id": "0656",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Polarflatterer. Faß mich bloß nicht\nan, Du fliegendes Scheiß-Eis am Stiel!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "17. Erwachsen – Vereistes Zora-Reich und Eishöhle",
+    "id": "063B",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Eisatmer. Hör auf, uns mit Deinem\nkalten Scheißatem anzupusten! Du\ngehst mir richtig auf den Sack."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "17. Erwachsen – Vereistes Zora-Reich und Eishöhle",
+    "id": "0657",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein weißer Wolfsheimer. Derselbe\nScheiß mit den Pfoten. Ja, Du kannst\nblocken. Willst Du jetzt einen Keks?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "17. Erwachsen – Vereistes Zora-Reich und Eishöhle",
+    "id": "0153",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Eisenstiefel vorhanden, Wasseramulett fehlt.",
+    "pages": [
+      "Irgendwie sehen diese Eisenstiefel aus\nwie etwas, das ich schon mal auf\nLiveLeak gesehen habe."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "17. Erwachsen – Vereistes Zora-Reich und Eishöhle",
+    "id": "401D",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Automatische Warnung, wenn Link unter Wasser nicht atmen kann; nicht nur auf den Wassertempel beschränkt.",
+    "pages": [
+      "Du kannst unter Wasser nicht\natmen! Wird Dir die Luft knapp,\nziehe diese Stiefel aus!"
+    ],
+    "controls": [
+      "FADE(60)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "0105",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Wassertempel, Raum/Räume 7.",
+    "pages": [
+      "Hey, da ist mal wieder einer von\ndiesen Minecraft-Blöcken."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 7,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/MIZUsin/MIZUsin_room_7_0300005C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3F05"
+      }
+    ]
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "01AB",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Wassertempel, Raum/Räume 21.",
+    "pages": [
+      "[Spielername]! Was ist denn das\njetzt für ein bekloppter Raum?\nWarum ist er auf der Karte wie ne\nWasserschlange geformt? Boah, der",
+      "Boß wird bestimmt richtig, richtig\ncool!!"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 21,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/MIZUsin/MIZUsin_room_21_03000060_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "47AB"
+      },
+      {
+        "room": 21,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/MIZUsin/MIZUsin_room_21_03000060_ActorEntryList.inc.c",
+        "trigger": "Ortsruf",
+        "parameter": "47AB"
+      }
+    ]
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "3073",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Die bei Pepsiman verteilten Pepsi-Dosen anvisieren.",
+    "pages": [
+      "Dieser Pepsi-Schwachmat hat seinen\nganzen Scheiß hier überall hingemüllt."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "0627",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Mach die Fresse noch einmal auf! Ich\nbrech' diese Scheißmuschel in der\nMitte durch, ich schwör's Dir!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "0628",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Stachelstein. Der könnte einfach\nliegenbleiben. Aber nein, der blöde\nWichser muß uns ja auch noch\nrammen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "0626",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Der schwarze [Spielername]. Guck\nDir den an. Hat Dein Gesicht geklaut\nund führt sich direkt wie ein\nArschloch auf."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "0625",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Morpha. Ich habe mal ein Bild von\ndieser Kreatur gesehen, wo dieser\nkomische Kern ein fotorealistisches\nAuge war. Das sah viel cooler aus,",
+      "aber jetzt in echt bin ich ganz schön\nenttäuscht."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "18. Erwachsen – Hylia-See und Wassertempel",
+    "id": "608C",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Taddeus’ Körper nach dem Bosskampf in Morphas Arena anvisieren.",
+    "pages": [
+      "Scheiße Mann, der Typ ist tot!!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "0154",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Wasseramulett vorhanden, Kakarikos Folgeereignis fehlt.",
+    "pages": [
+      "Okay, supi! Langsam gehen uns die\nOrte aus. Also laß mal wieder zurück\nnach Kakariko gehen und die Mühle\nvon dem einen Typen versauen!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "0155",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Nach dem Schatten aus dem Brunnen, solange das Auge der Wahrheit noch fehlt.",
+    "pages": [
+      "Okay, das komische Ding kam\neindeutig aus dem Brunnen. Glaubst\nDu, das wird jetzt der nächste\nDungeon sein? Einfach so?",
+      "Der Brunnen von Kakariko? Müssen\nwir dann das Brunnenlied lernen?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "0126",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Brunnen, Raum/Räume 0.",
+    "pages": [
+      "Ich höre in diesem Raum geisterhafte\nStimmen flüstern.",
+      "Mir doch scheißegal, was die zu\nsagen haben. Ich ignoriere die einfach."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdanCH/HAKAdanCH_room_0_03000060_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2526"
+      },
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdanCH/HAKAdanCH_room_0_03000060_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2C26"
+      }
+    ]
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "012B",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Brunnen, Raum/Räume 0.",
+    "pages": [
+      "Wäre es jetzt nicht witzig, das hier\nalles unter Wasser zu stellen?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdanCH/HAKAdanCH_room_0_03000060_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "272B"
+      }
+    ]
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "012A",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Brunnen, Raum/Räume 0.",
+    "pages": [
+      "Bei dieser Mauer steht irgendwas\nüber Tiefe. Ob das mit dem Giant\nSquid zu tun hat?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdanCH/HAKAdanCH_room_0_03000060_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "282A"
+      }
+    ]
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "0129",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Brunnen, Raum/Räume 0.",
+    "pages": [
+      "Da steht: \"Alles Gute von oben.\" Das\nist doch safe wieder ironisch gemeint."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 0,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdanCH/HAKAdanCH_room_0_03000060_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2929"
+      }
+    ]
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "608B",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Schwangerschaftstest im Brunnen anvisieren.",
+    "pages": [
+      "Oof, hier liegt ein\nSchwangerschaftstest.\nMein Beileid..."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "71E4",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Organe auf der roten Bodentextur im Brunnen anvisieren.",
+    "pages": [
+      "Ohhh...nooooo....Lass uns bitte nicht\nzu viel Zeit hier unten verbringen,\nja?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "062D",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Wickel-Zombie. Riecht bestimmt\nschon durch die ganzen Bandagen.\nBleib bloß weg, Du gammeliges\nSchwein."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "062E",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Diese Hände halten uns fest, damit\nihr häßlicher Kumpel uns ansabbern\nkann. Laß los, Du verdammter\nGrabscher!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "062F",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Hirnsauger. Der hat diesen ganzen\nScheiß mit den Händen geplant? So\neine widerliche Drecksau."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "19. Nach dem Wassertempel – Kakariko und Rückkehr als Kind zum Brunnen",
+    "id": "0637",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Raubschleim. Kotz den Schild\nwieder aus, Du schleimiger Wichser!\nDer war verdammt noch mal teuer!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "0157",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Auge der Wahrheit vorhanden, Schattenamulett fehlt.",
+    "pages": [
+      "Alles klar, ich wollte schon immer\nmal einen Song haben, mit dem wir\nzum ekligsten und gefährlichsten Ort\nHyrules zurückreisen können."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "0181",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Schattentempel, Raum/Räume 6.",
+    "pages": [
+      "Jetzt redet auch noch diese\nbescheuerte Mauer mit mir.",
+      "Wieso will alles in diesem Dungeon\nmit mir reden? Was soll das?"
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 6,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdan/HAKAdan_room_6_03000048_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2181"
+      }
+    ]
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "0128",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Schattentempel, Raum/Räume 19.",
+    "pages": [
+      "Die Geister in diesem Raum sind\nschon wieder am Flüstern.",
+      "Sie flüstern mir zu.",
+      "Okay, die sollen mal aufhören, mich\nzu belästigen, die Geister."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 19,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdan/HAKAdan_room_19_0300004C_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2228"
+      }
+    ]
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "0184",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Schattentempel, Raum/Räume 21.",
+    "pages": [
+      "Yo, siehst Du da vorne die Tür? Laß\nda mal gucken, ob wir da hinkommen\nkönnen."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 21,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/HAKAdan/HAKAdan_room_21_03000058_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "2084"
+      }
+    ]
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "71B8",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Kenny anvisieren: vor bzw. nach dem Wechsel auf seine tote Fassung.",
+    "pages": [
+      "Ich verstehe den Typen nicht, der\nnuschelt zu sehr."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "71B9",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Kenny anvisieren: vor bzw. nach dem Wechsel auf seine tote Fassung.",
+    "pages": [
+      "Ihr habt Kenny getötet, ihr Schweine!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "6089",
+    "kind": "Gemischter Dialog – Navi-Anteil gekennzeichnet",
+    "status": "Aktueller Text",
+    "context": "Gespräch mit Mr. Crocker; nur die ausdrücklich mit „Navi:“ beginnende Antwort gehört zu Navi. Die vorherigen Seiten sind Crockers Kontext.",
+    "pages": [
+      "Blut auf dem Boden? Totenschädel in\nden Wänden?",
+      "Seltsame Wände, durch die man\nhindurchgehen kann? Das kann nur\neins bedeuten!",
+      "Das ist das Werk von HELFENDEN\nELFEN!!",
+      "Navi: Ich bin eine Fee, Du anämischer\nNerd!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "5071",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi-Warnung beim Untergang der Geisterfähre.",
+    "pages": [
+      "Schnell, bring Dich in Sicherheit und\nrette den Rattle-Me-Bones-Typen.\nNein!"
+    ],
+    "controls": [
+      "FADE(60)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "20. Erwachsen – Schattentempel",
+    "id": "0629",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Warum ist hier so eine riesige\nTrommel? Hat der Dämon die\nerschaffen? Und wenn der Dämon\ndann besiegt wird, was passiert mit",
+      "der Trommel? Denn wenn die bleibt,\nbedeutet das ja, daß der Dämon\nDinge einfach so erschaffen kann.\nKann er jetzt auch irgendwie, keine",
+      "Ahnung, ein Telefon erschaffen?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "21. Erwachsen – Gerudotal und Gerudo-Festung",
+    "id": "0158",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Schattenamulett vorhanden, Requiem der Geister fehlt.",
+    "pages": [
+      "Na dann pack die Sonnencreme aus\nund nimm Dein Handtuch mit, es geht\nab IN DIE WÜÜÜÜÜÜSTE!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "21. Erwachsen – Gerudotal und Gerudo-Festung",
+    "id": "0658",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine Wüstenkrähe. Verpiß Dich, Du\nkrächzender Drecksack! Ich hack' Dir\nsonst die Federn einzeln vom Arsch."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "21. Erwachsen – Gerudotal und Gerudo-Festung",
+    "id": "0654",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Eine Gerudo-Kriegerin. Springt uns auf\nden Kopf und sperrt uns dann wieder\nein. Laß den Scheiß endlich!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "21. Erwachsen – Gerudotal und Gerudo-Festung",
+    "id": "0610",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Dinodorus. Ja, wedel noch ein\nbißchen mit dem Schwert. Vielleicht\nglaubt Dir dann einer, daß Du was\nkannst."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "22. Erwachsen – Geisterwüste und Wüstenkoloss",
+    "id": "0647",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Sandkiller. Da ist ein ganzer\nSandkasten. Aber Du mußt genau\nunter UNS rauskommen, Du blöder\nWichser."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "22. Erwachsen – Geisterwüste und Wüstenkoloss",
+    "id": "065C",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Irrlicht. Steckt nur den Kopf aus\nder Wand und haut sofort wieder ab.\nDu erbärmlicher kleiner Feigling."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "22. Erwachsen – Geisterwüste und Wüstenkoloss",
+    "id": "0156",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Requiem gelernt, Krafthandschuhe noch nicht erhalten; Namensfrage zum Geistertempel.",
+    "pages": [
+      "Aber warum heißt das Ding\nGeistertempel und nicht\nWüstentempel? Müßte der\nSchattentempel nicht eher",
+      "Geistertempel heißen? Was soll\nSchatten in diesem Zusammenhang\nüberhaupt bedeuten?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "0124",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Örtlicher Hinweis; die Reihenfolge innerhalb des Gebiets hängt vom gewählten Weg ab. Ortsauslöser: Geistertempel, Raum/Räume 5.",
+    "pages": [
+      "Weißt Du, so ein bißchen vermisse\nich das, daß wir in einen Mund\nreingehen oder so. Hoffentlich kommt\ndas hier wieder zurück."
+    ],
+    "controls": [],
+    "locations": [
+      {
+        "room": 5,
+        "source": "extracted/pal-1.0/assets/scenes/dungeons/jyasinzou/jyasinzou_room_5_03000058_ActorEntryList.inc.c",
+        "trigger": "Anvisieren / C-oben",
+        "parameter": "3C24"
+      }
+    ]
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "063A",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Anubis. Äfft jede Bewegung nach.\nHast Du auch einen eigenen Einfall,\nDu bescheuerter Sack voller\nBandagen?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "015A",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Krafthandschuhe vorhanden, Geisteramulett fehlt.",
+    "pages": [
+      "Ist ja mega praktisch, daß wir schon\nwieder Krafthandschuhe gefunden\nhaben. Ey, vielleicht gibt es noch eine\ndritte Stufe davon!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "0634",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Eisenprinz. Der schleppt die ganze\nRüstung mit und kriegt trotzdem\nkeinen einzigen Hieb sauber hin."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "0635",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Ein Eisenprinz. Hat mit der Axt seine\neigene Einrichtung zerlegt. Paß auf,\nDu Vollidiot! Das war DEINE Säule!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "0632",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Koume. Hör auf, uns anzuzünden, Du\nalte Schreckschraube! Dein Besen\ngehört Dir quer vor die Fresse."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "0633",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Kotake. Ja, frier uns ruhig ein, Du\nGiftzicke. Dann mußt Du wenigstens\nnicht mehr Deinen Scheiß erklären."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "065B",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Killaohma. Erst zu zweit zu blöd,\njetzt verschmelzen sie auch noch. Ihr\nseid ZUSAMMEN immer noch zu blöd!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "23. Kind und Erwachsen – Geistertempel",
+    "id": "015B",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Nach dem Geisteramulett und vor den Lichtpfeilen: Rückkehr zur Zitadelle.",
+    "pages": [
+      "Wir müssen noch mal in die Zitadelle\nder Zeit zurück. Ich hab da meine\nGummibärchen liegen lassen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "24. Finale – Zitadelle, Friedrichs Schloss und Turm",
+    "id": "015C",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Später Storyruf: Zelda befindet sich in Friedrichs Schloss.",
+    "pages": [
+      "Zelda ist in Friedrich Merz' Schloß.\nIch habe eindeutig die Schnauze voll.\nJetzt ist Schluss mit lustig."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "24. Finale – Zitadelle, Friedrichs Schloss und Turm",
+    "id": "005C",
+    "kind": "Gemischter Fundtext – Navi-Anteil gekennzeichnet",
+    "status": "Aktueller Text",
+    "context": "Fundtext der Titanhandschuhe; nur die mit „Navi:“ beginnenden Zusatzseiten und ihre Fortsetzung sind Navi. Die erste Seite ist der normale Fundtext.",
+    "pages": [
+      "Die Titanhandschuhe! Du\nfühlst noch größere Kraft in\nden Armen! Du packst\nschwerste Dinge mit [A]!",
+      "Navi: Yo, ich faß es nicht! Was hab\nich gesagt? Ich hab noch gesagt,\nhoffentlich gibt es ein drittes Paar,\ndas noch stärker ist!",
+      "Und jetzt liegt das hier einfach! Ey,\nich hab es vorhergesagt. Merk Dir\nden Moment bitte, ich war meiner\nZeit voraus!"
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_STRENGTH_GOLD_GAUNTLETS)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "24. Finale – Zitadelle, Friedrichs Schloss und Turm",
+    "id": "70CD",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Vor dem ersten Merz-Kampf: Navi erreicht ihn wegen seiner Aura nicht.",
+    "pages": [
+      "Seine Aura des Bösen ist einfach zu\nmächtig. Da komme ich nicht ran. Ich\nwiege doch nur ein paar Milligramm,\n[Spielername]!"
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_NA_HELLO_2)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "24. Finale – Zitadelle, Friedrichs Schloss und Turm",
+    "id": "063D",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Friedrich Merz. Guck Dir die paar\nHaare an. Dafür morgens noch zum\nKamm greifen. Wie peinlich ist das\ndenn?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "25. Finale – Nach dem Turmeinsturz und letzter Kampf",
+    "id": "70D4",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi hinterfragt nach dem Einsturz, wie der besiegte Merz den Turm zum Einsturz bringen konnte.",
+    "pages": [
+      "Aber wenn er tot war, wie konnte er\ndenn den Turm zum Einsturz bringen?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "25. Finale – Nach dem Turmeinsturz und letzter Kampf",
+    "id": "70D6",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Navi kehrt vor dem letzten Kampf an Links Seite zurück.",
+    "pages": [
+      "Lass uns diesem Mann den Arsch\naufreißen!"
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_NA_HELLO_2)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "25. Finale – Nach dem Turmeinsturz und letzter Kampf",
+    "id": "063E",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Optional beim Anvisieren und Abrufen der Gegnerbeschreibung. Derselbe Text kann auch in weiteren Gebieten vorkommen.",
+    "pages": [
+      "Das ist Merz. Mir fehlen die Worte."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "0201",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Tür-/Schlüsselhinweis beim Untersuchen einer gesperrten Tür.",
+    "pages": [
+      "Komisch... Diese Tür läßt sich\nnicht öffnen!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "0202",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Tür-/Schlüsselhinweis beim Untersuchen einer gesperrten Tür.",
+    "pages": [
+      "Ja, dicke Eisenstangen blockieren die\nTür. Das erinnert mich an meine Zeit\nim Knast."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "0203",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Tür-/Schlüsselhinweis beim Untersuchen einer gesperrten Tür.",
+    "pages": [
+      "Du benötigst einen Schlüssel, um \neine solche Tür öffnen zu können!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "0204",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Tür-/Schlüsselhinweis beim Untersuchen einer gesperrten Tür.",
+    "pages": [
+      "Hier fehlt Dir wohl ein\nspezieller Schlüssel!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "020B",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Tür-/Schlüsselhinweis beim Untersuchen einer gesperrten Tür.",
+    "pages": [
+      "Eine seltsame Magie versperrt Dir\nden Zugang. Löse das Rätsel\ndieses Raumes und Du erhältst\nZutritt!"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "0225",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Tür-/Schlüsselhinweis beim Untersuchen einer gesperrten Tür.",
+    "pages": [
+      "Das ist nicht der rechte Schlüssel!\nDie Tür bleibt Dir verschlossen..."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "015F",
+    "kind": "Navi",
+    "status": "Aktueller Text",
+    "context": "Allgemeine Ersatzzeile für einen Navi-Questhinweis; nicht als zusätzlicher regelmäßiger Dungeon-Zwischenruf einplanen.",
+    "pages": [
+      "[Spielername], mir gefällt das hier\nimmer weniger. Ich hoffe, daß wir\ndem Ursprung dieses ganzen Mists\nnäherkommen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "0600",
+    "kind": "Gegner / Boss",
+    "status": "Aktueller Text",
+    "context": "Allgemeine Ersatzbeschreibung für Zielerfassung.",
+    "pages": [
+      "Was glotzt dieses häßliche\nDrecksvieh so? Wir haben Dich\ngesehen. Das war jetzt kein schöner\nMoment."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "305F",
+    "kind": "Automatische Spielmeldung",
+    "status": "Aktueller Text",
+    "context": "Automatische Meldung bei verlorener Ausrüstung; dieselbe hellblaue Hinweisgestaltung wie bei Navi.",
+    "pages": [
+      "Du hast Deinen Schild verloren!"
+    ],
+    "controls": [
+      "FADE(60)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "3060",
+    "kind": "Automatische Spielmeldung",
+    "status": "Aktueller Text",
+    "context": "Automatische Meldung bei verlorener Ausrüstung; dieselbe hellblaue Hinweisgestaltung wie bei Navi.",
+    "pages": [
+      "Du hast Deine Rüstung verloren!"
+    ],
+    "controls": [
+      "FADE(60)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "3061",
+    "kind": "Automatische Spielmeldung",
+    "status": "Aktueller Text",
+    "context": "Automatische Meldung bei verlorener Ausrüstung; dieselbe hellblaue Hinweisgestaltung wie bei Navi.",
+    "pages": [
+      "Du hast Deinen Schild verloren!\nDu hast Deine Rüstung verloren!"
+    ],
+    "controls": [
+      "FADE(60)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "26. Gebietsübergreifend – Türen, allgemeiner Ruf und automatische Meldungen",
+    "id": "71B0",
+    "kind": "Automatische Spielmeldung",
+    "status": "Aktueller Text",
+    "context": "Automatische Meldung bei abgelaufener Tauschquest-Lieferung.",
+    "pages": [
+      "Oh-oh, die Zeit ist abgelaufen!\nDas Ding, das Du ausliefern \nsolltest, ist verdorben! \nVersuch es erneut!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "0191",
+    "kind": "Navi",
+    "status": "Archiv / nicht als regulärer Auslöser einplanen",
+    "context": "Frühere Wallmaster-Ortswarnung: Text inzwischen leer; Elf_Msg-Tags mit niedrigem Byte91 werden beim Laden entfernt.",
+    "pages": [
+      ""
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "0630",
+    "kind": "Navi",
+    "status": "Archiv / nicht als regulärer Auslöser einplanen",
+    "context": "Zielerfassung der Wallmaster/Deckengrapscher. Textslot vorhanden, die Gegner wurden aber deaktiviert.",
+    "pages": [
+      "Ein Deckengrapscher. Hör auf, über\nmeinem Kopf zu hängen! Komm\nrunter, dann brech' ich Dir jeden\nFinger einzeln."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "0183",
+    "kind": "Navi",
+    "status": "Archiv / nicht als regulärer Auslöser einplanen",
+    "context": "Älterer Geisterfähren-Hinweis; der aktuelle Untergangsaufruf nutzt5071.",
+    "pages": [
+      "Sei vorsichtig, wenn Du an Bord\ngehst! Es sieht ganz schön alt\naus... Wer weiß, wann es sinkt?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "0186",
+    "kind": "Navi",
+    "status": "Archiv / nicht als regulärer Auslöser einplanen",
+    "context": "Gespeicherter älterer Hinweis auf rotes Eis; kein entsprechender regulärer Navi-Tag in den aktuellen Eishöhlenlisten.",
+    "pages": [
+      "Rotes Eis... Das ist\nseltsam..."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "013D",
+    "kind": "Navi",
+    "status": "Archiv / nicht als regulärer Auslöser einplanen",
+    "context": "Gespeicherte kurze Reaktion; kein passender regulärer Orts-Tag in den aktuellen Jabu-Raumlisten.",
+    "pages": [
+      "WAAAAS!?"
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "013E",
+    "kind": "Navi",
+    "status": "Archiv / nicht als regulärer Auslöser einplanen",
+    "context": "Gespeicherter Karten-/Jabu-Text; nicht als aktuelle Navi-Ortsrufstelle in den Raumlisten belegt.",
+    "pages": [
+      "Wieso liegt eine perfekte\nKarte von Jabu-Jabus\nInnereien in dieser magischen\nSchatztruhe?",
+      "Ich glaube, das war Ruto.\nWürde Sinn machen, oder?",
+      "Drücke START für die Karte.\nMit dem [Control-Pad] wechselst Du das\nStockwerk. Also... den\njeweiligen Teil des Fisches."
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_DUNGEON_MAP)",
+      "ITEM_ICON(ITEM_DUNGEON_MAP)",
+      "ITEM_ICON(ITEM_DUNGEON_MAP)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "060B",
+    "kind": "Ungenutzte Gegnerbeschreibung",
+    "status": "Ungenutzt",
+    "context": "NAVI_ENEMY_UNUSED-Slot im nativen Gegnerkatalog; kein regulärer Gegnertyp.",
+    "pages": [
+      "Der will uns wirklich angreifen? Mit\nDEM Auftritt? Jetzt hab' ich fast\nMitleid. Fast, Du Lappen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "062C",
+    "kind": "Ungenutzte Gegnerbeschreibung",
+    "status": "Ungenutzt",
+    "context": "NAVI_ENEMY_UNUSED-Slot im nativen Gegnerkatalog; kein regulärer Gegnertyp.",
+    "pages": [
+      "Guck Dir den an. Der steht uns\nwirklich absichtlich im Weg. Mach\nPlatz, Du häßlicher kleiner Drecksack."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "0638",
+    "kind": "Ungenutzte Gegnerbeschreibung",
+    "status": "Ungenutzt",
+    "context": "NAVI_ENEMY_UNUSED-Slot im nativen Gegnerkatalog; kein regulärer Gegnertyp.",
+    "pages": [
+      "Jetzt macht sich das Vieh auch noch\nwichtig. Du bist hier bloß der nächste\nTrottel, der auf die Fresse kriegt."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang A. Gespeicherte, deaktivierte oder nicht regulär zugeordnete Navi-Texte",
+    "id": "063C",
+    "kind": "Ungenutzte Gegnerbeschreibung",
+    "status": "Ungenutzt",
+    "context": "NAVI_ENEMY_UNUSED-Slot im nativen Gegnerkatalog; kein regulärer Gegnertyp.",
+    "pages": [
+      "Was ist denn das für ein häßlicher\nPenner? Dem tut bestimmt jeder\nSpiegel leid, in den er reinguckt."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang B. Navi-Zitat innerhalb eines anderen Gesprächs",
+    "id": "10C5",
+    "kind": "Eulendialog mit wörtlichem Navi-Zitat",
+    "status": "Aktueller Text",
+    "context": "Eule / Habeck zitiert die Okarina-Erklärung der Fee; kein separat auslösbarer Navi-Ruf.",
+    "pages": [
+      "Leg die Okarina auf einen von den\n[C]-Knöpfen. Du kannst damit richtig\nabrocken, aber bitte übertreib es\nnicht.",
+      "Deine Fee hat dazu gesagt: \"Ich will\nnicht, daß Du meine Nerven noch\nmehr strapazierst.",
+      "Ich würde die ja selbst spielen, aber\nich habe leider keine Arme oder\nHände oder Finger oder einen Mund.",
+      "Zumindest keinen, wo Luft\nrausgepustet wird. Ich habe ja keine\nLungen, glaube ich.\"",
+      "So viel also zur Arbeitsteilung\nzwischen Dir und Deiner Fee."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "0162",
+    "kind": "Salia-Funkdialog / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "QuestHint_GetSariaTextId: Salia-Funkdialog über die Okarina; technisch kein normaler Navi-Storyruf.",
+    "pages": [
+      "Ja, es gibt in Hyrule sehr wenig\nLeute mit dieser Blutgruppe. Wer\nhätte gedacht, daß gerade Darunia die\nhat?",
+      "Haben Goronen überhaupt Blut? Hast\nDu jemals einen Goronen bluten\nsehen, [Spielername]? Ich schon."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "0163",
+    "kind": "Salia-Funkdialog / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "QuestHint_GetSariaTextId: Salia-Funkdialog über die Okarina; technisch kein normaler Navi-Storyruf.",
+    "pages": [
+      "Okay, jetzt fehlt ja nur noch ein\nStein. Das ist schon mal echt ganz\ngut, also super.",
+      "Nur blöderweise mußt Du jetzt diesen\nnervigen Zora-König kennenlernen.\nAlso, ja. Sagen wir mal so."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "0164",
+    "kind": "Salia-Funkdialog / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "QuestHint_GetSariaTextId: Salia-Funkdialog über die Okarina; technisch kein normaler Navi-Storyruf.",
+    "pages": [
+      "Jetzt kommt der Heilige Stein des\nFeuers. Das hat mir der Deku-Baum\nletzte Woche erzählt."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "0165",
+    "kind": "Salia-Funkdialog / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "QuestHint_GetSariaTextId: Salia-Funkdialog über die Okarina; technisch kein normaler Navi-Storyruf.",
+    "pages": [
+      "[Spielername], kann ja sein, daß\ndas nur meine allgemeine Anxiety ist,\naber ich habe das Gefühl, dieser Mr.\nBean ist irgendwie in Gefahr."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "0166",
+    "kind": "Salia-Funkdialog / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "QuestHint_GetSariaTextId: Salia-Funkdialog über die Okarina; technisch kein normaler Navi-Storyruf.",
+    "pages": [
+      "Hey, [Spielername], die klingt jetzt\naber wirklich viel besser als die\nOkarina der Salia. Das ist ja jetzt\nhier wirklich echte Qualität."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "10C0",
+    "kind": "Eule / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "Vom Eulen-Actor EnOwl verwendet; technisch kein Navi-Gespräch.",
+    "pages": [
+      "Da bist Du, [Spielername]. Laß uns\nüber Orientierung sprechen.",
+      "Hier im Wald sieht alles gleich aus."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x10C1)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "10C1",
+    "kind": "Eule / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "Vom Eulen-Actor EnOwl verwendet; technisch kein Navi-Gespräch.",
+    "pages": [
+      "Wir müssen in den Wäldern zum\nHeiligen Hain. Es ist mal wieder Zeit\nfür ein Rätsel.",
+      "Am liebsten würde ich diese\nkomische Steinwand hier im Wald\nhochkraxeln. Also, Du kannst das\nmachen. Ich kann da einfach",
+      "drüberfliegen.",
+      "Du würdest Dich wundern, meine\nMaximalflughöhe ist ganz schön hoch.\nIch kann ganz schön weit hoch\nfliegen.",
+      "Aber Du kannst nur laufen, und\ndeswegen achte mal auf die Musik,\ndamit Du hier durchkommst."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "10C2",
+    "kind": "Eule / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "Vom Eulen-Actor EnOwl verwendet; technisch kein Navi-Gespräch.",
+    "pages": [
+      "Soll ich die Orientierungshilfe noch\neinmal einordnen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "10C3",
+    "kind": "Eule / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "Vom Eulen-Actor EnOwl verwendet; technisch kein Navi-Gespräch.",
+    "pages": [
+      "Wenn Du die ganze Zeit am Labern\nbist, ist es ja kein Wunder, daß wir\nuns nicht auf die Musik konzentrieren\nkönnen."
+    ],
+    "controls": [],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "10C4",
+    "kind": "Eule / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "Vom Eulen-Actor EnOwl verwendet; technisch kein Navi-Gespräch.",
+    "pages": [
+      "[Spielername], das ist ja\nWahnsinn!",
+      "Das ist ja einfach Blutmagie! Keine\nAhnung, warum Salia das kann.",
+      "Aber vielleicht kann man das ja\nspäter mal benutzen."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x10C5)"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "10C6",
+    "kind": "Eule / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "Vom Eulen-Actor EnOwl verwendet; technisch kein Navi-Gespräch.",
+    "pages": [
+      "Noch ein Gedanke zur Einordnung?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "locations": []
+  },
+  {
+    "section": "Anhang C. Technische Zuordnung früherer Navi-Diktate",
+    "id": "10C7",
+    "kind": "Eule / frühere Navi-Zuordnung",
+    "status": "Aktueller Text",
+    "context": "Vom Eulen-Actor EnOwl verwendet; technisch kein Navi-Gespräch.",
+    "pages": [
+      "Boah, ich bin gespannt, was wir noch\nfür mächtige Lieder lernen."
+    ],
+    "controls": [],
+    "locations": []
+  }
+]
