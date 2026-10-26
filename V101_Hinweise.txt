@@ -1,0 +1,9 @@
+V101 – Freigegebene Zelda-/Wachentexte im Patch.
+Kumulativ auf eine saubere Ocarina of Time PAL1.0 ROM anwenden. DEBUG und Normal sind getrennte Varianten; nicht auf V100 anwenden.
+
+Alle17 zuletzt diktierten Texte sind enthalten:7029,7071,7006,702D,702E,70F9,70FA,70FB,7031,70FC,70FD,70FE,70FF,7036,7037,207D,708F.702F und2075 bleiben wie gewünscht unverändert. Letzte Selbstkorrekturen übernommen, Okarina der Zeit statt der zurückgenommenen Schwert-Passage.7006Seite2entfernt.
+Vorherige V100-Musik und alle bisherigen Kakariko-/Naviänderungen bleiben kumulativ erhalten. Habeck-/Eulendialogliste wurde nur exportiert; dafür wurden keine neuen Texte erfunden.
+
+7036: Originale erste2Seiten beibehalten. Die längere neue Erklärung benötigt eine zusätzliche zeitgesteuerte Seite; alle6Seiten maximal4Zeilen bei210PixelBreite. Originale Verzögerungen80/80/60/80 plus60fürdieZusatzseite, abschließendesFADE90bleibt. Das native Cutscene-System wartet bei Bedarf am Ende des Textfensters; Ablauf und Zielszene sind unverändert.
+
+Validierung: Text- und Steuerzeichenvergleich; andere deutsche IDs und vorhandene Sprachfassungen unverändert. Beide Builds im nativen Emulator mit4MiBRAM geprüft: Legenden-Cutscene7036 zeigt alle6Seiten, hält während des Lesens sicher an, kehrt in den Zelda-Innenhof zurück und führt7037biszurOkarina-Fortsetzung2076weiter. Dekodierte Seiten bleiben im200BytePuffer, Objektbank/Actor-/Grafikprüfungen ohne Fehler. Die Merz-Musik läuft nicht versehentlich in der Legende. Dies ersetzt keinen vollständigen Spieldurchlauf und keinen vollständigen Test aller Gesprächszweige. BPS mit unabhängigem Patcher angewendet und bytegleich verglichen.
