@@ -1030,6 +1030,216 @@
   },
   {
     "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70AF",
+    "pages": [
+      "Maske des Wissens -- Unverkäuflich\nEine Maske mit mysteriösen Kräften."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B0",
+    "pages": [
+      "Schädel-Maske -- Preis 20 Rubine\nEine gehörnte Totenschädelmaske."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B1",
+    "pages": [
+      "Geister-Maske -- Preis 30 Rubine\nEine traurig blickende Holzmaske."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B2",
+    "pages": [
+      "Fuchs-Maske -- Preis 10 Rubine\nDer letzte Schrei! Sehr angesagt!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B3",
+    "pages": [
+      "Hasenohren -- Preis 50 Rubine\nWippende Hasenohren! Supersüß!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B4",
+    "pages": [
+      "Schädel-Maske -- Gebührenfrei!\nEine gehörnte Totenschädelmaske."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B5",
+    "pages": [
+      "Geister-Maske -- Gebührenfrei!\nEine traurig blickende Holzmaske."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B6",
+    "pages": [
+      "Fuchs-Maske -- Gebührenfrei!\nDer letzte Schrei! Sehr angesagt!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B7",
+    "pages": [
+      "Hasenohren -- Gebührenfrei!\nWippende Hasenohren! Supersüß!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B8",
+    "pages": [
+      "Goronen-Maske -- Gebührenfrei! \nTrägst Du diese Maske,\nlächelst Du immerzu!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70B9",
+    "pages": [
+      "Zora-Maske -- Gebührenfrei!\nSieht besonders cool beim\nSchwimmen aus!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70BA",
+    "pages": [
+      "Gerudo-Maske -- Gebührenfrei!\nMit ihren verführerischen Augen \nmacht sie aus Dir ein \nzauberhaftes Mädchen!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70BB",
+    "pages": [
+      "Maske des Wissens -- Gebührenfrei!\nEine Maske aus dem Erbe der \nShiekah! Man erzählt sich, sie\nbesäße mysteriöse Kräfte."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70BC",
+    "pages": [
+      "Möchtest Du die Schädel-Maske \nleihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70BD",
+    "pages": [
+      "Möchtest Du die Geister-Maske \nleihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70BE",
+    "pages": [
+      "Möchtest Du die Fuchs-Maske \nleihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70BF",
+    "pages": [
+      "Möchtest Du die Hasenohren \nleihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C0",
+    "pages": [
+      "Möchtest Du die Goronen-Maske \nleihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C1",
+    "pages": [
+      "Möchtest Du die Zora-Maske\nleihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C2",
+    "pages": [
+      "Möchtest Du die Gerudo-Maske\nleihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
+    "id": "70C3",
+    "pages": [
+      "Möchtest Du die Maske des\nWissens leihen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "Maskenhändler – gesamter Leih-, Rückzahlungs- und Masken-Handlungszweig",
     "id": "70C4",
     "pages": [
       "Oh, großartig! Du hast sie\nverkauft! Bitte zahle mir \nfür die Schädel-Maske die\n20 Rubine."

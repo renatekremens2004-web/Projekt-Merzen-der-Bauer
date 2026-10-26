@@ -1472,6 +1472,214 @@ Aktuell eingebauter Text.
 
 > Vergiß den Namen. Und das Waldportal. Vor allem das Waldportal.
 
+### 70AF
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Maske des Wissens -- Unverkäuflich Eine Maske mit mysteriösen Kräften.
+
+### 70B0
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Schädel-Maske -- Preis 20 Rubine Eine gehörnte Totenschädelmaske.
+
+### 70B1
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Geister-Maske -- Preis 30 Rubine Eine traurig blickende Holzmaske.
+
+### 70B2
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Fuchs-Maske -- Preis 10 Rubine Der letzte Schrei! Sehr angesagt!
+
+### 70B3
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Hasenohren -- Preis 50 Rubine Wippende Hasenohren! Supersüß!
+
+### 70B4
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Schädel-Maske -- Gebührenfrei! Eine gehörnte Totenschädelmaske.
+
+### 70B5
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Geister-Maske -- Gebührenfrei! Eine traurig blickende Holzmaske.
+
+### 70B6
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Fuchs-Maske -- Gebührenfrei! Der letzte Schrei! Sehr angesagt!
+
+### 70B7
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Hasenohren -- Gebührenfrei! Wippende Hasenohren! Supersüß!
+
+### 70B8
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Goronen-Maske -- Gebührenfrei!  Trägst Du diese Maske, lächelst Du immerzu!
+
+### 70B9
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Zora-Maske -- Gebührenfrei! Sieht besonders cool beim Schwimmen aus!
+
+### 70BA
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Gerudo-Maske -- Gebührenfrei! Mit ihren verführerischen Augen  macht sie aus Dir ein  zauberhaftes Mädchen!
+
+### 70BB
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Maske des Wissens -- Gebührenfrei! Eine Maske aus dem Erbe der  Shiekah! Man erzählt sich, sie besäße mysteriöse Kräfte.
+
+### 70BC
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Schädel-Maske 
+> leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
+### 70BD
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Geister-Maske 
+> leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
+### 70BE
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Fuchs-Maske 
+> leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
+### 70BF
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Hasenohren 
+> leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
+### 70C0
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Goronen-Maske 
+> leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
+### 70C1
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Zora-Maske
+> leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
+### 70C2
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Gerudo-Maske
+> leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
+### 70C3
+
+Aktuell eingebauter Text.
+
+**Seite 1**
+
+> Möchtest Du die Maske des
+> Wissens leihen?
+> Ja!
+> Nein!
+
+Auswahl vorhanden.
+
 ### 70C4
 
 Aktuell eingebauter Text.
