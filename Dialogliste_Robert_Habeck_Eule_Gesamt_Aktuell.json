@@ -1,0 +1,655 @@
+[
+  {
+    "section": "01. Kind – Erste Eule vor dem Kokiri-Wald / Hyrule-Feld",
+    "id": "2064",
+    "pages": [
+      "Ah, [Spielername]. Ich würde gern\nkurz mit Dir über die Lage sprechen.",
+      "Du stehst am Anfang eines Weges.\nUnd Anfänge, das wissen wir, sind\nselten schon Lösungen.",
+      "Also. Wir müssen jetzt handeln.\nWobei: Wir müssen natürlich auch\nwissen, wohin."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x2065)"
+    ]
+  },
+  {
+    "section": "01. Kind – Erste Eule vor dem Kokiri-Wald / Hyrule-Feld",
+    "id": "2065",
+    "pages": [
+      "Zum Schloß Hyrule. Zur Prinzessin.\nDas ist der Weg. Jedenfalls der\nnächste, nicht gleich der ganze.",
+      "Wenn Du Dich verläufst, nimm die\nKarte. Man kann nicht einfach sagen:\nDer Weg ist weg. Er ist nur\nwoanders.",
+      "Besuchte Orte werden dort\neingetragen. Die Karte wächst also\nmit Deinen Erfahrungen. Das ist ein\nLernprozeß.",
+      "Drücke START, dann [Z] oder [R] bis\nzum Karten-Bildschirm. So. Jetzt wird\naus Orientierung auch Anwendung.",
+      "Dort siehst Du Dein nächstes Ziel.\nEine Zielvorgabe allein bringt Dich\nnoch nicht hin. Aber ohne wird es\nschwierig."
+    ],
+    "controls": [
+      "TEXTID(0x2066)"
+    ]
+  },
+  {
+    "section": "01. Kind – Erste Eule vor dem Kokiri-Wald / Hyrule-Feld",
+    "id": "2066",
+    "pages": [
+      "Soll ich mich einfach mal komplett",
+      "eins zu eins exakt nochmal so\nwiederholen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "01. Kind – Erste Eule vor dem Kokiri-Wald / Hyrule-Feld",
+    "id": "2067",
+    "pages": [
+      "Dann geh. Wir können den Aufbruch\nnicht so lange besprechen, bis es\nkeinen Tag mehr gibt."
+    ],
+    "controls": []
+  },
+  {
+    "section": "02. Kind – Eule beim Schloss Hyrule",
+    "id": "2068",
+    "pages": [
+      "[Spielername], hier. Wir müssen\ndie Lage am Schloß einmal nüchtern\nbetrachten.",
+      "Zelda ist drin, die Wachen stehen\ndavor. Eine gute Absicht ist leider\nnoch kein Zugangskonzept."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "section": "02. Kind – Eule beim Schloss Hyrule",
+    "id": "2069",
+    "pages": [
+      "Hier draußen vergeht die Zeit. Das\nklingt selbstverständlich. Ist es in\nHyrule aber offenkundig nicht.",
+      "In Städten und auf der Farm stehen\nSonne und Mond still. Da muß man\nzwischen gefühlter und tatsächlicher\nZeit unterscheiden.",
+      "Für eine andere Tageszeit mußt Du\nhinaus und später zurück. Der Umweg\nist hier Teil der Lösung. Schön ist\ndas nicht.",
+      "Und die Wachen dürfen Dich nicht\nsehen. Wir wollen das Schloß\nerreichen. Nicht die Sicherheitslage\ntesten."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "02. Kind – Eule beim Schloss Hyrule",
+    "id": "206A",
+    "pages": [
+      "Soll ich das anders erklären?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "02. Kind – Eule beim Schloss Hyrule",
+    "id": "206B",
+    "pages": [
+      "Gut. Das Problem ist damit noch\nnicht gelöst. Aber immerhin ist jetzt\ngeklärt, welches wir lösen müssen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "03. Kind – Eule am Weg nach Kakariko",
+    "id": "206C",
+    "pages": [
+      "[Spielername], kurz. Eine Treppe\nnach oben ist noch keine politische\nRichtung.",
+      "Warst Du schon bei Zelda? Bevor wir\nüber Zuständigkeiten sprechen, sollten\nwir erst einmal wissen, was hier\neigentlich los ist."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "03. Kind – Eule am Weg nach Kakariko",
+    "id": "206D",
+    "pages": [
+      "Ah, [Spielername]. Laß uns die\nnächsten Schritte einmal zusammen\ndenken.",
+      "Diese Treppen führen nach Kakariko.\nMan muß hinaufgehen. Darüber kann\nman lange reden, aber irgendwann\nbraucht es Beine."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "section": "03. Kind – Eule am Weg nach Kakariko",
+    "id": "206A",
+    "pages": [
+      "Soll ich das anders erklären?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "03. Kind – Eule am Weg nach Kakariko",
+    "id": "206E",
+    "pages": [
+      "[Spielername], wir können nicht\njede Unsicherheit auflösen. Aber wir\nkönnen den nächsten Schritt gehen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "04. Kind – Verlorene Wälder vor Salias Lied",
+    "id": "10C0",
+    "pages": [
+      "Da bist Du, [Spielername]. Laß uns\nüber Orientierung sprechen.",
+      "Hier im Wald sieht alles gleich aus."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x10C1)"
+    ]
+  },
+  {
+    "section": "04. Kind – Verlorene Wälder vor Salias Lied",
+    "id": "10C1",
+    "pages": [
+      "Wir müssen in den Wäldern zum\nHeiligen Hain. Es ist mal wieder Zeit\nfür ein Rätsel.",
+      "Am liebsten würde ich diese\nkomische Steinwand hier im Wald\nhochkraxeln. Also, Du kannst das\nmachen. Ich kann da einfach",
+      "drüberfliegen.",
+      "Du würdest Dich wundern, meine\nMaximalflughöhe ist ganz schön hoch.\nIch kann ganz schön weit hoch\nfliegen.",
+      "Aber Du kannst nur laufen, und\ndeswegen achte mal auf die Musik,\ndamit Du hier durchkommst."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "04. Kind – Verlorene Wälder vor Salias Lied",
+    "id": "10C2",
+    "pages": [
+      "Soll ich die Orientierungshilfe noch\neinmal einordnen?\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "04. Kind – Verlorene Wälder vor Salias Lied",
+    "id": "10C3",
+    "pages": [
+      "Wenn Du die ganze Zeit am Labern\nbist, ist es ja kein Wunder, daß wir\nuns nicht auf die Musik konzentrieren\nkönnen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder nach Salias Lied",
+    "id": "10C4",
+    "pages": [
+      "[Spielername], das ist ja\nWahnsinn!",
+      "Das ist ja einfach Blutmagie! Keine\nAhnung, warum Salia das kann.",
+      "Aber vielleicht kann man das ja\nspäter mal benutzen."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "TEXTID(0x10C5)"
+    ]
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder nach Salias Lied",
+    "id": "10C5",
+    "pages": [
+      "Leg die Okarina auf einen von den\n[C]-Knöpfen. Du kannst damit richtig\nabrocken, aber bitte übertreib es\nnicht.",
+      "Deine Fee hat dazu gesagt: \"Ich will\nnicht, daß Du meine Nerven noch\nmehr strapazierst.",
+      "Ich würde die ja selbst spielen, aber\nich habe leider keine Arme oder\nHände oder Finger oder einen Mund.",
+      "Zumindest keinen, wo Luft\nrausgepustet wird. Ich habe ja keine\nLungen, glaube ich.\"",
+      "So viel also zur Arbeitsteilung\nzwischen Dir und Deiner Fee."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder nach Salias Lied",
+    "id": "10C6",
+    "pages": [
+      "Noch ein Gedanke zur Einordnung?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "05. Kind – Verlorene Wälder nach Salias Lied",
+    "id": "10C7",
+    "pages": [
+      "Boah, ich bin gespannt, was wir noch\nfür mächtige Lieder lernen."
+    ],
+    "controls": []
+  },
+  {
+    "section": "06. Kind – Todesberggipfel, Fee und Rückflug",
+    "id": "3062",
+    "pages": [
+      "Der Gipfel, [Spielername]. Das ist\neine Leistung. Ich will die\nAnstrengung dahinter gar nicht\nkleinreden.",
+      "Die Wolken zeigen, wie es dem Berg\ngeht. Weiß heißt Frieden. Das ist ein\nIndikator, keine dauerhafte Garantie.",
+      "Mut hast Du bewiesen. Nun wäre es\nvernünftig, Unterstützung anzunehmen.\nDas ist keine Schwäche.",
+      "Hier lebt die Mutter aller Feen. Such\nsie auf. Manche Investitionen in die\neigene Zukunft bezahlt zum Glück\njemand anders.",
+      "Danach kann ich Dich zum Fuß des\nBerges bringen. Der Abstieg muß\nnicht dieselbe Belastung haben wie\nder Aufstieg."
+    ],
+    "controls": []
+  },
+  {
+    "section": "06. Kind – Todesberggipfel, Fee und Rückflug",
+    "id": "3063",
+    "pages": [
+      "Die Fee hat Dir geholfen. Jetzt hast\nDu mehr Möglichkeiten. Das ist erst\neinmal ein Zugewinn an\nHandlungsspielraum.",
+      "Energie muß verfügbar sein, wenn\nman sie braucht. Nur zu behaupten,\nman habe welche, hilft im Ernstfall\nwenig.",
+      "Für den Flug zum Fuß des Berges\nhalte Dich an meinen Krallen fest. Da\nmöchte ich beim Sicherheitskonzept\nkeine Interpretationsspielräume."
+    ],
+    "controls": []
+  },
+  {
+    "section": "07. Kind – Zora-Fluss",
+    "id": "4002",
+    "pages": [
+      "[Spielername], bevor Du\nweitergehst, eine Frage zur sozialen\nLage.",
+      "Wie geht es Salia? Besuch sie doch.\nBeziehungen sind keine Infrastruktur,\ndie man einmal baut und dann nie\nmehr wartet."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "section": "07. Kind – Zora-Fluss",
+    "id": "4017",
+    "pages": [
+      "Ah, [Spielername]. Da bist Du ja.",
+      "Du hast Fortschritte gemacht. Das\nist sichtbar. Nun müssen daraus auch\ndie richtigen nächsten Schritte folgen.",
+      "Hast Du den Goronen-Opal? Dann\nmöchte Zelda Dich sicher\nwiedersehen. Wir sollten Erfolge auch\nkommunizieren.",
+      "Kurz durchatmen ist vernünftig.\nDauerhaft stehenbleiben wäre\nhingegen keine tragfähige Strategie."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "section": "07. Kind – Zora-Fluss",
+    "id": "4031",
+    "pages": [
+      "Ah, [Spielername]. Mehr Erfahrung,\nmehr Kraft. Wobei mehr Kraft allein\ndie Frage nach dem Zugang noch\nnicht beantwortet.",
+      "Vor Dir liegt Zoras Reich. Die Zoras\nschützen das Wasser. Das ist\nDaseinsvorsorge, wenn man so will.",
+      "Sie lassen einen königlichen\nAbgesandten hinein. Berechtigtes\nVertrauen braucht hier einen hörbaren\nNachweis.",
+      "Spiele vor dem Portal das Schlaflied\nder Königsfamilie. In diesem Fall ist\nMusik tatsächlich der Schlüssel. Ganz\nohne Übertragung."
+    ],
+    "controls": []
+  },
+  {
+    "section": "08. Kind – Hylia-See, Erkundungsgespräch",
+    "id": "2071",
+    "pages": [
+      "Der Hylia-See. Klar und kühl. Das ist\nein Zustand, den man erhalten muß.\nKeine unbegrenzte Ressource.",
+      "Die Zoras hüten den Wassertempel\nauf dem Grund. Wasser ist hier also\nauch eine Frage der Infrastruktur.",
+      "START, dann [Z] oder [R]: die Karte.\nWir müssen die einzelnen Wege im\nZusammenhang sehen.",
+      "Besuchte Orte stehen darin. Das ist\nkeine Prophezeiung. Das ist eine\nbelastbare Datengrundlage."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "section": "08. Kind – Hylia-See, Erkundungsgespräch",
+    "id": "206A",
+    "pages": [
+      "Soll ich das anders erklären?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "08. Kind – Hylia-See, Erkundungsgespräch",
+    "id": "2072",
+    "pages": [
+      "So. Jetzt geh. Ich kann Dir den Weg\nerklären. Gehen kann ich ihn nicht für\nDich. Ich habe ja auch keine Schuhe."
+    ],
+    "controls": []
+  },
+  {
+    "section": "09. Kind – Hylia-See und Flug zum Schloss",
+    "id": "4003",
+    "pages": [
+      "Da bist Du. Der Weg hat gedauert.\nDas ist keine Kritik. Es ist erst\neinmal die Feststellung einer\nWegstrecke.",
+      "Die Karte hilft. Man kann das Ziel für\nrichtig halten und sich bei der\nUmsetzung trotzdem verlaufen.",
+      "[Spielername], der Hylia-See. Klar\nund kühl. Wer das erhalten will, muß\nmehr tun, als gelegentlich die\nAussicht zu loben.",
+      "Auf dem Grund liegt der\nWassertempel. Die Zoras wachen\ndarüber. Wasser hat eben auch eine\ninstitutionelle Seite.",
+      "Die Zoras sind der Königsfamilie seit\nlangem verbunden. Das schafft\nVertrauen, aber auch Zuständigkeiten.",
+      "Nur ein königlicher Abgesandter darf\nhinein. Du brauchst also einen\nNachweis. Und zwar einen, den man\nhören kann.",
+      "Ich fliege jetzt zum Schloß. Wenn Du\nmitwillst, halte Dich an meinen\nKrallen fest. Gemeinsame Mobilität.\nSehr konkret."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)"
+    ]
+  },
+  {
+    "section": "09. Kind – Hylia-See und Flug zum Schloss",
+    "id": "4004",
+    "pages": [
+      "Ich fliege zum Schloß. Halte Dich an\nmeinen Krallen fest, wenn Du\nmitwillst. Das ist ein Angebot, keine\nVerkehrswende für ganz Hyrule."
+    ],
+    "controls": []
+  },
+  {
+    "section": "10. Kind – Eule am Gerudotal",
+    "id": "206F",
+    "pages": [
+      "[Spielername], mehrere Wege. Das\nist erst einmal Freiheit. Und im\nzweiten Schritt eine ziemlich\nkonkrete Entscheidung.",
+      "Man merkt erst, wie wichtig Wasser\nist, wenn es fehlt. Oder wenn jemand\nbeschließt, daß es ein Luxusgut sein\nsoll.",
+      "Eine Brücke verbindet zwei Ufer.\nPolitisch klingt das hervorragend.\nBaulich wäre ich schon froh, wenn sie\neinfach stehenbleibt.",
+      "Man kann nicht jede Richtung\ngleichzeitig einschlagen. Außer\nrhetorisch. Aber davon kommst Du\nhier nicht weiter."
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(40)",
+      "EVENT"
+    ]
+  },
+  {
+    "section": "10. Kind – Eule am Gerudotal",
+    "id": "206A",
+    "pages": [
+      "Soll ich das anders erklären?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "10. Kind – Eule am Gerudotal",
+    "id": "2070",
+    "pages": [
+      "Zuversicht heißt nicht, daß alles gut\nwird. Zuversicht heißt, daß es einen\nUnterschied macht, ob Du etwas tust."
+    ],
+    "controls": []
+  },
+  {
+    "section": "11. Nach dem Master-Schwert – Erwachen in der Halle der Weisen",
+    "id": "704E",
+    "pages": [
+      "[Spielername]...",
+      "Wach auf. Wir müssen reden. Es ist\nleider etwas kompliziert geworden."
+    ],
+    "controls": []
+  },
+  {
+    "section": "11. Nach dem Master-Schwert – Erwachen in der Halle der Weisen",
+    "id": "704F",
+    "pages": [
+      "Ich bin Robert Habeck, Weiser des\nLichts. Also, zunächst einmal: schön,\ndaß Du wieder da bist.",
+      "Ich kam Friedrich Merz schon früh\nauf die Schliche. Seine Pläne waren\nkeine normale Regierungspolitik.",
+      "Er wollte Hyrule besitzen. Die\nMenschen, die Tempel, die Rohstoffe.\nZusammenhalt erschien ihm als\nKostenpunkt.",
+      "Ich stellte ihn auf dem Todesberg zur\nRede. Sachlich, wie ich fand. Er stieß\nmich den Berg hinunter.",
+      "Das war, um es vorsichtig zu sagen,\nkeine besonders offene Form des\npolitischen Austausches.",
+      "Ich bin dabei gestorben. Dieser\nmenschliche Körper hier ist eine\ngeistige Erscheinung. Mit Anzug.",
+      "Die Hyrule-Zeitung hatte mich vorher\nschon völlig zerrissen. Jeden Tag eine\nneue Schlagzeile.",
+      "Als Mensch konnte ich mich also\nkaum noch öffentlich zeigen. Nach\ndem Sturz zusätzlich körperlich nicht.",
+      "Nun fragst Du Dich vielleicht,\nweshalb eine gewisse Eule erstaunlich\nviel über Deine Reise wußte.",
+      "Diese Eule war ich, [Spielername].\nMethusa. Ich möchte das ausdrücklich\nund ohne jedes Mißverständnis sagen."
+    ],
+    "controls": [
+      "TEXTID(0x0121)"
+    ]
+  },
+  {
+    "section": "11. Nach dem Master-Schwert – Erwachen in der Halle der Weisen",
+    "id": "0121",
+    "pages": [
+      "Aber eine Geistereule. Das Wort\nGeist ist hier entscheidend. Keine\nlebendige Eule mit einem Nebenberuf.",
+      "Ich war bereits tot. Die Eule war\neine vorübergehende, durch\nSonnenenergie getragene Geistgestalt.",
+      "Das bedeutet: Ich hatte keinen\nVogelkörper, der irgendwo auf eine\nWiese hätte fallen können.",
+      "Ich sammelte Solarenergie. Damit ließ\nsich für kurze Zeit eine örtlich\nbegrenzte Eulenform herstellen.",
+      "An bestimmten Orten war besonders\nviel magische Energie vorhanden. Dort\nkonnte ich mit Dir sprechen.",
+      "Nicht überall. Und nicht ständig.\nDiese Energie lag gewissermaßen in\nkleinen, unpraktischen Inseln vor.",
+      "Zwischen diesen Inseln konnte ich Dir\nfolgen, aber nicht beliebig körperlich\nin die Welt eingreifen.",
+      "In die Stadt zu gehen hätte mehr\nEnergie gebraucht. Häuser, Schatten,\neine sehr schwierige Versorgungslage.",
+      "Gegen Merz zu kämpfen hätte noch\nmehr gebraucht. Eine Geistereule ist\nnun einmal kein Kraftwerk.",
+      "Ich konnte beraten. Sehr ausführlich\nberaten. Für einen Faustkampf reichte\ndie solare Restladung nicht."
+    ],
+    "controls": [
+      "TEXTID(0x0122)"
+    ]
+  },
+  {
+    "section": "11. Nach dem Master-Schwert – Erwachen in der Halle der Weisen",
+    "id": "0122",
+    "pages": [
+      "Inzwischen hat Merz mir auch diesen\nEnergie-Wasserhahn zugedreht. Bildlich\ngesprochen, versteht sich.",
+      "Es floß dort kein Wasser aus einer\nSonne. Der Hahn bezeichnet die\nZufuhr magisch nutzbarer Energie.",
+      "Er ließ die alten Energieorte\nversiegeln. Keine Zufuhr, keine\nErscheinung. Also auch keine\nGeistereule mehr.",
+      "Du wirst mich draußen daher vorerst\nnicht wieder als Eule treffen. Auch\nnicht abends mit Speicher.",
+      "Hier in der Halle der Weisen ist es\nanders. Hier besteht ein\ngeschlossener magischer Schutzraum.",
+      "Diese Magie hält meine menschliche\nGeistgestalt aufrecht. Ich stehe vor\nDir, ohne wieder lebendig zu sein.",
+      "Die Kraft bleibt größtenteils hier. Ich\nkann sie nicht einfach in einen Eimer\nfüllen und nach draußen tragen.",
+      "Die Halle schützt, was in ihr ist.\nAußerhalb greifen andere Bindungen.\nWeshalb? Weil diese Bindungen so\nsind.",
+      "Das ist keine besonders befriedigende\nErklärung. Es ist leider die technisch\ngenaueste, die wir haben.",
+      "Du und Navi befandet Euch hier in\nmagischer Stasis. Kein gewöhnliches\nKoma. Eine sehr geregelte\nVerwahrung."
+    ],
+    "controls": [
+      "TEXTID(0x0123)"
+    ]
+  },
+  {
+    "section": "11. Nach dem Master-Schwert – Erwachen in der Halle der Weisen",
+    "id": "0123",
+    "pages": [
+      "Der Körper konnte heranwachsen,\nwährend Bewußtsein und\nWahrnehmung ruhten. Beides ist\ngetrennt geregelt.",
+      "Wäre alles vollständig eingefroren\ngewesen, wärst Du noch klein. Genau\ndas wollten wir ja vermeiden.",
+      "Für Navi galt derselbe Schutz. Feen\naltern dabei anders. Bitte verwechsle\nAlterung nicht mit Flugleistung.",
+      "Hier konnte ich die Stasis versorgen,\nobwohl draußen die Energie fehlte.\nInnenversorgung, Außenversorgung.",
+      "Das ist derselbe Unterschied, wegen\ndessen eine Lampe im Haus leuchten\nkann, ohne den ganzen Wald zu\nerhellen.",
+      "Nur daß die Lampe hier Magie ist,\ndas Haus eine Weisenhalle und der\nWald eine etwas überlastete\nMetapher.",
+      "Die Zitadelle der Zeit steht übrigens\nnoch. Merz hat sie nicht einfach\nabreißen können.",
+      "Die ist aus dermaßen stabilem Beton\ngebaut. Da kannst Du mit einer\nschwarzen Zauberkugel lange\ngegenreden.",
+      "Das Master-Schwert öffnete ihm\nleider das Heilige Reich. Die\nEingangssicherung war weniger solide\nals der Beton.",
+      "Bevor ich nun zu Kleidung, Muskeln\nund der verbleibenden Zeit komme:\nErschrick nicht. Schau Dich einmal an."
+    ],
+    "controls": []
+  },
+  {
+    "section": "12. Halle der Weisen – Erwachsenenform, Stasis, Ausrüstung und Aufgabe",
+    "id": "7050",
+    "pages": [
+      "[Spielername], Du bist erwachsen!\nUnd ich habe sieben Jahre nicht\ngemeckert? Das macht mir Angst."
+    ],
+    "controls": []
+  },
+  {
+    "section": "12. Halle der Weisen – Erwachsenenform, Stasis, Ausrüstung und Aufgabe",
+    "id": "7051",
+    "pages": [
+      "Das Master-Schwert erkannte Dich\nals Herrn der Zeiten. Du warst für\nden Kampf aber noch zu jung.",
+      "Deshalb die sieben Jahre Stasis.\nDeine Kleidung wuchs durch Magie\nmit. Eine mitwachsende Ausstattung.",
+      "Ohne diese Regelung hätten wir jetzt\nein sehr unangenehmes Problem mit\nDeiner Hose.",
+      "Auch die Muskeln wurden magisch\nerhalten. Sonst könntest Du nach\nsieben Jahren nicht einmal aufstehen.",
+      "Das war kein kostenloses\nFitneßprogramm. Es war eine\nMaßnahme gegen körperlichen Abbau.",
+      "Die Gegenstände waren dagegen nicht\nalle in diesen Schutz einbezogen.\nUnterschiedliche Zuständigkeiten.",
+      "Der Bumerang war seit Jabu-Jabus\nInnerem sowieso feucht. Sieben Jahre\nLagerung waren dann keine\nVerbesserung.",
+      "Einiges ist verschimmelt, anderes\npaßt nicht zu Deiner jetzigen Gestalt.\nDu kannst nicht alles benutzen.",
+      "Bei einer Rückkehr in Deine Kindheit\nsteht Dir wieder die damalige, noch\nbrauchbare Ausrüstung zur Verfügung.",
+      "Das ist eine Zustandsfrage entlang\nder Zeitbindung. Kein Vorschlag,\nSchimmel durch Schwertschwingen zu\nentfernen.",
+      "Hast Du das soweit verstanden?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "12. Halle der Weisen – Erwachsenenform, Stasis, Ausrüstung und Aufgabe",
+    "id": "7052",
+    "pages": [
+      "Das ist verständlich. Vielleicht war\ndie Erklärung zu knapp. Ich beginne\nnoch einmal bei der Stasis."
+    ],
+    "controls": [
+      "TEXTID(0x7051)"
+    ]
+  },
+  {
+    "section": "12. Halle der Weisen – Erwachsenenform, Stasis, Ausrüstung und Aufgabe",
+    "id": "7053",
+    "pages": [
+      "Mit dem Master-Schwert im\nZeitenfels kannst Du genau sieben\nJahre zurück.",
+      "Nicht acht. Nicht sechs. Nicht bis\nletzten Dienstag. Zwei feste\nEndpunkte.",
+      "Dein Schlaf lud die Zeitmagie auf und\nband sie an Dein damaliges Selbst.",
+      "Nun bist Du geweckt. Die Endpunkte\nstehen fest. Mehr Zeit ist nicht drin.",
+      "Wie zwei Haltestellen. Der Schlaf\nbaut die Strecke, das Schwert öffnet\nsie.",
+      "Die Bindung am Zeitenfels muß noch\nfreigegeben werden. Folge erst Deiner\nAufgabe.",
+      "Merz betrat das Heilige Reich und riß\ndas Triforce-Fragment an sich.",
+      "Seither verwüstet er Hyrule. Er nennt\ndas Eigenverantwortung.",
+      "Er vertrieb Menschen, entweihte\nTempel und sperrte die Energie. Das\nist böse.",
+      "Wecke die anderen Weisen! Ihre\nAmulette bündeln unsere Kraft gegen\nMerz.",
+      "Ich bin der Weise des Lichts. Hier\nkann ich helfen. Selbst hinausziehen\nkann ich nicht.",
+      "[Spielername], Du trägst das\nMaster-Schwert. Befreie die Tempel\nund finde die Weisen!",
+      "Beginne im Wald. Dort erschließt sich\nder weitere Weg.",
+      "Ich übertrage Dir meine Macht. Eine\ngezielte Übertragung. Kein\nMagie-Eimer.",
+      "Geh nun. Und falls jemand fragt: Ja,\nich war die Eule. Die Geistereule."
+    ],
+    "controls": []
+  },
+  {
+    "section": "13. Halle der Weisen – Lichtamulett, Lichtgewand und Glotzaugenfrosch",
+    "id": "0040",
+    "pages": [
+      "Das Amulett des Lichts!\nRobert Habeck, der Weise,\ngibt Dir seine Kraft!"
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_MEDALLION_LIGHT)"
+    ]
+  },
+  {
+    "section": "13. Halle der Weisen – Lichtamulett, Lichtgewand und Glotzaugenfrosch",
+    "id": "7212",
+    "pages": [
+      "Ach ja, das ist noch nicht alles.",
+      "SPIELT DIE ANIMATION NOCH MAL\nAB!"
+    ],
+    "controls": []
+  },
+  {
+    "section": "13. Halle der Weisen – Lichtamulett, Lichtgewand und Glotzaugenfrosch",
+    "id": "7213",
+    "pages": [
+      "Du hast das Lichtgewand\nerhalten!",
+      "Es ersetzt Deine grüne Kleidung und\nwird in der Zitadelle angelegt.",
+      "Als Kind und als Erwachsener nimmst\nDu damit nur noch halben\ngewöhnlichen Schaden."
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_TUNIC_KOKIRI)"
+    ]
+  },
+  {
+    "section": "13. Halle der Weisen – Lichtamulett, Lichtgewand und Glotzaugenfrosch",
+    "id": "7214",
+    "pages": [
+      "Warte, das hier sollte auch noch\nganz praktisch sein zu haben"
+    ],
+    "controls": []
+  },
+  {
+    "section": "13. Halle der Weisen – Lichtamulett, Lichtgewand und Glotzaugenfrosch",
+    "id": "7215",
+    "pages": [
+      "Du hast den Glotzaugenfrosch\nerhalten!"
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_EYEBALL_FROG)"
+    ]
+  },
+  {
+    "section": "13. Halle der Weisen – Lichtamulett, Lichtgewand und Glotzaugenfrosch",
+    "id": "70E9",
+    "pages": [
+      "Finde die anderen\nWeisen und rette Hyrule!"
+    ],
+    "controls": [
+      "FADE(80)"
+    ]
+  },
+  {
+    "section": "14. Wüstenkoloss / Geistertempel – Spätere Eulenbegegnung",
+    "id": "6079",
+    "pages": [
+      "Ah, so sehen wir uns wieder,\n[Spielername]. Was? Ich soll\nRobert Habeck sein? Wie kommst Du\ndenn jetzt darauf?",
+      "Nein, nein. Also, man muß da schon\nunterscheiden zwischen einer Eule,\neiner Geistereule und einer... ach,\nlassen wir das.",
+      "Dieses Abenteuer ist inzwischen\nausgesprochen anachronistisch. Du\nreist durch die Zeit, und offenbar tun\ndas noch andere Mitspieler.",
+      "Da tauchen Leute auf, die Dich schon\nkennen, obwohl Du ihnen noch gar\nnicht begegnet bist. Das macht die\nLage nicht gerade übersichtlicher."
+    ],
+    "controls": [
+      "TEXTID(0x607A)"
+    ]
+  },
+  {
+    "section": "14. Wüstenkoloss / Geistertempel – Spätere Eulenbegegnung",
+    "id": "607A",
+    "pages": [
+      "Und als wäre diese ganze zeitliche\nUnordnung nicht genug, sitzen da nun\nauch noch zwei Hexen im Tempel. Die\nhaben uns gerade noch gefehlt.",
+      "Natürlich möchte ich niemanden\nvorschnell verurteilen. Aber sobald\njemand Menschen verhext, ist der",
+      "Spielraum für eine wohlwollende\nEinordnung doch recht klein.",
+      "Du wirst das also in Ordnung bringen\nmüssen. Nimm ihre eigene Magie\ngegen sie, damit wir hier überhaupt",
+      "wieder eine gemeinsame Zukunft\nhaben."
+    ],
+    "controls": [
+      "TEXTID(0x607B)"
+    ]
+  },
+  {
+    "section": "14. Wüstenkoloss / Geistertempel – Spätere Eulenbegegnung",
+    "id": "607B",
+    "pages": [
+      "Soll ich das noch einmal erklären?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "section": "14. Wüstenkoloss / Geistertempel – Spätere Eulenbegegnung",
+    "id": "607C",
+    "pages": [
+      "So. Dann bring diese Sache mit den\nHexen bitte zu einem vernünftigen\nAbschluß. Und vergiß das mit Robert\nHabeck. Völlig abwegig."
+    ],
+    "controls": []
+  },
+  {
+    "section": "15. Nach den Tempeln – Habecks letzter Hinweis aus der Weisenhalle",
+    "id": "5024",
+    "pages": [
+      "Perfekt, die ganzen Weisen sind jetzt\nbereit. Damit können wir den\nGroßmeister des Bösen fertig machen.",
+      "Gehe zur Zitadelle der Zeit, da\nwartet Sheik auf Dich."
+    ],
+    "controls": []
+  },
+  {
+    "section": "16. Vor Friedrichs Schloss – Brücke, Siegel und Auftrag",
+    "id": "7067",
+    "pages": [
+      "[Spielername]... Hörst Du mich?\nHier spricht Robert Habeck. Aus der\nHalle. Weiterhin keine Eule.",
+      "Die sechs Weisen bündeln ihre Kraft\nzu einer Brücke vor Merz' Schloß.\nEine gemeinsame Kraftanstrengung.",
+      "Der Teufelsturm wird von sechs\nSiegeln des Bösen blockiert. Die\nmüssen einzeln gebrochen werden.",
+      "Brich die Siegel, dringe in den Turm\nein und rette Prinzessin Zelda. Dafür\nreicht unsere gemeinsame Energie."
+    ],
+    "controls": []
+  },
+  {
+    "section": "17. Friedrichs Schloss – Licht-Siegel",
+    "id": "70E5",
+    "pages": [
+      "So, das Licht-Siegel wäre hiermit\nauch gebrochen."
+    ],
+    "controls": [
+      "FADE(40)"
+    ]
+  },
+  {
+    "section": "18. Finale – Aufruf an die Weisen / Verbannung",
+    "id": "706C",
+    "pages": [
+      "Ihr Erschaffer Hyrules!",
+      "Öffnet das versiegelte Portal und\nschickt diese Kreatur des Bösen\nin den Abgrund der Hölle!"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(60)",
+      "FADE(90)"
+    ]
+  }
+]
