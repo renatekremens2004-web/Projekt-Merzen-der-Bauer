@@ -1,0 +1,10 @@
+V100 – Musik für Merz in der weißen Leere nach dem ersten Master-Schwert-Ziehen.
+Kumulativer BPS-Patch gegen eine saubere OoT PAL1.0 ROM. Normal und DEBUG separat auf die saubere Basis anwenden, nicht auf V99.
+
+Verwendet ausschließlich die korrigierte Datei „merz musik.mp3“ (SHA256 045eceef05a2d05e3c65571e1574854233b5195c8e745280c73a2135d469c366). Die zuerst hochgeladene Datei wird nicht verwendet.
+Vollständige Aufnahme als zwei 32kHz-ADPCM-Samples in Stereo, 98,09s. Zwei Musikstimmen über vorhandene ROM-DMA-Puffer, keine Audioheap-Vergrößerung, keine neuen Actors/Objektbankplätze. Zusätzliche Sampledaten zusammen ca.3,53MBROM, neuer temporärer Soundfont512Byte, Sequenz96Byte. Headroom eingeplant und15msRandfades gegen Klicks. Sample kann bei langem Lesen erneut anlaufen.
+Nur gCutsceneMapGanondorfFromMasterSwordCs startet Sequenz114 beiFrame0 statt der bisherigen Intro-Ganon-Musik bei217. Ausblenden335..359, regulärer Übergang360 in die Halle der Weisen bleibt. Andere Musik und Cutscenes unverändert.
+Die seitV99 freigegebenen 45Kakariko- und20Navi-Texte sowie der deutsche Pikachu-Maske-Inventarname sind ebenfalls enthalten. Vollständige Sätze sauber auf Seiten, Schalter-ID0133 statt des nichtgemeinten0123. Alte Dialogauswahl-/Ereignis-/Belohnungssteuerung erhalten.
+
+Prüfung je Fassung: tatsächlich abgespielte Szene bei4MiBRAM, Merz-Dialog700A, beide richtigen Samples ausMEDIUM_CART, korrekte Tonhöhe und Stereo-Synchronität; Rückkehr in die Halle der Weisen mit anderer Musik und ohne Ressourcenfehler. Normale Aufnahme mit korrekterQuelldatei korreliert(0,973), kein digitales Clipping. Vollständiger98sSample-Loop nicht über die gesamte Laufzeit getestet. BPS mit unabhängigem Patcher bytegleich verifiziert. Kein vollständiger neuer Spieldurchlauf.
+Die MP4 ist eine native Spielaufnahme mit Musik und enthält auch den Übergang in die Halle der Weisen.
