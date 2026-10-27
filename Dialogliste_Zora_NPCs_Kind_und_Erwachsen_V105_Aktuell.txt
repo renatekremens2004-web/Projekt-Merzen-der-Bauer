@@ -1,0 +1,1082 @@
+# Zora-NPCs – aktuelle deutsche Dialoge, Stand V105
+
+Unverändert aus den aktuellen Projektquellen ausgelesen. Die Goronen-Überarbeitung hat keine Zora-Texte geändert. Nach Figuren und Zeitlinien sortiert, mit Auswahlzweigen. Thaddäus als Ersatz für Zora-Rollen, gemeinsame Ladentexte und Fundmeldungen sind separat gekennzeichnet. Keine Maskenreaktionen.
+
+## Zora-Bewohner – Kind, Zoras Reich
+
+### 4006
+
+**Seite 1**
+
+> Willkommen in Zoras Reich! Diese Höhle ist nur ein Teil davon. Unser Reich geht natürlich noch viel, viel weiter ins Wasser.
+
+**Seite 2**
+
+> Man kann sagen, der Großteil des Wassers ist eigentlich unser Reich. Mit Unterwasseranlagen und so was, ne?
+
+### 4007
+
+**Seite 1**
+
+> Wir können hervorragend tauchen. Leider können wir dadurch auch jede königliche Fehlentscheidung von unten betrachten.
+
+**Seite 2**
+
+> Thaddäus veranstaltet ein Tauchspiel. Seine Laune kann ohnehin nicht schlechter werden.
+
+### 4008
+
+**Seite 1**
+
+> Ein Großteil des Wassers wird durch die Zora-Eier, die Zora-Balls des Königs gefiltert.
+
+**Seite 2**
+
+> Der sitzt da einfach. Guck Dir das mal an. Das ist seltsam.
+
+### 4009
+
+**Seite 1**
+
+> Ruto ist noch sehr klein und trotzdem läuft sie freiwillig im Inneren von Jabu-Jabu herum. Seltsame Vorlieben.
+
+**Seite 2**
+
+> Keine Ahnung, ob den König das interessiert. Den juckt das irgendwie nicht, glaube ich.
+
+### 400A
+
+**Seite 1**
+
+> Ja, ich mag Rockmusik, die ist total cool, ich rock total gerne ab. Rock'n'Roll, Leute!
+
+### 400B
+
+**Seite 1**
+
+> Noch einmal: Rock'n'Roll, Leute!
+
+### 400C
+
+**Seite 1**
+
+> Warst Du schon bei Jabu-Jabu?
+> Ja!
+> Nein!
+
+### 400D
+
+**Seite 1**
+
+> Wenn Du ihm einen Fisch anbietest, macht Jabu-Jabu den Mund auf. Ich sage nur, was passiert. Ich empfehle es ausdrücklich nicht.
+
+### 400E
+
+**Seite 1**
+
+> Das ist ein gigantischer Wal, und das, was Du über der Wasseroberfläche siehst, ist quasi nur sein Kopf.
+
+**Seite 2**
+
+> Sein noch viel gigantischerer Gigantenkörper ist unter dem Wasser verborgen. Das Ding ist wirklich riesig, da kannst Du mir vertrauen.
+
+**Seite 3**
+
+> So ein kleines Kind könnte sich da bestimmt stundenlang drin verirren.
+
+### 400F
+
+**Seite 1**
+
+> Ruto ist mit dem Saphir verschwunden. Der König sucht sie seit Stunden. Also... Er ruft ihren Namen, ohne aufzustehen.
+
+### 4010
+
+**Seite 1**
+
+> Hast Du etwas von Ruto gehört? Zeig es dem König. Möglichst schriftlich und mit wenigen schwierigen Wörtern.
+
+### 4011
+
+**Seite 1**
+
+> Der Fluß führt bis zum Hylia-See. Wenn Ruto untertauchen will, hat sie also reichlich Auswahl.
+
+**Seite 2**
+
+> Der König hat als Suchmaßnahme angeordnet, daß das Wasser kurz stehenbleiben soll. Wir warten noch auf die Durchführung.
+
+### 402F
+
+**Seite 1**
+
+> Friedrich Merz und der König haben zusammen getagt. Sie haben einen Deal ausgehandelt, der uns Klimaanlagen verspricht.
+
+**Seite 2**
+
+> Damit sollen wir vor den katastrophalen Auswirkungen des Klimawandels in den nächsten sieben Jahren geschützt sein.
+
+**Seite 3**
+
+> Er hat ihm dafür unser wertvollstes Gut versprochen: die Zora-Trompete. Die wollte Merz nicht. Statt dessen bekommt er den Saphir.
+
+## Zora-Bewohner – Hylia-See und Rückfragen
+
+### 4020
+
+**Seite 1**
+
+> Sag mal, gibt es eigentlich Zora-Frauen? Ich sehe hier immer nur Zoras.
+
+**Seite 2**
+
+> Vielleicht lassen sie sich einfach schwer unterscheiden. Das wäre natürlich eine Erklärung.
+
+**Seite 3**
+
+> Warte mal. Bin ich selbst eine Frau? Ich muß mich kurz setzen.
+
+### 4021
+
+**Seite 1**
+
+> Irgendwo im See hat irgend jemand schon wieder seine Bierflasche reingeworfen. Diese Hylianer sind echt das Letzte.
+
+### 402A
+
+**Seite 1**
+
+> Ich wollte eigentlich einen Fisch kaufen, aber er ist ein bißchen zu teuer...
+
+**Seite 2**
+
+> Da muß ich wohl einen der Fische fangen, die hier herumschwimmen.
+
+### 402D
+
+**Seite 1**
+
+> [Spielername], ich kenn' Mido. Richtiger Wichser. Der wollte mir erklären, wie man richtig schwimmt. MIR. Einem Zora.
+
+### 402E
+
+**Seite 1**
+
+> [Spielername], hast Du mal drauf geachtet, wie sau crazy die Musik für 'ne Sekunde klingt, wenn man Zoras Höhle verläßt?
+
+## König Zora – Kind und Rutos Verschwinden
+
+### 401A
+
+**Seite 1**
+
+> Friedrich Merz hat mir Klimaanlagen versprochen! Damit retten wir die Zoras vor dem Klimawandel. Ich bin ein Genie.
+
+**Seite 2**
+
+> Ein Stein gegen kühle, entspannende Luft. Ah, wie angenehm. Fast so angenehm wie das Wasser, das zwischen meinen Beinen durchläuft.
+
+**Seite 3**
+
+> Aber meine Tochter ist mit dem Stein abgehauen, und ich kann sie nicht finden. Die kommt bestimmt bald zurück und gibt ihn mir wieder.
+
+**Seite 4**
+
+> Die kriegt sich immer ein.
+
+### 401B
+
+**Seite 1**
+
+> Was ist denn das? Wie, meine Tochter, meine Prinzessin ist einfach in diesem riesigen Fisch, unserem heiligen Jabu-Jabu? Scheiße.
+
+**Seite 2**
+
+> Hoffentlich wird sie nicht verdaut.
+
+**Seite 3**
+
+> Ich würde ja selbst reingehen, aber ich muß hier aufpassen. Kannst Du das vielleicht übernehmen? Dann werde ich mich auch erkenntlich
+
+**Seite 4**
+
+> zeigen. Wahrscheinlich.
+
+**Seite 5**
+
+> Wobei, so viel Geld habe ich aktuell nicht. Ich habe Friedrich Merz schon eine ganze Menge gegeben. Im Zora-Königreich sind harte Zeiten
+
+**Seite 6**
+
+> angebrochen.
+
+**Seite 7**
+
+> Warte, laß mich kurz meinen Arsch aus dem Weg schieben. Einen Moment.
+
+**Seite 8**
+
+> Die Flasche kannst Du übrigens wiederhaben. Nimm Deinen Müll wieder mit.
+
+Fortsetzung: **401C**.
+
+### 401C
+
+**Seite 1**
+
+> Finde bitte Ruto. Und den Saphir. Sonst merkt Merz, daß ich ihm etwas verkauft habe, das ich gar nicht habe.
+
+### 402B
+
+**Seite 1**
+
+> [Spielername], meine Tochter kommt bestimmt bald zurück. Nur noch wenige Minuten. Gleich ist es soweit. Bald.
+
+## Ruto – Jabu-Jabus Inneres
+
+### 404B
+
+**Seite 1**
+
+> Hey! Wer bist Du denn?
+
+**Seite 2**
+
+> Ich bin Ruto, Prinzessin der Zoras. Und ich möchte gerade nicht gefunden werden.
+
+**Seite 3**
+
+> Mein Vater hat Dich geschickt? Großartig. Ein königlicher Suchtrupp aus genau einem Kind.
+
+**Seite 4**
+
+> Er hat meinen Saphir Merz versprochen. Für Klimaanlagen! Der hat doch einen an der Flosse.
+
+**Seite 5**
+
+> Ja, die Flaschenpost ist von mir. Normalerweise ist es hier ein bißchen sicherer, aber scheinbar hat Jabu-Jabu einen Haufen Gegner
+
+**Seite 6**
+
+> gefressen.
+
+**Seite 7**
+
+> Mein Vater ist so ein Idiot. Ich kann nicht fassen, daß er unser ganzes Königreich in den feuchten Abgrund stoßen möchte. Er will, daß das ganze
+
+**Seite 8**
+
+> Königreich den Bach runtergeht.
+
+**Seite 9**
+
+> Deswegen werde ich diesen Stein nur über meine Leiche hergeben.
+
+**Seite 10**
+
+> Und jetzt laß mich in Ruhe.
+
+### 404C
+
+**Seite 1**
+
+> Warum schaust Du so? Es ist völlig normal, in einem riesigen Fisch herumzulaufen.
+
+**Seite 2**
+
+> Ich bin öfter hier. Andere Kinder spielen im Garten. Ich gehe eben durch einen Magen.
+
+**Seite 3**
+
+> Vore? Ich verstehe nicht. Was soll das sein?
+
+**Seite 4**
+
+> Heute ist es allerdings etwas unangenehm. Diese elektrischen Quallen gehörten früher nicht zur Einrichtung.
+
+**Seite 5**
+
+> Außerdem habe ich den Saphir verloren. Solange der hier liegt, gehe ich nirgendwohin.
+
+**Seite 6**
+
+> Wenn Du mir helfen willst, dann hilf.
+
+### 404D
+
+**Seite 1**
+
+> Du willst mir also helfen? Gut.
+
+**Seite 2**
+
+> Ich habe keinen Bock, versehentlich in Magensäure oder so einen Mist zu treten. Deswegen trag Du mich mal. Du hast Schuhe an.
+
+**Seite 3**
+
+> Und laß mich nicht irgendwo liegen. Ich bin eine Prinzessin, kein vergessener Einkaufsbeutel.
+
+### 404E
+
+**Seite 1**
+
+> Bist Du wahnsinnig? Ich hätte hier im Magen verdaut werden können! Ist das überhaupt der Magen?
+
+**Seite 2**
+
+> Ich schätze, wir sind hier in verschiedenen Teilen von Jabu-Jabu. Links und rechts hat das zum Beispiel, glaube ich, irgendwie mit den
+
+**Seite 3**
+
+> Kiemen zu tun. Diese grünen Räume wirst Du später noch sehen.
+
+### 404F
+
+**Seite 1**
+
+> Da ist der Saphir! Wirf mich sofort auf diese Plattform. Wird schon schiefgehen.
+
+### 4050
+
+**Seite 1**
+
+> Ruto hat ihren Heiligen Stein zurück. Zeit, aus Jabu-Jabus Arsch zu entkommen.
+
+### 4051
+
+**Seite 1**
+
+> Ich bin so froh, diesen Stein wieder zu haben. Der kommt von meiner Mutter. Sie ist leider schon sehr früh gestorben. Deswegen darf er niemals
+
+**Seite 2**
+
+> in die Hände von Friedrich Merz geraten.
+
+**Seite 3**
+
+> Ich bin zwar für eine Erbschaftssteuer, aber das heißt ja nicht, daß ich diesen Stein hergeben muß.
+
+**Seite 4**
+
+> Aber jetzt habe ich ihn wieder. Ich glaube, ich werde über das Meer verschwinden. Also los.
+
+### 4052
+
+**Seite 1**
+
+> Los, bringen wir uns hier raus. Ich habe für heute genug Anatomie gesehen.
+
+### 4048
+
+**Seite 1**
+
+> Igitt! Einer von diesen Oktoroks! Aber diesmal ein riesiger!
+
+### 401E
+
+**Seite 1**
+
+> Ooooh neiiiin!
+
+## Ruto – nach Jabu-Jabu, beide Wunsch-Antworten
+
+### 4022
+
+**Seite 1**
+
+> Da bist Du ja! Wir haben es geschafft. Das war vielleicht ein Abenteuer sondergleichen.
+
+**Seite 2**
+
+> Das hat ehrlich gesagt echt Spaß gemacht, auch wenn wir fast verdaut wurden.
+
+### 4023
+
+**Seite 1**
+
+> Und mein Vater hat nichts davon erfahren. Der soll auch weiterhin im Dunkeln bleiben, okay?
+
+### 4024
+
+**Seite 1**
+
+> [Spielername]! [Spielername]! Komm mal her!
+
+### 4025
+
+**Seite 1**
+
+> Ich hoffe ja echt, daß sich Jabu-Jabu von seinen internen Blutungen erholt. Aber ich denke, das wird schon wieder.
+
+**Seite 2**
+
+> Ich danke Dir vielmals. Du hast mir geholfen. Dafür hast Du einen Wunsch frei.
+
+**Seite 3**
+
+> Was möchtest Du?
+> Ich möchte den Heiligen Stein!
+> Einen witzigen Witz!
+
+### 4026
+
+**Seite 1**
+
+> Du meinst den Zora-Saphir, den mein Vater gegen Klimaanlagen tauschen wollte?
+
+Fortsetzung: **4027**.
+
+### 4029
+
+**Seite 1**
+
+> Treffen sich zwei Zoras. Sagt der eine: Hi! Schreit der andere: WO?!
+
+Fortsetzung: **4027**.
+
+### 4027
+
+**Seite 1**
+
+> Ja, jetzt werde ich wohl untertauchen müssen. Das ist dann wohl mein Schicksal. Aber ich opfere gerne die Beziehung zu meinem Vater,
+
+**Seite 2**
+
+> um dieses Reich zu retten.
+
+**Seite 3**
+
+> Wenn er merkt, daß Du ihn hast, rastet er völlig aus. Sag ihm einfach, ich komme gleich. Er glaubt das bestimmt.
+
+**Seite 4**
+
+> Hier. Der Zora-Saphir. Bring ihn in Sicherheit. Und wenn jemand fragt: Du hast mich nie gesehen!
+
+### 4028
+
+**Seite 1**
+
+> Verrate meinem Vater nichts. Der dreht sonst völlig durch.
+
+### 402C
+
+**Seite 1**
+
+> Ich bleibe erst einmal verschwunden. Mein Vater kann Merz ja statt des Saphirs einen hübschen Kiesel anbieten.
+
+## Thaddäus – Tauchspiel (ersetzte Zora-Rolle)
+
+### 4053
+
+**Seite 1**
+
+> Was will denn irgendein Rotzbalg hier? Ich bin der große Thaddäus Quentin Tentakel, meines Zeichens Künstler. Leider bin ich von
+
+**Seite 2**
+
+> Kulturbanausen umgeben.
+
+**Seite 3**
+
+> Friedrich Merz vor allem. Der kann mit Kunst überhaupt nichts anfangen. Wenn der Hyrule übernimmt, Junge, dann werde ich mir keine einzige
+
+**Seite 4**
+
+> Klarinettenstunde mehr leisten können.
+
+**Seite 5**
+
+> Die ich sowieso nicht brauche, weil ich schon perfekt bin. Na ja, egal. Hier ist das Tauchspiel.
+
+**Seite 6**
+
+> Eine Runde kostet 20 Rubine. Na?
+> Ja!
+> Nein!
+
+### 4054
+
+**Seite 1**
+
+> Wunderbar. Ein zahlender Störenfried. Welch seltener Glücksfall.
+
+**Seite 2**
+
+> Ich werfe fünf Rubine hinunter. Sammle sie alle ein, bevor die Zeit abläuft. Möglichst ohne Deine übliche Zirkusnummer.
+
+**Seite 3**
+
+> Komm danach zu mir zurück. Dann gibt es eine Belohnung.
+
+### 405A
+
+**Seite 1**
+
+> Let's go!
+
+### 405B
+
+**Seite 1**
+
+> Spring den Wasserfall hinab. Dort liegen die Rubine. Und hier oben liegt mir langsam Dein Anblick auf den Nerven.
+
+### 4055
+
+**Seite 1**
+
+> Ah, Du hast gewonnen. Super. Na ja, ich gucke mal, was ich hier habe. Komm hoch, dann kriegst Du Deine Belohnung.
+
+### 4056
+
+**Seite 1**
+
+> Ja, ich habe hier etwas. Die Dinger sind massenproduziert. Habe eine ganze Sammlung von den Scheißdingern.
+
+**Seite 2**
+
+> Silberne Schuppen. Habe ich massenhaft bestellt. Hier, nimm eine. Damit kannst Du tiefer tauchen.
+
+### 405C
+
+**Seite 1**
+
+> Ah, Du schon wieder. Willst Du es nochmal ausprobieren? Die silberne Schuppe hast Du ja schon.
+
+**Seite 2**
+
+> Noch eine Runde für 20 Rubine?
+> Ja!
+> Nein!
+
+### 405D
+
+**Seite 1**
+
+> Schon wieder gewonnen. Hervorragend. Meine Begeisterung ist nur gerade in der Mittagspause.
+
+### 0136
+
+**Seite 1**
+
+> Junge, Du hast verloren, Du trauriger Clown.
+
+**Seite 2**
+
+> Aha, haha! Trauriger... Ha ha ha! Clown!
+
+### 0138
+
+**Seite 1**
+
+> Nicht einmal 20 Rubine hast Du. Lächerlich. Such Dir einen Job, Alter.
+
+## König Zora – Erwachsener, Auftauen und Wassertempel
+
+### 4012
+
+**Seite 1**
+
+> Oh, ich bin wieder aufgetaut! Die Sache mit den Klimaanlagen ging wohl etwas schief.
+
+**Seite 2**
+
+> Friedrich Merz hat mich an der Nase herumgeführt. An meiner Zora-Nase! Meiner Fischnase!
+
+**Seite 3**
+
+> Und meine Tochter ist schon länger weg. Aber sie taucht bestimmt bald wieder auf. Jede Minute kann es soweit sein.
+
+**Seite 4**
+
+> Was? Ich war WIE LANGE im Eis?! Nee, nee. So schlimm ist das alles doch nicht. Ähh...
+
+**Seite 5**
+
+> Hier, nehmt diese Zora-Rüstung als Dank fürs Auftauen. Damit könnt Ihr unter Wasser atmen.
+
+### 4013
+
+**Seite 1**
+
+> Mr. Tentakel ist zum Wassertempel aufgebrochen, um den Abfluß zu reparieren.
+
+### 401F
+
+**Seite 1**
+
+> Ja, als Dank wollte ich Euch eine Zora-Rüstung geben. Aber Du trägst ja schon eine. Du trägst eine mit Dir. Das heißt nicht, daß Du sie unbedingt
+
+**Seite 2**
+
+> schon anhast. Egal. Bitte rettet das Zora-Königreich.
+
+Fortsetzung: **4013**.
+
+### 4039
+
+**Seite 1**
+
+> Der Zora-König hat sich von Friedrich Merz ins Bockshorn jagen lassen.
+
+**Seite 2**
+
+> Vom Todesberg klebt an Dir noch ein bißchen Erz.
+
+**Seite 3**
+
+> Die meisten Zoras sind eingefroren. Thaddäus ist zum Wassertempel aufgebrochen, um den Abfluß zu reparieren.
+
+### 4044
+
+**Seite 1**
+
+> Und bald wird das Zora-Königreich wieder auftauen, nun, da Ihr den Fluch gebrochen habt!
+
+**Seite 2**
+
+> Jede Minute geht es los. Ich höre es schon auftauen. Nicht mehr lang!
+
+**Seite 3**
+
+> Gleich ist hier wieder alles voller fließendem, angenehmem Wasser. Äh... Nicht mehr lange...
+
+**Seite 4**
+
+> Wenn Du noch fünf Minuten oder so hier bleibst, dann wirst Du bestimmt mitkriegen, wie das hier alles wieder auftaut.
+
+### 4045
+
+**Seite 1**
+
+> Thaddäus ist zum Wassertempel aufgebrochen, um den Abfluß zu reparieren.
+
+**Seite 2**
+
+> Diese Klimaanlagen waren jedenfalls keine gute Investition. Merz hat mich an meiner Fischnase herumgeführt.
+
+**Seite 3**
+
+> Und Ruto ist immer noch weg. Aber sie kommt bestimmt bald. Jede Minute. Ich kenne doch meine Tochter.
+
+## König Zora – Tauschquest
+
+### 4014
+
+**Seite 1**
+
+> Ooh... Das ist eine... Nun... Hmmm... Hmmm... Augentropfen...
+
+**Seite 2**
+
+> Nun, wir haben in jedem Fall die erforderlichen Zutaten dafür.
+
+**Seite 3**
+
+> Bringt diese Zutaten zum Labor am See. Dort werden die Augentropfen für Euch zubereitet.
+
+**Seite 4**
+
+> Doch eilt, denn die Zutaten müssen frisch sein...
+
+Fortsetzung: **4015**.
+
+### 4015
+
+**Seite 1**
+
+> Werdet Ihr es schaffen,
+> bevor sie verderben?
+> Ja!
+> Nein!
+
+### 4016
+
+**Seite 1**
+
+> Ihr glaubt, nicht schnell genug zu sein? Nun, auf dem Rücken eines flinken Pferdes könnt Ihr die Wegstrecke schneller zurücklegen...
+
+## Zusätzlicher erwachsener Zora in Zoras Reich
+
+### 209F
+
+**Seite 1**
+
+> Hey, wir kennen uns doch! Damals am Hylia-See habe ich mich gefragt, ob ich vielleicht selbst eine Zora-Frau bin.
+
+**Seite 2**
+
+> Inzwischen weiß ich: Ja, bin ich. Danke, daß Du mir die Augen geöffnet hast, [Spielername]!
+
+**Seite 3**
+
+> Ich fühle mich endlich wohl mit mir. Schön, Dich wiederzusehen!
+
+## Thaddäus – Wassertempel und Wasserweiser (ersetzt die erwachsene Ruto)
+
+### 403E
+
+**Seite 1**
+
+> Oh, Algengrütze, meine schmerzenden Tentakel. Es ist der nervige Taucher von damals.
+
+**Seite 2**
+
+> Ja, ich bin es, Thaddäus Quentin Tentakel. Man sollte mich kennen, wenn man nicht ein kompletter Kunstbanause ist. So wie alle anderen
+
+**Seite 3**
+
+> hier in Hyrule.
+
+**Seite 4**
+
+> Prinzessin Ruto war Fan meiner Kunst, aber die ist nicht mehr aufgetaucht. Wundert mich nicht. Wenn ich König Zora als Vater hätte,
+
+**Seite 5**
+
+> würde ich mich auch fremdschämen.
+
+**Seite 6**
+
+> Er hat einen so törichten, dämlichen Deal mit Friedrich Merz gemacht und jetzt ist das ganze Königreich eingefroren. Darunter auch viele
+
+**Seite 7**
+
+> Zoras, die jetzt auf Eis liegen.
+
+**Seite 8**
+
+> Und am schlimmsten: Meine Klarinette ist ebenfalls eingefroren. Meine Klarinette! Begreifst Du diese Katastrophe?
+
+**Seite 9**
+
+> Deswegen bin ich zum Hylia-See, um unser Reich wieder in Ordnung zu bringen. Dem Monster in diesem Tempel trete ich persönlich in den
+
+**Seite 10**
+
+> Arsch. Ich lasse mir doch nicht meine musikalische Laufbahn versauen.
+
+**Seite 11**
+
+> Es gibt hier drei Stellen, an denen Du den Wasserstand verändern kannst. Folge mir, wenn Du helfen willst, ansonsten laß mich einfach in Ruhe.
+
+### 4041
+
+**Seite 1**
+
+> Nun, [Spielername]. Mein Aufenthalt im Wassertempel ist etwas anders verlaufen als vorgesehen.
+
+**Seite 2**
+
+> Wenigstens habe ich jetzt alle Zeit der Welt, meiner Kunst nachzugehen und der Musik zu frönen.
+
+**Seite 3**
+
+> Und keine Kundschaft. Ich beginne, die Vorzüge dieses Ortes zu erkennen.
+
+### 4042
+
+**Seite 1**
+
+> Ach, wenn Du König Zora triffst: Sag ihm, daß ich ihn hasse. Danke.
+
+### 4046
+
+**Seite 1**
+
+> Du hast gut gekämpft. Für einen traurigen Clown.
+
+**Seite 2**
+
+> Auch ein blindes Huhn findet einmal ein Korn.
+
+### 4049
+
+**Seite 1**
+
+> Ich bin jetzt der Weise des Wassers. Noch ein anspruchsvoller Posten, für den mich niemand angemessen bezahlt.
+
+**Seite 2**
+
+> Du suchst Prinzessin Zelda? Ich weiß nicht, wo sie steckt.
+
+**Seite 3**
+
+> Daß sie überhaupt entkommen konnte, haben wir Mr. Bean zu verdanken.
+
+**Seite 4**
+
+> Das sollte bei all dem Gerede über Deinen Heldenmut einmal festgehalten werden.
+
+### 404A
+
+**Seite 1**
+
+> Ich überreiche Dir nun eines meiner größten Kunstwerke: das Wasseramulett.
+
+**Seite 2**
+
+> Nimm es und trage es mit Würde. Vielleicht färbt etwas von meinem Talent auf Dich ab.
+
+**Seite 3**
+
+> Ich verspreche selbstverständlich nichts.
+
+### 70E2
+
+**Seite 1**
+
+> Das Wasser-Siegel ist gebrochen! Mach hinne! Ich habe auch noch andere Interessen.
+
+## Zora-Laden – Begrüßung und Gespräche
+
+### 7241
+
+**Seite 1**
+
+> Nichts von diesen Waren ist gefälscht. Außer meine Hyrule Yeezys.
+
+### 0083
+
+**Seite 1**
+
+> Mit [Control-Pad] wählst Du die Ware aus.
+> Mit dem Verkäufer sprechen
+> Zurück
+
+### 403A
+
+**Seite 1**
+
+> Wenn Du einen Fisch kaufen willst, dann brauchst Du etwas, worin Du ihn aufbewahren kannst.
+
+### 403B
+
+**Seite 1**
+
+> Du willst die Zora-Rüstung kaufen? Sie ist aus edelstem Material und daher enorm teuer!
+
+**Seite 2**
+
+> Ich schätze, nur diese sehr reiche Familie in Kakariko kann sie sich leisten.
+
+### 0084
+
+**Seite 1**
+
+> Vielen Dank!
+
+### 0085
+
+**Seite 1**
+
+> Deine Rubine reichen nicht aus!
+
+### 0086
+
+**Seite 1**
+
+> Das kannst Du jetzt nicht kaufen.
+
+### 0096
+
+**Seite 1**
+
+> Tut mir leid... Du brauchst eine leere Flasche, damit Du das hier kaufen kannst.
+
+## Zora-Laden – Waren und Angebote
+
+### 00AB
+
+**Seite 1**
+
+> Zora-Rüstung 300 Rubine Eine praktische Rüstung der Zoras, die nur Erwachsenen paßt. Mit ihr kann man unter Wasser atmen!
+
+### 0094
+
+**Seite 1**
+
+> Zora-Rüstung 300 Rubine
+> Kaufen!
+> Nicht kaufen!
+
+### 00A0
+
+**Seite 1**
+
+> Pfeile 10 Stück 20 Rubine Du brauchst einen Bogen, um sie abzuschießen. Du kannst sie nicht kaufen, wenn Du noch keinen hast.
+
+### 008A
+
+**Seite 1**
+
+> Pfeile 10 Stück 20 Rubine
+> Kaufen!
+> Nicht kaufen!
+
+### 00B0
+
+**Seite 1**
+
+> Pfeile 50 Stück 90 Rubine Du brauchst einen Bogen, um sie abzuschießen. Du kannst sie nicht kaufen, wenn Du noch keinen hast.
+
+### 007D
+
+**Seite 1**
+
+> Pfeile 50 Stück 90 Rubine
+> Kaufen!
+> Nicht kaufen!
+
+### 00AF
+
+**Seite 1**
+
+> Nayrus Umarmung! Setze diese kraftvolle, magische Schutzaura mit [C] ein.
+
+### 007B
+
+**Seite 1**
+
+> Der Gerudo-Paß! Jetzt hast Du Zutritt zur großen Trainingsarena der Gerudo-Kriegerinnen.
+
+### 00AC
+
+**Seite 1**
+
+> Herz 10 Rubine Damit füllst Du ein Herz Deiner Energieleiste auf.
+
+### 0095
+
+**Seite 1**
+
+> Herz 10 Rubine
+> Kaufen!
+> Nicht kaufen!
+
+### 00A2
+
+**Seite 1**
+
+> Deku-Nüsse 10 Stück 30 Rubine Betäube Deine Gegner damit! Du kannst nur soviele kaufen, wie Du zur Zeit tragen kannst.
+
+### 0087
+
+**Seite 1**
+
+> Deku-Nüsse 10 Stück 30 Rubine
+> Kaufen!
+> Nicht kaufen!
+
+### 00B3
+
+**Seite 1**
+
+> Fisch 200 Rubine Frisch gefangen! Du kannst ihn in einer Flasche aufbewahren.
+
+### 007E
+
+**Seite 1**
+
+> Fisch 200 Rubine
+> Kaufen!
+> Nicht kaufen!
+
+### 00A5
+
+**Seite 1**
+
+> Rotes Elixier 30 Rubine Damit füllst Du Deine Energieleiste vollständig auf. Zur einmaligen Anwendung!
+
+### 008E
+
+**Seite 1**
+
+> Rotes Elixier 30 Rubine
+> Kaufen!
+> Nicht kaufen!
+
+## Kontext – zugehörige Fund- und Erzählmeldungen
+
+### 4005
+
+**Seite 1**
+
+> In der Flasche steckt ein Brief. Er riecht nach Fisch. Überraschung.
+
+**Seite 2**
+
+> Ich verstecke mich im Inneren von Jabu-Jabu vor Friedrich Merz. Hier sucht er mich bestimmt nicht.
+
+**Seite 3**
+
+> Der würde sich niemals schmutzig machen. Und hier ist wirklich alles voller Schleim. Ein hervorragendes Versteck!
+
+**Seite 4**
+
+> Ruto. PS: Verrate meinem Vater nichts. Er hat meinen Saphir schon jemandem versprochen, ohne mich zu fragen.
+
+### 4033
+
+**Seite 1**
+
+> Du hast Prinzessin Ruto gefunden! Jetzt wird Dir König Zora sicher den Heiligen Stein des Wassers geben...
+
+**Seite 2**
+
+> Oder etwa nicht?
+
+### 4034
+
+**Seite 1**
+
+> Prinzessin Ruto hat Dir ihren wertvollsten Schatz gegeben! Du besitzt nun zwei Heilige Steine! Jetzt fehlt nur noch einer!
+
+### 4035
+
+**Seite 1**
+
+> Prinzessin Ruto hat Dir ihren wertvollsten Schatz gegeben! Nun besitzt Du die drei Heiligen Steine!
+
+**Seite 2**
+
+> Jetzt schnell zu Prinzessin Zelda!
+
+### 0051
+
+**Seite 1**
+
+> Die Zora-Rüstung! Diese Unterwasser-Rüstung paßt nur Erwachsenen. Du kannst unter Wasser atmen!
+
+### 0054
+
+**Seite 1**
+
+> Die Gleitstiefel! Mit diesen schicken Schuhen schwebst Du über den Boden.
+
+**Seite 2**
+
+> Du kannst sie mit Steuerkreuz oben equippen.
+
+**Seite 3**
+
+> Sie sind so, als würdest Du die ganze Zeit auf Eis laufen. Also sind die nur zum Fliegen gut.
+
+### 0082
+
+**Seite 1**
+
+> Der Zora-Saphir! Von den Zoras wurde Dir dieser Heilige Stein des Wassers übergeben!
+
+### 003D
+
+**Seite 1**
+
+> Das Wasseramulett! Thaddäus, der Weise des Wassers, gibt Dir seine Kraft!
+
+## Kontext – Eishöhlen-Figur über einen Zora-Actor
+
+### 706B
+
+**Seite 1**
+
+> Der Großteil von dem Eis hier ist übrigens aus transparentem Plastik.
