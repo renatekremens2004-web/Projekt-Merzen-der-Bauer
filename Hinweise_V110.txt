@@ -1,0 +1,17 @@
+V110 – Boss-Schriftzug Friedrich Merz
+
+„Großmeister des Bösen“ bleibt pixelgenau erhalten. Darunter steht jetzt
+„FRIEDRICH MERZ“ anstelle von „GANONDORF“. Nur der deutsche Namensbereich der
+128x120-IA8-Textur wurde geändert; keine zusätzliche Speicherbelegung.
+Englisch, Französisch und die deutsche Überschrift bleiben identisch.
+
+Alle Änderungen aus V109 (Klopfen und beide Farm-Textteile) sind enthalten.
+Normal und DEBUG sind neu gebaut. Gegen die jeweils geprüfte V109-ROM sind
+1544 von 1547 Segmenten vollständig bytegleich. Die drei geänderten Segmente
+sind nur das Boss-Objekt, ROM-Prüfsummen/Startkopf und die ROM-Dateitabelle.
+Im Boss-Objekt ändern sich ausschließlich die Pixel der deutschen Namenszeile.
+Code, Actor-Overlays, Musik, Dialoge, alle Symboladressen und Objektgrößen sind
+unverändert. Für diese reine Texturänderung erfolgte kein erneuter Spieldurchlauf.
+Die BPS-Dateien wurden unabhängig angewendet und die ROM-Prüfsummen geprüft.
+
+Jeweils auf die unveränderte deutsche PAL1.0-ROM anwenden, nicht auf V109.

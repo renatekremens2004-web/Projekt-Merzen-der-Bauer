@@ -1,0 +1,24 @@
+{
+  "normal": {
+    "unchanged_segments": 1544,
+    "changed_segments": [
+      "makerom",
+      "dmadata",
+      "object_ganon"
+    ],
+    "all_symbol_addresses_and_sizes_identical": true,
+    "code_audio_dialogue_and_actor_overlays_byte_identical": true,
+    "only_german_name_pixels_changed": true
+  },
+  "debug": {
+    "unchanged_segments": 1544,
+    "changed_segments": [
+      "makerom",
+      "dmadata",
+      "object_ganon"
+    ],
+    "all_symbol_addresses_and_sizes_identical": true,
+    "code_audio_dialogue_and_actor_overlays_byte_identical": true,
+    "only_german_name_pixels_changed": true
+  }
+}
