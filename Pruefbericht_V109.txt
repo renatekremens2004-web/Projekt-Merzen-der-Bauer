@@ -1,0 +1,54 @@
+V109 – Klopfen und Lon-Lon-Farm-Texte
+
+Enthält alle bisherigen Änderungen aus V108 sowie beide neuen Farm-Textteile.
+44 deutsche Nachrichten geändert. Spielername, native Auswahlreihenfolge,
+EVENT- und Fortsetzungsbefehle bleiben erhalten. Maximale Zeilenbreite 210 Pixel,
+längste kompilierte Nachricht 620 Byte bei 1280 Byte Puffer. Satzweise Seiten-
+aufteilung, soweit ein Satz in vier Zeilen paßt; längere Sätze an Teilsätzen.
+Die diktierte Luigi-Begrüßung „2023“ steht korrekt unter 2030. 2023 ist eine
+Maskenreaktion und bleibt unverändert. Franky bleibt einheitlich geschrieben.
+2059 endet wie bestätigt: „Friedrich Merz macht unsere Farm kaputt.“
+Die hochgeladene angebliche Kakariko-Datei enthält denselben Farm-Textteil.
+
+Klopfen nur im eigentlichen Schattentempel, nicht im Brunnen oder Bossraum.
+Zufällige Wartezeiten von ungefähr 35–150 aktiven Spielsekunden; keine Kopplung
+an einzelne Raumwechsel, keine überlappenden Aufnahmen. Während Inventar,
+Gesprächen, Zwischensequenzen, Game Over oder Übergängen wird das Klopfen
+abgebrochen; der Countdown läuft dort nicht weiter.
+Die originalen beiden Stereokanäle werden ohne zusätzliche räumliche Simulation
+mit 32 kHz als native VADPCM-Samples stückweise aus der ROM gelesen.
+Keine neue Actor-Instanz, kein entfernter Gegner, keine vergrößerte Audio-Heap.
+Rund 322 KiB Sampledaten in der ROM. Temporärer Soundfont24 2144→2592 Byte,
+Sequenz91 4400→4464 Byte; beide passen in ihre vorhandenen temporären Caches.
+Zwei bestehende Audiostimmen werden während der Aufnahme genutzt.
+
+Gezielte Tests mit RMG0.9.0 / Mupen64Plus2.6.0, GLideN64/HLE, 4 MiB:
+- Native Dateiauswahl → Schattentempel, vollständige Stereo-Klopfaufnahme,
+  Inventar öffnen/schließen, Kollision unverändert, Link hat weiterhin Boden.
+- Reguläre Zufallsauslösung ohne veränderten Countdown in derselben ROM.
+- DEBUG-Schattentempel sowie Normal-Brunnen, Dodongos Höhle, Feuertempel:
+  Dateiauswahl, Inventar öffnen/schließen, Kollision/Boden/Objektbank/Grafikpuffer.
+  Keine verweigerten Actor- oder Objektzuweisungen in diesen Fällen.
+- Brunnen: Shadow-Klopfzähler bleibt null trotz geteilter Hintergrundsequenz.
+- Gemessener gemeinsamer Audio-Cache weiterhin 432 Byte frei, DMA56, maximal
+  14 aktive von 23 reservierten Stimmen im Videotest, bis zu 20 im längeren
+  Test der regulären Zufallsauslösung.
+  Baseline-Flag 0x1000031 besteht bereits in V108 und bleibt unverändert.
+  Dies ist kein schlimmstmöglicher Kampf-Stresstest.
+- Direkter C-Test des tatsächlichen Schedulers: 300000 Updates, 137 zufällige
+  Abstände, keine Überlappung; Sperren und Abbruchbedingungen geprüft.
+- Beide Stereosamples im nativen Mix an identischer Position nachgewiesen;
+  keine gemessene Übersteuerung. Musik bleibt in der Aufnahme enthalten.
+- Beide BPS unabhängig auf die saubere deutsche PAL1.0-Basis angewandt und
+  bitgleich mit den geprüften Normal-/DEBUG-ROMs; N64-Prüfsummen korrekt.
+- Erneutes Generieren der Produktionsquellen verändert die geprüften Quellen
+  nicht; V108-Schwertbalance bleibt erhalten.
+
+Die MP4 stammt aus dem Emulator mit echtem Spielton. Nur für diese Vorführung
+wurde der Countdown im RAM verkürzt. Im Patch laufen die normalen Zufallszeiten.
+Kopfhörer/Stereo verwenden, um den Wechsel zwischen links und rechts zu hören.
+
+Grenzen: gezielte Tests, kein erneuter kompletter Durchlauf und kein neuer Test
+auf Project64 oder echter N64-Hardware. Die 44 Farmtexte wurden auf Seitenmaß,
+Puffer und Steuerbefehle geprüft, nicht alle einzeln im Spiel durchgesprochen.
+BPS jeweils auf die unveränderte deutsche PAL1.0-ROM anwenden, nicht auf V108.

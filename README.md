@@ -1,3 +1,7 @@
+## V109 – Klopfen im Schattentempel und Farmtexte
+
+Normal-/DEBUG-Patch, MP4 mit echtem Spielton, Farmtexte und gezielter Prüfbericht liegen im Hauptverzeichnis. BPS auf die saubere deutsche PAL1.0-Basis anwenden. Keine zusätzlichen Actors oder Gegnerentfernungen.
+
 ## V108 – Biggoron-Schwert und Emulatorvergleich
 
 - [Normal-Patch V108](Mr_Burns_Mr_Bean_DE_PAL10_Emulatorcheck_Biggoron_V108.bps)

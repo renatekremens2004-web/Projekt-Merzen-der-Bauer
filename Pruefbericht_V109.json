@@ -1,0 +1,160 @@
+{
+  "version": "V109",
+  "changes": [
+    "44 German Lon Lon Ranch messages, native choices/events/continuations retained",
+    "Shadow Temple native stereo cartridge-streamed knocking, existing temporary font24 and channel14, no new actors or enemy removals"
+  ],
+  "patches": {
+    "base_sha256": "f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7",
+    "builds": {
+      "normal": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_Klopfen_Farmtexte_V109.bps",
+        "bytes": 67108864,
+        "rom_sha256": "ca2d4c8c87929000fb9ee24d8a8fcd02d22edca92df7d7f0cfafa043538ebfa8",
+        "patch_bytes": 30540878,
+        "patch_sha256": "ad76e6cf4e585d4e600a6b4f9c6c26c00afb9f7e83d96719a4ae970e583522b7",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      },
+      "debug": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Klopfen_Farmtexte_V109.bps",
+        "bytes": 67108864,
+        "rom_sha256": "5a96064a62b79701976783ee929bfebf6e1c35beef24676b83000a827cc7a3fb",
+        "patch_bytes": 30716119,
+        "patch_sha256": "653db09d2b3a158382b5c66d5f9409688f94fc08d00886250bf04d2b73b6bc34",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      }
+    }
+  },
+  "tests": {
+    "regression": [
+      {
+        "mode": "normal",
+        "scene": 8,
+        "passed": true,
+        "log": "normal-8.log"
+      },
+      {
+        "mode": "debug",
+        "scene": 7,
+        "passed": true,
+        "log": "debug-7.log"
+      },
+      {
+        "mode": "normal",
+        "scene": 1,
+        "passed": true,
+        "log": "normal-1.log"
+      },
+      {
+        "mode": "normal",
+        "scene": 4,
+        "passed": true,
+        "log": "normal-4.log"
+      }
+    ],
+    "native_audio": {
+      "native_stereo_verified": true,
+      "reference": "native VADPCM decode; corrected PAL AI rate; full background music retained",
+      "channels": [
+        {
+          "channel": 0,
+          "offset_seconds": 28.806625,
+          "correlation": 0.11082946406404083,
+          "gain": 0.3269196125113013
+        },
+        {
+          "channel": 1,
+          "offset_seconds": 28.806625,
+          "correlation": 0.12240048181901195,
+          "gain": 0.3156662318184826
+        }
+      ],
+      "peak": 0.80810546875,
+      "clipped_samples": 0
+    },
+    "texts": {
+      "messages": 44,
+      "max_line_pixels": 210,
+      "max_compiled_message_bytes": 620,
+      "compiled_lengths": {
+        "0315": 32,
+        "0316": 32,
+        "2000": 504,
+        "2001": 224,
+        "2002": 200,
+        "2003": 88,
+        "200D": 220,
+        "201F": 124,
+        "2025": 92,
+        "2030": 468,
+        "2033": 140,
+        "2035": 408,
+        "2036": 152,
+        "2037": 156,
+        "2039": 32,
+        "203A": 156,
+        "203B": 176,
+        "203C": 204,
+        "203D": 64,
+        "203E": 100,
+        "203F": 108,
+        "2045": 180,
+        "2047": 328,
+        "2049": 184,
+        "204A": 60,
+        "204C": 620,
+        "204E": 88,
+        "2050": 64,
+        "2051": 244,
+        "2052": 84,
+        "2055": 108,
+        "2056": 208,
+        "2059": 160,
+        "205F": 72,
+        "207E": 516,
+        "207F": 268,
+        "2081": 156,
+        "2085": 148,
+        "2087": 48,
+        "2088": 184,
+        "2089": 92,
+        "208A": 324,
+        "208B": 196,
+        "208F": 340
+      },
+      "reapply_idempotent": true
+    },
+    "scheduler": {
+      "passed": true,
+      "checks": [
+        "blocked 1",
+        "blocked 2",
+        "blocked 3",
+        "blocked 4",
+        "blocked 5",
+        "blocked 6",
+        "blocked 7",
+        "blocked 8",
+        "blocked 9",
+        "cancel 1",
+        "cancel 2",
+        "cancel 3",
+        "cancel 4",
+        "cancel 5",
+        "cancel 6",
+        "cancel 7",
+        "300000 gameplay updates; 137 non-overlapping randomized intervals"
+      ],
+      "min_trigger_gap_ticks": 929,
+      "max_trigger_gap_ticks": 3221
+    },
+    "native_random_timer": true
+  },
+  "limits": [
+    "Targeted tests on RMG 0.9.0 / bundled Mupen64Plus core 2.6.0 / GLideN64 / HLE RSP / 4 MiB; not a new complete playthrough or Project64/hardware verification.",
+    "Video countdown shortened through test-only RAM change; released ROM uses normal random waits.",
+    "44 message layouts validated with longest player name; not every farm dialogue manually played."
+  ]
+}

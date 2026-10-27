@@ -1,0 +1,559 @@
+### 0315
+
+Seite 1
+Die Super Mario Super Farm
+
+### 0316
+
+Seite 1
+Die Super Mario Super Farm
+
+### 2000
+
+Seite 1
+Ich habe dich damals gar nicht nach
+deinem Namen gefragt. Wie heißt du?
+Ah, du heißt {name}.
+
+Seite 2
+Du bist auf dieser Farm
+selbstverständlich immer willkommen.
+Du bist natürlich auch willkommen,
+auf dieser Farm anzupacken.
+
+Seite 3
+Erwarte aber keine gute Bezahlung.
+Das ist ja, ist so eine Sache auf
+unserer Farm.
+
+Seite 4
+Franky wird auch gar nicht so gut
+vergütet, finde ich, aber das ist ihm
+egal, weil Franky ist halt einfach eine
+Ehrenheugabel.
+
+Seite 5
+Eine ehrenhafte Heugabel, muß man da
+nochmal präziser ausdrücken.
+
+### 2001
+
+Seite 1
+Wie geht es Epona? Ich hoffe, du
+hast immer genug Karotten dabei, um
+sie zu füttern.
+
+Seite 2
+Alternativ geht natürlich auch
+anderes Gemüse, aber füttere sie
+bitte nicht und ich wiederhole nicht
+mit Fastfood. Sie ist ein Pferd.
+
+### 2002
+
+Seite 1
+Du und Epona, ihr seid ein Herz und
+eine Seele, so wie mein Vater und
+mein Onkel, die sich auch manchmal
+die Super Mario Brüder nennen.
+
+Seite 2
+Das tun sie, weil der Nachname von
+ihnen Mario ist.
+
+### 2003
+
+Seite 1
+Darf ich dich zu einer gediegenen
+Runde Hindernisparcours einladen?
+
+Seite 2
+
+
+Ja!
+Nein!
+
+### 200D
+
+Seite 1
+Mamma mia! Macht den Mario,
+schwingt die Arme auf und ab, setzt
+euch jetzt in Trab. Super Mario einen
+Schritt vor und noch einmal.
+
+Seite 2
+Jetzt tanzt den Mario alle
+gemeinsam, meine Freunde. So geht's.
+Das ist der Mario.
+
+### 201F
+
+Seite 1
+Juchu! Juhu! Ich sag dir Bescheid,
+wenn deine Reitzeit um ist. Bis dahin
+genieße jede wunderbare Sekunde und
+hab Spaß.
+
+### 2025
+
+Seite 1
+Haha! Luigi Time! Es ist jetzt Zeit
+vom Pferd abzusteigen. Ich hoffe, du
+hattest Spaß.
+
+### 2030
+
+Seite 1
+Bingo! Ho ho ho ho! Mario ist jetzt
+schon länger nicht mehr aufgetaucht.
+Deswegen liegt es an mir, Luigi, diese
+Farm zu leiten. Luigi Time!
+
+Seite 2
+Luigi Number One! Ich kümmere mich
+hier um alles, während Mario in
+Kakariko vollkommen entspannen kann.
+Ich sehe überall neue Abenteuer.
+
+Seite 3
+Friedrich Merz versucht zwar, uns
+das Leben schwer zu machen, aber
+nicht mit Luigi. Juchu! Here we go!
+
+Seite 4
+Möchtest du eins unserer Pferde
+reiten? Ich würde mich riesig freuen.
+
+### 2033
+
+Seite 1
+Ah, das ist ärgerlich. Das ist
+natürlich sehr ärgerlich. Dir fehlen da
+ein paar Rubine. Komm wieder, wenn
+du ein bißchen reicher bist.
+
+### 2035
+
+Seite 1
+Geh langsam an die Seite des
+Pferdes. Mit [A] steigst Du auf. Mit
+dem [Control-Pad] trabst Du.
+
+Seite 2
+Im Galopp treibst Du das Pferd mit
+[A] an.Für ein Hindernis reitest Du
+gerade darauf zu und setzt kurz
+davor [A] ein.
+
+Seite 3
+Wundervoll!Ist der Winkel zu spitz,
+verweigert das Pferd. Es paßt eben
+auf Euch beide auf.
+
+Seite 4
+Sehr verantwortungsbewußt!Halte an
+und drücke [A], um abzusteigen. Viel
+Spaß! Ich bin jetzt schon stolz auf
+Dich!
+
+### 2036
+
+Seite 1
+Mit der Zielerfassung kannst du vom
+Pferd aus mit mir sprechen. Möchtest
+du deine Reitstunde beenden?
+
+Seite 2
+
+
+Nein, ich will reiten!
+Ja, es ist genug!
+
+### 2037
+
+Seite 1
+Halte an und drücke [A], wenn Du
+absteigen willst. Du kommst mir so
+bekannt vor.
+
+Seite 2
+Vermutlich strahlst Du einfach diese
+wunderbare Gewinnerenergie aus!
+
+### 2039
+
+Seite 1
+Okay, dann ein anderes Mal.
+
+### 203A
+
+Seite 1
+Du bist ein Gewinner, let's a
+go!!Wahoo! Ich kann meine Freude
+kaum zurückhalten! So ein tolles
+Rennen!
+
+Seite 2
+Ich möchte es sofort noch einmal
+erleben!
+
+### 203B
+
+Seite 1
+Wahoo! Du hast gegen mich
+gewonnen! Das ist ja mega cool.
+
+Seite 2
+Ihr seid ein starkes Team, so wie ich
+und mein Bruder, den ich sehr
+respektiere. Mario und Luigi Number
+One!
+
+### 203C
+
+Seite 1
+Juchu! Du hast wieder gewonnen. Du
+kannst jederzeit gerne wiederkommen,
+wenn du ein Rennen starten
+möchtest.
+
+Seite 2
+Und ich mache mal kurz dieses Tor
+zu, damit Epona nicht wegläuft. Das
+wäre ja schade.
+
+### 203D
+
+Seite 1
+Wahoo! Du warst klasse! Diesmal
+bekomme ich die 50 Rubine.
+
+### 203E
+
+Seite 1
+Luigi Number One! Das war ein
+super Rennen. Ich habe gewonnen.
+Nächstes Mal gewinnst bestimmt du.
+
+### 203F
+
+Seite 1
+Luigi Time! Ich habe die ganze Arbeit
+für mich. Und Franky die Heugabel ist
+natürlich auch mit dabei.
+
+### 2045
+
+Seite 1
+Mamma mia! Mario ist so eine
+Schlafmütze. Der ist jetzt aber
+wieder zurück. Natürlich darf er sich
+immer gerne ausruhen.
+
+Seite 2
+Aber wir müssen auch dem Ernst des
+Lebens nachgehen.
+
+### 2047
+
+Seite 1
+Hey, du bist doch der feine Junge
+vom Schloß. Ich danke dir, daß du
+meinen Vater Super Mario gefunden
+hast.
+
+Seite 2
+Hast du die Prinzessin im Schloß
+gesehen? Ja cool, mein Vater kam
+sofort zurück und ist jetzt wieder
+hart am Arbeiten.
+
+Seite 3
+Ich würde dir gerne jemanden
+vorstellen. Das ist Epona. Sie mag
+Musik und ist ein Pferd.
+
+### 2049
+
+Seite 1
+Dieses Lied hat meine Mutter
+geschrieben.
+
+Seite 2
+Sie ist mittlerweile verstorben und
+ich vermisse sie manchmal, obwohl
+ich damals noch zu jung war, um
+mich an ihr Gesicht zu erinnern.
+
+### 204A
+
+Seite 1
+Oh, es sieht aus, als würde Epona
+dich mögen. Wie schön!
+
+### 204C
+
+Seite 1
+Oh, Besuch von außerhalb. Das ist ja
+schön. Seit Friedrich Merz Hyrule
+beherrscht, ist einiges sehr schwer
+geworden.
+
+Seite 2
+Hier auf der Farm tun wir unser
+Bestes, um weiterhin durchzuhalten.
+Da bekommen wir auch Hilfe von
+Franky, der sprechenden Heugabel.
+
+Seite 3
+Auf den kann man sich immer
+verlassen.
+
+Seite 4
+Aktuell leitet Luigi die Farm, denn
+Mario oder besser gesagt mein Vater
+ist jetzt schon länger in Kakariko
+geblieben.
+
+Seite 5
+Es hat sich vieles verändert in den
+letzten Jahren. Luigi hat eine Art, ja,
+Krise, die man hat,
+
+Seite 6
+wenn man ein gewisses Alter
+erreicht und deswegen versucht er
+sich aktuell an einem neuen
+Kleidungsstil.
+
+### 204E
+
+Seite 1
+Zzz... Mamma mia... Zzz... Let's go...
+Zzz... Spaghetti... Zzz... Brooklyn...
+Zzz...
+
+### 2050
+
+Seite 1
+Was auch immer du tust, leg dich
+nicht mit den Hühnern an.
+
+### 2051
+
+Seite 1
+Du kennst das Lied von meiner
+Mutter? Hast du sie gekannt?
+Moment mal, du bist doch der Junge
+von damals.
+
+Seite 2
+Das ist jetzt schon sieben Jahre her.
+Daran erinnere ich mich noch und das
+obwohl wir uns im Leben erst
+zweimal begegnet sind.
+
+### 2052
+
+Seite 1
+Epona liebt dieses Lied. Du scheinst
+eine besondere Verbindung zu Epona
+zu haben.
+
+### 2055
+
+Seite 1
+Here we go! Wir arbeiten jeden Tag
+tüchtig auf dieser Farm. Für Friedrich
+Merz wäre das ein Kulturschock.
+
+### 2056
+
+Seite 1
+Luigi ist ein guter Mann mit einem
+Herz aus Gold. Es gibt so einen
+Typen, der nennt sich Waluigi.
+
+Seite 2
+Mega seltsam, daß der meinen Onkel
+nachmacht. Echt ein komischer Kerl.
+Für wen hält er sich eigentlich?
+
+### 2059
+
+Seite 1
+Du bist jederzeit auf der Super Mario
+Super Farm willkommen. Du bist
+number one. Viel Spaß auf deinem
+Abenteuer.
+
+Seite 2
+Friedrich Merz macht unsere Farm
+kaputt.
+
+### 205F
+
+Seite 1
+Hallo! Wie schön, daß Du da bist!
+Wahoo! Danke für das tolle Rennen.
+
+### 207E
+
+Seite 1
+Mamma mia, bin ich schon wach? Oh,
+du bist doch der Junge aus dem
+Wald. Ich bedanke mich nochmal, daß
+du mich aufgeweckt hast.
+
+Seite 2
+Durch Friedrich Merz ist das Futter
+von unserer Farm teurer geworden.
+
+Seite 3
+Ich muß mal an dieser Stelle ganz
+ehrlich sein, es wird immer
+schwieriger zu überleben.
+
+Seite 4
+Deswegen versuche ich hier so ein
+bißchen Geld nebenbei zu verdienen
+und würde dir ein spannendes Spiel
+anbieten.
+
+Seite 5
+Du mußt drei Superhühner finden und
+die mische ich unter die gewöhnlichen
+Hühner.
+
+Seite 6
+
+
+Ja!
+Nein!
+
+### 207F
+
+Seite 1
+It's a me, schon wieder wach, mein
+fleißiger Freund aus dem Wald, Lust
+auf eine neue Runde?
+
+Seite 2
+Ich mische drei Super Mario Hühner
+unter die anderen Hühner.
+
+Seite 3
+Finde sie innerhalb der vorgegebenen
+Zeit und es erwartet dich eine
+nützliche Belohnung.
+
+Seite 4
+
+
+Ja!
+Nein!
+
+### 2081
+
+Seite 1
+Die Zeit ist um. Mamma mia! Das
+war eine knifflige Runde!Meine
+Super-Hühner sind großartige
+Versteckspieler.
+
+Seite 2
+Kommt her, Ihr gefiederten
+Bonus-Level!
+
+### 2085
+
+Seite 1
+Ja, möchtest du wieder an meinem
+verrückten Superhuhn-Superspiel
+mitspielen? Finde wieder alle drei
+Superhühner in 30 Sekunden.
+
+Seite 2
+
+
+Ja!
+Nein!
+
+### 2087
+
+Seite 1
+Ich biete dir gerne Super Mario Milch
+an.
+
+### 2088
+
+Seite 1
+Wenn du jemals erwachsen bist, dann
+komm gerne auf die Farm für ein
+Praktikum.
+
+Seite 2
+Ist leider unbezahlt, aber du darfst
+sehr viel Milch trinken, direkt aus
+dem Euter, wenn du willst.
+
+### 2089
+
+Seite 1
+Hier hast du frische Lon Lon-Milch.
+Die ist so frisch, die ist nicht mal
+erhitzt worden.
+
+### 208A
+
+Seite 1
+Ich würde dir ja gerne frische Super
+Mario Milch geben, aber du hast keine
+leere Flasche. Ich kann sie dir ja
+schwer in die Hosentasche reinfüllen.
+
+Seite 2
+Also Plastiktüte würde vielleicht auch
+gehen, also vor allem so ein
+Gefrierbeutel, ja, das kann man sich
+theoretisch vorstellen,
+
+Seite 3
+aber eine Flasche wäre mir schon
+lieber.
+
+### 208B
+
+Seite 1
+Mamma mia! Ich bin wach!Was
+gibt's?{name}! Malon ist
+draußen.
+
+Seite 2
+Oder suchst Du ein neues
+Super-Huhn-Abenteuer?Was darf es
+sein?
+
+Seite 3
+
+Lon Lon-Milch - 30 Rubine
+Super-Huhn-Suchen - 10 Rubine
+Zurück
+
+### 208F
+
+Seite 1
+Wow, du hast es geschafft! Wir
+haben dir jetzt eine Kuh geschenkt.
+Das kannst du nicht mehr aufhalten.
+Die ist jetzt schon auf dem Weg.
+
+Seite 2
+Die wird dir hingeliefert. Irgendjemand
+trägt sie dann dein komisches
+Baumhaus hoch und da ist jetzt halt
+einfach eine Kuh. Die ist da jetzt.
+
+Seite 3
+Das ist jetzt halt so. Haben wir doch
+gerne gemacht.
