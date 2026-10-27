@@ -1,3 +1,14 @@
+# Aktueller Stand: V106 – Abschlussprüfung
+
+- [Normal-Patch für den regulären Durchlauf](Mr_Burns_Mr_Bean_DE_PAL10_Abschlusstest_V106.bps)
+- [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Abschlusstest_V106.bps)
+- [Prüfbericht mit Umfang und Grenzen](Abschlusspruefung_V106.txt)
+- [Gesamter deutscher Dialog ohne Maskenreaktionen](Gesamter_Spieldialog_DE_V106_ohne_Maskenreaktionen.txt)
+
+V106 verbessert ausschließlich die Seitenaufteilung von 62 Texten bei unverändertem Wortlaut. Umfangreiche Prüfungen mit 4 MiB RAM, Boss-Belohnungsketten und Credits; kein vollständiger manueller Spieldurchlauf. Beide Patches jeweils auf eine saubere PAL-1.0-ROM anwenden. Details und Prüfnachweise stehen im Bericht.
+
+---
+
 ## V88 — Tempel entlastet, Kokiri-Gegner reduziert und Handhelds versetzt
 
 Feuertempel: ein Rollfels im Felslabyrinth und beide Raubschleime entfernt. Schattentempel: eine große Skulltula und zehn Auslöser automatischer Wandtexte entfernt. Pfade, übrige Gegner, Fallbeile und Rätselmechaniken bleiben erhalten. Bodenplatten-Kämpfe/Raumfreigaben, Vogelstatue, frühere Textstellen und Inventar-Rückkehr in Normal/DEBUG mit 4 MiB geprüft. Kokiri-Wald: alle drei feindlichen adulten Deku-Spucker und fünf Pflanzen altersabhängig entfernt. GBC/GBA auf die geladene Seite des Tunnels versetzt; Vorwärtsweg mit normaler Kamera, Inventar-Rückkehr und erneutes Betreten als Kind und Erwachsener geprüft. Pieps erscheint ausschließlich als Kind. Kumulativ einschließlich V87.

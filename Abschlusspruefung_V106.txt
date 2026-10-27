@@ -1,0 +1,62 @@
+V106 – Abschlussprüfung der modifizierten Ocarina-of-Time-Version
+Stand: 27. Oktober 2026
+
+Ergebnis und Grenzen
+-------------------
+In den geprüften Abläufen sind keine bekannten Durchspiel-Blocker übrig geblieben. Die früher auffälligen Inventar-/Boden-/Ladeprobleme wurden in gezielten Wiederholungstests nicht erneut ausgelöst. Das ist eine umfangreiche automatisierte Emulatorprüfung mit gezielt vorbereiteten Spielständen, KEIN lückenloser manueller Durchlauf eines neuen Spielstands bis zum Endboss. Deshalb ist es keine Garantie für sämtliche möglichen Spielzustände.
+
+Für den geplanten normalen Spieldurchlauf: den Normal-Patch benutzen. Normal und DEBUG sind jeweils vollständige kumulative BPS-Patches auf eine saubere Ocarina-of-Time-PAL-1.0-ROM, nicht auf eine bereits gepatchte ROM. Beim Wechsel auf V106 das Spiel neu starten; keine alten Emulator-Savestates laden. Ein regulärer neuer Spielstand ist der passende Ausgangspunkt für den geplanten Durchlauf.
+
+Was V106 ändert
+---------------
+Nur die Seitenaufteilung von 62 deutschen Text-IDs wurde verbessert. Keine Wörter, Sätze, Pointen oder Gegenstands-/Questlogik geändert. Zeichenfarben, Fortsetzungen, Auswahltexte und relevante Ablaufsteuerung sind erhalten. Vergleich sämtlicher 2.233 deutschen Texte und aller übrigen Sprachfassungen bestanden. Lange Sätze bekommen bei Bedarf eine eigene Seite; absichtliche Pausen bleiben bestehen. Das ist keine automatische Neuformatierung jedes Textes.
+
+Alle kompilierten deutschen Meldungen passen in die nativen Textpuffer. Größter geprüfter Rohtext: 1.180 Bytes; konservative größte dekodierte Seite: 155 Zeichen, bei Puffergrenzen von 1.280 beziehungsweise 200. Der zentrale Dialoghelfer erzeugt denselben Stand erneut, ohne Änderungen. Die vollständige TXT-Liste enthält 2.015 Text-IDs auf 3.688 Seiten, ohne 218 Maskenreaktions-IDs; normale Maskenquest-Gespräche bleiben enthalten.
+
+Gebiete, Räume und Speicher
+-------------------------
+Mupen64Plus mit 4 MiB RDRAM, also ohne Expansion Pak. 521 geplante Raum-/Alterskonstellationen: 519 abgeschlossene Matrixeinträge plus zwei separat korrigierte Prüfungen mit dem tatsächlichen Spieleingang. Von den 519 Einträgen:
+  418: Inventar geöffnet und geschlossen, Kollision vorher/nachher verglichen.
+   46: Laden geprüft; Menü wegen laufendem Spielzustand nicht verfügbar.
+   25: Nur Laden geprüft, überwiegend Bossbereiche.
+    4: Automatischer Szenenübergang.
+   26: Angeforderte Testkonstellation wurde vom Spiel auf einen anderen Raum/Altersaufbau umgeleitet. Diese zählen nicht als bestandener Test genau des angeforderten Raumes.
+Alle 519 abgeschlossenen Ressourcenprüfungen bestanden. Zusätzlich 36 Endspiel-Konstellationen bei Tag/Nacht für wichtige Außenbereiche und Figuren. Wario und Mystery Machine in Kinder-Kakariko bei Tag und Nacht geladen; der neue Kokiri auf Hyrule-Feld nach dem Waldtempel geladen und ansprechbar.
+
+Geprüft wurden Objektbankgrenzen und 19 Objektplätze, abgewiesene Actor-/Objekt-Allokationen, Grafikbefehls-/Matrixpuffer und bei Menürückkehr der unveränderte statische Kollisionsinhalt. Statische Prüfung von 1.815 Szenenlisten: keine falsche Listengröße. 610 Objektlisten in beiden Altersvarianten geprüft: kein Überlauf einer unterstützten Konstellation und keine Liste über 19 Plätzen. Zwei theoretische Überschreitungen betreffen ausdrücklich unbenutzte Alterskombinationen, nicht den normalen Spielweg.
+
+Gezielte spielbare Prüfungen
+---------------------------
+Normal und DEBUG: 26 Wiederholungsgruppen mit Inventar/Equippen, Bodenhalt und Raumwechseln in Dodongos Höhle, Brunnen und Steppe; außerdem Feuertempel-, Schattentempel-, Vogel-, Habeck- und Goronen-Abläufe. Drei ursprüngliche Normal-Testfehler waren falsche Screenshot-Dateipfade; die entsprechenden Game-Boy-Tests wurden erneut erfolgreich ausgeführt.
+
+Dodongos Höhle: Statuen/blauer Schalter, Gitter und echter Übergang zum Echsenraum; Pieps/Käfig als Kind und Altersausschluss als Erwachsener; Pieps bei König Dodongo. Brunnen: wiederholte Raumwechsel und Silberrubin-Sammelmechanik mit Öffnen des Gitters trotz entfernter ReDeads. Game Boy Color und Advance über echte Tunnelübergänge, beim Advance vor und nach dem Waldtempel. Feuertempel: entfernte Felsen/Raubschleime, Bodenplatten-Raumabschluss und Türen; beide Flammenderwisch-Räume mit beginnender Kampfanimation und Inventarrückkehr; Hammer-Truhe einschließlich tatsächlichem Hammer-Erhalt. Schattentempel: entfernte automatische Hinweise, Wahrheitstatue und verbliebene Hindernisse; Bongo-Bongo/Pieps-Eingriff mit nativer Todes-/Belohnungsfortsetzung.
+
+Alle acht Hauptboss-Belohnungsketten: vom besiegten Boss durch Portal, Stein/Amulett- und Weisen-Sequenz bis zurück zur frei steuerbaren Spielwelt. Diese Teststände starten mit bereits besiegtem Boss; sie ersetzen keine acht komplett gespielten Kämpfe. Die neue dreiseitige Wasser-Sheik-Fortsetzung wurde zusätzlich im endgültigen Build geprüft.
+
+Neuer Spielstand: tatsächlich neu angelegte SRAM-Datei, Namen eingegeben, normales Intro bis Navi und freie Kinder-Link-Steuerung samt Inventar; drei Herzen und keine Debug-Ausrüstung. Habeck: Nein-/Ja-Zweige, drei Geschenke, Rückkehr zur Zitadelle. Kakariko-Dämon: beide Szenenteile, drei Soldaten, 23 Schüsse (9/8/6), passende drei Sounds, kein Spielerschaden, Ende mit Nocturne und Entfernung der Szenen-Soldaten. Finale: Einsturz, Musik-/Triangle-Guy-Übergänge, Ansprache und anschließende Ganon-Verwandlung. Komplette Credits-Kette mit 19 Szenenübergängen und Endspiel-Questflags bis zum Kinder-Schlosshof.
+
+Titelbildschirm: Einblendung, vier Zyklen, die drei Attract-Demos, Musikfortschritt/Loop und Start ins orange Dateimenü. Beschleunigung mit Eisenstiefeln, Unterwasserschwert, beschleunigtes Kisten-/Blockschieben geprüft. Schadensschutz zusätzlich mit 6.912 Fällen am tatsächlich verwendeten C-Code geprüft; dies ist ein Host-Test, keine Serie von ROM-Kämpfen. Licht-/Wallace-/Wassergewand halbieren, Schattengewand viertelt.
+
+Zusätzliche finale Textproben: Hammer-Fund, Kokiri auf der Steppe, Tauchspiel und Angelspiel bis Auswahl/Gesprächsende; Wasser-Sheik bis Rückkehr zur Spielwelt. Nicht jeder NPC-Dialog und nicht jede Nebenquest wurde einzeln ausgespielt. Die Raum-/Objektprüfung belegt Ressourcenverträglichkeit, nicht jede Animation oder jede zufällige Gaster-Begegnung.
+
+Einordnung auffälliger Testversuche
+---------------------------------
+Ungültig hergeleitete Einstiegspunkte in Bongo Bongos Arena und vor der Zitadelle führten in frühen Testläufen zu einem Absturz/Voidausgang. Wiederholung mit nativem Eingang bestand; dafür wurde kein Spielcode geändert. Weitere falsche Bodenhöhen, Raum-Clear-Bits, die falsche Seite einer Truhe, ein entfernter Kokiri-Teleport und ein zu früher Start-Knopfdruck im Titeltest wurden als Testaufbau korrigiert. Der erste lange Titeltest überschritt unter paralleler Emulatorlast sein Zeitlimit; der endgültige Test bestand. Diese frühen Versuche werden nicht als erfolgreiche Spieletests mitgezählt.
+
+Build-Nachweis
+--------------
+Die breite Raum- und Gameplay-Prüfung lief zunächst auf dem ersten V106-Build. Danach kamen weitere reine Seitenkorrekturen hinzu. Binärer Vergleich BEIDER finalen Builds: sämtliche Actor-Overlays, Modelle, Szenen, Audio und ausführbarer Hauptcode sind gegenüber dem jeweils geprüften ersten Build bytegleich. Änderungen liegen nur in deutscher Textbank, deren Zeigertabelle, ROM-DMA-Adressen und Header-Prüfsumme. Die abschließenden Textproben sowie die Flammenderwisch-Prüfungen liefen auf dem finalen Normal-Build. Die Quellen wurden zum Schluss auf Normal zurückgestellt.
+
+Beide BPS mit Flips erzeugt, mit RomPatcher.js unabhängig auf die saubere PAL-1.0-Basis angewendet und bytegenau mit dem jeweiligen Build verglichen. ROM-Prüfsummen und 64-MiB-Größe stimmen. Dieser Download enthält Patches und Dokumentation, keine ROMs oder Spielstände.
+
+Nicht abgedeckt
+--------------
+Kein zusammenhängender manueller neuer Durchlauf bis zum Abspann; nicht sämtliche Kombinationen aus Reihenfolge, Nebenquests, Speichern/Laden und zufälligen Ereignissen; kein Original-N64-Hardwaretest. Im geprüften Umfang ist kein offener Produktionsfehler bekannt. Eine uneingeschränkte Zusage „jeder mögliche Ablauf funktioniert“ wäre durch diese Tests nicht belegt.
+
+SHA-256
+-------
+Saubere PAL-1.0-Basis: f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7
+normal ROM: f6b926dff6bcbed6f5d964b00df8c370b5097fa7cb868c57837376807b6f24fc
+Mr_Burns_Mr_Bean_DE_PAL10_Abschlusstest_V106.bps: 8005807e24655d63b9a512f3d4f7a2111386ce2d5c14ad96b309c3f4d8623294
+debug ROM: a3a7425e80bb21b6890e52e631b1a055c934ea7cfe9276a46ee4761655b202e3
+Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Abschlusstest_V106.bps: 58b91102ac5dc1008cf77ddeef46f95e3e2068f4d8683564b4a5176be1c3b3b2

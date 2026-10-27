@@ -1,0 +1,201 @@
+{
+  "release": "V106",
+  "date": "2026-10-27",
+  "conclusion": "Keine bekannten Durchspiel-Blocker in den geprüften Abläufen; kein vollständiger manueller Durchlauf.",
+  "continuous_manual_start_to_finish_playthrough": false,
+  "environment": {
+    "emulator": "Mupen64Plus / cached interpreter",
+    "native_rdram_bytes": 4194304,
+    "debug_features": 0
+  },
+  "matrix": {
+    "planned_cases": 521,
+    "completed_entries": 519,
+    "results": {
+      "pause-roundtrip": 418,
+      "load-only-menu-unavailable": 46,
+      "automatic-transition": 4,
+      "fixture-mismatch": 26,
+      "load-only": 25
+    },
+    "all_completed_resource_checks_passed": true,
+    "separately_corrected_native_entries": [
+      "18-HAKAdan_bs-0-adult -> native room 1",
+      "23-shrine-0-child -> native spawn"
+    ],
+    "late_world_day_night_cases": 36
+  },
+  "static_checks": {
+    "scene_list_lengths": 1815,
+    "mismatches": 0,
+    "object_lists": 610,
+    "age_evaluations": 1220,
+    "supported_overflows": 0,
+    "slot_overflows": 0,
+    "unsupported_configurations_over_pool": 2
+  },
+  "dialogues": {
+    "changed_ids": [
+      "0038",
+      "00D7",
+      "0130",
+      "0156",
+      "016C",
+      "0180",
+      "022B",
+      "0625",
+      "0629",
+      "1029",
+      "104A",
+      "1054",
+      "1068",
+      "1070",
+      "10B7",
+      "10C1",
+      "10DF",
+      "4002",
+      "4017",
+      "401B",
+      "401F",
+      "4027",
+      "4030",
+      "4031",
+      "403E",
+      "4043",
+      "404B",
+      "404E",
+      "4051",
+      "4053",
+      "406E",
+      "4070",
+      "407B",
+      "4093",
+      "40A1",
+      "40A3",
+      "600C",
+      "6064",
+      "6065",
+      "606C",
+      "6077",
+      "6088",
+      "701C",
+      "702C",
+      "70FC",
+      "71C7",
+      "71DA",
+      "71DB",
+      "71E6",
+      "71E7",
+      "7203",
+      "7204",
+      "7206",
+      "7207",
+      "720D",
+      "7210",
+      "7228",
+      "7231",
+      "7236",
+      "7238",
+      "723B",
+      "723A"
+    ],
+    "count": 62,
+    "wording_colors_controls_unchanged": true,
+    "other_languages_unchanged": true,
+    "messages_checked": 2233,
+    "max_raw_bytes": 1180,
+    "max_decoded_upper_bound": 155,
+    "source_sha256": "f52e7bd39da7363a7748666caf98acb3f79d71a880312e5fe4398ee5c5af9d54"
+  },
+  "native_final_text_probes": {
+    "Neuer Spielstand, Intro und freie Steuerung": [
+      "newgame-normal.log",
+      "NATIVE_NEW_GAME_PASSED"
+    ],
+    "Vollständige Credits-Kette mit Endspiel-Flags": [
+      "credits-late-normal.log",
+      "FULL_CREDITS_PASSED stages=19"
+    ],
+    "Titelbildschirm, Demos, Musik und Dateimenü": [
+      "extra93/qa-normal.log",
+      "SINGLE_TITLE_PASSED"
+    ],
+    "Kakariko-Verteidigung bis Nocturne": [
+      "defenders-normal.log",
+      "NATIVE_DEFENDERS_BOTH_PARTS_PASSED"
+    ],
+    "Hammer-Truhe, tatsächlicher Gegenstandserhalt": [
+      "final-talk5-hammer.log",
+      "FINAL_DIALOGUE_PASSED text=38"
+    ],
+    "Kokiri auf Hyrule-Feld, alle vier Textseiten": [
+      "final-talk7-mint.log",
+      "FINAL_DIALOGUE_PASSED text=7238"
+    ],
+    "Tauchspiel, native Auswahl und Gesprächsende": [
+      "final-talk2-diver.log",
+      "FINAL_DIALOGUE_PASSED text=4053"
+    ],
+    "Angelspiel, native Auswahl und Gesprächsende": [
+      "final-dialogue-fishing.log",
+      "FINAL_DIALOGUE_PASSED text=407b"
+    ]
+  },
+  "boss_reward_routes": [
+    "Deku-Baum",
+    "König Dodongo",
+    "Jabu-Jabu",
+    "Waldtempel",
+    "Feuertempel",
+    "Wassertempel",
+    "Schattentempel",
+    "Geistertempel"
+  ],
+  "boss_reward_fixtures_note": "Belohnungsketten beginnen mit besiegtem Boss; das sind keine acht vollständig gespielten Bosskämpfe.",
+  "legacy_checks": {
+    "normal_tasks": 26,
+    "debug_tasks": 26,
+    "normal_photo_path_only_failures_corrected": 3,
+    "final_outcome": "passed"
+  },
+  "host_damage_checks": {
+    "passed": true,
+    "cases": 6912,
+    "source_sha256": "532778147e6f6cac66bd7dbe954c75780401c527714cb380f31bd2f716dedaa3",
+    "header_sha256": "2787f7c52899b0985b34458e294152c76e6b91ec0e3fbb875e4189a1d351faf4",
+    "method": "Host compilation of actual current Health_ChangeBy and tunic macros; not a ROM combat test"
+  },
+  "patches": {
+    "base_sha256": "f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7",
+    "builds": {
+      "normal": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_Abschlusstest_V106.bps",
+        "bytes": 67108864,
+        "rom_sha256": "f6b926dff6bcbed6f5d964b00df8c370b5097fa7cb868c57837376807b6f24fc",
+        "patch_bytes": 30332411,
+        "patch_sha256": "8005807e24655d63b9a512f3d4f7a2111386ce2d5c14ad96b309c3f4d8623294",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      },
+      "debug": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Abschlusstest_V106.bps",
+        "bytes": 67108864,
+        "rom_sha256": "a3a7425e80bb21b6890e52e631b1a055c934ea7cfe9276a46ee4761655b202e3",
+        "patch_bytes": 30433618,
+        "patch_sha256": "58b91102ac5dc1008cf77ddeef46f95e3e2068f4d8683564b4a5176be1c3b3b2",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      }
+    }
+  },
+  "source_restoration": {
+    "normal_production_sources_restored": true,
+    "dialogue_preserved": true,
+    "dialogue_sha256": "f52e7bd39da7363a7748666caf98acb3f79d71a880312e5fe4398ee5c5af9d54"
+  },
+  "limitations": [
+    "Kein zusammenhängender manueller Durchlauf eines neuen Spielstands bis zum Endboss.",
+    "Nicht jedes Gespräch, jede Nebenquest, jede Animation oder zufällige Gaster-Begegnung einzeln ausgespielt.",
+    "Emulatorprüfung, kein Original-N64-Hardwaretest oder Nachweis identischer Leistung auf jedem Emulator."
+  ]
+}
