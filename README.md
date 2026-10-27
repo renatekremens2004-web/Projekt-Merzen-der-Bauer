@@ -1,3 +1,14 @@
+# Aktueller Stand: V107 – gezielter Nachtest und Fred-Korrektur
+
+- [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Nachtest_Fred_V107.bps)
+- [DEBUG-Patch](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Nachtest_Fred_V107.bps)
+- [Neue Lon-Lon-Farm-Textliste](Dialogliste_Lon_Lon_Farm_V107_Aktuell.txt)
+- [Zusätzlicher Prüfbericht](Nachtest_V107.txt)
+
+Nur Freds letzte Textseite entfernt; übriger Wortlaut und Gameplay unverändert. Zusätzliche Prüfungen der übrigen Eulenfälle, 30 Figurengespräche, Gaster, Zauberfreischaltung und regulärem Speichern/Neustart/Laden. V106 bleibt die Grundlage der umfangreichen Raum-/Credits-Prüfung. Kein vollständiger manueller Spieldurchlauf. Patches jeweils auf eine saubere PAL-1.0-ROM anwenden.
+
+---
+
 # Aktueller Stand: V106 – Abschlussprüfung
 
 - [Normal-Patch für den regulären Durchlauf](Mr_Burns_Mr_Bean_DE_PAL10_Abschlusstest_V106.bps)

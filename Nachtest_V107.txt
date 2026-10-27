@@ -1,0 +1,49 @@
+V107 – gezielter Nachtest, Fred-Korrektur und Lon-Lon-Farm-Texte
+
+Ergebnis
+--------
+Die hier zusätzlich geprüften Abläufe sind bestanden. Wie gewünscht wurden die bereits bestandenen Raum-/Credits-Matrizen aus V106 nicht noch einmal vollständig ausgeführt. Dieser Nachtest schließt konkrete Lücken: weitere Eulenbegegnungen, einzelne neue NPC-Gespräche, Gasters Annäherungsverhalten, die echte Zauberfreischaltung und reguläres Speichern/Laden. Es ist weiterhin kein zusammenhängender manueller Durchlauf des gesamten Spiels und keine Prüfung jeder möglichen Nebenquest-/Reihenfolge-Kombination.
+
+Eule – 12 zusätzliche Fälle mit 4 MiB RAM
+----------------------------------------
+Kakariko-Hinweis vor Zeldas Brief; Wegweisung Richtung Gerudotal und Hylia-See; alle drei Textvarianten am Zora-Fluß (ohne Salias Lied, mit Salias Lied, mit beiden Liedern); Verlorene Wälder vor Salias Lied einschließlich Wiederholen und anschließendem Beenden; Todesberg ohne Magie; Todesberg mit Magie samt echtem Mitflug bis Kakariko; erster und wiederholter Mitflug vom Hylia-See bis zur Hyrule-Steppe; letzter Rat beim Wüstenkoloss einschließlich 6079 -> 607A.
+
+Die Dialoge wurden mit nativer Textsteuerung durchlaufen. Geprüft wurden Puffergrenzen, Gesprächsende, Rückkehr aus der Gesprächskamera und die vorgesehenen Abflug-/Mitflug-Fortsetzungen. Beim Todesberg-Text ohne Magie bleibt die Eule absichtlich für die spätere Mitflug-Ansprache stehen. Die schon in V106 bestandenen Gespräche am Waldausgang, beim Schloß, nach Zeldas Brief und nach Salias Lied wurden nicht erneut ausgeführt; ihr Actor-Code ist im finalen Build bytegleich.
+
+30 einzelne neue Figurengespräche
+--------------------------------
+Shaggy, Velma, Daphne, Scooby und Fred im Brunnen; alle elf Starwalker-Auftritte (neun Hauptdungeons, Brunnen, Eishöhle); Kris, Susie und Ralsei; Pingu und Crazy Frog; Skipper, Kowalski, Private und Rico im Schloß; Franky auf der Farm als Kind und Erwachsener; Mr. Mackey im Kakariko-Gästehaus; Mr. Moseby am Hylia-See und das freundliche Skelett auf dem Schattentempel-Schiff.
+
+Jedes dieser Gespräche wurde nativ angesprochen und bis zum Ende durchgeblättert. Actor/Modell blieben geladen, Spielsteuerung kam zurück, Textpuffer paßten und die dekorativen Gespräche änderten keine Quest-/Raumrätsel-Flags. Die Modelle wurden dabei technisch auf Laden/Zeichnen geprüft; das ist keine neue vollständige visuelle Bewertung aller Posen oder Tanzanimationen.
+
+Gaster
+------
+16 Raumvisiten an den vier vorgesehenen Stellen im Schattentempel. Sowohl zufällige Abwesenheit als auch sichtbares Erscheinen beobachtet; in jedem der vier Räume mindestens einen sichtbaren Auftritt tatsächlich durch Näherkommen beendet. Keine Text-/Kollisionsinteraktion, keine Änderungen der Rätselschalter und keine abgewiesenen Objekt-/Actor-Ladevorgänge in diesen Prüfungen.
+
+Zustandswechsel und Speichern
+----------------------------
+Der minzgrüne Kokiri übergibt als Kind den Tempozauber nach 7231 tatsächlich mit Effekt und 7233. Danach wurde der Freischaltzustand geprüft, Steuerkreuz links aktiviert und deaktiviert das Tempo, und die zweite Ansprache zeigt 7232. Für den Test war Salias erstes Begrüßen bereits abgeschlossen, wie bei einer regulären späteren Ansprache im Wald.
+
+Der Soldat im Todeskrater zeigt bei der ersten Ansprache 7224 und bei der zweiten 7225 („Joe Mama!“). Seine wechselnde Ansprache wurde nativ durchlaufen. Bei der Auswertung mußte nur ein vom Testgenerator umbenannter Erkennungsmarker berücksichtigt werden; dafür wurde kein Spielcode geändert.
+
+Reguläres Speichern über Inventar -> B -> Ja, Inventar verlassen, Emulator vollständig beenden, neu starten und denselben Spielstand durch das echte Dateimenü laden: bestanden. Rubine (73), Queststand, Herzkapazität (10 Herzen) und Besitzflags von Licht-/Schattengewand stimmen nach dem Laden. Dieser Test benutzt einen vorbereiteten normalen Dateislot; er behauptet keinen neuen kompletten Spielverlauf bis zu diesem Stand.
+
+Testaufbau und Wiederholungen
+----------------------------
+Einige erste Anspracheversuche setzten den Testspieler neben ein begehbares Podest oder unter dessen Boden, in den Fluß oder näher an einen anderen Gesprächspartner. Diese Einstiege wurden auf echte Bodenflächen beziehungsweise passende Annäherungsrichtungen korrigiert und die betroffenen Gespräche erneut erfolgreich geprüft. Bei Jabu-Jabus Starwalker wurde ein normaler Stand nach Rutos erster Begegnung verwendet, damit deren vorrangige Zwischensequenz nicht den Ansprachetest übernimmt. Dafür wurde keine Figur verschoben und keine Produktionslogik geändert. Auch die automatisierte Speicherprüfung bekam einen korrigierten Pause-Menü-Feldversatz und ausreichend lange Tastendrücke. Fehlgeschlagene Testaufbauten zählen nicht als bestandene Abläufe; die JSON-Datei enthält die endgültig bestätigten Ergebnisse.
+
+Änderung an Fred
+---------------
+Nur die dritte Seite von 71BE wurde entfernt:
+„Eine Falle MIT einer Falle zu fangen, wäre so schön gewesen. Aber ohne Notizbuch? Das wäre unprofessionell.“
+Die ersten beiden Seiten bleiben wortgleich. Keine Ersatz-Pointe hinzugefügt. Freds jetzt zweiseitiges Gespräch wurde im fertigen Spiel geprüft. Alle anderen deutschen Meldungen und alle übrigen Sprachfassungen sind gegenüber V106 unverändert. Sämtliche 2.233 deutschen Text-IDs passen weiterhin in die nativen Textpuffer.
+
+Lon-Lon-Farm-Liste
+-----------------
+93 aktuelle Text-IDs, 223 Textbox-Seiten. Beide Zeitlinien, Wiederholungen/Auswahlen, Reiten/Rennen, Super-Hühner, Milch, Kühe, Schilder und Franky. Verbundene Mario-/Malon-Begegnungen und Farm-Erwähnungen außerhalb der Farm sind gekennzeichnet. Mr. Mackey ist als früherer verbundener Farm-Gast enthalten; sein regulärer Auftritt ist inzwischen im Gästehaus von Kakariko. Jimmy Neutron ist entfernt und nicht als Farm-Auftritt aufgeführt. Maskenreaktionen bleiben wie in der bisherigen Gesamttextliste ausgenommen. Die TXT-/Markdown-Fassung verwendet das gewohnte Text-ID-/Seitenformat und übernimmt den eingebauten Wortlaut unverändert.
+
+Build und Anwendung
+-------------------
+V107 enthält kumulativ V106 plus Freds Textkürzung. Alle Actor-Overlays, der ausführbare Hauptcode und sämtliche übrigen Modelle/Szenen/Audio sind für Normal und DEBUG gegenüber V106 bytegleich. Geändert wurden nur deutsche Textbank, deutsche Textzeigertabelle, ROM-DMA-Positionen und Header-Prüfsumme. Keine zusätzlichen Actors oder Speicherlast. Beide BPS wurden unabhängig auf die saubere PAL-1.0-Basis angewendet und bytegenau mit den jeweiligen Builds verglichen; N64-Prüfsummen stimmen. Quellen zum Schluß auf Normal zurückgestellt.
+
+Für den regulären Durchlauf den Normal-Patch auf eine saubere PAL-1.0-ROM anwenden. Nicht auf V106 oder eine andere gepatchte ROM. Beim Versionswechsel neu starten und keine alten Emulator-Savestates laden. Downloads enthalten keine ROMs oder Spielstände.

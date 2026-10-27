@@ -1,0 +1,618 @@
+{
+  "release": "V107",
+  "scope": "Gezielter Nachtest der in V106 nicht einzeln geprüften Abläufe; kein erneuter vollständiger Raumtest.",
+  "native_rdram_bytes": 4194304,
+  "owl_cases": [
+    {
+      "case": "lake-route",
+      "passed": true,
+      "log": "owl-lake-route.log",
+      "elapsed": 23.7,
+      "error": null
+    },
+    {
+      "case": "kakariko-no-letter",
+      "passed": true,
+      "log": "owl-kakariko-no-letter.log",
+      "elapsed": 27.9,
+      "error": null
+    },
+    {
+      "case": "gerudo-route",
+      "passed": true,
+      "log": "owl-gerudo-route.log",
+      "elapsed": 35.4,
+      "error": null
+    },
+    {
+      "case": "river-no-saria",
+      "passed": true,
+      "log": "owl-river-no-saria.log",
+      "elapsed": 38.4,
+      "error": null
+    },
+    {
+      "case": "river-saria",
+      "passed": true,
+      "log": "owl-river-saria.log",
+      "elapsed": 37.9,
+      "error": null
+    },
+    {
+      "case": "river-both-songs",
+      "passed": true,
+      "log": "owl-river-both-songs.log",
+      "elapsed": 38.3,
+      "error": null
+    },
+    {
+      "case": "woods-pre-saria-repeat",
+      "passed": true,
+      "log": "owl-woods-pre-saria-repeat.log",
+      "elapsed": 60.2,
+      "error": null
+    },
+    {
+      "case": "lake-first-ride",
+      "passed": true,
+      "log": "owl-lake-first-ride.log",
+      "elapsed": 123.5,
+      "error": null
+    },
+    {
+      "case": "lake-repeat-ride",
+      "passed": true,
+      "log": "owl-lake-repeat-ride.log",
+      "elapsed": 185.4,
+      "error": null
+    },
+    {
+      "case": "mountain-no-magic",
+      "passed": true,
+      "log": "owl-mountain-no-magic.log",
+      "elapsed": 123.7,
+      "error": null
+    },
+    {
+      "case": "mountain-with-magic-ride",
+      "passed": true,
+      "log": "owl-mountain-with-magic-ride.log",
+      "elapsed": 151.3,
+      "error": null
+    },
+    {
+      "case": "desert-last-advice",
+      "passed": true,
+      "log": "owl-desert-last-advice.log",
+      "elapsed": 97.7,
+      "error": null
+    }
+  ],
+  "guest_cases": [
+    {
+      "case": "velma",
+      "passed": true,
+      "scene": 8,
+      "room": 1,
+      "age": 1,
+      "param": 16264,
+      "text": 29115,
+      "log": "guest-velma.log",
+      "elapsed": 55.0,
+      "error": null
+    },
+    {
+      "case": "daphne",
+      "passed": true,
+      "scene": 8,
+      "room": 2,
+      "age": 1,
+      "param": 16265,
+      "text": 29116,
+      "log": "guest-daphne.log",
+      "elapsed": 59.3,
+      "error": null
+    },
+    {
+      "case": "shaggy",
+      "passed": true,
+      "scene": 8,
+      "room": 0,
+      "age": 1,
+      "param": 16263,
+      "text": 29114,
+      "log": "guest-shaggy.log",
+      "elapsed": 62.7,
+      "error": null
+    },
+    {
+      "case": "starwalker-0",
+      "passed": true,
+      "scene": 0,
+      "room": 1,
+      "age": 1,
+      "param": 32689,
+      "text": 29206,
+      "log": "guest-starwalker-0.log",
+      "elapsed": 48.3,
+      "error": null
+    },
+    {
+      "case": "scooby",
+      "passed": true,
+      "scene": 8,
+      "room": 6,
+      "age": 1,
+      "param": 16266,
+      "text": 29117,
+      "log": "guest-scooby.log",
+      "elapsed": 59.2,
+      "error": null
+    },
+    {
+      "case": "starwalker-1",
+      "passed": true,
+      "scene": 1,
+      "room": 4,
+      "age": 1,
+      "param": 32690,
+      "text": 29207,
+      "log": "guest-starwalker-1.log",
+      "elapsed": 89.4,
+      "error": null
+    },
+    {
+      "case": "starwalker-3",
+      "passed": true,
+      "scene": 3,
+      "room": 4,
+      "age": 0,
+      "param": 32692,
+      "text": 29209,
+      "log": "guest-starwalker-3.log",
+      "elapsed": 59.9,
+      "error": null
+    },
+    {
+      "case": "starwalker-4",
+      "passed": true,
+      "scene": 4,
+      "room": 17,
+      "age": 0,
+      "param": 32693,
+      "text": 29210,
+      "log": "guest-starwalker-4.log",
+      "elapsed": 49.5,
+      "error": null
+    },
+    {
+      "case": "starwalker-6",
+      "passed": true,
+      "scene": 7,
+      "room": 7,
+      "age": 0,
+      "param": 32695,
+      "text": 29212,
+      "log": "guest-starwalker-6.log",
+      "elapsed": 54.2,
+      "error": null
+    },
+    {
+      "case": "starwalker-5",
+      "passed": true,
+      "scene": 5,
+      "room": 6,
+      "age": 0,
+      "param": 32694,
+      "text": 29211,
+      "log": "guest-starwalker-5.log",
+      "elapsed": 61.4,
+      "error": null
+    },
+    {
+      "case": "starwalker-8",
+      "passed": true,
+      "scene": 13,
+      "room": 16,
+      "age": 0,
+      "param": 32697,
+      "text": 29214,
+      "log": "guest-starwalker-8.log",
+      "elapsed": 49.2,
+      "error": null
+    },
+    {
+      "case": "starwalker-7",
+      "passed": true,
+      "scene": 6,
+      "room": 14,
+      "age": 0,
+      "param": 32696,
+      "text": 29213,
+      "log": "guest-starwalker-7.log",
+      "elapsed": 51.6,
+      "error": null
+    },
+    {
+      "case": "starwalker-10",
+      "passed": true,
+      "scene": 9,
+      "room": 8,
+      "age": 0,
+      "param": 32699,
+      "text": 29216,
+      "log": "guest-starwalker-10.log",
+      "elapsed": 56.3,
+      "error": null
+    },
+    {
+      "case": "ralsei",
+      "passed": true,
+      "scene": 1,
+      "room": 2,
+      "age": 1,
+      "param": 32702,
+      "text": 29219,
+      "log": "guest-ralsei.log",
+      "elapsed": 81.7,
+      "error": null
+    },
+    {
+      "case": "skipper",
+      "passed": true,
+      "scene": 13,
+      "room": 0,
+      "age": 0,
+      "param": 16277,
+      "text": 29152,
+      "log": "guest-skipper.log",
+      "elapsed": 61.1,
+      "error": null
+    },
+    {
+      "case": "kowalski",
+      "passed": true,
+      "scene": 13,
+      "room": 1,
+      "age": 0,
+      "param": 16278,
+      "text": 29153,
+      "log": "guest-kowalski.log",
+      "elapsed": 85.5,
+      "error": null
+    },
+    {
+      "case": "rico",
+      "passed": true,
+      "scene": 13,
+      "room": 5,
+      "age": 0,
+      "param": 16280,
+      "text": 29155,
+      "log": "guest-rico.log",
+      "elapsed": 47.8,
+      "error": null
+    },
+    {
+      "case": "franky-1",
+      "passed": true,
+      "scene": 99,
+      "room": 0,
+      "age": 1,
+      "param": 16282,
+      "text": 29157,
+      "log": "guest-franky-1.log",
+      "elapsed": 51.7,
+      "error": null
+    },
+    {
+      "case": "franky-0",
+      "passed": true,
+      "scene": 99,
+      "room": 0,
+      "age": 0,
+      "param": 16282,
+      "text": 29158,
+      "log": "guest-franky-0.log",
+      "elapsed": 58.1,
+      "error": null
+    },
+    {
+      "case": "skeleton",
+      "passed": true,
+      "scene": 7,
+      "room": 21,
+      "age": 0,
+      "param": 32684,
+      "text": 29201,
+      "log": "guest-skeleton.log",
+      "elapsed": 42.7,
+      "error": null
+    },
+    {
+      "case": "moseby",
+      "passed": true,
+      "scene": 87,
+      "room": 0,
+      "age": 0,
+      "param": 32683,
+      "text": 29200,
+      "log": "guest-moseby.log",
+      "elapsed": 59.5,
+      "error": null
+    },
+    {
+      "case": "fred",
+      "passed": true,
+      "scene": 8,
+      "room": 5,
+      "age": 1,
+      "param": 16267,
+      "text": 29118,
+      "log": "guest-fred.log",
+      "elapsed": 77.7,
+      "error": null
+    },
+    {
+      "case": "starwalker-2",
+      "passed": true,
+      "scene": 2,
+      "room": 2,
+      "age": 1,
+      "param": 32691,
+      "text": 29208,
+      "log": "guest-starwalker-2.log",
+      "elapsed": 75.8,
+      "error": null
+    },
+    {
+      "case": "starwalker-9",
+      "passed": true,
+      "scene": 8,
+      "room": 3,
+      "age": 1,
+      "param": 32698,
+      "text": 29215,
+      "log": "guest-starwalker-9.log",
+      "elapsed": 50.3,
+      "error": null
+    },
+    {
+      "case": "kris",
+      "passed": true,
+      "scene": 1,
+      "room": 2,
+      "age": 1,
+      "param": 32700,
+      "text": 29217,
+      "log": "guest-kris.log",
+      "elapsed": 72.1,
+      "error": null
+    },
+    {
+      "case": "susie",
+      "passed": true,
+      "scene": 1,
+      "room": 2,
+      "age": 1,
+      "param": 32701,
+      "text": 29218,
+      "log": "guest-susie.log",
+      "elapsed": 75.4,
+      "error": null
+    },
+    {
+      "case": "pingu",
+      "passed": true,
+      "scene": 9,
+      "room": 2,
+      "age": 0,
+      "param": 16275,
+      "text": 29150,
+      "log": "guest-pingu.log",
+      "elapsed": 26.5,
+      "error": null
+    },
+    {
+      "case": "crazy-frog",
+      "passed": true,
+      "scene": 84,
+      "room": 0,
+      "age": 1,
+      "param": 16276,
+      "text": 29151,
+      "log": "guest-crazy-frog.log",
+      "elapsed": 30.6,
+      "error": null
+    },
+    {
+      "case": "private",
+      "passed": true,
+      "scene": 13,
+      "room": 9,
+      "age": 0,
+      "param": 16279,
+      "text": 29154,
+      "log": "guest-private.log",
+      "elapsed": 34.3,
+      "error": null
+    },
+    {
+      "case": "mackey",
+      "passed": true,
+      "scene": 42,
+      "room": 0,
+      "age": 0,
+      "param": 16271,
+      "text": 29125,
+      "log": "guest-mackey.log",
+      "elapsed": 109.5,
+      "error": null
+    }
+  ],
+  "gaster": {
+    "passed": true,
+    "observations": [
+      {
+        "room": 2,
+        "appeared": 0,
+        "viewed": 0,
+        "vanished": 0
+      },
+      {
+        "room": 2,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 2,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 2,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 6,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 6,
+        "appeared": 0,
+        "viewed": 0,
+        "vanished": 0
+      },
+      {
+        "room": 6,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 6,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 7,
+        "appeared": 0,
+        "viewed": 0,
+        "vanished": 0
+      },
+      {
+        "room": 7,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 7,
+        "appeared": 0,
+        "viewed": 0,
+        "vanished": 0
+      },
+      {
+        "room": 7,
+        "appeared": 0,
+        "viewed": 0,
+        "vanished": 0
+      },
+      {
+        "room": 11,
+        "appeared": 0,
+        "viewed": 0,
+        "vanished": 0
+      },
+      {
+        "room": 11,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 11,
+        "appeared": 1,
+        "viewed": 1,
+        "vanished": 1
+      },
+      {
+        "room": 11,
+        "appeared": 0,
+        "viewed": 0,
+        "vanished": 0
+      }
+    ]
+  },
+  "save_restart_reload": [
+    {
+      "case": "write",
+      "passed": true,
+      "log": "sram-final-write.log"
+    },
+    {
+      "case": "read",
+      "passed": true,
+      "log": "sram-final-read.log"
+    }
+  ],
+  "mint_spell": [
+    {
+      "case": "mint-spell",
+      "passed": true,
+      "log": "mint-final-mint-spell.log"
+    }
+  ],
+  "joe_repeat": {
+    "passed": true,
+    "log": "stateful-joe-repeat.log",
+    "marker": "STATEFUL_430_PASSED",
+    "note": "Der C-Test ersetzte NPC auch im Erkennungsmarker durch die Actor-ID 430; Auswertung anhand des tatsächlich erzeugten Markers korrigiert."
+  },
+  "text_change": {
+    "only_changed_id": "71BE",
+    "removed_last_page": true,
+    "remaining_pages": 2,
+    "no_other_text_or_language_changed": true,
+    "source_sha256": "13975c528c06c94e6cb4f837893427104b52437a9ab7838ed53d2840e809693e"
+  },
+  "farm_export": {
+    "source_sha256": "13975c528c06c94e6cb4f837893427104b52437a9ab7838ed53d2840e809693e",
+    "unique_ids": 93,
+    "entries": 93,
+    "pages": 223,
+    "source_unchanged": true
+  },
+  "patches": {
+    "base_sha256": "f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7",
+    "builds": {
+      "normal": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_Nachtest_Fred_V107.bps",
+        "bytes": 67108864,
+        "rom_sha256": "9966a885ec258d1249dde4bbaf9673b30f004f0b365c02aef1865c18ff86ecc9",
+        "patch_bytes": 30332423,
+        "patch_sha256": "ad0ab4adcfc85c1205d0253f341b1bf14d263db62d049711f0eaf72c479d696e",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      },
+      "debug": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Nachtest_Fred_V107.bps",
+        "bytes": 67108864,
+        "rom_sha256": "db597d9bf2b2873dc6259c791f1233993dac1df6d7099fe6b5a4dc3db2ff4e45",
+        "patch_bytes": 30433571,
+        "patch_sha256": "77154524521f5b49131e044599330f752c6e86d938bce3dfaadbee5489b87427",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      }
+    }
+  },
+  "continuous_manual_playthrough": false,
+  "no_gameplay_logic_changes": true
+}

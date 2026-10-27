@@ -1,6 +1,6 @@
 # Sämtliche aktuellen Lon-Lon-Farm-Texte – V107
 
-Direkt aus dem eingebauten deutschen Spieltext exportiert. Enthalten sind beide Zeitlinien, Wiederholungen, Auswahlzweige, Rennen, Super-Hühner, Kühe, Milch, Schilder, Franky und Mr. Mackey. Verbundene Begegnungen mit Mario/Malon außerhalb der Farm stehen ebenfalls dabei. Die letzte Gruppe enthält zusätzlich gespeicherte Farm-Texte und Erwähnungen durch andere Personen; sie behauptet keinen Auftritt sämtlicher Einträge direkt auf der Farm.
+Direkt aus dem eingebauten deutschen Spieltext exportiert. Enthalten sind beide Zeitlinien, Wiederholungen, Auswahlzweige, Rennen, Super-Hühner, Kühe, Milch, Schilder und Franky. Mr. Mackeys Text steht als verbundener früherer Farm-Text dabei; sein regulärer Auftritt ist inzwischen im Gästehaus von Kakariko. Verbundene Begegnungen mit Mario/Malon außerhalb der Farm stehen ebenfalls dabei. Die letzte Gruppe enthält zusätzlich gespeicherte Farm-Texte und Erwähnungen durch andere Personen; sie behauptet keinen Auftritt sämtlicher Einträge direkt auf der Farm.
 
 Maskenreaktionen bleiben wie in der bisherigen Gesamttextliste ausgeklammert. Jimmy Neutron ist entfernt; sein noch gespeicherter Alttext zählt hier nicht als Farm-Auftritt. 2053 gehört zum Mythenstein und wird von Malon nicht aufgerufen.
 
@@ -959,7 +959,7 @@ Fortsetzung: 2036.
 
 > Ich werde selbst zu seinem Schloß gehen. Der kann sich warm anziehen!
 
-## Mr. Mackey auf der Farm
+## Verbundener früherer Farm-Gast – Mr. Mackey, heute im Gästehaus von Kakariko
 
 ### 71C5
 
