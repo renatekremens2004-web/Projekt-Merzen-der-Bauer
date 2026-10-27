@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "301A",
+    "pages": [
+      "Was ist das für ein Schwachsinn?\nIch habe jemanden von der\nKönigsfamilie erwartet. Einen großen\nMann, wie diesen Mr. Bean!",
+      "Und statt dessen bekomme ich einen\nDreikäsehoch? Ich bin hier der Chef,\nund nicht einfach nur, weil ich anders\naussehe. Nein, ich habe auch die",
+      "Fähigkeiten!",
+      "Ich bin bärenstark und esse den\nganzen Tag Steine. Ich kann einfach\nin so einen Backstein reinbeißen, gar\nkein Problem.",
+      "Und ich kann mich zusammenrollen.\nDas muß man auch erst mal können!\nMerz hat uns Kohleabbau als\nWohlstand verkauft und wollte uns",
+      "daran beteiligen.",
+      "Jetzt ist unser ganzes Speiselager\nzusammengebrochen: Dodongos Höhle.\nEr meinte wieder, der Markt regelt\ndas. Aber hier wird gerade gar nichts",
+      "geregelt.",
+      "In der Höhle sind auch ein Haufen\nMonster. Die Frage ist, wie viele\ndavon schon vorher da drin waren.",
+      "Bei den Dodongos wissen wir es. Die\nFledermäuse werden da wohl auch\nschon gewesen sein, weil Fledermäuse\nrelativ weit verbreitet sind.",
+      "Aber diese Echsenmenschen, die\nwaren da ganz sicher noch nicht\ndrin!"
+    ],
+    "controls": [
+      "TEXTID(0x301B)"
+    ],
+    "context": null
+  },
+  {
+    "id": "301B",
+    "pages": [
+      "Mein Volk ist am Hungern. Ich weiß\nnicht, was ich machen soll. Ich bin\ntotal verzweifelt.",
+      "Das ist das Schlimmste, was uns\nGoronen jemals passiert ist.\nZumindest in diesem Jahrhundert."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3020",
+    "pages": [
+      "Okay, ja, das ist Zeldas Wiegenlied.\nAlso das, was Zelda als Kind immer\ngehört hat.",
+      "Und was soll mir das jetzt sagen?\nIch kann damit nicht viel anfangen.\nWillst Du damit sagen, daß ich faul\nbin?"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "301C",
+    "pages": [
+      "Hey, Kleiner, mach das nie wieder.\nAuch wenn es aussah, als hätte ich\nSpaß, das war ganz schön\nschmerzhaft.",
+      "Ich bin Darunia und natürlich\nbeeindruckt von Deinen magischen\nFähigkeiten und Kräften. Du bist\nvielleicht genau die Person, die wir",
+      "gesucht haben.",
+      "Du möchtest den Heiligen Stein des\nFeuers, den Goronen-Opal? Den\nkannst Du gerne haben. Aber Du\nmußt auch etwas für uns tun.",
+      "Geh in Dodongos Höhle und schlachte\nein paar Dodongos für uns. Oder\nallgemein: Vertreib da die Bösen. Da\nsind ein paar Schergen von Friedrich",
+      "Merz drin.",
+      "Hilfst Du meinem Volk, soll der Stein\nDir gehören. Aber Du bist noch ein\nganz schöner Schwächling.",
+      "Deswegen kriegst Du hier das\nmagische Goronen-Armband. Damit\nkannst Du Steine und so was heben,\nohne Dir Deine kleinen",
+      "Streichholzarme zu brechen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "301F",
+    "pages": [
+      "Dieser Merz führt etwas Böses im\nSchilde."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "301D",
+    "pages": [
+      "Geh zu Dodongos Höhle und vertreib\ndie Monster, so daß es einfach nur\nnoch eine Höhle ist und nicht speziell\nDodongos Höhle. Dann gehört Dir der",
+      "Heilige Stein."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "301E",
+    "pages": [
+      "Hier ging es um weit mehr als nur\nKohle. Merz war auch an radioaktivem\nMaterial interessiert. Sei vorsichtig."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3023",
+    "pages": [
+      "Bruder, Du hast es geschafft! Du\nhast die Dodongos und das ganze\nandere Gesindel darin bezwungen.",
+      "Merz hat uns Wohlstand versprochen,\nund dann ging hier alles nach hinten\nlos. Wir hätten ihm nicht vertrauen\nsollen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3048",
+    "pages": [
+      "Dieses Abenteuer bietet Stoff für\neine Legende. Ich nenne sie: Die\nLegende von [Spielername]!",
+      "Ich bin immer noch völlig fassungslos.\nHätten wir Merz weiter vertraut,\nwären schlimme Dinge passiert.",
+      "Angeblich ging es ihm um Kohleabbau.\nAber ich weiß, daß es ihm um viel,\nviel mehr als nur Kohle ging."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3004",
+    "pages": [
+      "Du bist absolut korrekt, Kleiner.\nDeswegen ernenne ich Dich hiermit\nzum Ehren-Goronen.",
+      "Und jetzt nimm den Goronen-Opal.\nAber bitte verlier ihn nicht."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3000",
+    "pages": [
+      "Nun sind wir Blutsbrüder. Zwei Heilige\nSteine hast Du, und den dritten\nbekommst Du von...",
+      "Oh, ja. Dann mußt Du wohl mit König\nZora reden. Ich kann den Typen nicht\nleiden."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3001",
+    "pages": [
+      "Wie hast Du es geschafft, jetzt\nschon diesen Stein als dritten Stein\nzu bekommen? Das ist Sequence\nBreaking!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3068",
+    "pages": [
+      "Ich kann Dich übrigens noch an eine\nFreundin von mir verweisen.",
+      "Sie hat vielleicht ein sehr schrilles\nAuftreten und ist sehr dezent\nbekleidet, aber sie hat mich bisher\nnoch nie im Stich gelassen. Sie lebt",
+      "auf dem Gipfel des Todesbergs.",
+      "Freunde! Verabschiedet unseren\nBruder VORSICHTIG. Er ist ein Kind.\nIhr brecht ihm sonst noch die\nKnochen!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3005",
+    "pages": [
+      "LEUTE! VORSICHT!"
+    ],
+    "controls": [
+      "FADE(30)"
+    ],
+    "context": null
+  },
+  {
+    "id": "3006",
+    "pages": [
+      "DAS IST EIN KIND, ALTER!"
+    ],
+    "controls": [
+      "FADE(30)"
+    ],
+    "context": null
+  },
+  {
+    "id": "3029",
+    "pages": [
+      "Sollte ich jemals ein Kind haben, \nwerde ich es nach Dir benennen!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3008",
+    "pages": [
+      "Wir Goronen essen am liebsten\nSteine, und die besten Steine liegen\nin Dodongos Höhle.",
+      "Friedrich Merz wollte hier Kohle\nabbauen, um Hyrule mit Energie zu\nversorgen. Aber dann ist der ganze\nMist komplett zusammengebrochen.",
+      "Der Eingang ist verschüttet, und\nunser ganzes Essen liegt dahinter.\nJetzt gibt es auch noch Dodongos in\nder Höhle.",
+      "Was jetzt nicht schlimm ist. Ich\nmeine, es ist Dodongos Höhle. Was\nerwartest Du? Es gibt ja auch\nDodongo-Filet, das ist sehr beliebt.",
+      "Also, die Dodongos sind jetzt\nprinzipiell nicht das Problem, ne?"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "302A",
+    "pages": [
+      "Friedrich Merz kann doch nicht\neinfach Goronia enteignen! Du mußt\nuns helfen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3021",
+    "pages": [
+      "Frohlocket und jubelt! Der Heiland ist\nuns erschienen! Er kam zu uns, als\nwir hungerten, und siehe: Der Stein\nward hinweggerollt!",
+      "Gesegnet seien seine kleinen Füße,\ndie ihn zu uns trugen! Nun gehet hin,\njunger Erlöser, und befreiet auch\nunsere Speisekammer. Amen!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3027",
+    "pages": [
+      "Danke, Bruder! Wir können wieder\nSteine essen. Den Kohlenstaub darf\nMerz sich selbst auf den Teller\nkippen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "300A",
+    "pages": [
+      "Die Donnerblumen haben wir\ngepflanzt, um gegen Hyrule\naufzurüsten.",
+      "Was möchtest Du wissen?\n\n\nÜber die Donnerblumen\nÜber Dodongos Höhle"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "300B",
+    "pages": [
+      "Das ist eine der krassesten Pflanzen\nin dieser ganzen Welt: Die\nexplodiert!",
+      "Und wir forschen auch schon an einer\nDonner-Atomen-Blume."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "300C",
+    "pages": [
+      "Das sind Donnerblumen: explosive\nPflanzen für die Bombenherstellung.",
+      "Eigentlich wachsen sie in dunklen\nHöhlen. Draußen sind sie selten.",
+      "Mit dem Goronen-Armband kannst\nsogar Du sie mit [A] pflücken. Ohne\nKraft ist das keine gute Idee."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "300D",
+    "pages": [
+      "Wegen Merz ist der ganze Laden hier\nzusammengestürzt, und der ist jetzt\nauch gerade im Urlaub. Wir erreichen\nihn nicht."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "302B",
+    "pages": [
+      "Mit [A] nimmst Du die \nDonnerblumen auf. Drückst Du \nerneut [A], legst Du sie wieder ab."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3027",
+    "pages": [
+      "Danke, Bruder! Wir können wieder\nSteine essen. Den Kohlenstaub darf\nMerz sich selbst auf den Teller\nkippen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3009",
+    "pages": [
+      "Mit einer Donnerblume könnte ich\nMerz' Schutthaufen vor der Höhle\nwegsprengen.",
+      "Aber ich erreiche den Eingang nicht,\nbevor sie explodiert.",
+      "Unsere Wirtschaftspolitik besteht\ninzwischen daraus, rechtzeitig eine\nPflanze zu werfen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3026",
+    "pages": [
+      "Donnerblumen-Dynamo! Paß mit den\nDonnerblumen auf."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3027",
+    "pages": [
+      "Danke, Bruder! Wir können wieder\nSteine essen. Den Kohlenstaub darf\nMerz sich selbst auf den Teller\nkippen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3011",
+    "pages": [
+      "He, warum hältst Du mich an?",
+      "Ich war gerade so schön in Fahrt!",
+      "Ich rolle, bis der ganze politische\nMist aus meinem Kopf ist.",
+      "Unter Merz ist das inzwischen\nAusdauersport. Rock'n'Roll!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3012",
+    "pages": [
+      "Du bist mutig! Das soll belohnt \nwerden! Nimm dies als Zeichen \nmeiner Anerkennung!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3013",
+    "pages": [
+      "Danke für Deine Hilfe! Ich rolle vor\nFreude. Das ist eine Körperfunktion,\nkeine Zustimmung zum Kohleabbau."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3014",
+    "pages": [
+      "Ich habe Hunger. Und bevor Du mit\neinem Kiesel vom Straßenrand\nankommst...",
+      "Wir ernähren uns von Steinen. Das\nheißt nicht, daß wir jeden Dreck\nfressen müssen!",
+      "Das ist ein Goronen-Vorurteil!",
+      "In Dodongos Höhle lagern die besten\nSpeisesteine. Merz' Kohleabbau hat\nden Zugang verschüttet.",
+      "Er nennt sich wirtschaftskompetent.\nIch würde gern einmal den Beleg dazu\nessen.",
+      "Wir brauchen die Höhle zurück.\nHunger läßt sich schlecht bis zur\nnächsten Legislaturperiode\naufschieben."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3015",
+    "pages": [
+      "Steinfilet aus Dodongos Höhle. Kein\nStraßendreck. Ich bin hungrig, nicht\nanspruchslos."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3027",
+    "pages": [
+      "Danke, Bruder! Wir können wieder\nSteine essen. Den Kohlenstaub darf\nMerz sich selbst auf den Teller\nkippen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3016",
+    "pages": [
+      "He, Kleiner!",
+      "Du bist bestimmt wegen des Roten\nSteins hier. Den findet hier jeder zum\nAnbeißen.",
+      "Ich liebe Rockmusik. Besonders die\nharten Sachen.",
+      "Ja, wir essen Steine und hören Rock.\nIch weiß selbst, wie das klingt.",
+      "Du suchst einen Heiligen Stein? Dann\nmeinst Du wohl den Goronen-Opal.",
+      "Ich wollte nur ein winziges Stück\nkosten. Wirklich winzig. Ein kultureller\nBeitrag.",
+      "Aber Darunia hat ihn mitgenommen.",
+      "Er hat sich in seinem Raum\neingeschlossen. Vermutlich wollte er\neinmal etwas besitzen, das keiner\nanleckt."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3017",
+    "pages": [
+      "Darunia ist in seinem Büro und mega\nangepißt. Der ist richtig sauer. Also,\nich verstehe das auch. Ich bin auch\nsauer."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3067",
+    "pages": [
+      "Du hast den Roten Stein? Darf ich\nein winziges Stück probieren?",
+      "Nein? Schon gut. Bei Merz nennt man\ndas offenbar geschütztes\nPrivatvermögen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3017",
+    "pages": [
+      "Darunia ist in seinem Büro und mega\nangepißt. Der ist richtig sauer. Also,\nich verstehe das auch. Ich bin auch\nsauer."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3018",
+    "pages": [
+      "Ich sage es offen: Rockmusik ist\nmega scheiße.",
+      "Hey, ich bin sehr an Darunia\ninteressiert. Kleiner Fun Fact: Er hat\neine der seltensten\nStandard-Blutgruppen, AB negativ.",
+      "Die nennen wir hier in Hyrule auch\n\"goldenes Blut\". Da fehlen\nRh-Antigene. Das wollte ich einfach\nmal erwähnt haben."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3019",
+    "pages": [
+      "Darunia mag besonders die Musik des\nWaldes. Das ist Dein Ansatz.",
+      "Ich mag besonders, wenn sie aufhört.\nWir ergänzen uns als Gesellschaft."
+    ],
+    "controls": [
+      "TEXTID(0x302C)"
+    ],
+    "context": null
+  },
+  {
+    "id": "302C",
+    "pages": [
+      "Wenn Du es schaffst, alle diese\nFackeln anzuzünden, dann passiert\nbestimmt etwas Spannendes. Ein\nGoronen-Ingenieur hat sich hier schon",
+      "was bei gedacht."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3027",
+    "pages": [
+      "Danke, Bruder! Wir können wieder\nSteine essen. Den Kohlenstaub darf\nMerz sich selbst auf den Teller\nkippen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "300E",
+    "pages": [
+      "Ich sage Dir: Atomenergie ist\nhervorragend. Hohe Energiedichte,\nwenig Flächenbedarf.",
+      "Kernspaltung liefert verläßlich Strom,\nauch nachts und bei Windstille.",
+      "Über den Lebenszyklus verursacht sie\nwenig Treibhausgas. Das ist beim\nKlimaschutz ein ernstes Argument.",
+      "Eine wetterunabhängige Erzeugung\nkann ein Stromsystem stabilisieren.\nSpeicher und Netze kosten schließlich\nauch.",
+      "Wer vorhandene, sichere Anlagen\nlänger nutzt, kann fossile Erzeugung\nersetzen. Kohle verpestet die Luft.",
+      "Ja, Neubauten können teuer werden\nund lange dauern. Man braucht\nAufsicht, Fachleute und eine Lösung\nfür den Abfall.",
+      "Auch Kühlung, Haftung und\nBauverzögerungen gehören in die\nRechnung. Sonst rechnet man sich\ndas Ergebnis schön.",
+      "Trotzdem halte ich Kernkraft für eine\ngute Ergänzung. Eine Technologie muß\nan ihren Folgen gemessen werden.",
+      "Deku-Nüsse, Kerne und Stäbe gibt es\nhier kaum. Falls Du einen Stab\nbrauchst: Ich habe einen versteckt."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3022",
+    "pages": [
+      "Einen brennenden Deku-Stab löschst\nDu mit [A], bevor er verbrennt. Hier\nliegt auch einer versteckt.",
+      "Und ja: Mein Kernkraftvortrag war\nlang. Für eine schlichte\nEnergiedebatte mußt Du einen anderen\nStein fragen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3024",
+    "pages": [
+      "Merz hat uns alle als faul bezeichnet,\nnur weil wir gerne schlafen.",
+      "Hey, Merz, Du Blitzmerker, ich hab\neine Eilmeldung für Dich: Jedes\nlebendige Wesen muß mal schlafen,\nDu Arschloch!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3025",
+    "pages": [
+      "Darunias Kammer ist mit so einem\nWärmesensor verbunden. Deswegen\nmußt Du jetzt die Fackeln anzünden."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "302F",
+    "pages": [
+      "Ah, ich sehe, Du hast unser\nGoronen-Oberhaupt besänftigen\nkönnen. Das ist ja großartig! Dann\nbist Du ja die Rettung!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3064",
+    "pages": [
+      "Wenn ich am Strand schwimmen\ngehe, sterbe ich."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3065",
+    "pages": [
+      "Die Fee auf dem Gipfel hilft Dir\nbestimmt. Paß nur auf, der ganze\nBerg ist eine Todesfalle.",
+      "Macht ja auch Sinn. Das Ding heißt\nja auch Todesberg oder Todesgipfel\noder so was."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7122",
+    "pages": [
+      "Ich kam her, um Bomben zu \nverkaufen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7230",
+    "pages": [
+      "Alle anderen sagen immer, ich sei so\nanders. Ich verstehe das nicht goro\ngoro"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3030",
+    "pages": [
+      "Hau ab! Friedrich Merz hat uns schon\ngenug eingebrockt. Ich brauch nicht\nnoch so einen Verrückten!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3031",
+    "pages": [
+      "AAAAAAAAAH! AUA! WAS ZUR\nHÖLLE?!",
+      "WARUM HAST DU EINE BOMBE\nGEGEN MICH GEWORFEN, DU\nVERRÜCKTER?!",
+      "WARUM DACHTEST DU, DAS SEI\nOKAY?!",
+      "Und jetzt willst Du auch noch meinen\nNamen wissen? Der ist mir peinlich.",
+      "Das ist der dümmste Name der Welt.\nSo ein schrottiger Quatschname!\nWas hat mein Vater sich dabei\ngedacht?!",
+      "Na gut... Ich heiße [Spielername]."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3032",
+    "pages": [
+      "Ohhh... Äh. Wie war DEIN Name?",
+      "Auch [Spielername]? Ups.",
+      "Dann hab ich gerade Deinen Namen\nbeleidigt. Und zwar ziemlich\nausführlich.",
+      "Nichts für ungut! Ist ein besonderer\nName, nicht?",
+      "Vater hat mich nach Dir benannt.\nDas hätte er mir vielleicht VORHER\nerklären sollen.",
+      "Tut mir leid, [Spielername].\nWirklich.",
+      "Mein Vater hat mir die Legende\nerzählt, daß Du damals zusammen mit\nseiner Hilfe den Zugang zu Dodongos\nHöhle wieder freigemacht hast.",
+      "Friedrich Merz hat alle Goronen zur\nArbeit im Feuertempel gezwungen.",
+      "Dort sollten sie Uranerz für seine\nWaffe abbauen.",
+      "Nicht nur das: Im Feuertempel wird\nauch ein großer Forscher\nfestgehalten. Sein Name ist Wallace.",
+      "Friedrich Merz zwang ihn, für ihn zu\narbeiten. Andernfalls würde er einen\nbrutalen Drachen auf Kakariko hetzen.",
+      "Wallace hatte keine andere Wahl.",
+      "Merz sagt, wenn ich groß bin, dann\nsoll ich selbst zum Goronensoldaten\nausgebildet werden. Der hat sie doch\nnicht mehr alle!"
+    ],
+    "controls": [
+      "TEXTID(0x3033)"
+    ],
+    "context": null
+  },
+  {
+    "id": "3033",
+    "pages": [
+      "Es ist alles so furchtbar. Wir sind\ndie Goronen. Wir stehen für Frieden,\nnicht für Zerstörung!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3034",
+    "pages": [
+      "Ich sag Dir alles, was ich weiß.",
+      "Worüber willst Du reden?\n\n\nÜber den Drachen\nÜber Wallace"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "3035",
+    "pages": [
+      "Volvagia heißt der Drache. Er lebt im\nFeuertempel und war einst ein\nwunderschönes Geschöpf.",
+      "Friedrich Merz hat es jedoch auch\ngeschafft, das zu versauen. Jetzt ist\nder Drache blutdürstig und ziemlich\ngefährlich. Und er spuckt Feuer.",
+      "Es gibt nur einen Mann, der Volvagia\naufhalten kann: Wallace.",
+      "Das hat Friedrich Merz nicht gefallen.\nDeswegen hat er Wallace sein\nEquipment weggenommen: einen\nbesonderen Hammer, der jetzt im",
+      "Feuertempel versteckt ist.",
+      "Mein Vater ist dorthin gegangen, um\nan den Wallace-Hammer zu gelangen."
+    ],
+    "controls": [
+      "TEXTID(0x3033)"
+    ],
+    "context": null
+  },
+  {
+    "id": "3036",
+    "pages": [
+      "Wallace kam einst zu uns, erzählte\nmir mein Vater, um mehr über das\nVolk der Goronen zu lernen. Wie wir\nhier in diesem Klima überleben und",
+      "wie unser Steinmetabolismus\nfunktioniert.",
+      "Wallace zeigte sich ebenfalls\ninteressiert an unseren nativen\nGewächsen, den Donnerblumen. Die\nkennst Du ja. Das sind Pflanzen, die",
+      "wie eine Bombe explodieren.",
+      "Friedrich Merz bekam davon Wind und\nengagierte Wallace, um die ultimative\nWaffe zu konstruieren.",
+      "Du mußt Wallace da rausholen,\n[Spielername]! Nimm dafür dieses\nGewand. Er hat es selbst basierend\nauf seiner Forschung entwickelt."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3037",
+    "pages": [
+      "Ich dachte immer, es wäre spannend,\nwenn ich ganz Goronia für mich\nselbst hätte, [Spielername]. Aber\njetzt ist niemand hier, der mit mir",
+      "spielen kann.",
+      "Deshalb spiele ich mit mir selbst.\nWarte, das hat sich gerade ein\nbißchen komisch angehört.",
+      "Ich habe mich gerade wie ein Loser\nangehört, der den ganzen Tag Doodle\nJump auf seinem Handy spielt. Das\nmeinte ich damit."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3038",
+    "pages": [
+      "Der Eingang zum Feuertempel ist im\nBüro meines Vaters hinter der\nStatue. Dort, wo er damals stand, als\nDu sein Blut kontrolliert hast.",
+      "Das hat er mir auch erzählt. Total\nverrückt."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3041",
+    "pages": [
+      "Du hast es geschafft,\n[Spielername]! Der Drache wurde\nbesiegt. Mein Vater ist auch zurück.\nAber wo ist Wallace?"
+    ],
+    "controls": [
+      "TEXTID(0x3042)"
+    ],
+    "context": null
+  },
+  {
+    "id": "3042",
+    "pages": [
+      "Wenn ich groß bin, möchte ich\ngenauso werden wie die großen\nMänner in meinem Leben, von denen\nich gelernt habe.",
+      "Mein Vater, das mutige Oberhaupt\nder Goronen. Du, [Spielername],\nder mutige Junge, der uns zweimal\nden steinigen Arsch gerettet hat. Und",
+      "Wallace, ein Forscher, der sein Herz\nimmer am rechten Fleck hatte."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3039",
+    "pages": [
+      "Ich werde wahnsinnig,\n[Spielername]! Aus dem\nDrei-Käse-Hoch ist jetzt ein\nNeun-Käse-Hoch geworden. Es ist",
+      "sieben Jahre her, und Du bist so in\ndie Höhe gewachsen!",
+      "Merz hat mich gezwungen, mein\neigenes Volk anzuleiten, hier Bergbau\nfür seine grauenvolle Bombe zu\nbetreiben.",
+      "Auch Wallace ist hier. Er war mir\nimmer ein guter Freund. Wir haben\nimmer gerne zusammen Käse\ngegessen. Ich habe den Käse dann auf",
+      "Steinen gegessen, weil ich ein Gorone\nbin.",
+      "Und jetzt wird es endlich Zeit für die\nRebellion! Hilf mir, die Männer und\nFrauen meines Volkes zu befreien. Ja,\nes gibt auch Goronen-Frauen. Was",
+      "dachtest Du denn?",
+      "Während Du Dich um Wallace\nkümmerst, werde ich schon mal meine\nanderen Männer suchen und von ihrer\nTätigkeit erlösen.",
+      "Ich bitte Dich: Bewahre Goronia und\nden Rest dieses Landes vor einem\nSuper-GAU!",
+      "Merz bedroht Hyrule mit\nAbschreckungslärm, mit Superwaffen,\nNeutronen und Tod.",
+      "Merz bezeichnet sich selbst als\njemand, der den drei Göttinnen treu\nist. Doch er militarisierte Goronia,\num den Rest Hyrules unter seiner",
+      "gewalttätigen Kontrolle zu halten.\nMeine Männer waren friedlich, und\nnun zwang er sie zum Dienst an der\nWaffe.",
+      "Wir sehen uns!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3051",
+    "pages": [
+      "Man kann diese Steine nicht essen.\nMir wird nur schlecht von ihnen, und\nich schmecke Metall in meinem Mund."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3071",
+    "pages": [
+      "Es ist endlich Zeit zurückzuschlagen!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3052",
+    "pages": [
+      "Es wird Zeit, daß die Goronen sich\nGoronia zurückholen. Merz, leck Eier!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3069",
+    "pages": [
+      "Da Du mich befreit hast, verrate\nich Dir ein Geheimnis!",
+      "In diesem Tempel gibt es Türen,\ndie Dich beim Versuch, sie zu \nöffnen, erschlagen! Sei gewarnt!",
+      "Besitzt Du das Relikt der Goronen,\nkannst Du sie zerschmettern!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "306A",
+    "pages": [
+      "Mir gefällt Dein orangenes Gewand.\nIch kenne den Typen, der das Ding\nerfunden hat. Ziemlich cooler Kerl!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "306B",
+    "pages": [
+      "Du hast mich gerettet! Jetzt kann\nich endlich zu meiner Frau und\nmeinen Kindern zurückkehren. Meinen\nGoronen-Kindern.",
+      "Die sind relativ schnell ausgewachsen,\nfalls Du mal ein Goronenkind siehst.\nDie werden relativ schnell erwachsen.\nDas ist bei uns einfach so.",
+      "Rein visuell meine ich natürlich. Vom\nGeist her sind die immer noch relativ\nkindisch drauf. Sind ja auch Kinder."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "306C",
+    "pages": [
+      "Möge uns das Feuer dieses Tempels\nzum Siege gereichen, um auch\nFriedrich Merz' letzte Haare zu\nverbrennen!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "306D",
+    "pages": [
+      "Als Dank für meine Befreiung verrate\nich Dir etwas: Merz ist ein geiziges,\ngieriges Gerippe.",
+      "Das ist kein Geheimnis. Das ist ein\nFakt."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "306E",
+    "pages": [
+      "Ich war selbst daran interessiert, die\nultimative Waffe zu konstruieren.\nAber Merz hat es zu weit getrieben.\nDeswegen weise ich jede Schuld von",
+      "mir."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "306F",
+    "pages": [
+      "Jetzt erkenne ich, daß das\nWettrüsten zu nichts Gutem führt."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3070",
+    "pages": [
+      "Danke, daß Du mich befreit hast. Laß\nmich Dir ein Geheimnis anvertrauen:\nManchmal rolle ich mich zusammen,\num mich selbst als Bowlingkugel zu",
+      "verwenden."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "303A",
+    "pages": [
+      "Ich bin gerettet!\nHab Dank!\nBitte, nimm dies!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3043",
+    "pages": [
+      "Danke, [Spielername]!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3044",
+    "pages": [
+      "Dank sei Dir, denn Du hast uns \ngerettet!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3057",
+    "pages": [
+      "Oh nein! Alle sind verschwunden!\nIch blieb als einziger zurück!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "305B",
+    "pages": [
+      "Sie sind alle wieder da!\nEs ist wieder wie früher!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "7241",
+    "pages": [
+      "Nichts von diesen Waren ist\ngefälscht. Außer meine Hyrule Yeezys."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0083",
+    "pages": [
+      "Mit [Control-Pad] wählst Du die Ware aus.\n\n\nMit dem Verkäufer sprechen\nZurück"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "300F",
+    "pages": [
+      "Ich hatte den Eingang versiegelt,\nda ich nicht sehr viel zu \nverkaufen habe... Du aber scheinst\nsehr hartnäckig zu sein. Nun gut."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "302D",
+    "pages": [
+      "Du hast vor, die Dodongos zu \nvertreiben? Das ist Sache der \nGoronen und keine Angelegenheit\nfür kleine Kinder!",
+      "Andererseits wären wir froh, wenn \nunser Problem gelöst würde. Dann \nkönnten wir endlich wieder Bomben \nproduzieren...",
+      "Dennoch solltest Du Dich vor den\nDodongos hüten! Diese Kreaturen \nfressen alles, was sich ihnen in \nden Weg stellt!",
+      "Wenn Du nicht aufpaßt, endest Du \nim Magen eines Dodongo!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3028",
+    "pages": [
+      "Dank Deiner Bemühungen ist alles \nwieder wie früher! Nun kann ich \nDir auch Bomben anbieten!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3047",
+    "pages": [
+      "Alle sind verschwunden!\nDennoch, der Shop bleibt \ngeöffnet!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3057",
+    "pages": [
+      "Oh nein! Alle sind verschwunden!\nIch blieb als einziger zurück!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "305B",
+    "pages": [
+      "Sie sind alle wieder da!\nEs ist wieder wie früher!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3010",
+    "pages": [
+      "Tut mir leid... Die Bombe hier ist \nnur eine Attrappe. Die echten \nsind ausverkauft."
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "302E",
+    "pages": [
+      "Ich hatte es Dir doch schon \ngesagt! Bomben sind ausverkauft!\nWenn ich nur nicht solchen Hunger\nhätte!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0084",
+    "pages": [
+      "Vielen Dank!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0085",
+    "pages": [
+      "Deine Rubine reichen nicht aus!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0086",
+    "pages": [
+      "Das kannst Du jetzt nicht kaufen."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0096",
+    "pages": [
+      "Tut mir leid... Du brauchst eine\nleere Flasche, damit Du das hier\nkaufen kannst."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "00A3",
+    "pages": [
+      "Bomben   5 Stück   25 Rubine\nBenutze sie mit [C]. Du kannst\nsie nur kaufen, wenn Du eine\nBombentasche besitzt."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "008B",
+    "pages": [
+      "Bomben   5 Stück   25 Rubine\n\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "00B1",
+    "pages": [
+      "Bomben  10 Stück  50 Rubine\nBenutze sie mit [C]. Du kannst\nsie nur kaufen, wenn Du eine\nBombentasche besitzt."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "007C",
+    "pages": [
+      "Bomben  10 Stück  50 Rubine\n\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "001C",
+    "pages": [
+      "Bomben   20 Stück   80 Rubine\nHalte die Bombe mit [C], drücke\nzum Ablegen nochmal [C]."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0006",
+    "pages": [
+      "Bomben   20 Stück   80 Rubine\n\n\nKaufen\nNicht kaufen"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "001D",
+    "pages": [
+      "Bomben   30 Stück   120 Rubine\nHalte die Bombe mit [C], drücke\nzum Ablegen nochmal [C]."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "001E",
+    "pages": [
+      "Bomben   30 Stück   120 Rubine\n\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "00AA",
+    "pages": [
+      "Goronen-Rüstung   200 Rubine\nEine starke Rüstung der Goronen,\ndie nur Erwachsenen paßt.\nSchützt auch vor großer Hitze!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0093",
+    "pages": [
+      "Goronen-Rüstung   200 Rubine\n\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "00AC",
+    "pages": [
+      "Herz   10 Rubine\nDamit füllst Du ein Herz\nDeiner Energieleiste auf."
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "0095",
+    "pages": [
+      "Herz   10 Rubine\n\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "00A5",
+    "pages": [
+      "Rotes Elixier   30 Rubine\nDamit füllst Du Deine Energieleiste\nvollständig auf. Zur einmaligen\nAnwendung!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "008E",
+    "pages": [
+      "Rotes Elixier   30 Rubine\n\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "3049",
+    "pages": [
+      "Paßt genau..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "304A",
+    "pages": [
+      "Ich arbeite gerade an etwas sehr \nInteressantem! Doch ich denke, es\nwird noch eine Weile dauern..."
+    ],
+    "controls": [
+      "TEXTID(0x304B)"
+    ],
+    "context": null
+  },
+  {
+    "id": "304B",
+    "pages": [
+      "Ich schätze, in fünf oder sechs\nJahren dürfte es fertig sein!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "304C",
+    "pages": [
+      "Ich habe eine Waffe fertiggestellt.\nWie wär's damit?"
+    ],
+    "controls": [
+      "TEXTID(0x304F)"
+    ],
+    "context": null
+  },
+  {
+    "id": "304D",
+    "pages": [
+      "Das Schwert ist doch kunstvoll\ngeschmiedet, nicht wahr?"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "304E",
+    "pages": [
+      "Oh, es scheint da ein Problem mit \nder Stabilität zu geben.\nAber warte mal..."
+    ],
+    "controls": [
+      "TEXTID(0x304F)"
+    ],
+    "context": null
+  },
+  {
+    "id": "304F",
+    "pages": [
+      "Möchtest Du vielleicht DIESE\nWaffe für 200 Rubine kaufen?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "3050",
+    "pages": [
+      "Nun gut, komm später wieder."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3053",
+    "pages": [
+      "Mein Bruder...\nEr hat einen neuen Laden...\nEs ist Medigorons \nWaffengeschäft...",
+      "Er ist gut... \nAber ich schmiede bessere\nKlingen.",
+      "Die hylianischen Zimmerleute\nwissen meine Arbeit zu schätzen.\nGlaub mir..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3054",
+    "pages": [
+      "Zweifelsohne eine Waffe aus \nmeiner Schmiede!\nIch würde sie reparieren...",
+      "Doch beim letzten Erdbeben ist mir \nLavastaub in die Augen geraten.\nSeitdem sehe ich schlecht!",
+      "In Zoras Reich gibt es wundersame\nAugentropfen. Wende Dich an \nKönig Zora..."
+    ],
+    "controls": [
+      "TEXTID(0x3055)"
+    ],
+    "context": null
+  },
+  {
+    "id": "3055",
+    "pages": [
+      "Bitte, bringe mir die Augentropfen!\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "3056",
+    "pages": [
+      "Ich bitte Dich! Mir geht es gar \nnicht gut... Meine Augen brennen!\nBitte..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3058",
+    "pages": [
+      "Ich warte hier auf Dich,\nmit tränenden Augen...\nBitte grüße König Zora von mir!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3059",
+    "pages": [
+      "Du... Du bringst die Augentropfen!\nDu bist meine Rettung! Ich werde\nsie gleich ausprobieren!"
+    ],
+    "controls": [
+      "EVENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "305A",
+    "pages": [
+      "Wow!",
+      "Unglaublich! Grandios!\nIch kann wieder sehen!",
+      "Endlich kann ich wieder\nschmieden! Hier, nimm dies und \nschau in ein paar Tagen wieder \nvorbei!"
+    ],
+    "controls": [
+      "TEXTID(0x305C)"
+    ],
+    "context": null
+  },
+  {
+    "id": "305C",
+    "pages": [
+      "Noch einige Tage...\nGut Ding will Weile haben...\nGedulde Dich noch..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "305D",
+    "pages": [
+      "Nein, noch immer nicht...\nEs ist noch nicht fertig...\nDu bist sehr ungeduldig..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "305E",
+    "pages": [
+      "Hier ist es... Endlich!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3002",
+    "pages": [
+      "Hallo... Das habe ich gegen das\nZertifikat eingetauscht..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3003",
+    "pages": [
+      "Ich gebe es Dir als Geschenk..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7200",
+    "pages": [
+      "Halt! Stehenbleiben. Wer bist Du?\nWas? Du bist [Spielername]? Nun\ngut, Darunia wies uns an, Dich\ndurchzulassen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7201",
+    "pages": [
+      "Erzähle niemandem, was Du hier\ngesehen hast. Goronias Projekte sind\nstrengstens geheim und gehen den\nRest von Hyrule nichts an!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7202",
+    "pages": [
+      "Was ist der Grund für Deinen\nAufenthalt in Goronia? Du möchtest\nmit Darunia sprechen? Bist Du etwa\n[Spielername]?"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7203",
+    "pages": [
+      "Ich fürchte, mit Wallace wirst Du\naktuell nicht sprechen können. Er\nwurde zum Feuertempel geschickt. Ein\nOrt, den man nicht einfach so leicht",
+      "verlassen kann. Zumindest nicht bis\nSchichtende!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7205",
+    "pages": [
+      "Hallo, Zivilist. Sei unbesorgt, Kakariko\nsteht unter dem Schutz von Goronia!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7204",
+    "pages": [
+      "Man schickte mich hierher, um Philipp\nAmthor als Security zu dienen. Aber\nirgendwie hab ich mich verlaufen.\nMann, ah fuck, Mist, Scheiße! Ich bin",
+      "ein schlechter Bodyguard."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7206",
+    "pages": [
+      "Diese Gerudo-Kriegerinnen haben die\nBrücke gekappt. Was soll sowas??\nAch, Moment mal, wir sind ja die\nInvasoren... Dann ist's vielleicht doch",
+      "gar nicht mal so unberechtigt."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7207",
+    "pages": [
+      "Merz hat uns den Auftrag gegeben,\nan der Grenze zum Gerudotal eine\nMilitärübung durchzuführen. Ich wußte\nnicht, daß wir den Auftrag zum",
+      "Angriff bekommen würden."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7208",
+    "pages": [
+      "Ich will wieder zum Todesberg zurück\nund mies Steine fressen!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7209",
+    "pages": [
+      "Wir haben klare Anordnungen, auf die\nich ganz klar keinen Bock hab."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "720A",
+    "pages": [
+      "Bis zur nächsten Woche haben wir\ndas Ding hier erobert!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "720B",
+    "pages": [
+      "Ich hasse Rock Music. Sie geht mir\nauf den Goronen-Sack!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "720C",
+    "pages": [
+      "Junge, dieser Typ hier labert Zeugs,\ndas keinen Sinn macht. Wer ist das\nüberhaupt? Den hab ich vor 7 Jahren\nnoch nicht gesehen!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7224",
+    "pages": [
+      "Wie schaffst du es, hier drin zu\nüberleben? Der letzte Typ ist in\nFlammen aufgegangen. Sein Name war\nJoe."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7225",
+    "pages": [
+      "Joe Mama!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7226",
+    "pages": [
+      "Goronia hat die stärkste Armee in\nganz Hyrule. Und das nur dank\nFriedrich Merz!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7228",
+    "pages": [
+      "Der Feuertempel war einst das\nHeiligtum der Goronen. Friedrich Merz\nbenutzt ihn nun als Arbeitslager. Er\nliebt Arbeit wie kein anderer, sagt",
+      "er."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7229",
+    "pages": [
+      "Ich habe diesen Flammenwerfer, um\nden Gerudo ein Stück vom Todesberg\nmitzubringen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "7234",
+    "pages": [
+      "Ich bin total gespannt die Gerudo zu\ntreffen. Die sind bestimmt total nett\ngoro goro!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "209E",
+    "pages": [
+      "Oh, hi, lad! Wallace hier. Die Zelle\nist von außen verriegelt. Da haben\nwir den Käse. Leider nur im\nübertragenen Sinne.",
+      "Könntest Du den Schalter für die\nZelle suchen? Ich muß hier raus,\nbevor aus meinem Gouda Fondue\nwird!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "209D",
+    "pages": [
+      "Oh, hi, lad! Wallace hier. Schön, Dich\nwiederzusehen! Danke, daß Du mich\nbefreit hast. Du bist ein schlaues\nBürschchen.",
+      "Ich sehe, Du trägst mein Outfit. Das\nwar ursprünglich ein Prototyp, aber\nich freue mich, daß er funktioniert!",
+      "Die letzte Zeit war schrecklich für\nmich. Friedrich Merz hat mich hier\nfestgehalten und gezwungen, Tag und\nNacht an Projekt Atom-Donnerblume",
+      "zu arbeiten.",
+      "Es tut mir so leid, lad. Aber hätte\nich mich geweigert, hätte er diesen\nfurchtbaren Drachen auf die\nunschuldigen Bewohnerinnen und",
+      "Bewohner Kakarikos gehetzt. Das\nkonnte ich einfach nicht zulassen.",
+      "Deswegen habe ich einen besonderen\nHammer entwickelt. Merz fand das\nheraus und sperrte mich aus Zorn in\ndiese Zelle.",
+      "Bitte finde diesen Hammer. Ich selbst\nwerde mich nun zu dem Drachen\nbegeben und meinem Schicksal ins\nAuge blicken.",
+      "Das Volk der Goronen war ein\nfriedliches, gemütliches Volk. Doch\nunter Merz wurden nun Soldaten\nausgebildet.",
+      "Ich habe noch ein Stück Gouda in der\nTasche. Vielleicht läßt sich die\nDrachendame damit besänftigen. Wir\ntreffen uns dort, lad!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "303C",
+    "pages": [
+      "Oh, hi, lad! Das ging wohl ganz\nschön nach hinten los. Tja, Hochmut\nkommt vor dem Fall!",
+      "Ich wollte den fürchterlichen Drachen\nmit einem Stück Gouda besänftigen.\nLiebe geht schließlich durch den\nMagen.",
+      "Doch unsere Drachendame war wohl\nlaktoseintolerant. Da hatten wir den\nKäse!",
+      "Nicht einmal Wensleydale konnte mir\ndiesmal das Leben retten. Gegen den\nTod ist kein Käse gewachsen."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "303D",
+    "pages": [
+      "Und wenn Du Gromit siehst, biete\nihm ein Stück Käse an. Er ist ein\nbraver Junge!"
+    ],
+    "controls": [
+      "FADE(80)"
+    ],
+    "context": null
+  },
+  {
+    "id": "303E",
+    "pages": [
+      "Hier ist alles voller Feuer, und der\nEinkauf ist echt teuer.",
+      "Wallace ist der Mann, den Du suchst.\nTodesberg ist der Flug, den Du\nbuchst.",
+      "Mr. Bean war ein großer Krieger. Ich\nsteig gleich wieder in den Flieger.",
+      "Und nun lerne den nächsten\nTeleport-Song: den Bolero des Feuers.",
+      "Dann mußt Du nicht wieder den\nganzen Weg hierher latschen und so."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "303F",
+    "pages": [
+      "[Spielername]... Bis bald..."
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3045",
+    "pages": [
+      "Nun bin ich also der Weise des\nFeuers. Aus Schaden wird man klug,\nlad. Aus diesem leider erst nach dem\nTod.",
+      "Ich hoffe, Du gehst weiterhin Deinem\nEntdeckergeist nach und wirst nicht\nmüde, Fragen zu stellen.",
+      "Wer nicht fragt, bleibt dumm! Und\nwer rastet, der rostet. Das gilt auch\nfür einen Forscher.",
+      "Friedrich Merz hat ja das gesamte\nForschungsgeld in Hyrule gekürzt. Da\nliegt der Hund begraben!",
+      "Mit leeren Taschen ist schlecht\nforschen. Aber Not macht\nerfinderisch. Also machen wir weiter,\nlad!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "3046",
+    "pages": [
+      "Hier, lad! Das Feueramulett. Meine\nKraft für Dich. Auf daß Du Merz\nordentlich Feuer unter dem Hintern\nmachst!"
+    ],
+    "controls": [],
+    "context": null
+  },
+  {
+    "id": "70E1",
+    "pages": [
+      "Ho ho! Du hast es geschafft und das\nFeuer-Siegel gebrochen! Gut gemacht,\nlad!"
+    ],
+    "controls": [
+      "FADE(40)"
+    ],
+    "context": null
+  },
+  {
+    "id": "0081",
+    "pages": [
+      "Der Goronen-Opal!\nVon den Goronen wurde Dir\ndieser Heilige Stein\ndes Feuers übergeben!",
+      "Verlier ihn bloß nicht!"
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_GORON_RUBY)"
+    ],
+    "context": null
+  },
+  {
+    "id": "003C",
+    "pages": [
+      "Das Amulett des Feuers!\nWallace, der Weise des\nFeuers, überträgt Dir seine\nKraft!"
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_MEDALLION_FIRE)"
+    ],
+    "context": null
+  },
+  {
+    "id": "0050",
+    "pages": [
+      "Die Goronen-Rüstung! Wallace\nhat die erfunden. Sie schützt\nErwachsene vor extremer\nHitze."
+    ],
+    "controls": [
+      "ITEM_ICON(ITEM_TUNIC_GORON)"
+    ],
+    "context": null
+  },
+  {
+    "id": "0093",
+    "pages": [
+      "Goronen-Rüstung   200 Rubine\n\n\nKaufen!\nNicht kaufen!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ],
+    "context": null
+  },
+  {
+    "id": "00AA",
+    "pages": [
+      "Goronen-Rüstung   200 Rubine\nEine starke Rüstung der Goronen,\ndie nur Erwachsenen paßt.\nSchützt auch vor großer Hitze!"
+    ],
+    "controls": [
+      "PERSISTENT"
+    ],
+    "context": null
+  },
+  {
+    "id": "3007",
+    "pages": [
+      "Oh!",
+      "Was geht hier vor sich?!",
+      "Oh mein Gott!",
+      "Was ist geschehen?!",
+      "Ich kann nicht mehr aufhören!",
+      "Mein Körper...",
+      "...gehorcht mir nicht mehr!",
+      "Irgendwas ist mit meinem Blut los!",
+      "HÖR AUF!"
+    ],
+    "controls": [
+      "BOX_BREAK_DELAYED(30)",
+      "BOX_BREAK_DELAYED(40)",
+      "BOX_BREAK_DELAYED(30)",
+      "BOX_BREAK_DELAYED(40)",
+      "BOX_BREAK_DELAYED(30)",
+      "BOX_BREAK_DELAYED(40)",
+      "BOX_BREAK_DELAYED(40)",
+      "BOX_BREAK_DELAYED(40)"
+    ],
+    "context": null
+  },
+  {
+    "id": "303B",
+    "pages": [
+      "[Spielername]... Schnell... \nIch kann die Last nicht\nlänger tragen...",
+      "Raus hier!"
+    ],
+    "controls": [],
+    "context": null
+  }
+]
