@@ -1,3 +1,7 @@
+## V111 – Verbleibende Ganondorf-Nennungen ersetzt
+
+Die drei verbliebenen deutschen Erwähnungen in Mythenstein-Gerüchten heißen jetzt Friedrich Merz. Alle bisherigen V110-Änderungen enthalten. Normal-/DEBUG-BPS auf die saubere deutsche PAL1.0-Basis anwenden. Geänderte Texte und Verifikation im Hauptverzeichnis.
+
 ## V110 – Boss-Schriftzug Friedrich Merz
 
 „Großmeister des Bösen“ bleibt erhalten, „GANONDORF“ ist durch „FRIEDRICH MERZ“ ersetzt. Alle V109-Änderungen enthalten. Normal-/DEBUG-BPS auf die saubere deutsche PAL1.0-Basis anwenden. Vorschau und Verifikation im Hauptverzeichnis.

@@ -1,0 +1,25 @@
+V111 – Verbleibende deutsche Ganondorf-Nennungen
+
+Drei verbleibende Nennungen in deutschen Spieltexten wurden gefunden und ersetzt:
+0414: Gerudo-Kriegerinnen würden Friedrich Merz nahezu als Gott verehren.
+0418: Friedrich Merz' schwarzer Hengst wäre ein Bote aus der Hölle.
+0419: Friedrich Merz strebe die Herrschaft über ganz Hyrule an.
+Die Gerüchte bleiben ansonsten unverändert. Alle drei Nachrichten passen in
+vier Zeilen mit der tatsächlichen Schriftbreite, ohne neue Seiten oder
+Steuerbefehle. Eine vollständige Suche aller deutschen Nachrichten einschließlich
+Maskenreaktionen ergibt jetzt keinen Treffer für Ganondorf mehr. Übersetzungen
+anderer Sprachen und interne technische Bezeichner sind nicht umbenannt.
+Der Boss-Schriftzug Friedrich Merz aus V110 bleibt erhalten.
+Alle bisherigen Spieländerungen aus V110 und V109 sind enthalten.
+
+Normal und DEBUG sind neu gebaut und überprüft. Jeweils 1543 von 1547 Segmenten
+sind vollständig bytegleich zu V110. Die Unterschiede liegen ausschließlich
+in den deutschen Nachrichtendaten, den nötigen lokalisierten Textzeigern,
+der ROM-Dateitabelle und den ROM-Prüfdaten. Ausführbarer Code, Actor-Overlays,
+Musik, Szenen und Texturen sind bytegleich. Keine zusätzlichen Actors.
+Die drei Nachrichten bleiben innerhalb des 1280-Byte-Nachrichtenpuffers.
+Die Produktionsquelle läßt sich idempotent regenerieren. Beide BPS wurden
+unabhängig auf die saubere Basis angewandt und ergeben die geprüften ROMs.
+Kein erneuter Spieldurchlauf für diese reine Textänderung.
+
+BPS auf die unveränderte deutsche PAL1.0-ROM anwenden, nicht auf V110.

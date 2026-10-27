@@ -1,0 +1,26 @@
+{
+  "normal": {
+    "unchanged_segments": 1543,
+    "changed_segments": [
+      "makerom",
+      "dmadata",
+      "ger_message_data_static",
+      "code"
+    ],
+    "executable_code_unchanged": true,
+    "actors_audio_scenes_and_textures_byte_identical": true,
+    "zero_ganondorf_in_german_message_data": true
+  },
+  "debug": {
+    "unchanged_segments": 1543,
+    "changed_segments": [
+      "makerom",
+      "dmadata",
+      "ger_message_data_static",
+      "code"
+    ],
+    "executable_code_unchanged": true,
+    "actors_audio_scenes_and_textures_byte_identical": true,
+    "zero_ganondorf_in_german_message_data": true
+  }
+}
