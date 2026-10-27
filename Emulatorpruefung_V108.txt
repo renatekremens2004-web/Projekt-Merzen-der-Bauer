@@ -1,0 +1,94 @@
+V108 – Emulatorvergleich und Biggoron-Schwert
+
+Ergebnis: 22 gezielte Emulator-Prüffälle bestanden. Kein kompletter manueller
+Durchlauf von Anfang bis Ende auf jedem Emulator. Project64 ist nicht verifiziert.
+
+Änderung an der Mod:
+Das Biggoron-/Langschwert verursacht den doppelten Standardschaden:
+Hieb und Wirbelattacke 8 statt 4, Sprungattacke 16 statt 8. Die zwei gemeinsamen
+Schadenspfade für Zweihandschwerter sind angepasst; damit gilt dieselbe Erhöhung
+auch für das intakte Zweihandschwert des Medigoron. Andere Angriffe, Immunitäten
+und harte Panzerung bleiben in den geprüften Schadensfunktionen unverändert.
+32 Angriffsflags, 480 Tabellen-/Angreifer-Kombinationen und 480 Panzerungsfälle
+wurden im gezielten C-Funktionstest gegen V107 verglichen.
+
+Normal und DEBUG wurden neu gebaut. Gegen V107 ändern sich jeweils nur acht
+Bytes im Programmsegment. 1546 von 1547 Segmenten sind bytegleich; alle Actor-
+Overlays, Dialoge, Modelle, Szenendaten und Musikdaten sind identisch. Sämtliche
+Symboladressen bleiben gleich. Es gibt keine neue Speicherbelegung durch diese
+Änderung. Beide BPS-Dateien wurden unabhängig auf die saubere deutsche PAL-1.0-
+Basis angewendet und ergeben exakt die geprüften ROM-Hashes. Nicht auf V107
+aufpatchen: jeweils die unveränderte PAL-1.0-Basis verwenden.
+
+Tatsächlich geprüfte Emulatorpfade:
+
+RMG 0.9.0, mitgelieferter Mupen64Plus-Core 2.6.0, dynamischer Recompiler:
+- GLideN64 + HLE RSP, 4 MiB: Normal in Dodongos Höhle, Brunnen, Feuer-, Wasser-,
+  Schatten- und Geistertempel, Links Haus (Kind) und Zitadelle der Zeit (Adult).
+  Es handelt sich jeweils um den normalen Speicherstand-Einstieg, Raum 0.
+- GLideN64 + HLE RSP, 4 MiB: DEBUG in Dodongos Höhle und Feuertempel, Raum 0.
+- angrylion-plus 1.6.0 + CXD4 RSP, 4 MiB: Dodongos Höhle und Brunnen, Raum 0.
+Insgesamt 12 Fälle. Geprüft: Spielstand wird über die Dateiauswahl geladen,
+Inventarmenü wird geöffnet und geschlossen, Kollisionsdaten bleiben bytegleich,
+Link hat anschließend Boden, keine verweigerten Actor-/Objekt-Zuweisungen,
+Grafikpuffer und Objektbank bleiben im Budget.
+
+Offizielles Mupen64Plus-2.6.0-Release-Binary, dynamischer Recompiler,
+GLideN64/HLE-Plugins aus RMG 0.9.0, 8 MiB:
+- Dodongos Höhle: Spielstand laden, Inventar öffnen/schließen, Kollision/Boden.
+- Wirklich neues Spiel aus leerem SRAM: deutsche Sprache, Name anlegen,
+  komplette Eröffnung, erster Navi-Dialog 1000, freie Steuerung und Inventarmenü.
+Insgesamt 2 Fälle. Dies ist dieselbe Core-Versionsnummer wie die bisherige Basis,
+aber ein anderes Release-Binary und hier der dynamische Recompiler.
+
+ARES 148, aktueller Release-Quellstand, eigener CPU- und RSP-Kern,
+paraLLEl-RDP über Vulkan, 4 MiB:
+- Normal: Dodongos Höhle, Brunnen und Feuertempel, jeweils Raum 0.
+- DEBUG: Dodongos Höhle, Raum 0.
+- Pieps im ersten Echsenraum (Dodongos Höhle, Raum 3): Käfig, Hilferuf,
+  Kamera, native Echsentode, Befreiungstext, gespeichertes Befreiungsflag, Musik.
+- König Dodongo: native Inventarbombe, Verschlucken, Pieps-Flug mit Musik,
+  native Todessequenz, Herzcontainer, Portal, Raumabschluss, freie Steuerung
+  und abgeschlossenes Nachkampfgespräch 723B.
+- Darunias Raum im Feuertempel (Raum 2) und der Brunnenraum mit Velma/Organen
+  und Silberrubinen (Raum 1): Laden, Inventarzyklus, unveränderte Kollision,
+  Boden und erfolgreiche Speicherzuweisungen.
+Insgesamt 8 Fälle. Die automatisierten Fälle benutzen die unveränderte N64-
+Bibliothek von ares 148 mit einem kleinen Test-Frontend. Zusätzlich wurde die
+reguläre Qt-Desktop-Anwendung gebaut und mit der ROM bis zur Titelszene gestartet.
+Native Audiodaten wurden unter anderem im Brunnen-, DEBUG- und Pieps-Test als
+nichtstille Ausgabe bestätigt. Das ist kein vollständiger Hörtest aller Musik.
+
+RMG beruht auf Mupen64Plus; ares ist hier der unabhängige Emulator-Vergleich.
+Die Grafiktests liefen mit Software-OpenGL bzw. Mesa-lavapipe-Vulkan unter Xvfb.
+Ihre Geschwindigkeit ist keine Aussage über die Framerate auf deinem Rechner.
+Windows-Grafiktreiber, echte N64-Hardware und alle möglichen Plugin-Einstellungen
+sind damit nicht geprüft.
+
+Project64:
+Das offizielle portable Win32-Nightly Dev-4.0.0-6807-777fbdf wurde heruntergeladen.
+Wine 10.0 ließ sich hier nicht zu einer verlässlichen Project64-Sitzung bringen
+(unter anderem user32-/kernel32-Initialisierung). Die ROM wurde damit nicht
+geprüft. Für Project64 gibt es ausdrücklich keine Kompatibilitätszusage.
+
+Testmethodik und Grenzen:
+Die normalen Raumtests laden vorbereitete gültige SRAM-Spielstände durch die
+Dateiauswahl. Pieps und die beiden zusätzlichen Innenräume bekommen ihren
+Testzustand am nativen Eintritt von Play_Init, nach dem echten Dateimenü.
+Die Echsen erhalten akzeptierte Treffer; ihre Todes- und Rätsellogik läuft nativ.
+Beim Boss wird eine echte Inventarbombe benutzt. Das ersetzt kein manuelles
+Durchspielen der kompletten Dungeons auf jedem Emulator.
+Der erste Nachkampf-Test war einen Initialisierungsschritt zu früh; der Endtest
+wartet auf den fertig initialisierten Vogel. Die ROM wurde dafür nicht geändert.
+Zwei Außenwelt-SRAM-Fälle werden vom Originalspiel nach Links Haus bzw. in die
+Zitadelle umgeleitet und sind entsprechend gezählt, nicht als Wald-Besuche.
+Frühe direkte PlayState-Snapshot-Versuche und zeitbegrenzte Intro-Proben sind
+nicht als bestandene vollständige Abläufe gewertet.
+
+Die früheren umfangreichen V106/V107-Prüfungen bleiben zusätzliche Nachweise.
+Nicht jeder dort geprüfte NPC und jede Zwischensequenz wurde auf jedem neuen
+Emulator erneut besucht. Der unveränderte Actor-/Asset-Stand wurde binär belegt.
+Ein vollständiger Durchlauf von Anfang bis Abspann bleibt eine separate Prüfung.
+
+Einzelfälle, Konfigurationen, Komponenten-Hashes und Einschränkungen stehen in
+Emulatorpruefung_V108.json; die nachvollziehbaren Logs im Nachweis-ZIP.

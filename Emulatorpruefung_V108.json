@@ -1,0 +1,638 @@
+{
+  "version": "V108",
+  "date_utc": "2026-10-27T11:54:36.848576+00:00",
+  "all_listed_cases_passed": true,
+  "completed_cases": [
+    {
+      "log": "rmg090-sram-dd2.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 1,
+      "room": 0,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-08-1-glide.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 8,
+      "room": 0,
+      "age": 1,
+      "fixture_note": null,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-04-0-glide.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 4,
+      "room": 0,
+      "age": 0,
+      "fixture_note": null,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-05-0-glide.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 5,
+      "room": 0,
+      "age": 0,
+      "fixture_note": null,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-07-0-glide.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 7,
+      "room": 0,
+      "age": 0,
+      "fixture_note": null,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-06-0-glide.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 6,
+      "room": 0,
+      "age": 0,
+      "fixture_note": null,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-55-1-glide.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 52,
+      "room": 0,
+      "age": 1,
+      "fixture_note": "Sram_OpenSave normally redirects a child outdoor save to Links House, an adult save to Temple of Time. The actual loaded scene, not Kokiri Forest, is counted.",
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-55-0-glide.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 67,
+      "room": 0,
+      "age": 0,
+      "fixture_note": "Sram_OpenSave normally redirects a child outdoor save to Links House, an adult save to Temple of Time. The actual loaded scene, not Kokiri Forest, is counted.",
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-01-1-angry.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "angrylion-plus 1.6.0 / CXD4 Static Interpreter 1.1",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 1,
+      "room": 0,
+      "age": 1,
+      "fixture_note": null,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "rmg090-native-08-1-angry.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "angrylion-plus 1.6.0 / CXD4 Static Interpreter 1.1",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 8,
+      "room": 0,
+      "age": 1,
+      "fixture_note": null,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "debug-dd.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "debug",
+      "scene": 1,
+      "room": 0,
+      "check": "native SRAM load and inventory roundtrip"
+    },
+    {
+      "log": "debug-fire.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "RMG 0.9.0 core bundle",
+      "graphics": "GLideN64 / HLE RSP",
+      "ram_mib": 4,
+      "mode": "debug",
+      "scene": 4,
+      "room": 0,
+      "check": "native SRAM load and inventory roundtrip"
+    },
+    {
+      "log": "official260-dd8.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "official Mupen64Plus 2.6.0 release binary",
+      "graphics": "RMG 0.9.0 GLideN64 / HLE RSP",
+      "ram_mib": 8,
+      "mode": "normal",
+      "scene": 1,
+      "room": 0,
+      "check": "native SRAM load and inventory roundtrip"
+    },
+    {
+      "log": "official260-newfile.log",
+      "passed": true,
+      "marker": "NATIVE_NEW_GAME_PASSED",
+      "emulator": "official Mupen64Plus 2.6.0 release binary",
+      "graphics": "RMG 0.9.0 GLideN64 / HLE RSP",
+      "ram_mib": 8,
+      "mode": "normal",
+      "check": "empty SRAM, German language, native name entry/new-file creation, entire opening, Navi 1000, return of control, inventory roundtrip"
+    },
+    {
+      "log": "ares-sram-dd.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "ares 148 official release source, unchanged N64 core",
+      "graphics": "native RSP / paraLLEl-RDP Vulkan",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 1,
+      "room": 0,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "ares-sram-well.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "ares 148 official release source, unchanged N64 core",
+      "graphics": "native RSP / paraLLEl-RDP Vulkan",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 8,
+      "room": 0,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "ares-sram-fire.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "ares 148 official release source, unchanged N64 core",
+      "graphics": "native RSP / paraLLEl-RDP Vulkan",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 4,
+      "room": 0,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "ares-debug-dd.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "ares 148 official release source, unchanged N64 core",
+      "graphics": "native RSP / paraLLEl-RDP Vulkan",
+      "ram_mib": 4,
+      "mode": "debug",
+      "scene": 1,
+      "room": 0,
+      "check": "native SRAM load, inventory roundtrip, collision hash, floor, allocation budgets"
+    },
+    {
+      "log": "ares-pieps-rescue2.log",
+      "passed": true,
+      "marker": "PIEPS_QA_PASSED rescue persisted",
+      "emulator": "ares 148",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 1,
+      "room": 3,
+      "check": "Pieps cage and intro; accepted damage through native Lizalfos death logic; rescue conversation and persistent rescue flag; own music"
+    },
+    {
+      "log": "ares-pieps-dodongo-final.log",
+      "passed": true,
+      "marker": "PIEPS_QA_PASSED assisted boss;",
+      "emulator": "ares 148",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 18,
+      "room": 1,
+      "check": "native inventory bomb pickup and swallow; Pieps flight and own theme; native boss death, heart, warp, room clear, return of control; post-boss conversation 723B"
+    },
+    {
+      "log": "ares-critical-fire-darunia.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "ares 148",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 4,
+      "room": 2,
+      "check": "critical interior fixture at native Play_Init, inventory roundtrip, unchanged collision and floor, no refused object/actor allocations"
+    },
+    {
+      "log": "ares-critical-well-organs.log",
+      "passed": true,
+      "marker": "COMPAT_SRAM_PASSED",
+      "emulator": "ares 148",
+      "ram_mib": 4,
+      "mode": "normal",
+      "scene": 8,
+      "room": 1,
+      "check": "critical interior fixture at native Play_Init, inventory roundtrip, unchanged collision and floor, no refused object/actor allocations"
+    }
+  ],
+  "case_count": 22,
+  "cpu": "dynamic recompiler (RMG/official R4300Emulator=2; ares native CPU/RSP recompilers enabled)",
+  "components": [
+    {
+      "path": "rmg-libs/libmupen64plus.so.2",
+      "name": "Mupen64Plus Core",
+      "version": "0x20600",
+      "api": "0x20106",
+      "caps": 1,
+      "sha256": "644a4a2ec0f11005a7cb4d0b4fc7a6dbdce2b72de380614dda7a347d981fb43a"
+    },
+    {
+      "path": "mupen260/mupen64plus-bundle-linux64-2.6.0/libmupen64plus.so.2",
+      "name": "Mupen64Plus Core",
+      "version": "0x20600",
+      "api": "0x20106",
+      "caps": 1,
+      "sha256": "59863af10a786f3d2c46d93d5e493a87cbaffbe03b51ce4c52169a353e467900"
+    },
+    {
+      "path": "squashfs-root/shared/lib/RMG/Plugin/GFX/mupen64plus-video-GLideN64.so",
+      "name": "GLideN64",
+      "version": "0x20000",
+      "api": "0x20200",
+      "caps": 0,
+      "sha256": "11bb18753e76a90c42a396e247a90ae130b2fe48c6ba9810c972f9d0bdf575dd"
+    },
+    {
+      "path": "squashfs-root/shared/lib/RMG/Plugin/GFX/mupen64plus-video-angrylion-plus.so",
+      "name": "angrylion's RDP Plus",
+      "version": "0x10600",
+      "api": "0x20500",
+      "caps": 0,
+      "sha256": "731d62a26f044edf2cbda04ea2c5da7b70316835ba087f623e5667e300a6f935"
+    },
+    {
+      "path": "squashfs-root/shared/lib/RMG/Plugin/GFX/mupen64plus-video-parallel.so",
+      "name": "parallel",
+      "version": "0x1",
+      "api": "0x20200",
+      "caps": 0,
+      "sha256": "eb8206da7a1dcba011ba7394631ea2afee57db48754ae1b9a3025c63c7f144b9"
+    },
+    {
+      "path": "squashfs-root/shared/lib/RMG/Plugin/RSP/mupen64plus-rsp-cxd4.so",
+      "name": "Static Interpreter",
+      "version": "0x101",
+      "api": "0x20000",
+      "caps": 0,
+      "sha256": "4243540237ae6e233e77fbb6b74a239e7ec70ec7d00e1ea617208f32f933df7c"
+    },
+    {
+      "path": "squashfs-root/shared/lib/RMG/Plugin/RSP/mupen64plus-rsp-hle.so",
+      "name": "Hacktarux/Azimer High-Level Emulation RSP Plugin",
+      "version": "0x20600",
+      "api": "0x20000",
+      "caps": 0,
+      "sha256": "35cccbceb371349eae4dd1db9fbad2f71b018428d69a0dd3436a3d0cb0cbbfbd"
+    },
+    {
+      "path": "squashfs-root/shared/lib/RMG/Plugin/RSP/mupen64plus-rsp-parallel.so",
+      "name": "ParaLLEl RSP",
+      "version": "0x101",
+      "api": "0x20000",
+      "caps": 0,
+      "sha256": "e8e1056f99ee486b3dd79f068512afaceda7aa652624dd4981918e31ca86adc7"
+    }
+  ],
+  "patches": {
+    "base_sha256": "f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7",
+    "builds": {
+      "normal": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_Emulatorcheck_Biggoron_V108.bps",
+        "bytes": 67108864,
+        "rom_sha256": "cf7dada6583814205911633734e08ac9bb7ffce0dc002b9ddfd5a30790e8ccb2",
+        "patch_bytes": 30341627,
+        "patch_sha256": "9bf3842d58f71994d407423cfecd7b0b38e90a7f2816e9a16f46db85784b1cde",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      },
+      "debug": {
+        "filename": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Emulatorcheck_Biggoron_V108.bps",
+        "bytes": 67108864,
+        "rom_sha256": "283c879f3c0026d7c0c0d35d5e3b4e8e422b096399f0b3ca3f19038205a28b64",
+        "patch_bytes": 30447141,
+        "patch_sha256": "d48da913d6443b9cedea5b95136555d386e6fecaac723538bff0a8d9f655a176",
+        "n64_checksum_verified": true,
+        "independently_applied_byte_identical": true
+      }
+    }
+  },
+  "source_persistence": {
+    "idempotent": true,
+    "hashes": {
+      "/workspace/oot-burns-pal/extracted/pal-1.0/text/message_data.h": "13975c528c06c94e6cb4f837893427104b52437a9ab7838ed53d2840e809693e",
+      "/workspace/oot-burns-pal/src/overlays/actors/ovl_En_Owl/z_en_owl.c": "5a738dfd4e2c045f37142d3c0eb77f690a33b2af87c223bf5ff6f2dbee868975",
+      "/workspace/oot-burns-pal/src/code/z_collision_check.c": "d4cc6ff231503a9ce42f1db09608939d240c513be67f09fe464b0ae6510e4286",
+      "/workspace/oot-burns-pal/extracted/pal-1.0/assets/textures/item_name_static/gKeatonMaskItemNameGERTex.ia4.png": "bdb4cb20ab6ece175dd7d753e08f81780b923fc0f12f4276faa578c6723ea416"
+    },
+    "changed_symbol_addresses": {
+      "normal": 0,
+      "debug": 0
+    }
+  },
+  "damage": {
+    "passed": true,
+    "flags_checked": 32,
+    "table_combinations": 480,
+    "hard_armor_combinations": 480,
+    "details": [
+      {
+        "bit": 0,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 1,
+        "generic_before": 2,
+        "generic_after": 2
+      },
+      {
+        "bit": 2,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 3,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 4,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 5,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 6,
+        "generic_before": 2,
+        "generic_after": 2
+      },
+      {
+        "bit": 7,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 8,
+        "generic_before": 2,
+        "generic_after": 2
+      },
+      {
+        "bit": 9,
+        "generic_before": 2,
+        "generic_after": 2
+      },
+      {
+        "bit": 10,
+        "generic_before": 4,
+        "generic_after": 8
+      },
+      {
+        "bit": 11,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 12,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 13,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 14,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 15,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 16,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 17,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 18,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 19,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 20,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 21,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 22,
+        "generic_before": 2,
+        "generic_after": 2
+      },
+      {
+        "bit": 23,
+        "generic_before": 4,
+        "generic_after": 8
+      },
+      {
+        "bit": 24,
+        "generic_before": 2,
+        "generic_after": 2
+      },
+      {
+        "bit": 25,
+        "generic_before": 4,
+        "generic_after": 4
+      },
+      {
+        "bit": 26,
+        "generic_before": 8,
+        "generic_after": 16
+      },
+      {
+        "bit": 27,
+        "generic_before": 4,
+        "generic_after": 4
+      },
+      {
+        "bit": 28,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 29,
+        "generic_before": 0,
+        "generic_after": 0
+      },
+      {
+        "bit": 30,
+        "generic_before": 4,
+        "generic_after": 4
+      },
+      {
+        "bit": 31,
+        "generic_before": 0,
+        "generic_after": 0
+      }
+    ]
+  },
+  "comparison": {
+    "normal": {
+      "before_sha256": "9966a885ec258d1249dde4bbaf9673b30f004f0b365c02aef1865c18ff86ecc9",
+      "after_sha256": "cf7dada6583814205911633734e08ac9bb7ffce0dc002b9ddfd5a30790e8ccb2",
+      "segments": 1547,
+      "unchanged_segments": 1546,
+      "changed_segments": [
+        {
+          "index": 28,
+          "name": "code",
+          "before_size": 1067456,
+          "after_size": 1067456,
+          "vrom_same": true
+        }
+      ],
+      "code": {
+        "text_binary_identical": false,
+        "text_bytes": 877152,
+        "changed_bytes": 8,
+        "changed_byte_min": 259994,
+        "changed_byte_max": 265726,
+        "all_changes_in_german_message_pointer_table": false,
+        "allowed_range": [
+          1041420,
+          1050360
+        ]
+      },
+      "all_actor_overlay_binaries_identical": true,
+      "all_other_assets_identical": true
+    },
+    "debug": {
+      "before_sha256": "db597d9bf2b2873dc6259c791f1233993dac1df6d7099fe6b5a4dc3db2ff4e45",
+      "after_sha256": "283c879f3c0026d7c0c0d35d5e3b4e8e422b096399f0b3ca3f19038205a28b64",
+      "segments": 1547,
+      "unchanged_segments": 1546,
+      "changed_segments": [
+        {
+          "index": 28,
+          "name": "code",
+          "before_size": 1067616,
+          "after_size": 1067616,
+          "vrom_same": true
+        }
+      ],
+      "code": {
+        "text_binary_identical": false,
+        "text_bytes": 877312,
+        "changed_bytes": 8,
+        "changed_byte_min": 259994,
+        "changed_byte_max": 265726,
+        "all_changes_in_german_message_pointer_table": false,
+        "allowed_range": [
+          1041580,
+          1050520
+        ]
+      },
+      "all_actor_overlay_binaries_identical": true,
+      "all_other_assets_identical": true
+    }
+  },
+  "project64": {
+    "status": "not verified; ROM not tested",
+    "build": "Dev-4.0.0-6807-777fbdf Win32 portable",
+    "attempt": "Wine 10.0 Debian on Linux; runtime initialization failed before a reliable emulator session",
+    "last_runtime_error": "wine: Call from 00006FFFFF3FCF77 to unimplemented function user32.dll.CreateDialogParamW, aborting\nwine: Unimplemented function user32.dll.CreateDialogParamW called at address 00006FFFFF3FCF77 (thread 002c), starting debugger...\nwine: could not load kernel32.dll, status c0000135\n"
+  },
+  "limitations": [
+    "Targeted automated tests; no full beginning-to-end playthrough on each emulator.",
+    "Dungeon entry checks cover room 0 unless another room is explicitly listed.",
+    "No claim that every custom NPC was visited on every core; V107 actor and asset binaries are byte-identical to V108.",
+    "RMG is a Mupen64Plus frontend/fork distribution; ares is the independent emulator implementation.",
+    "ares tests use the unchanged N64 static library from the v148 source release with a small automated frontend; the regular Qt desktop app was separately built and booted.",
+    "Software Vulkan (Mesa lavapipe 25.0.7) and Mesa software OpenGL on Xvfb; these runs are not a real-hardware GPU performance measurement.",
+    "Pieps/critical-room save contexts are seeded at the native Play_Init entry after a real file-menu load; accepted enemy-hit flags and a native bomb are driven by the harness. These are not manually played complete dungeon runs.",
+    "The official Mupen 2.6.0 binary ran with its normal 8 MiB configuration; the RMG and ares cases explicitly used 4 MiB."
+  ],
+  "harness_corrections": [
+    "Direct forced PlayState replacement from the old Mupen harness was not used as a compatibility result for the new packages. Native SRAM/menu loads replaced it.",
+    "SRAM outdoors reloads were counted as Links House/Temple of Time, because Sram_OpenSave normally redirects to those scenes; they are not counted as Kokiri Forest visits.",
+    "Initial official-package test expected 4 MiB but that binary actually allocated 8 MiB; final test explicitly expects its 8 MiB configuration.",
+    "The first ares boss probe queried the new NPC in the same VI in which the cutscene state changed; the final probe waits up to 180 VIs for native actor initialization. The ROM was unchanged.",
+    "Some opening probes had bounded runtimes and were not counted as full-intro passes. The separate official260 fresh-newfile test completed the entire opening."
+  ]
+}

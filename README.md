@@ -1,3 +1,12 @@
+## V108 – Biggoron-Schwert und Emulatorvergleich
+
+- [Normal-Patch V108](Mr_Burns_Mr_Bean_DE_PAL10_Emulatorcheck_Biggoron_V108.bps)
+- [DEBUG-Patch V108](Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_Emulatorcheck_Biggoron_V108.bps)
+- [Prüfbericht: 22 gezielte Fälle](Emulatorpruefung_V108.txt)
+- [Prüfdetails](Emulatorpruefung_V108.json) · [Nachweise](Emulatorpruefung_V108_Nachweise.zip) · [Quellcode-Änderung](Aenderungen_Quellcode_V108.zip)
+
+Biggoron-/Langschwert: Hieb und Wirbel 8 statt 4, Sprung 16 statt 8. Geprüft mit ares 148, RMG 0.9.0 (GLideN64/angrylion) und dem offiziellen Mupen64Plus-2.6.0-Binary. Project64 unter Wine nicht verifiziert; kein vollständiger Durchlauf auf jedem Emulator. Jeweils auf die saubere deutsche PAL-1.0-Basis anwenden.
+
 # Aktueller Stand: V107 – gezielter Nachtest und Fred-Korrektur
 
 - [Normal-Patch](Mr_Burns_Mr_Bean_DE_PAL10_Nachtest_Fred_V107.bps)
