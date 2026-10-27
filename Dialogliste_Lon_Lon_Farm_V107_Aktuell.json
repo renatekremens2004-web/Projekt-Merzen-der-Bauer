@@ -1,0 +1,963 @@
+[
+  {
+    "id": "2041",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Bist Du nicht einer von diesen\nKokiri? Hey, warte mal, müßtest Du\nhier draußen nicht gleich einen\nHerzinfarkt bekommen?",
+      "Nein? Oh, war wohl einfach nur ein\nVorurteil. Egal, ich bin Malon. Meinem\nVater Mario gehört die Lon Lon-Farm.",
+      "Er bringt gerade Milch zum Schloß.\nIrgendein Verrückter dort, namens\nFriedrich, hat Brustmilch bestellt.\nWas zur Hölle, Alter!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2042",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Also, so eine Bestellung ist halt echt\nseltsam, ne? Wir haben ihm jetzt\neinfach ganz normale Milch geliefert.\nVon einer Hyrule-Kuh."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2043",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Wenn Du gerade sowieso auf dem\nWeg zum Schloß bist, dann schau mal\nbitte, ob Mario da wieder eingepennt\nist.",
+      "Das Problem mit ihm ist, daß er\nteilweise nächtelang durchschläft.\nWenn Du ihn nicht weckst, würde der\nlocker sieben Jahre durchschlafen.",
+      "Ach, eine Sache noch: Jemand beim\nSchloß hat Eier zum Lecken bestellt.\nDeswegen nimm das bei der\nGelegenheit bitte mit.",
+      "Was daraus schlüpft, hilft beim\nWecken."
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_Z0_SMILE_0)",
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2044",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Übrigens, wenn Du mal ganz genau\nhinguckst, trägt Mario das Gesicht\nvon seinem Erzfeind als Anhänger.\nAchte da mal drauf."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2047",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Da ist ja mein Feen-Junge!",
+      "Danke, daß Du Mario gefunden hast!\nWarst Du im Schloß? Hast Du die\nPrinzessin gesehen?",
+      "Papa kam sofort zurück. Luigi hat ihm\nzu seiner hervorragenden\nRückkehrleistung gratuliert.",
+      "Ich möchte Dir jemanden vorstellen.",
+      "Das ist Epona! Sie mag Musik. Ihre\nBegeisterung äußert sie allerdings\netwas leiser als Luigi."
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_Z0_SMILE_0)"
+    ]
+  },
+  {
+    "id": "2048",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Wie es scheint, hat Epona Angst \nvor Dir..."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2049",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Dieses Lied hat meine Mutter \ngeschrieben. Es ist wunderschön. \nLaß es uns zusammen singen!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "204A",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Epona mag Dich! Luigi würde jetzt\nvor Freude einen dreiteiligen\nMotivationsvortrag halten. Ich sage\neinfach: Schön!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2061",
+    "section": "Malon als Kind – Begegnungen vor der Farm und auf der Farm",
+    "pages": [
+      "Oh, eine hübsche Okarina!\nWirst Du das Lied auf der \nOkarina spielen?"
+    ],
+    "controls": []
+  },
+  {
+    "id": "204C",
+    "section": "Malon als Erwachsene – vor Eponas Befreiung",
+    "pages": [
+      "Oh, Besuch! Wie schön, jemanden von\naußerhalb zu sehen.",
+      "Seit Friedrich Merz Hyrule beherrscht,\nist vieles schwer geworden. Luigi hält\ntrotzdem tapfer an seiner guten\nLaune fest.",
+      "Er leitet die Farm jetzt für Mario.\nPapa hat, wie Luigi sagt, einen\ngroßzügig bemessenen Erholungsurlaub.",
+      "Luigi begrüßt jeden neuen Arbeitstag\nmit einem riesigen Lächeln.",
+      "Mario wohnt solange in Kakariko.\nMalon könne in Ruhe weiterhelfen,\nsagt Luigi. Ich bin übrigens Malon.",
+      "Wenn ich eine Pause mache, freut er\nsich schon auf meine Rückkehr. Sehr\nausführlich. Mit beiden Daumen nach\noben.",
+      "Du siehst... Wir haben derzeit eine\nbeinahe überwältigende Menge an\npositiver Energie auf der Farm."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2050",
+    "section": "Malon als Erwachsene – vor Eponas Befreiung",
+    "pages": [
+      "Sag Luigi lieber nicht, daß ich singe.\nSonst organisiert er vor Begeisterung\nsofort ein dreitägiges Farm-Festival."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2051",
+    "section": "Malon als Erwachsene – vor Eponas Befreiung",
+    "pages": [
+      "Du kennst das Lied meiner Mutter?",
+      "Mario mochte es immer. Luigi liebt es\nso sehr, daß er nach jedem Vers\napplaudiert.",
+      "Seit er die Farm leitet, findet er\nüberhaupt alles wunderbar. Sogar\nseine eigenen Ansprachen.",
+      "Wenn ich singe und die Augen\nschließe, erinnere ich mich daran, wie\nschön es hier auch mal still sein\nkonnte."
+    ],
+    "controls": [
+      "TEXTID(0x2052)"
+    ]
+  },
+  {
+    "id": "2052",
+    "section": "Malon als Erwachsene – vor Eponas Befreiung",
+    "pages": [
+      "Auch Epona liebt dieses Lied. Damit\nkonnte ich sie zähmen.",
+      "Luigi hat es mit Komplimenten\nversucht. Sie war gerührt, wollte\naber trotzdem lieber das Lied hören."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2056",
+    "section": "Malon als Erwachsene – vor Eponas Befreiung",
+    "pages": [
+      "Luigi hat ein Herz aus Gold. Er kann\nsogar eine geschlossene Tür als\nherzliche Einladung zum Bleiben\nerklären. Das ist Talent!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2000",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Danke für Deine Hilfe! Wie heißt Du\neigentlich?",
+      "Sagst Du mir Deinen Namen?",
+      "Wirklich? [Spielername]!",
+      "Der Feen-Junge aus dem Wald! Ich\nhabe Dich wiedererkannt!",
+      "Epona natürlich schon viel früher. Die\nhört eben nicht ständig Luigis\nMotivationsreden.",
+      "Luigi hat sich unheimlich über Dein\nRennen gefreut.",
+      "Er wollte Epona bei der Siegerfeier\nnur kurz hinter dem Tor sichern.\nJetzt nennt er Euren Sprung eine\nhervorragende Eigeninitiative.",
+      "Mario ist wieder zu Hause. Luigi hat\nihm vor Freude beinahe sämtliche\nKnöpfe vom Overall umarmt.",
+      "Die trockenen Weiden bleiben ein\nProblem. Merz' Politik wird leider\nnicht dadurch besser, daß Luigi sie\nfreundlich anlächelt.",
+      "Aber als Team schaffen wir den\nWiederaufbau. Auch dank Dir!",
+      "Vielen Dank, [Spielername]!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2001",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Wie geht es Epona?",
+      "Spielst Du Eponas Lied auf Deiner\nOkarina, wird sie immer zu Dir\nkommen.",
+      "Wann immer Du mit Epona \ntrainieren möchtest, kannst Du \ngern zur Farm zurückkehren!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2002",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Epona sieht prächtig aus!\nEs scheint Dir gelungen zu sein,\nsie zu zähmen!"
+    ],
+    "controls": [
+      "TEXTID(0x2003)"
+    ]
+  },
+  {
+    "id": "2003",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Warum versuchst Du Dich nicht mit\nEpona an dem Hindernisparcours?",
+      "Du mußt zwei Runden reiten und \ndarfst dabei kein Hindernis \nauslassen. Das ist eine große\nHerausforderung!",
+      "Wie sieht's aus?\nMöchtest Du es versuchen? \n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2004",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Nun, Deine Zeit war [Rennzeit].\nNicht besonders gut...",
+      "Vergiß nicht, Du brauchst nur zu\nbeschleunigen, um über die hohen \nHindernisse zu springen. Die\nniedrigen nimmt Epona auch so."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2012",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Wow, Du und Epona, Ihr seid ja eine\nabsolute Einheit, ein richtig tolles\nTeam.",
+      "Das ist das Bündnis oder die\nVerbindung zwischen Junge und\nseinem Pferd, Mann und vierhufigem\nTier.",
+      "Deine Zeit war übrigens [Rennzeit]!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "208E",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Du mußt auf die Hindernisse \nfrontal zureiten. Ist der Winkel zu \nspitz, verweigert das Pferd!",
+      "Wenn Du es erneut versuchen \nmöchtest, steig auf und mach Dich \nbereit!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "208F",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Du hast es geschafft!\n[Rennzeit] ist neuer Parcours-Rekord!",
+      "Für diese herausragende Leistung \ngebührt Dir eine Belohnung!",
+      "Mein Präsent ist ein bißchen zu\nunhandlich, um es Dir hier geben zu\nkönnen. Deshalb hab ich es direkt\nin Dein Haus liefern lassen! Hihihi..."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2090",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Der bisherige Rekord beträgt \n50 Sekunden.\nDeine Bestzeit ist [Bestwert: HS_HORSE_RACE].",
+      "Gelingt es Dir, den Rekord zu \nbrechen, bekommst Du ein \nGeschenk von mir!\nAlso, gib Dein Bestes!",
+      "Los geht's!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2091",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Deine Bestzeit beträgt [Bestwert: HS_HORSE_RACE]!\nKannst Du das noch unterbieten?\nKomm schon, versuch es!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2092",
+    "section": "Malon als Erwachsene – nach Eponas Befreiung und Hindernisrennen",
+    "pages": [
+      "Der bisherige Rekord beträgt\n50 Sekunden. Brichst Du ihn, \nerhältst Du mein Geschenk!",
+      "Also, streng Dich an und gib\nalles!",
+      "Okay, es geht los!!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "201F",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Ich sage Dir Bescheid, sobald Deine\nReitzeit um ist. Bis dahin: genieße\njede wunderbare Sekunde!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2025",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Deine Reitzeit ist um. Steig bitte ab\nund gönn dem Pferd eine Pause. Es\nhat seine 10 Rubine wirklich sportlich\nverdient!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2030",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Manche sagen, ich hätte Mario die\nFarm weggenommen. Dabei gönne ich\nihm doch nur eine ganz große\nAuszeit!",
+      "Ein Urlaub, bei dem man nicht einmal\ngefragt wird. Was für eine\nÜberraschung!",
+      "Ich bin Luigi und kümmere mich um\nalles. Mario kann sich in Kakariko\nvollkommen entspannen.",
+      "Die Leute reden so viel über\nSchwierigkeiten. Ich sehe überall neue\nAbenteuer! Luigi-Time!",
+      "Friedrich Merz hat mich zum Leiter\nernannt. Endlich kann ich hier dafür\nsorgen, daß sich alle wohlfühlen!",
+      "Merz möchte unser bestes Pferd. Es\nist schön, daß wir so beliebt sind!\nIch hoffe, er bringt wenigstens eine\nKarotte mit.",
+      "Möchtest Du eines unserer Pferde\nreiten? Ich würde mich riesig freuen!"
+    ],
+    "controls": [
+      "TEXTID(0x2031)"
+    ]
+  },
+  {
+    "id": "2031",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Reiten für 10 Rubine? Oh, yeah!\n\n\nReiten!\nNicht reiten!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2032",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Natürlich! Nimm Dir Zeit. Ich freue\nmich schon auf Deinen nächsten\nBesuch. Du machst das großartig!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2033",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Dir fehlen noch ein paar Rubine.\nMacht überhaupt nichts! Komm\nwieder, wenn Du 10 hast. Ich feuere\nDich schon mal an!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2034",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Soll ich Dir das Reiten erklären? Ich\nteile mein Wissen unheimlich gern!\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2035",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Geh langsam an die Seite des\nPferdes. Mit [A] steigst Du auf. Schon\nbist Du Teil eines wunderbaren\nTeams!",
+      "Mit dem [Control-Pad] trabst Du. Im Galopp\ntreibst Du das Pferd mit [A] an.",
+      "Für ein Hindernis reitest Du gerade\ndarauf zu und setzt kurz davor [A]\nein. Wundervoll!",
+      "Ist der Winkel zu spitz, verweigert\ndas Pferd. Es paßt eben auf Euch\nbeide auf. Sehr\nverantwortungsbewußt!",
+      "Halte an und drücke [A], um\nabzusteigen. Viel Spaß! Ich bin jetzt\nschon stolz auf Dich!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2036",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Mit der Zielerfassung kannst Du vom\nPferd aus mit mir sprechen.\nGemeinschaft ist auch im Sattel\nwichtig!",
+      "Möchtest Du Deine Reitstunde\nbeenden?\n\nNein, ich will reiten!\nJa, es ist genug!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2037",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Halte an und drücke [A], wenn Du\nabsteigen willst. Eine Pause ist auch\nein Erfolg!",
+      "Du kommst mir so bekannt vor.\nVermutlich strahlst Du einfach diese\nwunderbare Gewinnerenergie aus!"
+    ],
+    "controls": [
+      "TEXTID(0x2036)"
+    ]
+  },
+  {
+    "id": "2038",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Du reitest fantastisch! Eine Runde\num die Koppel gegen mich wäre doch\nein Riesenspaß!",
+      "Einsatz: 50 Rubine. Machst Du mit?\n\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2039",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Sehr gern ein andermal! Üben macht\nFreude. Ich freue mich sogar darüber,\nwie gut Du Dich gegen dieses Rennen\nentschieden hast!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "203A",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Du bist ein Gewinner, let's a go!!",
+      "Wahoo! Ich kann meine Freude kaum\nzurückhalten! So ein tolles Rennen!\nIch möchte es sofort noch einmal\nerleben!",
+      "Gewinnst Du auch die Revanche,\ngehört das Pferd Dir. Ich glaube an\nDich!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "203B",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Oh, yeah! Du hast mit Epona\ngewonnen! Das ist ja MEGA COOL!",
+      "Ihr zwei habt Euch gefunden. Für so\nein starkes Team stehe ich morgens\ngern auf!",
+      "Eigentlich sollte Merz sie bekommen.\nAber Epona hat offenbar ihren ganz\npersönlichen Sieger gewählt. Ich freue\nmich so!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "203C",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Wahoo! Du hast gewonnen! Epona\ngehört Dir. Ich halte mein\nVersprechen mit einem Lächeln!",
+      "Ich mache mal kurz dieses Tor zu...",
+      "...damit Epona nicht wegläuft. Das\nwäre ja schade!",
+      "So, jetzt könnt Ihr Euch hier in aller\nRuhe über Euren großen Erfolg\nfreuen! Ich habe sogar extra\nabgeschlossen! Oh, yeah!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "203D",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Wahoo! Du warst klasse! Diesmal\nbekomme ich die 50 Rubine. Ich\ninvestiere sie gedanklich sofort in\nDeine nächste Erfolgsgeschichte!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "203E",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Das war ein wunderbares Rennen! Ich\ndurfte gewinnen und Du durftest\nwertvolle Erfahrungen sammeln.\nLauter Gewinner! Komm gern wieder!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "203F",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Oh, yeah! Ein Besucher! Wie\nwunderbar!",
+      "It's-a me, Luigi! Willkommen auf\nunserer schönen Lon Lon-Farm!",
+      "Ich kümmere mich hier mit ganzem\nHerzen um alles. Mario ist mein Chef\nund mein allerbester Freund!",
+      "Heute liefert Mario Milch im Schloß.\nBestimmt rettet er unterwegs noch\neine Prinzessin.",
+      "Solange er fort ist, darf ich die\nganze Farm versorgen. So viel\nVertrauen! Ich könnte vor Freude\neinen Heuballen umarmen."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2040",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Luigi-Time! Ich habe die ganze Arbeit\nfür mich! Andere nennen das\nÜberlastung. Ich nenne es ein ganz\npersönliches Abenteuer!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2045",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Mario ist wieder da! Mamma mia,\njetzt kann ich ihm noch mehr Arbeit\nabnehmen!",
+      "Manche träumen von Urlaub. Ich\nträume von einer besonders gut\norganisierten Mistgabel."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2046",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Mario sollte sich öfter ausruhen.\nDann darf ich noch mehr helfen! Ein\nTraum in Grün! Oh, yeah!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "204E",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Zzz... so viele glückliche Pferde... so\nviele schöne Aufgaben... Zzz..."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2057",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Zzz... Mario ist wieder da... so ein\nschöner Tag... let's a go... Zzz..."
+    ],
+    "controls": []
+  },
+  {
+    "id": "205B",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Luigi-Time! Noch eine Runde? Ich\nfinde es toll, wie viel Freude Du am\nLernen hast!",
+      "Der Einsatz beträgt wieder 50\nRubine. Bist Du dabei?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "205C",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Oh, yeah! Die Farm dankt! Und Luigi\ndankt! Und im Namen der Pferde\nwürde ich auch gern danken!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "205F",
+    "section": "Luigi / ursprüngliche Ingo-Rolle – Kind, Erwachsene, Reiten und Rennen",
+    "pages": [
+      "Hallo! Wie schön, daß Du da bist!\nWahoo! Danke für das tolle Rennen.\nIch habe vor Freude beinahe das Tor\naus den Angeln umarmt!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "204B",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Zzz... noch ein Level... dann melken...\nZzz..."
+    ],
+    "controls": []
+  },
+  {
+    "id": "2055",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Von jetzt an arbeite ich jeden Tag\ntüchtig mit. Das habe ich Malon\nversprochen! Wahoo, ein ganzes\nAbenteuer voller Milchkannen!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "207E",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Mamma mia! Bin ich schon wach?",
+      "Das muß ein neuer Spielabschnitt\nsein!",
+      "Da ist ja mein Helfer aus dem Wald!\nDanke noch einmal fürs Aufwecken!",
+      "Malon hat mir erklärt, daß Milchkisten\nkeine Speicherpunkte sind. Man lernt\nnie aus.",
+      "Merz verteuert uns das Futter. Luigi\nnennt jede neue Rechnung eine\nwunderbare Rechenaufgabe.",
+      "Diese drei Hühner sind Super-Hühner!\nIch mische sie unter die gewöhnlichen\nHühner.",
+      "Finde alle drei innerhalb der Zeit.",
+      "Dann bekommst Du etwas Nützliches.\nGanz ohne eine Prinzessin aus einem\nanderen Schloß zu holen!",
+      "Ein Spiel kostet 10 Rubine. Machst Du\nmit?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "207F",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "It's-a me! Schon wieder wach!",
+      "Mein fleißiger Freund aus dem Wald!\nLust auf eine neue Runde?",
+      "Ich mische drei Super-Hühner unter\ndie anderen Hühner.",
+      "Finde die drei innerhalb der Zeit. Eine\nnützliche Belohnung wartet!",
+      "Luigi würde selbst dem letzten Huhn\nnoch zum hervorragenden Versteck\ngratulieren.",
+      "Ein Spiel kostet 10 Rubine. Möchtest\nDu?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2080",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Du hast 30 Sekunden! Hier sind die\ndrei Super-Hühner!",
+      "FINDE SIE! LET'S-A GO!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2081",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Die Zeit ist um. Mamma mia! Das\nwar eine knifflige Runde!",
+      "Meine Super-Hühner sind großartige\nVersteckspieler. Luigi würde ihnen\neinen Pokal bauen.",
+      "Kommt her, Ihr gefiederten\nBonus-Level!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2082",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Das ist eins! Super gemacht! Zwei\nfehlen noch. Let's-a go!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2083",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Wahoo! Wieder eins! Noch ein Huhn\nfehlt. Du bist fast am Ziel!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2084",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Wahoo! Alle drei gefunden! Was für\nein großartiger Mitspieler!",
+      "Komm her! Jetzt gibt es Deine\nBelohnung!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2085",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Noch eine Runde? Ein Held braucht\nschließlich auch ein bißchen Training!",
+      "Finde wieder alle drei Super-Hühner in\n30 Sekunden.",
+      "Diesmal kostet es 5 Rubine. Los\ngeht's?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2086",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Du hast das Zeug zum\nSuper-Huhn-Champion!",
+      "Möchtest Du den inoffiziellen Titel\nfeierlich annehmen?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2087",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Hahaha! Ein Titel allein macht\nnatürlich nicht satt.",
+      "Hier ist eine Flasche Lon Lon-Milch.\nSie gibt Dir neue Energie, wenn Du\nsie trinkst!",
+      "Ist die Flasche leer, fülle ich sie\ngegen ein kleines Entgelt wieder auf.\nEin echter Mitspieler braucht\nProviant!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2088",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Du bist ein prima Partner! Luigi wäre\nvöllig aus dem Häuschen!",
+      "Wenn Du erwachsen bist, komm auf\ndie Farm. Für ein gutes Team haben\nwir immer Platz!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "208A",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Hier wäre frische Milch für Dich...",
+      "Mamma mia, Du hast keine leere\nFlasche! Selbst Mario kann Milch\nnicht in einer Hosentasche\ntransportieren."
+    ],
+    "controls": []
+  },
+  {
+    "id": "208B",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Mamma mia! Ich bin wach!",
+      "Was gibt's?",
+      "[Spielername]! Malon ist draußen.\nOder suchst Du ein neues\nSuper-Huhn-Abenteuer?",
+      "Milch gibt es auch. Bei uns kann man\nseine Energie auffüllen, ohne an einen\nschwebenden Block zu springen.",
+      "Was darf es sein?\n\nLon Lon-Milch - 30 Rubine\nSuper-Huhn-Suchen - 10 Rubine\nZurück"
+    ],
+    "controls": [
+      "THREE_CHOICE"
+    ]
+  },
+  {
+    "id": "702A",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Zzz... It's-a me... Mario...",
+      "Let's-a... go... Zzz...",
+      "Mario... number one... Zzz..."
+    ],
+    "controls": []
+  },
+  {
+    "id": "702B",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "Mamma mia! It's-a me, Mario! Ich bin\nwach. Oh. Bin ich schon wieder\neingeschlafen?"
+    ],
+    "controls": []
+  },
+  {
+    "id": "702C",
+    "section": "Mario / ursprüngliche Talon-Rolle – Begegnungen, Super-Hühner und Milch",
+    "pages": [
+      "It's-a me, Mario! Wer bist Du?",
+      "Ja, mir gehört die Lon Lon-Farm. Wir\nhaben Milch und Hühner und auch\nPferde, falls Du mal vorbeikommen\nwillst.",
+      "Ich wollte hier Milch ins Schloß\nliefern und einfach nur kurz meinen\nZwischenstand speichern, sozusagen.\nMetaphorisch gemeint.",
+      "Was?! Malon sucht mich? Mamma\nmia!",
+      "Mario number one! Ich bin die\nNummer eins, das sage ich ab und\nan. Aber wenn ich wieder eingepennt\nbin, ist mir das doch peinlich.",
+      "Da fühle ich mich wie ein Betrüger.\nDas nennt man wohl\nImpostor-Syndrom.",
+      "Ich muß zurück! Danke fürs\nAufwecken. Let's-a go!"
+    ],
+    "controls": [
+      "SFX(NA_SE_VO_TA_CRY_0)",
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2006",
+    "section": "Kühe und Milch – gemeinsame Texte auch außerhalb der Farm",
+    "pages": [
+      "Muuuuuuuuuuuuuuuuuuuuuuuuuuuuh!",
+      "Du denkst, daß ich mit Dir rede, aber\nDu bildest es Dir nur ein,",
+      "denn Du hast Dein ganzes Abenteuer\nlang noch nicht einmal geschlafen und\ndeswegen glaubst Du, daß die Kühe\njetzt mit Dir reden.",
+      "Also Du kannst mich auch melken bei\nder Gelegenheit. Das wiederum ist\nnicht eingebildet."
+    ],
+    "controls": [
+      "SFX(NA_SE_EV_COW_CRY)",
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2007",
+    "section": "Kühe und Milch – gemeinsame Texte auch außerhalb der Farm",
+    "pages": [
+      "Hier, nimm gerne meine Milch."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "2013",
+    "section": "Kühe und Milch – gemeinsame Texte auch außerhalb der Farm",
+    "pages": [
+      "Mamma mia, keine leere Flasche?\nWenn Du eine mitbringst, dann werde\nich da Milch reinfüllen."
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "71E5",
+    "section": "Franky die Heugabel – Kind und Erwachsener",
+    "pages": [
+      "Howdy, Fremder! Ich bin Franky die\nHeugabel. Willkommen auf der Lon Lon\nFarm!",
+      "Ich bin mächtig stolz, hier zu\narbeiten. Mit meinen Qualifikationen\nbin ich zwischen Heu und Mist genau\nrichtig, jawohl!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "71E6",
+    "section": "Franky die Heugabel – Kind und Erwachsener",
+    "pages": [
+      "Howdy, Fremder! So sieht man sich\nwieder. Franky die Heugabel, weißt Du\nnoch? Ist das lange her, oh gosh!",
+      "Mir ist der Spaß an der Arbeit\nreichlich vergangen. Mein Lohn ist\ngleich geblieben, aber meine\nLebenshaltungskosten sind gestiegen.",
+      "Was für eine Frechheit!",
+      "Und eine vernünftige\nKrankenversicherung hab ich auch\nnicht, no sir!",
+      "Diesem Herrn Merz müßte mal jemand\neine Abreibung verpassen!",
+      "Ich werde selbst zu seinem Schloß\ngehen. Der kann sich warm anziehen!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "71C5",
+    "section": "Mr. Mackey auf der Farm",
+    "pages": [
+      "Ich bin Mr. Mackey, mhhkay? Und ich\nbin nicht Friedrich Merz. Ich möchte\ndas noch mal wiederholen.",
+      "Nur weil jemand einen großen Kopf\nund wenig Haare hat, ist er doch\nnicht gleich dieser Kerl, mhhkay?",
+      "Das ist nicht sehr nett, mich mit\ndiesem Mann zu vergleichen, mhhkay?",
+      "Das kann ganz schön verletzen, wenn\neinem sowas an den Kopf geworfen\nwird, mhhkay?",
+      "Also paß bitte auf, was Du zu\nanderen Leuten sagst, mhhkay?"
+    ],
+    "controls": []
+  },
+  {
+    "id": "0315",
+    "section": "Schilder der Farm",
+    "pages": [
+      "Marios und Malons Lon Lon-Farm\nMilch, Pferde, Super-Hühner!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "0316",
+    "section": "Schilder der Farm",
+    "pages": [
+      "Luigis wunderbare Lon Lon-Farm\nJeder Tag ein Grund zur Freude!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "200D",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Mamma mia! Schon wach!",
+      "Oh, Du bist es! Mein Helfer aus dem\nWald!",
+      "Ich bin Mario. Erinnerst Du Dich an\nmeine legendäre Schlafmission beim\nSchloß?",
+      "Du hast mir damals sehr geholfen.\nMalon war erleichtert, Luigi hat sogar\nvor Freude gekehrt.",
+      "Hier ist Milch für Dich! Die Flasche\ndarfst Du behalten. Ein kleines\nExtra-Leben für unterwegs!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2014",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "It's-a me, Luigi! Willkommen! Du\nstehst genau richtig. Ein Gast macht\njeden Arbeitstag schöner!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "2058",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Ein Rennen mit Dir wäre ein Fest!\nHast Du Lust?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2059",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Du bist jederzeit willkommen! Ich\nhalte meine Begeisterung solange\nwarm. Das spart sogar Heizkosten!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "205A",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Eine großartige Entscheidung! Hab\neinen wundervollen Tag, Du prächtiger\ngrüner Abenteurer!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "205D",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Luigi würde die Milch am liebsten\nverschenken. Aber das Futter bezahlt\nsich nicht mit Begeisterung. Deshalb\ngilt der normale Preis."
+    ],
+    "controls": []
+  },
+  {
+    "id": "205E",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Frische Milch für 30 Rubine. Möchtest\nDu welche?\n\nJa!\nNein!"
+    ],
+    "controls": [
+      "TWO_CHOICE"
+    ]
+  },
+  {
+    "id": "2089",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Hier, frische Lon Lon-Milch! Ein\nExtraleben zum Trinken. Na ja, fast.\nWahoo!"
+    ],
+    "controls": [
+      "EVENT"
+    ]
+  },
+  {
+    "id": "5015",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Zzz... Malon macht das prima...",
+      "Luigi kümmert sich... nur noch ein\nPilz... Zzz..."
+    ],
+    "controls": []
+  },
+  {
+    "id": "5016",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "It's-a me, Mario! Mein Bruder Luigi\nist aktuell auf der Farm sehr, sehr\nschwer beschäftigt.",
+      "Ich bin hier gerade in Kakariko, weil\nich diese eine Frau da gedatet habe.\nDas könnte jetzt Malons Stiefmutter\nwerden. Let's-a go!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "5017",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "So, ich muß dann auch mal wieder los\nund mal mächtig anpacken auf der\nFarm. So einen Heuballen kann man\njetzt nicht einfach so bewegen.",
+      "Da braucht man schon ein paar\nweitere Hände. Let's-a go!"
+    ],
+    "controls": []
+  },
+  {
+    "id": "508B",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Ja, das ist Mario. Das ist mein Date.\nIch habe ihn jetzt schon länger\ngedatet.",
+      "Wenn ich ihn küsse, dann spüre ich\nseinen Bart in meinem Gesicht. Das\nist sehr beruhigend."
+    ],
+    "controls": []
+  },
+  {
+    "id": "508C",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Wenn Mario schläft, dann schlägt sein\nHerz und leuchtet golden durch seine\nBrust. Das ist sehr beruhigend auf\njeden Fall."
+    ],
+    "controls": []
+  },
+  {
+    "id": "508D",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Mario ist wieder auf der Farm. Luigi\nhat sich riesig gefreut. Diese Brüder\nhaben eine Verbindung.",
+      "Ich weiß gar nicht, wo ich anfangen\nsollte, zu erzählen, was für eine\nstarke Verbindung diese beiden Brüder\nhaben. Das ist herzerwärmend."
+    ],
+    "controls": []
+  },
+  {
+    "id": "701C",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Mein Vater Mario ist mit Milchkisten\nzum Schloß gegangen. Er hat eine\nrote Kappe, einen großen Schnurrbart\nund eine blaue Latzhose.",
+      "Also, es kann auch gut sein, daß er\nseine Kappe mal wieder verloren hat.",
+      "Das ist eigentlich sein\nErkennungsmerkmal, aber manchmal\nhat er sie halt nicht auf.",
+      "Da darf man sich jetzt nicht viel bei\ndenken. Das passiert halt manchmal,\nne? Er ist trotzdem Mario."
+    ],
+    "controls": []
+  },
+  {
+    "id": "7179",
+    "section": "Weitere verbundene Farm-Texte – Waren, Wiederholungen und Erwähnungen außerhalb der Farm",
+    "pages": [
+      "Diese Maske strahlt ja fast so viel\nZuversicht aus wie Luigi! Ein sehr\nfreundliches Gesicht. Ich fühle mich\nbereits hervorragend betreut."
+    ],
+    "controls": []
+  }
+]
