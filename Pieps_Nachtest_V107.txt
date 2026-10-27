@@ -1,0 +1,39 @@
+Pieps-Nachtest auf V107
+======================
+
+Ergebnis: 22 bestätigte Prüffälle bestanden. Normal und DEBUG mit 4 MiB RAM. Produktionscode, Modelle, Musik und Dialoge bleiben unverändert; V107 benötigt dafür keinen neuen Patch.
+
+Dodongos Höhle
+-------------
+Normal und DEBUG: Käfig, Hilferuf 7239, Einblendung/Kamerafreigabe und Pieps laden als Kind. Echter Weg vom Hauptraum über den Statuen-/Blauer-Schalter-Bereich, Inventarrückkehr und die reguläre Tür zum Echsenraum: beide aktiven Lizalfos und Pieps vorhanden.
+
+Die Lizalfos-Treffer wurden im vorbereiteten Test angenommen; ihre native Sterbe-/Schalterfolge lief danach ab. Pieps wurde über die normale Ansprache gerettet, Text 723A beendet, Rettungsflag 0x1CA gesetzt und seine Musik 111 aktiv. Kein direktes Setzen des Rätselschalters oder Rettungsflags im Rettungsablauf.
+
+Zusatztest Normal: Nach der tatsächlichen Rettung durch die normale Tür hinaus, im Nachbarraum Bird-Actor und Bird-Overlay entladen sowie Pieps-Musik beendet. Danach durch die Tür zurück: Käfig/Pieps bleiben verschwunden; Rettungsflag und besiegte Echsen bleiben erhalten. Anschließend Inventar geöffnet und geschlossen, Bodenhalt und Ressourcen geprüft.
+
+Erwachsenen-Ausschluß
+--------------------
+Normal und DEBUG: Kein Käfig/Bird-Actor im Echsenraum, der Bird-Overlay wird dort gar nicht geladen. Trotz gesetztem Rettungsflag kein Pieps-Eingriff in der Erwachsenen-Dodongo-Explosionsphase. Auch beim Wiederbetreten der besiegten Arena als Erwachsener kein Pieps, native Herz-/Warp-Actors bleiben erhalten.
+
+König Dodongo
+-------------
+Normal und DEBUG: Native Bombe über die ausgerüstete Bombe erzeugt und für eine reproduzierbare Prüfung beim Einatmen an den Mund geführt. Der Boss schluckt sie regulär; sein Zustand wurde für diesen Ablauf nicht direkt auf Tod/Explosion gesetzt. Pieps fliegt ein, seine Musik startet, die native Todesanimation läuft ab. Raumabschluß, Herzcontainer, Ausgang, freie Steuerung und das vollständige Nachgespräch 723B bestanden; Musik bleibt nach dem Sieg aktiv.
+
+Normaler Kontrollfall ohne Rettungsflag: dieselbe Bomben-/Verschluckenfolge, aber kein Vogel, keine Pieps-Musik und kein sofortiger Tod; der normale Kampf läuft weiter. Bereits besiegte Kinder-Arena erneut geladen: Pieps steht ansprechbar da, 723B schließt korrekt, Herz/Portal vorhanden.
+
+Bongo Bongo
+-----------
+Kopftreffer Normal und DEBUG, Handtreffer zusätzlich Normal: angenommener Treffer löst den Pieps-Eingriff aus. Der Vogel bleibt oberhalb der Decke auf der Schachtachse; Kamera bleibt während des gesamten Einflugs unter der Decke. Zwei ausgewählte Aufnahmen zusätzlich gesichtet: Blick von unten ins Loch, anschließend Annäherung an den Kopf.
+
+Musik 111, native Boss-Todesfolge, Herzcontainer und Ausgang sowie Gespräch 7240 geprüft. Inventarrückkehr auf dem Arenaboden stabil. Normaler Wiedereintritt in die besiegte Arena: Pieps samt Gespräch, Herz und Portal vorhanden.
+
+Speicher und Grenzen
+--------------------
+In den bestätigten Fällen keine abgewiesenen Actor-/Objekt-Ladevorgänge und keine Grafik-/Objektbanküberschreitung. Die ersten Versuche des alten V79-Testhelfers verwendeten einen ungeeigneten Übergang aus dem neuen Titelbildschirm beziehungsweise eine Bomben-Inventarvorlage ohne Bombentasche. Diese Testaufbauten wurden korrigiert und die betreffenden Fälle erneut vollständig bestanden. Das waren keine Änderungen am Spiel.
+
+Automatisierte Tests mit vorbereiteten Spielständen und teilweise simulierten Treffern/gezielter Positionierung. Kein manueller kompletter Dungeon- oder Spieldurchlauf. Die Aussagen beziehen sich auf die beschriebenen Auslöser, Fortsetzungen, Rückkehrzustände und Ressourcenprüfungen.
+
+Getestete ROM-SHA-256
+--------------------
+normal: 9966a885ec258d1249dde4bbaf9673b30f004f0b365c02aef1865c18ff86ecc9
+debug: db597d9bf2b2873dc6259c791f1233993dac1df6d7099fe6b5a4dc3db2ff4e45

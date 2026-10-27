@@ -1,0 +1,253 @@
+{
+  "release_tested": "V107",
+  "native_rdram_bytes": 4194304,
+  "cases": [
+    {
+      "family": "age",
+      "mode": "normal",
+      "case": "cage-adult",
+      "passed": true,
+      "elapsed": 36.4,
+      "log": "age-normal-cage-adult.log",
+      "error": null,
+      "native_log": "age-normal-cage-adult/normal-pieps-cage-adult.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "age",
+      "mode": "normal",
+      "case": "boss-adult",
+      "passed": true,
+      "elapsed": 39.9,
+      "log": "age-normal-boss-adult.log",
+      "error": null,
+      "native_log": "age-normal-boss-adult/normal-pieps-boss-adult.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "age",
+      "mode": "normal",
+      "case": "cage-child",
+      "passed": true,
+      "elapsed": 41.2,
+      "log": "age-normal-cage-child.log",
+      "error": null,
+      "native_log": "age-normal-cage-child/normal-pieps-cage-child.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "age",
+      "mode": "normal",
+      "case": "cleared-adult",
+      "passed": true,
+      "elapsed": 24.8,
+      "log": "age-normal-cleared-adult.log",
+      "error": null,
+      "native_log": "age-normal-cleared-adult/normal-pieps-cleared-adult.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "bongo",
+      "mode": "normal",
+      "case": "head",
+      "passed": true,
+      "elapsed": 90.3,
+      "log": "bongo-normal-head.log",
+      "error": null,
+      "native_log": "bongo-normal-head/qa-normal-head.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "story",
+      "mode": "normal",
+      "case": "cage-rescue",
+      "passed": true,
+      "elapsed": 68.1,
+      "log": "story-normal-cage-rescue.log",
+      "error": null,
+      "native_log": "story-normal-cage-rescue/normal-cage-rescue.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "walk",
+      "mode": "normal",
+      "case": "entry",
+      "passed": true,
+      "elapsed": 80.5,
+      "log": "walk-normal-entry.log",
+      "error": null,
+      "native_log": "walk-normal-entry/normal-walk-combined.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "age",
+      "mode": "debug",
+      "case": "cage-child",
+      "passed": true,
+      "elapsed": 47.7,
+      "log": "age-debug-cage-child.log",
+      "error": null,
+      "native_log": "age-debug-cage-child/debug-pieps-cage-child.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "age",
+      "mode": "debug",
+      "case": "cage-adult",
+      "passed": true,
+      "elapsed": 48.0,
+      "log": "age-debug-cage-adult.log",
+      "error": null,
+      "native_log": "age-debug-cage-adult/debug-pieps-cage-adult.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "age",
+      "mode": "debug",
+      "case": "boss-adult",
+      "passed": true,
+      "elapsed": 46.6,
+      "log": "age-debug-boss-adult.log",
+      "error": null,
+      "native_log": "age-debug-boss-adult/debug-pieps-boss-adult.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "age",
+      "mode": "debug",
+      "case": "cleared-adult",
+      "passed": true,
+      "elapsed": 36.1,
+      "log": "age-debug-cleared-adult.log",
+      "error": null,
+      "native_log": "age-debug-cleared-adult/debug-pieps-cleared-adult.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "story",
+      "mode": "debug",
+      "case": "cage-rescue",
+      "passed": true,
+      "elapsed": 59.1,
+      "log": "story-debug-cage-rescue.log",
+      "error": null,
+      "native_log": "story-debug-cage-rescue/debug-cage-rescue.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "story",
+      "mode": "normal",
+      "case": "boss-assisted",
+      "passed": true,
+      "elapsed": 249.3,
+      "log": "story-normal-boss-assisted.log",
+      "error": null,
+      "native_log": "story-normal-boss-assisted-retry/normal-boss-assisted.log",
+      "corrected_bomb_bag_fixture": true
+    },
+    {
+      "family": "bongo",
+      "mode": "debug",
+      "case": "head",
+      "passed": true,
+      "elapsed": 106.6,
+      "log": "bongo-debug-head.log",
+      "error": null,
+      "native_log": "bongo-debug-head/qa-debug-head.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "walk",
+      "mode": "debug",
+      "case": "entry",
+      "passed": true,
+      "elapsed": 81.3,
+      "log": "walk-debug-entry.log",
+      "error": null,
+      "native_log": "walk-debug-entry/debug-walk-combined.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "story",
+      "mode": "normal",
+      "case": "cage-absent",
+      "passed": true,
+      "elapsed": 42.1,
+      "log": "story-normal-cage-absent.log",
+      "error": null,
+      "native_log": "story-normal-cage-absent/normal-cage-absent.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "story",
+      "mode": "normal",
+      "case": "boss-cleared",
+      "passed": true,
+      "elapsed": 33.5,
+      "log": "story-normal-boss-cleared.log",
+      "error": null,
+      "native_log": "story-normal-boss-cleared/normal-boss-cleared.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "story",
+      "mode": "debug",
+      "case": "boss-assisted",
+      "passed": true,
+      "elapsed": 244.8,
+      "log": "story-debug-boss-assisted.log",
+      "error": null,
+      "native_log": "story-debug-boss-assisted-retry/debug-boss-assisted.log",
+      "corrected_bomb_bag_fixture": true
+    },
+    {
+      "family": "story",
+      "mode": "normal",
+      "case": "boss-plain",
+      "passed": true,
+      "elapsed": 80.2,
+      "log": "story-normal-boss-plain.log",
+      "error": null,
+      "native_log": "story-normal-boss-plain-retry/normal-boss-plain.log",
+      "corrected_bomb_bag_fixture": true
+    },
+    {
+      "family": "bongo",
+      "mode": "normal",
+      "case": "cleared",
+      "passed": true,
+      "elapsed": 61.1,
+      "log": "bongo-normal-cleared.log",
+      "error": null,
+      "native_log": "bongo-normal-cleared/qa-normal-cleared.log",
+      "corrected_bomb_bag_fixture": false
+    },
+    {
+      "family": "bongo",
+      "mode": "normal",
+      "case": "hand",
+      "passed": true,
+      "elapsed": 102.0,
+      "log": "bongo-normal-hand.log",
+      "error": null,
+      "native_log": "bongo-normal-hand/qa-normal-hand.log",
+      "corrected_bomb_bag_fixture": false
+    }
+  ],
+  "additional_real_room_exit_and_return": {
+    "passed": true,
+    "log": "room-return.log"
+  },
+  "total_confirmed_cases": 22,
+  "rom_sha256": {
+    "normal": "9966a885ec258d1249dde4bbaf9673b30f004f0b365c02aef1865c18ff86ecc9",
+    "debug": "db597d9bf2b2873dc6259c791f1233993dac1df6d7099fe6b5a4dc3db2ff4e45"
+  },
+  "production_changes": false,
+  "manual_full_playthrough": false,
+  "notes": [
+    "Lizalfos/Bongo damage acceptance simulated in prepared emulator states; native death/reward/dialogue logic then runs normally.",
+    "King Dodongo uses an inventory-created native bomb, guided to his mouth for a repeatable swallow test; boss state is not forced for those assisted/plain tests.",
+    "First old V79 harness used title-transition setup and later an inventory fixture without a bomb bag. Direct Play fixtures and a real bomb-bag upgrade corrected those test setups; no game code changed."
+  ]
+}
