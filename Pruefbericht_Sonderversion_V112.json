@@ -1,0 +1,110 @@
+{
+  "version": "V112 SONDERVERSION",
+  "base": "V111",
+  "native_tests": [
+    {
+      "case": "wallace",
+      "passed": true,
+      "mode": "normal",
+      "log": "wallace.log"
+    },
+    {
+      "case": "kris",
+      "passed": true,
+      "mode": "normal",
+      "log": "kris.log"
+    },
+    {
+      "case": "susie",
+      "passed": true,
+      "mode": "normal",
+      "log": "susie.log"
+    },
+    {
+      "case": "ralsei",
+      "passed": true,
+      "mode": "debug",
+      "log": "ralsei.log"
+    },
+    {
+      "case": "old-stairs",
+      "passed": true,
+      "mode": "normal",
+      "log": "old-stairs.log"
+    },
+    {
+      "case": "adult-wallace",
+      "passed": true,
+      "mode": "normal",
+      "log": "adult-wallace.log"
+    },
+    {
+      "case": "adult-trio",
+      "passed": true,
+      "mode": "normal",
+      "log": "adult-trio.log"
+    },
+    {
+      "case": "bats-5",
+      "passed": true,
+      "mode": "normal",
+      "log": "bats-5.log"
+    },
+    {
+      "case": "bats-8",
+      "passed": true,
+      "mode": "normal",
+      "log": "bats-8.log"
+    },
+    {
+      "case": "bats-11",
+      "passed": true,
+      "mode": "normal",
+      "log": "bats-11.log"
+    },
+    {
+      "case": "shield",
+      "passed": true,
+      "mode": "normal",
+      "log": "shield.log"
+    }
+  ],
+  "native_room_transition_passed": true,
+  "shield_test": "Native body-fire state requested in fixture; equipped and owned Deku shield retained after burning and inventory roundtrip",
+  "audio": {
+    "pcm_sample_count": 1952544,
+    "differing_samples": 358574,
+    "first_difference": 371579,
+    "last_difference": 1785766,
+    "clip_samples": 0,
+    "volume_before": 127,
+    "volume_after": 180,
+    "theoretical_amplitude_ratio": 2.008804017608035,
+    "gain_db": 6.058751365893968
+  },
+  "audio_sample_bank_byte_identical_to_v111": true,
+  "audio_soundfonts_byte_identical_to_v111": true,
+  "audio_sequence_changed_bytes": 1,
+  "patches": {
+    "normal": {
+      "filename": "Mr_Burns_Mr_Bean_DE_PAL10_SONDERVERSION_V112.bps",
+      "rom_sha256": "8994450be3b08537eefe10c79e59fb396fd6378b14dc841659d14a834ed39bb3",
+      "patch_sha256": "8d327dad92763f7284bd2273739db8dd75e08abbb1d0e1545206b540671420a4",
+      "independent_apply_byte_identical": true,
+      "checksum_verified": true
+    },
+    "debug": {
+      "filename": "Mr_Burns_Mr_Bean_DE_PAL10_DEBUG_SONDERVERSION_V112.bps",
+      "rom_sha256": "aa56768eccaf47963b7fd685cbf9d6c88c4cae09700d8e19fa4e32a8f402f0de",
+      "patch_sha256": "ccbf83d363045ea041efd57c3bb9445dd3beb0cf1c4b50681d75141d2421fae7",
+      "independent_apply_byte_identical": true,
+      "checksum_verified": true
+    }
+  },
+  "texts_validated": true,
+  "limitations": [
+    "Targeted native tests with the existing Mupen64Plus/GLideN64/HLE toolchain and 4 MiB; not a full playthrough.",
+    "Room/age positions and burn state are controlled fixtures; NPC conversations and inventory actions use normal controller input.",
+    "No new Project64, ares or hardware test for this special branch."
+  ]
+}

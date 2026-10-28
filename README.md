@@ -1,3 +1,7 @@
+## V112 – Separate Sonderversion auf V111
+
+Wallace und Deltarune-Trio in neuen Räumen, drei Fledermäuse weniger, feuerfester Holzschild, Textkorrekturen und lauteres Klopfen. Als SONDERVERSION bezeichnete Normal-/DEBUG-BPS, Bilder, Quellen und gezielter Prüfbericht im Hauptverzeichnis. Die reguläre Standardversion bleibt V111. Auf die saubere deutsche PAL1.0-Basis anwenden.
+
 ## V111 – Verbleibende Ganondorf-Nennungen ersetzt
 
 Die drei verbliebenen deutschen Erwähnungen in Mythenstein-Gerüchten heißen jetzt Friedrich Merz. Alle bisherigen V110-Änderungen enthalten. Normal-/DEBUG-BPS auf die saubere deutsche PAL1.0-Basis anwenden. Geänderte Texte und Verifikation im Hauptverzeichnis.

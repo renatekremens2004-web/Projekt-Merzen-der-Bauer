@@ -1,0 +1,52 @@
+V112 SONDER­VERSION auf Basis V111
+
+Wallace steht als junger Link jetzt im ersten Gang rechts von der großen
+Eingangshalle, im Bereich mit den kleinen Dodongos (Raum1), nahe dem Eingang.
+Kris, Susie und Ralsei stehen zusammen im erhöhten Nebenraum mit den zwei
+Deku-Händlern (Raum6). Dieser Raum liegt hinter der Tür auf der oberen Ebene
+im östlichen Bereich der Höhle. Beide Auftritte bleiben auf jungen Link
+begrenzt. Im Treppenraum stehen sie in dieser Sonderversion nicht mehr.
+Modelle und Actor-Einträge wurden gemeinsam in die neuen Räume verlegt.
+Dies bestätigt keine Ursache für das früher berichtete Fehlen: Der alte
+Treppenraum-Auftritt war in V111 bei der Nachprüfung vorhanden.
+
+Drei Fledermäuse entfernt: je eine in Raum5, Raum8 und Raum11. Dort bleiben
+jeweils1,1 und2 Fledermäuse erhalten. Schalter, Türen, Schatztruhen, Fackeln,
+Armos-Statuen und andere Rätselobjekte bleiben bestehen. EnFirefly bedient
+keine individuellen Rätselschalter. Die normale dynamische Raumabschluss-
+Logik zählt weiter die verbleibenden Gegner. Eine entfernte Fledermaus spart
+etwa868 Byte Actor-Instanz plus Arena-Verwaltung; das geteilte Modell und
+Overlay bleiben wegen der übrigen Fledermäuse geladen. Kein großer RAM-Gewinn.
+
+Der ausgerüstete Holzschild verbrennt nicht mehr. Die Abbrennfunktion tut
+nichts mehr; normale Feuer- und Schadensbehandlung läuft weiter.
+Navi102B: nur „Nicht unterwegs jeden Kiesel adoptieren.“ entfernt.
+Beta-Kokiri7231 und7235: „Right on Link!“ → „Right on, [Spielername]!“
+Die üblichen NAME-Steuerzeichen werden verwendet; bis zu acht breite Buchstaben
+passen in die überprüften Textseiten. Restlicher Wortlaut bleibt erhalten.
+Navi0607 zur normalen Deku-Baba/Dekuranha:
+„Nimm diese scheiß beschissene fleischfressende Pisspflanze aus meinen Feenaugen.“
+
+Schattentempel-Klopfen: nur Lautstärke des eigenen Zusatzkanals14 erhöht,
+127→180. Der native Mixer quadriert diesen Regler; etwa doppelter Signalpegel
+beziehungsweise+6,06dB. Musikregler und andere Kanäle bleiben unverändert.
+Audiotable und Audiobank sind exakt bytegleich mit V111, nur ein Byte der
+Sequenzdaten ist geändert. Keine neuen Stimmen, Actoren oder Audio-Puffer.
+Beide Versionen wurden mit echtem Spielton aufgezeichnet; keine gemessene
+Übersteuerung im getesteten Abschnitt. Die Zufallslogik bleibt wie in V111.
+
+Gezielte native4-MiB-Tests: alle vier Gespräche; Inventar auf/zu an den neuen
+Standorten; ursprünglicher Treppenraum ohne doppelte Figuren; beide neuen
+Räume ohne die Figuren als Erwachsener; verbliebene Fledermauszahlen und
+Inventarwechsel in allen drei bearbeiteten Räumen; Deku-Schild nach nativer
+Brennzustands-Behandlung; Übergang Eingangshalle→Wallace-Gang→Eingangshalle→
+Wallace-Gang mit erneutem Laden. Keine verweigerten Actor-/Objektzuweisungen
+oder überfüllten geprüften Grafik-/Objektpuffer. Kein neuer Komplettdurchlauf
+und kein neuer Test auf Project64/ares/echter Hardware für diesen Sonderzweig.
+Die Gespräche wurden mit normalen Tasten geöffnet und geschlossen, die
+Raum-/Alterszustände und der Brennzustand stammen aus kontrollierten Fixtures.
+
+Normal und DEBUG sind beide Sonderversionen mit denselben Inhaltsänderungen.
+Die veröffentlichte Standardversion bleibt V111. Quellenänderungen liegen im
+separaten ZIP; reguläre Produktionsquellen wurden anschließend wiederhergestellt.
+BPS jeweils auf die unveränderte deutsche PAL1.0-ROM anwenden, nicht auf V111.
