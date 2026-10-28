@@ -1,0 +1,32 @@
+V113 – korrigierte Sonderversion ohne DEBUG, auf Basis V112
+
+A/Start im Haupttitelbildschirm löst nicht mehr fälschlich die nächste Demo aus.
+Der Fehler wurde in V112 reproduziert: früher A-Druck bei eingeblendet werdendem
+Logo, anschließend unerwünschter Wechsel in den Geistertempel.
+Die originale Demo-Sprunglogik unterschied den Haupttitel anhand der Hyrule-
+Steppe. Unser Haupttitel steht aber im Gerudotal. Jetzt gilt die Ausnahme auch
+für unseren registrierten Haupttitel-Hintergrund. Ein bereits angeforderter
+Wechsel zur Dateiauswahl kann nicht mehr von einer Demo überschrieben werden.
+Die automatischen Demos bei Nichtbedienung bleiben erhalten.
+
+Wie im Original: Ein früher Tastendruck blendet zuerst das Logo vollständig
+ein. Nach kurzer Pause öffnet ein erneuter A/Start-Druck die Dateiauswahl.
+Ist das Logo schon vollständig eingeblendet, reicht ein Tastendruck.
+
+Sieben bestandene native Titeltests der normalen Edition: früher A-Druck,
+früher Start-Druck, A/Start nach vollständiger Einblendung, A/Start unmittelbar
+am Demo-Startzeitpunkt sowie Demo-Wechsel ohne Tastendruck. Bei den letzten
+drei Fällen wurde nur für den Test der Schnittzeitpunkt im RAM vorgezogen;
+die ausgelieferte ROM hat unveränderte Titelzeiten. Echte Tasten-Eingaben,
+keine direkte Anforderung des Dateimenüs im Test.
+Zusätzlich Kris-Gespräch mit Inventarwechsel und Schildschutz bei brennendem
+Link mit Inventarwechsel erneut geprüft. Native4MiB, vorhandene Mupen64Plus/
+GLideN64/HLE-Testumgebung. Kein neuer kompletter Spieldurchlauf.
+Alle V112-Sonderänderungen sind enthalten. Audio und deutsche/andere
+Nachrichtendaten sind bytegleich. Raum-/Objektdaten sind unverändert, abgesehen
+von korrekt neu verlinkten Adressen der gemeinsamen Einheitsmatrix.
+32Byte zusätzlicher Programmcode, kein zusätzlicher Actor oder Audio-Puffer.
+
+Nur die normale Edition wird in diesem Update ausgegeben. Die DEBUG-Prüfung
+wurde auf Wunsch nicht weiterverfolgt; keine DEBUG-Freigabe für V113.
+BPS auf die unveränderte deutsche PAL1.0-ROM anwenden, nicht auf V112.

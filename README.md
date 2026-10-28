@@ -1,3 +1,7 @@
+## V113 – Titelfix für die normale Sonderversion
+
+A/Start führt wieder zuverlässig zur Dateiauswahl. Alle V112-Sonderänderungen enthalten. Nur die normale Edition, kein DEBUG-Update. BPS auf die saubere deutsche PAL1.0-Basis anwenden. Hinweise, Quellen und sieben bestandene Titelprüfungen im Hauptverzeichnis.
+
 ## V112 – Separate Sonderversion auf V111
 
 Wallace und Deltarune-Trio in neuen Räumen, drei Fledermäuse weniger, feuerfester Holzschild, Textkorrekturen und lauteres Klopfen. Als SONDERVERSION bezeichnete Normal-/DEBUG-BPS, Bilder, Quellen und gezielter Prüfbericht im Hauptverzeichnis. Die reguläre Standardversion bleibt V111. Auf die saubere deutsche PAL1.0-Basis anwenden.

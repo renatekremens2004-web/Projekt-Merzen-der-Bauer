@@ -1,0 +1,82 @@
+{
+  "version": "V113 normal special",
+  "tests": [
+    {
+      "case": "early-a",
+      "mode": "normal",
+      "passed": true,
+      "returncode": 0,
+      "output": "RESULT early-a normal 0 s.\nEMU 1: Unable to open rom database file '(null)'.\nCore paths: /workspace/toolchain/share/mupen64plus/ | /workspace/toolchain/cache/mupen64plus/ | /tmp/title-fix-v113/config-early-a-normal-fixed\nRequested memory: 4 MiB; disableextramem=1\nEMU 2: Input plugin does not contain VRU support.\nEMU 2: No version number in 'Rsp-HLE' config section. Setting defaults.\n[ WARN:0@3.253] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Cannot identify device '/dev/video0'.\n[ WARN:0@3.253] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline\n[ WARN:0@3.253] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created\n[ WARN:0@3.253] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index\n[ERROR:0@3.297] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range\nEMU 1: Failed to open video device 0\nEMU 1: SDL swap interval (VSync) set failed: That operation is not supported\nCould not open font /usr/share/fonts/truetype/freefont/FreeSans.ttf\nAUDIO_RATE system=1 dac=1551 hz=31995 sample=0\nPLAY 801c9fa0 player=801dc530 scene=5a\nTITLE_READY f=231 state=0 cs=1\n1_PRESS f=301 mag=0 cs=72\nSECOND_PRESS f=381\nTITLE_STATE f=400 scene=5a mode=2 mag=4 cs=171 transition=20\nFILESELECT f=406 state=801c9fa0\nTITLE_QA_PASSED early-a mode=2\nSCENARIO early-a-normal-fixed completed: 0\n\n"
+    },
+    {
+      "case": "early-start",
+      "mode": "normal",
+      "passed": true,
+      "returncode": 0,
+      "output": "RESULT early-start normal 0 able to open rom database file '(null)'.\nCore paths: /workspace/toolchain/share/mupen64plus/ | /workspace/toolchain/cache/mupen64plus/ | /tmp/title-fix-v113/config-early-start-normal-fixed\nRequested memory: 4 MiB; disableextramem=1\nEMU 2: Input plugin does not contain VRU support.\nEMU 2: No version number in 'Rsp-HLE' config section. Setting defaults.\n[ WARN:0@0.206] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Cannot identify device '/dev/video0'.\n[ WARN:0@0.206] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline\n[ WARN:0@0.206] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created\n[ WARN:0@0.206] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index\n[ERROR:0@0.239] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range\nEMU 1: Failed to open video device 0\nEMU 1: SDL swap interval (VSync) set failed: That operation is not supported\nCould not open font /usr/share/fonts/truetype/freefont/FreeSans.ttf\nAUDIO_RATE system=1 dac=1551 hz=31995 sample=0\nPLAY 801c9fa0 player=801dc530 scene=5a\nTITLE_READY f=231 state=0 cs=1\n1_PRESS f=301 mag=0 cs=72\nSECOND_PRESS f=381\nTITLE_STATE f=400 scene=5a mode=2 mag=4 cs=171 transition=20\nFILESELECT f=406 state=801c9fa0\nTITLE_QA_PASSED early-start mode=2\nSCENARIO early-start-normal-fixed completed: 0\n\n"
+    },
+    {
+      "case": "late-a",
+      "mode": "normal",
+      "passed": true,
+      "returncode": 0,
+      "output": "RESULT late-a normal 0 file '(null)'.\nCore paths: /workspace/toolchain/share/mupen64plus/ | /workspace/toolchain/cache/mupen64plus/ | /tmp/title-fix-v113/config-late-a-normal-fixed\nRequested memory: 4 MiB; disableextramem=1\nEMU 2: Input plugin does not contain VRU support.\nEMU 2: No version number in 'Rsp-HLE' config section. Setting defaults.\n[ WARN:0@3.254] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Cannot identify device '/dev/video0'.\n[ WARN:0@3.254] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline\n[ WARN:0@3.254] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created\n[ WARN:0@3.254] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index\n[ERROR:0@3.297] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range\nEMU 1: Failed to open video device 0\nEMU 1: SDL swap interval (VSync) set failed: That operation is not supported\nCould not open font /usr/share/fonts/truetype/freefont/FreeSans.ttf\nAUDIO_RATE system=1 dac=1551 hz=31995 sample=0\nPLAY 801c9fa0 player=801dc530 scene=5a\nTITLE_READY f=231 state=0 cs=1\nTITLE_STATE f=400 scene=5a mode=1 mag=0 cs=171 transition=0\nTITLE_STATE f=600 scene=5a mode=1 mag=1 cs=371 transition=0\nDISPLAY_PRESS f=696 cs=467\nFILESELECT f=721 state=801c9fa0\nTITLE_QA_PASSED late-a mode=2\nSCENARIO late-a-normal-fixed completed: 0\n\n"
+    },
+    {
+      "case": "late-start",
+      "mode": "normal",
+      "passed": true,
+      "returncode": 0,
+      "output": "RESULT late-start normal 0 '.\nCore paths: /workspace/toolchain/share/mupen64plus/ | /workspace/toolchain/cache/mupen64plus/ | /tmp/title-fix-v113/config-late-start-normal-fixed\nRequested memory: 4 MiB; disableextramem=1\nEMU 2: Input plugin does not contain VRU support.\nEMU 2: No version number in 'Rsp-HLE' config section. Setting defaults.\n[ WARN:0@3.226] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Cannot identify device '/dev/video0'.\n[ WARN:0@3.226] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline\n[ WARN:0@3.226] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created\n[ WARN:0@3.226] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index\n[ERROR:0@3.262] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range\nEMU 1: Failed to open video device 0\nEMU 1: SDL swap interval (VSync) set failed: That operation is not supported\nCould not open font /usr/share/fonts/truetype/freefont/FreeSans.ttf\nAUDIO_RATE system=1 dac=1551 hz=31995 sample=0\nPLAY 801c9fa0 player=801dc530 scene=5a\nTITLE_READY f=231 state=0 cs=1\nTITLE_STATE f=400 scene=5a mode=1 mag=0 cs=171 transition=0\nTITLE_STATE f=600 scene=5a mode=1 mag=1 cs=371 transition=0\nDISPLAY_PRESS f=696 cs=467\nFILESELECT f=721 state=801c9fa0\nTITLE_QA_PASSED late-start mode=2\nSCENARIO late-start-normal-fixed completed: 0\n\n"
+    },
+    {
+      "case": "boundary-a",
+      "mode": "normal",
+      "passed": true,
+      "returncode": 0,
+      "output": "RESULT boundary-a normal 0 Core paths: /workspace/toolchain/share/mupen64plus/ | /workspace/toolchain/cache/mupen64plus/ | /tmp/title-fix-v113/config-boundary-a-normal-fixed\nRequested memory: 4 MiB; disableextramem=1\nEMU 2: Input plugin does not contain VRU support.\nEMU 2: No version number in 'Rsp-HLE' config section. Setting defaults.\n[ WARN:0@3.248] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Cannot identify device '/dev/video0'.\n[ WARN:0@3.248] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline\n[ WARN:0@3.248] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created\n[ WARN:0@3.248] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index\n[ERROR:0@3.287] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range\nEMU 1: Failed to open video device 0\nEMU 1: SDL swap interval (VSync) set failed: That operation is not supported\nCould not open font /usr/share/fonts/truetype/freefont/FreeSans.ttf\nAUDIO_RATE system=1 dac=1551 hz=31995 sample=0\nPLAY 801c9fa0 player=801dc530 scene=5a\nTITLE_READY f=231 state=0 cs=1\nTITLE_STATE f=400 scene=5a mode=1 mag=0 cs=171 transition=0\nTITLE_STATE f=600 scene=5a mode=1 mag=1 cs=371 transition=0\nDESTINATION_1 f=701 button=80\nFILESELECT f=726 state=801c9fa0\nTITLE_QA_PASSED boundary-a mode=2\nSCENARIO boundary-a-normal-fixed completed: 0\n\n"
+    },
+    {
+      "case": "boundary-start",
+      "mode": "normal",
+      "passed": true,
+      "returncode": 0,
+      "output": "RESULT boundary-start normal 0 /workspace/toolchain/share/mupen64plus/ | /workspace/toolchain/cache/mupen64plus/ | /tmp/title-fix-v113/config-boundary-start-normal-fixed\nRequested memory: 4 MiB; disableextramem=1\nEMU 2: Input plugin does not contain VRU support.\nEMU 2: No version number in 'Rsp-HLE' config section. Setting defaults.\n[ WARN:0@3.241] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Cannot identify device '/dev/video0'.\n[ WARN:0@3.241] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline\n[ WARN:0@3.241] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created\n[ WARN:0@3.241] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index\n[ERROR:0@3.284] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range\nEMU 1: Failed to open video device 0\nEMU 1: SDL swap interval (VSync) set failed: That operation is not supported\nCould not open font /usr/share/fonts/truetype/freefont/FreeSans.ttf\nAUDIO_RATE system=1 dac=1551 hz=31995 sample=0\nPLAY 801c9fa0 player=801dc530 scene=5a\nTITLE_READY f=231 state=0 cs=1\nTITLE_STATE f=400 scene=5a mode=1 mag=0 cs=171 transition=0\nTITLE_STATE f=600 scene=5a mode=1 mag=1 cs=371 transition=0\nDESTINATION_1 f=701 button=10\nFILESELECT f=726 state=801c9fa0\nTITLE_QA_PASSED boundary-start mode=2\nSCENARIO boundary-start-normal-fixed completed: 0\n\n"
+    },
+    {
+      "case": "idle",
+      "mode": "normal",
+      "passed": true,
+      "returncode": 0,
+      "output": "RESULT idle normal 0 Unable to open rom database file '(null)'.\nCore paths: /workspace/toolchain/share/mupen64plus/ | /workspace/toolchain/cache/mupen64plus/ | /tmp/title-fix-v113/config-idle-normal-fixed\nRequested memory: 4 MiB; disableextramem=1\nEMU 2: Input plugin does not contain VRU support.\nEMU 2: No version number in 'Rsp-HLE' config section. Setting defaults.\n[ WARN:0@3.554] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Cannot identify device '/dev/video0'.\n[ WARN:0@3.554] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline\n[ WARN:0@3.554] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created\n[ WARN:0@3.554] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index\n[ERROR:0@3.626] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range\nEMU 1: Failed to open video device 0\nEMU 1: SDL swap interval (VSync) set failed: That operation is not supported\nCould not open font /usr/share/fonts/truetype/freefont/FreeSans.ttf\nAUDIO_RATE system=1 dac=1551 hz=31995 sample=0\nPLAY 801c9fa0 player=801dc530 scene=5a\nTITLE_READY f=231 state=0 cs=1\nTITLE_STATE f=400 scene=5a mode=1 mag=0 cs=171 transition=0\nTITLE_STATE f=600 scene=5a mode=1 mag=1 cs=371 transition=0\nDESTINATION_0 f=701 button=0\n1_DEMO_PASSED spirit_scene=17 f=726\nSCENARIO idle-normal-fixed completed: 0\n\n"
+    }
+  ],
+  "special_smoke_tests": [
+    {
+      "case": "kris",
+      "passed": true,
+      "mode": "normal",
+      "log": "kris.log"
+    },
+    {
+      "case": "shield",
+      "passed": true,
+      "mode": "normal",
+      "log": "shield.log"
+    }
+  ],
+  "patch": {
+    "filename": "Mr_Burns_Mr_Bean_DE_PAL10_SONDERVERSION_TITELFIX_V113.bps",
+    "rom_sha256": "4581d32f19e2bd6c8adf22e0359b86a168fd8dc8473ed3c51e38c18b9b2b02d9",
+    "patch_sha256": "8a03dea217356912280132beeba385b624d9b1b918a3b2729c760f6009e75e60",
+    "independent_apply_byte_identical": true,
+    "checksum_verified": true
+  },
+  "asset_verification": {
+    "checked_asset_segments": 803,
+    "audio_and_messages_identical": true,
+    "room_and_object_assets_identical_except_relocated_identity_matrix": true,
+    "code_growth_bytes": 32
+  },
+  "debug_status": "not released; investigation stopped at user request"
+}
