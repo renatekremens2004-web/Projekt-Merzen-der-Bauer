@@ -1,0 +1,1401 @@
+# Merzen V117 — Sheiks Bildschirmtexte auf Englisch und Französisch
+
+Aus den fertigen V117-Patches. Die Platzhalter stehen für den Namen des Spielstands. Seiten und Zeilenumbrüche folgen den Textboxen im Spiel.
+
+## Erstes Treffen in der Zitadelle der Zeit
+
+### 7056
+
+**EN · Seite 1**
+
+> I've been waiting for you.
+> Unfortunately, Friedrich Merz had a
+> seven-year head start.
+
+**FR · Seite 1**
+
+> Je t'attendais. Malheureusement,
+> Friedrich Merz a eu sept ans
+> d'avance.
+
+### 7057
+
+**EN · Seite 1**
+
+> Friedrich Merz has run Hyrule into
+> the ground. The whole town is in
+> ruins, and he thinks it's the
+> people's fault.
+
+**EN · Seite 2**
+
+> There's barely anywhere left to live
+> in the forest.
+
+**EN · Seite 3**
+
+> He put the Gorons to work on a
+> new weapon.
+
+**EN · Seite 4**
+
+> The lake's colder than Katharina
+> Reiche's heart now.
+
+**EN · Seite 5**
+
+> There are even more people in the
+> graveyard than before. On account
+> of them being dead.
+
+**EN · Seite 6**
+
+> And now he's trying to get his
+> hands on the desert, too.
+
+**EN · Seite 7**
+
+> Bring together the five Sages from
+> the five temples. They're the only
+> ones who can vote Merz out.
+
+**EN · Seite 8**
+
+> That's how the Sheikah tell it. The
+> bit about doing it all for your
+> future mostly comes from Merz.
+
+**FR · Seite 1**
+
+> Friedrich Merz a conduit Hyrule à
+> sa perte. Toute la ville est en
+> ruines et, d'après lui, c'est la faute
+> du peuple.
+
+**FR · Seite 2**
+
+> Dans la forêt, il reste à peine de
+> quoi se loger.
+
+**FR · Seite 3**
+
+> Il a mis les Gorons au travail sur
+> une nouvelle arme.
+
+**FR · Seite 4**
+
+> Le lac est plus froid que le coeur
+> de Katharina Reiche.
+
+**FR · Seite 5**
+
+> Il y a encore plus de gens enterrés
+> au cimetière. Parce qu'ils sont tous
+> morts.
+
+**FR · Seite 6**
+
+> Et maintenant, il essaie aussi de
+> mettre la main sur le désert.
+
+**FR · Seite 7**
+
+> Rassemble les cinq Sages des cinq
+> temples. Eux seuls peuvent faire
+> perdre les élections à Merz.
+
+**FR · Seite 8**
+
+> C'est ce que racontent les
+> Sheikahs. Que tout ça, c'est pour
+> votre avenir, c'est surtout Merz qui
+> le raconte.
+
+### 7077
+
+**EN · Seite 1**
+
+> They call me Sheik. I was trained
+> by Mr. Bean.
+
+**FR · Seite 1**
+
+> On m'appelle Sheik. C'est Mr. Bean
+> qui m'a formé.
+
+### 7078
+
+**EN · Seite 1**
+
+> The Master Sword. The sacred
+> blade. And only a blade that sacred
+> makes the cut.
+
+**FR · Seite 1**
+
+> L'Épée de Légende. C'est la lame
+> sacrée. Et seule la lame sacrée est
+> à la hauteur.
+
+### 7079
+
+**EN · Seite 1**
+
+> You've already been to three places.
+> Now there are five more. And
+> they're even more intense!
+
+**FR · Seite 1**
+
+> Tu as déjà visité trois endroits.
+> Maintenant, il y en a cinq autres.
+> Et ils sont encore plus dingues !
+
+### 707A
+
+**EN · Seite 1**
+
+> An old friend is waiting for you in
+> the Amthor's Villa. You met her
+> when you were a kid.
+
+**EN · Seite 2**
+
+> She always looked a little tired
+> back then. She had a lot on her
+> plate. You should help her.
+
+**EN · Seite 3**
+
+> You'll need more equipment to reach
+> the temple, though.
+
+**EN · Seite 4**
+
+> Look for a Hookshot in Kakariko.
+> Someone made arrangements for
+> after his death.
+
+**EN · Seite 5**
+
+> Got that, [Player name]? An old
+> acquaintance. You'll see.
+
+**FR · Seite 1**
+
+> Une vieille amie t'attend au villa
+> d'Amthor. Tu l'as rencontrée quand
+> tu étais enfant.
+
+**FR · Seite 2**
+
+> À l'époque, elle avait souvent l'air
+> un peu fatiguée. Elle avait beaucoup
+> à faire. Tu devrais l'aider.
+
+**FR · Seite 3**
+
+> Il te faudra du matériel pour
+> atteindre le temple.
+
+**FR · Seite 4**
+
+> Cherche un Grappin à Cocorico.
+> Quelqu'un avait prévu le coup pour
+> après sa mort.
+
+**FR · Seite 5**
+
+> Tu as compris, [Nom du joueur] ? Une
+> vieille connaissance. Tu verras bien.
+
+## Späteres Ansprechen in der Zitadelle der Zeit
+
+### 700F
+
+**EN · Seite 1**
+
+> You need to visit an old friend in
+> Kakariko. A friend who came back
+> from beyond the grave.
+
+**FR · Seite 1**
+
+> Tu dois aller voir un vieil ami à
+> Cocorico. Un ami revenu d'entre les
+> morts.
+
+### 7010
+
+**EN · Seite 1**
+
+> I see you've got the Hookshot now.
+> Did you get it signed? A great
+> racing champion used to own it.
+
+**FR · Seite 1**
+
+> Je vois que t'as le Grappin. Tu l'as
+> fait dédicacer ? Il appartenait à un
+> grand champion de course.
+
+## Heilige Lichtung und Menuett des Waldes
+
+### 106C
+
+**EN · Seite 1**
+
+> The forest is green, and brave was
+> Mr. Bean. He gave his life to keep
+> this land safe.
+
+**EN · Seite 2**
+
+> The things Merz says are absolute
+> rot. The forest grows mushrooms,
+> and Amthor's a clot.
+
+**EN · Seite 3**
+
+> The world is full of beauty,
+> [Player name]. No doubt about it.
+
+**EN · Seite 4**
+
+> And one of its beauties is this
+> song I wrote. The Minuet of Forest.
+
+**EN · Seite 5**
+
+> An old friend is waiting for you in
+> the temple. You've met her before.
+> It'll be a sweet reunion.
+
+**FR · Seite 1**
+
+> La forêt est verte, et brave était
+> Mr. Bean. Il a donné sa vie pour
+> protéger ce pays.
+
+**FR · Seite 2**
+
+> Merz débite ses salades du soir au
+> matin. Ici poussent les champignons,
+> et Philipp Amthor est un crétin.
+
+**FR · Seite 3**
+
+> Le monde est plein de beauté,
+> [Nom du joueur]. C'est indéniable.
+
+**FR · Seite 4**
+
+> Et parmi ces merveilles, il y a
+> cette chanson que j'ai écrite. Le
+> Menuet des Bois.
+
+**FR · Seite 5**
+
+> Une vieille amie t'attend dans le
+> temple. Tu l'as déjà rencontrée. Les
+> retrouvailles seront douces.
+
+### 0073
+
+**EN · Seite 1**
+
+> You have learned the
+> Minuet of Forest!
+
+**FR · Seite 1**
+
+> Vous apprenez le
+> Menuet des bois!
+
+### 106D
+
+**EN · Seite 1**
+
+> [Player name]... Your old friend is
+> waiting. And I don't mean me.
+
+**FR · Seite 1**
+
+> [Nom du joueur]... Ta vieille amie t'attend.
+> Et je parle pas de moi.
+
+## Zitadelle der Zeit und Kantate des Lichts
+
+### 7074
+
+**EN · Seite 1**
+
+> Ahhhhh, you met the Bombchu lady.
+> Well, her ghost. She's the Sage.
+> And she's really hot, too.
+
+**FR · Seite 1**
+
+> Aaaaaah, tu as rencontré la
+> vendeuse de Missiles. Enfin, son
+> fantôme. C'est la Sage. Et en plus,
+> elle est canon.
+
+### 708B
+
+**EN · Seite 1**
+
+> If you want to return to your
+> original time, return the Master
+> Sword to the Pedestal of Time.
+
+**EN · Seite 2**
+
+> By doing this, you will travel back
+> in time seven years....
+
+**FR · Seite 1**
+
+> Pour voyager vers le passé,
+> pose l'Epée de Légende dans le
+> piédestal.
+
+**FR · Seite 2**
+
+> A nouveau tu seras un jeune
+> garçon....
+
+### 708C
+
+**EN · Seite 1**
+
+> The time will come when you will
+> have to return here quickly...
+> I will teach this to you for when
+> that time comes...
+
+**EN · Seite 2**
+
+> The song to return you to the
+> Temple of Time...
+> The Prelude of Light...
+
+**FR · Seite 1**
+
+> Un jour viendra où tu voudras
+> revenir ici au plus vite...
+> Ecoute-moi et ton esprit volera,
+> défiant le temps et l'espace...
+
+**FR · Seite 2**
+
+> Entends et apprends car voici...
+> Le Prélude de la lumière.
+
+### 0078
+
+**EN · Seite 1**
+
+> You have learned the
+> Prelude of Light!
+
+**FR · Seite 1**
+
+> Vous apprenez le
+> Prélude de la lumière!
+
+### 7075
+
+**EN · Seite 1**
+
+> As long as you hold the Ocarina
+> of Time and the Master Sword,
+
+**EN · Seite 2**
+
+> you hold time itself in your
+> hands...
+
+**EN · Seite 3**
+
+> [Player name], we shall meet
+> again!
+
+**FR · Seite 1**
+
+> Aussi longtemps que tu garderas
+> l'ocarina et l'Epée de Légende...
+
+**FR · Seite 2**
+
+> ...le temps sera avec toi...
+
+**FR · Seite 3**
+
+> [Nom du joueur]... A bientôt!
+
+## Todesbergkrater und Bolero des Feuers
+
+### 303E
+
+**EN · Seite 1**
+
+> Everything's on fire. Even the price
+> of groceries couldn't get much
+> higher.
+
+**EN · Seite 2**
+
+> Wallace is the man you need to
+> find. Book a flight to Death
+> Mountain. Don't get left behind.
+
+**EN · Seite 3**
+
+> Mr. Bean was a warrior who earned
+> his fame. I'll hop back on the plane
+> and do the same.
+
+**EN · Seite 4**
+
+> Now learn your next teleport song,
+> the Bolero of Fire.
+
+**EN · Seite 5**
+
+> Then you won't have to trudge all
+> the way back here and all that.
+
+**FR · Seite 1**
+
+> Tout est en feu, et les courses
+> coûtent les yeux.
+
+**FR · Seite 2**
+
+> C'est Wallace qu'il faut chercher.
+> Prochain vol pour le Mont du Péril,
+> prêt à décoller.
+
+**FR · Seite 3**
+
+> Mr. Bean était un guerrier de
+> renom. Moi, je remonte dans l'avion.
+
+**FR · Seite 4**
+
+> Apprends maintenant ton prochain
+> chant de téléportation, le Boléro du
+> Feu.
+
+**FR · Seite 5**
+
+> Comme ça, tu n'auras plus à te
+> taper tout le chemin à pied.
+
+### 0074
+
+**EN · Seite 1**
+
+> You have learned the
+> Bolero of Fire!
+
+**FR · Seite 1**
+
+> Vous apprenez le
+> Boléro du feu!
+
+### 106D
+
+**EN · Seite 1**
+
+> [Player name]... Your old friend is
+> waiting. And I don't mean me.
+
+**FR · Seite 1**
+
+> [Nom du joueur]... Ta vieille amie t'attend.
+> Et je parle pas de moi.
+
+## Eishöhle und Serenade des Wassers
+
+### 4036
+
+**EN · Seite 1**
+
+> Ice as far as the eye can see. And
+> look at you, working so hard,
+> [Player name].
+
+**FR · Seite 1**
+
+> De la glace à perte de vue. Et toi
+> qui te démènes, [Nom du joueur]. Je suis
+> impressionné.
+
+### 4039
+
+**EN · Seite 1**
+
+> King Zora let Friedrich Merz scare
+> him into backing down.
+
+**EN · Seite 2**
+
+> You've still got a bit of ore on you
+> from Death Mountain.
+
+**EN · Seite 3**
+
+> Most of the Zoras are frozen.
+> Squidward headed to the Water
+> Temple to fix the drain.
+
+**FR · Seite 1**
+
+> Le roi Zora s'est laissé intimider
+> par Friedrich Merz.
+
+**FR · Seite 2**
+
+> Tu as encore un peu de minerai du
+> Mont du Péril collé sur toi.
+
+**FR · Seite 3**
+
+> La plupart des Zoras sont gelés.
+> Carlo est parti au Temple de l'Eau
+> pour déboucher l'évacuation.
+
+### 4037
+
+**EN · Seite 1**
+
+> Listen carefully and learn the
+> Serenade of Water. Let me just get
+> my harp out.
+
+**EN · Seite 2**
+
+> Hang on. One second. Where is it?
+
+**EN · Seite 3**
+
+> It's a folding harp. I can fold it up
+> and stick it in my back pocket.
+> Dead handy.
+
+**FR · Seite 1**
+
+> Écoute bien et apprends la
+> Sérénade de l'Eau. Laisse-moi juste
+> sortir ma harpe.
+
+**FR · Seite 2**
+
+> Attends. Une seconde. Où elle est
+> passée ?
+
+**FR · Seite 3**
+
+> C'est une harpe pliante. Je peux la
+> replier et la mettre dans ma poche
+> arrière. Super pratique.
+
+### 4038
+
+**EN · Seite 1**
+
+> And anyway, ever since I've been a
+> guy, I've had proper pockets. Uh...
+> Forget that last bit.
+
+**EN · Seite 2**
+
+> These trousers are tight as hell,
+> aren't they? You like them?
+
+**EN · Seite 3**
+
+> All right. Here's the Serenade of
+> Water.
+
+**FR · Seite 1**
+
+> Et puis depuis que je suis un mec,
+> j'ai des vraies poches. Euh... Oublie
+> ce que je viens de dire.
+
+**FR · Seite 2**
+
+> Ce pantalon est vachement moulant,
+> hein ? Ça te plaît ?
+
+**FR · Seite 3**
+
+> Bon. Voici la Sérénade de l'Eau.
+
+### 0075
+
+**EN · Seite 1**
+
+> You have learned the
+> Serenade of Water!
+
+**FR · Seite 1**
+
+> Vous apprenez la
+> Sérénade de l'eau!
+
+### 722A
+
+**EN · Seite 1**
+
+> You'll meet the Sage of Water in
+> the temple. And you'll say to him,
+> "Hang on a minute. I know you."
+
+**FR · Seite 1**
+
+> Tu rencontreras le Sage de l'Eau
+> dans le temple. Et tu lui diras :
+> "Attends une seconde. Je te
+> connais, toi."
+
+## Hylia-See nach dem Wassertempel
+
+### 4057
+
+**EN · Seite 1**
+
+> As the water rises, the evil
+> is vanishing from the lake...
+> [Player name], you did it!
+
+**FR · Seite 1**
+
+> Les flots s'élèvent...
+> Et le mal se dissout...
+> Tu as triomphé [Nom du joueur]!
+
+### 4043
+
+**EN · Seite 1**
+
+> Squidward is now the Sage of
+> Water.
+
+**EN · Seite 2**
+
+> Even the people everyone
+> underestimates can do great things.
+
+**EN · Seite 3**
+
+> That's a lesson you'll learn over and
+> over on your adventure.
+
+**FR · Seite 1**
+
+> Carlo est maintenant le Sage de
+> l'Eau.
+
+**FR · Seite 2**
+
+> Même les gens que tout le monde
+> sous-estime peuvent accomplir de
+> grandes choses.
+
+**FR · Seite 3**
+
+> Ton aventure te l'apprendra encore
+> et encore.
+
+### 4059
+
+**EN · Seite 1**
+
+> And now, ciao. You and Squiddy did
+> a great job. Everything's wet again.
+> Very cool.
+
+**FR · Seite 1**
+
+> Bon, ciao. Toi et Carlito, vous avez
+> fait du super boulot. Tout est
+> mouillé de nouveau. Très cool.
+
+## Kakariko, Brunnen und Nocturne des Schattens
+
+### 501B
+
+**EN · Seite 1**
+
+> Stay back, [Player name]!
+
+**FR · Seite 1**
+
+> Reste en arrière, [Nom du joueur] !
+
+### 5030
+
+**EN · Seite 1**
+
+> Okay, you've still got enough
+> hearts. Great. Maybe pick up a few
+> more Pieces of Heart, though.
+
+**FR · Seite 1**
+
+> Bon, il te reste assez de coeurs.
+> Parfait. Pense quand même à
+> ramasser quelques Quarts de Coeur
+> de plus.
+
+### 501C
+
+**EN · Seite 1**
+
+> There was a demon, you see. Mr.
+> Bean locked it in the well.
+
+**EN · Seite 2**
+
+> Mr. Bean was an absolute genius.
+> He wanted to protect this village.
+> Really protect it.
+
+**EN · Seite 3**
+
+> Not the way the Goron soldiers do.
+> Anyway, the demon's grown
+> stronger now.
+
+**EN · Seite 4**
+
+> That's because Friedrich Merz has
+> brought too much evil energy into
+> Hyrule.
+
+**EN · Seite 5**
+
+> The seal couldn't hold against all
+> that dark magic and energy. And
+> now we're in a right mess.
+
+**FR · Seite 1**
+
+> Il y avait un démon, tu vois. Mr.
+> Bean l'a enfermé dans le puits.
+
+**FR · Seite 2**
+
+> Mr. Bean était un vrai génie. Il
+> voulait protéger ce village. Le
+> protéger pour de bon.
+
+**FR · Seite 3**
+
+> Pas comme les soldats gorons. Bref,
+> le démon a gagné en puissance.
+
+**FR · Seite 4**
+
+> C'est parce que Friedrich Merz a
+> ramené trop d'énergie maléfique en
+> Hyrule.
+
+**FR · Seite 5**
+
+> Le sceau n'a pas tenu face à toute
+> cette magie noire. Et maintenant,
+> on est bien avancés.
+
+### 5031
+
+**EN · Seite 1**
+
+> [Player name], I'm afraid Mr. Bean is
+> gone. He kept Zelda safe when she
+> fled the castle.
+
+**EN · Seite 2**
+
+> You even dreamed about it.
+
+**EN · Seite 3**
+
+> Then he lost to Merz. They fought
+> like hell, but Merz played dirty.
+> That's just how it was.
+
+**EN · Seite 4**
+
+> No big rhyme today. I didn't know
+> about the Shadow Temple! The
+> blood, the skulls... Looks like people
+> were tortured there.
+
+**EN · Seite 5**
+
+> At the well you already think, was
+> this demon a serial killer?
+> Interesting theory. The temple's no
+> better, though.
+
+**EN · Seite 6**
+
+> And it wasn't one lone maniac
+> behind it. It was Hyrule itself. Well.
+> That's awkward.
+
+**EN · Seite 7**
+
+> Let's put it way back in the past.
+> More than seven years! Let's steer
+> well clear of it for now.
+
+**EN · Seite 8**
+
+> We'll reckon with it another day.
+> The entrance is behind the
+> graveyard. Mr. Bean is the Sage of
+> Shadow.
+
+**EN · Seite 9**
+
+> Defeat the demon. Now learn the
+> Nocturne of Shadow, our new
+> teleport song.
+
+**FR · Seite 1**
+
+> [Nom du joueur], hélas, Mr. Bean n'est
+> plus là. Il a protégé Zelda quand
+> elle a fui le château.
+
+**FR · Seite 2**
+
+> Tu en as même rêvé.
+
+**FR · Seite 3**
+
+> Puis il a perdu contre Merz. Ils se
+> sont battus comme des dingues,
+> mais Merz a triché. Faut bien le
+> dire.
+
+**FR · Seite 4**
+
+> Pas de grande rime aujourd'hui. Je
+> savais rien du Temple de l'Ombre !
+> Le sang, les crânes... On dirait
+> qu'on y a torturé des gens.
+
+**FR · Seite 5**
+
+> Au puits, on se dit déjà que le
+> démon était peut-être un tueur en
+> série. Théorie intéressante. Mais le
+> temple vaut pas mieux.
+
+**FR · Seite 6**
+
+> Et là, c'était pas l'oeuvre d'un
+> forcené isolé. C'était Hyrule
+> lui-même. Un peu gênant, tout ça.
+
+**FR · Seite 7**
+
+> Mettons ça loin dans le passé. Plus
+> loin que sept ans ! Pour l'instant,
+> on va faire un grand détour.
+
+**FR · Seite 8**
+
+> On reviendra là-dessus un jour.
+> L'entrée est derrière le cimetière.
+> Mr. Bean est le Sage de l'Ombre.
+
+**FR · Seite 9**
+
+> Bats le démon. Maintenant, apprends
+> le Nocturne de l'Ombre, notre
+> nouveau chant de téléportation.
+
+### 0077
+
+**EN · Seite 1**
+
+> You have learned the
+> Nocturne of Shadow!
+
+**FR · Seite 1**
+
+> Vous apprenez le
+> Nocturne de l'ombre!
+
+### 501D
+
+**EN · Seite 1**
+
+> [Player name], you know what to do.
+> You can go to the Spirit Temple
+> too, if you haven't been yet.
+
+**EN · Seite 2**
+
+> I'd do the Shadow Temple first. The
+> demon did just pop out of the well,
+> you know?
+
+**FR · Seite 1**
+
+> [Nom du joueur], tu sais ce qu'il te reste
+> à faire. Tu peux aussi aller au
+> Temple de l'Esprit si tu n'y es pas
+> encore allé.
+
+**FR · Seite 2**
+
+> Moi, je ferais le Temple de l'Ombre
+> d'abord. Le démon vient tout juste
+> de sortir du puits, hein ?
+
+## Wüstenkoloss und Requiem der Geister
+
+### 600C
+
+**EN · Seite 1**
+
+> There's sand in my shoe, and plenty
+> of it, too. And Friedrich Merz won't
+> leave me alone, whatever I do.
+
+**EN · Seite 2**
+
+> I'm out here doing acrobatics. He's
+> doing gymnastics. With the
+> statistics.
+
+**EN · Seite 3**
+
+> There's an unlikely ally waiting in
+> the temple. Tall, pushy, and still
+> clueless about his part in all this...
+
+**EN · Seite 4**
+
+> ...chasing any treasure he can find.
+> How he'll turn out, I couldn't say.
+> You'll have to ask him yourself one
+> day.
+
+**EN · Seite 5**
+
+> To meet him there, go back to the
+> Temple of Time and become a kid
+> again.
+
+**EN · Seite 6**
+
+> Learn the Requiem of Spirit and you
+> can come straight back here.
+
+**FR · Seite 1**
+
+> J'ai du sable plein mes chaussures,
+> et Friedrich Merz me lâche pas
+> d'une semelle.
+
+**FR · Seite 2**
+
+> Moi, je fais des acrobaties. Lui, il
+> fait des pirouettes avec ses
+> statistiques.
+
+**FR · Seite 3**
+
+> Un allié inattendu t'attend au
+> temple. Un grand échalas qui joue
+> des coudes et ignore encore le rôle
+> qu'il a à jouer...
+
+**FR · Seite 4**
+
+> ... et qui court après tout ce qui
+> brille. Ce qu'il deviendra, j'en sais
+> rien. Tu lui demanderas, tiens.
+
+**FR · Seite 5**
+
+> Pour le rencontrer là-bas, retourne
+> au Temple du Temps et redeviens
+> un enfant.
+
+**FR · Seite 6**
+
+> Apprends le Requiem des Esprits et
+> tu pourras revenir ici.
+
+### 0076
+
+**EN · Seite 1**
+
+> You've learned the Requiem of
+> Spirit!
+
+**EN · Seite 2**
+
+> Sheik: Oh, one more thing. Just so
+> you know, the pots at the entrance
+> to the Spirit Temple float.
+
+**EN · Seite 3**
+
+> And they move pretty damn fast,
+> too. Just thought I'd mention it. Do
+> watch out.
+
+**FR · Seite 1**
+
+> Tu as appris le Requiem des
+> Esprits !
+
+**FR · Seite 2**
+
+> Sheik : Ah, au fait, que tu le
+> saches, les pots à l'entrée du
+> Temple de l'Esprit flottent.
+
+**FR · Seite 3**
+
+> Et ça file vite, ces machins. Je
+> préfère te prévenir. Fais un peu
+> gaffe.
+
+## Zitadelle der Zeit, Legende und Enthüllung
+
+### 705A
+
+**EN · Seite 1**
+
+> And here you are, [Player name].
+
+**FR · Seite 1**
+
+> Et te voilà, [Nom du joueur].
+
+### 705B
+
+**EN · Seite 1**
+
+> You've been through so much. You
+> were swallowed by a giant whale
+> and crept through Philipp Amthor's
+> Villa.
+
+**EN · Seite 2**
+
+> And you went somewhere creepy in
+> Kakariko that we'd rather not talk
+> about.
+
+**EN · Seite 3**
+
+> And to you all that took, what, a
+> week? For me, it's been more than
+> seven years.
+
+**FR · Seite 1**
+
+> Tu en as affronté, des dangers. Tu
+> as fini dans une baleine géante et
+> traîné dans la villa de Philipp
+> Amthor.
+
+**FR · Seite 2**
+
+> Et tu es allé dans un endroit
+> flippant à Cocorico dont on préfère
+> ne pas parler.
+
+**FR · Seite 3**
+
+> Et pour toi, tout ça a pris quoi,
+> une semaine ? Pour moi, ça fait
+> plus de sept ans.
+
+### 707C
+
+**EN · Seite 1**
+
+> Before you go, you're getting one
+> last bit of backstory. Listen to the
+> legend the Sheikah tell about the
+> Triforce.
+
+**FR · Seite 1**
+
+> Avant que tu partes, encore un
+> dernier bout d'histoire. Écoute la
+> légende que les Sheikahs racontent
+> sur la Triforce.
+
+### 705C
+
+**EN · Seite 1**
+
+> The Triforce has three pieces. Some
+> say there are four. That's rubbish.
+
+**EN · Seite 2**
+
+> In the Sacred Realm, your heart's
+> desire comes true. Wish for a
+> burger and you'll get the best
+> burger ever.
+
+**EN · Seite 3**
+
+> But a dark heart has dark cravings.
+> Its burger would taste great at the
+> expense of every other burger in
+> the land.
+
+**EN · Seite 4**
+
+> They'd all taste disgusting. Only the
+> evil burger would be any good.
+> That's the big problem.
+
+**EN · Seite 5**
+
+> The Triforce balances three powers:
+> Wisdom, Courage and Power.
+
+**EN · Seite 6**
+
+> If they're in balance in your heart,
+> you'll use the Triforce for good.
+> Otherwise it breaks into three
+> pieces.
+
+**EN · Seite 7**
+
+> You only keep the piece of the
+> power you believe in most.
+
+**EN · Seite 8**
+
+> To fix the Triforce, you need the
+> other pieces. It'll work the second
+> time, surely.
+
+**EN · Seite 9**
+
+> The other two chosen people bear
+> their pieces as marks on the backs
+> of their hands.
+
+**FR · Seite 1**
+
+> La Triforce a trois fragments.
+> Certains disent qu'il y en a quatre.
+> C'est n'importe quoi.
+
+**FR · Seite 2**
+
+> Dans le Saint Royaume, tes voeux
+> se réalisent. Souhaite un hamburger
+> et tu auras le meilleur hamburger
+> du monde !
+
+**FR · Seite 3**
+
+> Mais un coeur sombre a des envies
+> sombres. Son hamburger serait
+> délicieux aux dépens de tous les
+> autres du pays.
+
+**FR · Seite 4**
+
+> Tous les autres seraient infects.
+> Seul le hamburger du mal serait
+> bon. Voilà le gros problème.
+
+**FR · Seite 5**
+
+> La Triforce tient trois forces en
+> équilibre : la Sagesse, le Courage
+> et la Force.
+
+**FR · Seite 6**
+
+> Si ton coeur les équilibre, tu feras
+> le bien avec la Triforce. Sinon, elle
+> se brise en trois fragments.
+
+**FR · Seite 7**
+
+> Il ne te reste que le fragment de la
+> force à laquelle tu crois le plus.
+
+**FR · Seite 8**
+
+> Pour réparer la Triforce, il faut les
+> autres fragments. Au deuxième
+> essai, ça marchera sûrement.
+
+**FR · Seite 9**
+
+> Les deux autres élus portent leur
+> fragment sous forme de marque au
+> dos de leur main.
+
+### 705D
+
+**EN · Seite 1**
+
+> Seven years ago, Friedrich Merz
+> entered the Sacred Realm. You'd
+> gone and opened the way for him in
+> the Temple of Time.
+
+**EN · Seite 2**
+
+> Who could've seen that coming?
+
+**FR · Seite 1**
+
+> Il y a sept ans, Friedrich Merz est
+> entré dans le Saint Royaume. Tu lui
+> avais bêtement ouvert le passage
+> au Temple du Temps.
+
+**FR · Seite 2**
+
+> Qui aurait pu prévoir ça ?
+
+### 707D
+
+**EN · Seite 1**
+
+> The Triforce split into three pieces,
+> and Friedrich Merz got the Triforce
+> of Power.
+
+**FR · Seite 1**
+
+> La Triforce s'est brisée en trois
+> fragments et Friedrich Merz a
+> obtenu la Triforce de la Force.
+
+### 707E
+
+**EN · Seite 1**
+
+> And that made his devilish powers
+> even more devilish. More devilish
+> than the Devil himself. He is the
+> Devil himself now.
+
+**FR · Seite 1**
+
+> Ses pouvoirs diaboliques sont
+> devenus encore plus diaboliques.
+> Plus diaboliques que le Diable
+> lui-même. Maintenant, c'est le Diable
+
+**FR · Seite 2**
+
+> en personne.
+
+### 707F
+
+**EN · Seite 1**
+
+> All this time, he's been looking for
+> the other two pieces of the
+> Triforce.
+
+**FR · Seite 1**
+
+> Pendant tout ce temps, il a cherché
+> les deux autres fragments de la
+> Triforce.
+
+### 705E
+
+**EN · Seite 1**
+
+> And you carry the symbol of
+> courage, [Player name].
+
+**FR · Seite 1**
+
+> Et tu portes le symbole du courage,
+> [Nom du joueur].
+
+### 705F
+
+**EN · Seite 1**
+
+> I myself, by the way, have that of
+> wisdom.
+
+**EN · Seite 2**
+
+> For this belongs to the seventh
+> wise man, whose destiny is to
+> become the master of all other the
+> Sages.
+
+**FR · Seite 1**
+
+> J'ai moi-même cela de la sagesse.
+
+**FR · Seite 2**
+
+> Car cela appartient au septième
+> sage, dont la destinée est de
+> devenir le maître de tous les
+> autres sages.
+
+### 7060
+
+**EN · Seite 1**
+
+> I've been Zelda, Princess of Hyrule,
+> this whole time.
+
+**FR · Seite 1**
+
+> Depuis le début, je suis Zelda,
+> princesse d'Hyrule.
+
+### 7061
+
+**EN · Seite 1**
+
+> Sorry I led you on like that.
+> Friedrich Merz couldn't be allowed
+> to find me.
+
+**EN · Seite 2**
+
+> Friedrich Merz doesn't respect
+> trans people, so I've been keeping a
+> low profile.
+
+**FR · Seite 1**
+
+> Désolée de t'avoir mené en bateau.
+> Il ne fallait pas que Friedrich Merz
+> me trouve.
+
+**FR · Seite 2**
+
+> Friedrich Merz ne respecte pas les
+> personnes trans. Alors je me suis
+> faite discrète.
