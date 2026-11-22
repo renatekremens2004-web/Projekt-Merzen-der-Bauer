@@ -1,0 +1,758 @@
+# Merzen V116 — Sheik’s English on-screen text
+
+Transcribed from the V116 BPS patches. [Player name] is the name entered in the save file.
+
+Message IDs, pages and line breaks follow the game.
+
+## First meeting in the Temple of Time
+
+### 7056
+
+**Page 1**
+
+> I've been waiting for you.
+> Unfortunately, Friedrich Merz had a
+> seven-year head start.
+
+### 7057
+
+**Page 1**
+
+> Friedrich Merz has run Hyrule into
+> the ground. The whole town is in
+> ruins, and he thinks it's the
+> people's fault.
+
+**Page 2**
+
+> There's barely anywhere left to live
+> in the forest.
+
+**Page 3**
+
+> He put the Gorons to work on a
+> new weapon.
+
+**Page 4**
+
+> The lake's colder than Katharina
+> Reiche's heart now.
+
+**Page 5**
+
+> There are even more people in the
+> graveyard than before. On account
+> of them being dead.
+
+**Page 6**
+
+> And now he's trying to get his
+> hands on the desert, too.
+
+**Page 7**
+
+> Bring together the five Sages from
+> the five temples. They're the only
+> ones who can vote Merz out.
+
+**Page 8**
+
+> That's how the Sheikah tell it. The
+> bit about doing it all for your
+> future mostly comes from Merz.
+
+### 7077
+
+**Page 1**
+
+> They call me Sheik. I was trained
+> by Mr. Bean.
+
+### 7078
+
+**Page 1**
+
+> The Master Sword. The sacred
+> blade. And only a blade that sacred
+> makes the cut.
+
+### 7079
+
+**Page 1**
+
+> You've already been to three places.
+> Now there are five more. And
+> they're even more intense!
+
+### 707A
+
+**Page 1**
+
+> An old friend is waiting for you in
+> the Forest Temple. You met her
+> when you were a kid.
+
+**Page 2**
+
+> She always looked a little tired
+> back then. She had a lot on her
+> plate. You should help her.
+
+**Page 3**
+
+> You'll need more equipment to reach
+> the temple, though.
+
+**Page 4**
+
+> Look for a Hookshot in Kakariko.
+> Someone made arrangements for
+> after his death.
+
+**Page 5**
+
+> Got that, [Player name]? An old
+> acquaintance. You'll see.
+
+## Temple of Time — speaking to Sheik again
+
+### 700F · Before obtaining the Hookshot
+
+**Page 1**
+
+> You need to visit an old friend in
+> Kakariko. A friend who came back
+> from beyond the grave.
+
+### 7010 · After obtaining the Hookshot
+
+**Page 1**
+
+> I see you have the catch hook now.
+> Did you get him signed? It once
+> belonged to a great racing
+> champion.
+
+## Sacred Forest Meadow — Minuet of Forest
+
+### 106C
+
+**Page 1**
+
+> The forest is green, and brave was
+> Mr. Bean. He gave his life to keep
+> this land safe.
+
+**Page 2**
+
+> The things Merz says are absolute
+> rot. The forest grows mushrooms,
+> and Amthor's a clot.
+
+**Page 3**
+
+> The world is full of beauty,
+> [Player name]. No doubt about it.
+
+**Page 4**
+
+> And one of its beauties is this
+> song I wrote. The Minuet of Forest.
+
+**Page 5**
+
+> An old friend is waiting for you in
+> the temple. You've met her before.
+> It'll be a sweet reunion.
+
+### 0073 · Song learned
+
+**Page 1**
+
+> You have learned the
+> Minuet of Forest!
+
+### 106D
+
+**Page 1**
+
+> [Player name]... Your old friend is
+> waiting. And I don't mean me.
+
+## Temple of Time — Prelude of Light and returning to childhood
+
+### 7074
+
+**Page 1**
+
+> Ahhhhh, you met the Bombchu lady.
+> Well, her ghost. She's the Sage.
+> And she's really hot, too.
+
+### 708B
+
+**Page 1**
+
+> If you want to return to your
+> original time, return the Master
+> Sword to the Pedestal of Time.
+
+**Page 2**
+
+> By doing this, you will travel back
+> in time seven years....
+
+### 708C
+
+**Page 1**
+
+> The time will come when you will
+> have to return here quickly...
+> I will teach this to you for when
+> that time comes...
+
+**Page 2**
+
+> The song to return you to the
+> Temple of Time...
+> The Prelude of Light...
+
+### 0078 · Song learned
+
+**Page 1**
+
+> You have learned the
+> Prelude of Light!
+
+### 7075
+
+**Page 1**
+
+> As long as you hold the Ocarina
+> of Time and the Master Sword,
+
+**Page 2**
+
+> you hold time itself in your
+> hands...
+
+**Page 3**
+
+> [Player name], we shall meet
+> again!
+
+## Death Mountain Crater — Bolero of Fire
+
+### 303E
+
+**Page 1**
+
+> Everything's on fire. Even the price
+> of groceries couldn't get much
+> higher.
+
+**Page 2**
+
+> Wallace is the man you need to
+> find. Book a flight to Death
+> Mountain. Don't get left behind.
+
+**Page 3**
+
+> Mr. Bean was a warrior who earned
+> his fame. I'll hop back on the plane
+> and do the same.
+
+**Page 4**
+
+> Now learn your next teleport song,
+> the Bolero of Fire.
+
+**Page 5**
+
+> Then you won't have to trudge all
+> the way back here and all that.
+
+### 0074 · Song learned
+
+**Page 1**
+
+> You have learned the
+> Bolero of Fire!
+
+### 106D
+
+**Page 1**
+
+> [Player name]... Your old friend is
+> waiting. And I don't mean me.
+
+## Ice Cavern — Serenade of Water
+
+### 4036
+
+**Page 1**
+
+> Ice as far as the eye can see. And
+> look at you, working so hard,
+> [Player name].
+
+### 4039
+
+**Page 1**
+
+> King Zora let Friedrich Merz scare
+> him into backing down.
+
+**Page 2**
+
+> You've still got a bit of ore on you
+> from Death Mountain.
+
+**Page 3**
+
+> Most of the Zoras are frozen.
+> Squidward headed to the Water
+> Temple to fix the drain.
+
+### 4037
+
+**Page 1**
+
+> Listen carefully and learn the
+> Serenade of Water. Let me just get
+> my harp out.
+
+**Page 2**
+
+> Hang on. One second. Where is it?
+
+**Page 3**
+
+> It's a folding harp. I can fold it up
+> and stick it in my back pocket.
+> Dead handy.
+
+### 4038
+
+**Page 1**
+
+> And anyway, ever since I've been a
+> guy, I've had proper pockets. Uh...
+> Forget that last bit.
+
+**Page 2**
+
+> These trousers are tight as hell,
+> aren't they? You like them?
+
+**Page 3**
+
+> All right. Here's the Serenade of
+> Water.
+
+### 0075 · Song learned
+
+**Page 1**
+
+> You have learned the
+> Serenade of Water!
+
+### 722A
+
+**Page 1**
+
+> You'll meet the Sage of Water in
+> the temple. And you'll say to him,
+> "Hang on a minute. I know you."
+
+## Lake Hylia — after the Water Temple
+
+### 4057
+
+**Page 1**
+
+> As the water rises, the evil
+> is vanishing from the lake...
+> [Player name], you did it!
+
+### 4043
+
+**Page 1**
+
+> Squidward is now the Sage of
+> Water.
+
+**Page 2**
+
+> Even the people everyone
+> underestimates can do great things.
+
+**Page 3**
+
+> That's a lesson you'll learn over and
+> over on your adventure.
+
+### 4059
+
+**Page 1**
+
+> And now, ciao. You and Squiddy did
+> a great job. Everything's wet again.
+> Very cool.
+
+## Kakariko Village — the well and Nocturne of Shadow
+
+### 501B
+
+**Page 1**
+
+> Stay back, [Player name]!
+
+### 5030
+
+**Page 1**
+
+> Okay, you've still got enough
+> hearts. Great. Maybe pick up a few
+> more Pieces of Heart, though.
+
+### 501C
+
+**Page 1**
+
+> There was a demon, you see. Mr.
+> Bean locked it in the well.
+
+**Page 2**
+
+> Mr. Bean was an absolute genius.
+> He wanted to protect this village.
+> Really protect it.
+
+**Page 3**
+
+> Not the way the Goron soldiers do.
+> Anyway, the demon's grown
+> stronger now.
+
+**Page 4**
+
+> That's because Friedrich Merz has
+> brought too much evil energy into
+> Hyrule.
+
+**Page 5**
+
+> The seal couldn't hold against all
+> that dark magic and energy. And
+> now we're in a right mess.
+
+### 5031
+
+**Page 1**
+
+> [Player name], I'm afraid Mr. Bean is
+> gone. He kept Zelda safe when she
+> fled the castle.
+
+**Page 2**
+
+> You even dreamed about it.
+
+**Page 3**
+
+> Then he lost to Merz. They fought
+> like hell, but Merz played dirty.
+> That's just how it was.
+
+**Page 4**
+
+> No big rhyme today. I didn't know
+> about the Shadow Temple! The
+> blood, the skulls... Looks like people
+> were tortured there.
+
+**Page 5**
+
+> At the well you already think, was
+> this demon a serial killer?
+> Interesting theory. The temple's no
+> better, though.
+
+**Page 6**
+
+> And it wasn't one lone maniac
+> behind it. It was Hyrule itself. Well.
+> That's awkward.
+
+**Page 7**
+
+> Let's put it way back in the past.
+> More than seven years! Let's steer
+> well clear of it for now.
+
+**Page 8**
+
+> We'll reckon with it another day.
+> The entrance is behind the
+> graveyard. Mr. Bean is the Sage of
+> Shadow.
+
+**Page 9**
+
+> Defeat the demon. Now learn the
+> Nocturne of Shadow, our new
+> teleport song.
+
+### 0077 · Song learned
+
+**Page 1**
+
+> You have learned the
+> Nocturne of Shadow!
+
+### 501D
+
+**Page 1**
+
+> [Player name], you know what to do.
+> You can go to the Spirit Temple
+> too, if you haven't been yet.
+
+**Page 2**
+
+> I'd do the Shadow Temple first. The
+> demon did just pop out of the well,
+> you know?
+
+## Desert Colossus — Requiem of Spirit
+
+### 600C
+
+**Page 1**
+
+> I've got a lot of sand in my shoe,
+> and Friedrich Merz doesn't give me
+> any rest.
+
+**Page 2**
+
+> I do acrobatics here, but he
+> embellishes the statistics.
+
+**Page 3**
+
+> In the temple there is an unusual
+> pendant, a long guy and a great
+> pusher who doesn't know his
+> meaning yet...
+
+**Page 4**
+
+> ... and prefers to run after every
+> treasure. What will become of him,
+> I can't say, you'll ask him yourself.
+
+**Page 5**
+
+> To meet him there, you must
+> become a child in Temple of Time.
+
+**Page 6**
+
+> Learn the requiem of ghosts, then
+> you come back here.
+
+### 0076 · Song learned and Sheik’s warning about the jars
+
+**Page 1**
+
+> You've learned the Requiem of
+> Spirits!
+
+**Page 2**
+
+> Sheik: Oh, by the way, just so you
+> know: At the entrance of the ghost
+> temple there are jugs floating.
+
+**Page 3**
+
+> So also at a rather high speed. I
+> just want to mention it as a
+> precaution, please pay attention.
+
+## Temple of Time — the Triforce legend and the reveal
+
+### 705A
+
+**Page 1**
+
+> And here you are, [Player name].
+
+### 705B
+
+**Page 1**
+
+> You've been through so much. You
+> were swallowed by a giant whale
+> and crept through Philipp Amthor's
+> villa.
+
+**Page 2**
+
+> And you went somewhere creepy in
+> Kakariko that we'd rather not talk
+> about.
+
+**Page 3**
+
+> And to you all that took, what, a
+> week? For me, it's been more than
+> seven years.
+
+### 707C
+
+**Page 1**
+
+> Before you go, you're getting one
+> last bit of backstory. Listen to the
+> legend the Sheikah tell about the
+> Triforce.
+
+### 705C
+
+**Page 1**
+
+> The Triforce has three pieces. Some
+> say there are four. That's rubbish.
+
+**Page 2**
+
+> In the Sacred Realm, your heart's
+> desire comes true. Wish for a
+> burger and you'll get the best
+> burger ever.
+
+**Page 3**
+
+> But a dark heart has dark cravings.
+> Its burger would taste great at the
+> expense of every other burger in
+> the land.
+
+**Page 4**
+
+> They'd all taste disgusting. Only the
+> evil burger would be any good.
+> That's the big problem.
+
+**Page 5**
+
+> The Triforce balances three powers:
+> Wisdom, Courage and Power.
+
+**Page 6**
+
+> If they're in balance in your heart,
+> you'll use the Triforce for good.
+> Otherwise it breaks into three
+> pieces.
+
+**Page 7**
+
+> You only keep the piece of the
+> power you believe in most.
+
+**Page 8**
+
+> To fix the Triforce, you need the
+> other pieces. It'll work the second
+> time, surely.
+
+**Page 9**
+
+> The other two chosen people bear
+> their pieces as marks on the backs
+> of their hands.
+
+### 705D
+
+**Page 1**
+
+> Seven years ago, Friedrich Merz
+> entered the Sacred Realm. You'd
+> gone and opened the way for him in
+> the Temple of Time.
+
+**Page 2**
+
+> Who could've seen that coming?
+
+### 707D
+
+**Page 1**
+
+> The Triforce split into three pieces,
+> and Friedrich Merz got the Triforce
+> of Power.
+
+### 707E
+
+**Page 1**
+
+> And that made his devilish powers
+> even more devilish. More devilish
+> than the Devil himself. He is the
+> Devil himself now.
+
+### 707F
+
+**Page 1**
+
+> All this time, he's been looking for
+> the other two pieces of the
+> Triforce.
+
+### 705E
+
+**Page 1**
+
+> And you carry the symbol of
+> courage, [Player name].
+
+### 705F
+
+**Page 1**
+
+> I myself, by the way, have that of
+> wisdom.
+
+**Page 2**
+
+> For this belongs to the seventh
+> wise man, whose destiny is to
+> become the master of all other
+> wise men.
+
+### 7060
+
+**Page 1**
+
+> I've been Zelda, Princess of Hyrule,
+> this whole time.
+
+### 7061 · Zelda explains why she appeared as Sheik
+
+**Page 1**
+
+> Sorry I led you on like that.
+> Friedrich Merz couldn't be allowed
+> to find me.
+
+**Page 2**
+
+> Friedrich Merz doesn't respect
+> trans people, so I've been keeping a
+> low profile.
